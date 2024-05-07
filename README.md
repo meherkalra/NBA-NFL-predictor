@@ -1,3 +1,3 @@
 # NBA-NFL-predictor
 
-'api.py'
+`api.py`: The DataAPI class manages statistics and betting odds data for individual players. I initialize directory paths for different types of data, including game stats, player stats, and betting odds. The class can load and group game data by date, extract and structure player statistics, align odds data with the closest available game dates, and save this data. By reversing the player index dictionary, I efficiently map between player IDs and names easily retrieve game and odds data for individual players.
