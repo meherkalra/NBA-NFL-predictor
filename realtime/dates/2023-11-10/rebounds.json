@@ -1,0 +1,537 @@
+{
+    "Ausar Thompson": {
+        "line": 7.5,
+        "over_odds": -125.0,
+        "under_odds": 100.0
+    },
+    "Cade Cunningham": {
+        "line": 3.5,
+        "over_odds": -145.0,
+        "under_odds": 110.0
+    },
+    "De'Anthony Melton": {
+        "line": 3.5,
+        "over_odds": 125.0,
+        "under_odds": -160.0
+    },
+    "Isaiah Stewart": {
+        "line": 6.5,
+        "over_odds": -120.0,
+        "under_odds": -105.0
+    },
+    "Jalen Duren": {
+        "line": 9.5,
+        "over_odds": -105.0,
+        "under_odds": -120.0
+    },
+    "Joel Embiid": {
+        "line": 10.5,
+        "over_odds": 100.0,
+        "under_odds": -130.0
+    },
+    "Kelly Oubre Jr.": {
+        "line": 4.5,
+        "over_odds": 105.0,
+        "under_odds": -135.0
+    },
+    "Killian Hayes": {
+        "line": 3.5,
+        "over_odds": 125.0,
+        "under_odds": -160.0
+    },
+    "Marcus Sasser": {
+        "line": 2.5,
+        "over_odds": -130.0,
+        "under_odds": 105.0
+    },
+    "Marvin Bagley": {
+        "line": 3.5,
+        "over_odds": -160.0,
+        "under_odds": 125.0
+    },
+    "Nicolas Batum": {
+        "line": 2.5,
+        "over_odds": -145.0,
+        "under_odds": 115.0
+    },
+    "Patrick Beverley": {
+        "line": 2.5,
+        "over_odds": 120.0,
+        "under_odds": -155.0
+    },
+    "Paul Reed": {
+        "line": 4.5,
+        "over_odds": 105.0,
+        "under_odds": -135.0
+    },
+    "Tobias Harris": {
+        "line": 5.5,
+        "over_odds": -145.0,
+        "under_odds": 110.0
+    },
+    "Tyrese Maxey": {
+        "line": 3.5,
+        "over_odds": -125.0,
+        "under_odds": 100.0
+    },
+    "Bilal Coulibaly": {
+        "line": 2.5,
+        "over_odds": -165.0,
+        "under_odds": 130.0
+    },
+    "Brandon Miller": {
+        "line": 4.5,
+        "over_odds": -150.0,
+        "under_odds": 115.0
+    },
+    "Corey Kispert": {
+        "line": 2.5,
+        "over_odds": 110.0,
+        "under_odds": -140.0
+    },
+    "Daniel Gafford": {
+        "line": 6.5,
+        "over_odds": 100.0,
+        "under_odds": -130.0
+    },
+    "Danilo Gallinari": {
+        "line": 3.5,
+        "over_odds": 120.0,
+        "under_odds": -155.0
+    },
+    "Delon Wright": {
+        "line": 2.5,
+        "over_odds": -110.0,
+        "under_odds": -115.0
+    },
+    "Deni Avdija": {
+        "line": 6.5,
+        "over_odds": 105.0,
+        "under_odds": -135.0
+    },
+    "Gordon Hayward": {
+        "line": 4.5,
+        "over_odds": -155.0,
+        "under_odds": 120.0
+    },
+    "Jordan Poole": {
+        "line": 2.5,
+        "over_odds": -120.0,
+        "under_odds": -105.0
+    },
+    "JT Thor": {
+        "line": 2.5,
+        "over_odds": -150.0,
+        "under_odds": 115.0
+    },
+    "Kyle Kuzma": {
+        "line": 6.5,
+        "over_odds": -130.0,
+        "under_odds": 105.0
+    },
+    "LaMelo Ball": {
+        "line": 6.5,
+        "over_odds": -110.0,
+        "under_odds": -115.0
+    },
+    "Mark Williams ": {
+        "line": 8.5,
+        "over_odds": -120.0,
+        "under_odds": -110.0
+    },
+    "Nick Richards": {
+        "line": 6.5,
+        "over_odds": 105.0,
+        "under_odds": -130.0
+    },
+    "P.J. Washington": {
+        "line": 5.5,
+        "over_odds": 120.0,
+        "under_odds": -155.0
+    },
+    "Theo Maledon": {
+        "line": 2.5,
+        "over_odds": 120.0,
+        "under_odds": -150.0
+    },
+    "Tyus Jones": {
+        "line": 2.5,
+        "over_odds": -115.0,
+        "under_odds": -115.0
+    },
+    "Derrick White": {
+        "line": 3.5,
+        "over_odds": -150.0,
+        "under_odds": 115.0
+    },
+    "Dorian Finney-Smith": {
+        "line": 6.5,
+        "over_odds": 110.0,
+        "under_odds": -140.0
+    },
+    "Jaylen Brown": {
+        "line": 6.5,
+        "over_odds": 115.0,
+        "under_odds": -145.0
+    },
+    "Jayson Tatum": {
+        "line": 9.5,
+        "over_odds": -135.0,
+        "under_odds": 105.0
+    },
+    "Jrue Holiday": {
+        "line": 5.5,
+        "over_odds": -120.0,
+        "under_odds": -110.0
+    },
+    "Kristaps Porzingis": {
+        "line": 8.5,
+        "over_odds": -120.0,
+        "under_odds": -110.0
+    },
+    "Mikal Bridges": {
+        "line": 5.5,
+        "over_odds": -135.0,
+        "under_odds": 105.0
+    },
+    "Royce O'Neale": {
+        "line": 6.5,
+        "over_odds": -120.0,
+        "under_odds": -105.0
+    },
+    "Sam Hauser": {
+        "line": 2.5,
+        "over_odds": -160.0,
+        "under_odds": 125.0
+    },
+    "Spencer Dinwiddie": {
+        "line": 3.5,
+        "over_odds": -120.0,
+        "under_odds": -105.0
+    },
+    "Anthony Edwards": {
+        "line": 5.5,
+        "over_odds": 125.0,
+        "under_odds": -160.0
+    },
+    "Jaden McDaniels": {
+        "line": 2.5,
+        "over_odds": -170.0,
+        "under_odds": 130.0
+    },
+    "Jeremy Sochan": {
+        "line": 4.5,
+        "over_odds": -135.0,
+        "under_odds": 105.0
+    },
+    "Karl-Anthony Towns": {
+        "line": 8.5,
+        "over_odds": 105.0,
+        "under_odds": -135.0
+    },
+    "Keldon Johnson": {
+        "line": 5.5,
+        "over_odds": 115.0,
+        "under_odds": -150.0
+    },
+    "Kyle Anderson": {
+        "line": 3.5,
+        "over_odds": -150.0,
+        "under_odds": 115.0
+    },
+    "Mike Conley": {
+        "line": 2.5,
+        "over_odds": 105.0,
+        "under_odds": -135.0
+    },
+    "Naz Reid": {
+        "line": 4.5,
+        "over_odds": -150.0,
+        "under_odds": 120.0
+    },
+    "Rudy Gobert": {
+        "line": 12.5,
+        "over_odds": -115.0,
+        "under_odds": -110.0
+    },
+    "Victor Wembanyama": {
+        "line": 8.5,
+        "over_odds": -110.0,
+        "under_odds": -120.0
+    },
+    "Zach Collins": {
+        "line": 6.5,
+        "over_odds": -145.0,
+        "under_odds": 110.0
+    },
+    "Desmond Bane": {
+        "line": 5.5,
+        "over_odds": 110.0,
+        "under_odds": -140.0
+    },
+    "Jaren Jackson Jr.": {
+        "line": 7.5,
+        "over_odds": -110.0,
+        "under_odds": -120.0
+    },
+    "John Collins": {
+        "line": 8.5,
+        "over_odds": -110.0,
+        "under_odds": -115.0
+    },
+    "Jordan Clarkson": {
+        "line": 3.5,
+        "over_odds": -140.0,
+        "under_odds": 110.0
+    },
+    "Lauri Markkanen": {
+        "line": 9.5,
+        "over_odds": 105.0,
+        "under_odds": -135.0
+    },
+    "Marcus Smart": {
+        "line": 3.5,
+        "over_odds": 120.0,
+        "under_odds": -150.0
+    },
+    "Ziaire Williams": {
+        "line": 3.5,
+        "over_odds": -160.0,
+        "under_odds": 125.0
+    },
+    "Alperen Sengun": {
+        "line": 8.5,
+        "over_odds": -125.0,
+        "under_odds": 100.0
+    },
+    "Brandon Ingram": {
+        "line": 5.5,
+        "over_odds": 100.0,
+        "under_odds": -130.0
+    },
+    "Dillon Brooks": {
+        "line": 3.5,
+        "over_odds": -105.0,
+        "under_odds": -120.0
+    },
+    "Fred VanVleet": {
+        "line": 3.5,
+        "over_odds": -150.0,
+        "under_odds": 120.0
+    },
+    "Herbert Jones": {
+        "line": 3.5,
+        "over_odds": -150.0,
+        "under_odds": 115.0
+    },
+    "Jabari Smith Jr.": {
+        "line": 7.5,
+        "over_odds": -115.0,
+        "under_odds": -115.0
+    },
+    "Jalen Green": {
+        "line": 3.5,
+        "over_odds": -115.0,
+        "under_odds": -110.0
+    },
+    "Jonas Valanciunas": {
+        "line": 9.5,
+        "over_odds": -120.0,
+        "under_odds": -110.0
+    },
+    "Jordan Hawkins": {
+        "line": 3.5,
+        "over_odds": -105.0,
+        "under_odds": -125.0
+    },
+    "Zion Williamson": {
+        "line": 6.5,
+        "over_odds": -135.0,
+        "under_odds": 105.0
+    },
+    "Dereck Lively II": {
+        "line": 6.5,
+        "over_odds": 100.0,
+        "under_odds": -130.0
+    },
+    "Grant Williams": {
+        "line": 4.5,
+        "over_odds": -105.0,
+        "under_odds": -120.0
+    },
+    "Ivica Zubac": {
+        "line": 8.5,
+        "over_odds": -130.0,
+        "under_odds": 100.0
+    },
+    "James Harden": {
+        "line": 5.5,
+        "over_odds": 110.0,
+        "under_odds": -140.0
+    },
+    "Kawhi Leonard": {
+        "line": 6.5,
+        "over_odds": 105.0,
+        "under_odds": -135.0
+    },
+    "Kyrie Irving": {
+        "line": 4.5,
+        "over_odds": -110.0,
+        "under_odds": -115.0
+    },
+    "Luka Doncic": {
+        "line": 9.5,
+        "over_odds": -105.0,
+        "under_odds": -125.0
+    },
+    "Norman Powell": {
+        "line": 2.5,
+        "over_odds": 105.0,
+        "under_odds": -135.0
+    },
+    "Paul George": {
+        "line": 5.5,
+        "over_odds": -125.0,
+        "under_odds": 100.0
+    },
+    "Russell Westbrook": {
+        "line": 5.5,
+        "over_odds": -135.0,
+        "under_odds": 105.0
+    },
+    "Terance Mann": {
+        "line": 3.5,
+        "over_odds": 100.0,
+        "under_odds": -130.0
+    },
+    "Tim Hardaway Jr.": {
+        "line": 2.5,
+        "over_odds": -170.0,
+        "under_odds": 135.0
+    },
+    "Anthony Davis": {
+        "line": 11.5,
+        "over_odds": -110.0,
+        "under_odds": -120.0
+    },
+    "Austin Reaves": {
+        "line": 3.5,
+        "over_odds": 100.0,
+        "under_odds": -125.0
+    },
+    "Bradley Beal": {
+        "line": 3.5,
+        "over_odds": 105.0,
+        "under_odds": -135.0
+    },
+    "Christian Wood": {
+        "line": 5.5,
+        "over_odds": -105.0,
+        "under_odds": -120.0
+    },
+    "D'Angelo Russell": {
+        "line": 2.5,
+        "over_odds": -135.0,
+        "under_odds": 105.0
+    },
+    "Drew Eubanks": {
+        "line": 4.5,
+        "over_odds": -140.0,
+        "under_odds": 110.0
+    },
+    "Grayson Allen": {
+        "line": 3.5,
+        "over_odds": -105.0,
+        "under_odds": -120.0
+    },
+    "Jusuf Nurkic": {
+        "line": 8.5,
+        "over_odds": -135.0,
+        "under_odds": 105.0
+    },
+    "Keita Bates-Diop": {
+        "line": 3.5,
+        "over_odds": -145.0,
+        "under_odds": 115.0
+    },
+    "Kevin Durant": {
+        "line": 7.5,
+        "over_odds": 115.0,
+        "under_odds": -145.0
+    },
+    "LeBron James": {
+        "line": 7.5,
+        "over_odds": -115.0,
+        "under_odds": -110.0
+    },
+    "Rui Hachimura": {
+        "line": 3.5,
+        "over_odds": 120.0,
+        "under_odds": -150.0
+    },
+    "Taurean Prince": {
+        "line": 2.5,
+        "over_odds": -105.0,
+        "under_odds": -120.0
+    },
+    "Cason Wallace": {
+        "line": 2.5,
+        "over_odds": 110.0,
+        "under_odds": -140.0
+    },
+    "Chet Holmgren ": {
+        "line": 7.5,
+        "over_odds": -110.0,
+        "under_odds": -115.0
+    },
+    "Domantas Sabonis": {
+        "line": 12.5,
+        "over_odds": -140.0,
+        "under_odds": 110.0
+    },
+    "Harrison Barnes": {
+        "line": 3.5,
+        "over_odds": 110.0,
+        "under_odds": -145.0
+    },
+    "Isaiah Joe": {
+        "line": 2.5,
+        "over_odds": 100.0,
+        "under_odds": -130.0
+    },
+    "Jalen Williams": {
+        "line": 4.5,
+        "over_odds": -110.0,
+        "under_odds": -115.0
+    },
+    "Josh Giddey": {
+        "line": 6.5,
+        "over_odds": -125.0,
+        "under_odds": -105.0
+    },
+    "Keegan Murray": {
+        "line": 5.5,
+        "over_odds": -125.0,
+        "under_odds": 100.0
+    },
+    "Kevin Huerter": {
+        "line": 4.5,
+        "over_odds": 120.0,
+        "under_odds": -155.0
+    },
+    "Luguentz Dort": {
+        "line": 4.5,
+        "over_odds": -145.0,
+        "under_odds": 115.0
+    },
+    "Malik Monk": {
+        "line": 3.5,
+        "over_odds": 110.0,
+        "under_odds": -140.0
+    },
+    "Shai Gilgeous-Alexander": {
+        "line": 5.5,
+        "over_odds": -120.0,
+        "under_odds": -110.0
+    }
+}
