@@ -4,6 +4,12 @@ import pandas as pd
 from datetime import datetime
 from pprint import pprint
 
+'''
+Function: This code defines a DataAPI class that processes and manages basketball/football game, player, and odds data. 
+It includes methods to load and manipulate this data, creating player-specific CSV files. 
+Additionally, it aligns the dates in the player's odds data to the closest available date in the player's stats data. 
+The class can also retrieve player data and odds from the generated CSV files.
+'''
 class DataAPI():
     # Set directories for caching and data storage
     def __init__(self):
