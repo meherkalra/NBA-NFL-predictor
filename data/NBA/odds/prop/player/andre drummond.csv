@@ -1,0 +1,241 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-04-09,8757990bb32f12b3c4d209c732cfd820,draftkings,player_points_over_under,andre drummond,False,10.5,-120,2023-04-08T00:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-09,8757990bb32f12b3c4d209c732cfd820,draftkings,player_steals_over_under,andre drummond,False,0.5,130,2023-04-08T00:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-09,8757990bb32f12b3c4d209c732cfd820,draftkings,player_steals_over_under,andre drummond,True,0.5,-160,2023-04-08T00:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-09,8757990bb32f12b3c4d209c732cfd820,caesars,player_rebounds_over_under,andre drummond,False,9.5,-145,2023-04-08T00:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-09,8757990bb32f12b3c4d209c732cfd820,caesars,player_rebounds_over_under,andre drummond,True,9.5,106,2023-04-08T00:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-09,8757990bb32f12b3c4d209c732cfd820,draftkings,player_rebounds_over_under,andre drummond,False,9.5,-140,2023-04-08T00:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-09,8757990bb32f12b3c4d209c732cfd820,draftkings,player_rebounds_over_under,andre drummond,True,9.5,110,2023-04-08T00:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-09,8757990bb32f12b3c4d209c732cfd820,caesars,player_points_over_under,andre drummond,False,10.5,-129,2023-04-08T00:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-09,8757990bb32f12b3c4d209c732cfd820,caesars,player_points_over_under,andre drummond,True,10.5,-106,2023-04-08T00:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-09,8757990bb32f12b3c4d209c732cfd820,draftkings,player_points_over_under,andre drummond,True,10.5,-110,2023-04-08T00:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-09,8757990bb32f12b3c4d209c732cfd820,draftkings,player_blocks_over_under,andre drummond,False,0.5,110,2023-04-08T00:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-09,8757990bb32f12b3c4d209c732cfd820,draftkings,player_blocks_over_under,andre drummond,True,0.5,-140,2023-04-08T00:30:01,Dallas Mavericks,Chicago Bulls
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_rebounds_over_under,andre drummond,True,6.5,-135,2023-10-26T01:00:04,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_rebounds_over_under,andre drummond,True,7.5,-145,2023-10-26T00:50:08,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_rebounds_over_under,andre drummond,False,3.5,-105,2023-10-26T01:45:04,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_assists_over_under,andre drummond,True,0.5,1000,2023-10-26T02:00:40,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_rebounds_over_under,andre drummond,False,5.5,-125,2023-10-26T01:55:11,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_rebounds_over_under,andre drummond,True,5.5,-105,2023-10-26T01:55:11,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_rebounds_over_under,andre drummond,False,4.5,120,2023-10-26T02:16:10,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_rebounds_over_under,andre drummond,True,4.5,-160,2023-10-26T02:16:10,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_rebounds_over_under,andre drummond,False,4.5,122,2023-10-26T02:15:08,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,pinnacle,player_rebounds_over_under,andre drummond,False,5.5,-115,2023-10-25T20:05:33,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,pinnacle,player_rebounds_over_under,andre drummond,True,5.5,-115,2023-10-25T20:05:33,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_rebounds_over_under,andre drummond,False,7.5,110,2023-10-26T00:50:25,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_rebounds_over_under,andre drummond,False,6.5,116,2023-10-26T01:00:15,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_rebounds_over_under,andre drummond,False,5.5,-128,2023-10-26T01:55:20,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_rebounds_over_under,andre drummond,False,6.5,100,2023-10-26T01:00:04,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_rebounds_over_under,andre drummond,False,3.5,-102,2023-10-26T01:45:04,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_rebounds_over_under,andre drummond,True,3.5,-125,2023-10-26T01:45:04,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_rebounds_over_under,andre drummond,False,7.5,110,2023-10-26T00:50:08,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,barstool,player_rebounds_over_under,andre drummond,False,6.5,105,2023-10-26T01:00:29,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,betmgm,player_rebounds_over_under,andre drummond,False,5.5,-115,2023-10-26T00:40:59,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,barstool,player_steals_over_under,andre drummond,False,0.5,-250,2023-10-26T00:30:04,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,barstool,player_steals_over_under,andre drummond,True,0.5,165,2023-10-26T00:30:04,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,betmgm,player_steals_over_under,andre drummond,True,0.5,160,2023-10-26T00:40:59,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_steals_over_under,andre drummond,False,1.5,-4000,2023-10-26T02:16:10,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_steals_over_under,andre drummond,False,0.5,-225,2023-10-26T00:45:04,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_steals_over_under,andre drummond,True,1.5,950,2023-10-26T02:16:10,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_steals_over_under,andre drummond,True,0.5,165,2023-10-26T00:45:04,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_steals_over_under,andre drummond,False,1.5,-4000,2023-10-26T02:15:08,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_steals_over_under,andre drummond,False,0.5,-245,2023-10-26T00:50:25,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_steals_over_under,andre drummond,True,1.5,1000,2023-10-26T02:00:40,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_steals_over_under,andre drummond,True,0.5,178,2023-10-26T00:50:25,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_rebounds_over_under,andre drummond,True,7.5,-146,2023-10-26T00:50:25,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,barstool,player_rebounds_over_under,andre drummond,False,5.5,-120,2023-10-26T01:15:30,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,barstool,player_rebounds_over_under,andre drummond,True,6.5,-150,2023-10-26T01:00:29,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,barstool,player_rebounds_over_under,andre drummond,True,5.5,-120,2023-10-26T01:15:30,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,betmgm,player_rebounds_over_under,andre drummond,True,5.5,-115,2023-10-26T00:40:59,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_rebounds_over_under,andre drummond,True,6.5,-154,2023-10-26T01:00:15,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,betmgm,player_steals_over_under,andre drummond,False,0.5,-210,2023-10-26T00:40:59,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_rebounds_over_under,andre drummond,True,4.5,-162,2023-10-26T02:15:08,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_points_over_under,andre drummond,True,6.5,255,2023-10-26T02:10:12,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_points_over_under,andre drummond,True,5.5,-122,2023-10-26T01:45:04,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_points_over_under,andre drummond,True,4.5,110,2023-10-26T00:30:16,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_points_over_under,andre drummond,True,3.5,112,2023-10-26T00:50:25,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,barstool,player_blocks_over_under,andre drummond,False,0.5,-400,2023-10-26T01:15:30,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,barstool,player_blocks_over_under,andre drummond,True,0.5,250,2023-10-26T01:15:30,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,betmgm,player_blocks_over_under,andre drummond,False,0.5,-190,2023-10-26T00:40:59,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,betmgm,player_blocks_over_under,andre drummond,True,0.5,140,2023-10-26T00:40:59,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_blocks_over_under,andre drummond,False,0.5,-2000,2023-10-26T02:16:10,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_blocks_over_under,andre drummond,True,0.5,750,2023-10-26T02:16:10,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_blocks_over_under,andre drummond,False,0.5,-2200,2023-10-26T02:15:08,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_blocks_over_under,andre drummond,True,0.5,800,2023-10-26T02:15:08,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,barstool,player_assists_over_under,andre drummond,False,0.5,-195,2023-10-26T00:16:01,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,betmgm,player_assists_over_under,andre drummond,False,0.5,-190,2023-10-26T00:40:59,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,betmgm,player_assists_over_under,andre drummond,True,0.5,145,2023-10-26T00:40:59,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_assists_over_under,andre drummond,False,0.5,-190,2023-10-26T00:00:19,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_assists_over_under,andre drummond,True,0.5,150,2023-10-26T00:00:19,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_assists_over_under,andre drummond,False,1.5,-2000,2023-10-26T02:15:08,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_assists_over_under,andre drummond,False,0.5,-8000,2023-10-26T02:10:12,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_assists_over_under,andre drummond,True,1.5,750,2023-10-26T02:15:08,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_rebounds_over_under,andre drummond,True,5.5,-104,2023-10-26T01:55:20,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_points_over_under,andre drummond,True,7.5,172,2023-10-26T01:51:13,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_points_over_under,andre drummond,False,3.5,-142,2023-10-26T00:50:25,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,barstool,player_assists_over_under,andre drummond,True,0.5,140,2023-10-26T00:16:01,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_points_over_under,andre drummond,False,5.5,-104,2023-10-26T01:45:04,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_rebounds_over_under,andre drummond,True,3.5,-130,2023-10-26T01:45:04,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_points_over_under,andre drummond,False,4.5,-140,2023-10-26T00:30:16,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,barstool,player_points_over_under,andre drummond,False,7.5,105,2023-10-26T01:00:29,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,barstool,player_points_over_under,andre drummond,False,4.5,-125,2023-10-26T00:30:04,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,barstool,player_points_over_under,andre drummond,True,7.5,-150,2023-10-26T01:00:29,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,betmgm,player_points_over_under,andre drummond,False,4.5,-115,2023-10-26T00:40:59,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,betmgm,player_points_over_under,andre drummond,True,4.5,-115,2023-10-26T00:40:59,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_points_over_under,andre drummond,False,7.5,-110,2023-10-26T01:55:11,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_points_over_under,andre drummond,False,6.5,-175,2023-10-26T02:16:10,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_points_over_under,andre drummond,False,5.5,100,2023-10-26T01:40:04,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_points_over_under,andre drummond,False,4.5,-170,2023-10-26T01:45:04,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,barstool,player_points_over_under,andre drummond,True,4.5,-115,2023-10-26T00:30:04,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_points_over_under,andre drummond,False,1.5,105,2023-10-26T00:41:24,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_points_over_under,andre drummond,True,7.5,-120,2023-10-26T01:55:11,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_points_over_under,andre drummond,True,6.5,130,2023-10-26T02:16:10,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_points_over_under,andre drummond,True,5.5,-130,2023-10-26T01:40:04,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_points_over_under,andre drummond,True,4.5,125,2023-10-26T01:45:04,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_points_over_under,andre drummond,True,3.5,-125,2023-10-26T00:35:04,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_points_over_under,andre drummond,True,1.5,-140,2023-10-26T00:41:24,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_points_over_under,andre drummond,False,6.5,-1400,2023-10-26T02:15:08,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_points_over_under,andre drummond,False,3.5,-105,2023-10-26T00:35:04,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_points_over_under,andre drummond,False,7.5,-225,2023-10-26T01:51:13,Chicago Bulls,Oklahoma City Thunder
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,fanduel,player_rebounds_over_under,andre drummond,True,7.5,130,2023-10-29T00:50:46,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,fanduel,player_rebounds_over_under,andre drummond,False,3.5,114,2023-10-29T00:45:12,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,fanduel,player_rebounds_over_under,andre drummond,False,4.5,-125,2023-10-29T00:40:11,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,fanduel,player_rebounds_over_under,andre drummond,False,5.5,-50000,2023-10-29T01:20:59,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,fanduel,player_rebounds_over_under,andre drummond,False,6.5,118,2023-10-29T00:55:03,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,fanduel,player_rebounds_over_under,andre drummond,False,7.5,-174,2023-10-29T00:50:46,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,draftkings,player_rebounds_over_under,andre drummond,True,4.5,115,2023-10-29T00:45:50,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,pinnacle,player_rebounds_over_under,andre drummond,False,5.5,-142,2023-10-28T22:45:29,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,draftkings,player_rebounds_over_under,andre drummond,True,3.5,-105,2023-10-28T23:45:23,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,draftkings,player_rebounds_over_under,andre drummond,True,5.5,800,2023-10-29T01:15:29,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,draftkings,player_rebounds_over_under,andre drummond,True,6.5,-155,2023-10-29T00:55:18,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,fanduel,player_rebounds_over_under,andre drummond,True,6.5,-158,2023-10-29T00:55:03,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,draftkings,player_rebounds_over_under,andre drummond,False,3.5,-125,2023-10-28T23:55:08,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,draftkings,player_rebounds_over_under,andre drummond,True,7.5,125,2023-10-29T00:50:26,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,pinnacle,player_rebounds_over_under,andre drummond,True,5.5,107,2023-10-28T22:45:29,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,fanduel,player_rebounds_over_under,andre drummond,True,5.5,1000,2023-10-29T01:20:59,Detroit Pistons,Chicago Bulls
+2023-10-28,29ea738c1de18c8f28c09966bb267752,draftkings,player_rebounds_over_under,andre drummond,False,4.5,-145,2023-10-28T01:55:15,Chicago Bulls,Toronto Raptors
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,fanduel,player_rebounds_over_under,andre drummond,True,3.5,-152,2023-10-29T00:45:12,Detroit Pistons,Chicago Bulls
+2023-10-28,29ea738c1de18c8f28c09966bb267752,draftkings,player_rebounds_over_under,andre drummond,True,2.5,650,2023-10-28T02:15:46,Chicago Bulls,Toronto Raptors
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,draftkings,player_rebounds_over_under,andre drummond,False,4.5,-155,2023-10-29T00:45:50,Detroit Pistons,Chicago Bulls
+2023-10-28,29ea738c1de18c8f28c09966bb267752,draftkings,player_rebounds_over_under,andre drummond,True,3.5,-105,2023-10-28T01:45:09,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,draftkings,player_rebounds_over_under,andre drummond,True,4.5,110,2023-10-28T01:55:15,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,draftkings,player_rebounds_over_under,andre drummond,True,6.5,100,2023-10-28T00:40:14,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,draftkings,player_rebounds_over_under,andre drummond,False,2.5,-1600,2023-10-28T02:15:46,Chicago Bulls,Toronto Raptors
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,fanduel,player_rebounds_over_under,andre drummond,True,4.5,-106,2023-10-29T00:40:11,Detroit Pistons,Chicago Bulls
+2023-10-28,29ea738c1de18c8f28c09966bb267752,draftkings,player_rebounds_over_under,andre drummond,False,3.5,-125,2023-10-28T01:45:09,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,betmgm,player_rebounds_over_under,andre drummond,True,4.5,-120,2023-10-27T17:50:20,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,betmgm,player_rebounds_over_under,andre drummond,False,4.5,-110,2023-10-27T17:50:20,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,barstool,player_rebounds_over_under,andre drummond,True,4.5,-105,2023-10-28T00:30:31,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,barstool,player_rebounds_over_under,andre drummond,True,6.5,100,2023-10-28T00:40:05,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,barstool,player_rebounds_over_under,andre drummond,False,4.5,-135,2023-10-28T00:30:31,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,barstool,player_rebounds_over_under,andre drummond,False,6.5,-140,2023-10-28T00:40:05,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,draftkings,player_rebounds_over_under,andre drummond,False,6.5,-130,2023-10-28T00:40:14,Chicago Bulls,Toronto Raptors
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,draftkings,player_rebounds_over_under,andre drummond,False,5.5,-2500,2023-10-29T01:15:29,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,fanduel,player_steals_over_under,andre drummond,False,3.5,-100000,2023-10-29T01:20:59,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,draftkings,player_rebounds_over_under,andre drummond,False,7.5,-170,2023-10-29T00:50:26,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,fanduel,player_steals_over_under,andre drummond,False,0.5,-182,2023-10-28T23:35:07,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,fanduel,player_steals_over_under,andre drummond,False,1.5,-250,2023-10-28T23:45:26,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,fanduel,player_steals_over_under,andre drummond,False,2.5,-470,2023-10-29T00:45:12,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,draftkings,player_steals_over_under,andre drummond,True,0.5,125,2023-10-28T23:35:31,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,draftkings,player_steals_over_under,andre drummond,True,1.5,170,2023-10-28T23:50:05,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,draftkings,player_steals_over_under,andre drummond,True,2.5,330,2023-10-29T00:41:00,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,fanduel,player_steals_over_under,andre drummond,True,3.5,1000,2023-10-29T01:00:05,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,draftkings,player_steals_over_under,andre drummond,True,3.5,330,2023-10-29T00:50:26,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,draftkings,player_steals_over_under,andre drummond,False,1.5,-235,2023-10-28T23:50:05,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,draftkings,player_steals_over_under,andre drummond,False,2.5,-500,2023-10-29T00:41:00,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,draftkings,player_steals_over_under,andre drummond,False,3.5,-525,2023-10-29T00:50:26,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,barstool,player_steals_over_under,andre drummond,True,0.5,130,2023-10-28T23:35:16,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,barstool,player_steals_over_under,andre drummond,True,2.5,280,2023-10-29T00:45:04,Detroit Pistons,Chicago Bulls
+2023-10-28,29ea738c1de18c8f28c09966bb267752,fanduel,player_rebounds_over_under,andre drummond,False,6.5,-144,2023-10-28T00:40:34,Chicago Bulls,Toronto Raptors
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,draftkings,player_steals_over_under,andre drummond,False,0.5,-170,2023-10-28T23:35:31,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,draftkings,player_rebounds_over_under,andre drummond,False,6.5,115,2023-10-29T00:55:18,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,fanduel,player_steals_over_under,andre drummond,True,2.5,310,2023-10-29T00:45:12,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,fanduel,player_steals_over_under,andre drummond,True,0.5,136,2023-10-28T23:35:07,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,barstool,player_rebounds_over_under,andre drummond,True,3.5,-160,2023-10-29T00:45:04,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,barstool,player_rebounds_over_under,andre drummond,True,4.5,-110,2023-10-29T00:40:05,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,barstool,player_rebounds_over_under,andre drummond,True,5.5,100,2023-10-28T23:30:05,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,barstool,player_rebounds_over_under,andre drummond,False,3.5,110,2023-10-29T00:45:04,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,barstool,player_rebounds_over_under,andre drummond,False,4.5,-130,2023-10-29T00:40:05,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,barstool,player_rebounds_over_under,andre drummond,False,5.5,-140,2023-10-28T23:30:05,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,fanduel,player_steals_over_under,andre drummond,True,1.5,182,2023-10-28T23:45:26,Detroit Pistons,Chicago Bulls
+2023-10-28,29ea738c1de18c8f28c09966bb267752,fanduel,player_steals_over_under,andre drummond,True,0.5,1000,2023-10-28T02:06:09,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,draftkings,player_steals_over_under,andre drummond,True,0.5,750,2023-10-28T02:05:04,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,draftkings,player_steals_over_under,andre drummond,False,0.5,-2000,2023-10-28T02:05:04,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,betmgm,player_steals_over_under,andre drummond,True,0.5,190,2023-10-27T18:20:12,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,betmgm,player_steals_over_under,andre drummond,False,0.5,-275,2023-10-27T17:50:20,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,barstool,player_steals_over_under,andre drummond,True,0.5,200,2023-10-28T00:30:31,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,barstool,player_steals_over_under,andre drummond,False,0.5,-300,2023-10-28T00:30:31,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,fanduel,player_steals_over_under,andre drummond,False,0.5,-100000,2023-10-28T02:06:09,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,fanduel,player_rebounds_over_under,andre drummond,False,5.5,-152,2023-10-28T00:45:21,Chicago Bulls,Toronto Raptors
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,fanduel,player_blocks_over_under,andre drummond,False,1.5,-100000,2023-10-29T01:20:59,Detroit Pistons,Chicago Bulls
+2023-10-28,29ea738c1de18c8f28c09966bb267752,fanduel,player_rebounds_over_under,andre drummond,False,3.5,-104,2023-10-28T02:00:35,Chicago Bulls,Toronto Raptors
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,fanduel,player_blocks_over_under,andre drummond,True,0.5,300,2023-10-29T00:45:12,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,fanduel,player_blocks_over_under,andre drummond,True,1.5,1000,2023-10-29T01:00:05,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,fanduel,player_blocks_over_under,andre drummond,False,0.5,-450,2023-10-29T00:45:12,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,barstool,player_steals_over_under,andre drummond,False,0.5,-185,2023-10-28T23:35:16,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,draftkings,player_blocks_over_under,andre drummond,True,0.5,320,2023-10-29T00:45:50,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,draftkings,player_blocks_over_under,andre drummond,True,1.5,425,2023-10-29T00:50:26,Detroit Pistons,Chicago Bulls
+2023-10-28,29ea738c1de18c8f28c09966bb267752,barstool,player_blocks_over_under,andre drummond,False,1.5,-2000,2023-10-27T23:15:15,Chicago Bulls,Toronto Raptors
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,draftkings,player_blocks_over_under,andre drummond,False,0.5,-500,2023-10-29T00:45:50,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,barstool,player_blocks_over_under,andre drummond,True,0.5,270,2023-10-29T00:30:09,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,barstool,player_blocks_over_under,andre drummond,False,0.5,-450,2023-10-29T00:30:09,Detroit Pistons,Chicago Bulls
+2023-10-28,29ea738c1de18c8f28c09966bb267752,draftkings,player_points_over_under,andre drummond,True,3.5,-135,2023-10-28T00:35:21,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,draftkings,player_points_over_under,andre drummond,True,4.5,-105,2023-10-28T01:45:09,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,draftkings,player_points_over_under,andre drummond,True,5.5,-135,2023-10-28T01:30:54,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,draftkings,player_points_over_under,andre drummond,True,6.5,145,2023-10-28T01:55:15,Chicago Bulls,Toronto Raptors
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,draftkings,player_blocks_over_under,andre drummond,False,1.5,-700,2023-10-29T00:55:18,Detroit Pistons,Chicago Bulls
+2023-10-28,29ea738c1de18c8f28c09966bb267752,draftkings,player_points_over_under,andre drummond,True,7.5,-150,2023-10-28T00:40:14,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,barstool,player_blocks_over_under,andre drummond,False,0.5,-260,2023-10-28T00:40:05,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,barstool,player_blocks_over_under,andre drummond,True,0.5,170,2023-10-28T00:40:05,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,fanduel,player_assists_over_under,andre drummond,True,0.5,1000,2023-10-28T02:06:09,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,fanduel,player_assists_over_under,andre drummond,False,0.5,-100000,2023-10-28T02:20:10,Chicago Bulls,Toronto Raptors
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,fanduel,player_assists_over_under,andre drummond,True,0.5,194,2023-10-28T23:40:44,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,fanduel,player_assists_over_under,andre drummond,True,1.5,390,2023-10-29T00:50:46,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,fanduel,player_assists_over_under,andre drummond,True,2.5,1000,2023-10-29T01:00:05,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,fanduel,player_assists_over_under,andre drummond,False,0.5,-270,2023-10-28T23:40:44,Detroit Pistons,Chicago Bulls
+2023-10-28,29ea738c1de18c8f28c09966bb267752,barstool,player_blocks_over_under,andre drummond,True,1.5,650,2023-10-27T23:15:15,Chicago Bulls,Toronto Raptors
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,fanduel,player_assists_over_under,andre drummond,False,1.5,-650,2023-10-29T00:50:46,Detroit Pistons,Chicago Bulls
+2023-10-28,29ea738c1de18c8f28c09966bb267752,fanduel,player_blocks_over_under,andre drummond,True,0.5,1000,2023-10-28T02:06:09,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,fanduel,player_blocks_over_under,andre drummond,False,0.5,-100000,2023-10-28T02:20:10,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,draftkings,player_blocks_over_under,andre drummond,True,0.5,750,2023-10-28T02:05:04,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,draftkings,player_blocks_over_under,andre drummond,False,0.5,-2000,2023-10-28T02:05:04,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,betmgm,player_blocks_over_under,andre drummond,True,0.5,220,2023-10-27T17:50:20,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,betmgm,player_blocks_over_under,andre drummond,False,0.5,-300,2023-10-27T17:50:20,Chicago Bulls,Toronto Raptors
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,fanduel,player_assists_over_under,andre drummond,False,2.5,-100000,2023-10-29T01:20:59,Detroit Pistons,Chicago Bulls
+2023-10-28,29ea738c1de18c8f28c09966bb267752,fanduel,player_rebounds_over_under,andre drummond,False,4.5,-162,2023-10-28T01:55:23,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,draftkings,player_points_over_under,andre drummond,True,8.5,850,2023-10-28T02:15:46,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,draftkings,player_points_over_under,andre drummond,False,4.5,-125,2023-10-28T01:45:09,Chicago Bulls,Toronto Raptors
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,draftkings,player_points_over_under,andre drummond,False,3.5,135,2023-10-29T00:55:18,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,draftkings,player_points_over_under,andre drummond,False,4.5,-125,2023-10-29T00:45:50,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,draftkings,player_points_over_under,andre drummond,False,5.5,-120,2023-10-28T23:50:05,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,draftkings,player_points_over_under,andre drummond,False,6.5,-150,2023-10-28T23:40:28,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,barstool,player_points_over_under,andre drummond,True,4.5,115,2023-10-29T00:40:05,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,barstool,player_points_over_under,andre drummond,True,5.5,105,2023-10-28T23:15:03,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,draftkings,player_points_over_under,andre drummond,False,2.5,-6000,2023-10-29T01:15:29,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,barstool,player_points_over_under,andre drummond,False,4.5,-165,2023-10-29T00:40:05,Detroit Pistons,Chicago Bulls
+2023-10-28,29ea738c1de18c8f28c09966bb267752,fanduel,player_rebounds_over_under,andre drummond,True,2.5,1000,2023-10-28T02:20:10,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,fanduel,player_rebounds_over_under,andre drummond,True,3.5,-128,2023-10-28T02:00:35,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,fanduel,player_rebounds_over_under,andre drummond,True,4.5,122,2023-10-28T01:55:23,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,fanduel,player_rebounds_over_under,andre drummond,True,5.5,114,2023-10-28T00:45:21,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,fanduel,player_rebounds_over_under,andre drummond,True,6.5,108,2023-10-28T00:40:34,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,fanduel,player_rebounds_over_under,andre drummond,False,2.5,-20000,2023-10-28T02:50:25,Chicago Bulls,Toronto Raptors
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,barstool,player_points_over_under,andre drummond,False,5.5,-135,2023-10-28T23:15:03,Detroit Pistons,Chicago Bulls
+2023-10-28,29ea738c1de18c8f28c09966bb267752,draftkings,player_points_over_under,andre drummond,False,3.5,100,2023-10-28T00:35:21,Chicago Bulls,Toronto Raptors
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,draftkings,player_points_over_under,andre drummond,True,6.5,110,2023-10-28T23:40:28,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,draftkings,player_points_over_under,andre drummond,True,4.5,-105,2023-10-29T00:45:50,Detroit Pistons,Chicago Bulls
+2023-10-28,29ea738c1de18c8f28c09966bb267752,draftkings,player_points_over_under,andre drummond,False,5.5,105,2023-10-28T01:30:54,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,draftkings,player_points_over_under,andre drummond,False,6.5,-200,2023-10-28T01:55:15,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,draftkings,player_points_over_under,andre drummond,False,7.5,110,2023-10-28T00:40:14,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,draftkings,player_points_over_under,andre drummond,False,8.5,-3000,2023-10-28T02:15:46,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,betmgm,player_points_over_under,andre drummond,True,4.5,110,2023-10-27T17:50:20,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,betmgm,player_points_over_under,andre drummond,False,4.5,-145,2023-10-27T17:50:20,Chicago Bulls,Toronto Raptors
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,draftkings,player_points_over_under,andre drummond,True,5.5,-110,2023-10-28T23:50:05,Detroit Pistons,Chicago Bulls
+2023-10-28,29ea738c1de18c8f28c09966bb267752,barstool,player_points_over_under,andre drummond,True,3.5,-140,2023-10-28T00:30:31,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,barstool,player_points_over_under,andre drummond,True,6.5,-110,2023-10-28T00:40:05,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,barstool,player_points_over_under,andre drummond,False,3.5,100,2023-10-28T00:30:31,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,barstool,player_points_over_under,andre drummond,False,4.5,-140,2023-10-28T00:26:52,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,barstool,player_points_over_under,andre drummond,False,6.5,-130,2023-10-28T00:40:05,Chicago Bulls,Toronto Raptors
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,draftkings,player_points_over_under,andre drummond,True,2.5,1100,2023-10-29T01:15:29,Detroit Pistons,Chicago Bulls
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,draftkings,player_points_over_under,andre drummond,True,3.5,-180,2023-10-29T00:55:18,Detroit Pistons,Chicago Bulls
+2023-10-28,29ea738c1de18c8f28c09966bb267752,barstool,player_points_over_under,andre drummond,True,4.5,100,2023-10-28T00:26:52,Chicago Bulls,Toronto Raptors
+2023-10-28,0d19f0f68bb3de882ab3fc019e1618aa,barstool,player_steals_over_under,andre drummond,False,2.5,-475,2023-10-29T00:45:04,Detroit Pistons,Chicago Bulls

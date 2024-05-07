@@ -1,0 +1,7 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,caesars,player_points_over_under,lindy waters iii,True,10.5,-135,2023-04-09T19:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,caesars,player_points_over_under,lindy waters iii,False,10.5,-101,2023-04-09T19:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,caesars,player_rebounds_over_under,lindy waters iii,True,3.5,-145,2023-04-09T19:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,caesars,player_rebounds_over_under,lindy waters iii,False,3.5,106,2023-04-09T19:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,caesars,player_threes_over_under,lindy waters iii,True,2.5,110,2023-04-09T19:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,caesars,player_threes_over_under,lindy waters iii,False,2.5,-151,2023-04-09T19:30:02,Oklahoma City Thunder,Memphis Grizzlies

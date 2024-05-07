@@ -1,0 +1,17 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_blocks_over_under,johnny juzang,True,0.5,320,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_blocks_over_under,johnny juzang,False,0.5,-425,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_points_over_under,johnny juzang,True,9.5,105,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_points_over_under,johnny juzang,False,9.5,-135,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_points_over_under,johnny juzang,True,9.5,102,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_points_over_under,johnny juzang,False,9.5,-139,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_rebounds_over_under,johnny juzang,True,3.5,-125,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_rebounds_over_under,johnny juzang,False,3.5,-105,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_rebounds_over_under,johnny juzang,True,3.5,-125,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_rebounds_over_under,johnny juzang,False,3.5,-109,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_steals_over_under,johnny juzang,True,0.5,130,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_steals_over_under,johnny juzang,False,0.5,-160,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_threes_over_under,johnny juzang,True,1.5,135,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_threes_over_under,johnny juzang,False,1.5,-165,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_threes_over_under,johnny juzang,True,1.5,126,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_threes_over_under,johnny juzang,False,1.5,-174,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets

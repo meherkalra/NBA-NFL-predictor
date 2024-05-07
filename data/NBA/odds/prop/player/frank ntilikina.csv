@@ -1,0 +1,147 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_assists_over_under,frank ntilikina,True,4.5,120,2023-04-08T02:00:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,caesars,player_blocks_over_under,frank ntilikina,False,0.5,-374,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_points_over_under,frank ntilikina,True,7.5,104,2023-04-08T02:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_points_over_under,frank ntilikina,True,9.5,-152,2023-04-08T02:15:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_points_over_under,frank ntilikina,True,10.5,-118,2023-04-08T02:00:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_points_over_under,frank ntilikina,True,12.5,-104,2023-04-08T01:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_points_over_under,frank ntilikina,False,7.5,-138,2023-04-08T02:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,caesars,player_blocks_over_under,frank ntilikina,True,0.5,247,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_points_over_under,frank ntilikina,False,9.5,114,2023-04-08T02:15:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_points_over_under,frank ntilikina,False,12.5,-128,2023-04-08T01:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_points_over_under,frank ntilikina,True,7.5,195,2023-04-08T02:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_points_over_under,frank ntilikina,True,9.5,-145,2023-04-08T02:15:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_points_over_under,frank ntilikina,True,10.5,100,2023-04-08T02:00:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_points_over_under,frank ntilikina,True,12.5,-110,2023-04-08T01:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_points_over_under,frank ntilikina,False,7.5,-270,2023-04-08T02:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_points_over_under,frank ntilikina,False,10.5,-112,2023-04-08T02:00:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_points_over_under,frank ntilikina,False,9.5,110,2023-04-08T02:15:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_blocks_over_under,frank ntilikina,False,1.5,-2500,2023-04-08T02:15:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_blocks_over_under,frank ntilikina,True,1.5,800,2023-04-08T02:15:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_assists_over_under,frank ntilikina,False,4.5,-160,2023-04-08T02:00:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_assists_over_under,frank ntilikina,True,2.5,-140,2023-04-08T01:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_assists_over_under,frank ntilikina,True,3.5,500,2023-04-08T02:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_assists_over_under,frank ntilikina,True,4.5,180,2023-04-08T02:15:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_assists_over_under,frank ntilikina,False,2.5,105,2023-04-08T01:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_assists_over_under,frank ntilikina,False,3.5,-1000,2023-04-08T02:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_blocks_over_under,frank ntilikina,False,0.5,-2000,2023-04-08T02:00:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_assists_over_under,frank ntilikina,False,4.5,-250,2023-04-08T02:15:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,caesars,player_assists_over_under,frank ntilikina,False,3.5,106,2023-04-08T00:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_blocks_over_under,frank ntilikina,True,0.5,750,2023-04-08T02:00:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_blocks_over_under,frank ntilikina,True,1.5,1000,2023-04-08T02:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_blocks_over_under,frank ntilikina,False,0.5,-2000,2023-04-08T02:00:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_blocks_over_under,frank ntilikina,False,1.5,-50000,2023-04-08T02:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_blocks_over_under,frank ntilikina,True,0.5,750,2023-04-08T02:00:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,caesars,player_assists_over_under,frank ntilikina,True,3.5,-145,2023-04-08T00:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_points_over_under,frank ntilikina,False,10.5,-130,2023-04-08T02:00:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_points_over_under,frank ntilikina,False,12.5,-120,2023-04-08T01:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,caesars,player_points_over_under,frank ntilikina,True,10.5,-111,2023-04-08T00:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_steals_over_under,frank ntilikina,True,3.5,300,2023-04-08T02:15:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_steals_over_under,frank ntilikina,False,0.5,130,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_steals_over_under,frank ntilikina,False,1.5,-195,2023-04-08T01:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_steals_over_under,frank ntilikina,False,3.5,-450,2023-04-08T02:15:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,caesars,player_steals_over_under,frank ntilikina,True,0.5,-169,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,caesars,player_steals_over_under,frank ntilikina,False,0.5,123,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_steals_over_under,frank ntilikina,True,1.5,145,2023-04-08T01:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_threes_over_under,frank ntilikina,True,0.5,-240,2023-04-08T00:45:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_threes_over_under,frank ntilikina,False,0.5,174,2023-04-08T00:45:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_threes_over_under,frank ntilikina,False,1.5,-3000,2023-04-08T02:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_threes_over_under,frank ntilikina,True,0.5,-205,2023-04-08T00:45:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_threes_over_under,frank ntilikina,True,1.5,1100,2023-04-08T02:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_threes_over_under,frank ntilikina,False,0.5,150,2023-04-08T00:45:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_threes_over_under,frank ntilikina,False,1.5,-8000,2023-04-08T02:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_threes_over_under,frank ntilikina,True,1.5,880,2023-04-08T02:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_steals_over_under,frank ntilikina,True,0.5,-160,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_steals_over_under,frank ntilikina,False,3.5,-5000,2023-04-08T02:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_steals_over_under,frank ntilikina,False,1.5,-198,2023-04-08T01:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,caesars,player_points_over_under,frank ntilikina,False,10.5,-123,2023-04-08T00:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_rebounds_over_under,frank ntilikina,True,1.5,400,2023-04-08T02:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_rebounds_over_under,frank ntilikina,True,2.5,188,2023-04-08T02:00:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_rebounds_over_under,frank ntilikina,False,1.5,-670,2023-04-08T02:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_rebounds_over_under,frank ntilikina,False,2.5,-250,2023-04-08T02:00:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_rebounds_over_under,frank ntilikina,True,1.5,600,2023-04-08T02:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_rebounds_over_under,frank ntilikina,True,2.5,120,2023-04-08T01:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_rebounds_over_under,frank ntilikina,True,3.5,115,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_rebounds_over_under,frank ntilikina,False,1.5,-1200,2023-04-08T02:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_rebounds_over_under,frank ntilikina,False,2.5,-160,2023-04-08T01:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_rebounds_over_under,frank ntilikina,False,3.5,-145,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,caesars,player_rebounds_over_under,frank ntilikina,True,3.5,112,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,caesars,player_rebounds_over_under,frank ntilikina,False,3.5,-154,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_steals_over_under,frank ntilikina,True,1.5,146,2023-04-08T01:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_steals_over_under,frank ntilikina,True,3.5,1000,2023-04-08T02:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_assists_over_under,frank ntilikina,False,3.5,-490,2023-04-08T02:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_assists_over_under,frank ntilikina,False,2.5,106,2023-04-08T01:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,caesars,player_threes_over_under,frank ntilikina,False,1.5,-174,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_assists_over_under,frank ntilikina,True,3.5,320,2023-04-08T02:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,caesars,player_threes_over_under,frank ntilikina,True,1.5,126,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_assists_over_under,frank ntilikina,True,2.5,-140,2023-04-08T01:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_blocks_over_under,frank ntilikina,False,0.5,-280,2023-04-09T19:45:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_blocks_over_under,frank ntilikina,False,1.5,-2000,2023-04-09T21:15:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,caesars,player_blocks_over_under,frank ntilikina,True,0.5,165,2023-04-09T19:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,caesars,player_blocks_over_under,frank ntilikina,False,0.5,-234,2023-04-09T19:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_points_over_under,frank ntilikina,True,14.5,-102,2023-04-09T19:45:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_points_over_under,frank ntilikina,False,14.5,-130,2023-04-09T19:45:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_blocks_over_under,frank ntilikina,True,1.5,750,2023-04-09T21:15:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_assists_over_under,frank ntilikina,True,3.5,370,2023-04-09T21:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_points_over_under,frank ntilikina,True,13.5,-150,2023-04-09T19:45:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_points_over_under,frank ntilikina,True,14.5,110,2023-04-09T20:00:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_points_over_under,frank ntilikina,False,11.5,-150,2023-04-09T21:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_points_over_under,frank ntilikina,False,12.5,-135,2023-04-09T21:00:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_points_over_under,frank ntilikina,False,13.5,110,2023-04-09T19:45:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_points_over_under,frank ntilikina,False,14.5,-145,2023-04-09T20:00:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_points_over_under,frank ntilikina,True,12.5,105,2023-04-09T21:00:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_points_over_under,frank ntilikina,True,11.5,115,2023-04-09T21:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_blocks_over_under,frank ntilikina,True,0.5,200,2023-04-09T19:45:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_blocks_over_under,frank ntilikina,False,0.5,-290,2023-04-09T19:45:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_assists_over_under,frank ntilikina,True,4.5,178,2023-04-09T21:00:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_assists_over_under,frank ntilikina,False,2.5,-180,2023-04-09T20:15:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_assists_over_under,frank ntilikina,False,3.5,-600,2023-04-09T21:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_assists_over_under,frank ntilikina,False,4.5,-245,2023-04-09T21:00:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_assists_over_under,frank ntilikina,True,2.5,-180,2023-04-09T20:45:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_assists_over_under,frank ntilikina,True,3.5,390,2023-04-09T21:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,caesars,player_points_over_under,frank ntilikina,True,11.5,-131,2023-04-09T19:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_assists_over_under,frank ntilikina,True,4.5,170,2023-04-09T21:00:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_assists_over_under,frank ntilikina,False,3.5,-650,2023-04-09T21:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_assists_over_under,frank ntilikina,False,4.5,-235,2023-04-09T21:00:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,caesars,player_assists_over_under,frank ntilikina,True,3.5,-166,2023-04-09T19:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,caesars,player_assists_over_under,frank ntilikina,False,3.5,120,2023-04-09T19:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_blocks_over_under,frank ntilikina,True,0.5,205,2023-04-09T19:45:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_blocks_over_under,frank ntilikina,True,1.5,1000,2023-04-09T21:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_assists_over_under,frank ntilikina,False,2.5,135,2023-04-09T20:45:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_blocks_over_under,frank ntilikina,False,1.5,-50000,2023-04-09T21:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,caesars,player_points_over_under,frank ntilikina,False,11.5,-104,2023-04-09T19:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_rebounds_over_under,frank ntilikina,True,2.5,410,2023-04-09T21:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_steals_over_under,frank ntilikina,False,0.5,-145,2023-04-09T20:15:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_steals_over_under,frank ntilikina,False,1.5,-8000,2023-04-09T21:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,caesars,player_steals_over_under,frank ntilikina,True,0.5,-224,2023-04-09T19:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,caesars,player_steals_over_under,frank ntilikina,False,0.5,159,2023-04-09T19:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_threes_over_under,frank ntilikina,True,0.5,-138,2023-04-09T20:45:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_threes_over_under,frank ntilikina,True,1.5,920,2023-04-09T21:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_steals_over_under,frank ntilikina,True,1.5,1100,2023-04-09T21:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_threes_over_under,frank ntilikina,False,0.5,104,2023-04-09T20:45:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_threes_over_under,frank ntilikina,True,0.5,-120,2023-04-09T20:45:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_threes_over_under,frank ntilikina,True,1.5,900,2023-04-09T21:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_threes_over_under,frank ntilikina,False,0.5,-110,2023-04-09T20:45:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_threes_over_under,frank ntilikina,False,1.5,-3000,2023-04-09T21:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,caesars,player_threes_over_under,frank ntilikina,True,1.5,118,2023-04-09T19:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,caesars,player_threes_over_under,frank ntilikina,False,1.5,-163,2023-04-09T19:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_threes_over_under,frank ntilikina,False,1.5,-3500,2023-04-09T21:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_rebounds_over_under,frank ntilikina,True,1.5,-168,2023-04-09T20:15:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_steals_over_under,frank ntilikina,True,0.5,110,2023-04-09T20:15:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_steals_over_under,frank ntilikina,False,0.5,-154,2023-04-09T20:15:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_rebounds_over_under,frank ntilikina,True,3.5,-166,2023-04-09T20:45:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_rebounds_over_under,frank ntilikina,False,1.5,126,2023-04-09T20:15:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_rebounds_over_under,frank ntilikina,False,2.5,-700,2023-04-09T21:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_rebounds_over_under,frank ntilikina,False,3.5,124,2023-04-09T20:45:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_rebounds_over_under,frank ntilikina,True,1.5,-165,2023-04-09T20:15:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_rebounds_over_under,frank ntilikina,True,2.5,425,2023-04-09T21:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_steals_over_under,frank ntilikina,False,1.5,-5000,2023-04-09T21:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_rebounds_over_under,frank ntilikina,True,3.5,-130,2023-04-09T20:45:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_rebounds_over_under,frank ntilikina,False,2.5,-750,2023-04-09T21:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_rebounds_over_under,frank ntilikina,False,3.5,-105,2023-04-09T20:45:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,caesars,player_rebounds_over_under,frank ntilikina,True,3.5,102,2023-04-09T19:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,caesars,player_rebounds_over_under,frank ntilikina,False,3.5,-139,2023-04-09T19:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_steals_over_under,frank ntilikina,True,0.5,116,2023-04-09T20:15:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_steals_over_under,frank ntilikina,True,1.5,1000,2023-04-09T21:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_rebounds_over_under,frank ntilikina,False,1.5,125,2023-04-09T20:15:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_assists_over_under,frank ntilikina,True,2.5,134,2023-04-09T20:15:01,Dallas Mavericks,San Antonio Spurs

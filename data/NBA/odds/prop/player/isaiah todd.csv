@@ -1,0 +1,13 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,caesars,player_assists_over_under,isaiah todd,True,1.5,-157,2023-04-09T17:00:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,caesars,player_assists_over_under,isaiah todd,False,1.5,114,2023-04-09T17:00:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,caesars,player_blocks_over_under,isaiah todd,True,0.5,-119,2023-04-09T17:00:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,caesars,player_blocks_over_under,isaiah todd,False,0.5,-115,2023-04-09T17:00:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,caesars,player_points_over_under,isaiah todd,True,10.5,-121,2023-04-09T17:00:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,caesars,player_points_over_under,isaiah todd,False,10.5,-113,2023-04-09T17:00:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,caesars,player_rebounds_over_under,isaiah todd,True,6.5,-106,2023-04-09T17:00:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,caesars,player_rebounds_over_under,isaiah todd,False,6.5,-129,2023-04-09T17:00:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,caesars,player_steals_over_under,isaiah todd,True,0.5,-119,2023-04-09T17:00:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,caesars,player_steals_over_under,isaiah todd,False,0.5,-115,2023-04-09T17:00:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,caesars,player_threes_over_under,isaiah todd,True,0.5,-234,2023-04-09T17:00:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,caesars,player_threes_over_under,isaiah todd,False,0.5,165,2023-04-09T17:00:01,Washington Wizards,Houston Rockets

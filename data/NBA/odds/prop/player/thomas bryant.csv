@@ -1,0 +1,153 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_points_over_under,thomas bryant,False,8.5,-104,2023-03-31T02:45:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_points_over_under,thomas bryant,False,6.5,-140,2023-03-31T03:30:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_points_over_under,thomas bryant,False,5.5,-130,2023-03-31T03:15:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_points_over_under,thomas bryant,False,2.5,-650,2023-03-31T04:30:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_points_over_under,thomas bryant,True,10.5,-115,2023-03-31T02:00:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_points_over_under,thomas bryant,True,9.5,-106,2023-03-31T02:30:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_points_over_under,thomas bryant,True,8.5,-128,2023-03-31T02:45:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_points_over_under,thomas bryant,True,6.5,106,2023-03-31T03:30:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_points_over_under,thomas bryant,False,9.5,-125,2023-03-31T02:30:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_points_over_under,thomas bryant,True,5.5,-102,2023-03-31T03:15:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_points_over_under,thomas bryant,True,2.5,390,2023-03-31T04:30:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_blocks_over_under,thomas bryant,False,1.5,-100000,2023-03-31T04:30:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_blocks_over_under,thomas bryant,False,0.5,-350,2023-03-31T03:30:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_blocks_over_under,thomas bryant,True,1.5,1000,2023-03-31T04:30:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_blocks_over_under,thomas bryant,True,0.5,240,2023-03-31T03:30:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_assists_over_under,thomas bryant,False,0.5,-100000,2023-03-31T04:30:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_assists_over_under,thomas bryant,True,0.5,1000,2023-03-31T04:15:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_points_over_under,thomas bryant,True,4.5,154,2023-03-31T04:00:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_points_over_under,thomas bryant,False,10.5,-105,2023-03-31T02:00:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_points_over_under,thomas bryant,False,4.5,-210,2023-03-31T04:00:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_rebounds_over_under,thomas bryant,True,3.5,132,2023-03-31T04:00:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_rebounds_over_under,thomas bryant,False,4.5,-125,2023-04-01T02:40:01,Phoenix Suns,Denver Nuggets
+2023-03-30,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_rebounds_over_under,thomas bryant,True,4.5,-102,2023-04-01T02:40:01,Phoenix Suns,Denver Nuggets
+2023-03-30,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,thomas bryant,False,7.5,-122,2023-04-01T02:38:01,Phoenix Suns,Denver Nuggets
+2023-03-30,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,thomas bryant,False,6.5,102,2023-04-01T02:40:01,Phoenix Suns,Denver Nuggets
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_rebounds_over_under,thomas bryant,True,2.5,580,2023-03-31T04:30:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,thomas bryant,True,6.5,-130,2023-04-01T02:40:01,Phoenix Suns,Denver Nuggets
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_threes_over_under,thomas bryant,False,0.5,-100000,2023-03-31T04:30:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_threes_over_under,thomas bryant,True,0.5,1000,2023-03-31T04:15:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,thomas bryant,True,7.5,100,2023-04-01T02:38:01,Phoenix Suns,Denver Nuggets
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_steals_over_under,thomas bryant,True,0.5,1000,2023-03-31T04:15:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_rebounds_over_under,thomas bryant,False,5.5,-106,2023-03-31T02:15:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_rebounds_over_under,thomas bryant,False,4.5,-154,2023-03-31T02:45:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_rebounds_over_under,thomas bryant,False,3.5,-178,2023-03-31T04:00:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_rebounds_over_under,thomas bryant,False,2.5,-1200,2023-03-31T04:30:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_rebounds_over_under,thomas bryant,True,5.5,-125,2023-03-31T02:15:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_rebounds_over_under,thomas bryant,True,4.5,116,2023-03-31T02:45:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_steals_over_under,thomas bryant,False,0.5,-100000,2023-03-31T04:30:01,Denver Nuggets,New Orleans Pelicans
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_steals_over_under,thomas bryant,True,0.5,850,2023-10-28T01:35:05,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_steals_over_under,thomas bryant,False,0.5,-2500,2023-10-28T01:35:05,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_steals_over_under,thomas bryant,True,0.5,200,2023-10-28T00:10:20,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_steals_over_under,thomas bryant,False,0.5,-300,2023-10-28T00:10:20,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_threes_over_under,thomas bryant,False,0.5,-260,2023-10-27T23:45:07,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_threes_over_under,thomas bryant,False,0.5,-240,2023-10-27T23:52:31,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_threes_over_under,thomas bryant,True,0.5,180,2023-10-27T23:45:07,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_steals_over_under,thomas bryant,False,0.5,-100000,2023-10-28T01:40:15,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_threes_over_under,thomas bryant,True,0.5,185,2023-10-27T23:52:31,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_steals_over_under,thomas bryant,True,0.5,1000,2023-10-28T01:40:15,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_assists_over_under,thomas bryant,True,0.5,210,2023-10-28T00:15:18,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_rebounds_over_under,thomas bryant,False,4.5,-190,2023-10-28T01:35:06,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_points_over_under,thomas bryant,True,6.5,100,2023-10-27T23:52:31,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_points_over_under,thomas bryant,True,5.5,-105,2023-10-28T00:11:20,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_points_over_under,thomas bryant,True,4.5,115,2023-10-28T00:20:14,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_points_over_under,thomas bryant,True,3.5,-140,2023-10-28T01:25:08,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_points_over_under,thomas bryant,True,2.5,120,2023-10-28T01:35:05,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_blocks_over_under,thomas bryant,False,0.5,-185,2023-10-28T00:10:20,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_blocks_over_under,thomas bryant,True,0.5,130,2023-10-28T00:10:20,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_blocks_over_under,thomas bryant,False,1.5,-1200,2023-10-28T01:35:05,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_blocks_over_under,thomas bryant,False,0.5,-700,2023-10-28T01:25:08,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_points_over_under,thomas bryant,False,2.5,-160,2023-10-28T01:35:05,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_blocks_over_under,thomas bryant,True,0.5,425,2023-10-28T01:25:08,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_blocks_over_under,thomas bryant,False,0.5,-750,2023-10-28T01:25:23,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_blocks_over_under,thomas bryant,True,1.5,1000,2023-10-28T01:40:15,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_blocks_over_under,thomas bryant,True,0.5,430,2023-10-28T01:25:23,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_assists_over_under,thomas bryant,False,0.5,-130,2023-10-27T23:45:07,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_assists_over_under,thomas bryant,True,0.5,100,2023-10-27T23:45:07,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_assists_over_under,thomas bryant,False,1.5,-100000,2023-10-28T01:40:15,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_assists_over_under,thomas bryant,False,0.5,-300,2023-10-28T00:15:18,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_assists_over_under,thomas bryant,True,1.5,1000,2023-10-28T01:40:15,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_rebounds_over_under,thomas bryant,False,5.5,-180,2023-10-27T23:45:07,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_blocks_over_under,thomas bryant,False,1.5,-100000,2023-10-28T01:40:15,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_points_over_under,thomas bryant,False,3.5,105,2023-10-28T01:25:08,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_blocks_over_under,thomas bryant,True,1.5,600,2023-10-28T01:35:05,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_points_over_under,thomas bryant,False,5.5,-125,2023-10-28T00:11:20,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_rebounds_over_under,thomas bryant,False,3.5,-170,2023-10-28T01:30:28,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_points_over_under,thomas bryant,False,4.5,-150,2023-10-28T00:20:14,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_rebounds_over_under,thomas bryant,True,5.5,130,2023-10-27T23:45:07,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_rebounds_over_under,thomas bryant,True,4.5,135,2023-10-28T01:35:06,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_rebounds_over_under,thomas bryant,True,3.5,120,2023-10-28T01:30:28,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_rebounds_over_under,thomas bryant,False,4.5,-115,2023-10-28T01:35:05,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_rebounds_over_under,thomas bryant,False,3.5,-170,2023-10-28T01:25:08,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_rebounds_over_under,thomas bryant,True,4.5,-115,2023-10-28T01:35:05,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_rebounds_over_under,thomas bryant,True,3.5,125,2023-10-28T01:25:08,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_rebounds_over_under,thomas bryant,True,2.5,-155,2023-10-28T00:35:21,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_rebounds_over_under,thomas bryant,False,4.5,-100000,2023-10-28T02:00:35,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_rebounds_over_under,thomas bryant,False,2.5,115,2023-10-28T00:35:21,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_rebounds_over_under,thomas bryant,False,3.5,-174,2023-10-28T01:30:55,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_rebounds_over_under,thomas bryant,False,2.5,128,2023-10-28T00:40:34,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_rebounds_over_under,thomas bryant,True,4.5,1000,2023-10-28T01:40:15,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_rebounds_over_under,thomas bryant,True,3.5,130,2023-10-28T01:30:55,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_rebounds_over_under,thomas bryant,True,2.5,-172,2023-10-28T00:40:34,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_points_over_under,thomas bryant,False,6.5,-130,2023-10-27T23:45:07,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_points_over_under,thomas bryant,False,5.5,-125,2023-10-28T00:10:20,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_points_over_under,thomas bryant,True,6.5,100,2023-10-27T23:45:07,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_points_over_under,thomas bryant,True,5.5,-115,2023-10-28T00:10:20,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_points_over_under,thomas bryant,False,6.5,-130,2023-10-27T23:52:31,Boston Celtics,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,barstool,player_rebounds_over_under,thomas bryant,True,3.5,-130,2023-10-29T00:30:09,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,draftkings,player_rebounds_over_under,thomas bryant,False,5.5,-10000,2023-10-29T02:15:05,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,draftkings,player_rebounds_over_under,thomas bryant,False,4.5,115,2023-10-29T00:41:00,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,draftkings,player_rebounds_over_under,thomas bryant,False,3.5,105,2023-10-29T00:35:09,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,draftkings,player_rebounds_over_under,thomas bryant,True,5.5,1200,2023-10-29T02:15:05,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,fanduel,player_rebounds_over_under,thomas bryant,False,5.5,-6000,2023-10-29T02:15:04,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,draftkings,player_rebounds_over_under,thomas bryant,True,3.5,-140,2023-10-29T00:35:09,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,fanduel,player_rebounds_over_under,thomas bryant,False,3.5,-154,2023-10-29T00:35:13,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,fanduel,player_rebounds_over_under,thomas bryant,False,4.5,110,2023-10-29T00:40:11,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,barstool,player_rebounds_over_under,thomas bryant,True,4.5,-160,2023-10-29T00:40:05,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,draftkings,player_rebounds_over_under,thomas bryant,True,4.5,-150,2023-10-29T00:41:00,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,barstool,player_rebounds_over_under,thomas bryant,True,5.5,-150,2023-10-29T01:10:28,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,barstool,player_steals_over_under,thomas bryant,False,0.5,-375,2023-10-29T00:30:09,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,barstool,player_rebounds_over_under,thomas bryant,False,3.5,-110,2023-10-29T00:30:09,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,barstool,player_rebounds_over_under,thomas bryant,False,4.5,110,2023-10-29T00:40:05,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,barstool,player_rebounds_over_under,thomas bryant,False,5.5,105,2023-10-29T01:10:28,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,barstool,player_rebounds_over_under,thomas bryant,False,6.5,-170,2023-10-29T00:50:45,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,fanduel,player_steals_over_under,thomas bryant,True,0.5,1000,2023-10-29T01:51:57,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,fanduel,player_steals_over_under,thomas bryant,False,0.5,-100000,2023-10-29T02:15:04,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,draftkings,player_steals_over_under,thomas bryant,True,0.5,700,2023-10-29T01:45:11,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,draftkings,player_steals_over_under,thomas bryant,False,0.5,-1800,2023-10-29T01:45:11,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,barstool,player_steals_over_under,thomas bryant,True,0.5,235,2023-10-29T00:30:09,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,draftkings,player_threes_over_under,thomas bryant,True,0.5,220,2023-10-29T00:16:47,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,fanduel,player_rebounds_over_under,thomas bryant,True,5.5,1000,2023-10-29T02:15:04,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,draftkings,player_threes_over_under,thomas bryant,False,0.5,-290,2023-10-29T00:16:47,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,barstool,player_rebounds_over_under,thomas bryant,True,6.5,120,2023-10-29T00:50:45,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,fanduel,player_rebounds_over_under,thomas bryant,True,4.5,-146,2023-10-29T00:40:11,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,barstool,player_assists_over_under,thomas bryant,True,0.5,105,2023-10-29T00:17:01,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,barstool,player_points_over_under,thomas bryant,False,6.5,-140,2023-10-29T00:40:05,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,barstool,player_threes_over_under,thomas bryant,True,0.5,210,2023-10-29T00:17:01,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,fanduel,player_assists_over_under,thomas bryant,True,0.5,130,2023-10-29T00:30:35,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,fanduel,player_assists_over_under,thomas bryant,True,1.5,1000,2023-10-29T02:15:04,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,fanduel,player_assists_over_under,thomas bryant,False,0.5,-174,2023-10-29T00:30:35,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,fanduel,player_assists_over_under,thomas bryant,False,1.5,-100000,2023-10-29T02:15:04,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,barstool,player_assists_over_under,thomas bryant,False,0.5,-135,2023-10-29T00:17:01,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,fanduel,player_blocks_over_under,thomas bryant,True,0.5,1000,2023-10-29T01:51:57,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,fanduel,player_blocks_over_under,thomas bryant,False,0.5,-100000,2023-10-29T02:15:04,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,draftkings,player_blocks_over_under,thomas bryant,True,0.5,1100,2023-10-29T02:10:15,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,draftkings,player_blocks_over_under,thomas bryant,False,0.5,-10000,2023-10-29T02:10:15,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,barstool,player_blocks_over_under,thomas bryant,True,0.5,270,2023-10-29T01:10:28,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,barstool,player_blocks_over_under,thomas bryant,False,0.5,-450,2023-10-29T01:10:28,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,draftkings,player_points_over_under,thomas bryant,True,3.5,-160,2023-10-29T01:35:13,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,draftkings,player_points_over_under,thomas bryant,True,4.5,125,2023-10-29T01:40:38,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,draftkings,player_points_over_under,thomas bryant,True,5.5,1100,2023-10-29T02:15:05,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,draftkings,player_points_over_under,thomas bryant,True,6.5,-120,2023-10-29T01:45:11,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,draftkings,player_points_over_under,thomas bryant,False,3.5,120,2023-10-29T01:35:13,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,draftkings,player_points_over_under,thomas bryant,False,4.5,-165,2023-10-29T01:40:38,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,draftkings,player_points_over_under,thomas bryant,False,5.5,-8000,2023-10-29T02:15:05,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,draftkings,player_points_over_under,thomas bryant,False,6.5,-110,2023-10-29T01:45:11,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,barstool,player_points_over_under,thomas bryant,True,4.5,100,2023-10-29T01:10:28,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,barstool,player_points_over_under,thomas bryant,True,5.5,-125,2023-10-29T00:45:04,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,barstool,player_points_over_under,thomas bryant,True,6.5,100,2023-10-29T00:40:05,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,barstool,player_points_over_under,thomas bryant,False,4.5,-140,2023-10-29T01:10:28,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,barstool,player_points_over_under,thomas bryant,False,5.5,-115,2023-10-29T00:45:04,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,fanduel,player_rebounds_over_under,thomas bryant,True,3.5,116,2023-10-29T00:35:13,Minnesota Timberwolves,Miami Heat
+2023-10-28,9f8490f5a9773532f4cfad9d3c800d4d,barstool,player_threes_over_under,thomas bryant,False,0.5,-300,2023-10-29T00:17:01,Minnesota Timberwolves,Miami Heat

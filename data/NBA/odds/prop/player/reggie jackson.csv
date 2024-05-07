@@ -1,0 +1,465 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_assists_over_under,reggie jackson,False,3.5,-125,2023-04-01T04:38:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_assists_over_under,reggie jackson,False,4.5,-162,2023-04-01T04:42:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,reggie jackson,False,12.5,-120,2023-04-01T03:12:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,reggie jackson,False,11.5,-110,2023-04-01T02:42:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,reggie jackson,True,18.5,112,2023-04-01T03:26:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,reggie jackson,True,17.5,116,2023-04-01T03:56:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,reggie jackson,True,16.5,140,2023-04-01T04:00:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,reggie jackson,False,13.5,-154,2023-04-01T02:56:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,reggie jackson,True,15.5,-108,2023-04-01T04:28:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,reggie jackson,True,13.5,116,2023-04-01T02:56:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,reggie jackson,True,12.5,-110,2023-04-01T03:12:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,reggie jackson,True,11.5,-120,2023-04-01T02:42:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_blocks_over_under,reggie jackson,False,0.5,-100000,2023-04-01T04:42:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_blocks_over_under,reggie jackson,True,0.5,1000,2023-04-01T03:30:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_assists_over_under,reggie jackson,False,5.5,-154,2023-04-01T02:40:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,reggie jackson,True,14.5,130,2023-04-01T04:42:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_assists_over_under,reggie jackson,False,2.5,134,2023-04-01T04:14:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,reggie jackson,False,14.5,-174,2023-04-01T04:42:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,reggie jackson,False,16.5,-188,2023-04-01T04:00:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_steals_over_under,reggie jackson,False,1.5,-2000,2023-04-01T04:42:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_threes_over_under,reggie jackson,True,1.5,280,2023-04-01T04:42:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_threes_over_under,reggie jackson,True,2.5,172,2023-04-01T03:32:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_threes_over_under,reggie jackson,False,1.5,-420,2023-04-01T04:42:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_threes_over_under,reggie jackson,False,2.5,-235,2023-04-01T03:32:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_steals_over_under,reggie jackson,True,0.5,580,2023-04-01T04:36:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,reggie jackson,False,15.5,-122,2023-04-01T04:28:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_rebounds_over_under,reggie jackson,False,3.5,-194,2023-04-01T02:48:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_rebounds_over_under,reggie jackson,False,1.5,-188,2023-04-01T04:14:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_rebounds_over_under,reggie jackson,True,3.5,144,2023-04-01T02:48:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_rebounds_over_under,reggie jackson,True,2.5,250,2023-04-01T04:42:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_rebounds_over_under,reggie jackson,True,1.5,140,2023-04-01T04:14:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,reggie jackson,False,18.5,-148,2023-04-01T03:26:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,reggie jackson,False,17.5,-154,2023-04-01T03:56:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_rebounds_over_under,reggie jackson,False,2.5,-360,2023-04-01T04:42:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_steals_over_under,reggie jackson,False,0.5,-1200,2023-04-01T04:36:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_steals_over_under,reggie jackson,True,1.5,750,2023-04-01T04:42:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_assists_over_under,reggie jackson,False,1.5,124,2023-04-01T04:10:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_assists_over_under,reggie jackson,True,5.5,120,2023-04-01T02:40:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_assists_over_under,reggie jackson,True,4.5,122,2023-04-01T04:42:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_assists_over_under,reggie jackson,True,3.5,-106,2023-04-01T04:38:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_assists_over_under,reggie jackson,True,2.5,-180,2023-04-01T04:14:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_assists_over_under,reggie jackson,True,1.5,-166,2023-04-01T04:10:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_rebounds_over_under,reggie jackson,True,4.5,130,2023-04-07T03:15:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_steals_over_under,reggie jackson,False,0.5,106,2023-04-07T02:15:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_steals_over_under,reggie jackson,True,2.5,400,2023-04-07T04:00:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_steals_over_under,reggie jackson,True,1.5,-125,2023-04-07T02:30:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_steals_over_under,reggie jackson,True,0.5,-140,2023-04-07T02:15:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_rebounds_over_under,reggie jackson,False,4.5,-170,2023-04-07T03:15:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_rebounds_over_under,reggie jackson,False,3.5,-155,2023-04-07T04:00:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_rebounds_over_under,reggie jackson,True,3.5,115,2023-04-07T04:00:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_rebounds_over_under,reggie jackson,True,4.5,130,2023-04-07T03:15:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_steals_over_under,reggie jackson,False,1.5,-106,2023-04-07T02:30:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_rebounds_over_under,reggie jackson,True,2.5,-125,2023-04-07T01:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_rebounds_over_under,reggie jackson,False,4.5,-174,2023-04-07T03:15:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_assists_over_under,reggie jackson,True,4.5,-152,2023-04-07T02:15:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_rebounds_over_under,reggie jackson,False,2.5,-105,2023-04-07T01:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_steals_over_under,reggie jackson,False,2.5,-670,2023-04-07T04:00:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_steals_over_under,reggie jackson,True,2.5,390,2023-04-07T04:00:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_steals_over_under,reggie jackson,True,1.5,-125,2023-04-07T02:30:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_assists_over_under,reggie jackson,True,5.5,-114,2023-04-07T02:30:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_steals_over_under,reggie jackson,False,0.5,105,2023-04-07T02:15:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_steals_over_under,reggie jackson,False,1.5,-105,2023-04-07T02:30:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_steals_over_under,reggie jackson,False,2.5,-650,2023-04-07T04:00:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_threes_over_under,reggie jackson,True,1.5,-198,2023-04-07T02:15:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_threes_over_under,reggie jackson,True,2.5,134,2023-04-07T04:00:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_threes_over_under,reggie jackson,False,1.5,144,2023-04-07T02:15:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_threes_over_under,reggie jackson,False,2.5,-182,2023-04-07T04:00:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_threes_over_under,reggie jackson,True,1.5,-195,2023-04-07T02:15:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_threes_over_under,reggie jackson,True,2.5,130,2023-04-07T04:00:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_threes_over_under,reggie jackson,False,1.5,145,2023-04-07T02:15:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_threes_over_under,reggie jackson,False,2.5,-170,2023-04-07T04:00:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_steals_over_under,reggie jackson,True,0.5,-140,2023-04-07T02:15:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_assists_over_under,reggie jackson,True,6.5,-198,2023-04-07T04:00:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_assists_over_under,reggie jackson,True,7.5,168,2023-04-07T03:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_assists_over_under,reggie jackson,False,4.5,114,2023-04-07T02:15:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_points_over_under,reggie jackson,False,12.5,100,2023-04-07T02:15:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_points_over_under,reggie jackson,False,14.5,-105,2023-04-07T02:00:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_points_over_under,reggie jackson,False,16.5,-118,2023-04-07T04:00:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_points_over_under,reggie jackson,False,17.5,-146,2023-04-07T03:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_points_over_under,reggie jackson,False,18.5,-172,2023-04-07T03:30:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_points_over_under,reggie jackson,True,12.5,-135,2023-04-07T02:15:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_points_over_under,reggie jackson,True,13.5,-105,2023-04-07T02:00:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_points_over_under,reggie jackson,True,16.5,-115,2023-04-07T04:00:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_points_over_under,reggie jackson,True,17.5,105,2023-04-07T03:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_points_over_under,reggie jackson,False,12.5,100,2023-04-07T02:15:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_points_over_under,reggie jackson,False,13.5,-125,2023-04-07T02:00:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_points_over_under,reggie jackson,False,16.5,-115,2023-04-07T04:00:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_points_over_under,reggie jackson,False,17.5,-140,2023-04-07T03:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_rebounds_over_under,reggie jackson,True,2.5,-110,2023-04-07T01:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_rebounds_over_under,reggie jackson,True,3.5,122,2023-04-07T04:00:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_points_over_under,reggie jackson,True,18.5,128,2023-04-07T03:30:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_points_over_under,reggie jackson,True,17.5,110,2023-04-07T03:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_points_over_under,reggie jackson,True,16.5,-114,2023-04-07T04:00:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_rebounds_over_under,reggie jackson,False,3.5,-162,2023-04-07T04:00:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_assists_over_under,reggie jackson,False,5.5,-114,2023-04-07T02:30:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_assists_over_under,reggie jackson,False,6.5,146,2023-04-07T04:00:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_assists_over_under,reggie jackson,False,7.5,-230,2023-04-07T03:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_assists_over_under,reggie jackson,True,4.5,-145,2023-04-07T02:15:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_assists_over_under,reggie jackson,True,5.5,-115,2023-04-07T02:30:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_assists_over_under,reggie jackson,True,6.5,-190,2023-04-07T04:00:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_assists_over_under,reggie jackson,True,7.5,155,2023-04-07T03:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_rebounds_over_under,reggie jackson,False,2.5,-110,2023-04-07T01:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_assists_over_under,reggie jackson,False,4.5,110,2023-04-07T02:15:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_assists_over_under,reggie jackson,False,6.5,140,2023-04-07T04:00:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_assists_over_under,reggie jackson,False,7.5,-210,2023-04-07T03:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_blocks_over_under,reggie jackson,True,0.5,1000,2023-04-07T03:00:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_blocks_over_under,reggie jackson,False,0.5,-50000,2023-04-07T04:00:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_blocks_over_under,reggie jackson,True,0.5,625,2023-04-07T01:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_blocks_over_under,reggie jackson,False,0.5,-1000,2023-04-07T01:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_points_over_under,reggie jackson,True,12.5,-132,2023-04-07T02:15:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_assists_over_under,reggie jackson,False,5.5,-115,2023-04-07T02:30:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_points_over_under,reggie jackson,True,14.5,-115,2023-04-07T02:00:01,Phoenix Suns,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_blocks_over_under,reggie jackson,True,0.5,900,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_points_over_under,reggie jackson,True,8.5,-117,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_steals_over_under,reggie jackson,True,0.5,-145,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_points_over_under,reggie jackson,False,8.5,-117,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_threes_over_under,reggie jackson,False,1.5,-155,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_points_over_under,reggie jackson,False,8.5,110,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_points_over_under,reggie jackson,True,8.5,-140,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_blocks_over_under,reggie jackson,False,0.5,-1700,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_threes_over_under,reggie jackson,True,1.5,116,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_assists_over_under,reggie jackson,False,2.5,125,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_assists_over_under,reggie jackson,True,2.5,-155,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_steals_over_under,reggie jackson,False,0.5,115,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_threes_over_under,reggie jackson,True,1.5,125,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_threes_over_under,reggie jackson,False,1.5,-160,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_points_over_under,reggie jackson,True,14.5,-155,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_points_over_under,reggie jackson,False,11.5,-130,2023-04-09T21:00:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_points_over_under,reggie jackson,False,12.5,105,2023-04-09T20:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_points_over_under,reggie jackson,False,13.5,-165,2023-04-09T21:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_points_over_under,reggie jackson,False,14.5,120,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,caesars,player_points_over_under,reggie jackson,True,12.5,-113,2023-04-09T19:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,caesars,player_points_over_under,reggie jackson,False,12.5,-121,2023-04-09T19:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_rebounds_over_under,reggie jackson,True,0.5,-215,2023-04-09T21:00:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_points_over_under,reggie jackson,True,13.5,125,2023-04-09T21:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_points_over_under,reggie jackson,True,12.5,-140,2023-04-09T20:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_steals_over_under,reggie jackson,False,1.5,-1100,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_points_over_under,reggie jackson,True,11.5,100,2023-04-09T21:00:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_points_over_under,reggie jackson,False,14.5,118,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_points_over_under,reggie jackson,False,13.5,-172,2023-04-09T21:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_points_over_under,reggie jackson,False,12.5,100,2023-04-09T20:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_points_over_under,reggie jackson,False,11.5,-128,2023-04-09T21:00:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_points_over_under,reggie jackson,True,14.5,-158,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_points_over_under,reggie jackson,True,13.5,128,2023-04-09T21:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_points_over_under,reggie jackson,True,12.5,-132,2023-04-09T20:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_points_over_under,reggie jackson,True,11.5,-104,2023-04-09T21:00:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_blocks_over_under,reggie jackson,False,0.5,-1000,2023-04-09T19:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_blocks_over_under,reggie jackson,True,0.5,625,2023-04-09T19:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_blocks_over_under,reggie jackson,False,0.5,-50000,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_rebounds_over_under,reggie jackson,True,1.5,210,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_rebounds_over_under,reggie jackson,False,0.5,158,2023-04-09T21:00:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_rebounds_over_under,reggie jackson,False,1.5,-290,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_rebounds_over_under,reggie jackson,True,0.5,-210,2023-04-09T21:00:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_threes_over_under,reggie jackson,True,0.5,104,2023-04-09T21:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_threes_over_under,reggie jackson,True,1.5,210,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_threes_over_under,reggie jackson,False,0.5,-138,2023-04-09T21:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_threes_over_under,reggie jackson,False,1.5,-300,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_threes_over_under,reggie jackson,True,0.5,105,2023-04-09T21:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_threes_over_under,reggie jackson,True,1.5,205,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_threes_over_under,reggie jackson,True,2.5,135,2023-04-09T19:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_threes_over_under,reggie jackson,False,0.5,-140,2023-04-09T21:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_threes_over_under,reggie jackson,False,1.5,-290,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_threes_over_under,reggie jackson,False,2.5,-165,2023-04-09T19:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,caesars,player_threes_over_under,reggie jackson,True,2.5,126,2023-04-09T19:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_blocks_over_under,reggie jackson,True,0.5,1000,2023-04-09T20:45:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_steals_over_under,reggie jackson,True,1.5,550,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_steals_over_under,reggie jackson,True,0.5,100,2023-04-09T20:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_steals_over_under,reggie jackson,False,1.5,-1200,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_steals_over_under,reggie jackson,False,0.5,-132,2023-04-09T20:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_steals_over_under,reggie jackson,True,1.5,580,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_steals_over_under,reggie jackson,True,0.5,100,2023-04-09T20:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_rebounds_over_under,reggie jackson,False,2.5,-175,2023-04-09T19:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_steals_over_under,reggie jackson,False,0.5,-130,2023-04-09T20:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_rebounds_over_under,reggie jackson,False,0.5,155,2023-04-09T21:00:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_rebounds_over_under,reggie jackson,True,2.5,140,2023-04-09T19:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_rebounds_over_under,reggie jackson,True,1.5,205,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_rebounds_over_under,reggie jackson,False,1.5,-300,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,caesars,player_assists_over_under,reggie jackson,False,4.5,-104,2023-04-09T19:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,caesars,player_threes_over_under,reggie jackson,False,2.5,-174,2023-04-09T19:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_assists_over_under,reggie jackson,False,4.5,-180,2023-04-09T20:45:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_assists_over_under,reggie jackson,True,2.5,-130,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_assists_over_under,reggie jackson,True,3.5,154,2023-04-09T21:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_assists_over_under,reggie jackson,True,4.5,154,2023-04-09T21:00:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_assists_over_under,reggie jackson,False,2.5,-102,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_assists_over_under,reggie jackson,False,3.5,-210,2023-04-09T21:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,caesars,player_assists_over_under,reggie jackson,True,4.5,-131,2023-04-09T19:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_assists_over_under,reggie jackson,True,2.5,-130,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_assists_over_under,reggie jackson,True,3.5,150,2023-04-09T21:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_assists_over_under,reggie jackson,True,4.5,135,2023-04-09T20:45:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_assists_over_under,reggie jackson,False,2.5,-105,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_assists_over_under,reggie jackson,False,3.5,-205,2023-04-09T21:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_assists_over_under,reggie jackson,False,4.5,-210,2023-04-09T21:00:01,Denver Nuggets,Sacramento Kings
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,reggie jackson,True,12.5,-105,2023-10-25T00:20:04,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,reggie jackson,True,11.5,110,2023-10-25T01:00:35,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,reggie jackson,True,10.5,120,2023-10-25T01:20:11,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,reggie jackson,True,9.5,-145,2023-10-25T01:16:51,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,reggie jackson,True,8.5,500,2023-10-25T01:40:06,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_assists_over_under,reggie jackson,False,2.5,-145,2023-10-25T01:10:04,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_assists_over_under,reggie jackson,True,2.5,135,2023-10-25T01:10:12,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_assists_over_under,reggie jackson,False,1.5,-1400,2023-10-25T01:40:06,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_assists_over_under,reggie jackson,True,2.5,110,2023-10-25T01:10:04,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_assists_over_under,reggie jackson,True,1.5,600,2023-10-25T01:40:06,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,reggie jackson,False,8.5,-1000,2023-10-25T01:40:06,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_assists_over_under,reggie jackson,False,2.5,-190,2023-10-25T01:10:12,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,reggie jackson,False,9.5,110,2023-10-25T01:16:51,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_threes_over_under,reggie jackson,True,2.5,1100,2023-10-25T01:40:06,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,reggie jackson,False,11.5,-145,2023-10-25T01:00:35,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_threes_over_under,reggie jackson,False,2.5,-170,2023-10-25T01:10:12,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,reggie jackson,False,10.5,-160,2023-10-25T01:20:11,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_threes_over_under,reggie jackson,False,2.5,-8000,2023-10-25T01:40:06,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_threes_over_under,reggie jackson,False,1.5,140,2023-10-25T00:05:04,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_threes_over_under,reggie jackson,True,1.5,-185,2023-10-25T00:05:04,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_steals_over_under,reggie jackson,False,1.5,-300,2023-10-25T01:05:15,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_threes_over_under,reggie jackson,True,2.5,120,2023-10-25T01:10:12,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,reggie jackson,False,11.5,-150,2023-10-25T01:00:05,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,reggie jackson,False,10.5,-110,2023-10-25T01:10:12,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,reggie jackson,True,11.5,105,2023-10-25T01:00:05,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,reggie jackson,True,10.5,-130,2023-10-25T01:10:12,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,reggie jackson,False,12.5,-125,2023-10-25T00:20:04,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_steals_over_under,reggie jackson,True,1.5,200,2023-10-25T01:05:15,Denver Nuggets,Los Angeles Lakers
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_points_over_under,reggie jackson,False,7.5,100,2023-10-29T20:20:05,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_rebounds_over_under,reggie jackson,True,1.5,170,2023-10-29T20:30:14,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_rebounds_over_under,reggie jackson,True,0.5,1200,2023-10-29T21:35:57,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_rebounds_over_under,reggie jackson,False,1.5,-230,2023-10-29T20:30:03,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_rebounds_over_under,reggie jackson,False,0.5,-5000,2023-10-29T21:35:24,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_rebounds_over_under,reggie jackson,True,1.5,168,2023-10-29T20:30:03,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_rebounds_over_under,reggie jackson,True,0.5,1000,2023-10-29T21:35:24,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_points_over_under,reggie jackson,False,9.5,-105,2023-10-29T20:10:06,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_points_over_under,reggie jackson,False,8.5,-135,2023-10-29T19:50:59,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_points_over_under,reggie jackson,False,6.5,-130,2023-10-29T20:55:03,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_points_over_under,reggie jackson,False,8.5,-125,2023-10-29T19:50:23,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_points_over_under,reggie jackson,True,8.5,-105,2023-10-29T19:50:59,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_points_over_under,reggie jackson,True,7.5,-140,2023-10-29T20:20:05,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_points_over_under,reggie jackson,True,6.5,-110,2023-10-29T20:55:03,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_points_over_under,reggie jackson,False,9.5,-125,2023-10-29T20:20:11,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_rebounds_over_under,reggie jackson,True,2.5,135,2023-10-29T20:00:07,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_points_over_under,reggie jackson,False,7.5,-135,2023-10-29T21:15:07,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_points_over_under,reggie jackson,False,6.5,100,2023-10-29T21:25:02,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_points_over_under,reggie jackson,False,5.5,-3000,2023-10-29T21:35:57,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_points_over_under,reggie jackson,False,10.5,-240,2023-10-29T19:45:11,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_points_over_under,reggie jackson,False,9.5,-165,2023-10-29T19:45:11,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_points_over_under,reggie jackson,True,9.5,-135,2023-10-29T20:10:06,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_rebounds_over_under,reggie jackson,False,0.5,-10000,2023-10-29T21:35:57,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_steals_over_under,reggie jackson,True,1.5,410,2023-10-29T21:20:08,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_rebounds_over_under,reggie jackson,False,2.5,-185,2023-10-29T20:00:07,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_threes_over_under,reggie jackson,True,2.5,145,2023-10-29T20:10:06,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_threes_over_under,reggie jackson,True,1.5,-110,2023-10-29T20:55:03,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_threes_over_under,reggie jackson,False,2.5,-215,2023-10-29T20:11:07,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_threes_over_under,reggie jackson,False,1.5,-350,2023-10-29T21:30:06,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_threes_over_under,reggie jackson,True,2.5,160,2023-10-29T20:11:07,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_threes_over_under,reggie jackson,True,1.5,240,2023-10-29T21:30:06,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,pinnacle,player_threes_over_under,reggie jackson,False,1.5,-157,2023-10-29T19:35:29,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,pinnacle,player_threes_over_under,reggie jackson,True,1.5,117,2023-10-29T19:35:29,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_steals_over_under,reggie jackson,False,0.5,-240,2023-10-29T20:20:05,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_steals_over_under,reggie jackson,True,0.5,160,2023-10-29T20:20:05,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_steals_over_under,reggie jackson,False,2.5,-1400,2023-10-29T21:30:06,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_rebounds_over_under,reggie jackson,False,1.5,-230,2023-10-29T20:30:14,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_steals_over_under,reggie jackson,False,1.5,-700,2023-10-29T21:25:02,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_steals_over_under,reggie jackson,True,2.5,600,2023-10-29T21:30:06,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_steals_over_under,reggie jackson,True,1.5,425,2023-10-29T21:25:02,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_steals_over_under,reggie jackson,True,0.5,270,2023-10-29T21:11:07,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_steals_over_under,reggie jackson,False,2.5,-50000,2023-10-29T21:35:24,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_steals_over_under,reggie jackson,False,1.5,-700,2023-10-29T21:20:08,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_steals_over_under,reggie jackson,False,0.5,-420,2023-10-29T21:10:35,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_steals_over_under,reggie jackson,True,2.5,1000,2023-10-29T21:35:24,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_points_over_under,reggie jackson,False,7.5,120,2023-10-29T19:45:11,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_steals_over_under,reggie jackson,True,0.5,280,2023-10-29T21:10:35,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_rebounds_over_under,reggie jackson,False,1.5,-215,2023-10-29T20:20:05,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_rebounds_over_under,reggie jackson,True,1.5,145,2023-10-29T20:20:05,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_steals_over_under,reggie jackson,False,0.5,-400,2023-10-29T21:11:07,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_points_over_under,reggie jackson,False,6.5,175,2023-10-29T19:45:11,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_points_over_under,reggie jackson,True,9.5,130,2023-10-29T19:45:11,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_points_over_under,reggie jackson,True,8.5,-105,2023-10-29T19:50:23,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_assists_over_under,reggie jackson,False,2.5,-115,2023-10-29T20:11:07,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_assists_over_under,reggie jackson,False,1.5,130,2023-10-29T20:20:11,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_assists_over_under,reggie jackson,True,6.5,1000,2023-10-29T21:35:57,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_assists_over_under,reggie jackson,True,5.5,-105,2023-10-29T21:30:06,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_assists_over_under,reggie jackson,True,4.5,-110,2023-10-29T21:25:02,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_assists_over_under,reggie jackson,True,3.5,100,2023-10-29T21:05:03,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_assists_over_under,reggie jackson,True,2.5,-115,2023-10-29T20:11:07,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_assists_over_under,reggie jackson,True,1.5,-175,2023-10-29T20:20:11,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,pinnacle,player_assists_over_under,reggie jackson,False,3.5,-147,2023-10-29T19:35:29,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,pinnacle,player_assists_over_under,reggie jackson,True,3.5,110,2023-10-29T19:35:29,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_assists_over_under,reggie jackson,False,3.5,-135,2023-10-29T21:05:03,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_assists_over_under,reggie jackson,False,6.5,-3500,2023-10-29T21:35:24,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_assists_over_under,reggie jackson,False,4.5,-118,2023-10-29T21:25:03,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_assists_over_under,reggie jackson,False,3.5,-136,2023-10-29T21:05:06,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_assists_over_under,reggie jackson,False,2.5,-114,2023-10-29T20:10:15,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_assists_over_under,reggie jackson,False,1.5,136,2023-10-29T20:20:23,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_assists_over_under,reggie jackson,True,6.5,920,2023-10-29T21:35:24,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_assists_over_under,reggie jackson,True,5.5,136,2023-10-29T21:10:35,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_assists_over_under,reggie jackson,True,4.5,-112,2023-10-29T21:25:03,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_assists_over_under,reggie jackson,True,3.5,102,2023-10-29T21:05:06,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_assists_over_under,reggie jackson,True,2.5,-114,2023-10-29T20:10:15,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_assists_over_under,reggie jackson,True,1.5,-182,2023-10-29T20:20:23,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_assists_over_under,reggie jackson,False,5.5,-182,2023-10-29T21:10:35,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_assists_over_under,reggie jackson,False,4.5,-120,2023-10-29T21:25:02,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_assists_over_under,reggie jackson,False,5.5,-125,2023-10-29T21:30:06,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_assists_over_under,reggie jackson,False,6.5,-5000,2023-10-29T21:35:57,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_points_over_under,reggie jackson,True,7.5,100,2023-10-29T21:15:07,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_points_over_under,reggie jackson,True,6.5,-130,2023-10-29T21:25:02,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_points_over_under,reggie jackson,True,5.5,900,2023-10-29T21:35:57,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_points_over_under,reggie jackson,True,10.5,185,2023-10-29T19:45:11,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_points_over_under,reggie jackson,True,7.5,-155,2023-10-29T19:45:11,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_points_over_under,reggie jackson,True,6.5,-225,2023-10-29T19:45:11,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,pinnacle,player_points_over_under,reggie jackson,False,8.5,-123,2023-10-29T19:35:29,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,pinnacle,player_points_over_under,reggie jackson,True,8.5,-108,2023-10-29T19:35:29,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_points_over_under,reggie jackson,False,8.5,-132,2023-10-29T19:50:28,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_points_over_under,reggie jackson,False,7.5,-136,2023-10-29T20:01:00,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_points_over_under,reggie jackson,True,8.5,104,2023-10-29T19:50:28,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_points_over_under,reggie jackson,True,7.5,106,2023-10-29T20:01:00,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_blocks_over_under,reggie jackson,False,0.5,-550,2023-10-29T19:45:07,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_blocks_over_under,reggie jackson,True,0.5,320,2023-10-29T19:45:07,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_blocks_over_under,reggie jackson,False,0.5,-500,2023-10-29T19:45:11,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_blocks_over_under,reggie jackson,True,0.5,360,2023-10-29T19:45:11,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_blocks_over_under,reggie jackson,True,0.5,1000,2023-10-29T21:30:05,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_assists_over_under,reggie jackson,False,3.5,-140,2023-10-29T20:55:03,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_assists_over_under,reggie jackson,False,2.5,-120,2023-10-29T20:10:06,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_assists_over_under,reggie jackson,False,1.5,125,2023-10-29T20:20:05,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_assists_over_under,reggie jackson,True,3.5,100,2023-10-29T20:55:03,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_assists_over_under,reggie jackson,True,2.5,-120,2023-10-29T20:10:06,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_assists_over_under,reggie jackson,True,1.5,-180,2023-10-29T20:20:05,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_points_over_under,reggie jackson,True,9.5,-105,2023-10-29T20:20:11,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_blocks_over_under,reggie jackson,False,0.5,-100000,2023-10-29T21:35:24,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_assists_over_under,reggie jackson,True,2.5,-172,2023-10-27T23:25:10,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_threes_over_under,reggie jackson,False,2.5,-160,2023-10-28T00:50:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_blocks_over_under,reggie jackson,True,0.5,475,2023-10-27T23:15:15,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_blocks_over_under,reggie jackson,False,0.5,-1000,2023-10-27T23:15:15,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_points_over_under,reggie jackson,True,7.5,-111,2023-10-27T23:25:10,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_points_over_under,reggie jackson,True,9.5,108,2023-10-27T23:32:21,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_points_over_under,reggie jackson,True,10.5,-106,2023-10-27T23:50:28,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_points_over_under,reggie jackson,True,11.5,-108,2023-10-27T23:35:46,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_points_over_under,reggie jackson,True,12.5,102,2023-10-27T23:35:46,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_points_over_under,reggie jackson,True,13.5,-154,2023-10-28T00:40:34,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_points_over_under,reggie jackson,True,14.5,124,2023-10-28T00:35:06,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_points_over_under,reggie jackson,True,15.5,124,2023-10-28T00:10:18,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_points_over_under,reggie jackson,True,16.5,285,2023-10-28T01:20:20,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_points_over_under,reggie jackson,True,17.5,146,2023-10-28T01:06:40,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_points_over_under,reggie jackson,True,18.5,108,2023-10-28T00:55:07,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_points_over_under,reggie jackson,False,7.5,-115,2023-10-27T23:25:10,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_points_over_under,reggie jackson,False,9.5,-138,2023-10-27T23:32:21,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_points_over_under,reggie jackson,False,10.5,-120,2023-10-27T23:50:28,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_points_over_under,reggie jackson,False,11.5,-118,2023-10-27T23:35:46,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,reggie jackson,True,10.5,-110,2023-10-27T23:31:10,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,reggie jackson,True,8.5,-105,2023-10-27T23:40:15,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,reggie jackson,True,7.5,-110,2023-10-27T23:45:15,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,reggie jackson,True,10.5,270,2023-10-27T23:15:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,reggie jackson,True,9.5,190,2023-10-27T23:15:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,reggie jackson,True,8.5,140,2023-10-27T23:15:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,betmgm,player_blocks_over_under,reggie jackson,False,0.5,-1000,2023-10-27T16:11:33,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,reggie jackson,True,6.5,-150,2023-10-27T23:15:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_points_over_under,reggie jackson,False,17.5,-188,2023-10-28T01:06:40,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_points_over_under,reggie jackson,False,16.5,-1600,2023-10-28T01:25:23,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_points_over_under,reggie jackson,False,15.5,-158,2023-10-28T00:10:18,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_points_over_under,reggie jackson,False,14.5,-158,2023-10-28T00:35:06,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_points_over_under,reggie jackson,False,13.5,120,2023-10-28T00:40:34,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_points_over_under,reggie jackson,False,12.5,-130,2023-10-27T23:35:46,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_points_over_under,reggie jackson,False,18.5,-138,2023-10-28T00:55:07,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,reggie jackson,True,13.5,-145,2023-10-28T00:40:14,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,betmgm,player_blocks_over_under,reggie jackson,True,0.5,525,2023-10-27T16:11:33,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_blocks_over_under,reggie jackson,True,0.5,600,2023-10-27T23:15:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_assists_over_under,reggie jackson,True,3.5,-210,2023-10-28T00:40:34,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_assists_over_under,reggie jackson,True,4.5,-158,2023-10-28T00:55:07,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_assists_over_under,reggie jackson,True,5.5,-104,2023-10-28T01:06:40,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_assists_over_under,reggie jackson,True,6.5,1000,2023-10-28T01:25:23,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_assists_over_under,reggie jackson,False,2.5,128,2023-10-27T23:25:10,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_assists_over_under,reggie jackson,False,3.5,154,2023-10-28T00:40:34,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_assists_over_under,reggie jackson,False,4.5,118,2023-10-28T00:55:07,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_assists_over_under,reggie jackson,False,5.5,-128,2023-10-28T01:06:40,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_assists_over_under,reggie jackson,False,6.5,-20000,2023-10-28T01:25:23,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_assists_over_under,reggie jackson,True,2.5,-165,2023-10-27T23:25:23,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_assists_over_under,reggie jackson,True,3.5,-205,2023-10-28T00:40:14,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_assists_over_under,reggie jackson,True,4.5,-155,2023-10-28T00:55:11,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_assists_over_under,reggie jackson,True,5.5,140,2023-10-28T01:05:06,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_assists_over_under,reggie jackson,True,6.5,1100,2023-10-28T01:21:17,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_assists_over_under,reggie jackson,False,2.5,125,2023-10-27T23:25:23,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_assists_over_under,reggie jackson,False,3.5,150,2023-10-28T00:40:14,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_assists_over_under,reggie jackson,False,4.5,115,2023-10-28T00:55:11,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_blocks_over_under,reggie jackson,False,0.5,-100000,2023-10-28T01:10:28,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_blocks_over_under,reggie jackson,True,0.5,1000,2023-10-28T00:50:08,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_assists_over_under,reggie jackson,False,5.5,-240,2023-10-28T00:50:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_assists_over_under,reggie jackson,False,4.5,-135,2023-10-28T00:45:09,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_assists_over_under,reggie jackson,False,3.5,140,2023-10-28T00:40:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_assists_over_under,reggie jackson,False,2.5,-125,2023-10-27T23:20:30,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_blocks_over_under,reggie jackson,False,0.5,-900,2023-10-27T23:15:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_assists_over_under,reggie jackson,True,5.5,160,2023-10-28T00:50:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_assists_over_under,reggie jackson,True,3.5,-200,2023-10-28T00:40:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_assists_over_under,reggie jackson,True,2.5,-115,2023-10-27T23:20:30,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,betmgm,player_assists_over_under,reggie jackson,False,2.5,-110,2023-10-27T16:11:33,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,betmgm,player_assists_over_under,reggie jackson,True,2.5,-120,2023-10-27T16:11:33,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_assists_over_under,reggie jackson,False,6.5,-8000,2023-10-28T01:21:17,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_assists_over_under,reggie jackson,False,5.5,-185,2023-10-28T01:05:06,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_assists_over_under,reggie jackson,True,4.5,-105,2023-10-28T00:45:09,Memphis Grizzlies,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_threes_over_under,reggie jackson,False,1.5,-130,2023-10-29T20:55:03,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,reggie jackson,True,14.5,-135,2023-10-28T00:45:24,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,reggie jackson,True,16.5,1200,2023-10-28T01:25:08,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_rebounds_over_under,reggie jackson,True,1.5,155,2023-10-28T01:00:31,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_rebounds_over_under,reggie jackson,True,2.5,1200,2023-10-28T01:21:17,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_rebounds_over_under,reggie jackson,False,1.5,-205,2023-10-28T01:00:31,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_rebounds_over_under,reggie jackson,False,2.5,-10000,2023-10-28T01:21:17,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,betmgm,player_rebounds_over_under,reggie jackson,True,1.5,-145,2023-10-27T17:45:04,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,betmgm,player_rebounds_over_under,reggie jackson,False,1.5,110,2023-10-27T17:45:04,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_rebounds_over_under,reggie jackson,True,1.5,-140,2023-10-27T23:20:30,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_rebounds_over_under,reggie jackson,False,1.5,100,2023-10-27T23:20:30,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_steals_over_under,reggie jackson,True,0.5,1000,2023-10-28T01:10:28,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_steals_over_under,reggie jackson,False,0.5,-100000,2023-10-28T01:25:23,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_steals_over_under,reggie jackson,True,0.5,500,2023-10-28T01:10:13,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_steals_over_under,reggie jackson,False,0.5,-900,2023-10-28T01:10:13,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,betmgm,player_steals_over_under,reggie jackson,True,0.5,-120,2023-10-27T16:11:33,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,betmgm,player_steals_over_under,reggie jackson,False,0.5,-110,2023-10-27T16:11:33,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_steals_over_under,reggie jackson,True,0.5,250,2023-10-28T01:01:17,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_steals_over_under,reggie jackson,False,0.5,-400,2023-10-28T01:01:17,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,pinnacle,player_threes_over_under,reggie jackson,True,1.5,151,2023-10-27T17:46:14,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_threes_over_under,reggie jackson,False,1.5,-110,2023-10-28T00:45:09,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_threes_over_under,reggie jackson,False,0.5,150,2023-10-27T23:40:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_threes_over_under,reggie jackson,True,2.5,110,2023-10-28T00:50:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_threes_over_under,reggie jackson,True,1.5,-130,2023-10-28T00:45:09,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_threes_over_under,reggie jackson,True,0.5,-225,2023-10-27T23:40:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,betmgm,player_threes_over_under,reggie jackson,False,1.5,-200,2023-10-27T16:11:33,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_rebounds_over_under,reggie jackson,False,2.5,-20000,2023-10-28T01:25:23,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,betmgm,player_threes_over_under,reggie jackson,True,1.5,145,2023-10-27T17:45:04,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_threes_over_under,reggie jackson,False,1.5,-110,2023-10-28T00:45:24,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_threes_over_under,reggie jackson,False,0.5,-130,2023-10-27T23:45:15,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_threes_over_under,reggie jackson,True,2.5,1100,2023-10-28T01:15:46,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_threes_over_under,reggie jackson,True,1.5,-120,2023-10-28T00:45:24,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_threes_over_under,reggie jackson,True,0.5,100,2023-10-27T23:45:15,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,pinnacle,player_threes_over_under,reggie jackson,False,1.5,-209,2023-10-27T17:46:14,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_threes_over_under,reggie jackson,False,2.5,-6000,2023-10-28T01:15:46,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,reggie jackson,True,15.5,-115,2023-10-27T23:56:24,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_rebounds_over_under,reggie jackson,False,1.5,-122,2023-10-28T00:55:07,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_rebounds_over_under,reggie jackson,True,1.5,-108,2023-10-28T00:55:07,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,reggie jackson,True,17.5,-120,2023-10-28T01:00:31,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,reggie jackson,True,18.5,105,2023-10-28T01:00:31,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,reggie jackson,False,6.5,120,2023-10-27T23:15:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,reggie jackson,False,8.5,-180,2023-10-27T23:15:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,reggie jackson,False,9.5,-250,2023-10-27T23:15:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,reggie jackson,False,10.5,-360,2023-10-27T23:15:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,reggie jackson,False,7.5,-120,2023-10-27T23:45:15,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,reggie jackson,False,8.5,-125,2023-10-27T23:40:15,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,reggie jackson,False,10.5,-125,2023-10-27T23:31:10,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,reggie jackson,False,13.5,110,2023-10-28T00:40:14,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,reggie jackson,False,14.5,100,2023-10-28T00:45:24,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,reggie jackson,False,15.5,-115,2023-10-27T23:56:24,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,reggie jackson,False,16.5,-20000,2023-10-28T01:25:08,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,reggie jackson,False,17.5,-110,2023-10-28T01:00:31,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,reggie jackson,False,18.5,-140,2023-10-28T01:00:31,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,betmgm,player_points_over_under,reggie jackson,True,7.5,-110,2023-10-27T16:25:19,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,betmgm,player_points_over_under,reggie jackson,False,7.5,-120,2023-10-27T16:11:33,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_points_over_under,reggie jackson,False,18.5,-140,2023-10-28T01:01:17,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_points_over_under,reggie jackson,False,17.5,-150,2023-10-28T00:50:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_points_over_under,reggie jackson,False,16.5,-135,2023-10-28T00:56:25,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_points_over_under,reggie jackson,False,14.5,100,2023-10-28T00:45:09,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_points_over_under,reggie jackson,False,13.5,105,2023-10-28T00:40:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_points_over_under,reggie jackson,False,10.5,-125,2023-10-27T23:40:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_rebounds_over_under,reggie jackson,True,2.5,1000,2023-10-28T01:20:20,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_points_over_under,reggie jackson,False,7.5,-125,2023-10-27T23:20:30,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_points_over_under,reggie jackson,True,17.5,105,2023-10-28T00:50:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_points_over_under,reggie jackson,True,16.5,-105,2023-10-28T00:56:25,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_points_over_under,reggie jackson,True,14.5,-140,2023-10-28T00:45:09,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_points_over_under,reggie jackson,True,13.5,-150,2023-10-28T00:40:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_points_over_under,reggie jackson,True,10.5,-115,2023-10-27T23:40:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_points_over_under,reggie jackson,True,7.5,-115,2023-10-27T23:20:30,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_points_over_under,reggie jackson,True,18.5,100,2023-10-28T01:01:17,Memphis Grizzlies,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_threes_over_under,reggie jackson,False,2.5,-215,2023-10-29T20:10:06,Oklahoma City Thunder,Denver Nuggets

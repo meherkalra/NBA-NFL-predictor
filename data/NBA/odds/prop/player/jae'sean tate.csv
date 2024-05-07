@@ -1,0 +1,295 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_assists_over_under,jae'sean tate,True,0.5,490,2023-10-26T01:25:16,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_assists_over_under,jae'sean tate,True,1.5,162,2023-10-26T00:45:15,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_assists_over_under,jae'sean tate,True,2.5,124,2023-10-25T23:35:32,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_assists_over_under,jae'sean tate,False,0.5,-900,2023-10-26T01:25:16,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_assists_over_under,jae'sean tate,False,1.5,-220,2023-10-26T00:45:15,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_assists_over_under,jae'sean tate,False,2.5,-166,2023-10-25T23:35:32,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_assists_over_under,jae'sean tate,True,0.5,350,2023-10-26T01:25:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_assists_over_under,jae'sean tate,True,1.5,155,2023-10-26T00:45:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_assists_over_under,jae'sean tate,True,2.5,120,2023-10-25T23:35:38,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_assists_over_under,jae'sean tate,False,0.5,-550,2023-10-26T01:25:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_assists_over_under,jae'sean tate,False,1.5,-210,2023-10-26T00:45:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_assists_over_under,jae'sean tate,False,2.5,-160,2023-10-25T23:35:38,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_assists_over_under,jae'sean tate,True,1.5,145,2023-10-26T00:45:14,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_assists_over_under,jae'sean tate,True,2.5,120,2023-10-25T23:40:13,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_assists_over_under,jae'sean tate,False,1.5,-215,2023-10-26T00:45:14,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_assists_over_under,jae'sean tate,False,2.5,-170,2023-10-25T23:40:13,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_blocks_over_under,jae'sean tate,True,0.5,265,2023-10-25T23:40:05,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_blocks_over_under,jae'sean tate,True,1.5,1000,2023-10-26T01:05:14,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_blocks_over_under,jae'sean tate,False,0.5,-390,2023-10-25T23:40:05,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_blocks_over_under,jae'sean tate,False,1.5,-50000,2023-10-26T01:25:16,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_blocks_over_under,jae'sean tate,True,0.5,245,2023-10-25T23:45:08,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_blocks_over_under,jae'sean tate,True,1.5,1100,2023-10-26T01:10:27,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_blocks_over_under,jae'sean tate,False,0.5,-350,2023-10-25T23:45:08,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_blocks_over_under,jae'sean tate,False,1.5,-10000,2023-10-26T01:10:27,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_blocks_over_under,jae'sean tate,True,0.5,235,2023-10-25T23:45:46,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_blocks_over_under,jae'sean tate,True,1.5,260,2023-10-25T23:55:05,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_blocks_over_under,jae'sean tate,False,0.5,-375,2023-10-25T23:45:46,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_blocks_over_under,jae'sean tate,False,1.5,-425,2023-10-25T23:55:05,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_points_over_under,jae'sean tate,True,5.5,370,2023-10-26T01:25:16,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_points_over_under,jae'sean tate,True,6.5,-102,2023-10-26T01:00:15,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_points_over_under,jae'sean tate,True,7.5,142,2023-10-26T00:50:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_points_over_under,jae'sean tate,True,8.5,106,2023-10-25T23:45:05,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_points_over_under,jae'sean tate,True,9.5,-102,2023-10-25T23:35:32,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_points_over_under,jae'sean tate,False,5.5,-560,2023-10-26T01:25:16,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_points_over_under,jae'sean tate,False,6.5,-125,2023-10-26T01:00:15,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_points_over_under,jae'sean tate,False,7.5,-184,2023-10-26T00:50:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_points_over_under,jae'sean tate,False,8.5,-136,2023-10-25T23:45:05,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_points_over_under,jae'sean tate,False,9.5,-125,2023-10-25T23:35:32,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,jae'sean tate,True,6.5,-160,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,jae'sean tate,True,8.5,135,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,jae'sean tate,True,9.5,180,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,jae'sean tate,True,10.5,265,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,jae'sean tate,True,5.5,225,2023-10-26T01:25:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,jae'sean tate,True,6.5,-120,2023-10-26T01:05:18,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,jae'sean tate,True,7.5,-115,2023-10-26T01:00:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,jae'sean tate,True,8.5,-125,2023-10-26T00:50:08,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,jae'sean tate,True,9.5,105,2023-10-26T00:45:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,jae'sean tate,True,10.5,-105,2023-10-25T23:45:08,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,jae'sean tate,False,6.5,125,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,jae'sean tate,False,8.5,-175,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,jae'sean tate,False,9.5,-235,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,jae'sean tate,False,10.5,-360,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,jae'sean tate,False,5.5,-320,2023-10-26T01:25:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,jae'sean tate,False,6.5,-110,2023-10-26T01:05:18,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,jae'sean tate,False,7.5,-115,2023-10-26T01:00:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,jae'sean tate,False,8.5,-105,2023-10-26T00:50:08,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,jae'sean tate,False,9.5,-135,2023-10-26T00:45:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,jae'sean tate,False,10.5,-130,2023-10-25T23:45:08,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_points_over_under,jae'sean tate,True,7.5,-120,2023-10-26T01:00:29,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_points_over_under,jae'sean tate,True,8.5,-130,2023-10-26T00:50:51,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_points_over_under,jae'sean tate,True,9.5,105,2023-10-26T00:45:14,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_points_over_under,jae'sean tate,True,10.5,-130,2023-10-25T23:40:13,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_points_over_under,jae'sean tate,False,7.5,-120,2023-10-26T01:00:29,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_points_over_under,jae'sean tate,False,8.5,-110,2023-10-26T00:50:51,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_points_over_under,jae'sean tate,False,9.5,-150,2023-10-26T00:45:14,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_points_over_under,jae'sean tate,False,10.5,-110,2023-10-25T23:40:13,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_rebounds_over_under,jae'sean tate,True,2.5,400,2023-10-26T01:25:16,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_rebounds_over_under,jae'sean tate,True,3.5,110,2023-10-26T00:50:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_rebounds_over_under,jae'sean tate,True,4.5,146,2023-10-26T00:45:15,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_rebounds_over_under,jae'sean tate,False,2.5,-670,2023-10-26T01:25:16,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_rebounds_over_under,jae'sean tate,False,3.5,-146,2023-10-26T00:50:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_rebounds_over_under,jae'sean tate,False,4.5,-198,2023-10-26T00:45:15,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_rebounds_over_under,jae'sean tate,True,2.5,310,2023-10-26T01:25:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_rebounds_over_under,jae'sean tate,True,3.5,-105,2023-10-26T01:00:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_rebounds_over_under,jae'sean tate,True,4.5,140,2023-10-26T00:45:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_rebounds_over_under,jae'sean tate,False,2.5,-475,2023-10-26T01:25:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_rebounds_over_under,jae'sean tate,False,3.5,-125,2023-10-26T01:00:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_rebounds_over_under,jae'sean tate,False,4.5,-190,2023-10-26T00:45:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_rebounds_over_under,jae'sean tate,True,2.5,-185,2023-10-26T00:10:24,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_rebounds_over_under,jae'sean tate,True,3.5,-110,2023-10-26T01:00:29,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_rebounds_over_under,jae'sean tate,True,4.5,135,2023-10-26T00:45:14,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_rebounds_over_under,jae'sean tate,False,2.5,130,2023-10-26T00:10:24,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_rebounds_over_under,jae'sean tate,False,3.5,-130,2023-10-26T01:00:29,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_rebounds_over_under,jae'sean tate,False,4.5,-190,2023-10-26T00:45:14,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_steals_over_under,jae'sean tate,True,0.5,110,2023-10-25T23:40:05,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_steals_over_under,jae'sean tate,True,1.5,1000,2023-10-26T01:15:31,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_steals_over_under,jae'sean tate,True,2.5,320,2023-10-26T00:50:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_steals_over_under,jae'sean tate,False,0.5,-146,2023-10-25T23:40:05,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_steals_over_under,jae'sean tate,False,1.5,-20000,2023-10-26T01:25:16,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_steals_over_under,jae'sean tate,False,2.5,-500,2023-10-26T00:50:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_steals_over_under,jae'sean tate,True,0.5,115,2023-10-25T23:41:13,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_steals_over_under,jae'sean tate,True,1.5,1100,2023-10-26T01:16:01,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_steals_over_under,jae'sean tate,True,2.5,330,2023-10-26T00:50:08,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_steals_over_under,jae'sean tate,False,0.5,-150,2023-10-25T23:41:13,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_steals_over_under,jae'sean tate,False,1.5,-8000,2023-10-26T01:20:27,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_steals_over_under,jae'sean tate,False,2.5,-525,2023-10-26T00:50:08,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_steals_over_under,jae'sean tate,True,0.5,110,2023-10-25T23:45:46,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_steals_over_under,jae'sean tate,True,1.5,185,2023-10-26T00:30:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_steals_over_under,jae'sean tate,False,0.5,-160,2023-10-25T23:45:46,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_steals_over_under,jae'sean tate,False,1.5,-280,2023-10-26T00:30:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_threes_over_under,jae'sean tate,True,0.5,178,2023-10-25T23:30:08,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_threes_over_under,jae'sean tate,True,1.5,198,2023-10-25T23:40:05,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_threes_over_under,jae'sean tate,False,0.5,-245,2023-10-25T23:30:08,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_threes_over_under,jae'sean tate,False,1.5,-280,2023-10-25T23:40:05,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_threes_over_under,jae'sean tate,True,0.5,185,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_threes_over_under,jae'sean tate,False,0.5,-240,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_threes_over_under,jae'sean tate,True,0.5,175,2023-10-25T23:16:13,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_threes_over_under,jae'sean tate,False,0.5,-250,2023-10-25T23:16:13,Orlando Magic,Houston Rockets
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_assists_over_under,jae'sean tate,True,1.5,1000,2023-10-30T01:25:18,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_assists_over_under,jae'sean tate,True,2.5,154,2023-10-29T23:45:21,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_assists_over_under,jae'sean tate,False,1.5,-100000,2023-10-30T01:30:23,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_assists_over_under,jae'sean tate,False,2.5,-210,2023-10-29T23:45:21,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_assists_over_under,jae'sean tate,True,1.5,340,2023-10-30T01:20:32,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_assists_over_under,jae'sean tate,True,2.5,150,2023-10-29T23:45:16,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_assists_over_under,jae'sean tate,False,1.5,-525,2023-10-30T01:20:32,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_assists_over_under,jae'sean tate,False,2.5,-200,2023-10-29T23:45:16,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_assists_over_under,jae'sean tate,True,1.5,110,2023-10-29T23:40:07,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_assists_over_under,jae'sean tate,True,2.5,140,2023-10-29T23:50:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_assists_over_under,jae'sean tate,False,1.5,-160,2023-10-29T23:40:07,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_assists_over_under,jae'sean tate,False,2.5,-200,2023-10-29T23:50:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_blocks_over_under,jae'sean tate,True,0.5,350,2023-10-29T23:35:22,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_blocks_over_under,jae'sean tate,True,1.5,750,2023-10-30T00:45:20,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_blocks_over_under,jae'sean tate,True,2.5,1000,2023-10-30T01:00:14,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_blocks_over_under,jae'sean tate,False,0.5,-550,2023-10-29T23:35:22,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_blocks_over_under,jae'sean tate,False,1.5,-2000,2023-10-30T00:45:20,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_blocks_over_under,jae'sean tate,False,2.5,-100000,2023-10-30T01:25:18,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_blocks_over_under,jae'sean tate,True,0.5,380,2023-10-29T23:15:13,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_blocks_over_under,jae'sean tate,False,0.5,-525,2023-10-29T23:15:13,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_blocks_over_under,jae'sean tate,True,0.5,320,2023-10-29T23:15:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_blocks_over_under,jae'sean tate,True,1.5,2600,2023-10-29T22:10:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_blocks_over_under,jae'sean tate,False,0.5,-550,2023-10-29T23:15:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_blocks_over_under,jae'sean tate,False,1.5,-20000,2023-10-29T22:10:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,jae'sean tate,True,2.5,130,2023-10-30T00:40:44,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,jae'sean tate,True,3.5,-135,2023-10-30T00:50:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,jae'sean tate,True,4.5,115,2023-10-30T00:40:44,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,jae'sean tate,True,5.5,-120,2023-10-30T00:55:05,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,jae'sean tate,True,6.5,1100,2023-10-30T01:25:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,jae'sean tate,True,7.5,100,2023-10-29T23:45:16,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,jae'sean tate,False,2.5,-175,2023-10-30T00:40:44,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,jae'sean tate,False,3.5,105,2023-10-30T00:50:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,jae'sean tate,False,4.5,-150,2023-10-30T00:40:44,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,jae'sean tate,False,5.5,-110,2023-10-30T00:55:05,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,jae'sean tate,False,6.5,-8000,2023-10-30T01:25:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,jae'sean tate,False,7.5,-130,2023-10-29T23:45:16,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,jae'sean tate,True,4.5,105,2023-10-30T00:40:22,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,jae'sean tate,True,5.5,-115,2023-10-30T00:01:10,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,jae'sean tate,True,6.5,100,2023-10-29T23:55:15,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,jae'sean tate,True,7.5,-105,2023-10-29T23:45:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,jae'sean tate,False,4.5,-150,2023-10-30T00:40:22,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,jae'sean tate,False,5.5,-125,2023-10-30T00:01:10,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,jae'sean tate,False,6.5,-140,2023-10-29T23:55:15,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,jae'sean tate,False,7.5,-135,2023-10-29T23:45:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_rebounds_over_under,jae'sean tate,True,2.5,-168,2023-10-30T00:55:14,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_rebounds_over_under,jae'sean tate,True,3.5,122,2023-10-30T00:40:05,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_rebounds_over_under,jae'sean tate,True,5.5,134,2023-10-30T01:00:14,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_rebounds_over_under,jae'sean tate,True,6.5,172,2023-10-30T01:05:13,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_rebounds_over_under,jae'sean tate,True,8.5,1000,2023-10-30T01:25:18,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_rebounds_over_under,jae'sean tate,False,2.5,126,2023-10-30T00:55:14,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_rebounds_over_under,jae'sean tate,False,3.5,-162,2023-10-30T00:40:05,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_rebounds_over_under,jae'sean tate,False,5.5,-180,2023-10-30T01:00:14,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_rebounds_over_under,jae'sean tate,False,6.5,-235,2023-10-30T01:05:13,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_rebounds_over_under,jae'sean tate,False,8.5,-100000,2023-10-30T01:30:23,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_rebounds_over_under,jae'sean tate,True,2.5,-160,2023-10-30T00:55:05,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_rebounds_over_under,jae'sean tate,True,3.5,120,2023-10-30T00:40:44,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_rebounds_over_under,jae'sean tate,True,5.5,135,2023-10-30T01:00:35,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_rebounds_over_under,jae'sean tate,True,6.5,130,2023-10-30T01:05:12,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_rebounds_over_under,jae'sean tate,True,8.5,1000,2023-10-30T01:25:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_rebounds_over_under,jae'sean tate,False,2.5,120,2023-10-30T00:50:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_rebounds_over_under,jae'sean tate,False,3.5,-160,2023-10-30T00:40:44,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_rebounds_over_under,jae'sean tate,False,5.5,-180,2023-10-30T01:00:35,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_rebounds_over_under,jae'sean tate,False,6.5,-170,2023-10-30T01:05:12,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_rebounds_over_under,jae'sean tate,False,8.5,-5000,2023-10-30T01:25:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_rebounds_over_under,jae'sean tate,True,2.5,-185,2023-10-29T23:55:15,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_rebounds_over_under,jae'sean tate,True,3.5,115,2023-10-30T00:40:22,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_rebounds_over_under,jae'sean tate,False,2.5,130,2023-10-29T23:55:15,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_rebounds_over_under,jae'sean tate,False,3.5,-165,2023-10-30T00:40:22,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_steals_over_under,jae'sean tate,True,0.5,265,2023-10-30T00:10:16,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_steals_over_under,jae'sean tate,True,1.5,490,2023-10-30T00:50:07,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_steals_over_under,jae'sean tate,True,2.5,1000,2023-10-30T01:25:18,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_steals_over_under,jae'sean tate,False,0.5,-390,2023-10-30T00:10:16,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_steals_over_under,jae'sean tate,False,1.5,-900,2023-10-30T00:50:07,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_steals_over_under,jae'sean tate,False,2.5,-100000,2023-10-30T01:25:18,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_steals_over_under,jae'sean tate,True,0.5,295,2023-10-30T00:05:07,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_steals_over_under,jae'sean tate,True,1.5,450,2023-10-30T00:50:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_steals_over_under,jae'sean tate,True,2.5,850,2023-10-30T01:20:32,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_steals_over_under,jae'sean tate,False,0.5,-450,2023-10-30T00:05:07,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_steals_over_under,jae'sean tate,False,1.5,-800,2023-10-30T00:50:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_steals_over_under,jae'sean tate,False,2.5,-2500,2023-10-30T01:20:32,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_steals_over_under,jae'sean tate,True,0.5,270,2023-10-30T00:05:05,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_steals_over_under,jae'sean tate,True,1.5,270,2023-10-30T00:30:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_steals_over_under,jae'sean tate,False,0.5,-450,2023-10-30T00:05:05,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_steals_over_under,jae'sean tate,False,1.5,-450,2023-10-30T00:30:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_threes_over_under,jae'sean tate,True,0.5,185,2023-10-29T23:15:13,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_threes_over_under,jae'sean tate,False,0.5,-240,2023-10-29T23:15:13,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_threes_over_under,jae'sean tate,True,0.5,180,2023-10-29T23:15:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_threes_over_under,jae'sean tate,False,0.5,-260,2023-10-29T23:15:03,Houston Rockets,Golden State Warriors
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_assists_over_under,jae'sean tate,True,0.5,1000,2023-10-28T02:10:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_assists_over_under,jae'sean tate,True,1.5,178,2023-10-28T01:00:34,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_assists_over_under,jae'sean tate,False,0.5,-100000,2023-10-28T02:45:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_assists_over_under,jae'sean tate,False,1.5,-245,2023-10-28T01:00:34,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_assists_over_under,jae'sean tate,True,0.5,1200,2023-10-28T02:10:08,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_assists_over_under,jae'sean tate,True,1.5,105,2023-10-28T01:05:06,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_assists_over_under,jae'sean tate,False,0.5,-20000,2023-10-28T02:10:08,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_assists_over_under,jae'sean tate,False,1.5,-140,2023-10-28T01:05:06,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_assists_over_under,jae'sean tate,True,1.5,-150,2023-10-28T00:40:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_assists_over_under,jae'sean tate,False,1.5,105,2023-10-28T00:40:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_blocks_over_under,jae'sean tate,True,0.5,1000,2023-10-28T01:45:33,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_blocks_over_under,jae'sean tate,False,0.5,-100000,2023-10-28T02:10:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_blocks_over_under,jae'sean tate,True,0.5,1200,2023-10-28T01:55:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_blocks_over_under,jae'sean tate,False,0.5,-10000,2023-10-28T01:55:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_blocks_over_under,jae'sean tate,True,0.5,220,2023-10-28T00:40:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_blocks_over_under,jae'sean tate,False,0.5,-350,2023-10-28T00:40:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,jae'sean tate,True,3.5,350,2023-10-28T02:40:04,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,jae'sean tate,True,4.5,130,2023-10-28T01:50:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,jae'sean tate,True,5.5,114,2023-10-28T01:35:19,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,jae'sean tate,True,6.5,126,2023-10-28T01:25:19,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,jae'sean tate,True,7.5,108,2023-10-28T00:20:16,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,jae'sean tate,False,3.5,-1600,2023-10-28T02:45:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,jae'sean tate,False,4.5,-166,2023-10-28T01:50:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,jae'sean tate,False,5.5,-146,2023-10-28T01:35:19,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,jae'sean tate,False,6.5,-162,2023-10-28T01:25:19,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,jae'sean tate,False,7.5,-138,2023-10-28T00:20:16,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jae'sean tate,True,6.5,-135,2023-10-28T00:11:20,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jae'sean tate,True,8.5,155,2023-10-28T00:11:20,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jae'sean tate,True,9.5,220,2023-10-28T00:11:20,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jae'sean tate,True,10.5,320,2023-10-28T00:11:20,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jae'sean tate,True,3.5,1100,2023-10-28T02:25:08,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jae'sean tate,True,4.5,100,2023-10-28T00:55:11,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jae'sean tate,True,5.5,110,2023-10-28T01:40:12,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jae'sean tate,True,6.5,-115,2023-10-28T01:35:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jae'sean tate,True,7.5,-105,2023-10-28T00:15:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jae'sean tate,True,8.5,100,2023-10-28T01:05:06,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jae'sean tate,False,6.5,105,2023-10-28T00:11:20,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jae'sean tate,False,8.5,-200,2023-10-28T00:11:20,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jae'sean tate,False,9.5,-290,2023-10-28T00:11:20,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jae'sean tate,False,10.5,-425,2023-10-28T00:11:20,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jae'sean tate,False,3.5,-8000,2023-10-28T02:25:08,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jae'sean tate,False,4.5,-135,2023-10-28T00:55:11,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jae'sean tate,False,5.5,-145,2023-10-28T01:40:12,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jae'sean tate,False,6.5,-115,2023-10-28T01:35:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jae'sean tate,False,7.5,-125,2023-10-28T00:15:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jae'sean tate,False,8.5,-130,2023-10-28T01:05:06,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,jae'sean tate,True,5.5,-140,2023-10-28T00:40:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,jae'sean tate,True,6.5,-120,2023-10-28T01:35:06,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,jae'sean tate,True,7.5,105,2023-10-28T00:15:18,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,jae'sean tate,False,5.5,100,2023-10-28T00:40:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,jae'sean tate,False,6.5,-120,2023-10-28T01:35:06,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,jae'sean tate,False,7.5,-135,2023-10-28T00:15:18,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_rebounds_over_under,jae'sean tate,True,0.5,1000,2023-10-28T02:15:04,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_rebounds_over_under,jae'sean tate,True,1.5,162,2023-10-28T01:40:32,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_rebounds_over_under,jae'sean tate,True,2.5,138,2023-10-28T00:55:16,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_rebounds_over_under,jae'sean tate,True,3.5,100,2023-10-28T00:30:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_rebounds_over_under,jae'sean tate,False,0.5,-100000,2023-10-28T02:45:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_rebounds_over_under,jae'sean tate,False,1.5,-220,2023-10-28T01:40:32,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_rebounds_over_under,jae'sean tate,False,2.5,-186,2023-10-28T00:55:16,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_rebounds_over_under,jae'sean tate,False,3.5,-132,2023-10-28T00:30:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_rebounds_over_under,jae'sean tate,True,0.5,1200,2023-10-28T02:30:42,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_rebounds_over_under,jae'sean tate,True,1.5,135,2023-10-28T01:40:12,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_rebounds_over_under,jae'sean tate,True,2.5,-105,2023-10-28T01:05:06,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_rebounds_over_under,jae'sean tate,True,3.5,100,2023-10-28T00:30:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_rebounds_over_under,jae'sean tate,False,0.5,-10000,2023-10-28T02:30:42,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_rebounds_over_under,jae'sean tate,False,1.5,-180,2023-10-28T01:40:12,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_rebounds_over_under,jae'sean tate,False,2.5,-125,2023-10-28T01:05:06,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_rebounds_over_under,jae'sean tate,False,3.5,-130,2023-10-28T00:30:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_rebounds_over_under,jae'sean tate,True,1.5,-125,2023-10-28T01:35:06,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_rebounds_over_under,jae'sean tate,True,2.5,-140,2023-10-28T00:40:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_rebounds_over_under,jae'sean tate,True,3.5,-115,2023-10-28T00:26:52,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_rebounds_over_under,jae'sean tate,False,1.5,-115,2023-10-28T01:35:06,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_rebounds_over_under,jae'sean tate,False,2.5,100,2023-10-28T00:40:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_rebounds_over_under,jae'sean tate,False,3.5,-125,2023-10-28T00:26:52,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_steals_over_under,jae'sean tate,True,0.5,124,2023-10-28T00:30:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_steals_over_under,jae'sean tate,True,1.5,225,2023-10-28T01:00:34,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_steals_over_under,jae'sean tate,True,2.5,300,2023-10-28T01:35:19,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_steals_over_under,jae'sean tate,True,3.5,1000,2023-10-28T01:57:13,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_steals_over_under,jae'sean tate,False,0.5,-166,2023-10-28T00:30:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_steals_over_under,jae'sean tate,False,1.5,-320,2023-10-28T01:00:34,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_steals_over_under,jae'sean tate,False,2.5,-450,2023-10-28T01:35:19,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_steals_over_under,jae'sean tate,False,3.5,-100000,2023-10-28T02:15:04,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_steals_over_under,jae'sean tate,True,0.5,120,2023-10-28T00:30:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_steals_over_under,jae'sean tate,True,1.5,215,2023-10-28T01:00:31,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_steals_over_under,jae'sean tate,True,2.5,330,2023-10-28T01:40:12,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_steals_over_under,jae'sean tate,True,3.5,850,2023-10-28T01:55:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_steals_over_under,jae'sean tate,False,0.5,-160,2023-10-28T00:30:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_steals_over_under,jae'sean tate,False,1.5,-310,2023-10-28T01:00:31,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_steals_over_under,jae'sean tate,False,2.5,-525,2023-10-28T01:40:12,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_steals_over_under,jae'sean tate,False,3.5,-2500,2023-10-28T01:55:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_steals_over_under,jae'sean tate,True,0.5,115,2023-10-28T00:26:52,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_steals_over_under,jae'sean tate,True,2.5,220,2023-10-28T01:35:06,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_steals_over_under,jae'sean tate,False,0.5,-165,2023-10-28T00:26:52,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_steals_over_under,jae'sean tate,False,2.5,-350,2023-10-28T01:35:06,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_threes_over_under,jae'sean tate,True,0.5,165,2023-10-28T00:11:20,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_threes_over_under,jae'sean tate,False,0.5,-215,2023-10-28T00:11:20,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_threes_over_under,jae'sean tate,True,0.5,165,2023-10-28T00:10:20,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_threes_over_under,jae'sean tate,False,0.5,-225,2023-10-28T00:10:20,San Antonio Spurs,Houston Rockets

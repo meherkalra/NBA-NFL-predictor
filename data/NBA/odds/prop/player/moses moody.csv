@@ -1,0 +1,417 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-04-20,305444865b7450141fa61fa5deb62828,betmgm,player_points_over_under,moses moody,False,5.5,-115,2023-04-21T01:45:01,Golden State Warriors,Sacramento Kings
+2023-04-20,305444865b7450141fa61fa5deb62828,draftkings,player_blocks_over_under,moses moody,True,0.5,270,2023-04-21T01:30:02,Golden State Warriors,Sacramento Kings
+2023-04-20,305444865b7450141fa61fa5deb62828,draftkings,player_blocks_over_under,moses moody,False,0.5,-350,2023-04-21T01:30:02,Golden State Warriors,Sacramento Kings
+2023-04-20,305444865b7450141fa61fa5deb62828,betmgm,player_blocks_over_under,moses moody,True,0.5,260,2023-04-21T01:30:02,Golden State Warriors,Sacramento Kings
+2023-04-20,305444865b7450141fa61fa5deb62828,betmgm,player_blocks_over_under,moses moody,False,0.5,-375,2023-04-21T01:30:02,Golden State Warriors,Sacramento Kings
+2023-04-20,305444865b7450141fa61fa5deb62828,betmgm,player_points_over_under,moses moody,True,5.5,-120,2023-04-21T01:30:02,Golden State Warriors,Sacramento Kings
+2023-04-20,305444865b7450141fa61fa5deb62828,draftkings,player_rebounds_over_under,moses moody,True,2.5,-165,2023-04-21T01:30:02,Golden State Warriors,Sacramento Kings
+2023-04-20,305444865b7450141fa61fa5deb62828,draftkings,player_rebounds_over_under,moses moody,False,2.5,135,2023-04-21T01:30:02,Golden State Warriors,Sacramento Kings
+2023-04-20,305444865b7450141fa61fa5deb62828,betmgm,player_rebounds_over_under,moses moody,True,2.5,-175,2023-04-21T01:30:02,Golden State Warriors,Sacramento Kings
+2023-04-20,305444865b7450141fa61fa5deb62828,betmgm,player_assists_over_under,moses moody,False,1.5,-250,2023-04-21T01:30:02,Golden State Warriors,Sacramento Kings
+2023-04-20,305444865b7450141fa61fa5deb62828,betmgm,player_rebounds_over_under,moses moody,False,2.5,130,2023-04-21T01:30:02,Golden State Warriors,Sacramento Kings
+2023-04-20,305444865b7450141fa61fa5deb62828,draftkings,player_steals_over_under,moses moody,False,0.5,-230,2023-04-21T01:30:02,Golden State Warriors,Sacramento Kings
+2023-04-20,305444865b7450141fa61fa5deb62828,betmgm,player_steals_over_under,moses moody,True,0.5,175,2023-04-21T01:30:02,Golden State Warriors,Sacramento Kings
+2023-04-20,305444865b7450141fa61fa5deb62828,betmgm,player_steals_over_under,moses moody,False,0.5,-250,2023-04-21T01:30:02,Golden State Warriors,Sacramento Kings
+2023-04-20,305444865b7450141fa61fa5deb62828,draftkings,player_threes_over_under,moses moody,True,0.5,-115,2023-04-21T01:30:02,Golden State Warriors,Sacramento Kings
+2023-04-20,305444865b7450141fa61fa5deb62828,draftkings,player_threes_over_under,moses moody,False,0.5,-115,2023-04-21T01:30:02,Golden State Warriors,Sacramento Kings
+2023-04-20,305444865b7450141fa61fa5deb62828,betmgm,player_threes_over_under,moses moody,True,0.5,-120,2023-04-21T01:30:02,Golden State Warriors,Sacramento Kings
+2023-04-20,305444865b7450141fa61fa5deb62828,betmgm,player_threes_over_under,moses moody,False,0.5,-115,2023-04-21T01:30:02,Golden State Warriors,Sacramento Kings
+2023-04-20,305444865b7450141fa61fa5deb62828,draftkings,player_steals_over_under,moses moody,True,0.5,185,2023-04-21T01:30:02,Golden State Warriors,Sacramento Kings
+2023-04-20,305444865b7450141fa61fa5deb62828,betmgm,player_assists_over_under,moses moody,True,1.5,180,2023-04-21T01:45:01,Golden State Warriors,Sacramento Kings
+2023-04-26,0cefbb259938c3104b19a118d40bb4fe,fanduel,player_assists_over_under,moses moody,False,0.5,-340,2023-04-27T02:30:01,Sacramento Kings,Golden State Warriors
+2023-04-26,0cefbb259938c3104b19a118d40bb4fe,fanduel,player_assists_over_under,moses moody,False,1.5,-100000,2023-04-27T04:30:02,Sacramento Kings,Golden State Warriors
+2023-04-26,0cefbb259938c3104b19a118d40bb4fe,fanduel,player_threes_over_under,moses moody,True,0.5,1000,2023-04-27T04:00:01,Sacramento Kings,Golden State Warriors
+2023-04-26,0cefbb259938c3104b19a118d40bb4fe,fanduel,player_assists_over_under,moses moody,True,1.5,1000,2023-04-27T04:00:01,Sacramento Kings,Golden State Warriors
+2023-04-26,0cefbb259938c3104b19a118d40bb4fe,fanduel,player_assists_over_under,moses moody,True,0.5,235,2023-04-27T02:30:01,Sacramento Kings,Golden State Warriors
+2023-04-26,0cefbb259938c3104b19a118d40bb4fe,fanduel,player_threes_over_under,moses moody,False,0.5,-100000,2023-04-27T04:30:02,Sacramento Kings,Golden State Warriors
+2023-04-26,0cefbb259938c3104b19a118d40bb4fe,fanduel,player_blocks_over_under,moses moody,True,1.5,1000,2023-04-27T02:45:01,Sacramento Kings,Golden State Warriors
+2023-04-26,0cefbb259938c3104b19a118d40bb4fe,fanduel,player_blocks_over_under,moses moody,False,0.5,-2200,2023-04-27T02:15:02,Sacramento Kings,Golden State Warriors
+2023-04-26,0cefbb259938c3104b19a118d40bb4fe,fanduel,player_blocks_over_under,moses moody,False,1.5,-100000,2023-04-27T04:00:01,Sacramento Kings,Golden State Warriors
+2023-04-26,0cefbb259938c3104b19a118d40bb4fe,fanduel,player_points_over_under,moses moody,True,2.5,1000,2023-04-27T04:30:02,Sacramento Kings,Golden State Warriors
+2023-04-26,0cefbb259938c3104b19a118d40bb4fe,fanduel,player_points_over_under,moses moody,True,3.5,144,2023-04-27T03:30:02,Sacramento Kings,Golden State Warriors
+2023-04-26,0cefbb259938c3104b19a118d40bb4fe,fanduel,player_points_over_under,moses moody,True,4.5,-160,2023-04-27T02:30:01,Sacramento Kings,Golden State Warriors
+2023-04-26,0cefbb259938c3104b19a118d40bb4fe,fanduel,player_blocks_over_under,moses moody,True,0.5,800,2023-04-27T02:15:02,Sacramento Kings,Golden State Warriors
+2023-04-26,0cefbb259938c3104b19a118d40bb4fe,fanduel,player_points_over_under,moses moody,False,3.5,-194,2023-04-27T03:30:02,Sacramento Kings,Golden State Warriors
+2023-04-26,0cefbb259938c3104b19a118d40bb4fe,fanduel,player_points_over_under,moses moody,False,4.5,120,2023-04-27T02:30:01,Sacramento Kings,Golden State Warriors
+2023-04-26,0cefbb259938c3104b19a118d40bb4fe,fanduel,player_rebounds_over_under,moses moody,True,0.5,1000,2023-04-27T04:30:02,Sacramento Kings,Golden State Warriors
+2023-04-26,0cefbb259938c3104b19a118d40bb4fe,fanduel,player_rebounds_over_under,moses moody,True,1.5,110,2023-04-27T02:30:01,Sacramento Kings,Golden State Warriors
+2023-04-26,0cefbb259938c3104b19a118d40bb4fe,fanduel,player_rebounds_over_under,moses moody,False,0.5,-10000,2023-04-27T04:30:02,Sacramento Kings,Golden State Warriors
+2023-04-26,0cefbb259938c3104b19a118d40bb4fe,fanduel,player_rebounds_over_under,moses moody,False,1.5,-146,2023-04-27T02:30:01,Sacramento Kings,Golden State Warriors
+2023-04-26,0cefbb259938c3104b19a118d40bb4fe,fanduel,player_steals_over_under,moses moody,True,0.5,1000,2023-04-27T04:00:01,Sacramento Kings,Golden State Warriors
+2023-04-26,0cefbb259938c3104b19a118d40bb4fe,fanduel,player_steals_over_under,moses moody,False,0.5,-100000,2023-04-27T04:30:02,Sacramento Kings,Golden State Warriors
+2023-04-26,0cefbb259938c3104b19a118d40bb4fe,fanduel,player_points_over_under,moses moody,False,2.5,-5000,2023-04-27T04:30:02,Sacramento Kings,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,betmgm,player_blocks_over_under,moses moody,False,0.5,-600,2023-05-08T15:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,betmgm,player_blocks_over_under,moses moody,True,0.5,360,2023-05-08T15:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,draftkings,player_blocks_over_under,moses moody,False,0.5,-520,2023-05-08T15:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,draftkings,player_blocks_over_under,moses moody,True,0.5,380,2023-05-08T15:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,fanduel,player_blocks_over_under,moses moody,False,1.5,-5000,2023-05-09T04:15:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,fanduel,player_blocks_over_under,moses moody,False,0.5,-50000,2023-05-09T04:00:02,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,fanduel,player_blocks_over_under,moses moody,True,1.5,1000,2023-05-09T04:15:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,pinnacle,player_assists_over_under,moses moody,False,0.5,-108,2023-05-09T02:00:02,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,betmgm,player_assists_over_under,moses moody,False,0.5,-125,2023-05-08T15:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,betmgm,player_assists_over_under,moses moody,True,0.5,-105,2023-05-08T15:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,pinnacle,player_assists_over_under,moses moody,True,0.5,-123,2023-05-09T02:00:02,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,fanduel,player_assists_over_under,moses moody,True,0.5,490,2023-05-09T04:15:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,betmgm,player_threes_over_under,moses moody,True,0.5,-120,2023-05-08T15:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,fanduel,player_points_over_under,moses moody,True,3.5,-188,2023-05-09T03:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,fanduel,player_blocks_over_under,moses moody,True,0.5,1000,2023-05-09T04:00:02,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,fanduel,player_points_over_under,moses moody,True,4.5,128,2023-05-09T03:30:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,betmgm,player_threes_over_under,moses moody,False,0.5,-115,2023-05-08T23:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,fanduel,player_points_over_under,moses moody,True,7.5,-250,2023-05-09T04:15:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,betmgm,player_rebounds_over_under,moses moody,True,1.5,-200,2023-05-08T15:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,betmgm,player_rebounds_over_under,moses moody,True,2.5,150,2023-05-08T23:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,betmgm,player_rebounds_over_under,moses moody,False,1.5,150,2023-05-08T15:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,betmgm,player_rebounds_over_under,moses moody,False,2.5,-200,2023-05-08T23:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,fanduel,player_steals_over_under,moses moody,True,0.5,550,2023-05-09T03:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,fanduel,player_steals_over_under,moses moody,True,1.5,1000,2023-05-09T04:00:02,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,fanduel,player_steals_over_under,moses moody,True,2.5,920,2023-05-09T04:15:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,fanduel,player_steals_over_under,moses moody,False,0.5,-1100,2023-05-09T03:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,fanduel,player_steals_over_under,moses moody,False,1.5,-10000,2023-05-09T04:00:02,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,fanduel,player_steals_over_under,moses moody,False,2.5,-3500,2023-05-09T04:15:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,draftkings,player_steals_over_under,moses moody,True,0.5,400,2023-05-09T03:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,draftkings,player_steals_over_under,moses moody,True,2.5,800,2023-05-09T04:15:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,draftkings,player_rebounds_over_under,moses moody,False,2.5,-190,2023-05-08T23:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,draftkings,player_steals_over_under,moses moody,False,0.5,-700,2023-05-09T03:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,betmgm,player_steals_over_under,moses moody,True,0.5,240,2023-05-08T15:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,betmgm,player_steals_over_under,moses moody,False,0.5,-350,2023-05-08T15:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,fanduel,player_threes_over_under,moses moody,True,0.5,230,2023-05-09T03:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,fanduel,player_threes_over_under,moses moody,True,1.5,450,2023-05-09T04:15:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,fanduel,player_threes_over_under,moses moody,False,0.5,-330,2023-05-09T03:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,fanduel,player_threes_over_under,moses moody,False,1.5,-800,2023-05-09T04:15:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,pinnacle,player_threes_over_under,moses moody,True,0.5,-117,2023-05-08T23:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,pinnacle,player_threes_over_under,moses moody,False,0.5,-113,2023-05-08T23:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,draftkings,player_threes_over_under,moses moody,True,0.5,160,2023-05-09T03:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,draftkings,player_threes_over_under,moses moody,True,1.5,400,2023-05-09T04:15:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,draftkings,player_threes_over_under,moses moody,False,0.5,-220,2023-05-09T03:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,draftkings,player_threes_over_under,moses moody,False,1.5,-700,2023-05-09T04:15:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,fanduel,player_points_over_under,moses moody,True,5.5,265,2023-05-09T04:00:02,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,draftkings,player_rebounds_over_under,moses moody,False,1.5,-160,2023-05-09T04:15:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,draftkings,player_steals_over_under,moses moody,False,2.5,-2500,2023-05-09T04:15:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,draftkings,player_rebounds_over_under,moses moody,True,2.5,155,2023-05-08T23:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,fanduel,player_points_over_under,moses moody,False,3.5,140,2023-05-09T03:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,fanduel,player_points_over_under,moses moody,False,4.5,-172,2023-05-09T03:30:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,draftkings,player_rebounds_over_under,moses moody,False,0.5,175,2023-05-09T03:30:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,fanduel,player_points_over_under,moses moody,False,5.5,-390,2023-05-09T04:00:02,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,fanduel,player_points_over_under,moses moody,False,7.5,182,2023-05-09T04:15:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,pinnacle,player_points_over_under,moses moody,True,4.5,105,2023-05-09T01:45:02,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,pinnacle,player_points_over_under,moses moody,False,4.5,-138,2023-05-09T01:45:02,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,draftkings,player_points_over_under,moses moody,True,3.5,-105,2023-05-09T02:30:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,draftkings,player_points_over_under,moses moody,True,4.5,-125,2023-05-09T03:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,draftkings,player_points_over_under,moses moody,True,5.5,205,2023-05-09T04:00:02,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,draftkings,player_points_over_under,moses moody,True,7.5,-255,2023-05-09T04:15:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,draftkings,player_points_over_under,moses moody,False,3.5,-130,2023-05-09T02:30:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,draftkings,player_points_over_under,moses moody,False,4.5,-105,2023-05-09T03:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,fanduel,player_assists_over_under,moses moody,False,0.5,-900,2023-05-09T04:15:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,draftkings,player_points_over_under,moses moody,False,7.5,185,2023-05-09T04:15:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,draftkings,player_points_over_under,moses moody,False,5.5,-290,2023-05-09T04:00:02,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,pinnacle,player_rebounds_over_under,moses moody,False,2.5,-258,2023-05-08T23:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,draftkings,player_rebounds_over_under,moses moody,True,0.5,-240,2023-05-09T03:30:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,draftkings,player_rebounds_over_under,moses moody,True,1.5,120,2023-05-09T04:15:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,pinnacle,player_rebounds_over_under,moses moody,True,2.5,180,2023-05-08T23:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,pinnacle,player_rebounds_over_under,moses moody,True,1.5,-179,2023-05-09T00:00:02,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,pinnacle,player_rebounds_over_under,moses moody,False,1.5,129,2023-05-09T00:00:02,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,fanduel,player_rebounds_over_under,moses moody,False,0.5,148,2023-05-09T03:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,fanduel,player_rebounds_over_under,moses moody,True,1.5,132,2023-05-09T04:15:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,fanduel,player_rebounds_over_under,moses moody,True,0.5,-200,2023-05-09T03:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,betmgm,player_points_over_under,moses moody,False,4.5,-115,2023-05-08T15:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,betmgm,player_points_over_under,moses moody,True,4.5,-120,2023-05-08T15:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-08,b236aa5467bc17ced7a94f9b0a623041,fanduel,player_rebounds_over_under,moses moody,False,1.5,-178,2023-05-09T04:15:01,Los Angeles Lakers,Golden State Warriors
+2023-05-10,3841c7411bd6873794449055603eebf7,betmgm,player_steals_over_under,moses moody,True,0.5,165,2023-05-10T04:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-10,3841c7411bd6873794449055603eebf7,betmgm,player_rebounds_over_under,moses moody,False,2.5,-105,2023-05-11T00:30:01,Golden State Warriors,Los Angeles Lakers
+2023-05-10,3841c7411bd6873794449055603eebf7,draftkings,player_steals_over_under,moses moody,True,0.5,170,2023-05-10T01:30:01,Golden State Warriors,Los Angeles Lakers
+2023-05-10,3841c7411bd6873794449055603eebf7,draftkings,player_steals_over_under,moses moody,False,0.5,-210,2023-05-10T01:30:01,Golden State Warriors,Los Angeles Lakers
+2023-05-10,3841c7411bd6873794449055603eebf7,betmgm,player_steals_over_under,moses moody,False,0.5,-225,2023-05-10T04:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-10,3841c7411bd6873794449055603eebf7,betmgm,player_threes_over_under,moses moody,True,0.5,-145,2023-05-10T04:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-10,3841c7411bd6873794449055603eebf7,pinnacle,player_threes_over_under,moses moody,False,0.5,108,2023-05-11T02:00:01,Golden State Warriors,Los Angeles Lakers
+2023-05-10,3841c7411bd6873794449055603eebf7,draftkings,player_threes_over_under,moses moody,True,0.5,-140,2023-05-10T01:30:01,Golden State Warriors,Los Angeles Lakers
+2023-05-10,3841c7411bd6873794449055603eebf7,draftkings,player_threes_over_under,moses moody,False,0.5,110,2023-05-10T01:30:01,Golden State Warriors,Los Angeles Lakers
+2023-05-10,3841c7411bd6873794449055603eebf7,betmgm,player_rebounds_over_under,moses moody,True,2.5,-125,2023-05-10T04:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-10,3841c7411bd6873794449055603eebf7,betmgm,player_threes_over_under,moses moody,False,0.5,105,2023-05-11T01:45:02,Golden State Warriors,Los Angeles Lakers
+2023-05-10,3841c7411bd6873794449055603eebf7,pinnacle,player_threes_over_under,moses moody,True,0.5,-144,2023-05-11T02:00:01,Golden State Warriors,Los Angeles Lakers
+2023-05-10,3841c7411bd6873794449055603eebf7,draftkings,player_rebounds_over_under,moses moody,False,2.5,-110,2023-05-10T01:30:01,Golden State Warriors,Los Angeles Lakers
+2023-05-10,3841c7411bd6873794449055603eebf7,pinnacle,player_points_over_under,moses moody,False,6.5,-103,2023-05-09T16:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-10,3841c7411bd6873794449055603eebf7,pinnacle,player_rebounds_over_under,moses moody,False,2.5,-120,2023-05-11T02:00:01,Golden State Warriors,Los Angeles Lakers
+2023-05-10,3841c7411bd6873794449055603eebf7,pinnacle,player_rebounds_over_under,moses moody,True,2.5,-109,2023-05-11T02:00:01,Golden State Warriors,Los Angeles Lakers
+2023-05-10,3841c7411bd6873794449055603eebf7,betmgm,player_points_over_under,moses moody,False,5.5,-115,2023-05-10T04:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-10,3841c7411bd6873794449055603eebf7,betmgm,player_points_over_under,moses moody,True,5.5,-120,2023-05-10T04:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-10,3841c7411bd6873794449055603eebf7,pinnacle,player_points_over_under,moses moody,False,5.5,-110,2023-05-11T02:00:01,Golden State Warriors,Los Angeles Lakers
+2023-05-10,3841c7411bd6873794449055603eebf7,pinnacle,player_points_over_under,moses moody,True,6.5,-129,2023-05-09T16:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-10,3841c7411bd6873794449055603eebf7,pinnacle,player_points_over_under,moses moody,True,5.5,-119,2023-05-11T02:00:01,Golden State Warriors,Los Angeles Lakers
+2023-05-10,3841c7411bd6873794449055603eebf7,betmgm,player_blocks_over_under,moses moody,False,0.5,-350,2023-05-10T04:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-10,3841c7411bd6873794449055603eebf7,betmgm,player_blocks_over_under,moses moody,True,0.5,250,2023-05-10T04:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-10,3841c7411bd6873794449055603eebf7,draftkings,player_blocks_over_under,moses moody,False,0.5,-335,2023-05-10T01:30:01,Golden State Warriors,Los Angeles Lakers
+2023-05-10,3841c7411bd6873794449055603eebf7,betmgm,player_assists_over_under,moses moody,False,0.5,110,2023-05-10T04:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-10,3841c7411bd6873794449055603eebf7,betmgm,player_assists_over_under,moses moody,True,0.5,-150,2023-05-10T04:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-10,3841c7411bd6873794449055603eebf7,pinnacle,player_assists_over_under,moses moody,False,0.5,104,2023-05-11T02:00:01,Golden State Warriors,Los Angeles Lakers
+2023-05-10,3841c7411bd6873794449055603eebf7,pinnacle,player_assists_over_under,moses moody,True,0.5,-139,2023-05-11T02:00:01,Golden State Warriors,Los Angeles Lakers
+2023-05-10,3841c7411bd6873794449055603eebf7,draftkings,player_rebounds_over_under,moses moody,True,2.5,-120,2023-05-10T01:30:01,Golden State Warriors,Los Angeles Lakers
+2023-05-10,3841c7411bd6873794449055603eebf7,draftkings,player_blocks_over_under,moses moody,True,0.5,260,2023-05-10T01:30:01,Golden State Warriors,Los Angeles Lakers
+2023-05-12,441d372a9822412b6ae0e37a67a0c01f,pinnacle,player_assists_over_under,moses moody,True,0.5,-102,2023-05-13T02:15:02,Los Angeles Lakers,Golden State Warriors
+2023-05-12,441d372a9822412b6ae0e37a67a0c01f,betmgm,player_rebounds_over_under,moses moody,True,2.5,110,2023-05-13T01:05:01,Los Angeles Lakers,Golden State Warriors
+2023-05-12,441d372a9822412b6ae0e37a67a0c01f,pinnacle,player_points_over_under,moses moody,True,5.5,119,2023-05-13T02:15:02,Los Angeles Lakers,Golden State Warriors
+2023-05-12,441d372a9822412b6ae0e37a67a0c01f,pinnacle,player_points_over_under,moses moody,False,5.5,-159,2023-05-13T02:15:02,Los Angeles Lakers,Golden State Warriors
+2023-05-12,441d372a9822412b6ae0e37a67a0c01f,betmgm,player_points_over_under,moses moody,True,5.5,-105,2023-05-13T01:05:01,Los Angeles Lakers,Golden State Warriors
+2023-05-12,441d372a9822412b6ae0e37a67a0c01f,betmgm,player_points_over_under,moses moody,False,5.5,-125,2023-05-13T01:05:01,Los Angeles Lakers,Golden State Warriors
+2023-05-12,441d372a9822412b6ae0e37a67a0c01f,pinnacle,player_rebounds_over_under,moses moody,True,2.5,119,2023-05-13T02:15:02,Los Angeles Lakers,Golden State Warriors
+2023-05-12,441d372a9822412b6ae0e37a67a0c01f,pinnacle,player_rebounds_over_under,moses moody,False,2.5,-159,2023-05-13T02:15:02,Los Angeles Lakers,Golden State Warriors
+2023-05-12,441d372a9822412b6ae0e37a67a0c01f,draftkings,player_rebounds_over_under,moses moody,True,2.5,135,2023-05-13T01:20:02,Los Angeles Lakers,Golden State Warriors
+2023-05-12,441d372a9822412b6ae0e37a67a0c01f,draftkings,player_rebounds_over_under,moses moody,False,2.5,-165,2023-05-13T01:20:02,Los Angeles Lakers,Golden State Warriors
+2023-05-12,441d372a9822412b6ae0e37a67a0c01f,draftkings,player_blocks_over_under,moses moody,False,0.5,-380,2023-05-11T20:10:01,Los Angeles Lakers,Golden State Warriors
+2023-05-12,441d372a9822412b6ae0e37a67a0c01f,betmgm,player_rebounds_over_under,moses moody,False,2.5,-145,2023-05-13T01:05:01,Los Angeles Lakers,Golden State Warriors
+2023-05-12,441d372a9822412b6ae0e37a67a0c01f,draftkings,player_steals_over_under,moses moody,True,0.5,210,2023-05-11T20:10:01,Los Angeles Lakers,Golden State Warriors
+2023-05-12,441d372a9822412b6ae0e37a67a0c01f,betmgm,player_blocks_over_under,moses moody,False,0.5,-400,2023-05-13T01:05:01,Los Angeles Lakers,Golden State Warriors
+2023-05-12,441d372a9822412b6ae0e37a67a0c01f,draftkings,player_steals_over_under,moses moody,False,0.5,-265,2023-05-11T20:10:01,Los Angeles Lakers,Golden State Warriors
+2023-05-12,441d372a9822412b6ae0e37a67a0c01f,betmgm,player_steals_over_under,moses moody,False,0.5,-275,2023-05-13T01:05:01,Los Angeles Lakers,Golden State Warriors
+2023-05-12,441d372a9822412b6ae0e37a67a0c01f,draftkings,player_blocks_over_under,moses moody,True,0.5,290,2023-05-11T20:10:01,Los Angeles Lakers,Golden State Warriors
+2023-05-12,441d372a9822412b6ae0e37a67a0c01f,pinnacle,player_threes_over_under,moses moody,True,0.5,-150,2023-05-13T02:15:02,Los Angeles Lakers,Golden State Warriors
+2023-05-12,441d372a9822412b6ae0e37a67a0c01f,pinnacle,player_threes_over_under,moses moody,False,0.5,112,2023-05-13T02:15:02,Los Angeles Lakers,Golden State Warriors
+2023-05-12,441d372a9822412b6ae0e37a67a0c01f,draftkings,player_threes_over_under,moses moody,True,0.5,-130,2023-05-13T01:45:02,Los Angeles Lakers,Golden State Warriors
+2023-05-12,441d372a9822412b6ae0e37a67a0c01f,draftkings,player_threes_over_under,moses moody,False,0.5,100,2023-05-13T01:45:02,Los Angeles Lakers,Golden State Warriors
+2023-05-12,441d372a9822412b6ae0e37a67a0c01f,betmgm,player_threes_over_under,moses moody,True,0.5,-150,2023-05-13T01:05:01,Los Angeles Lakers,Golden State Warriors
+2023-05-12,441d372a9822412b6ae0e37a67a0c01f,betmgm,player_threes_over_under,moses moody,False,0.5,110,2023-05-13T01:05:01,Los Angeles Lakers,Golden State Warriors
+2023-05-12,441d372a9822412b6ae0e37a67a0c01f,betmgm,player_assists_over_under,moses moody,False,0.5,-130,2023-05-13T01:05:01,Los Angeles Lakers,Golden State Warriors
+2023-05-12,441d372a9822412b6ae0e37a67a0c01f,betmgm,player_assists_over_under,moses moody,True,0.5,-105,2023-05-13T01:05:01,Los Angeles Lakers,Golden State Warriors
+2023-05-12,441d372a9822412b6ae0e37a67a0c01f,pinnacle,player_assists_over_under,moses moody,False,0.5,-130,2023-05-13T02:15:02,Los Angeles Lakers,Golden State Warriors
+2023-05-12,441d372a9822412b6ae0e37a67a0c01f,betmgm,player_steals_over_under,moses moody,True,0.5,200,2023-05-13T01:05:01,Los Angeles Lakers,Golden State Warriors
+2023-05-12,441d372a9822412b6ae0e37a67a0c01f,betmgm,player_blocks_over_under,moses moody,True,0.5,280,2023-05-13T01:05:01,Los Angeles Lakers,Golden State Warriors
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_threes_over_under,moses moody,False,1.5,-550,2023-10-24T23:05:51,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_blocks_over_under,moses moody,False,0.5,-450,2023-10-25T02:15:25,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_assists_over_under,moses moody,False,2.5,-1400,2023-10-24T23:05:51,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_assists_over_under,moses moody,False,1.5,-350,2023-10-24T23:05:51,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_assists_over_under,moses moody,False,0.5,125,2023-10-24T23:05:51,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betmgm,player_blocks_over_under,moses moody,True,0.5,320,2023-10-25T02:15:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betmgm,player_blocks_over_under,moses moody,False,0.5,-500,2023-10-25T02:15:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_blocks_over_under,moses moody,True,0.5,320,2023-10-24T23:05:51,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_blocks_over_under,moses moody,False,0.5,-475,2023-10-24T23:05:51,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,moses moody,True,6.5,-110,2023-10-25T02:40:54,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,moses moody,True,11.5,700,2023-10-25T04:35:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,moses moody,True,12.5,-135,2023-10-25T04:15:28,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,moses moody,True,14.5,105,2023-10-25T04:15:28,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,moses moody,True,15.5,-115,2023-10-25T03:41:52,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,moses moody,False,4.5,-130,2023-10-25T02:35:08,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,moses moody,True,5.5,110,2023-10-24T21:05:08,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,moses moody,False,5.5,-140,2023-10-24T21:05:08,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,moses moody,False,11.5,-1800,2023-10-25T04:35:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,moses moody,False,12.5,100,2023-10-25T04:15:28,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,moses moody,False,14.5,-140,2023-10-25T04:15:28,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,moses moody,False,15.5,-115,2023-10-25T03:41:52,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betmgm,player_points_over_under,moses moody,True,4.5,-125,2023-10-25T02:15:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_threes_over_under,moses moody,False,2.5,-3500,2023-10-24T23:05:51,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,moses moody,False,6.5,-120,2023-10-25T02:40:54,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_assists_over_under,moses moody,True,2.5,550,2023-10-24T23:05:51,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,moses moody,True,4.5,100,2023-10-25T02:35:08,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,moses moody,False,12.5,-184,2023-10-25T04:00:58,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,moses moody,True,3.5,-130,2023-10-25T02:31:24,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,moses moody,True,4.5,-142,2023-10-24T21:06:12,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,moses moody,True,5.5,-108,2023-10-25T02:35:23,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,moses moody,True,9.5,-156,2023-10-25T02:45:13,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,moses moody,True,10.5,124,2023-10-25T02:40:10,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,moses moody,True,11.5,350,2023-10-25T04:30:08,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,moses moody,False,13.5,-180,2023-10-25T03:05:42,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,moses moody,True,12.5,142,2023-10-25T04:00:58,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,moses moody,False,3.5,102,2023-10-25T02:31:24,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,moses moody,False,4.5,116,2023-10-24T21:06:12,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,moses moody,False,5.5,-118,2023-10-25T02:35:23,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,moses moody,False,9.5,122,2023-10-25T02:45:13,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,moses moody,False,10.5,-158,2023-10-25T02:40:10,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,moses moody,False,11.5,-4000,2023-10-25T04:40:06,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,moses moody,True,13.5,140,2023-10-25T03:05:42,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_assists_over_under,moses moody,True,1.5,230,2023-10-24T23:05:51,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_blocks_over_under,moses moody,True,0.5,330,2023-10-25T02:15:25,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betmgm,player_assists_over_under,moses moody,False,0.5,130,2023-10-25T02:15:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_steals_over_under,moses moody,True,0.5,185,2023-10-25T02:15:25,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_steals_over_under,moses moody,False,0.5,-240,2023-10-25T02:15:25,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betmgm,player_steals_over_under,moses moody,True,0.5,165,2023-10-25T02:15:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betmgm,player_steals_over_under,moses moody,False,0.5,-225,2023-10-25T02:15:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_steals_over_under,moses moody,True,0.5,160,2023-10-24T23:05:51,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_steals_over_under,moses moody,False,0.5,-200,2023-10-24T23:05:51,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_threes_over_under,moses moody,True,0.5,-120,2023-10-25T02:40:54,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_threes_over_under,moses moody,True,1.5,-130,2023-10-25T02:55:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_rebounds_over_under,moses moody,False,3.5,-450,2023-10-24T23:05:51,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_threes_over_under,moses moody,True,2.5,850,2023-10-25T04:25:06,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_threes_over_under,moses moody,False,1.5,100,2023-10-25T02:55:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_threes_over_under,moses moody,False,2.5,-3000,2023-10-25T04:25:06,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betmgm,player_threes_over_under,moses moody,True,0.5,-130,2023-10-25T02:15:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betmgm,player_threes_over_under,moses moody,False,0.5,-105,2023-10-25T02:15:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_threes_over_under,moses moody,True,0.5,-125,2023-10-24T23:05:51,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_threes_over_under,moses moody,True,1.5,320,2023-10-24T23:05:51,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_assists_over_under,moses moody,True,0.5,-175,2023-10-24T23:05:51,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_threes_over_under,moses moody,False,0.5,-105,2023-10-24T23:05:51,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_threes_over_under,moses moody,False,0.5,-110,2023-10-25T02:40:54,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_rebounds_over_under,moses moody,False,2.5,-180,2023-10-24T23:05:51,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_threes_over_under,moses moody,True,2.5,750,2023-10-24T23:05:51,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_rebounds_over_under,moses moody,True,3.5,280,2023-10-24T23:05:51,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betmgm,player_assists_over_under,moses moody,True,0.5,-175,2023-10-25T02:15:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_rebounds_over_under,moses moody,False,1.5,145,2023-10-24T23:05:51,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_assists_over_under,moses moody,True,0.5,-145,2023-10-25T02:15:25,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betmgm,player_points_over_under,moses moody,True,5.5,110,2023-10-24T21:10:12,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betmgm,player_points_over_under,moses moody,False,4.5,-110,2023-10-25T02:15:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betmgm,player_points_over_under,moses moody,False,5.5,-145,2023-10-24T21:10:12,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_points_over_under,moses moody,True,3.5,-150,2023-10-24T23:05:51,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_points_over_under,moses moody,True,4.5,100,2023-10-24T23:05:51,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_points_over_under,moses moody,True,5.5,125,2023-10-24T23:05:51,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_assists_over_under,moses moody,False,0.5,115,2023-10-25T02:15:25,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_points_over_under,moses moody,False,4.5,-130,2023-10-24T23:05:51,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_points_over_under,moses moody,False,5.5,-175,2023-10-24T23:05:51,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_rebounds_over_under,moses moody,True,2.5,165,2023-10-25T02:15:25,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_rebounds_over_under,moses moody,False,2.5,-210,2023-10-25T02:15:25,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betmgm,player_rebounds_over_under,moses moody,True,2.5,130,2023-10-25T02:15:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_rebounds_over_under,moses moody,True,2.5,130,2023-10-24T23:05:51,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betmgm,player_rebounds_over_under,moses moody,False,2.5,-165,2023-10-25T02:15:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_rebounds_over_under,moses moody,True,1.5,-200,2023-10-24T23:05:51,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_points_over_under,moses moody,False,3.5,100,2023-10-24T23:05:51,Golden State Warriors,Phoenix Suns
+2023-10-27,f91f9d07281365808aa62ea443998bd9,draftkings,player_steals_over_under,moses moody,True,2.5,800,2023-10-28T03:55:37,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,draftkings,player_steals_over_under,moses moody,True,1.5,350,2023-10-28T03:45:19,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,draftkings,player_steals_over_under,moses moody,True,0.5,150,2023-10-28T02:36:09,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,fanduel,player_steals_over_under,moses moody,False,3.5,-100000,2023-10-28T04:25:05,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,fanduel,player_steals_over_under,moses moody,False,2.5,-3000,2023-10-28T03:55:10,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,fanduel,player_steals_over_under,moses moody,False,1.5,-580,2023-10-28T03:45:15,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,fanduel,player_steals_over_under,moses moody,False,0.5,-230,2023-10-28T02:35:47,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,fanduel,player_steals_over_under,moses moody,True,1.5,360,2023-10-28T03:45:15,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,fanduel,player_steals_over_under,moses moody,True,2.5,850,2023-10-28T03:55:10,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,fanduel,player_steals_over_under,moses moody,True,0.5,168,2023-10-28T02:35:47,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,barstool,player_rebounds_over_under,moses moody,False,2.5,-140,2023-10-28T03:05:18,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,barstool,player_rebounds_over_under,moses moody,False,1.5,-130,2023-10-28T02:50:11,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,barstool,player_rebounds_over_under,moses moody,True,2.5,100,2023-10-28T03:05:18,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,barstool,player_rebounds_over_under,moses moody,True,1.5,-110,2023-10-28T02:50:11,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,draftkings,player_steals_over_under,moses moody,True,3.5,500,2023-10-28T04:11:09,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,betmgm,player_rebounds_over_under,moses moody,False,2.5,-120,2023-10-27T18:35:19,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,fanduel,player_steals_over_under,moses moody,True,3.5,1000,2023-10-28T04:16:31,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,draftkings,player_steals_over_under,moses moody,False,0.5,-205,2023-10-28T02:36:09,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,barstool,player_steals_over_under,moses moody,False,1.5,-300,2023-10-28T03:05:18,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,draftkings,player_steals_over_under,moses moody,False,2.5,-2500,2023-10-28T03:55:37,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,betmgm,player_rebounds_over_under,moses moody,True,2.5,-110,2023-10-27T18:35:19,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,barstool,player_threes_over_under,moses moody,False,0.5,-150,2023-10-28T03:05:18,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,barstool,player_threes_over_under,moses moody,True,0.5,105,2023-10-28T03:05:18,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,betmgm,player_threes_over_under,moses moody,False,0.5,135,2023-10-27T18:25:05,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,betmgm,player_threes_over_under,moses moody,True,0.5,-185,2023-10-27T18:35:19,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,draftkings,player_threes_over_under,moses moody,False,2.5,-3500,2023-10-28T04:20:20,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,draftkings,player_threes_over_under,moses moody,False,1.5,-360,2023-10-28T03:50:04,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,draftkings,player_threes_over_under,moses moody,False,0.5,-220,2023-10-28T03:45:19,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,draftkings,player_threes_over_under,moses moody,True,2.5,900,2023-10-28T04:20:20,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,draftkings,player_threes_over_under,moses moody,True,1.5,250,2023-10-28T03:50:04,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,draftkings,player_threes_over_under,moses moody,True,0.5,165,2023-10-28T03:45:19,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,barstool,player_steals_over_under,moses moody,False,0.5,-225,2023-10-28T02:37:05,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,barstool,player_steals_over_under,moses moody,True,1.5,200,2023-10-28T03:05:18,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,barstool,player_steals_over_under,moses moody,True,0.5,150,2023-10-28T02:37:05,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,betmgm,player_steals_over_under,moses moody,False,0.5,-160,2023-10-27T18:25:05,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,betmgm,player_steals_over_under,moses moody,True,0.5,120,2023-10-27T18:25:05,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,draftkings,player_steals_over_under,moses moody,False,3.5,-900,2023-10-28T04:11:09,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,draftkings,player_steals_over_under,moses moody,False,1.5,-550,2023-10-28T03:45:19,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,draftkings,player_rebounds_over_under,moses moody,False,3.5,-1100,2023-10-28T04:20:20,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,barstool,player_points_over_under,moses moody,True,4.5,-140,2023-10-28T02:30:04,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,draftkings,player_rebounds_over_under,moses moody,False,1.5,145,2023-10-28T03:35:04,Sacramento Kings,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_rebounds_over_under,moses moody,True,3.5,1000,2023-10-30T01:25:18,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_rebounds_over_under,moses moody,True,4.5,800,2023-10-30T01:10:31,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_rebounds_over_under,moses moody,False,1.5,-130,2023-10-29T23:45:21,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_rebounds_over_under,moses moody,False,2.5,174,2023-10-30T00:45:20,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_rebounds_over_under,moses moody,False,3.5,-100000,2023-10-30T01:30:23,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_rebounds_over_under,moses moody,False,4.5,-2200,2023-10-30T01:10:31,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_rebounds_over_under,moses moody,True,1.5,-105,2023-10-29T23:45:16,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_rebounds_over_under,moses moody,True,2.5,-215,2023-10-30T00:45:46,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_rebounds_over_under,moses moody,True,3.5,1100,2023-10-30T01:25:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_rebounds_over_under,moses moody,True,4.5,800,2023-10-30T01:10:25,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_rebounds_over_under,moses moody,False,1.5,-130,2023-10-29T23:45:16,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_rebounds_over_under,moses moody,True,2.5,-240,2023-10-30T00:45:20,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_rebounds_over_under,moses moody,False,2.5,160,2023-10-30T00:45:46,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_rebounds_over_under,moses moody,False,4.5,-2000,2023-10-30T01:10:25,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_rebounds_over_under,moses moody,True,1.5,-105,2023-10-29T23:45:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_rebounds_over_under,moses moody,True,2.5,-225,2023-10-30T00:25:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_rebounds_over_under,moses moody,True,3.5,145,2023-10-30T00:35:23,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_rebounds_over_under,moses moody,False,1.5,-135,2023-10-29T23:45:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_rebounds_over_under,moses moody,False,2.5,150,2023-10-30T00:25:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_rebounds_over_under,moses moody,False,3.5,-215,2023-10-30T00:35:23,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_steals_over_under,moses moody,True,0.5,1000,2023-10-30T01:10:31,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_steals_over_under,moses moody,False,0.5,-100000,2023-10-30T01:30:23,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_steals_over_under,moses moody,True,0.5,650,2023-10-30T01:05:12,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_steals_over_under,moses moody,False,0.5,-1400,2023-10-30T01:05:12,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_rebounds_over_under,moses moody,False,3.5,-8000,2023-10-30T01:25:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_rebounds_over_under,moses moody,True,1.5,-102,2023-10-29T23:45:21,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,moses moody,False,5.5,-135,2023-10-29T23:25:11,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,moses moody,False,4.5,-135,2023-10-29T23:35:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_assists_over_under,moses moody,True,0.5,320,2023-10-30T00:40:05,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_assists_over_under,moses moody,True,1.5,1000,2023-10-30T01:10:31,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_assists_over_under,moses moody,False,0.5,-490,2023-10-30T00:40:05,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_assists_over_under,moses moody,False,1.5,-100000,2023-10-30T01:30:23,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_assists_over_under,moses moody,True,0.5,-125,2023-10-29T23:15:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_assists_over_under,moses moody,False,0.5,-105,2023-10-29T23:15:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_blocks_over_under,moses moody,True,0.5,880,2023-10-30T01:00:14,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_blocks_over_under,moses moody,True,1.5,1000,2023-10-30T01:05:13,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_blocks_over_under,moses moody,False,0.5,-3000,2023-10-30T01:00:14,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_blocks_over_under,moses moody,False,1.5,-100000,2023-10-30T01:15:21,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_blocks_over_under,moses moody,True,0.5,900,2023-10-30T01:00:35,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_blocks_over_under,moses moody,True,1.5,1000,2023-10-30T01:05:12,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_blocks_over_under,moses moody,False,0.5,-3000,2023-10-30T01:00:35,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_blocks_over_under,moses moody,False,1.5,-5000,2023-10-30T01:05:12,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_blocks_over_under,moses moody,True,0.5,300,2023-10-29T23:15:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_blocks_over_under,moses moody,False,0.5,-500,2023-10-29T23:15:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,moses moody,True,3.5,-140,2023-10-30T00:35:22,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,moses moody,True,4.5,-120,2023-10-30T00:45:46,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,moses moody,True,5.5,1100,2023-10-30T01:25:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,moses moody,True,7.5,-110,2023-10-30T00:55:05,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,moses moody,False,3.5,105,2023-10-30T00:35:22,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,moses moody,False,5.5,-8000,2023-10-30T01:25:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,moses moody,False,7.5,-120,2023-10-30T00:55:05,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,moses moody,True,4.5,-105,2023-10-29T23:35:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,moses moody,True,5.5,-105,2023-10-29T23:25:11,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_steals_over_under,moses moody,True,0.5,165,2023-10-29T23:35:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_steals_over_under,moses moody,False,0.5,-250,2023-10-29T23:35:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_threes_over_under,moses moody,True,0.5,155,2023-10-30T00:45:46,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_threes_over_under,moses moody,True,1.5,500,2023-10-30T01:05:12,Houston Rockets,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,draftkings,player_points_over_under,moses moody,True,11.5,-115,2023-10-28T04:11:09,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,draftkings,player_points_over_under,moses moody,False,5.5,-125,2023-10-28T02:45:07,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,draftkings,player_points_over_under,moses moody,False,6.5,-135,2023-10-28T03:45:19,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,draftkings,player_points_over_under,moses moody,False,7.5,-130,2023-10-28T03:05:04,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,draftkings,player_points_over_under,moses moody,False,8.5,-115,2023-10-28T03:50:04,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,draftkings,player_points_over_under,moses moody,False,10.5,-800,2023-10-28T04:20:20,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,draftkings,player_points_over_under,moses moody,False,11.5,-115,2023-10-28T04:11:09,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,betmgm,player_points_over_under,moses moody,True,5.5,-125,2023-10-27T18:35:19,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,betmgm,player_points_over_under,moses moody,False,5.5,-110,2023-10-27T18:25:05,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,barstool,player_points_over_under,moses moody,True,5.5,-105,2023-10-28T02:40:19,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,barstool,player_points_over_under,moses moody,True,6.5,-140,2023-10-28T02:37:05,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,barstool,player_points_over_under,moses moody,True,7.5,100,2023-10-28T03:05:18,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,barstool,player_points_over_under,moses moody,False,4.5,100,2023-10-28T02:30:04,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,barstool,player_points_over_under,moses moody,False,5.5,-135,2023-10-28T02:40:19,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,barstool,player_points_over_under,moses moody,False,6.5,100,2023-10-28T02:37:05,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,barstool,player_points_over_under,moses moody,False,7.5,-140,2023-10-28T03:05:18,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,fanduel,player_rebounds_over_under,moses moody,True,1.5,-194,2023-10-28T03:35:04,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,fanduel,player_rebounds_over_under,moses moody,True,2.5,-200,2023-10-28T03:41:34,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,fanduel,player_rebounds_over_under,moses moody,True,3.5,1000,2023-10-28T04:25:05,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,fanduel,player_rebounds_over_under,moses moody,False,1.5,142,2023-10-28T03:35:04,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,fanduel,player_rebounds_over_under,moses moody,False,2.5,148,2023-10-28T03:41:34,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,fanduel,player_rebounds_over_under,moses moody,False,3.5,-100000,2023-10-28T04:35:20,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,draftkings,player_rebounds_over_under,moses moody,True,1.5,-195,2023-10-28T03:35:04,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,draftkings,player_rebounds_over_under,moses moody,True,2.5,-195,2023-10-28T03:45:19,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,draftkings,player_rebounds_over_under,moses moody,True,3.5,550,2023-10-28T04:20:20,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,draftkings,player_points_over_under,moses moody,True,10.5,450,2023-10-28T04:20:20,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,draftkings,player_rebounds_over_under,moses moody,False,2.5,145,2023-10-28T03:45:19,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,draftkings,player_points_over_under,moses moody,True,8.5,-115,2023-10-28T03:50:04,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,draftkings,player_points_over_under,moses moody,True,6.5,100,2023-10-28T03:40:42,Sacramento Kings,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_threes_over_under,moses moody,False,0.5,-210,2023-10-30T00:45:46,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_threes_over_under,moses moody,False,1.5,-1000,2023-10-30T01:05:12,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_threes_over_under,moses moody,True,0.5,-120,2023-10-29T23:35:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_threes_over_under,moses moody,False,0.5,-120,2023-10-29T23:35:03,Houston Rockets,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,fanduel,player_assists_over_under,moses moody,True,0.5,-182,2023-10-28T02:25:09,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,fanduel,player_assists_over_under,moses moody,True,1.5,1000,2023-10-28T04:16:31,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,fanduel,player_assists_over_under,moses moody,False,0.5,136,2023-10-28T02:25:09,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,fanduel,player_assists_over_under,moses moody,False,1.5,-100000,2023-10-28T04:25:05,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,betmgm,player_assists_over_under,moses moody,True,0.5,-175,2023-10-27T18:35:19,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,betmgm,player_assists_over_under,moses moody,False,0.5,130,2023-10-27T18:35:19,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,barstool,player_assists_over_under,moses moody,True,0.5,-160,2023-10-28T02:16:07,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,barstool,player_assists_over_under,moses moody,True,1.5,250,2023-10-27T18:10:15,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,barstool,player_assists_over_under,moses moody,False,0.5,120,2023-10-28T02:16:07,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,barstool,player_assists_over_under,moses moody,False,1.5,-400,2023-10-27T18:10:15,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,fanduel,player_blocks_over_under,moses moody,True,0.5,1000,2023-10-28T04:16:31,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,fanduel,player_blocks_over_under,moses moody,False,0.5,-100000,2023-10-28T04:25:05,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,draftkings,player_blocks_over_under,moses moody,True,0.5,750,2023-10-28T04:11:09,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,draftkings,player_blocks_over_under,moses moody,False,0.5,-1800,2023-10-28T04:11:09,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,betmgm,player_blocks_over_under,moses moody,True,0.5,250,2023-10-27T18:25:05,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,betmgm,player_blocks_over_under,moses moody,False,0.5,-350,2023-10-27T18:05:04,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,barstool,player_blocks_over_under,moses moody,True,0.5,270,2023-10-28T02:30:04,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,barstool,player_blocks_over_under,moses moody,True,1.5,1400,2023-10-28T02:16:07,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,barstool,player_blocks_over_under,moses moody,False,0.5,-450,2023-10-28T02:30:04,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,barstool,player_blocks_over_under,moses moody,False,1.5,-5000,2023-10-28T02:16:07,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,draftkings,player_points_over_under,moses moody,True,5.5,-105,2023-10-28T02:45:07,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,draftkings,player_points_over_under,moses moody,True,7.5,100,2023-10-28T03:05:04,Sacramento Kings,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,moses moody,False,4.5,-110,2023-10-30T00:45:46,Houston Rockets,Golden State Warriors

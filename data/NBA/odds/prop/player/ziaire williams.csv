@@ -1,0 +1,456 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,caesars,player_threes_over_under,ziaire williams,True,1.5,-199,2023-04-09T19:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_rebounds_over_under,ziaire williams,True,5.5,130,2023-04-09T20:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_rebounds_over_under,ziaire williams,True,4.5,350,2023-04-09T21:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_rebounds_over_under,ziaire williams,True,3.5,-170,2023-04-09T21:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_rebounds_over_under,ziaire williams,False,5.5,-174,2023-04-09T20:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_rebounds_over_under,ziaire williams,False,4.5,-500,2023-04-09T21:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_rebounds_over_under,ziaire williams,False,3.5,134,2023-04-09T21:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_rebounds_over_under,ziaire williams,True,5.5,130,2023-04-09T20:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_rebounds_over_under,ziaire williams,True,4.5,320,2023-04-09T21:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_rebounds_over_under,ziaire williams,True,3.5,-180,2023-04-09T21:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,caesars,player_points_over_under,ziaire williams,False,16.5,-127,2023-04-09T19:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,caesars,player_points_over_under,ziaire williams,True,16.5,-108,2023-04-09T19:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_rebounds_over_under,ziaire williams,False,3.5,125,2023-04-09T21:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_points_over_under,ziaire williams,False,33.5,-120,2023-04-09T20:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_points_over_under,ziaire williams,False,25.5,-160,2023-04-09T21:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_points_over_under,ziaire williams,False,24.5,105,2023-04-09T21:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_points_over_under,ziaire williams,False,21.5,-125,2023-04-09T20:00:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_points_over_under,ziaire williams,False,16.5,-125,2023-04-09T19:45:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_points_over_under,ziaire williams,True,33.5,-110,2023-04-09T20:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_points_over_under,ziaire williams,True,30.5,-105,2023-04-09T20:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_points_over_under,ziaire williams,True,25.5,120,2023-04-09T21:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_points_over_under,ziaire williams,True,24.5,-140,2023-04-09T21:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_points_over_under,ziaire williams,True,21.5,-105,2023-04-09T20:00:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_points_over_under,ziaire williams,True,16.5,-105,2023-04-09T19:45:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_points_over_under,ziaire williams,False,33.5,-118,2023-04-09T20:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_points_over_under,ziaire williams,False,30.5,-130,2023-04-09T20:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_points_over_under,ziaire williams,False,30.5,-130,2023-04-09T20:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_rebounds_over_under,ziaire williams,False,4.5,-550,2023-04-09T21:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,caesars,player_rebounds_over_under,ziaire williams,True,4.5,112,2023-04-09T19:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,caesars,player_threes_over_under,ziaire williams,False,1.5,143,2023-04-09T19:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_threes_over_under,ziaire williams,False,4.5,130,2023-04-09T20:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_threes_over_under,ziaire williams,False,3.5,-1600,2023-04-09T21:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_threes_over_under,ziaire williams,False,2.5,110,2023-04-09T20:00:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_threes_over_under,ziaire williams,False,1.5,115,2023-04-09T19:45:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_threes_over_under,ziaire williams,True,4.5,-175,2023-04-09T20:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_threes_over_under,ziaire williams,True,3.5,700,2023-04-09T21:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_threes_over_under,ziaire williams,True,2.5,-145,2023-04-09T20:00:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_threes_over_under,ziaire williams,True,1.5,-150,2023-04-09T19:45:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_threes_over_under,ziaire williams,False,4.5,136,2023-04-09T20:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_threes_over_under,ziaire williams,False,3.5,-1450,2023-04-09T21:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_rebounds_over_under,ziaire williams,False,5.5,-175,2023-04-09T20:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_threes_over_under,ziaire williams,False,2.5,112,2023-04-09T20:00:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_threes_over_under,ziaire williams,True,4.5,-182,2023-04-09T20:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_threes_over_under,ziaire williams,True,3.5,640,2023-04-09T21:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_threes_over_under,ziaire williams,True,2.5,-148,2023-04-09T20:00:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_threes_over_under,ziaire williams,True,1.5,-158,2023-04-09T19:45:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,caesars,player_steals_over_under,ziaire williams,False,0.5,133,2023-04-09T19:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,caesars,player_steals_over_under,ziaire williams,True,0.5,-184,2023-04-09T19:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_steals_over_under,ziaire williams,False,0.5,-8000,2023-04-09T21:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_steals_over_under,ziaire williams,True,0.5,1100,2023-04-09T21:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_steals_over_under,ziaire williams,False,0.5,-5000,2023-04-09T21:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_steals_over_under,ziaire williams,True,0.5,1000,2023-04-09T21:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,caesars,player_rebounds_over_under,ziaire williams,False,4.5,-154,2023-04-09T19:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_threes_over_under,ziaire williams,False,1.5,118,2023-04-09T19:45:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_points_over_under,ziaire williams,False,25.5,-154,2023-04-09T21:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_points_over_under,ziaire williams,False,24.5,124,2023-04-09T21:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_points_over_under,ziaire williams,False,21.5,-136,2023-04-09T20:00:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_assists_over_under,ziaire williams,False,2.5,-195,2023-04-09T20:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_assists_over_under,ziaire williams,False,1.5,125,2023-04-09T19:45:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_assists_over_under,ziaire williams,True,9.5,900,2023-04-09T21:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_assists_over_under,ziaire williams,True,5.5,275,2023-04-09T21:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_assists_over_under,ziaire williams,True,4.5,150,2023-04-09T21:00:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_assists_over_under,ziaire williams,True,2.5,145,2023-04-09T20:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_assists_over_under,ziaire williams,True,1.5,-165,2023-04-09T19:45:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_assists_over_under,ziaire williams,False,9.5,-3500,2023-04-09T21:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_assists_over_under,ziaire williams,False,5.5,-400,2023-04-09T21:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_assists_over_under,ziaire williams,False,4.5,-210,2023-04-09T21:00:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_assists_over_under,ziaire williams,False,2.5,-210,2023-04-09T20:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_assists_over_under,ziaire williams,False,1.5,130,2023-04-09T19:45:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_assists_over_under,ziaire williams,True,9.5,920,2023-04-09T21:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_assists_over_under,ziaire williams,True,5.5,270,2023-04-09T21:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_assists_over_under,ziaire williams,True,4.5,154,2023-04-09T21:00:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_assists_over_under,ziaire williams,True,2.5,154,2023-04-09T20:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_assists_over_under,ziaire williams,True,1.5,-174,2023-04-09T19:45:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_assists_over_under,ziaire williams,False,3.5,-200,2023-04-09T20:45:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_assists_over_under,ziaire williams,False,4.5,-200,2023-04-09T21:00:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_assists_over_under,ziaire williams,True,3.5,150,2023-04-09T20:45:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_assists_over_under,ziaire williams,False,9.5,-3000,2023-04-09T21:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_points_over_under,ziaire williams,False,16.5,-114,2023-04-09T19:45:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_assists_over_under,ziaire williams,False,5.5,-400,2023-04-09T21:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_points_over_under,ziaire williams,True,30.5,-102,2023-04-09T20:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_points_over_under,ziaire williams,True,25.5,116,2023-04-09T21:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_points_over_under,ziaire williams,True,24.5,-166,2023-04-09T21:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_points_over_under,ziaire williams,True,21.5,102,2023-04-09T20:00:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_points_over_under,ziaire williams,True,16.5,-114,2023-04-09T19:45:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,caesars,player_blocks_over_under,ziaire williams,False,0.5,-284,2023-04-09T19:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,caesars,player_blocks_over_under,ziaire williams,True,0.5,196,2023-04-09T19:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_points_over_under,ziaire williams,True,33.5,-112,2023-04-09T20:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_blocks_over_under,ziaire williams,False,0.5,-215,2023-04-09T19:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_blocks_over_under,ziaire williams,True,1.5,1000,2023-04-09T21:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_blocks_over_under,ziaire williams,True,0.5,175,2023-04-09T19:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_blocks_over_under,ziaire williams,False,1.5,-50000,2023-04-09T21:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_blocks_over_under,ziaire williams,True,1.5,1000,2023-04-09T21:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,caesars,player_assists_over_under,ziaire williams,False,2.5,-184,2023-04-09T19:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,caesars,player_assists_over_under,ziaire williams,True,2.5,133,2023-04-09T19:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_blocks_over_under,ziaire williams,False,1.5,-5000,2023-04-09T21:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_blocks_over_under,ziaire williams,True,0.5,425,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_blocks_over_under,ziaire williams,False,0.5,-600,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_steals_over_under,ziaire williams,True,0.5,100,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_steals_over_under,ziaire williams,False,0.5,-125,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_assists_over_under,ziaire williams,True,1.5,-105,2023-10-23T19:20:32,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_assists_over_under,ziaire williams,True,2.5,275,2023-10-24T18:00:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_assists_over_under,ziaire williams,False,1.5,-125,2023-10-23T19:20:32,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_blocks_over_under,ziaire williams,True,0.5,375,2023-10-24T18:00:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_blocks_over_under,ziaire williams,True,0.5,425,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_blocks_over_under,ziaire williams,False,0.5,-600,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_blocks_over_under,ziaire williams,False,0.5,-600,2023-10-24T18:00:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_steals_over_under,ziaire williams,True,0.5,100,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_steals_over_under,ziaire williams,False,0.5,-125,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_threes_over_under,ziaire williams,False,2.5,-600,2023-10-25T11:10:14,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_assists_over_under,ziaire williams,False,2.5,-400,2023-10-24T18:00:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_threes_over_under,ziaire williams,False,1.5,-185,2023-10-26T01:45:07,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_assists_over_under,ziaire williams,True,0.5,1000,2023-10-26T02:26:11,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_threes_over_under,ziaire williams,True,2.5,375,2023-10-25T11:10:14,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,ziaire williams,False,7.5,180,2023-10-26T02:15:08,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,ziaire williams,False,8.5,-142,2023-10-26T02:15:08,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,ziaire williams,False,9.5,-310,2023-10-26T02:30:11,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,ziaire williams,False,10.5,-138,2023-10-26T01:45:04,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,ziaire williams,True,7.5,-265,2023-10-24T22:05:49,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,ziaire williams,True,8.5,-195,2023-10-26T00:10:25,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,ziaire williams,True,9.5,-135,2023-10-26T00:10:25,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,ziaire williams,True,10.5,110,2023-10-24T22:05:49,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,ziaire williams,True,11.5,135,2023-10-26T00:10:25,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,ziaire williams,True,12.5,185,2023-10-26T00:10:25,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,ziaire williams,True,6.5,-120,2023-10-26T01:05:18,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,ziaire williams,False,6.5,-118,2023-10-26T01:05:14,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,ziaire williams,True,7.5,115,2023-10-26T02:00:14,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,ziaire williams,True,9.5,1000,2023-10-26T02:31:10,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,ziaire williams,True,10.5,-105,2023-10-26T01:45:04,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,ziaire williams,False,7.5,200,2023-10-24T22:05:49,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,ziaire williams,False,8.5,150,2023-10-26T00:10:25,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,ziaire williams,False,9.5,105,2023-10-26T00:10:25,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,ziaire williams,False,10.5,-140,2023-10-24T22:05:49,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,ziaire williams,False,11.5,-175,2023-10-26T00:10:25,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,ziaire williams,False,12.5,-240,2023-10-26T00:10:25,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,ziaire williams,False,6.5,-110,2023-10-26T01:05:18,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_threes_over_under,ziaire williams,False,0.5,-135,2023-10-26T01:41:22,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,ziaire williams,False,8.5,-120,2023-10-26T02:16:10,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,ziaire williams,True,8.5,-110,2023-10-26T02:16:10,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,ziaire williams,True,10.5,108,2023-10-26T01:45:04,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,ziaire williams,True,9.5,230,2023-10-26T02:30:11,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,ziaire williams,True,8.5,112,2023-10-26T02:15:08,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_assists_over_under,ziaire williams,True,1.5,154,2023-10-26T01:00:15,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_assists_over_under,ziaire williams,False,0.5,-10000,2023-10-26T02:30:11,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_assists_over_under,ziaire williams,False,1.5,-210,2023-10-26T01:00:15,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_assists_over_under,ziaire williams,True,0.5,950,2023-10-26T02:20:25,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_assists_over_under,ziaire williams,True,1.5,180,2023-10-26T00:56:12,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_assists_over_under,ziaire williams,False,0.5,-4000,2023-10-26T02:20:25,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_assists_over_under,ziaire williams,False,1.5,-250,2023-10-26T00:56:12,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,betmgm,player_assists_over_under,ziaire williams,True,1.5,-125,2023-10-26T00:40:59,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,betmgm,player_assists_over_under,ziaire williams,False,1.5,-105,2023-10-26T00:40:59,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_assists_over_under,ziaire williams,True,0.5,-500,2023-10-25T11:10:14,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_assists_over_under,ziaire williams,True,1.5,140,2023-10-26T00:55:09,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_assists_over_under,ziaire williams,True,2.5,275,2023-10-25T11:10:14,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_assists_over_under,ziaire williams,False,0.5,325,2023-10-25T11:10:14,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_assists_over_under,ziaire williams,False,1.5,-200,2023-10-26T00:55:09,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_assists_over_under,ziaire williams,False,2.5,-400,2023-10-25T11:10:14,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_blocks_over_under,ziaire williams,True,0.5,1000,2023-10-26T01:51:13,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_blocks_over_under,ziaire williams,False,0.5,-100000,2023-10-26T02:20:15,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_blocks_over_under,ziaire williams,True,0.5,390,2023-10-26T00:10:25,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_blocks_over_under,ziaire williams,False,0.5,-550,2023-10-26T00:10:25,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,betmgm,player_blocks_over_under,ziaire williams,True,0.5,375,2023-10-26T00:40:59,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,betmgm,player_blocks_over_under,ziaire williams,False,0.5,-600,2023-10-26T00:40:59,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_blocks_over_under,ziaire williams,True,0.5,340,2023-10-26T00:16:01,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_blocks_over_under,ziaire williams,False,0.5,-575,2023-10-26T00:16:01,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,ziaire williams,True,6.5,-108,2023-10-26T01:05:14,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,ziaire williams,True,7.5,-235,2023-10-26T02:15:08,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,ziaire williams,False,9.5,-6000,2023-10-26T02:31:10,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,ziaire williams,False,10.5,-125,2023-10-26T01:45:04,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,ziaire williams,False,7.5,-155,2023-10-26T02:00:14,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,betmgm,player_points_over_under,ziaire williams,False,10.5,-130,2023-10-26T00:40:59,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,betmgm,player_rebounds_over_under,ziaire williams,True,2.5,-135,2023-10-26T00:40:59,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,betmgm,player_points_over_under,ziaire williams,True,10.5,-105,2023-10-26T00:40:59,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_rebounds_over_under,ziaire williams,True,1.5,-340,2023-10-25T11:10:14,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_rebounds_over_under,ziaire williams,True,2.5,-160,2023-10-26T01:05:04,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_rebounds_over_under,ziaire williams,True,3.5,125,2023-10-26T01:41:22,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_rebounds_over_under,ziaire williams,False,1.5,235,2023-10-25T11:10:14,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_rebounds_over_under,ziaire williams,False,2.5,110,2023-10-26T01:05:04,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_rebounds_over_under,ziaire williams,False,3.5,-180,2023-10-26T01:41:22,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_steals_over_under,ziaire williams,True,0.5,1000,2023-10-26T02:20:15,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_steals_over_under,ziaire williams,False,0.5,-100000,2023-10-26T02:30:11,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_steals_over_under,ziaire williams,True,0.5,650,2023-10-26T02:16:10,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_rebounds_over_under,ziaire williams,False,4.5,-4000,2023-10-26T02:25:15,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_steals_over_under,ziaire williams,False,0.5,-1600,2023-10-26T02:16:10,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,betmgm,player_steals_over_under,ziaire williams,False,0.5,-125,2023-10-26T00:40:59,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_steals_over_under,ziaire williams,True,0.5,220,2023-10-26T01:41:22,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_steals_over_under,ziaire williams,False,0.5,-350,2023-10-26T01:41:22,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_threes_over_under,ziaire williams,True,0.5,100,2023-10-26T01:40:04,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_threes_over_under,ziaire williams,True,1.5,1000,2023-10-26T02:20:25,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_threes_over_under,ziaire williams,False,0.5,-130,2023-10-26T01:40:04,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_threes_over_under,ziaire williams,False,1.5,-4000,2023-10-26T02:20:25,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,betmgm,player_threes_over_under,ziaire williams,True,1.5,120,2023-10-26T00:40:59,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,betmgm,player_threes_over_under,ziaire williams,False,1.5,-160,2023-10-26T00:40:59,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_threes_over_under,ziaire williams,True,0.5,-105,2023-10-26T01:41:22,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_threes_over_under,ziaire williams,True,1.5,130,2023-10-26T01:45:07,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,betmgm,player_steals_over_under,ziaire williams,True,0.5,-105,2023-10-26T00:40:59,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_rebounds_over_under,ziaire williams,False,3.5,120,2023-10-26T02:05:38,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,betmgm,player_rebounds_over_under,ziaire williams,False,2.5,100,2023-10-26T00:40:59,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_rebounds_over_under,ziaire williams,True,4.5,950,2023-10-26T02:25:15,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_points_over_under,ziaire williams,True,6.5,-125,2023-10-26T01:05:04,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_points_over_under,ziaire williams,True,7.5,-130,2023-10-26T00:55:09,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_points_over_under,ziaire williams,True,8.5,-120,2023-10-26T01:41:22,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_points_over_under,ziaire williams,True,9.5,100,2023-10-26T01:35:04,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_points_over_under,ziaire williams,True,10.5,-110,2023-10-26T01:45:07,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_points_over_under,ziaire williams,True,11.5,125,2023-10-25T11:10:14,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_points_over_under,ziaire williams,False,6.5,-115,2023-10-26T01:05:04,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_points_over_under,ziaire williams,False,7.5,-110,2023-10-26T00:55:09,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_rebounds_over_under,ziaire williams,False,2.5,115,2023-10-26T01:05:18,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_points_over_under,ziaire williams,False,9.5,-140,2023-10-26T01:35:04,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_points_over_under,ziaire williams,False,10.5,-130,2023-10-26T01:45:07,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_points_over_under,ziaire williams,False,11.5,-165,2023-10-25T11:10:14,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_points_over_under,ziaire williams,False,8.5,-120,2023-10-26T01:41:22,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,betrivers,player_points_over_under,ziaire williams,True,8.5,-177,2023-10-26T00:10:55,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,betrivers,player_points_over_under,ziaire williams,True,9.5,-117,2023-10-26T00:10:55,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,betrivers,player_points_over_under,ziaire williams,True,10.5,120,2023-10-26T00:10:55,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,betrivers,player_points_over_under,ziaire williams,True,11.5,165,2023-10-26T00:10:55,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_rebounds_over_under,ziaire williams,True,2.5,-158,2023-10-26T01:00:15,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_rebounds_over_under,ziaire williams,True,3.5,-174,2023-10-26T02:05:14,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_rebounds_over_under,ziaire williams,True,4.5,1000,2023-10-26T02:30:11,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_rebounds_over_under,ziaire williams,False,2.5,118,2023-10-26T01:00:15,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_rebounds_over_under,ziaire williams,False,3.5,130,2023-10-26T02:05:14,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_rebounds_over_under,ziaire williams,False,4.5,-5000,2023-10-26T02:30:11,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,betrivers,player_points_over_under,ziaire williams,True,7.5,-286,2023-10-26T00:10:55,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_rebounds_over_under,ziaire williams,True,2.5,-150,2023-10-26T01:05:18,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_rebounds_over_under,ziaire williams,True,3.5,-170,2023-10-26T02:05:38,Memphis Grizzlies,New Orleans Pelicans
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_threes_over_under,ziaire williams,False,1.5,-230,2023-10-27T23:20:30,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,betmgm,player_threes_over_under,ziaire williams,True,1.5,115,2023-10-27T16:30:51,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,betmgm,player_threes_over_under,ziaire williams,False,1.5,-150,2023-10-27T16:11:33,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_threes_over_under,ziaire williams,False,0.5,-3500,2023-10-28T01:25:08,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_threes_over_under,ziaire williams,True,1.5,130,2023-10-27T23:20:30,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_threes_over_under,ziaire williams,False,0.5,-190,2023-10-28T00:35:20,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_threes_over_under,ziaire williams,False,1.5,-185,2023-10-27T23:20:30,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_threes_over_under,ziaire williams,True,0.5,135,2023-10-28T00:35:20,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_threes_over_under,ziaire williams,True,1.5,170,2023-10-27T23:20:30,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_threes_over_under,ziaire williams,True,0.5,-118,2023-10-28T00:30:11,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,pinnacle,player_threes_over_under,ziaire williams,False,1.5,-147,2023-10-27T11:30:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_points_over_under,ziaire williams,True,12.5,144,2023-10-28T01:10:28,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_points_over_under,ziaire williams,False,8.5,100,2023-10-28T01:01:29,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_points_over_under,ziaire williams,False,9.5,-170,2023-10-28T00:50:08,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_points_over_under,ziaire williams,False,10.5,-130,2023-10-28T01:06:40,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_points_over_under,ziaire williams,False,11.5,-720,2023-10-28T01:25:23,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_points_over_under,ziaire williams,False,12.5,-186,2023-10-28T01:10:28,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,pinnacle,player_points_over_under,ziaire williams,True,10.5,-134,2023-10-27T22:30:18,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,pinnacle,player_points_over_under,ziaire williams,True,11.5,-100,2023-10-27T11:30:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,pinnacle,player_points_over_under,ziaire williams,False,10.5,101,2023-10-27T22:30:18,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,pinnacle,player_points_over_under,ziaire williams,False,11.5,-132,2023-10-27T11:30:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,ziaire williams,True,8.5,-260,2023-10-27T23:15:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,ziaire williams,True,9.5,-160,2023-10-27T23:15:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_points_over_under,ziaire williams,True,11.5,126,2023-10-28T01:20:20,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,ziaire williams,True,10.5,-125,2023-10-27T12:40:08,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,ziaire williams,True,12.5,155,2023-10-27T23:15:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,ziaire williams,True,13.5,200,2023-10-27T12:40:08,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,ziaire williams,True,8.5,-170,2023-10-28T01:05:06,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,ziaire williams,True,9.5,120,2023-10-28T01:05:06,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,ziaire williams,True,10.5,-130,2023-10-28T00:35:21,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,ziaire williams,True,11.5,425,2023-10-28T01:25:08,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,ziaire williams,True,12.5,-115,2023-10-28T01:10:13,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,ziaire williams,False,8.5,195,2023-10-27T23:15:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,ziaire williams,False,9.5,125,2023-10-27T23:15:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,ziaire williams,False,10.5,100,2023-10-27T12:40:08,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,ziaire williams,False,11.5,-135,2023-10-27T23:15:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,ziaire williams,False,12.5,-200,2023-10-27T23:15:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,ziaire williams,True,11.5,105,2023-10-27T23:15:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,ziaire williams,False,13.5,-265,2023-10-27T12:40:08,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_points_over_under,ziaire williams,True,10.5,102,2023-10-28T01:06:40,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_points_over_under,ziaire williams,True,8.5,-128,2023-10-28T01:01:29,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_assists_over_under,ziaire williams,True,1.5,116,2023-10-28T00:30:11,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_assists_over_under,ziaire williams,True,2.5,178,2023-10-28T00:55:07,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_assists_over_under,ziaire williams,True,3.5,1000,2023-10-28T01:16:02,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_assists_over_under,ziaire williams,False,1.5,-154,2023-10-28T00:30:11,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_assists_over_under,ziaire williams,False,2.5,-245,2023-10-28T00:55:07,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_assists_over_under,ziaire williams,False,3.5,-4500,2023-10-28T01:25:23,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_assists_over_under,ziaire williams,True,1.5,110,2023-10-28T00:30:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_assists_over_under,ziaire williams,True,2.5,170,2023-10-28T00:55:11,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_threes_over_under,ziaire williams,True,0.5,950,2023-10-28T01:25:08,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_assists_over_under,ziaire williams,False,1.5,-145,2023-10-28T00:30:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_assists_over_under,ziaire williams,False,2.5,-230,2023-10-28T00:55:11,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_assists_over_under,ziaire williams,False,3.5,-6000,2023-10-28T01:25:08,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_points_over_under,ziaire williams,True,9.5,132,2023-10-28T00:50:08,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,betmgm,player_assists_over_under,ziaire williams,True,1.5,-110,2023-10-27T16:15:26,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_assists_over_under,ziaire williams,True,1.5,-110,2023-10-27T23:15:15,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_assists_over_under,ziaire williams,True,2.5,135,2023-10-27T23:40:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_assists_over_under,ziaire williams,False,1.5,-120,2023-10-27T23:15:15,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_assists_over_under,ziaire williams,False,2.5,-190,2023-10-27T23:40:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_blocks_over_under,ziaire williams,True,0.5,1000,2023-10-28T00:30:11,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_blocks_over_under,ziaire williams,False,0.5,-100000,2023-10-28T01:10:28,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_blocks_over_under,ziaire williams,True,0.5,450,2023-10-27T23:15:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_blocks_over_under,ziaire williams,False,0.5,-650,2023-10-27T23:15:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,betmgm,player_blocks_over_under,ziaire williams,True,0.5,425,2023-10-27T16:25:19,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,betmgm,player_blocks_over_under,ziaire williams,False,0.5,-700,2023-10-27T16:25:19,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_blocks_over_under,ziaire williams,True,0.5,375,2023-10-27T23:15:15,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_blocks_over_under,ziaire williams,False,0.5,-650,2023-10-27T23:15:15,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,betmgm,player_assists_over_under,ziaire williams,False,1.5,-120,2023-10-27T11:20:11,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,ziaire williams,False,8.5,125,2023-10-28T01:05:06,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_assists_over_under,ziaire williams,True,3.5,1000,2023-10-28T01:25:08,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,ziaire williams,False,10.5,-105,2023-10-28T00:35:21,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_rebounds_over_under,ziaire williams,False,7.5,-135,2023-10-28T00:45:24,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_rebounds_over_under,ziaire williams,False,8.5,-1600,2023-10-28T01:25:08,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_rebounds_over_under,ziaire williams,True,2.5,-175,2023-10-26T22:05:07,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_rebounds_over_under,ziaire williams,True,3.5,115,2023-10-27T23:15:15,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_rebounds_over_under,ziaire williams,True,4.5,-165,2023-10-27T23:20:30,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_rebounds_over_under,ziaire williams,True,7.5,120,2023-10-28T00:30:31,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_rebounds_over_under,ziaire williams,True,8.5,105,2023-10-27T23:45:07,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_rebounds_over_under,ziaire williams,False,2.5,125,2023-10-26T22:05:07,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_rebounds_over_under,ziaire williams,False,3.5,-150,2023-10-27T23:15:15,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_rebounds_over_under,ziaire williams,False,7.5,-170,2023-10-28T00:30:31,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_rebounds_over_under,ziaire williams,False,8.5,-150,2023-10-27T23:45:07,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_steals_over_under,ziaire williams,True,0.5,1000,2023-10-28T01:10:28,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_rebounds_over_under,ziaire williams,False,4.5,120,2023-10-27T23:20:30,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_steals_over_under,ziaire williams,False,0.5,-50000,2023-10-28T01:20:20,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_steals_over_under,ziaire williams,False,0.5,-3000,2023-10-28T01:21:17,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,betmgm,player_steals_over_under,ziaire williams,True,0.5,-115,2023-10-27T17:45:04,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,betmgm,player_steals_over_under,ziaire williams,False,0.5,-115,2023-10-27T17:45:04,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_steals_over_under,ziaire williams,True,0.5,210,2023-10-28T00:26:52,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_steals_over_under,ziaire williams,True,1.5,400,2023-10-27T16:31:11,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_steals_over_under,ziaire williams,False,0.5,-325,2023-10-28T00:26:52,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_steals_over_under,ziaire williams,False,1.5,-700,2023-10-27T16:31:11,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_threes_over_under,ziaire williams,True,1.5,182,2023-10-27T23:25:10,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_threes_over_under,ziaire williams,False,0.5,-112,2023-10-28T00:30:11,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_threes_over_under,ziaire williams,False,1.5,-250,2023-10-27T23:25:10,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,pinnacle,player_threes_over_under,ziaire williams,True,1.5,110,2023-10-27T11:30:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,ziaire williams,False,9.5,-165,2023-10-28T01:05:06,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_steals_over_under,ziaire williams,True,0.5,900,2023-10-28T01:21:17,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_rebounds_over_under,ziaire williams,False,3.5,-130,2023-10-27T23:15:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_rebounds_over_under,ziaire williams,False,4.5,115,2023-10-27T23:20:30,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_rebounds_over_under,ziaire williams,True,8.5,650,2023-10-28T01:25:08,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,ziaire williams,False,11.5,-750,2023-10-28T01:25:08,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,ziaire williams,False,12.5,-115,2023-10-28T01:10:13,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,betmgm,player_points_over_under,ziaire williams,True,10.5,-130,2023-10-27T16:15:26,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_rebounds_over_under,ziaire williams,False,2.5,130,2023-10-26T22:05:42,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,betmgm,player_points_over_under,ziaire williams,False,10.5,-105,2023-10-27T15:41:50,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,betmgm,player_points_over_under,ziaire williams,False,11.5,-135,2023-10-27T12:40:04,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_points_over_under,ziaire williams,True,9.5,115,2023-10-28T01:05:18,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_points_over_under,ziaire williams,True,10.5,-120,2023-10-28T00:35:20,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_points_over_under,ziaire williams,True,11.5,-105,2023-10-28T00:30:31,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_points_over_under,ziaire williams,True,12.5,-135,2023-10-28T00:10:20,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_points_over_under,ziaire williams,False,9.5,-165,2023-10-28T01:05:18,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_points_over_under,ziaire williams,False,10.5,-120,2023-10-28T00:35:20,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_points_over_under,ziaire williams,False,11.5,-135,2023-10-28T00:30:31,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,betmgm,player_points_over_under,ziaire williams,True,11.5,100,2023-10-27T12:40:04,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_rebounds_over_under,ziaire williams,True,3.5,112,2023-10-27T23:10:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_points_over_under,ziaire williams,False,12.5,-105,2023-10-28T00:10:20,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_rebounds_over_under,ziaire williams,True,4.5,-160,2023-10-27T23:20:30,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_rebounds_over_under,ziaire williams,True,2.5,-165,2023-10-26T22:05:42,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_rebounds_over_under,ziaire williams,False,8.5,-1800,2023-10-28T01:25:23,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_rebounds_over_under,ziaire williams,False,7.5,-144,2023-10-28T00:45:21,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_rebounds_over_under,ziaire williams,True,3.5,105,2023-10-27T23:15:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_rebounds_over_under,ziaire williams,False,3.5,-140,2023-10-27T23:10:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_rebounds_over_under,ziaire williams,True,8.5,700,2023-10-28T01:25:23,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_rebounds_over_under,ziaire williams,True,7.5,105,2023-10-28T00:45:24,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_rebounds_over_under,ziaire williams,True,7.5,108,2023-10-28T00:45:21,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_rebounds_over_under,ziaire williams,True,4.5,-158,2023-10-27T23:21:22,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_rebounds_over_under,ziaire williams,False,4.5,118,2023-10-27T23:21:22,Memphis Grizzlies,Denver Nuggets
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_rebounds_over_under,ziaire williams,False,7.5,-115,2023-10-28T23:25:04,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,ziaire williams,False,10.5,-2000,2023-10-29T01:30:07,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_rebounds_over_under,ziaire williams,False,4.5,-175,2023-10-28T19:10:04,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_rebounds_over_under,ziaire williams,False,3.5,125,2023-10-28T23:20:59,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_rebounds_over_under,ziaire williams,True,9.5,-150,2023-10-29T00:40:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_rebounds_over_under,ziaire williams,True,8.5,-115,2023-10-28T23:30:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_rebounds_over_under,ziaire williams,True,7.5,-125,2023-10-28T23:25:04,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_rebounds_over_under,ziaire williams,True,4.5,125,2023-10-28T19:10:04,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_rebounds_over_under,ziaire williams,True,3.5,-175,2023-10-28T23:20:59,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,ziaire williams,False,9.5,160,2023-10-29T01:05:14,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,ziaire williams,True,8.5,-150,2023-10-29T00:55:18,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,ziaire williams,False,7.5,-110,2023-10-28T23:25:12,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,ziaire williams,False,3.5,125,2023-10-28T23:22:02,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,ziaire williams,True,10.5,750,2023-10-29T01:30:07,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,ziaire williams,True,9.5,-215,2023-10-29T01:05:14,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,ziaire williams,True,7.5,-120,2023-10-28T23:25:12,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,ziaire williams,True,3.5,-165,2023-10-28T23:22:02,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,ziaire williams,False,10.5,-2200,2023-10-29T01:30:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,ziaire williams,False,9.5,158,2023-10-29T01:05:07,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,ziaire williams,False,8.5,116,2023-10-29T00:55:03,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,ziaire williams,False,3.5,110,2023-10-28T23:10:19,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_rebounds_over_under,ziaire williams,False,8.5,-125,2023-10-28T23:30:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,ziaire williams,False,8.5,115,2023-10-29T00:55:18,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_rebounds_over_under,ziaire williams,False,9.5,105,2023-10-29T00:40:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_threes_over_under,ziaire williams,False,0.5,240,2023-10-28T19:07:55,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_steals_over_under,ziaire williams,False,0.5,-100000,2023-10-29T01:30:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,ziaire williams,True,10.5,800,2023-10-29T01:30:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_threes_over_under,ziaire williams,True,2.5,105,2023-10-29T00:40:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_threes_over_under,ziaire williams,True,1.5,-130,2023-10-29T00:17:01,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_threes_over_under,ziaire williams,True,0.5,-375,2023-10-28T19:07:55,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_threes_over_under,ziaire williams,False,4.5,-4000,2023-10-29T01:25:35,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_threes_over_under,ziaire williams,False,3.5,-600,2023-10-29T01:10:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_threes_over_under,ziaire williams,False,2.5,-360,2023-10-29T00:55:18,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_threes_over_under,ziaire williams,False,1.5,-115,2023-10-29T00:16:47,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_threes_over_under,ziaire williams,True,4.5,950,2023-10-29T01:25:35,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_threes_over_under,ziaire williams,True,3.5,370,2023-10-29T01:10:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_steals_over_under,ziaire williams,True,0.5,1000,2023-10-29T01:20:59,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_threes_over_under,ziaire williams,True,2.5,245,2023-10-29T00:55:18,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,pinnacle,player_threes_over_under,ziaire williams,False,1.5,-188,2023-10-28T18:05:09,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,pinnacle,player_threes_over_under,ziaire williams,True,1.5,137,2023-10-28T18:05:09,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_threes_over_under,ziaire williams,False,1.5,-156,2023-10-28T23:15:15,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_threes_over_under,ziaire williams,True,1.5,122,2023-10-28T23:15:15,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_steals_over_under,ziaire williams,False,1.5,-650,2023-10-28T21:35:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_steals_over_under,ziaire williams,False,0.5,-350,2023-10-29T00:40:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_steals_over_under,ziaire williams,True,1.5,375,2023-10-28T21:35:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_steals_over_under,ziaire williams,True,0.5,220,2023-10-29T00:40:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_steals_over_under,ziaire williams,False,0.5,-3500,2023-10-29T01:20:11,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_steals_over_under,ziaire williams,True,0.5,950,2023-10-29T01:20:11,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_threes_over_under,ziaire williams,True,1.5,-115,2023-10-29T00:16:47,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,ziaire williams,True,9.5,-215,2023-10-29T01:05:07,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,ziaire williams,True,10.5,-170,2023-10-28T23:16:01,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,ziaire williams,True,3.5,-134,2023-10-28T23:10:19,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,ziaire williams,True,9.5,-230,2023-10-28T23:16:01,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,pinnacle,player_points_over_under,ziaire williams,False,11.5,102,2023-10-28T18:05:09,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,pinnacle,player_points_over_under,ziaire williams,True,11.5,-134,2023-10-28T18:05:09,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_points_over_under,ziaire williams,False,11.5,-110,2023-10-28T23:15:15,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_points_over_under,ziaire williams,True,11.5,-110,2023-10-28T23:15:15,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_blocks_over_under,ziaire williams,False,0.5,-650,2023-10-28T23:20:59,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_blocks_over_under,ziaire williams,True,0.5,375,2023-10-28T23:20:59,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_blocks_over_under,ziaire williams,False,0.5,-650,2023-10-28T23:16:01,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_blocks_over_under,ziaire williams,True,0.5,450,2023-10-28T23:16:01,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_blocks_over_under,ziaire williams,False,0.5,-100000,2023-10-29T01:25:31,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,ziaire williams,True,12.5,115,2023-10-28T23:16:01,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_blocks_over_under,ziaire williams,True,0.5,1000,2023-10-29T00:40:11,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_assists_over_under,ziaire williams,True,1.5,145,2023-10-28T23:55:04,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_assists_over_under,ziaire williams,False,1.5,-2500,2023-10-29T01:25:35,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_assists_over_under,ziaire williams,False,0.5,-245,2023-10-29T00:55:18,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_assists_over_under,ziaire williams,True,1.5,800,2023-10-29T01:25:35,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_assists_over_under,ziaire williams,True,0.5,175,2023-10-29T00:55:18,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_assists_over_under,ziaire williams,False,1.5,-8000,2023-10-29T01:30:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_assists_over_under,ziaire williams,False,0.5,-250,2023-10-29T00:55:03,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_assists_over_under,ziaire williams,True,1.5,1000,2023-10-29T01:30:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_assists_over_under,ziaire williams,True,0.5,182,2023-10-29T00:55:03,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_threes_over_under,ziaire williams,False,1.5,-110,2023-10-29T00:17:01,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_assists_over_under,ziaire williams,False,1.5,-215,2023-10-28T23:55:04,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,ziaire williams,True,8.5,-154,2023-10-29T00:55:03,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,ziaire williams,True,13.5,150,2023-10-28T23:16:01,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,ziaire williams,True,11.5,-125,2023-10-29T00:41:00,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_points_over_under,ziaire williams,False,13.5,-140,2023-10-29T00:40:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_points_over_under,ziaire williams,False,12.5,-110,2023-10-29T00:00:54,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_points_over_under,ziaire williams,False,11.5,-120,2023-10-29T00:17:01,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_points_over_under,ziaire williams,True,13.5,100,2023-10-29T00:40:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_points_over_under,ziaire williams,True,12.5,-130,2023-10-29T00:00:54,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_points_over_under,ziaire williams,True,11.5,-120,2023-10-29T00:17:01,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,ziaire williams,False,16.5,-1200,2023-10-29T01:30:07,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,ziaire williams,False,15.5,-110,2023-10-29T01:05:14,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,ziaire williams,False,14.5,-115,2023-10-29T01:10:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,ziaire williams,False,13.5,-140,2023-10-29T00:35:09,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,ziaire williams,True,10.5,105,2023-10-29T00:55:18,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,ziaire williams,False,12.5,-115,2023-10-29T00:00:04,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,ziaire williams,False,10.5,-140,2023-10-29T00:55:18,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,ziaire williams,False,13.5,-195,2023-10-28T23:16:01,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,ziaire williams,False,12.5,-145,2023-10-28T23:16:01,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,ziaire williams,False,10.5,130,2023-10-28T23:16:01,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,ziaire williams,False,9.5,175,2023-10-28T23:16:01,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,ziaire williams,True,16.5,600,2023-10-29T01:30:07,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,ziaire williams,True,15.5,-120,2023-10-29T01:05:14,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,ziaire williams,True,14.5,-115,2023-10-29T01:10:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,ziaire williams,True,13.5,105,2023-10-29T00:35:09,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,ziaire williams,True,12.5,-115,2023-10-29T00:00:04,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,ziaire williams,False,11.5,-105,2023-10-29T00:41:00,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_threes_over_under,ziaire williams,False,2.5,-150,2023-10-29T00:40:05,Washington Wizards,Memphis Grizzlies

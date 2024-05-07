@@ -1,0 +1,609 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_blocks_over_under,deni avdija,True,0.5,1000,2023-03-22T01:00:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,deni avdija,False,14.5,104,2023-03-22T00:45:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,deni avdija,False,13.5,-122,2023-03-22T01:00:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,deni avdija,False,12.5,116,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,deni avdija,False,11.5,116,2023-03-21T23:45:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,deni avdija,False,8.5,104,2023-03-21T23:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,deni avdija,True,16.5,-106,2023-03-22T00:30:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,deni avdija,True,14.5,-138,2023-03-22T00:45:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,deni avdija,True,13.5,-108,2023-03-22T01:00:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,deni avdija,True,12.5,-154,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,deni avdija,True,11.5,-154,2023-03-21T23:45:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,deni avdija,True,8.5,-138,2023-03-21T23:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,deni avdija,True,7.5,-140,2023-03-21T23:30:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_blocks_over_under,deni avdija,False,0.5,-10000,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_assists_over_under,deni avdija,False,3.5,-420,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_assists_over_under,deni avdija,False,2.5,136,2023-03-22T00:45:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_assists_over_under,deni avdija,True,3.5,280,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_assists_over_under,deni avdija,True,2.5,-182,2023-03-22T00:45:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,deni avdija,False,16.5,-125,2023-03-22T00:30:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_rebounds_over_under,deni avdija,True,6.5,100,2023-03-21T23:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,deni avdija,False,7.5,106,2023-03-21T23:30:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_rebounds_over_under,deni avdija,True,9.5,182,2023-03-22T01:00:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_threes_over_under,deni avdija,False,2.5,-2000,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_threes_over_under,deni avdija,False,1.5,-110,2023-03-21T23:45:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_rebounds_over_under,deni avdija,True,7.5,-188,2023-03-22T00:45:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_threes_over_under,deni avdija,True,2.5,750,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_threes_over_under,deni avdija,True,1.5,-118,2023-03-21T23:45:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_threes_over_under,deni avdija,True,0.5,-188,2023-03-21T23:30:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_steals_over_under,deni avdija,False,2.5,-2200,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_steals_over_under,deni avdija,False,1.5,-350,2023-03-22T00:45:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_steals_over_under,deni avdija,False,0.5,-188,2023-03-22T00:30:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_threes_over_under,deni avdija,False,0.5,140,2023-03-21T23:30:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_steals_over_under,deni avdija,True,1.5,240,2023-03-22T00:45:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_steals_over_under,deni avdija,True,0.5,140,2023-03-22T00:30:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_rebounds_over_under,deni avdija,False,10.5,-144,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_rebounds_over_under,deni avdija,False,9.5,-250,2023-03-22T01:00:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_rebounds_over_under,deni avdija,False,7.5,140,2023-03-22T00:45:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_rebounds_over_under,deni avdija,False,6.5,-132,2023-03-21T23:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_rebounds_over_under,deni avdija,True,10.5,108,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_steals_over_under,deni avdija,True,2.5,800,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_threes_over_under,deni avdija,False,1.5,-500,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,deni avdija,False,11.5,-136,2023-03-22T23:15:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,deni avdija,True,20.5,-102,2023-03-23T00:30:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,deni avdija,True,18.5,116,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,deni avdija,True,14.5,112,2023-03-22T23:45:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,deni avdija,True,12.5,100,2023-03-22T22:45:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,deni avdija,True,11.5,102,2023-03-22T23:15:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_assists_over_under,deni avdija,False,5.5,-118,2023-03-23T00:45:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_assists_over_under,deni avdija,False,25.5,-128,2023-03-23T00:00:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_assists_over_under,deni avdija,False,6.5,-106,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_assists_over_under,deni avdija,False,4.5,140,2023-03-23T00:15:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_assists_over_under,deni avdija,False,3.5,-162,2023-03-22T22:45:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_assists_over_under,deni avdija,False,2.5,128,2023-03-22T23:15:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_threes_over_under,deni avdija,False,0.5,168,2023-03-22T23:15:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_blocks_over_under,deni avdija,False,0.5,-3500,2023-03-23T00:45:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_threes_over_under,deni avdija,True,1.5,320,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_blocks_over_under,deni avdija,True,0.5,920,2023-03-23T00:45:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_steals_over_under,deni avdija,False,0.5,-600,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_assists_over_under,deni avdija,True,25.5,-104,2023-03-23T00:00:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,deni avdija,False,18.5,-154,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,deni avdija,False,20.5,-130,2023-03-23T00:30:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_rebounds_over_under,deni avdija,True,6.5,-132,2023-03-22T22:00:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_rebounds_over_under,deni avdija,True,7.5,132,2023-03-23T00:45:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_rebounds_over_under,deni avdija,True,8.5,-132,2023-03-23T00:30:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_threes_over_under,deni avdija,True,0.5,-230,2023-03-22T23:15:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_rebounds_over_under,deni avdija,True,9.5,114,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_rebounds_over_under,deni avdija,False,6.5,108,2023-03-22T22:00:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_rebounds_over_under,deni avdija,False,7.5,-178,2023-03-23T00:45:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_rebounds_over_under,deni avdija,False,8.5,100,2023-03-23T00:30:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_rebounds_over_under,deni avdija,False,9.5,-152,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_rebounds_over_under,deni avdija,False,10.5,-174,2023-03-23T00:15:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_steals_over_under,deni avdija,True,0.5,370,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_rebounds_over_under,deni avdija,True,10.5,130,2023-03-23T00:15:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_assists_over_under,deni avdija,True,6.5,-125,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,deni avdija,False,12.5,-122,2023-03-22T22:45:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_assists_over_under,deni avdija,True,4.5,-188,2023-03-23T00:15:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_assists_over_under,deni avdija,True,5.5,-112,2023-03-23T00:45:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,deni avdija,False,14.5,-148,2023-03-22T23:45:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_assists_over_under,deni avdija,True,3.5,132,2023-03-22T22:45:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_assists_over_under,deni avdija,True,2.5,-172,2023-03-22T23:15:01,Washington Wizards,Denver Nuggets
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,deni avdija,False,12.5,-130,2023-03-24T23:15:02,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,deni avdija,True,21.5,-114,2023-03-25T00:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,deni avdija,True,20.5,-138,2023-03-25T00:45:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,deni avdija,True,18.5,-158,2023-03-25T00:30:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,deni avdija,True,16.5,112,2023-03-24T23:45:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,deni avdija,True,14.5,-102,2023-03-24T22:30:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,deni avdija,True,12.5,-102,2023-03-24T23:15:02,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_blocks_over_under,deni avdija,False,0.5,-5000,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_blocks_over_under,deni avdija,True,0.5,1000,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_assists_over_under,deni avdija,False,4.5,-172,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_assists_over_under,deni avdija,False,3.5,-188,2023-03-25T00:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_assists_over_under,deni avdija,False,2.5,138,2023-03-25T00:15:02,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_assists_over_under,deni avdija,True,4.5,128,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,deni avdija,True,13.5,-115,2023-03-24T23:00:02,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,deni avdija,False,16.5,-148,2023-03-24T23:45:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,deni avdija,False,18.5,118,2023-03-25T00:30:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,deni avdija,False,20.5,104,2023-03-25T00:45:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,deni avdija,False,21.5,-114,2023-03-25T00:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_rebounds_over_under,deni avdija,True,6.5,-146,2023-03-25T00:30:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_rebounds_over_under,deni avdija,True,7.5,-220,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_rebounds_over_under,deni avdija,True,8.5,110,2023-03-25T00:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_rebounds_over_under,deni avdija,True,9.5,148,2023-03-25T00:45:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_rebounds_over_under,deni avdija,False,6.5,110,2023-03-25T00:30:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,deni avdija,False,13.5,-105,2023-03-24T23:00:02,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_rebounds_over_under,deni avdija,False,7.5,162,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_rebounds_over_under,deni avdija,False,8.5,-146,2023-03-25T00:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_rebounds_over_under,deni avdija,False,9.5,-200,2023-03-25T00:45:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_steals_over_under,deni avdija,True,1.5,550,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_steals_over_under,deni avdija,False,1.5,-1100,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_assists_over_under,deni avdija,True,2.5,-186,2023-03-25T00:15:02,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_assists_over_under,deni avdija,True,3.5,140,2023-03-25T00:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,deni avdija,False,14.5,-120,2023-03-24T22:30:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_threes_over_under,deni avdija,True,2.5,140,2023-03-25T00:30:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_threes_over_under,deni avdija,True,3.5,410,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_threes_over_under,deni avdija,False,1.5,136,2023-03-24T23:45:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_threes_over_under,deni avdija,False,2.5,-188,2023-03-25T00:30:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_threes_over_under,deni avdija,False,3.5,-700,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_threes_over_under,deni avdija,True,1.5,-182,2023-03-24T23:45:01,Washington Wizards,San Antonio Spurs
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_rebounds_over_under,deni avdija,True,9.5,152,2023-03-27T00:00:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_rebounds_over_under,deni avdija,True,8.5,104,2023-03-26T23:15:02,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_rebounds_over_under,deni avdija,True,7.5,-140,2023-03-26T21:45:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_rebounds_over_under,deni avdija,True,6.5,114,2023-03-26T22:45:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_points_over_under,deni avdija,False,14.5,-120,2023-03-26T23:45:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_points_over_under,deni avdija,False,13.5,-200,2023-03-27T00:00:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_points_over_under,deni avdija,False,12.5,116,2023-03-26T23:15:02,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_points_over_under,deni avdija,False,11.5,-104,2023-03-26T23:00:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_points_over_under,deni avdija,True,13.5,148,2023-03-27T00:00:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_points_over_under,deni avdija,True,12.5,-154,2023-03-26T23:15:02,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_blocks_over_under,deni avdija,True,0.5,1000,2023-03-27T00:00:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_blocks_over_under,deni avdija,False,0.5,-4000,2023-03-27T00:00:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_rebounds_over_under,deni avdija,False,6.5,-152,2023-03-26T22:45:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_assists_over_under,deni avdija,False,6.5,106,2023-03-27T00:00:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_assists_over_under,deni avdija,False,5.5,-122,2023-03-26T23:30:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_assists_over_under,deni avdija,False,4.5,-152,2023-03-26T22:15:02,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_assists_over_under,deni avdija,False,3.5,148,2023-03-26T23:15:02,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_assists_over_under,deni avdija,True,6.5,-140,2023-03-27T00:00:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_assists_over_under,deni avdija,True,5.5,-108,2023-03-26T23:30:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_assists_over_under,deni avdija,True,4.5,114,2023-03-26T22:15:02,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_assists_over_under,deni avdija,True,3.5,-200,2023-03-26T23:15:02,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_points_over_under,deni avdija,True,11.5,-128,2023-03-26T23:00:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_rebounds_over_under,deni avdija,False,7.5,114,2023-03-26T21:45:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_points_over_under,deni avdija,True,14.5,-110,2023-03-26T23:45:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_rebounds_over_under,deni avdija,False,9.5,-205,2023-03-27T00:00:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_steals_over_under,deni avdija,True,0.5,220,2023-03-26T23:30:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_steals_over_under,deni avdija,True,1.5,490,2023-03-27T00:00:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_steals_over_under,deni avdija,False,0.5,-310,2023-03-26T23:30:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_steals_over_under,deni avdija,False,1.5,-900,2023-03-27T00:00:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_threes_over_under,deni avdija,True,0.5,-146,2023-03-26T23:00:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_threes_over_under,deni avdija,True,1.5,320,2023-03-27T00:00:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_threes_over_under,deni avdija,False,0.5,110,2023-03-26T23:00:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_threes_over_under,deni avdija,False,1.5,-500,2023-03-27T00:00:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_rebounds_over_under,deni avdija,False,8.5,-138,2023-03-26T23:15:02,Toronto Raptors,Washington Wizards
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_rebounds_over_under,deni avdija,True,8.5,-120,2023-03-28T23:45:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_rebounds_over_under,deni avdija,True,7.5,-104,2023-03-28T23:30:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_points_over_under,deni avdija,False,26.5,-270,2023-03-29T01:00:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_points_over_under,deni avdija,False,17.5,-112,2023-03-29T00:30:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_points_over_under,deni avdija,False,15.5,-108,2023-03-29T00:45:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_points_over_under,deni avdija,False,14.5,-124,2023-03-28T22:45:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_points_over_under,deni avdija,True,17.5,-118,2023-03-29T00:30:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_points_over_under,deni avdija,False,12.5,108,2023-03-28T23:45:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_points_over_under,deni avdija,False,10.5,-138,2023-03-28T23:30:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_points_over_under,deni avdija,True,26.5,194,2023-03-29T01:00:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_rebounds_over_under,deni avdija,True,9.5,-125,2023-03-29T01:00:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_points_over_under,deni avdija,True,15.5,-122,2023-03-29T00:45:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_points_over_under,deni avdija,True,13.5,-128,2023-03-28T23:00:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_points_over_under,deni avdija,False,13.5,104,2023-03-28T23:00:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_rebounds_over_under,deni avdija,True,10.5,-160,2023-03-29T00:15:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_rebounds_over_under,deni avdija,False,9.5,-106,2023-03-29T01:00:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_rebounds_over_under,deni avdija,False,7.5,-128,2023-03-28T23:30:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_threes_over_under,deni avdija,False,2.5,-2000,2023-03-29T01:00:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_threes_over_under,deni avdija,False,1.5,-1000,2023-03-29T00:45:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_threes_over_under,deni avdija,False,0.5,110,2023-03-28T23:45:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_threes_over_under,deni avdija,True,2.5,750,2023-03-29T01:00:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_threes_over_under,deni avdija,True,1.5,520,2023-03-29T00:45:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_threes_over_under,deni avdija,True,0.5,-146,2023-03-28T23:45:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_rebounds_over_under,deni avdija,True,11.5,124,2023-03-29T00:30:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_steals_over_under,deni avdija,False,1.5,-3000,2023-03-29T01:00:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_steals_over_under,deni avdija,True,1.5,880,2023-03-29T01:00:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_steals_over_under,deni avdija,True,0.5,630,2023-03-29T00:45:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_rebounds_over_under,deni avdija,False,11.5,-166,2023-03-29T00:30:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_rebounds_over_under,deni avdija,False,10.5,120,2023-03-29T00:15:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_points_over_under,deni avdija,True,12.5,-144,2023-03-28T23:45:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_rebounds_over_under,deni avdija,False,8.5,-110,2023-03-28T23:45:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_steals_over_under,deni avdija,False,0.5,-1400,2023-03-29T00:45:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_points_over_under,deni avdija,True,10.5,104,2023-03-28T23:30:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_points_over_under,deni avdija,True,14.5,102,2023-03-28T22:45:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_blocks_over_under,deni avdija,True,0.5,1000,2023-03-29T00:45:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_assists_over_under,deni avdija,True,3.5,-158,2023-03-28T23:45:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_assists_over_under,deni avdija,True,4.5,-200,2023-03-29T00:15:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_assists_over_under,deni avdija,True,5.5,194,2023-03-29T01:00:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_blocks_over_under,deni avdija,False,0.5,-7000,2023-03-29T01:00:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_assists_over_under,deni avdija,False,4.5,148,2023-03-29T00:15:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_assists_over_under,deni avdija,False,5.5,-270,2023-03-29T01:00:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_assists_over_under,deni avdija,False,3.5,118,2023-03-28T23:45:01,Washington Wizards,Boston Celtics
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,deni avdija,True,8.5,120,2023-04-01T01:00:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,deni avdija,False,16.5,-105,2023-03-31T23:08:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,deni avdija,True,9.5,126,2023-04-01T00:56:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,deni avdija,True,10.5,-122,2023-04-01T00:22:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,deni avdija,False,12.5,-146,2023-04-01T00:18:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,deni avdija,False,13.5,-144,2023-03-31T23:24:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,deni avdija,False,14.5,-130,2023-03-31T23:16:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,deni avdija,False,15.5,-118,2023-03-31T23:12:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,deni avdija,False,17.5,-122,2023-03-31T22:38:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_rebounds_over_under,deni avdija,True,7.5,134,2023-04-01T00:58:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_rebounds_over_under,deni avdija,True,6.5,154,2023-04-01T01:06:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,deni avdija,True,7.5,128,2023-04-01T01:04:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_rebounds_over_under,deni avdija,True,8.5,120,2023-03-31T23:50:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_rebounds_over_under,deni avdija,True,9.5,108,2023-03-31T23:26:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_rebounds_over_under,deni avdija,False,5.5,140,2023-04-01T01:12:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_rebounds_over_under,deni avdija,False,6.5,-210,2023-04-01T01:06:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_rebounds_over_under,deni avdija,False,7.5,-180,2023-04-01T00:58:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_rebounds_over_under,deni avdija,False,8.5,-160,2023-03-31T23:50:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_rebounds_over_under,deni avdija,False,9.5,-144,2023-03-31T23:26:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_rebounds_over_under,deni avdija,True,5.5,-188,2023-04-01T01:12:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,deni avdija,True,6.5,102,2023-04-01T01:12:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_assists_over_under,deni avdija,False,5.5,-180,2023-03-31T23:48:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_blocks_over_under,deni avdija,True,0.5,1000,2023-04-01T01:06:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,deni avdija,False,11.5,-104,2023-04-01T00:20:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,deni avdija,False,10.5,-108,2023-04-01T00:22:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,deni avdija,False,9.5,-168,2023-04-01T00:56:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_assists_over_under,deni avdija,True,3.5,-215,2023-04-01T01:00:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,deni avdija,False,7.5,-172,2023-04-01T01:04:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,deni avdija,False,6.5,-136,2023-04-01T01:12:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,deni avdija,True,17.5,100,2023-03-31T22:38:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,deni avdija,True,16.5,-115,2023-03-31T23:08:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,deni avdija,True,15.5,-112,2023-03-31T23:12:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,deni avdija,True,14.5,-102,2023-03-31T23:16:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,deni avdija,True,13.5,108,2023-03-31T23:24:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,deni avdija,True,12.5,110,2023-04-01T00:18:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,deni avdija,True,11.5,-128,2023-04-01T00:20:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_assists_over_under,deni avdija,True,4.5,146,2023-04-01T01:10:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_assists_over_under,deni avdija,True,5.5,134,2023-03-31T23:48:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_assists_over_under,deni avdija,True,6.5,132,2023-03-31T23:16:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_assists_over_under,deni avdija,False,3.5,158,2023-04-01T01:00:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_assists_over_under,deni avdija,False,4.5,-198,2023-04-01T01:10:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_assists_over_under,deni avdija,False,6.5,-178,2023-03-31T23:16:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_blocks_over_under,deni avdija,False,0.5,-7000,2023-04-01T01:10:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,deni avdija,False,8.5,-160,2023-04-01T01:00:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_steals_over_under,deni avdija,False,0.5,-2000,2023-04-01T01:10:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_threes_over_under,deni avdija,False,0.5,-670,2023-04-01T01:10:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_threes_over_under,deni avdija,True,1.5,168,2023-03-31T23:50:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_steals_over_under,deni avdija,True,0.5,750,2023-04-01T01:10:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_threes_over_under,deni avdija,True,0.5,400,2023-04-01T01:10:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_threes_over_under,deni avdija,False,1.5,-230,2023-03-31T23:50:01,Washington Wizards,Orlando Magic
+2023-04-02,eac734c02814ecdd7d6b099a9b451f34,fanduel,player_points_over_under,deni avdija,True,15.5,-108,2023-04-04T16:12:01,Washington Wizards,Milwaukee Bucks
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_points_over_under,deni avdija,False,11.5,-154,2023-04-02T23:56:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_points_over_under,deni avdija,False,12.5,-158,2023-04-02T23:30:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_points_over_under,deni avdija,False,13.5,-144,2023-04-02T23:26:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_points_over_under,deni avdija,False,14.5,-132,2023-04-02T23:20:02,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_points_over_under,deni avdija,False,15.5,-136,2023-04-02T23:12:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_rebounds_over_under,deni avdija,True,3.5,280,2023-04-03T00:08:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_rebounds_over_under,deni avdija,True,4.5,144,2023-04-02T23:56:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_rebounds_over_under,deni avdija,True,5.5,104,2023-04-02T23:26:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_rebounds_over_under,deni avdija,True,6.5,116,2023-04-02T23:18:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_rebounds_over_under,deni avdija,True,7.5,124,2023-04-02T22:50:02,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_rebounds_over_under,deni avdija,True,8.5,112,2023-04-02T22:02:02,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_rebounds_over_under,deni avdija,False,3.5,-420,2023-04-03T00:08:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_rebounds_over_under,deni avdija,False,4.5,-194,2023-04-02T23:56:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_rebounds_over_under,deni avdija,False,5.5,-138,2023-04-02T23:26:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_rebounds_over_under,deni avdija,False,7.5,-166,2023-04-02T22:50:02,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_rebounds_over_under,deni avdija,False,8.5,-138,2023-04-02T22:02:02,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_steals_over_under,deni avdija,True,0.5,-138,2023-04-02T22:40:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_steals_over_under,deni avdija,True,1.5,-118,2023-04-02T22:48:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_steals_over_under,deni avdija,True,2.5,270,2023-04-02T23:48:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_steals_over_under,deni avdija,True,3.5,1000,2023-04-03T00:04:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_steals_over_under,deni avdija,False,0.5,104,2023-04-02T22:40:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_steals_over_under,deni avdija,False,1.5,-112,2023-04-02T22:48:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_steals_over_under,deni avdija,False,2.5,-400,2023-04-02T23:48:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_steals_over_under,deni avdija,False,3.5,-7000,2023-04-03T00:08:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_threes_over_under,deni avdija,True,1.5,1000,2023-04-03T00:08:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_threes_over_under,deni avdija,False,1.5,-5000,2023-04-03T00:08:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_rebounds_over_under,deni avdija,False,6.5,-154,2023-04-02T23:18:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_points_over_under,deni avdija,False,10.5,-138,2023-04-03T00:00:02,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_points_over_under,deni avdija,False,9.5,-188,2023-04-03T00:08:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_points_over_under,deni avdija,True,15.5,102,2023-04-02T23:12:01,New York Knicks,Washington Wizards
+2023-04-02,eac734c02814ecdd7d6b099a9b451f34,fanduel,player_points_over_under,deni avdija,False,15.5,-115,2023-04-04T16:12:01,Washington Wizards,Milwaukee Bucks
+2023-04-02,eac734c02814ecdd7d6b099a9b451f34,fanduel,player_rebounds_over_under,deni avdija,True,7.5,-142,2023-04-04T00:36:01,Washington Wizards,Milwaukee Bucks
+2023-04-02,eac734c02814ecdd7d6b099a9b451f34,fanduel,player_rebounds_over_under,deni avdija,True,8.5,106,2023-04-04T16:12:01,Washington Wizards,Milwaukee Bucks
+2023-04-02,eac734c02814ecdd7d6b099a9b451f34,fanduel,player_rebounds_over_under,deni avdija,False,7.5,112,2023-04-04T00:36:01,Washington Wizards,Milwaukee Bucks
+2023-04-02,eac734c02814ecdd7d6b099a9b451f34,fanduel,player_rebounds_over_under,deni avdija,False,8.5,-136,2023-04-04T16:12:01,Washington Wizards,Milwaukee Bucks
+2023-04-02,eac734c02814ecdd7d6b099a9b451f34,fanduel,player_threes_over_under,deni avdija,True,1.5,108,2023-04-04T16:00:01,Washington Wizards,Milwaukee Bucks
+2023-04-02,eac734c02814ecdd7d6b099a9b451f34,fanduel,player_threes_over_under,deni avdija,False,1.5,-138,2023-04-04T16:00:01,Washington Wizards,Milwaukee Bucks
+2023-04-02,eac734c02814ecdd7d6b099a9b451f34,fanduel,player_assists_over_under,deni avdija,True,4.5,-113,2023-04-04T16:12:01,Washington Wizards,Milwaukee Bucks
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_assists_over_under,deni avdija,True,3.5,-138,2023-04-02T22:36:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_assists_over_under,deni avdija,True,4.5,102,2023-04-02T22:40:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_assists_over_under,deni avdija,True,5.5,450,2023-04-03T00:08:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_assists_over_under,deni avdija,True,6.5,148,2023-04-02T23:48:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_assists_over_under,deni avdija,True,7.5,154,2023-04-02T23:26:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_assists_over_under,deni avdija,False,3.5,104,2023-04-02T22:36:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_assists_over_under,deni avdija,False,4.5,-136,2023-04-02T22:40:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_assists_over_under,deni avdija,False,5.5,-800,2023-04-03T00:08:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_assists_over_under,deni avdija,False,6.5,-200,2023-04-02T23:48:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_assists_over_under,deni avdija,False,7.5,-210,2023-04-02T23:26:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_blocks_over_under,deni avdija,True,0.5,265,2023-04-02T22:50:02,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_blocks_over_under,deni avdija,True,1.5,1000,2023-04-02T23:58:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_blocks_over_under,deni avdija,False,0.5,-390,2023-04-02T22:50:02,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_blocks_over_under,deni avdija,False,1.5,-50000,2023-04-03T00:04:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_points_over_under,deni avdija,True,9.5,140,2023-04-03T00:08:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_points_over_under,deni avdija,True,10.5,104,2023-04-03T00:00:02,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_points_over_under,deni avdija,True,11.5,116,2023-04-02T23:56:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_points_over_under,deni avdija,True,12.5,118,2023-04-02T23:30:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_points_over_under,deni avdija,True,13.5,108,2023-04-02T23:26:01,New York Knicks,Washington Wizards
+2023-04-02,eac734c02814ecdd7d6b099a9b451f34,fanduel,player_assists_over_under,deni avdija,False,4.5,-113,2023-04-04T16:12:01,Washington Wizards,Milwaukee Bucks
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_points_over_under,deni avdija,True,14.5,100,2023-04-02T23:20:02,New York Knicks,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_assists_over_under,deni avdija,True,3.5,-162,2023-10-25T23:55:05,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_blocks_over_under,deni avdija,True,0.5,1100,2023-10-26T01:05:18,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,deni avdija,True,9.5,-135,2023-10-26T00:40:39,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_points_over_under,deni avdija,False,10.5,-110,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_points_over_under,deni avdija,True,10.5,-120,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,deni avdija,False,13.5,-125,2023-10-25T23:35:38,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,deni avdija,False,12.5,-135,2023-10-26T00:56:12,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,deni avdija,False,11.5,-130,2023-10-26T00:25:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,deni avdija,False,10.5,110,2023-10-26T01:00:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,deni avdija,False,9.5,-2500,2023-10-26T01:10:27,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,deni avdija,True,10.5,-120,2023-10-26T00:35:07,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,deni avdija,False,12.5,-200,2023-10-25T23:15:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,deni avdija,False,9.5,130,2023-10-25T23:15:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,deni avdija,False,8.5,185,2023-10-25T23:15:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,deni avdija,True,13.5,-105,2023-10-25T23:35:38,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,deni avdija,True,12.5,105,2023-10-26T00:56:12,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,deni avdija,True,11.5,100,2023-10-26T00:25:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,deni avdija,True,10.5,-145,2023-10-26T01:00:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,deni avdija,True,9.5,850,2023-10-26T01:16:01,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,deni avdija,True,12.5,155,2023-10-25T23:15:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,deni avdija,False,11.5,-150,2023-10-25T23:15:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,deni avdija,True,11.5,115,2023-10-25T23:15:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,deni avdija,True,11.5,105,2023-10-26T00:30:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,deni avdija,True,13.5,-110,2023-10-25T23:36:00,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_rebounds_over_under,deni avdija,True,9.5,120,2023-10-26T00:41:24,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_rebounds_over_under,deni avdija,True,8.5,145,2023-10-26T01:00:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_rebounds_over_under,deni avdija,True,7.5,850,2023-10-26T01:10:27,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_rebounds_over_under,deni avdija,True,6.5,-120,2023-10-25T23:15:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,pinnacle,player_rebounds_over_under,deni avdija,False,6.5,-107,2023-10-25T22:35:05,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,pinnacle,player_rebounds_over_under,deni avdija,True,6.5,-123,2023-10-25T22:35:05,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_rebounds_over_under,deni avdija,False,9.5,126,2023-10-26T00:41:16,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_rebounds_over_under,deni avdija,False,8.5,136,2023-10-26T00:55:12,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,deni avdija,True,12.5,100,2023-10-25T23:45:46,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_rebounds_over_under,deni avdija,False,7.5,-3000,2023-10-26T01:10:14,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_rebounds_over_under,deni avdija,True,9.5,-168,2023-10-26T00:41:16,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_rebounds_over_under,deni avdija,True,8.5,-182,2023-10-26T00:55:12,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_rebounds_over_under,deni avdija,True,7.5,880,2023-10-26T01:10:14,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_rebounds_over_under,deni avdija,True,6.5,-115,2023-10-25T23:15:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,deni avdija,False,13.5,-130,2023-10-25T23:36:00,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,deni avdija,False,11.5,-150,2023-10-26T00:30:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,deni avdija,False,10.5,-120,2023-10-26T00:35:07,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,deni avdija,False,9.5,-105,2023-10-26T00:40:39,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_rebounds_over_under,deni avdija,False,6.5,-104,2023-10-25T23:15:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,deni avdija,True,9.5,-170,2023-10-25T23:15:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,deni avdija,True,8.5,-245,2023-10-25T23:15:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,pinnacle,player_points_over_under,deni avdija,False,10.5,-109,2023-10-25T22:35:05,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_assists_over_under,deni avdija,True,3.5,-130,2023-10-26T00:00:05,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_assists_over_under,deni avdija,False,3.5,-155,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_assists_over_under,deni avdija,True,3.5,115,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_assists_over_under,deni avdija,False,5.5,-8000,2023-10-26T01:16:01,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_assists_over_under,deni avdija,False,4.5,105,2023-10-26T00:00:19,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_assists_over_under,deni avdija,False,3.5,-110,2023-10-26T00:00:19,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_assists_over_under,deni avdija,True,5.5,1100,2023-10-26T01:16:01,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_assists_over_under,deni avdija,True,4.5,-135,2023-10-26T00:00:19,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_assists_over_under,deni avdija,True,4.5,-135,2023-10-26T00:05:14,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_assists_over_under,deni avdija,True,3.5,-120,2023-10-26T00:00:19,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,pinnacle,player_assists_over_under,deni avdija,True,3.5,120,2023-10-25T22:35:05,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_assists_over_under,deni avdija,False,6.5,-250,2023-10-26T00:55:12,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_assists_over_under,deni avdija,False,5.5,-5000,2023-10-26T01:15:30,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_assists_over_under,deni avdija,False,4.5,-130,2023-10-25T23:45:17,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_assists_over_under,deni avdija,False,3.5,122,2023-10-25T23:55:05,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_assists_over_under,deni avdija,True,6.5,182,2023-10-26T00:55:12,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_assists_over_under,deni avdija,True,5.5,1000,2023-10-26T01:10:14,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_assists_over_under,deni avdija,True,4.5,-102,2023-10-25T23:45:17,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,pinnacle,player_assists_over_under,deni avdija,False,3.5,-162,2023-10-25T22:35:05,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_assists_over_under,deni avdija,True,5.5,140,2023-10-26T00:35:07,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_assists_over_under,deni avdija,False,3.5,-110,2023-10-26T00:00:05,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_assists_over_under,deni avdija,False,4.5,-105,2023-10-26T00:05:14,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,pinnacle,player_points_over_under,deni avdija,True,10.5,-121,2023-10-25T22:35:05,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,deni avdija,False,12.5,-125,2023-10-25T23:45:17,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,deni avdija,False,11.5,-178,2023-10-26T00:45:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,deni avdija,False,10.5,-215,2023-10-26T01:05:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,deni avdija,False,9.5,112,2023-10-26T00:25:17,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,deni avdija,True,12.5,-102,2023-10-25T23:45:17,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,deni avdija,True,11.5,138,2023-10-26T00:45:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,deni avdija,True,10.5,164,2023-10-26T01:05:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,deni avdija,True,9.5,-142,2023-10-26T00:25:17,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_blocks_over_under,deni avdija,False,1.5,-2500,2023-10-25T23:16:13,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_blocks_over_under,deni avdija,False,0.5,-375,2023-10-25T23:50:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_blocks_over_under,deni avdija,True,1.5,700,2023-10-25T23:16:13,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_blocks_over_under,deni avdija,True,0.5,235,2023-10-25T23:50:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_blocks_over_under,deni avdija,False,0.5,-275,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_blocks_over_under,deni avdija,True,0.5,195,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_blocks_over_under,deni avdija,False,0.5,-6000,2023-10-26T01:05:18,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_blocks_over_under,deni avdija,False,0.5,-100000,2023-10-26T01:10:14,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_blocks_over_under,deni avdija,True,0.5,1000,2023-10-26T01:05:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_assists_over_under,deni avdija,False,5.5,-200,2023-10-26T00:35:07,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_rebounds_over_under,deni avdija,False,6.5,-105,2023-10-25T23:15:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_rebounds_over_under,deni avdija,False,7.5,-3000,2023-10-26T01:16:01,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,deni avdija,False,12.5,-140,2023-10-25T23:45:46,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_rebounds_over_under,deni avdija,False,9.5,-160,2023-10-26T00:41:24,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_steals_over_under,deni avdija,True,0.5,-150,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_steals_over_under,deni avdija,False,0.5,110,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_steals_over_under,deni avdija,True,0.5,-150,2023-10-25T23:16:13,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_steals_over_under,deni avdija,True,1.5,250,2023-10-26T00:40:39,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_steals_over_under,deni avdija,False,0.5,115,2023-10-25T23:16:13,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_steals_over_under,deni avdija,False,1.5,-400,2023-10-26T00:40:39,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_steals_over_under,deni avdija,False,1.5,-1100,2023-10-26T01:05:18,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_threes_over_under,deni avdija,False,0.5,120,2023-10-25T23:40:05,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_threes_over_under,deni avdija,False,0.5,-1100,2023-10-26T01:05:18,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_threes_over_under,deni avdija,True,0.5,-210,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_threes_over_under,deni avdija,False,0.5,155,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_threes_over_under,deni avdija,True,0.5,130,2023-10-26T00:25:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_threes_over_under,deni avdija,False,0.5,-185,2023-10-26T00:25:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_rebounds_over_under,deni avdija,False,8.5,-200,2023-10-26T01:00:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_threes_over_under,deni avdija,True,0.5,550,2023-10-26T01:05:18,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_steals_over_under,deni avdija,False,0.5,105,2023-10-25T23:15:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_threes_over_under,deni avdija,True,0.5,-160,2023-10-25T23:40:05,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_rebounds_over_under,deni avdija,True,8.5,-160,2023-10-26T00:45:14,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_rebounds_over_under,deni avdija,False,6.5,-105,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_rebounds_over_under,deni avdija,True,6.5,-125,2023-10-25T23:16:13,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_rebounds_over_under,deni avdija,True,7.5,-140,2023-10-26T00:05:14,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_rebounds_over_under,deni avdija,True,6.5,-125,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_rebounds_over_under,deni avdija,True,9.5,-170,2023-10-26T00:40:39,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_rebounds_over_under,deni avdija,False,6.5,-105,2023-10-25T23:16:13,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_steals_over_under,deni avdija,True,1.5,550,2023-10-26T01:05:18,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_rebounds_over_under,deni avdija,False,7.5,100,2023-10-26T00:05:14,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_rebounds_over_under,deni avdija,False,8.5,110,2023-10-26T00:45:14,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_rebounds_over_under,deni avdija,False,9.5,120,2023-10-26T00:40:39,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_steals_over_under,deni avdija,True,0.5,-144,2023-10-25T23:15:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_steals_over_under,deni avdija,True,1.5,1000,2023-10-26T01:05:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_steals_over_under,deni avdija,False,0.5,108,2023-10-25T23:15:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_steals_over_under,deni avdija,False,1.5,-100000,2023-10-26T01:10:14,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_steals_over_under,deni avdija,True,0.5,-140,2023-10-25T23:15:06,Indiana Pacers,Washington Wizards
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,deni avdija,False,11.5,-110,2023-10-29T01:15:29,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,deni avdija,False,12.5,-150,2023-10-29T01:10:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,deni avdija,False,10.5,-1000,2023-10-29T01:30:07,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_threes_over_under,deni avdija,True,0.5,-105,2023-10-28T23:50:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,deni avdija,False,8.5,-110,2023-10-28T23:45:23,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,deni avdija,False,13.5,-110,2023-10-29T00:05:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,deni avdija,False,7.5,-135,2023-10-28T23:45:23,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,deni avdija,False,9.5,-110,2023-10-28T23:22:02,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,deni avdija,False,14.5,-105,2023-10-29T00:05:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_threes_over_under,deni avdija,True,2.5,1200,2023-10-29T01:25:35,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_points_over_under,deni avdija,True,8.5,-105,2023-10-28T23:35:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_threes_over_under,deni avdija,True,2.5,125,2023-10-29T00:40:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_threes_over_under,deni avdija,True,0.5,-125,2023-10-28T23:42:26,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_threes_over_under,deni avdija,False,2.5,-20000,2023-10-29T01:25:35,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_threes_over_under,deni avdija,False,1.5,-105,2023-10-28T23:55:08,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_threes_over_under,deni avdija,False,0.5,-130,2023-10-28T23:50:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_threes_over_under,deni avdija,True,1.5,-125,2023-10-28T23:55:08,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,deni avdija,False,6.5,-130,2023-10-28T23:50:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_points_over_under,deni avdija,True,7.5,100,2023-10-28T23:42:26,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,deni avdija,False,11.5,-150,2023-10-28T23:16:01,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,deni avdija,True,10.5,-110,2023-10-28T23:16:01,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,deni avdija,False,9.5,-140,2023-10-28T19:10:04,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,pinnacle,player_points_over_under,deni avdija,False,9.5,106,2023-10-28T22:40:27,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,deni avdija,True,6.5,-285,2023-10-28T19:10:04,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,deni avdija,True,7.5,-285,2023-10-28T23:16:01,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,deni avdija,True,8.5,-210,2023-10-28T23:16:01,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,deni avdija,True,9.5,110,2023-10-28T19:10:04,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_threes_over_under,deni avdija,False,1.5,-230,2023-10-28T17:20:38,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,deni avdija,True,11.5,115,2023-10-28T23:16:01,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,deni avdija,True,6.5,-105,2023-10-28T23:50:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,deni avdija,True,7.5,105,2023-10-28T23:45:23,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,deni avdija,True,8.5,-120,2023-10-28T23:45:23,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,deni avdija,True,9.5,-120,2023-10-28T23:22:02,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,deni avdija,True,10.5,550,2023-10-29T01:30:07,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,deni avdija,True,11.5,-120,2023-10-29T01:15:29,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,deni avdija,True,12.5,115,2023-10-29T01:10:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,deni avdija,True,13.5,-120,2023-10-29T00:05:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,deni avdija,True,14.5,-125,2023-10-29T00:05:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,deni avdija,False,6.5,215,2023-10-28T19:10:04,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,deni avdija,False,7.5,210,2023-10-28T23:16:01,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,deni avdija,False,8.5,160,2023-10-28T23:16:01,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,deni avdija,False,10.5,-115,2023-10-28T23:16:01,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_threes_over_under,deni avdija,False,0.5,140,2023-10-28T23:15:15,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_rebounds_over_under,deni avdija,True,5.5,115,2023-10-29T00:40:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_threes_over_under,deni avdija,True,0.5,-180,2023-10-28T23:15:15,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,pinnacle,player_rebounds_over_under,deni avdija,True,6.5,108,2023-10-28T18:05:09,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,deni avdija,False,6.5,-128,2023-10-29T00:01:37,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,deni avdija,False,5.5,-650,2023-10-29T01:30:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,deni avdija,False,4.5,-230,2023-10-29T01:25:31,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,deni avdija,False,3.5,-158,2023-10-29T00:55:03,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,deni avdija,True,6.5,-104,2023-10-29T00:01:37,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,deni avdija,True,5.5,390,2023-10-29T01:30:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,deni avdija,True,4.5,168,2023-10-29T01:25:31,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,deni avdija,True,3.5,118,2023-10-29T00:55:03,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_points_over_under,deni avdija,False,14.5,-125,2023-10-29T00:05:06,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_points_over_under,deni avdija,False,12.5,-125,2023-10-29T00:40:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_points_over_under,deni avdija,False,10.5,-120,2023-10-28T23:20:59,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_points_over_under,deni avdija,False,9.5,110,2023-10-28T22:36:08,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_points_over_under,deni avdija,False,8.5,-135,2023-10-28T23:35:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_points_over_under,deni avdija,False,7.5,-140,2023-10-28T23:42:26,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_points_over_under,deni avdija,True,14.5,-115,2023-10-29T00:05:06,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_points_over_under,deni avdija,True,12.5,-115,2023-10-29T00:40:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_points_over_under,deni avdija,True,10.5,-110,2023-10-28T23:20:59,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,pinnacle,player_points_over_under,deni avdija,False,8.5,101,2023-10-28T22:40:27,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,pinnacle,player_rebounds_over_under,deni avdija,False,6.5,-144,2023-10-28T18:05:09,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_threes_over_under,deni avdija,True,1.5,176,2023-10-28T17:20:38,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,deni avdija,True,3.5,115,2023-10-29T00:55:18,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,deni avdija,True,5.5,380,2023-10-29T01:30:07,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_steals_over_under,deni avdija,False,0.5,-215,2023-10-29T00:40:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_steals_over_under,deni avdija,True,0.5,145,2023-10-29T00:40:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_steals_over_under,deni avdija,False,1.5,-10000,2023-10-29T01:25:35,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_steals_over_under,deni avdija,False,0.5,-600,2023-10-29T00:55:18,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_steals_over_under,deni avdija,True,1.5,1100,2023-10-29T01:25:35,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_steals_over_under,deni avdija,True,0.5,370,2023-10-29T00:55:18,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_steals_over_under,deni avdija,False,1.5,-50000,2023-10-29T01:30:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_steals_over_under,deni avdija,False,0.5,-650,2023-10-29T00:55:03,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_steals_over_under,deni avdija,True,1.5,1000,2023-10-29T01:25:31,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_steals_over_under,deni avdija,True,0.5,390,2023-10-29T00:55:03,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_rebounds_over_under,deni avdija,False,6.5,-135,2023-10-29T00:05:06,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_rebounds_over_under,deni avdija,False,5.5,-165,2023-10-29T00:40:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_rebounds_over_under,deni avdija,True,6.5,-105,2023-10-29T00:05:06,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_points_over_under,deni avdija,True,9.5,-140,2023-10-28T22:36:08,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,deni avdija,False,6.5,-150,2023-10-29T00:05:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,deni avdija,False,5.5,-600,2023-10-29T01:30:07,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,deni avdija,False,4.5,-220,2023-10-29T01:25:35,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,deni avdija,False,3.5,-155,2023-10-29T00:55:18,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,deni avdija,True,6.5,115,2023-10-29T00:05:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,deni avdija,True,4.5,165,2023-10-29T01:25:35,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,pinnacle,player_points_over_under,deni avdija,True,9.5,-139,2023-10-28T22:40:27,Washington Wizards,Memphis Grizzlies
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,barstool,player_threes_over_under,deni avdija,False,0.5,145,2023-10-30T05:20:44,Washington Wizards,Boston Celtics
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_points_over_under,deni avdija,False,11.5,-120,2023-10-28T19:15:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,deni avdija,False,12.5,-235,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,deni avdija,False,11.5,-185,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,deni avdija,False,10.5,-135,2023-10-30T06:00:12,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,deni avdija,False,9.5,115,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,deni avdija,False,8.5,145,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,deni avdija,False,7.5,210,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,deni avdija,True,10.5,-105,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,deni avdija,True,9.5,-130,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,deni avdija,False,9.5,105,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,deni avdija,True,12.5,180,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,deni avdija,True,10.5,105,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,deni avdija,True,9.5,-145,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,deni avdija,True,8.5,-190,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,deni avdija,True,7.5,-275,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,pinnacle,player_points_over_under,deni avdija,False,10.5,-135,2023-10-29T23:40:30,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,pinnacle,player_points_over_under,deni avdija,True,10.5,102,2023-10-29T23:40:30,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,fanduel,player_points_over_under,deni avdija,False,10.5,-128,2023-10-30T02:20:24,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,fanduel,player_points_over_under,deni avdija,True,10.5,100,2023-10-30T02:20:24,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,deni avdija,True,11.5,145,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,deni avdija,False,10.5,-125,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,barstool,player_points_over_under,deni avdija,True,9.5,-135,2023-10-30T05:20:44,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,barstool,player_points_over_under,deni avdija,True,10.5,-105,2023-10-30T05:20:44,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,barstool,player_threes_over_under,deni avdija,True,0.5,-200,2023-10-30T05:20:44,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_threes_over_under,deni avdija,False,0.5,150,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_threes_over_under,deni avdija,True,0.5,-195,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,fanduel,player_threes_over_under,deni avdija,False,0.5,164,2023-10-30T05:30:22,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,fanduel,player_threes_over_under,deni avdija,True,0.5,-215,2023-10-30T05:30:22,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,barstool,player_steals_over_under,deni avdija,False,0.5,140,2023-10-30T05:00:27,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,barstool,player_steals_over_under,deni avdija,True,0.5,-195,2023-10-30T05:00:27,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_steals_over_under,deni avdija,False,0.5,135,2023-10-30T06:00:12,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_steals_over_under,deni avdija,True,0.5,-175,2023-10-30T06:00:12,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,barstool,player_rebounds_over_under,deni avdija,False,7.5,-135,2023-10-30T05:20:44,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,barstool,player_rebounds_over_under,deni avdija,True,7.5,105,2023-10-30T05:20:44,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_rebounds_over_under,deni avdija,False,7.5,-130,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_rebounds_over_under,deni avdija,True,7.5,105,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,pinnacle,player_rebounds_over_under,deni avdija,False,7.5,-137,2023-10-29T19:00:19,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,pinnacle,player_rebounds_over_under,deni avdija,True,7.5,103,2023-10-29T19:00:19,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,fanduel,player_rebounds_over_under,deni avdija,False,7.5,-128,2023-10-30T04:30:51,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,fanduel,player_rebounds_over_under,deni avdija,True,7.5,100,2023-10-30T04:30:51,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,barstool,player_points_over_under,deni avdija,False,10.5,-125,2023-10-30T05:20:44,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,barstool,player_points_over_under,deni avdija,False,9.5,105,2023-10-30T05:20:44,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,barstool,player_blocks_over_under,deni avdija,False,0.5,-325,2023-10-30T05:00:27,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,barstool,player_blocks_over_under,deni avdija,True,0.5,220,2023-10-30T05:00:27,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_blocks_over_under,deni avdija,False,0.5,-290,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_blocks_over_under,deni avdija,True,0.5,220,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_assists_over_under,deni avdija,False,3.5,-195,2023-10-29T00:05:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_assists_over_under,deni avdija,False,4.5,-175,2023-10-28T23:45:23,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_assists_over_under,deni avdija,True,2.5,-140,2023-10-29T00:40:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_assists_over_under,deni avdija,True,3.5,100,2023-10-29T00:05:06,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_assists_over_under,deni avdija,False,2.5,100,2023-10-29T00:40:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_assists_over_under,deni avdija,False,3.5,-140,2023-10-29T00:05:06,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_blocks_over_under,deni avdija,True,0.5,1000,2023-10-29T01:20:59,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_blocks_over_under,deni avdija,False,0.5,-100000,2023-10-29T01:30:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_blocks_over_under,deni avdija,True,0.5,850,2023-10-29T01:15:29,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_blocks_over_under,deni avdija,False,0.5,-3000,2023-10-29T01:15:29,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_blocks_over_under,deni avdija,True,0.5,235,2023-10-29T00:05:06,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_blocks_over_under,deni avdija,False,0.5,-375,2023-10-29T00:05:06,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_points_over_under,deni avdija,True,8.5,-132,2023-10-28T19:10:04,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_points_over_under,deni avdija,True,9.5,106,2023-10-28T17:05:12,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_points_over_under,deni avdija,True,10.5,-120,2023-10-28T23:15:15,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_points_over_under,deni avdija,True,11.5,-102,2023-10-28T19:15:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_points_over_under,deni avdija,False,8.5,108,2023-10-28T19:10:04,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_points_over_under,deni avdija,False,9.5,-136,2023-10-28T17:05:12,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_points_over_under,deni avdija,False,10.5,-102,2023-10-28T23:15:15,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_assists_over_under,deni avdija,False,2.5,-900,2023-10-29T01:25:35,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,pinnacle,player_points_over_under,deni avdija,True,8.5,-134,2023-10-28T22:40:27,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_assists_over_under,deni avdija,False,1.5,135,2023-10-29T01:10:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_assists_over_under,deni avdija,True,3.5,145,2023-10-29T00:05:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,barstool,player_assists_over_under,deni avdija,False,3.5,-135,2023-10-30T05:20:44,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,barstool,player_assists_over_under,deni avdija,True,3.5,105,2023-10-30T05:20:44,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_assists_over_under,deni avdija,False,3.5,-135,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_assists_over_under,deni avdija,True,3.5,105,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,pinnacle,player_assists_over_under,deni avdija,False,3.5,-143,2023-10-29T23:40:30,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,pinnacle,player_assists_over_under,deni avdija,True,3.5,107,2023-10-29T23:40:30,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,fanduel,player_assists_over_under,deni avdija,False,3.5,-150,2023-10-30T05:20:23,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,fanduel,player_assists_over_under,deni avdija,True,3.5,118,2023-10-30T05:20:23,Washington Wizards,Boston Celtics
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_threes_over_under,deni avdija,False,0.5,-115,2023-10-28T23:42:26,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_assists_over_under,deni avdija,True,1.5,-188,2023-10-29T01:10:50,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_assists_over_under,deni avdija,True,2.5,1000,2023-10-29T01:30:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_assists_over_under,deni avdija,True,3.5,102,2023-10-29T00:01:37,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_assists_over_under,deni avdija,False,1.5,140,2023-10-29T01:10:50,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_assists_over_under,deni avdija,False,2.5,-50000,2023-10-29T01:30:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_assists_over_under,deni avdija,False,3.5,-136,2023-10-29T00:01:37,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,pinnacle,player_assists_over_under,deni avdija,True,3.5,-104,2023-10-28T18:05:09,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,pinnacle,player_assists_over_under,deni avdija,False,3.5,-128,2023-10-28T18:05:09,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_assists_over_under,deni avdija,True,1.5,-180,2023-10-29T01:10:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_assists_over_under,deni avdija,True,2.5,475,2023-10-29T01:25:35,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_assists_over_under,deni avdija,True,4.5,130,2023-10-28T23:45:23,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_threes_over_under,deni avdija,False,2.5,-180,2023-10-29T00:40:05,Washington Wizards,Memphis Grizzlies

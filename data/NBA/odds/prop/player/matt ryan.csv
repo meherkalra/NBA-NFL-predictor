@@ -1,0 +1,17 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_assists_over_under,matt ryan,True,2.5,240,2023-10-29T00:50:46,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_assists_over_under,matt ryan,True,3.5,550,2023-10-29T01:15:09,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_assists_over_under,matt ryan,False,2.5,-350,2023-10-29T00:50:46,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_assists_over_under,matt ryan,False,3.5,-1100,2023-10-29T01:15:09,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_blocks_over_under,matt ryan,True,0.5,1000,2023-10-29T00:55:03,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_blocks_over_under,matt ryan,True,1.5,1000,2023-10-29T01:05:07,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_blocks_over_under,matt ryan,False,0.5,-5000,2023-10-29T00:55:03,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_blocks_over_under,matt ryan,False,1.5,-10000,2023-10-29T01:15:09,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_rebounds_over_under,matt ryan,True,1.5,124,2023-10-29T00:50:46,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_rebounds_over_under,matt ryan,True,2.5,198,2023-10-29T01:05:07,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_rebounds_over_under,matt ryan,True,3.5,250,2023-10-29T01:15:09,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_rebounds_over_under,matt ryan,False,1.5,-166,2023-10-29T00:50:46,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_rebounds_over_under,matt ryan,False,2.5,-275,2023-10-29T01:05:07,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_rebounds_over_under,matt ryan,False,3.5,-360,2023-10-29T01:15:09,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_steals_over_under,matt ryan,True,1.5,1000,2023-10-29T01:15:09,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_steals_over_under,matt ryan,False,1.5,-4500,2023-10-29T01:15:09,New Orleans Pelicans,New York Knicks

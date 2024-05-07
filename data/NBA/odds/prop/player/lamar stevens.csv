@@ -1,0 +1,163 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-28,55dac6ad75a878a288979833ef422c48,fanduel,player_rebounds_over_under,lamar stevens,True,5.5,-250,2023-03-29T01:30:02,Atlanta Hawks,Cleveland Cavaliers
+2023-03-28,55dac6ad75a878a288979833ef422c48,fanduel,player_assists_over_under,lamar stevens,False,0.5,-2000,2023-03-29T01:45:01,Atlanta Hawks,Cleveland Cavaliers
+2023-03-28,55dac6ad75a878a288979833ef422c48,fanduel,player_blocks_over_under,lamar stevens,True,0.5,880,2023-03-29T01:30:02,Atlanta Hawks,Cleveland Cavaliers
+2023-03-28,55dac6ad75a878a288979833ef422c48,fanduel,player_blocks_over_under,lamar stevens,True,1.5,1000,2023-03-29T01:45:01,Atlanta Hawks,Cleveland Cavaliers
+2023-03-28,55dac6ad75a878a288979833ef422c48,fanduel,player_blocks_over_under,lamar stevens,False,0.5,-3000,2023-03-29T01:30:02,Atlanta Hawks,Cleveland Cavaliers
+2023-03-28,55dac6ad75a878a288979833ef422c48,fanduel,player_blocks_over_under,lamar stevens,False,1.5,-4000,2023-03-29T01:45:01,Atlanta Hawks,Cleveland Cavaliers
+2023-03-28,55dac6ad75a878a288979833ef422c48,fanduel,player_points_over_under,lamar stevens,True,2.5,-230,2023-03-29T01:45:01,Atlanta Hawks,Cleveland Cavaliers
+2023-03-28,55dac6ad75a878a288979833ef422c48,fanduel,player_points_over_under,lamar stevens,True,3.5,122,2023-03-29T01:30:02,Atlanta Hawks,Cleveland Cavaliers
+2023-03-28,55dac6ad75a878a288979833ef422c48,fanduel,player_points_over_under,lamar stevens,True,4.5,124,2023-03-29T01:00:01,Atlanta Hawks,Cleveland Cavaliers
+2023-03-28,55dac6ad75a878a288979833ef422c48,fanduel,player_points_over_under,lamar stevens,True,5.5,-120,2023-03-29T00:45:01,Atlanta Hawks,Cleveland Cavaliers
+2023-03-28,55dac6ad75a878a288979833ef422c48,fanduel,player_points_over_under,lamar stevens,True,6.5,100,2023-03-29T00:30:01,Atlanta Hawks,Cleveland Cavaliers
+2023-03-28,55dac6ad75a878a288979833ef422c48,fanduel,player_points_over_under,lamar stevens,True,7.5,-152,2023-03-29T00:15:01,Atlanta Hawks,Cleveland Cavaliers
+2023-03-28,55dac6ad75a878a288979833ef422c48,fanduel,player_points_over_under,lamar stevens,True,8.5,108,2023-03-29T00:00:02,Atlanta Hawks,Cleveland Cavaliers
+2023-03-28,55dac6ad75a878a288979833ef422c48,fanduel,player_points_over_under,lamar stevens,True,9.5,-112,2023-03-28T23:45:01,Atlanta Hawks,Cleveland Cavaliers
+2023-03-28,55dac6ad75a878a288979833ef422c48,fanduel,player_points_over_under,lamar stevens,False,2.5,168,2023-03-29T01:45:01,Atlanta Hawks,Cleveland Cavaliers
+2023-03-28,55dac6ad75a878a288979833ef422c48,fanduel,player_assists_over_under,lamar stevens,True,0.5,750,2023-03-29T01:45:01,Atlanta Hawks,Cleveland Cavaliers
+2023-03-28,55dac6ad75a878a288979833ef422c48,fanduel,player_points_over_under,lamar stevens,False,3.5,-162,2023-03-29T01:30:02,Atlanta Hawks,Cleveland Cavaliers
+2023-03-28,55dac6ad75a878a288979833ef422c48,fanduel,player_points_over_under,lamar stevens,False,5.5,-110,2023-03-29T00:45:01,Atlanta Hawks,Cleveland Cavaliers
+2023-03-28,55dac6ad75a878a288979833ef422c48,fanduel,player_points_over_under,lamar stevens,False,6.5,-132,2023-03-29T00:30:01,Atlanta Hawks,Cleveland Cavaliers
+2023-03-28,55dac6ad75a878a288979833ef422c48,fanduel,player_points_over_under,lamar stevens,False,7.5,114,2023-03-29T00:15:01,Atlanta Hawks,Cleveland Cavaliers
+2023-03-28,55dac6ad75a878a288979833ef422c48,fanduel,player_points_over_under,lamar stevens,False,8.5,-144,2023-03-29T00:00:02,Atlanta Hawks,Cleveland Cavaliers
+2023-03-28,55dac6ad75a878a288979833ef422c48,fanduel,player_points_over_under,lamar stevens,False,9.5,-118,2023-03-28T23:45:01,Atlanta Hawks,Cleveland Cavaliers
+2023-03-28,55dac6ad75a878a288979833ef422c48,fanduel,player_rebounds_over_under,lamar stevens,True,4.5,-148,2023-03-29T00:15:01,Atlanta Hawks,Cleveland Cavaliers
+2023-03-28,55dac6ad75a878a288979833ef422c48,fanduel,player_rebounds_over_under,lamar stevens,True,6.5,154,2023-03-29T01:15:01,Atlanta Hawks,Cleveland Cavaliers
+2023-03-28,55dac6ad75a878a288979833ef422c48,fanduel,player_rebounds_over_under,lamar stevens,True,7.5,-144,2023-03-29T01:45:01,Atlanta Hawks,Cleveland Cavaliers
+2023-03-28,55dac6ad75a878a288979833ef422c48,fanduel,player_rebounds_over_under,lamar stevens,False,4.5,112,2023-03-29T00:15:01,Atlanta Hawks,Cleveland Cavaliers
+2023-03-28,55dac6ad75a878a288979833ef422c48,fanduel,player_rebounds_over_under,lamar stevens,False,5.5,182,2023-03-29T01:30:02,Atlanta Hawks,Cleveland Cavaliers
+2023-03-28,55dac6ad75a878a288979833ef422c48,fanduel,player_rebounds_over_under,lamar stevens,False,6.5,-210,2023-03-29T01:15:01,Atlanta Hawks,Cleveland Cavaliers
+2023-03-28,55dac6ad75a878a288979833ef422c48,fanduel,player_rebounds_over_under,lamar stevens,False,7.5,108,2023-03-29T01:45:01,Atlanta Hawks,Cleveland Cavaliers
+2023-03-28,55dac6ad75a878a288979833ef422c48,fanduel,player_steals_over_under,lamar stevens,True,0.5,750,2023-03-29T01:45:01,Atlanta Hawks,Cleveland Cavaliers
+2023-03-28,55dac6ad75a878a288979833ef422c48,fanduel,player_steals_over_under,lamar stevens,False,0.5,-2000,2023-03-29T01:45:01,Atlanta Hawks,Cleveland Cavaliers
+2023-03-28,55dac6ad75a878a288979833ef422c48,fanduel,player_points_over_under,lamar stevens,False,4.5,-166,2023-03-29T01:00:01,Atlanta Hawks,Cleveland Cavaliers
+2023-03-28,55dac6ad75a878a288979833ef422c48,fanduel,player_threes_over_under,lamar stevens,True,0.5,750,2023-03-29T01:45:01,Atlanta Hawks,Cleveland Cavaliers
+2023-03-28,55dac6ad75a878a288979833ef422c48,fanduel,player_threes_over_under,lamar stevens,False,0.5,-2000,2023-03-29T01:45:01,Atlanta Hawks,Cleveland Cavaliers
+2023-03-31,5aba22ae43d7450dee74ba5867ee21b8,fanduel,player_blocks_over_under,lamar stevens,True,2.5,1000,2023-04-01T01:38:01,Cleveland Cavaliers,New York Knicks
+2023-03-31,5aba22ae43d7450dee74ba5867ee21b8,fanduel,player_threes_over_under,lamar stevens,False,0.5,-3500,2023-04-01T01:44:02,Cleveland Cavaliers,New York Knicks
+2023-03-31,5aba22ae43d7450dee74ba5867ee21b8,fanduel,player_threes_over_under,lamar stevens,True,0.5,920,2023-04-01T01:44:02,Cleveland Cavaliers,New York Knicks
+2023-03-31,5aba22ae43d7450dee74ba5867ee21b8,fanduel,player_steals_over_under,lamar stevens,False,1.5,-3000,2023-04-01T01:44:02,Cleveland Cavaliers,New York Knicks
+2023-03-31,5aba22ae43d7450dee74ba5867ee21b8,fanduel,player_steals_over_under,lamar stevens,False,0.5,-3000,2023-04-01T01:38:01,Cleveland Cavaliers,New York Knicks
+2023-03-31,5aba22ae43d7450dee74ba5867ee21b8,fanduel,player_steals_over_under,lamar stevens,True,1.5,880,2023-04-01T01:44:02,Cleveland Cavaliers,New York Knicks
+2023-03-31,5aba22ae43d7450dee74ba5867ee21b8,fanduel,player_steals_over_under,lamar stevens,True,0.5,880,2023-04-01T01:38:01,Cleveland Cavaliers,New York Knicks
+2023-03-31,5aba22ae43d7450dee74ba5867ee21b8,fanduel,player_rebounds_over_under,lamar stevens,False,7.5,-114,2023-04-01T01:44:02,Cleveland Cavaliers,New York Knicks
+2023-03-31,5aba22ae43d7450dee74ba5867ee21b8,fanduel,player_rebounds_over_under,lamar stevens,False,6.5,148,2023-04-01T01:36:01,Cleveland Cavaliers,New York Knicks
+2023-03-31,5aba22ae43d7450dee74ba5867ee21b8,fanduel,player_assists_over_under,lamar stevens,False,1.5,-2000,2023-04-01T01:44:02,Cleveland Cavaliers,New York Knicks
+2023-03-31,5aba22ae43d7450dee74ba5867ee21b8,fanduel,player_rebounds_over_under,lamar stevens,False,5.5,-130,2023-04-01T01:34:02,Cleveland Cavaliers,New York Knicks
+2023-03-31,5aba22ae43d7450dee74ba5867ee21b8,fanduel,player_rebounds_over_under,lamar stevens,False,4.5,110,2023-04-01T00:56:01,Cleveland Cavaliers,New York Knicks
+2023-03-31,5aba22ae43d7450dee74ba5867ee21b8,fanduel,player_rebounds_over_under,lamar stevens,True,7.5,-114,2023-04-01T01:44:02,Cleveland Cavaliers,New York Knicks
+2023-03-31,5aba22ae43d7450dee74ba5867ee21b8,fanduel,player_rebounds_over_under,lamar stevens,True,6.5,-200,2023-04-01T01:36:01,Cleveland Cavaliers,New York Knicks
+2023-03-31,5aba22ae43d7450dee74ba5867ee21b8,fanduel,player_rebounds_over_under,lamar stevens,True,5.5,-102,2023-04-01T01:34:02,Cleveland Cavaliers,New York Knicks
+2023-03-31,5aba22ae43d7450dee74ba5867ee21b8,fanduel,player_rebounds_over_under,lamar stevens,True,4.5,-146,2023-04-01T00:56:01,Cleveland Cavaliers,New York Knicks
+2023-03-31,5aba22ae43d7450dee74ba5867ee21b8,fanduel,player_points_over_under,lamar stevens,False,8.5,-130,2023-03-31T23:40:02,Cleveland Cavaliers,New York Knicks
+2023-03-31,5aba22ae43d7450dee74ba5867ee21b8,fanduel,player_points_over_under,lamar stevens,False,7.5,-144,2023-03-31T23:46:01,Cleveland Cavaliers,New York Knicks
+2023-03-31,5aba22ae43d7450dee74ba5867ee21b8,fanduel,player_blocks_over_under,lamar stevens,False,0.5,-1100,2023-04-01T00:54:01,Cleveland Cavaliers,New York Knicks
+2023-03-31,5aba22ae43d7450dee74ba5867ee21b8,fanduel,player_blocks_over_under,lamar stevens,False,1.5,-1400,2023-04-01T00:58:01,Cleveland Cavaliers,New York Knicks
+2023-03-31,5aba22ae43d7450dee74ba5867ee21b8,fanduel,player_blocks_over_under,lamar stevens,False,2.5,-5000,2023-04-01T01:44:02,Cleveland Cavaliers,New York Knicks
+2023-03-31,5aba22ae43d7450dee74ba5867ee21b8,fanduel,player_points_over_under,lamar stevens,True,2.5,-180,2023-04-01T01:44:02,Cleveland Cavaliers,New York Knicks
+2023-03-31,5aba22ae43d7450dee74ba5867ee21b8,fanduel,player_points_over_under,lamar stevens,True,3.5,154,2023-04-01T01:36:01,Cleveland Cavaliers,New York Knicks
+2023-03-31,5aba22ae43d7450dee74ba5867ee21b8,fanduel,player_points_over_under,lamar stevens,True,4.5,148,2023-04-01T00:58:01,Cleveland Cavaliers,New York Knicks
+2023-03-31,5aba22ae43d7450dee74ba5867ee21b8,fanduel,player_blocks_over_under,lamar stevens,True,1.5,630,2023-04-01T00:58:01,Cleveland Cavaliers,New York Knicks
+2023-03-31,5aba22ae43d7450dee74ba5867ee21b8,fanduel,player_points_over_under,lamar stevens,True,5.5,-102,2023-04-01T00:08:01,Cleveland Cavaliers,New York Knicks
+2023-03-31,5aba22ae43d7450dee74ba5867ee21b8,fanduel,player_points_over_under,lamar stevens,True,8.5,102,2023-03-31T23:40:02,Cleveland Cavaliers,New York Knicks
+2023-03-31,5aba22ae43d7450dee74ba5867ee21b8,fanduel,player_points_over_under,lamar stevens,False,2.5,134,2023-04-01T01:44:02,Cleveland Cavaliers,New York Knicks
+2023-03-31,5aba22ae43d7450dee74ba5867ee21b8,fanduel,player_points_over_under,lamar stevens,False,3.5,-210,2023-04-01T01:36:01,Cleveland Cavaliers,New York Knicks
+2023-03-31,5aba22ae43d7450dee74ba5867ee21b8,fanduel,player_points_over_under,lamar stevens,False,4.5,-200,2023-04-01T00:58:01,Cleveland Cavaliers,New York Knicks
+2023-03-31,5aba22ae43d7450dee74ba5867ee21b8,fanduel,player_points_over_under,lamar stevens,False,5.5,-130,2023-04-01T00:08:01,Cleveland Cavaliers,New York Knicks
+2023-03-31,5aba22ae43d7450dee74ba5867ee21b8,fanduel,player_points_over_under,lamar stevens,False,6.5,-152,2023-03-31T23:56:02,Cleveland Cavaliers,New York Knicks
+2023-03-31,5aba22ae43d7450dee74ba5867ee21b8,fanduel,player_points_over_under,lamar stevens,True,7.5,108,2023-03-31T23:46:01,Cleveland Cavaliers,New York Knicks
+2023-03-31,5aba22ae43d7450dee74ba5867ee21b8,fanduel,player_blocks_over_under,lamar stevens,True,0.5,550,2023-04-01T00:54:01,Cleveland Cavaliers,New York Knicks
+2023-03-31,5aba22ae43d7450dee74ba5867ee21b8,fanduel,player_points_over_under,lamar stevens,True,6.5,114,2023-03-31T23:56:02,Cleveland Cavaliers,New York Knicks
+2023-03-31,5aba22ae43d7450dee74ba5867ee21b8,fanduel,player_assists_over_under,lamar stevens,True,1.5,750,2023-04-01T01:44:02,Cleveland Cavaliers,New York Knicks
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_steals_over_under,lamar stevens,False,2.5,-1400,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_threes_over_under,lamar stevens,True,0.5,108,2023-04-07T00:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_threes_over_under,lamar stevens,True,1.5,400,2023-04-07T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_threes_over_under,lamar stevens,True,2.5,630,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_threes_over_under,lamar stevens,False,0.5,-144,2023-04-07T00:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_threes_over_under,lamar stevens,False,1.5,-670,2023-04-07T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_threes_over_under,lamar stevens,False,2.5,-1400,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_threes_over_under,lamar stevens,True,0.5,110,2023-04-07T00:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_threes_over_under,lamar stevens,True,1.5,370,2023-04-07T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_steals_over_under,lamar stevens,False,1.5,-150,2023-04-07T00:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_points_over_under,lamar stevens,False,12.5,-118,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_points_over_under,lamar stevens,False,10.5,-105,2023-04-07T00:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_points_over_under,lamar stevens,False,9.5,110,2023-04-07T00:30:02,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_points_over_under,lamar stevens,False,8.5,-125,2023-04-07T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_points_over_under,lamar stevens,True,13.5,-125,2023-04-06T23:30:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_points_over_under,lamar stevens,True,12.5,105,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_points_over_under,lamar stevens,True,10.5,-130,2023-04-07T00:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_points_over_under,lamar stevens,True,9.5,-150,2023-04-07T00:30:02,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_points_over_under,lamar stevens,True,8.5,-105,2023-04-07T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_points_over_under,lamar stevens,False,13.5,-118,2023-04-06T23:30:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_threes_over_under,lamar stevens,False,0.5,-145,2023-04-07T00:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_threes_over_under,lamar stevens,True,2.5,600,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_steals_over_under,lamar stevens,False,0.5,145,2023-04-06T23:15:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_steals_over_under,lamar stevens,True,1.5,115,2023-04-07T00:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_points_over_under,lamar stevens,False,13.5,-110,2023-04-06T23:30:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_rebounds_over_under,lamar stevens,True,4.5,148,2023-04-07T00:30:02,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_rebounds_over_under,lamar stevens,True,5.5,-166,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_rebounds_over_under,lamar stevens,True,6.5,-104,2023-04-06T23:30:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_rebounds_over_under,lamar stevens,False,4.5,-200,2023-04-07T00:30:02,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_rebounds_over_under,lamar stevens,False,5.5,124,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_rebounds_over_under,lamar stevens,False,6.5,-128,2023-04-06T23:30:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_rebounds_over_under,lamar stevens,True,4.5,-185,2023-04-07T00:30:02,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_rebounds_over_under,lamar stevens,True,5.5,-145,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_rebounds_over_under,lamar stevens,True,6.5,-115,2023-04-06T23:30:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_points_over_under,lamar stevens,False,12.5,-140,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_rebounds_over_under,lamar stevens,False,4.5,140,2023-04-07T00:30:02,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_rebounds_over_under,lamar stevens,False,5.5,110,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_rebounds_over_under,lamar stevens,False,6.5,-115,2023-04-06T23:30:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_steals_over_under,lamar stevens,True,1.5,114,2023-04-07T00:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_steals_over_under,lamar stevens,True,2.5,630,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_steals_over_under,lamar stevens,False,1.5,-152,2023-04-07T00:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_steals_over_under,lamar stevens,False,2.5,-1400,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_steals_over_under,lamar stevens,True,0.5,-200,2023-04-06T23:15:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_steals_over_under,lamar stevens,True,2.5,650,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_points_over_under,lamar stevens,False,10.5,-174,2023-04-07T00:30:02,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_threes_over_under,lamar stevens,False,2.5,-1200,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_points_over_under,lamar stevens,True,13.5,-112,2023-04-06T23:30:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_points_over_under,lamar stevens,False,8.5,-132,2023-04-07T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_threes_over_under,lamar stevens,False,1.5,-600,2023-04-07T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_assists_over_under,lamar stevens,True,0.5,630,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_blocks_over_under,lamar stevens,True,0.5,1000,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_blocks_over_under,lamar stevens,False,0.5,-4000,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_assists_over_under,lamar stevens,False,0.5,-1400,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_blocks_over_under,lamar stevens,False,0.5,-8000,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_points_over_under,lamar stevens,True,8.5,100,2023-04-07T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_points_over_under,lamar stevens,True,10.5,130,2023-04-07T00:30:02,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_points_over_under,lamar stevens,True,12.5,-112,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_blocks_over_under,lamar stevens,True,0.5,1100,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,caesars,player_points_over_under,lamar stevens,True,10.5,102,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,fanduel,player_rebounds_over_under,lamar stevens,True,4.5,-132,2023-04-09T16:45:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,betmgm,player_points_over_under,lamar stevens,False,10.5,-140,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,betmgm,player_points_over_under,lamar stevens,True,10.5,105,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,caesars,player_points_over_under,lamar stevens,False,10.5,-139,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_points_over_under,lamar stevens,False,10.5,-135,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_blocks_over_under,lamar stevens,False,0.5,-250,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,fanduel,player_points_over_under,lamar stevens,False,9.5,100,2023-04-09T17:00:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,fanduel,player_points_over_under,lamar stevens,True,9.5,-122,2023-04-09T17:00:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,betmgm,player_blocks_over_under,lamar stevens,False,0.5,-275,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,betmgm,player_blocks_over_under,lamar stevens,True,0.5,190,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,fanduel,player_rebounds_over_under,lamar stevens,True,5.5,110,2023-04-09T17:00:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_blocks_over_under,lamar stevens,True,0.5,200,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,betmgm,player_assists_over_under,lamar stevens,False,0.5,160,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_points_over_under,lamar stevens,True,10.5,105,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,fanduel,player_rebounds_over_under,lamar stevens,False,4.5,108,2023-04-09T16:45:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,betmgm,player_rebounds_over_under,lamar stevens,True,4.5,-160,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_rebounds_over_under,lamar stevens,True,4.5,-130,2023-04-09T17:00:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,betmgm,player_threes_over_under,lamar stevens,False,0.5,145,2023-04-09T16:45:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,betmgm,player_threes_over_under,lamar stevens,True,0.5,-190,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,caesars,player_threes_over_under,lamar stevens,False,0.5,136,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,caesars,player_threes_over_under,lamar stevens,True,0.5,-189,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_threes_over_under,lamar stevens,False,0.5,145,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_threes_over_under,lamar stevens,True,0.5,-180,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,fanduel,player_rebounds_over_under,lamar stevens,False,5.5,-134,2023-04-09T17:00:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,betmgm,player_steals_over_under,lamar stevens,False,0.5,110,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_steals_over_under,lamar stevens,False,0.5,115,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_steals_over_under,lamar stevens,True,0.5,-145,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,betmgm,player_rebounds_over_under,lamar stevens,False,4.5,120,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,caesars,player_rebounds_over_under,lamar stevens,False,4.5,116,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,caesars,player_rebounds_over_under,lamar stevens,True,4.5,-160,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_rebounds_over_under,lamar stevens,False,4.5,100,2023-04-09T17:00:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,betmgm,player_steals_over_under,lamar stevens,True,0.5,-150,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,betmgm,player_assists_over_under,lamar stevens,True,0.5,-225,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets

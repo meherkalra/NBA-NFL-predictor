@@ -1,0 +1,746 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_points_over_under,trey murphy iii,True,14.5,-240,2023-03-22T02:00:02,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_assists_over_under,trey murphy iii,True,0.5,1000,2023-03-22T02:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_assists_over_under,trey murphy iii,True,1.5,194,2023-03-22T00:45:02,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_assists_over_under,trey murphy iii,False,0.5,-100000,2023-03-22T02:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_assists_over_under,trey murphy iii,False,1.5,-270,2023-03-22T00:45:02,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_blocks_over_under,trey murphy iii,True,0.5,108,2023-03-22T00:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_blocks_over_under,trey murphy iii,True,1.5,1000,2023-03-22T01:45:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_blocks_over_under,trey murphy iii,False,0.5,-144,2023-03-22T00:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_blocks_over_under,trey murphy iii,False,1.5,-100000,2023-03-22T02:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_threes_over_under,trey murphy iii,False,3.5,-50000,2023-03-22T02:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_threes_over_under,trey murphy iii,False,2.5,-670,2023-03-22T02:00:02,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_threes_over_under,trey murphy iii,False,1.5,124,2023-03-22T00:45:02,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_threes_over_under,trey murphy iii,True,3.5,1000,2023-03-22T02:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_threes_over_under,trey murphy iii,True,2.5,400,2023-03-22T02:00:02,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_steals_over_under,trey murphy iii,False,0.5,-100000,2023-03-22T02:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_steals_over_under,trey murphy iii,True,0.5,1000,2023-03-22T02:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_rebounds_over_under,trey murphy iii,False,4.5,-154,2023-03-21T23:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_rebounds_over_under,trey murphy iii,False,3.5,-10000,2023-03-22T02:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_rebounds_over_under,trey murphy iii,False,2.5,182,2023-03-22T01:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_rebounds_over_under,trey murphy iii,True,4.5,126,2023-03-21T23:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_rebounds_over_under,trey murphy iii,True,3.5,1000,2023-03-22T02:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_rebounds_over_under,trey murphy iii,True,2.5,-250,2023-03-22T01:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_points_over_under,trey murphy iii,False,17.5,-1200,2023-03-22T02:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_points_over_under,trey murphy iii,False,15.5,-138,2023-03-22T01:45:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_points_over_under,trey murphy iii,False,14.5,174,2023-03-22T02:00:02,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_points_over_under,trey murphy iii,True,17.5,580,2023-03-22T02:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_threes_over_under,trey murphy iii,True,1.5,-166,2023-03-22T00:45:02,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_points_over_under,trey murphy iii,True,15.5,104,2023-03-22T01:45:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_threes_over_under,trey murphy iii,False,3.5,-420,2023-03-24T02:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_assists_over_under,trey murphy iii,True,2.5,182,2023-03-24T00:30:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,trey murphy iii,False,20.5,-168,2023-03-24T01:45:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_threes_over_under,trey murphy iii,True,2.5,128,2023-03-24T01:15:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_assists_over_under,trey murphy iii,False,1.5,-1100,2023-03-24T02:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_assists_over_under,trey murphy iii,False,2.5,-250,2023-03-24T00:30:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_blocks_over_under,trey murphy iii,True,0.5,1000,2023-03-24T02:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_blocks_over_under,trey murphy iii,False,0.5,-5000,2023-03-24T02:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,trey murphy iii,True,14.5,-102,2023-03-24T00:15:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,trey murphy iii,True,15.5,-112,2023-03-24T00:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,trey murphy iii,True,17.5,122,2023-03-24T02:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,trey murphy iii,True,18.5,-102,2023-03-24T00:45:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,trey murphy iii,True,20.5,126,2023-03-24T01:45:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,trey murphy iii,False,14.5,-130,2023-03-24T00:15:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,trey murphy iii,False,15.5,-108,2023-03-24T00:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,trey murphy iii,False,17.5,-162,2023-03-24T02:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,trey murphy iii,False,18.5,-130,2023-03-24T00:45:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_rebounds_over_under,trey murphy iii,True,2.5,198,2023-03-24T02:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_rebounds_over_under,trey murphy iii,True,3.5,-114,2023-03-24T00:45:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_rebounds_over_under,trey murphy iii,True,4.5,134,2023-03-24T00:30:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_rebounds_over_under,trey murphy iii,False,2.5,-275,2023-03-24T02:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_rebounds_over_under,trey murphy iii,False,3.5,-114,2023-03-24T00:45:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_rebounds_over_under,trey murphy iii,False,4.5,-180,2023-03-24T00:30:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_steals_over_under,trey murphy iii,True,0.5,-235,2023-03-24T00:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_steals_over_under,trey murphy iii,True,1.5,-125,2023-03-24T00:45:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_steals_over_under,trey murphy iii,True,2.5,250,2023-03-24T01:45:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_steals_over_under,trey murphy iii,True,3.5,750,2023-03-24T02:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_steals_over_under,trey murphy iii,False,0.5,180,2023-03-24T00:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_steals_over_under,trey murphy iii,False,1.5,-106,2023-03-24T00:45:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_steals_over_under,trey murphy iii,False,2.5,-360,2023-03-24T01:45:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_steals_over_under,trey murphy iii,False,3.5,-2000,2023-03-24T02:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_threes_over_under,trey murphy iii,True,3.5,280,2023-03-24T02:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_threes_over_under,trey murphy iii,False,2.5,-172,2023-03-24T01:15:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_assists_over_under,trey murphy iii,True,1.5,550,2023-03-24T02:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_points_over_under,trey murphy iii,True,26.5,-148,2023-03-26T03:15:02,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_rebounds_over_under,trey murphy iii,True,4.5,118,2023-03-26T02:45:01,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_rebounds_over_under,trey murphy iii,True,3.5,120,2023-03-26T03:15:02,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_rebounds_over_under,trey murphy iii,True,2.5,182,2023-03-26T04:30:01,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_rebounds_over_under,trey murphy iii,True,1.5,-215,2023-03-26T04:15:01,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_points_over_under,trey murphy iii,False,30.5,-130,2023-03-26T04:30:01,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_points_over_under,trey murphy iii,False,27.5,-138,2023-03-26T04:15:01,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_points_over_under,trey murphy iii,False,26.5,112,2023-03-26T03:15:02,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_points_over_under,trey murphy iii,False,25.5,106,2023-03-26T03:30:01,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_points_over_under,trey murphy iii,False,23.5,106,2023-03-26T03:00:01,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_rebounds_over_under,trey murphy iii,False,1.5,158,2023-03-26T04:15:01,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_points_over_under,trey murphy iii,False,14.5,-120,2023-03-26T02:15:02,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_points_over_under,trey murphy iii,True,30.5,-102,2023-03-26T04:30:01,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_points_over_under,trey murphy iii,True,28.5,-106,2023-03-26T04:00:01,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_points_over_under,trey murphy iii,True,27.5,104,2023-03-26T04:15:01,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_blocks_over_under,trey murphy iii,False,0.5,-470,2023-03-26T03:45:02,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_blocks_over_under,trey murphy iii,False,1.5,-5000,2023-03-26T04:30:01,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_points_over_under,trey murphy iii,True,13.5,100,2023-03-26T02:45:01,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_points_over_under,trey murphy iii,True,14.5,-102,2023-03-26T02:15:02,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_points_over_under,trey murphy iii,True,23.5,-140,2023-03-26T03:00:01,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_points_over_under,trey murphy iii,True,25.5,-140,2023-03-26T03:30:01,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_points_over_under,trey murphy iii,False,13.5,-132,2023-03-26T02:45:01,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_rebounds_over_under,trey murphy iii,False,2.5,-250,2023-03-26T04:30:01,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_points_over_under,trey murphy iii,False,28.5,-125,2023-03-26T04:00:01,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_rebounds_over_under,trey murphy iii,False,4.5,-158,2023-03-26T02:45:01,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_assists_over_under,trey murphy iii,True,0.5,-182,2023-03-26T03:15:02,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_assists_over_under,trey murphy iii,True,1.5,520,2023-03-26T04:30:01,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_assists_over_under,trey murphy iii,False,0.5,136,2023-03-26T03:15:02,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_assists_over_under,trey murphy iii,False,1.5,-1000,2023-03-26T04:30:01,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_rebounds_over_under,trey murphy iii,False,3.5,-160,2023-03-26T03:15:02,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_blocks_over_under,trey murphy iii,True,1.5,1000,2023-03-26T04:30:01,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_threes_over_under,trey murphy iii,False,9.5,-320,2023-03-26T04:30:01,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_threes_over_under,trey murphy iii,False,7.5,126,2023-03-26T04:15:01,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_threes_over_under,trey murphy iii,False,6.5,104,2023-03-26T03:30:01,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_threes_over_under,trey murphy iii,False,2.5,-125,2023-03-26T02:45:01,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_blocks_over_under,trey murphy iii,True,0.5,310,2023-03-26T03:45:02,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_threes_over_under,trey murphy iii,True,7.5,-168,2023-03-26T04:15:01,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_threes_over_under,trey murphy iii,True,9.5,225,2023-03-26T04:30:01,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_steals_over_under,trey murphy iii,True,0.5,100,2023-03-26T03:45:02,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_steals_over_under,trey murphy iii,True,1.5,225,2023-03-26T04:15:01,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_steals_over_under,trey murphy iii,False,0.5,-132,2023-03-26T03:45:02,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_steals_over_under,trey murphy iii,False,1.5,-320,2023-03-26T04:15:01,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_steals_over_under,trey murphy iii,True,2.5,580,2023-03-26T04:30:01,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_steals_over_under,trey murphy iii,False,2.5,-1200,2023-03-26T04:30:01,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_threes_over_under,trey murphy iii,True,2.5,-106,2023-03-26T02:45:01,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_threes_over_under,trey murphy iii,True,6.5,-138,2023-03-26T03:30:01,LA Clippers,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_points_over_under,trey murphy iii,False,18.5,118,2023-03-29T03:30:02,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_points_over_under,trey murphy iii,True,20.5,100,2023-03-29T03:00:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_points_over_under,trey murphy iii,False,15.5,-108,2023-03-29T02:00:02,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_points_over_under,trey murphy iii,True,22.5,172,2023-03-29T04:30:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_points_over_under,trey murphy iii,True,21.5,-102,2023-03-29T04:15:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_points_over_under,trey murphy iii,False,17.5,-144,2023-03-29T03:45:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_points_over_under,trey murphy iii,True,18.5,-158,2023-03-29T03:30:02,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_blocks_over_under,trey murphy iii,False,0.5,-260,2023-03-29T02:30:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_points_over_under,trey murphy iii,True,15.5,-112,2023-03-29T02:00:02,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_blocks_over_under,trey murphy iii,False,2.5,-7000,2023-03-29T04:30:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_blocks_over_under,trey murphy iii,False,1.5,-290,2023-03-29T02:45:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_blocks_over_under,trey murphy iii,True,2.5,1000,2023-03-29T04:30:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_points_over_under,trey murphy iii,False,21.5,-130,2023-03-29T04:15:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_blocks_over_under,trey murphy iii,True,1.5,205,2023-03-29T02:45:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_points_over_under,trey murphy iii,True,17.5,108,2023-03-29T03:45:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_points_over_under,trey murphy iii,False,22.5,-235,2023-03-29T04:30:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_points_over_under,trey murphy iii,False,20.5,-132,2023-03-29T03:00:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_rebounds_over_under,trey murphy iii,True,4.5,132,2023-03-29T03:45:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_blocks_over_under,trey murphy iii,True,0.5,188,2023-03-29T02:30:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_threes_over_under,trey murphy iii,False,4.5,-490,2023-03-29T04:30:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_threes_over_under,trey murphy iii,False,3.5,-114,2023-03-29T04:15:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_threes_over_under,trey murphy iii,False,2.5,122,2023-03-29T02:00:02,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_threes_over_under,trey murphy iii,True,4.5,320,2023-03-29T04:30:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_threes_over_under,trey murphy iii,True,3.5,-114,2023-03-29T04:15:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_threes_over_under,trey murphy iii,True,2.5,-156,2023-03-29T02:00:02,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_steals_over_under,trey murphy iii,False,2.5,-138,2023-03-29T03:15:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_steals_over_under,trey murphy iii,False,1.5,-2000,2023-03-29T04:30:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_steals_over_under,trey murphy iii,False,0.5,-106,2023-03-29T03:00:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_steals_over_under,trey murphy iii,True,2.5,104,2023-03-29T03:15:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_steals_over_under,trey murphy iii,True,1.5,750,2023-03-29T04:30:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_steals_over_under,trey murphy iii,True,0.5,-125,2023-03-29T03:00:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_rebounds_over_under,trey murphy iii,False,4.5,-178,2023-03-29T03:45:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_rebounds_over_under,trey murphy iii,False,3.5,-400,2023-03-29T04:30:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_rebounds_over_under,trey murphy iii,True,3.5,270,2023-03-29T04:30:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_assists_over_under,trey murphy iii,False,3.5,-1450,2023-03-29T04:30:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_steals_over_under,trey murphy iii,True,0.5,450,2023-03-28T03:30:02,Portland Trail Blazers,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_assists_over_under,trey murphy iii,False,1.5,118,2023-03-29T03:00:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_points_over_under,trey murphy iii,False,14.5,-138,2023-03-28T02:45:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-28,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_points_over_under,trey murphy iii,False,11.5,-144,2023-03-28T03:00:02,Portland Trail Blazers,New Orleans Pelicans
+2023-03-28,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_points_over_under,trey murphy iii,False,10.5,-152,2023-03-28T03:45:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-28,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_points_over_under,trey murphy iii,False,9.5,-102,2023-03-28T03:15:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-28,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_points_over_under,trey murphy iii,False,8.5,148,2023-03-28T03:30:02,Portland Trail Blazers,New Orleans Pelicans
+2023-03-28,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_points_over_under,trey murphy iii,True,16.5,390,2023-03-28T04:00:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-28,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_points_over_under,trey murphy iii,True,14.5,104,2023-03-28T02:45:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-28,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_points_over_under,trey murphy iii,True,11.5,108,2023-03-28T03:00:02,Portland Trail Blazers,New Orleans Pelicans
+2023-03-28,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_points_over_under,trey murphy iii,False,15.5,-146,2023-03-28T02:30:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-28,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_points_over_under,trey murphy iii,True,10.5,114,2023-03-28T03:45:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-28,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_points_over_under,trey murphy iii,True,8.5,-200,2023-03-28T03:30:02,Portland Trail Blazers,New Orleans Pelicans
+2023-03-28,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_blocks_over_under,trey murphy iii,False,0.5,-100000,2023-03-28T04:00:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-28,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_blocks_over_under,trey murphy iii,True,0.5,1000,2023-03-28T03:45:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-28,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_assists_over_under,trey murphy iii,False,1.5,-50000,2023-03-28T04:00:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-28,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_assists_over_under,trey murphy iii,False,0.5,-670,2023-03-28T03:30:02,Portland Trail Blazers,New Orleans Pelicans
+2023-03-28,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_assists_over_under,trey murphy iii,True,1.5,1000,2023-03-28T04:00:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-28,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_assists_over_under,trey murphy iii,True,0.5,400,2023-03-28T03:30:02,Portland Trail Blazers,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_assists_over_under,trey murphy iii,False,2.5,-230,2023-03-29T04:00:02,Golden State Warriors,New Orleans Pelicans
+2023-03-28,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_points_over_under,trey murphy iii,True,9.5,-130,2023-03-28T03:15:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-28,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_points_over_under,trey murphy iii,False,16.5,-650,2023-03-28T04:00:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-28,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_points_over_under,trey murphy iii,True,15.5,110,2023-03-28T02:30:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-28,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_rebounds_over_under,trey murphy iii,True,2.5,1000,2023-03-28T04:00:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_assists_over_under,trey murphy iii,True,3.5,640,2023-03-29T04:30:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_rebounds_over_under,trey murphy iii,True,1.5,-250,2023-03-28T03:15:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_assists_over_under,trey murphy iii,True,1.5,-158,2023-03-29T03:00:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_threes_over_under,trey murphy iii,False,3.5,-140,2023-03-28T02:30:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-28,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_threes_over_under,trey murphy iii,False,2.5,-205,2023-03-28T03:00:02,Portland Trail Blazers,New Orleans Pelicans
+2023-03-28,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_threes_over_under,trey murphy iii,False,1.5,-7000,2023-03-28T04:00:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-28,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_threes_over_under,trey murphy iii,True,3.5,106,2023-03-28T02:30:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-28,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_threes_over_under,trey murphy iii,True,2.5,152,2023-03-28T03:00:02,Portland Trail Blazers,New Orleans Pelicans
+2023-03-28,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_threes_over_under,trey murphy iii,True,1.5,1000,2023-03-28T04:00:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_assists_over_under,trey murphy iii,True,2.5,168,2023-03-29T04:00:02,Golden State Warriors,New Orleans Pelicans
+2023-03-28,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_steals_over_under,trey murphy iii,False,0.5,-800,2023-03-28T03:30:02,Portland Trail Blazers,New Orleans Pelicans
+2023-03-28,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_steals_over_under,trey murphy iii,True,1.5,1000,2023-03-28T04:00:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-28,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_rebounds_over_under,trey murphy iii,True,3.5,-136,2023-03-28T02:30:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-28,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_rebounds_over_under,trey murphy iii,False,3.5,102,2023-03-28T02:30:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-28,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_rebounds_over_under,trey murphy iii,False,2.5,-5000,2023-03-28T04:00:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-28,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_rebounds_over_under,trey murphy iii,False,1.5,182,2023-03-28T03:15:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-28,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_steals_over_under,trey murphy iii,False,1.5,-50000,2023-03-28T04:00:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_points_over_under,trey murphy iii,False,18.5,-154,2023-03-31T03:30:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_points_over_under,trey murphy iii,False,17.5,-140,2023-03-31T03:00:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_points_over_under,trey murphy iii,False,15.5,134,2023-03-31T04:15:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_points_over_under,trey murphy iii,False,14.5,-148,2023-03-31T04:00:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_points_over_under,trey murphy iii,False,13.5,154,2023-03-31T04:30:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_points_over_under,trey murphy iii,True,18.5,116,2023-03-31T03:30:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_points_over_under,trey murphy iii,True,17.5,106,2023-03-31T03:00:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_points_over_under,trey murphy iii,True,15.5,-180,2023-03-31T04:15:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_blocks_over_under,trey murphy iii,False,0.5,-10000,2023-03-31T04:30:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_points_over_under,trey murphy iii,True,13.5,-210,2023-03-31T04:30:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_blocks_over_under,trey murphy iii,True,0.5,1000,2023-03-31T04:30:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_assists_over_under,trey murphy iii,False,3.5,-2200,2023-03-31T04:30:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_assists_over_under,trey murphy iii,False,1.5,-245,2023-03-31T04:00:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_assists_over_under,trey murphy iii,False,0.5,100,2023-03-31T03:30:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_assists_over_under,trey murphy iii,True,3.5,800,2023-03-31T04:30:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_assists_over_under,trey murphy iii,True,1.5,178,2023-03-31T04:00:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_assists_over_under,trey murphy iii,True,0.5,-132,2023-03-31T03:30:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_rebounds_over_under,trey murphy iii,True,1.5,-198,2023-03-31T04:00:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_points_over_under,trey murphy iii,True,14.5,112,2023-03-31T04:00:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_rebounds_over_under,trey murphy iii,True,2.5,350,2023-03-31T04:30:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_rebounds_over_under,trey murphy iii,False,3.5,-148,2023-03-31T02:00:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_rebounds_over_under,trey murphy iii,False,1.5,146,2023-03-31T04:00:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_rebounds_over_under,trey murphy iii,True,3.5,120,2023-03-31T02:00:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_threes_over_under,trey murphy iii,False,3.5,-700,2023-03-31T04:30:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_threes_over_under,trey murphy iii,True,3.5,410,2023-03-31T04:30:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_threes_over_under,trey murphy iii,True,2.5,-146,2023-03-31T04:00:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_steals_over_under,trey murphy iii,False,2.5,-3000,2023-03-31T04:30:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_threes_over_under,trey murphy iii,False,2.5,110,2023-03-31T04:00:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_steals_over_under,trey murphy iii,False,0.5,-300,2023-03-31T04:00:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_steals_over_under,trey murphy iii,True,2.5,880,2023-03-31T04:30:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_steals_over_under,trey murphy iii,True,1.5,320,2023-03-31T04:15:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_steals_over_under,trey murphy iii,True,0.5,210,2023-03-31T04:00:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_rebounds_over_under,trey murphy iii,False,2.5,-550,2023-03-31T04:30:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_steals_over_under,trey murphy iii,False,1.5,-490,2023-03-31T04:15:02,Denver Nuggets,New Orleans Pelicans
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_rebounds_over_under,trey murphy iii,False,4.5,-260,2023-04-02T02:10:01,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_rebounds_over_under,trey murphy iii,True,2.5,-110,2023-04-02T01:54:02,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_rebounds_over_under,trey murphy iii,True,3.5,370,2023-04-02T02:46:02,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_rebounds_over_under,trey murphy iii,True,4.5,188,2023-04-02T02:10:01,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_threes_over_under,trey murphy iii,False,3.5,-240,2023-04-02T02:08:01,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_rebounds_over_under,trey murphy iii,False,2.5,-120,2023-04-02T01:54:02,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_rebounds_over_under,trey murphy iii,False,3.5,-600,2023-04-02T02:46:02,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_steals_over_under,trey murphy iii,True,0.5,-188,2023-04-02T01:08:01,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_threes_over_under,trey murphy iii,True,2.5,400,2023-04-02T02:46:02,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_steals_over_under,trey murphy iii,True,2.5,920,2023-04-02T02:46:02,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_steals_over_under,trey murphy iii,False,0.5,140,2023-04-02T01:08:01,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_steals_over_under,trey murphy iii,False,1.5,-350,2023-04-02T02:28:01,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_steals_over_under,trey murphy iii,False,2.5,-3500,2023-04-02T02:46:02,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_points_over_under,trey murphy iii,False,20.5,-144,2023-04-02T00:48:01,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_threes_over_under,trey murphy iii,True,3.5,174,2023-04-02T02:08:01,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_threes_over_under,trey murphy iii,True,4.5,134,2023-04-02T01:16:01,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_threes_over_under,trey murphy iii,False,2.5,-670,2023-04-02T02:46:02,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_steals_over_under,trey murphy iii,True,1.5,240,2023-04-02T02:28:01,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_points_over_under,trey murphy iii,False,19.5,-136,2023-04-02T01:02:01,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_points_over_under,trey murphy iii,True,19.5,102,2023-04-02T01:02:01,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_points_over_under,trey murphy iii,False,17.5,-132,2023-04-02T01:30:02,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_assists_over_under,trey murphy iii,False,0.5,-2200,2023-04-02T02:46:02,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_assists_over_under,trey murphy iii,False,1.5,-250,2023-04-02T01:08:01,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_blocks_over_under,trey murphy iii,True,0.5,240,2023-04-02T01:34:01,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_blocks_over_under,trey murphy iii,True,1.5,520,2023-04-02T02:24:01,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_blocks_over_under,trey murphy iii,True,2.5,1000,2023-04-02T02:44:01,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_blocks_over_under,trey murphy iii,False,0.5,-350,2023-04-02T01:34:01,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_assists_over_under,trey murphy iii,True,0.5,800,2023-04-02T02:46:02,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_blocks_over_under,trey murphy iii,False,1.5,-1000,2023-04-02T02:24:01,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_points_over_under,trey murphy iii,False,18.5,-132,2023-04-02T01:08:01,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_blocks_over_under,trey murphy iii,False,2.5,-10000,2023-04-02T02:46:02,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_points_over_under,trey murphy iii,True,15.5,126,2023-04-02T02:44:01,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_points_over_under,trey murphy iii,True,16.5,-198,2023-04-02T02:46:02,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_points_over_under,trey murphy iii,True,17.5,100,2023-04-02T01:30:02,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_points_over_under,trey murphy iii,True,18.5,100,2023-04-02T01:08:01,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_points_over_under,trey murphy iii,True,20.5,108,2023-04-02T00:48:01,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_points_over_under,trey murphy iii,False,14.5,-125,2023-04-02T02:24:01,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_points_over_under,trey murphy iii,False,15.5,-168,2023-04-02T02:44:01,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_points_over_under,trey murphy iii,False,16.5,146,2023-04-02T02:46:02,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_points_over_under,trey murphy iii,True,14.5,-106,2023-04-02T02:24:01,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_assists_over_under,trey murphy iii,True,1.5,182,2023-04-02T01:08:01,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_threes_over_under,trey murphy iii,False,4.5,-180,2023-04-02T01:16:01,New Orleans Pelicans,LA Clippers
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_threes_over_under,trey murphy iii,True,2.5,-115,2023-04-06T02:00:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_steals_over_under,trey murphy iii,False,1.5,-245,2023-04-06T01:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_steals_over_under,trey murphy iii,False,0.5,154,2023-04-06T00:30:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_steals_over_under,trey murphy iii,True,2.5,640,2023-04-06T02:15:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_steals_over_under,trey murphy iii,True,1.5,178,2023-04-06T01:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_steals_over_under,trey murphy iii,True,0.5,-210,2023-04-06T00:30:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_rebounds_over_under,trey murphy iii,False,3.5,-170,2023-04-06T00:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_rebounds_over_under,trey murphy iii,False,2.5,-245,2023-04-06T01:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_rebounds_over_under,trey murphy iii,False,1.5,-330,2023-04-06T02:15:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_rebounds_over_under,trey murphy iii,True,3.5,125,2023-04-06T00:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_rebounds_over_under,trey murphy iii,True,2.5,180,2023-04-06T01:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_rebounds_over_under,trey murphy iii,True,1.5,230,2023-04-06T02:15:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_rebounds_over_under,trey murphy iii,False,3.5,-178,2023-04-06T00:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_rebounds_over_under,trey murphy iii,False,2.5,-172,2023-04-06T01:30:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_rebounds_over_under,trey murphy iii,False,1.5,-330,2023-04-06T02:15:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_rebounds_over_under,trey murphy iii,True,3.5,132,2023-04-06T00:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_rebounds_over_under,trey murphy iii,True,2.5,128,2023-04-06T01:30:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_rebounds_over_under,trey murphy iii,True,1.5,230,2023-04-06T02:15:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_steals_over_under,trey murphy iii,False,2.5,-1450,2023-04-06T02:15:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_points_over_under,trey murphy iii,False,22.5,-115,2023-04-06T02:15:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_steals_over_under,trey murphy iii,True,0.5,-205,2023-04-06T00:30:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_steals_over_under,trey murphy iii,True,2.5,650,2023-04-06T02:15:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_threes_over_under,trey murphy iii,True,2.5,-114,2023-04-05T01:15:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_threes_over_under,trey murphy iii,True,3.5,164,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_threes_over_under,trey murphy iii,True,4.5,178,2023-04-05T01:30:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_threes_over_under,trey murphy iii,False,2.5,-114,2023-04-05T01:15:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_threes_over_under,trey murphy iii,False,3.5,-225,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_threes_over_under,trey murphy iii,False,4.5,-245,2023-04-05T01:30:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_threes_over_under,trey murphy iii,True,2.5,-120,2023-04-05T01:15:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_threes_over_under,trey murphy iii,True,3.5,175,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_threes_over_under,trey murphy iii,True,3.5,120,2023-04-04T19:51:15,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_threes_over_under,trey murphy iii,False,2.5,-110,2023-04-05T01:15:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_threes_over_under,trey murphy iii,False,3.5,-245,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_threes_over_under,trey murphy iii,False,3.5,-150,2023-04-04T19:51:15,New Orleans Pelicans,Sacramento Kings
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_threes_over_under,trey murphy iii,True,2.5,154,2023-04-06T01:30:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_threes_over_under,trey murphy iii,True,1.5,-225,2023-04-06T01:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_steals_over_under,trey murphy iii,False,2.5,-1400,2023-04-06T02:15:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_steals_over_under,trey murphy iii,False,1.5,-235,2023-04-06T01:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_steals_over_under,trey murphy iii,False,0.5,150,2023-04-06T00:30:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_steals_over_under,trey murphy iii,True,1.5,170,2023-04-06T01:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_steals_over_under,trey murphy iii,False,1.5,-185,2023-04-04T19:51:15,New Orleans Pelicans,Sacramento Kings
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_points_over_under,trey murphy iii,False,21.5,-105,2023-04-06T00:30:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_points_over_under,trey murphy iii,False,18.5,105,2023-04-06T02:00:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_points_over_under,trey murphy iii,True,17.5,-102,2023-04-06T01:00:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_points_over_under,trey murphy iii,True,16.5,-120,2023-04-06T01:15:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_points_over_under,trey murphy iii,True,14.5,-114,2023-04-06T01:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_blocks_over_under,trey murphy iii,False,0.5,-8000,2023-04-06T02:15:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_blocks_over_under,trey murphy iii,True,0.5,1100,2023-04-06T02:15:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_blocks_over_under,trey murphy iii,False,0.5,-5000,2023-04-06T02:15:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_blocks_over_under,trey murphy iii,True,0.5,1000,2023-04-06T02:15:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_assists_over_under,trey murphy iii,False,3.5,-900,2023-04-06T02:15:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_assists_over_under,trey murphy iii,False,2.5,-290,2023-04-06T02:00:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_assists_over_under,trey murphy iii,False,1.5,-125,2023-04-06T01:30:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_assists_over_under,trey murphy iii,True,3.5,475,2023-04-06T02:15:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_assists_over_under,trey murphy iii,True,2.5,205,2023-04-06T02:00:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_assists_over_under,trey murphy iii,True,1.5,-105,2023-04-06T01:30:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_assists_over_under,trey murphy iii,False,3.5,-1000,2023-04-06T02:15:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_assists_over_under,trey murphy iii,False,2.5,-290,2023-04-06T02:00:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_assists_over_under,trey murphy iii,False,1.5,-130,2023-04-06T01:30:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_assists_over_under,trey murphy iii,True,3.5,520,2023-04-06T02:15:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_points_over_under,trey murphy iii,True,18.5,-138,2023-04-06T02:00:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_points_over_under,trey murphy iii,False,19.5,-125,2023-04-06T00:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_points_over_under,trey murphy iii,True,19.5,-102,2023-04-06T00:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_points_over_under,trey murphy iii,True,22.5,-114,2023-04-06T02:15:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_points_over_under,trey murphy iii,False,17.5,-125,2023-04-06T01:00:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_points_over_under,trey murphy iii,False,16.5,-115,2023-04-06T01:15:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_points_over_under,trey murphy iii,False,14.5,-105,2023-04-06T01:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_points_over_under,trey murphy iii,True,22.5,-115,2023-04-06T02:15:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_points_over_under,trey murphy iii,True,21.5,-125,2023-04-06T00:30:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_points_over_under,trey murphy iii,True,19.5,-105,2023-04-06T00:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_points_over_under,trey murphy iii,True,18.5,-135,2023-04-06T02:00:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_points_over_under,trey murphy iii,True,17.5,-105,2023-04-06T01:00:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_points_over_under,trey murphy iii,True,16.5,-115,2023-04-06T01:15:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_points_over_under,trey murphy iii,True,14.5,-125,2023-04-06T01:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_points_over_under,trey murphy iii,False,22.5,-114,2023-04-06T02:15:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_points_over_under,trey murphy iii,False,21.5,-102,2023-04-06T00:30:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_points_over_under,trey murphy iii,False,19.5,-130,2023-04-06T00:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_points_over_under,trey murphy iii,False,18.5,104,2023-04-06T02:00:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_points_over_under,trey murphy iii,False,17.5,-130,2023-04-06T01:00:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_points_over_under,trey murphy iii,False,16.5,-110,2023-04-06T01:15:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_points_over_under,trey murphy iii,False,14.5,-114,2023-04-06T01:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_points_over_under,trey murphy iii,True,21.5,-130,2023-04-06T00:30:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_assists_over_under,trey murphy iii,True,1.5,-102,2023-04-06T01:30:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_steals_over_under,trey murphy iii,False,1.5,-800,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_steals_over_under,trey murphy iii,True,1.5,150,2023-04-04T19:51:15,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_points_over_under,trey murphy iii,False,13.5,-125,2023-04-05T01:00:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_points_over_under,trey murphy iii,True,19.5,140,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_points_over_under,trey murphy iii,True,18.5,-160,2023-04-05T01:30:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_points_over_under,trey murphy iii,True,17.5,-136,2023-04-05T01:45:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_steals_over_under,trey murphy iii,False,0.5,-120,2023-04-05T01:15:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_points_over_under,trey murphy iii,True,15.5,-114,2023-04-05T00:48:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_points_over_under,trey murphy iii,True,14.5,-114,2023-04-05T01:15:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_points_over_under,trey murphy iii,True,13.5,-106,2023-04-05T01:00:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_blocks_over_under,trey murphy iii,False,0.5,-140,2023-04-04T19:51:15,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_blocks_over_under,trey murphy iii,False,0.5,-3000,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_blocks_over_under,trey murphy iii,True,0.5,110,2023-04-04T19:51:15,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_blocks_over_under,trey murphy iii,True,0.5,900,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_blocks_over_under,trey murphy iii,False,0.5,-3000,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_blocks_over_under,trey murphy iii,True,0.5,880,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_assists_over_under,trey murphy iii,False,1.5,-700,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_assists_over_under,trey murphy iii,True,1.5,400,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_assists_over_under,trey murphy iii,False,1.5,-650,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_threes_over_under,trey murphy iii,False,5.5,-340,2023-04-06T02:15:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_threes_over_under,trey murphy iii,False,3.5,-135,2023-04-06T00:30:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_threes_over_under,trey murphy iii,False,2.5,-115,2023-04-06T02:00:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_threes_over_under,trey murphy iii,False,1.5,160,2023-04-06T01:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_threes_over_under,trey murphy iii,True,5.5,235,2023-04-06T02:15:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_threes_over_under,trey murphy iii,True,3.5,100,2023-04-06T00:30:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_points_over_under,trey murphy iii,False,14.5,-114,2023-04-05T01:15:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_threes_over_under,trey murphy iii,True,1.5,-215,2023-04-06T01:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_threes_over_under,trey murphy iii,False,3.5,-112,2023-04-06T02:00:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_threes_over_under,trey murphy iii,False,2.5,-210,2023-04-06T01:30:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_threes_over_under,trey murphy iii,False,1.5,164,2023-04-06T01:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_threes_over_under,trey murphy iii,True,5.5,240,2023-04-06T02:15:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_threes_over_under,trey murphy iii,True,3.5,-118,2023-04-06T02:00:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_assists_over_under,trey murphy iii,True,1.5,390,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_threes_over_under,trey murphy iii,False,5.5,-350,2023-04-06T02:15:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_points_over_under,trey murphy iii,False,15.5,-114,2023-04-05T00:48:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_points_over_under,trey murphy iii,True,16.5,-132,2023-04-05T00:42:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_points_over_under,trey murphy iii,False,17.5,102,2023-04-05T01:45:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_rebounds_over_under,trey murphy iii,True,1.5,-190,2023-04-05T01:45:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_rebounds_over_under,trey murphy iii,True,2.5,170,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_rebounds_over_under,trey murphy iii,True,3.5,-120,2023-04-05T00:30:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_rebounds_over_under,trey murphy iii,True,3.5,105,2023-04-04T19:51:15,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_points_over_under,trey murphy iii,False,16.5,100,2023-04-05T00:42:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_rebounds_over_under,trey murphy iii,False,2.5,-235,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_rebounds_over_under,trey murphy iii,False,4.5,-166,2023-04-05T00:12:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_rebounds_over_under,trey murphy iii,False,3.5,-110,2023-04-05T00:30:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_steals_over_under,trey murphy iii,True,0.5,-106,2023-04-05T01:15:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_steals_over_under,trey murphy iii,True,1.5,450,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_steals_over_under,trey murphy iii,False,0.5,-125,2023-04-05T01:15:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_steals_over_under,trey murphy iii,False,1.5,-800,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_steals_over_under,trey murphy iii,True,0.5,-110,2023-04-05T01:15:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_steals_over_under,trey murphy iii,True,1.5,450,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_rebounds_over_under,trey murphy iii,False,3.5,-135,2023-04-04T19:51:15,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_rebounds_over_under,trey murphy iii,False,3.5,-172,2023-04-05T00:48:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_rebounds_over_under,trey murphy iii,False,1.5,145,2023-04-05T01:45:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_rebounds_over_under,trey murphy iii,False,1.5,148,2023-04-05T01:45:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_points_over_under,trey murphy iii,False,18.5,120,2023-04-05T01:30:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_rebounds_over_under,trey murphy iii,False,2.5,-215,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_points_over_under,trey murphy iii,True,14.5,-115,2023-04-05T01:15:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_points_over_under,trey murphy iii,True,17.5,-135,2023-04-05T01:45:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_points_over_under,trey murphy iii,True,18.5,-180,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_points_over_under,trey murphy iii,True,17.5,-110,2023-04-04T19:51:15,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_points_over_under,trey murphy iii,False,14.5,-115,2023-04-05T01:15:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_points_over_under,trey murphy iii,False,19.5,-188,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_assists_over_under,trey murphy iii,True,2.5,205,2023-04-06T02:00:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_points_over_under,trey murphy iii,False,18.5,135,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_points_over_under,trey murphy iii,False,17.5,-120,2023-04-04T19:51:15,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_rebounds_over_under,trey murphy iii,True,1.5,-200,2023-04-05T01:45:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_rebounds_over_under,trey murphy iii,True,2.5,158,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_rebounds_over_under,trey murphy iii,True,3.5,126,2023-04-05T00:48:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_rebounds_over_under,trey murphy iii,True,4.5,124,2023-04-05T00:12:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_points_over_under,trey murphy iii,False,17.5,100,2023-04-05T01:45:02,New Orleans Pelicans,Sacramento Kings
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_assists_over_under,trey murphy iii,True,0.5,-210,2023-04-08T01:15:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_assists_over_under,trey murphy iii,True,1.5,188,2023-04-08T02:00:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_assists_over_under,trey murphy iii,False,0.5,154,2023-04-08T01:15:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_assists_over_under,trey murphy iii,False,1.5,-260,2023-04-08T02:00:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_assists_over_under,trey murphy iii,True,0.5,-200,2023-04-08T01:15:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,caesars,player_rebounds_over_under,trey murphy iii,True,3.5,104,2023-04-07T21:45:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_assists_over_under,trey murphy iii,False,0.5,145,2023-04-08T01:15:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_assists_over_under,trey murphy iii,False,1.5,-250,2023-04-08T02:00:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,caesars,player_assists_over_under,trey murphy iii,False,1.5,112,2023-04-07T21:45:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,betmgm,player_assists_over_under,trey murphy iii,True,1.5,-145,2023-04-07T19:43:23,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,betmgm,player_assists_over_under,trey murphy iii,False,1.5,105,2023-04-07T23:30:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_assists_over_under,trey murphy iii,True,1.5,180,2023-04-08T02:00:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,caesars,player_assists_over_under,trey murphy iii,True,1.5,-154,2023-04-07T21:45:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,caesars,player_rebounds_over_under,trey murphy iii,False,3.5,-142,2023-04-07T21:45:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_blocks_over_under,trey murphy iii,True,1.5,580,2023-04-08T02:00:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,betmgm,player_threes_over_under,trey murphy iii,True,3.5,120,2023-04-07T23:30:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,betmgm,player_threes_over_under,trey murphy iii,False,3.5,-160,2023-04-07T23:30:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_rebounds_over_under,trey murphy iii,False,3.5,-110,2023-04-08T02:00:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_rebounds_over_under,trey murphy iii,False,2.5,-170,2023-04-08T01:30:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_rebounds_over_under,trey murphy iii,False,1.5,165,2023-04-08T01:45:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_rebounds_over_under,trey murphy iii,True,3.5,-120,2023-04-08T02:00:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_rebounds_over_under,trey murphy iii,True,2.5,130,2023-04-08T01:30:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_rebounds_over_under,trey murphy iii,True,1.5,-225,2023-04-08T01:45:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_rebounds_over_under,trey murphy iii,False,3.5,-112,2023-04-08T02:00:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,caesars,player_threes_over_under,trey murphy iii,False,3.5,-169,2023-04-07T20:12:09,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_rebounds_over_under,trey murphy iii,False,2.5,-172,2023-04-08T01:30:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_rebounds_over_under,trey murphy iii,True,3.5,-118,2023-04-08T02:00:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_rebounds_over_under,trey murphy iii,True,2.5,128,2023-04-08T01:30:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_rebounds_over_under,trey murphy iii,True,1.5,-245,2023-04-08T01:45:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,betmgm,player_points_over_under,trey murphy iii,False,16.5,-110,2023-04-07T19:43:23,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,betmgm,player_points_over_under,trey murphy iii,True,16.5,-120,2023-04-07T19:43:23,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,caesars,player_points_over_under,trey murphy iii,False,16.5,-104,2023-04-07T21:45:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,caesars,player_points_over_under,trey murphy iii,True,16.5,-131,2023-04-07T21:45:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_points_over_under,trey murphy iii,False,34.5,-115,2023-04-08T02:00:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_points_over_under,trey murphy iii,False,33.5,-150,2023-04-08T01:30:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_rebounds_over_under,trey murphy iii,False,1.5,178,2023-04-08T01:45:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_points_over_under,trey murphy iii,False,31.5,-120,2023-04-08T01:45:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,caesars,player_threes_over_under,trey murphy iii,True,3.5,123,2023-04-07T20:12:09,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_threes_over_under,trey murphy iii,False,3.5,-115,2023-04-08T02:00:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_blocks_over_under,trey murphy iii,True,0.5,158,2023-04-08T00:45:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,betmgm,player_rebounds_over_under,trey murphy iii,True,3.5,115,2023-04-07T19:43:23,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,betmgm,player_rebounds_over_under,trey murphy iii,False,3.5,-150,2023-04-07T19:43:23,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_steals_over_under,trey murphy iii,True,1.5,280,2023-04-08T02:00:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_steals_over_under,trey murphy iii,False,1.5,-420,2023-04-08T02:00:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_steals_over_under,trey murphy iii,True,1.5,275,2023-04-08T02:00:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_steals_over_under,trey murphy iii,False,1.5,-400,2023-04-08T02:00:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,caesars,player_steals_over_under,trey murphy iii,True,1.5,146,2023-04-07T20:12:09,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,caesars,player_steals_over_under,trey murphy iii,False,1.5,-204,2023-04-07T20:12:09,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_threes_over_under,trey murphy iii,False,4.5,-180,2023-04-08T01:30:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,betmgm,player_steals_over_under,trey murphy iii,True,1.5,145,2023-04-07T19:43:23,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_threes_over_under,trey murphy iii,True,2.5,-130,2023-04-08T01:15:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_threes_over_under,trey murphy iii,True,3.5,-114,2023-04-08T02:00:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_threes_over_under,trey murphy iii,False,2.5,-102,2023-04-08T01:15:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_threes_over_under,trey murphy iii,False,3.5,-114,2023-04-08T02:00:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_threes_over_under,trey murphy iii,False,4.5,-180,2023-04-08T01:30:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_threes_over_under,trey murphy iii,True,2.5,-130,2023-04-08T01:15:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_threes_over_under,trey murphy iii,True,3.5,-115,2023-04-08T02:00:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_threes_over_under,trey murphy iii,True,4.5,135,2023-04-08T01:30:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_threes_over_under,trey murphy iii,False,2.5,-105,2023-04-08T01:15:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,betmgm,player_steals_over_under,trey murphy iii,False,1.5,-200,2023-04-07T19:43:23,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_points_over_under,trey murphy iii,False,29.5,-130,2023-04-08T01:15:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_threes_over_under,trey murphy iii,True,4.5,134,2023-04-08T01:30:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_points_over_under,trey murphy iii,False,23.5,-130,2023-04-08T00:45:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_points_over_under,trey murphy iii,True,29.5,102,2023-04-08T01:15:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_points_over_under,trey murphy iii,True,28.5,108,2023-04-08T01:00:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_points_over_under,trey murphy iii,True,23.5,-102,2023-04-08T00:45:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_points_over_under,trey murphy iii,True,20.5,-108,2023-04-08T00:30:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_points_over_under,trey murphy iii,True,17.5,-118,2023-04-08T00:15:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_points_over_under,trey murphy iii,True,16.5,-122,2023-04-07T21:30:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,betmgm,player_blocks_over_under,trey murphy iii,False,0.5,-140,2023-04-07T23:30:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,betmgm,player_blocks_over_under,trey murphy iii,True,0.5,105,2023-04-07T23:30:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,caesars,player_blocks_over_under,trey murphy iii,False,0.5,-145,2023-04-07T20:12:09,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_points_over_under,trey murphy iii,True,31.5,-114,2023-04-08T01:45:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,caesars,player_blocks_over_under,trey murphy iii,True,0.5,106,2023-04-07T20:12:09,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_blocks_over_under,trey murphy iii,False,1.5,-1100,2023-04-08T02:00:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_blocks_over_under,trey murphy iii,True,2.5,390,2023-04-08T01:45:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_blocks_over_under,trey murphy iii,True,1.5,550,2023-04-08T02:00:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_blocks_over_under,trey murphy iii,True,0.5,150,2023-04-08T00:45:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_blocks_over_under,trey murphy iii,False,2.5,-670,2023-04-08T01:45:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_blocks_over_under,trey murphy iii,False,1.5,-1200,2023-04-08T02:00:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_blocks_over_under,trey murphy iii,False,0.5,-215,2023-04-08T00:45:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_blocks_over_under,trey murphy iii,True,2.5,400,2023-04-08T01:45:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_points_over_under,trey murphy iii,False,28.5,-145,2023-04-08T01:00:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_blocks_over_under,trey murphy iii,False,2.5,-650,2023-04-08T01:45:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_points_over_under,trey murphy iii,True,33.5,104,2023-04-08T01:30:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_blocks_over_under,trey murphy iii,False,0.5,-200,2023-04-08T00:45:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_points_over_under,trey murphy iii,False,16.5,100,2023-04-07T21:30:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_points_over_under,trey murphy iii,False,20.5,-120,2023-04-08T00:30:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_points_over_under,trey murphy iii,True,34.5,-114,2023-04-08T02:00:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_points_over_under,trey murphy iii,False,17.5,-125,2023-04-08T00:15:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_points_over_under,trey murphy iii,False,16.5,-110,2023-04-07T03:15:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_points_over_under,trey murphy iii,True,34.5,-115,2023-04-08T02:00:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_points_over_under,trey murphy iii,True,31.5,-110,2023-04-08T01:45:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_points_over_under,trey murphy iii,True,29.5,100,2023-04-08T01:15:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_points_over_under,trey murphy iii,True,28.5,110,2023-04-08T01:00:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_points_over_under,trey murphy iii,True,23.5,-105,2023-04-08T00:45:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_points_over_under,trey murphy iii,True,20.5,-110,2023-04-08T00:30:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_points_over_under,trey murphy iii,True,33.5,110,2023-04-08T01:30:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_points_over_under,trey murphy iii,True,16.5,-120,2023-04-07T03:15:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_points_over_under,trey murphy iii,False,34.5,-114,2023-04-08T02:00:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_points_over_under,trey murphy iii,False,33.5,-138,2023-04-08T01:30:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_points_over_under,trey murphy iii,False,31.5,-114,2023-04-08T01:45:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_points_over_under,trey murphy iii,False,17.5,-112,2023-04-08T00:15:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_points_over_under,trey murphy iii,False,29.5,-136,2023-04-08T01:15:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_points_over_under,trey murphy iii,False,28.5,-144,2023-04-08T01:00:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_points_over_under,trey murphy iii,False,23.5,-130,2023-04-08T00:45:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_points_over_under,trey murphy iii,True,17.5,-105,2023-04-08T00:15:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_points_over_under,trey murphy iii,False,20.5,-122,2023-04-08T00:30:01,New Orleans Pelicans,New York Knicks
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,barstool,player_points_over_under,trey murphy iii,True,17.5,-122,2023-04-09T16:30:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,barstool,player_points_over_under,trey murphy iii,True,16.5,-130,2023-04-09T14:45:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,betmgm,player_points_over_under,trey murphy iii,False,17.5,-110,2023-04-09T17:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,betmgm,player_points_over_under,trey murphy iii,True,17.5,-120,2023-04-09T17:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,caesars,player_points_over_under,trey murphy iii,False,17.5,-109,2023-04-09T15:00:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,caesars,player_points_over_under,trey murphy iii,True,17.5,-125,2023-04-09T15:00:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_points_over_under,trey murphy iii,False,18.5,-105,2023-04-09T21:45:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_points_over_under,trey murphy iii,False,19.5,100,2023-04-09T21:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_points_over_under,trey murphy iii,False,17.5,110,2023-04-09T18:45:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_points_over_under,trey murphy iii,False,15.5,-115,2023-04-09T20:30:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,barstool,player_points_over_under,trey murphy iii,True,18.5,-110,2023-04-09T19:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_points_over_under,trey murphy iii,True,21.5,115,2023-04-09T21:00:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_points_over_under,trey murphy iii,False,13.5,105,2023-04-09T20:00:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_points_over_under,trey murphy iii,False,21.5,-150,2023-04-09T21:00:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,fanduel,player_rebounds_over_under,trey murphy iii,True,2.5,-162,2023-04-09T17:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_rebounds_over_under,trey murphy iii,True,5.5,-110,2023-04-09T20:45:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,fanduel,player_rebounds_over_under,trey murphy iii,True,4.5,140,2023-04-09T21:45:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,fanduel,player_rebounds_over_under,trey murphy iii,True,5.5,-114,2023-04-09T20:45:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,fanduel,player_rebounds_over_under,trey murphy iii,False,2.5,132,2023-04-09T17:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,fanduel,player_rebounds_over_under,trey murphy iii,False,3.5,112,2023-04-09T19:45:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,fanduel,player_rebounds_over_under,trey murphy iii,False,4.5,-188,2023-04-09T21:45:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,fanduel,player_rebounds_over_under,trey murphy iii,False,5.5,-114,2023-04-09T20:45:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_rebounds_over_under,trey murphy iii,True,3.5,-145,2023-04-09T19:45:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_rebounds_over_under,trey murphy iii,True,4.5,130,2023-04-09T21:45:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_rebounds_over_under,trey murphy iii,False,3.5,110,2023-04-09T19:45:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_rebounds_over_under,trey murphy iii,False,4.5,-175,2023-04-09T21:45:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_rebounds_over_under,trey murphy iii,False,5.5,-120,2023-04-09T20:45:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,caesars,player_rebounds_over_under,trey murphy iii,True,3.5,126,2023-04-08T23:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_points_over_under,trey murphy iii,True,19.5,-135,2023-04-09T21:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,caesars,player_rebounds_over_under,trey murphy iii,False,3.5,-174,2023-04-08T23:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,fanduel,player_rebounds_over_under,trey murphy iii,True,3.5,-148,2023-04-09T19:45:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_points_over_under,trey murphy iii,True,18.5,-125,2023-04-09T21:45:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,fanduel,player_blocks_over_under,trey murphy iii,True,0.5,880,2023-04-09T21:45:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_points_over_under,trey murphy iii,True,15.5,-115,2023-04-09T20:30:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_blocks_over_under,trey murphy iii,True,0.5,800,2023-04-09T21:45:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,fanduel,player_blocks_over_under,trey murphy iii,False,0.5,-3000,2023-04-09T21:45:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,betmgm,player_assists_over_under,trey murphy iii,False,1.5,-115,2023-04-09T17:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,betmgm,player_assists_over_under,trey murphy iii,True,1.5,-120,2023-04-09T19:30:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,caesars,player_assists_over_under,trey murphy iii,False,1.5,-117,2023-04-08T23:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,caesars,player_assists_over_under,trey murphy iii,True,1.5,-117,2023-04-08T23:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_blocks_over_under,trey murphy iii,False,0.5,-2500,2023-04-09T21:45:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_assists_over_under,trey murphy iii,False,1.5,-205,2023-04-09T20:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_assists_over_under,trey murphy iii,True,1.5,150,2023-04-09T20:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_assists_over_under,trey murphy iii,True,0.5,275,2023-04-09T21:45:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,fanduel,player_assists_over_under,trey murphy iii,False,1.5,-220,2023-04-09T20:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,fanduel,player_assists_over_under,trey murphy iii,False,0.5,-420,2023-04-09T21:45:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,fanduel,player_assists_over_under,trey murphy iii,True,1.5,162,2023-04-09T20:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,betmgm,player_rebounds_over_under,trey murphy iii,True,3.5,130,2023-04-09T17:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_assists_over_under,trey murphy iii,False,0.5,-400,2023-04-09T21:45:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_points_over_under,trey murphy iii,True,17.5,-140,2023-04-09T18:45:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,caesars,player_blocks_over_under,trey murphy iii,True,0.5,133,2023-04-08T23:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,betmgm,player_blocks_over_under,trey murphy iii,True,0.5,135,2023-04-09T17:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_points_over_under,trey murphy iii,True,13.5,-135,2023-04-09T20:00:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,fanduel,player_points_over_under,trey murphy iii,False,21.5,-154,2023-04-09T21:00:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,fanduel,player_points_over_under,trey murphy iii,False,19.5,102,2023-04-09T21:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,fanduel,player_points_over_under,trey murphy iii,False,18.5,-102,2023-04-09T21:45:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,fanduel,player_points_over_under,trey murphy iii,False,17.5,-110,2023-04-09T14:30:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,fanduel,player_points_over_under,trey murphy iii,False,15.5,-114,2023-04-09T20:30:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,caesars,player_blocks_over_under,trey murphy iii,False,0.5,-184,2023-04-08T23:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,fanduel,player_points_over_under,trey murphy iii,False,13.5,106,2023-04-09T20:00:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,fanduel,player_points_over_under,trey murphy iii,True,19.5,-136,2023-04-09T21:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,fanduel,player_points_over_under,trey murphy iii,True,18.5,-130,2023-04-09T21:45:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,fanduel,player_points_over_under,trey murphy iii,True,17.5,-110,2023-04-09T14:30:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,fanduel,player_points_over_under,trey murphy iii,True,15.5,-114,2023-04-09T20:30:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,fanduel,player_points_over_under,trey murphy iii,True,13.5,-140,2023-04-09T20:00:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,betmgm,player_blocks_over_under,trey murphy iii,False,0.5,-185,2023-04-09T17:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,fanduel,player_points_over_under,trey murphy iii,True,21.5,116,2023-04-09T21:00:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,betmgm,player_rebounds_over_under,trey murphy iii,False,3.5,-175,2023-04-09T17:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,fanduel,player_assists_over_under,trey murphy iii,True,0.5,280,2023-04-09T21:45:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_steals_over_under,trey murphy iii,True,1.5,145,2023-04-09T19:45:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,betmgm,player_steals_over_under,trey murphy iii,True,1.5,120,2023-04-09T17:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,caesars,player_steals_over_under,trey murphy iii,False,1.5,-163,2023-04-08T23:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_steals_over_under,trey murphy iii,False,2.5,-525,2023-04-09T21:45:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_steals_over_under,trey murphy iii,False,1.5,-195,2023-04-09T19:45:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_steals_over_under,trey murphy iii,False,0.5,170,2023-04-09T20:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_steals_over_under,trey murphy iii,True,2.5,340,2023-04-09T21:45:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,betmgm,player_steals_over_under,trey murphy iii,False,1.5,-160,2023-04-09T17:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_steals_over_under,trey murphy iii,True,0.5,-230,2023-04-09T20:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,fanduel,player_steals_over_under,trey murphy iii,False,1.5,-210,2023-04-09T19:45:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,fanduel,player_steals_over_under,trey murphy iii,False,0.5,174,2023-04-09T20:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,fanduel,player_steals_over_under,trey murphy iii,True,2.5,350,2023-04-09T21:45:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,fanduel,player_steals_over_under,trey murphy iii,True,1.5,154,2023-04-09T19:45:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,fanduel,player_steals_over_under,trey murphy iii,True,0.5,-240,2023-04-09T20:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,barstool,player_rebounds_over_under,trey murphy iii,True,3.5,135,2023-04-09T16:45:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,fanduel,player_steals_over_under,trey murphy iii,False,2.5,-550,2023-04-09T21:45:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,fanduel,player_threes_over_under,trey murphy iii,True,1.5,128,2023-04-09T21:45:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,caesars,player_steals_over_under,trey murphy iii,True,1.5,118,2023-04-08T23:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,fanduel,player_threes_over_under,trey murphy iii,True,3.5,118,2023-04-09T18:45:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,barstool,player_threes_over_under,trey murphy iii,True,3.5,116,2023-04-09T19:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,betmgm,player_threes_over_under,trey murphy iii,False,3.5,-145,2023-04-09T19:30:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,betmgm,player_threes_over_under,trey murphy iii,True,3.5,110,2023-04-09T17:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,caesars,player_threes_over_under,trey murphy iii,False,3.5,-154,2023-04-08T23:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,fanduel,player_threes_over_under,trey murphy iii,True,2.5,100,2023-04-09T20:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_threes_over_under,trey murphy iii,False,3.5,-145,2023-04-08T23:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_threes_over_under,trey murphy iii,False,2.5,-130,2023-04-09T21:00:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_threes_over_under,trey murphy iii,False,1.5,-165,2023-04-09T21:45:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,caesars,player_threes_over_under,trey murphy iii,True,3.5,112,2023-04-08T23:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_threes_over_under,trey murphy iii,True,3.5,115,2023-04-08T23:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_threes_over_under,trey murphy iii,True,2.5,100,2023-04-09T21:00:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_threes_over_under,trey murphy iii,True,1.5,125,2023-04-09T21:45:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,fanduel,player_threes_over_under,trey murphy iii,False,3.5,-150,2023-04-09T18:45:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,fanduel,player_threes_over_under,trey murphy iii,False,2.5,-132,2023-04-09T20:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,fanduel,player_threes_over_under,trey murphy iii,False,1.5,-172,2023-04-09T21:45:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_points_over_under,trey murphy iii,False,15.5,-112,2023-04-13T02:15:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_points_over_under,trey murphy iii,True,19.5,100,2023-04-12T23:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_points_over_under,trey murphy iii,True,20.5,-112,2023-04-13T02:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_points_over_under,trey murphy iii,True,23.5,-118,2023-04-13T04:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_points_over_under,trey murphy iii,True,25.5,108,2023-04-13T03:00:02,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_points_over_under,trey murphy iii,True,26.5,104,2023-04-13T03:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_points_over_under,trey murphy iii,True,27.5,110,2023-04-13T03:30:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_points_over_under,trey murphy iii,True,18.5,-122,2023-04-12T23:15:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_points_over_under,trey murphy iii,False,17.5,-128,2023-04-13T02:00:02,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_points_over_under,trey murphy iii,False,26.5,-138,2023-04-13T03:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_points_over_under,trey murphy iii,False,20.5,-118,2023-04-13T02:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_points_over_under,trey murphy iii,False,23.5,-112,2023-04-13T04:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,barstool,player_threes_over_under,trey murphy iii,True,3.5,128,2023-04-13T01:30:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,barstool,player_threes_over_under,trey murphy iii,True,2.5,-210,2023-04-13T01:30:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,betmgm,player_threes_over_under,trey murphy iii,False,3.5,-140,2023-04-13T01:30:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,betmgm,player_threes_over_under,trey murphy iii,True,3.5,105,2023-04-13T01:30:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,caesars,player_threes_over_under,trey murphy iii,False,3.5,-142,2023-04-13T01:30:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_points_over_under,trey murphy iii,True,17.5,-104,2023-04-13T02:00:02,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_points_over_under,trey murphy iii,False,19.5,-122,2023-04-12T23:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_points_over_under,trey murphy iii,True,15.5,-118,2023-04-13T02:15:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_assists_over_under,trey murphy iii,False,1.5,-154,2023-04-13T02:15:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,betmgm,player_blocks_over_under,trey murphy iii,True,0.5,-120,2023-04-13T00:45:02,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_assists_over_under,trey murphy iii,True,1.5,116,2023-04-13T02:15:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_assists_over_under,trey murphy iii,True,2.5,310,2023-04-13T04:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,caesars,player_threes_over_under,trey murphy iii,True,3.5,104,2023-04-13T01:30:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_assists_over_under,trey murphy iii,False,2.5,-470,2023-04-13T04:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_assists_over_under,trey murphy iii,True,1.5,115,2023-04-13T02:15:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_assists_over_under,trey murphy iii,True,2.5,300,2023-04-13T04:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_assists_over_under,trey murphy iii,False,1.5,-150,2023-04-13T02:15:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_assists_over_under,trey murphy iii,False,2.5,-450,2023-04-13T04:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,betmgm,player_blocks_over_under,trey murphy iii,False,0.5,-115,2023-04-10T21:15:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,caesars,player_assists_over_under,trey murphy iii,True,1.5,-148,2023-04-13T00:45:02,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,betmgm,player_assists_over_under,trey murphy iii,True,1.5,-150,2023-04-13T01:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,betmgm,player_assists_over_under,trey murphy iii,False,1.5,110,2023-04-13T00:45:02,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_blocks_over_under,trey murphy iii,True,0.5,800,2023-04-13T04:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_blocks_over_under,trey murphy iii,False,0.5,-2200,2023-04-13T04:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_blocks_over_under,trey murphy iii,True,0.5,750,2023-04-13T04:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_blocks_over_under,trey murphy iii,False,0.5,-2000,2023-04-13T04:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,caesars,player_blocks_over_under,trey murphy iii,True,0.5,-113,2023-04-10T16:30:02,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,caesars,player_blocks_over_under,trey murphy iii,False,0.5,-121,2023-04-10T16:30:02,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,caesars,player_assists_over_under,trey murphy iii,False,1.5,108,2023-04-13T00:45:02,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_threes_over_under,trey murphy iii,False,5.5,-170,2023-04-13T03:15:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_threes_over_under,trey murphy iii,False,4.5,-205,2023-04-13T04:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_threes_over_under,trey murphy iii,False,3.5,-155,2023-04-13T02:30:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,caesars,player_points_over_under,trey murphy iii,False,19.5,-117,2023-04-12T21:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,betmgm,player_points_over_under,trey murphy iii,True,19.5,-125,2023-04-13T01:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,betmgm,player_points_over_under,trey murphy iii,False,19.5,-105,2023-04-13T01:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,barstool,player_points_over_under,trey murphy iii,True,15.5,-250,2023-04-13T01:30:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,barstool,player_points_over_under,trey murphy iii,True,16.5,-180,2023-04-13T01:30:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,barstool,player_points_over_under,trey murphy iii,True,17.5,-130,2023-04-13T01:30:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,barstool,player_points_over_under,trey murphy iii,True,18.5,-103,2023-04-13T01:30:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,barstool,player_points_over_under,trey murphy iii,True,19.5,123,2023-04-13T01:30:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,barstool,player_points_over_under,trey murphy iii,True,20.5,155,2023-04-13T01:30:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,barstool,player_points_over_under,trey murphy iii,True,21.5,195,2023-04-13T01:30:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,barstool,player_points_over_under,trey murphy iii,True,22.5,190,2023-04-13T01:15:02,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_rebounds_over_under,trey murphy iii,True,2.5,-186,2023-04-13T02:15:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_rebounds_over_under,trey murphy iii,True,3.5,128,2023-04-13T04:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_rebounds_over_under,trey murphy iii,True,4.5,162,2023-04-13T03:30:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_rebounds_over_under,trey murphy iii,False,2.5,138,2023-04-13T02:15:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,caesars,player_points_over_under,trey murphy iii,False,17.5,-117,2023-04-13T01:30:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,caesars,player_points_over_under,trey murphy iii,True,19.5,-117,2023-04-12T21:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,caesars,player_points_over_under,trey murphy iii,True,17.5,-117,2023-04-13T01:30:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_points_over_under,trey murphy iii,False,27.5,100,2023-04-13T03:15:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_points_over_under,trey murphy iii,False,27.5,-146,2023-04-13T03:30:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_points_over_under,trey murphy iii,True,15.5,-115,2023-04-13T02:15:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_points_over_under,trey murphy iii,True,17.5,-105,2023-04-13T02:00:02,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_points_over_under,trey murphy iii,True,19.5,-105,2023-04-13T00:45:02,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_points_over_under,trey murphy iii,True,20.5,-110,2023-04-13T02:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_points_over_under,trey murphy iii,True,23.5,-110,2023-04-13T04:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_points_over_under,trey murphy iii,True,25.5,105,2023-04-13T03:00:02,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_rebounds_over_under,trey murphy iii,False,3.5,-172,2023-04-13T04:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_points_over_under,trey murphy iii,True,26.5,100,2023-04-13T03:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_points_over_under,trey murphy iii,False,15.5,-115,2023-04-13T02:15:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_points_over_under,trey murphy iii,False,17.5,-125,2023-04-13T02:00:02,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_points_over_under,trey murphy iii,False,19.5,-125,2023-04-13T00:45:02,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_points_over_under,trey murphy iii,False,20.5,-120,2023-04-13T02:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_points_over_under,trey murphy iii,False,23.5,-120,2023-04-13T04:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_points_over_under,trey murphy iii,False,25.5,-140,2023-04-13T03:00:02,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_points_over_under,trey murphy iii,False,26.5,-135,2023-04-13T03:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_points_over_under,trey murphy iii,True,27.5,-135,2023-04-13T03:15:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_points_over_under,trey murphy iii,False,25.5,-144,2023-04-13T03:00:02,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_rebounds_over_under,trey murphy iii,False,4.5,-220,2023-04-13T03:30:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_rebounds_over_under,trey murphy iii,True,3.5,125,2023-04-13T04:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,betmgm,player_steals_over_under,trey murphy iii,True,1.5,135,2023-04-10T21:15:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,betmgm,player_steals_over_under,trey murphy iii,False,1.5,-185,2023-04-13T00:45:02,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_threes_over_under,trey murphy iii,True,2.5,-180,2023-04-13T02:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_threes_over_under,trey murphy iii,True,3.5,112,2023-04-13T02:30:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_threes_over_under,trey murphy iii,True,4.5,152,2023-04-13T04:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_threes_over_under,trey murphy iii,True,5.5,132,2023-04-13T03:15:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_threes_over_under,trey murphy iii,False,2.5,134,2023-04-13T02:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_threes_over_under,trey murphy iii,False,3.5,-148,2023-04-13T02:30:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_threes_over_under,trey murphy iii,False,4.5,-205,2023-04-13T04:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_threes_over_under,trey murphy iii,False,5.5,-178,2023-04-13T03:15:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_threes_over_under,trey murphy iii,True,2.5,-165,2023-04-13T02:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_threes_over_under,trey murphy iii,True,3.5,120,2023-04-13T02:30:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_threes_over_under,trey murphy iii,True,4.5,155,2023-04-13T04:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_threes_over_under,trey murphy iii,True,5.5,125,2023-04-13T03:15:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_threes_over_under,trey murphy iii,False,2.5,125,2023-04-13T02:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,caesars,player_steals_over_under,trey murphy iii,False,1.5,-189,2023-04-10T16:30:02,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,caesars,player_steals_over_under,trey murphy iii,True,1.5,136,2023-04-10T16:30:02,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_steals_over_under,trey murphy iii,False,1.5,-700,2023-04-13T04:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_steals_over_under,trey murphy iii,False,0.5,140,2023-04-13T02:30:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_rebounds_over_under,trey murphy iii,True,4.5,165,2023-04-13T03:30:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_rebounds_over_under,trey murphy iii,False,2.5,130,2023-04-13T02:15:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_rebounds_over_under,trey murphy iii,False,3.5,-165,2023-04-13T04:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_rebounds_over_under,trey murphy iii,False,4.5,-225,2023-04-13T03:30:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,caesars,player_rebounds_over_under,trey murphy iii,True,3.5,-145,2023-04-13T00:45:02,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,caesars,player_rebounds_over_under,trey murphy iii,False,3.5,106,2023-04-13T00:45:02,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,betmgm,player_rebounds_over_under,trey murphy iii,True,3.5,-145,2023-04-13T00:45:02,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_rebounds_over_under,trey murphy iii,True,2.5,-175,2023-04-13T02:15:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,betmgm,player_rebounds_over_under,trey murphy iii,False,3.5,110,2023-04-13T00:45:02,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,barstool,player_rebounds_over_under,trey murphy iii,True,4.5,170,2023-04-13T00:45:02,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_steals_over_under,trey murphy iii,True,0.5,-240,2023-04-13T02:15:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_steals_over_under,trey murphy iii,True,1.5,410,2023-04-13T04:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_steals_over_under,trey murphy iii,False,0.5,174,2023-04-13T02:15:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_steals_over_under,trey murphy iii,False,1.5,-700,2023-04-13T04:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_steals_over_under,trey murphy iii,True,0.5,-190,2023-04-13T02:30:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_steals_over_under,trey murphy iii,True,1.5,400,2023-04-13T04:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,barstool,player_rebounds_over_under,trey murphy iii,True,3.5,-122,2023-04-13T01:30:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_points_over_under,trey murphy iii,False,18.5,100,2023-04-12T23:15:01,New Orleans Pelicans,Oklahoma City Thunder

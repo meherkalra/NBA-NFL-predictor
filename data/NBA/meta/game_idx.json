@@ -1,0 +1,1693 @@
+{
+    "2023-03-19": {
+        "95cc9f53be29001ee968ce561696a57c": {
+            "home_team": "Washington Wizards",
+            "away_team": "Sacramento Kings",
+            "start_time": "2023-03-19T00:00:00Z"
+        },
+        "861fdc6cb20165d7bb4570c3dec0a125": {
+            "home_team": "Memphis Grizzlies",
+            "away_team": "Golden State Warriors",
+            "start_time": "2023-03-19T00:00:00Z"
+        },
+        "2371acc67143a8e26b8e29bd965f719a": {
+            "home_team": "Chicago Bulls",
+            "away_team": "Miami Heat",
+            "start_time": "2023-03-19T00:00:00Z"
+        },
+        "0a50565874af4d30a0e8b7ca29cddbfd": {
+            "home_team": "Utah Jazz",
+            "away_team": "Boston Celtics",
+            "start_time": "2023-03-19T01:00:00Z"
+        },
+        "7c56c3400a3a6809e0e29db249071254": {
+            "home_team": "Brooklyn Nets",
+            "away_team": "Denver Nuggets",
+            "start_time": "2023-03-19T19:30:00Z"
+        },
+        "0ccb138b376c372c315d5ad6a57cdb7c": {
+            "home_team": "Oklahoma City Thunder",
+            "away_team": "Phoenix Suns",
+            "start_time": "2023-03-19T19:30:00Z"
+        },
+        "06b2419c150fe9069474c89df6270fda": {
+            "home_team": "San Antonio Spurs",
+            "away_team": "Atlanta Hawks",
+            "start_time": "2023-03-19T20:00:00Z"
+        },
+        "1ad93786d88dbe4c7161f0deed2d3cdf": {
+            "home_team": "Detroit Pistons",
+            "away_team": "Miami Heat",
+            "start_time": "2023-03-19T22:00:00Z"
+        },
+        "6b5af0476aa7c870a50d33fd40effce4": {
+            "home_team": "Houston Rockets",
+            "away_team": "New Orleans Pelicans",
+            "start_time": "2023-03-19T23:00:00Z"
+        }
+    },
+    "2023-03-20": {
+        "a91b3fe8fb3af636c3c07f332f35fbb9": {
+            "home_team": "Milwaukee Bucks",
+            "away_team": "Toronto Raptors",
+            "start_time": "2023-03-20T00:00:00Z"
+        },
+        "bc0fcc1ce382bbc0cb706ca4fda97d81": {
+            "home_team": "Portland Trail Blazers",
+            "away_team": "LA Clippers",
+            "start_time": "2023-03-20T01:00:00Z"
+        },
+        "89985a10d7eac7ee706f81b0fb3616a6": {
+            "home_team": "Los Angeles Lakers",
+            "away_team": "Orlando Magic",
+            "start_time": "2023-03-20T01:30:00Z"
+        },
+        "d7e9e507e641166f6b1f63f509d0e21c": {
+            "home_team": "Philadelphia 76ers",
+            "away_team": "Chicago Bulls",
+            "start_time": "2023-03-20T23:00:00Z"
+        },
+        "8d93fb92ce14f790a09add47ef4d5f8b": {
+            "home_team": "Charlotte Hornets",
+            "away_team": "Indiana Pacers",
+            "start_time": "2023-03-20T23:00:00Z"
+        },
+        "65f804a6342c36120d53394db854c81f": {
+            "home_team": "New York Knicks",
+            "away_team": "Minnesota Timberwolves",
+            "start_time": "2023-03-20T23:30:00Z"
+        }
+    },
+    "2023-03-21": {
+        "186125fb8d90bb69c83e1117d37678d4": {
+            "home_team": "Houston Rockets",
+            "away_team": "Golden State Warriors",
+            "start_time": "2023-03-21T00:00:00Z"
+        },
+        "976374cabbe81585f0d8f27bc10b67e5": {
+            "home_team": "Memphis Grizzlies",
+            "away_team": "Dallas Mavericks",
+            "start_time": "2023-03-21T00:00:00Z"
+        },
+        "3980a7a0eaf6d7cc9d0a2b73027acffa": {
+            "home_team": "Utah Jazz",
+            "away_team": "Sacramento Kings",
+            "start_time": "2023-03-21T01:00:00Z"
+        },
+        "fce3d8cfb8983384b8afb68d2432b814": {
+            "home_team": "Orlando Magic",
+            "away_team": "Washington Wizards",
+            "start_time": "2023-03-21T23:00:00Z"
+        },
+        "4f3ec1b127556ad3003670d430008e29": {
+            "home_team": "Brooklyn Nets",
+            "away_team": "Cleveland Cavaliers",
+            "start_time": "2023-03-21T23:30:00Z"
+        },
+        "a1b9ce0fce5e09325a6d815ae5a02233": {
+            "home_team": "Atlanta Hawks",
+            "away_team": "Detroit Pistons",
+            "start_time": "2023-03-21T23:30:00Z"
+        }
+    },
+    "2023-03-22": {
+        "0abd21a65febdc10758f318eb76b50d6": {
+            "home_team": "New Orleans Pelicans",
+            "away_team": "San Antonio Spurs",
+            "start_time": "2023-03-22T00:00:00Z"
+        },
+        "b90bea590f3f3ef471c73a9eb29ff5d9": {
+            "home_team": "Sacramento Kings",
+            "away_team": "Boston Celtics",
+            "start_time": "2023-03-22T02:00:00Z"
+        },
+        "f996c60c33f916f074f45aafad38ee0f": {
+            "home_team": "LA Clippers",
+            "away_team": "Oklahoma City Thunder",
+            "start_time": "2023-03-22T02:30:00Z"
+        },
+        "72df6a2aecb8724db6d2d17116e5d4c3": {
+            "home_team": "Washington Wizards",
+            "away_team": "Denver Nuggets",
+            "start_time": "2023-03-22T23:00:00Z"
+        },
+        "10c94141a8facb7a194f5130c919198e": {
+            "home_team": "Miami Heat",
+            "away_team": "New York Knicks",
+            "start_time": "2023-03-22T23:30:00Z"
+        },
+        "fb8035881ab1c1f72a44af15d3111e50": {
+            "home_team": "Toronto Raptors",
+            "away_team": "Indiana Pacers",
+            "start_time": "2023-03-22T23:30:00Z"
+        },
+        "3de6c18f40bd176557bd7b41e5cc0803": {
+            "home_team": "Dallas Mavericks",
+            "away_team": "Golden State Warriors",
+            "start_time": "2023-03-22T23:30:00Z"
+        }
+    },
+    "2023-03-23": {
+        "fc7a6aa7b313493a91071a7f47079456": {
+            "home_team": "Memphis Grizzlies",
+            "away_team": "Houston Rockets",
+            "start_time": "2023-03-23T00:00:00Z"
+        },
+        "8fd138645bb27dc0a722e99bfe943cc9": {
+            "home_team": "Chicago Bulls",
+            "away_team": "Philadelphia 76ers",
+            "start_time": "2023-03-23T00:00:00Z"
+        },
+        "f6e96a0ab2043164bd6053627d4f723f": {
+            "home_team": "Milwaukee Bucks",
+            "away_team": "San Antonio Spurs",
+            "start_time": "2023-03-23T00:00:00Z"
+        },
+        "f5a7269478af52df731f40b910673b5c": {
+            "home_team": "Minnesota Timberwolves",
+            "away_team": "Atlanta Hawks",
+            "start_time": "2023-03-23T00:00:00Z"
+        },
+        "1631b7f7009e18d4728f7225b0d8750e": {
+            "home_team": "Utah Jazz",
+            "away_team": "Portland Trail Blazers",
+            "start_time": "2023-03-23T01:00:00Z"
+        },
+        "ce4419d6a940929a3d3ae07adce0c084": {
+            "home_team": "Los Angeles Lakers",
+            "away_team": "Phoenix Suns",
+            "start_time": "2023-03-23T02:00:00Z"
+        },
+        "888fe6e2626e5685ad3c32f8ade5c5b3": {
+            "home_team": "Orlando Magic",
+            "away_team": "New York Knicks",
+            "start_time": "2023-03-23T23:00:00Z"
+        },
+        "9d7f17f70aa4b18ec0c791b126462a42": {
+            "home_team": "Brooklyn Nets",
+            "away_team": "Cleveland Cavaliers",
+            "start_time": "2023-03-23T23:30:00Z"
+        }
+    },
+    "2023-03-24": {
+        "f9b71bab32ff82972352f88176eb8194": {
+            "home_team": "New Orleans Pelicans",
+            "away_team": "Charlotte Hornets",
+            "start_time": "2023-03-24T00:00:00Z"
+        },
+        "735ed59de788b6ea1681e12cde026c4e": {
+            "home_team": "LA Clippers",
+            "away_team": "Oklahoma City Thunder",
+            "start_time": "2023-03-24T02:30:00Z"
+        },
+        "b2e562f028c3b626f7cf45cdc7ef69ef": {
+            "home_team": "Boston Celtics",
+            "away_team": "Indiana Pacers",
+            "start_time": "2023-03-24T23:00:00Z"
+        },
+        "8a8b4867dfce8407103697bd086cfc06": {
+            "home_team": "Washington Wizards",
+            "away_team": "San Antonio Spurs",
+            "start_time": "2023-03-24T23:00:00Z"
+        },
+        "1f64a180c36b2baa004581188a38a3f5": {
+            "home_team": "Toronto Raptors",
+            "away_team": "Detroit Pistons",
+            "start_time": "2023-03-24T23:30:00Z"
+        }
+    },
+    "2023-03-25": {
+        "ab0cf09c6a3ec8feb13d21e0206f41fc": {
+            "home_team": "Memphis Grizzlies",
+            "away_team": "Houston Rockets",
+            "start_time": "2023-03-25T00:00:00Z"
+        },
+        "45b0e1b9f5d525eea1791f14bbdfe8ae": {
+            "home_team": "Dallas Mavericks",
+            "away_team": "Charlotte Hornets",
+            "start_time": "2023-03-25T00:30:00Z"
+        },
+        "395be07e885d22f1a2e1c1775ba624e8": {
+            "home_team": "Utah Jazz",
+            "away_team": "Milwaukee Bucks",
+            "start_time": "2023-03-25T01:00:00Z"
+        },
+        "c94fe4aa5165d3f5e141d048feee95f3": {
+            "home_team": "Sacramento Kings",
+            "away_team": "Phoenix Suns",
+            "start_time": "2023-03-25T02:00:00Z"
+        },
+        "8c1717d69770bb014946a5040252e862": {
+            "home_team": "Golden State Warriors",
+            "away_team": "Philadelphia 76ers",
+            "start_time": "2023-03-25T02:00:00Z"
+        },
+        "cd740a9be22ad50d77ea7ce0df7601bf": {
+            "home_team": "Portland Trail Blazers",
+            "away_team": "Chicago Bulls",
+            "start_time": "2023-03-25T02:00:00Z"
+        },
+        "88858f6c43465fb41d3fde63621b7e0e": {
+            "home_team": "Los Angeles Lakers",
+            "away_team": "Oklahoma City Thunder",
+            "start_time": "2023-03-25T02:30:00Z"
+        },
+        "c7d580c181e83c84596e36eb06afe5ae": {
+            "home_team": "Atlanta Hawks",
+            "away_team": "Indiana Pacers",
+            "start_time": "2023-03-25T21:00:00Z"
+        }
+    },
+    "2023-03-26": {
+        "70585d225978aa4803bacf7395271080": {
+            "home_team": "Miami Heat",
+            "away_team": "Brooklyn Nets",
+            "start_time": "2023-03-26T00:00:00Z"
+        },
+        "b2b0d5a6998801918cabc1aa6e062c0c": {
+            "home_team": "Denver Nuggets",
+            "away_team": "Milwaukee Bucks",
+            "start_time": "2023-03-26T01:00:00Z"
+        },
+        "0dfe28413e2e7cff29283c697981fb7c": {
+            "home_team": "Sacramento Kings",
+            "away_team": "Utah Jazz",
+            "start_time": "2023-03-26T02:00:00Z"
+        },
+        "328e99caf39c9771fa6195341d27ba07": {
+            "home_team": "Phoenix Suns",
+            "away_team": "Philadelphia 76ers",
+            "start_time": "2023-03-26T02:00:00Z"
+        },
+        "12ea5e3418a3bc9b8567e3b83af56c15": {
+            "home_team": "LA Clippers",
+            "away_team": "New Orleans Pelicans",
+            "start_time": "2023-03-26T02:30:00Z"
+        },
+        "7716751f7d96fb8510d58d75f5c6c4bb": {
+            "home_team": "Charlotte Hornets",
+            "away_team": "Dallas Mavericks",
+            "start_time": "2023-03-26T17:00:00Z"
+        },
+        "fc7b2c990385b831b0bbb3e3109b4ac1": {
+            "home_team": "Los Angeles Lakers",
+            "away_team": "Chicago Bulls",
+            "start_time": "2023-03-26T19:30:00Z"
+        },
+        "2350bb46f310813fdfc316adda990e49": {
+            "home_team": "Orlando Magic",
+            "away_team": "Brooklyn Nets",
+            "start_time": "2023-03-26T22:00:00Z"
+        },
+        "b4ddab339c65931ef0fbb3260c6375a4": {
+            "home_team": "Toronto Raptors",
+            "away_team": "Washington Wizards",
+            "start_time": "2023-03-26T22:00:00Z"
+        },
+        "96a923ecd8e2341af443b816c2d5befe": {
+            "home_team": "Cleveland Cavaliers",
+            "away_team": "Houston Rockets",
+            "start_time": "2023-03-26T22:00:00Z"
+        },
+        "c86d3a6c5974f5fd63ec5a6876da980b": {
+            "home_team": "Atlanta Hawks",
+            "away_team": "Memphis Grizzlies",
+            "start_time": "2023-03-26T22:00:00Z"
+        },
+        "77abb723225302e45ed1ccd901a0a913": {
+            "home_team": "Boston Celtics",
+            "away_team": "San Antonio Spurs",
+            "start_time": "2023-03-26T22:00:00Z"
+        },
+        "e76e7a58bddb5af5edfed77ad7c6a8de": {
+            "home_team": "Portland Trail Blazers",
+            "away_team": "Oklahoma City Thunder",
+            "start_time": "2023-03-26T23:00:00Z"
+        }
+    },
+    "2023-03-27": {
+        "3ee1f7f5a998c836d30a9a6127321256": {
+            "home_team": "Golden State Warriors",
+            "away_team": "Minnesota Timberwolves",
+            "start_time": "2023-03-27T00:30:00Z"
+        },
+        "1c5cf3f6acfe3356b0318f6db29bf5ec": {
+            "home_team": "Detroit Pistons",
+            "away_team": "Milwaukee Bucks",
+            "start_time": "2023-03-27T23:00:00Z"
+        },
+        "4c2a0613a09da303ee30dd8a8102d0fe": {
+            "home_team": "Indiana Pacers",
+            "away_team": "Dallas Mavericks",
+            "start_time": "2023-03-27T23:00:00Z"
+        },
+        "48fd5d149bf965d1557ed4fc2a7c924b": {
+            "home_team": "New York Knicks",
+            "away_team": "Houston Rockets",
+            "start_time": "2023-03-27T23:30:00Z"
+        }
+    },
+    "2023-03-28": {
+        "d96c28233745b7e0b23269efc94df3f9": {
+            "home_team": "Utah Jazz",
+            "away_team": "Phoenix Suns",
+            "start_time": "2023-03-28T01:00:00Z"
+        },
+        "40f32dd416fe998a3b5bd62a53428889": {
+            "home_team": "Denver Nuggets",
+            "away_team": "Philadelphia 76ers",
+            "start_time": "2023-03-28T01:30:00Z"
+        },
+        "90420de45c9c0e2a6533a4089b3923dc": {
+            "home_team": "Sacramento Kings",
+            "away_team": "Minnesota Timberwolves",
+            "start_time": "2023-03-28T02:00:00Z"
+        },
+        "d1ca78dae2c85f56e7f51f958dd3375f": {
+            "home_team": "Portland Trail Blazers",
+            "away_team": "New Orleans Pelicans",
+            "start_time": "2023-03-28T02:00:00Z"
+        },
+        "d1a4fe018f0cd43dc7e202361e0876c0": {
+            "home_team": "LA Clippers",
+            "away_team": "Chicago Bulls",
+            "start_time": "2023-03-28T02:30:00Z"
+        },
+        "86f2700611aa8e73aaf7728f30b51fb4": {
+            "home_team": "Washington Wizards",
+            "away_team": "Boston Celtics",
+            "start_time": "2023-03-28T23:00:00Z"
+        },
+        "55dac6ad75a878a288979833ef422c48": {
+            "home_team": "Atlanta Hawks",
+            "away_team": "Cleveland Cavaliers",
+            "start_time": "2023-03-28T23:30:00Z"
+        },
+        "ddc56b96daa8656875aa9bca6a902fd2": {
+            "home_team": "Toronto Raptors",
+            "away_team": "Miami Heat",
+            "start_time": "2023-03-28T23:30:00Z"
+        }
+    },
+    "2023-03-29": {
+        "70592fec3120b0d74c1d2cd46aa81ffd": {
+            "home_team": "Oklahoma City Thunder",
+            "away_team": "Charlotte Hornets",
+            "start_time": "2023-03-29T00:00:00Z"
+        },
+        "f7758e7b498d32115c40effc5cd51d59": {
+            "home_team": "Memphis Grizzlies",
+            "away_team": "Orlando Magic",
+            "start_time": "2023-03-29T00:00:00Z"
+        },
+        "08cba3d02b1846c8f1180f6ed2860d0e": {
+            "home_team": "Golden State Warriors",
+            "away_team": "New Orleans Pelicans",
+            "start_time": "2023-03-29T02:00:00Z"
+        },
+        "8d7dc281d4c5e2c860ea552357500bd2": {
+            "home_team": "Indiana Pacers",
+            "away_team": "Milwaukee Bucks",
+            "start_time": "2023-03-29T23:00:00Z"
+        },
+        "23dac12e67fa46b1862222417158b208": {
+            "home_team": "Brooklyn Nets",
+            "away_team": "Houston Rockets",
+            "start_time": "2023-03-29T23:30:00Z"
+        },
+        "5e41cced040db5265e681513caceee7b": {
+            "home_team": "Philadelphia 76ers",
+            "away_team": "Dallas Mavericks",
+            "start_time": "2023-03-29T23:30:00Z"
+        },
+        "dc51e8bb79e074e1cbccac6a591b0d3d": {
+            "home_team": "New York Knicks",
+            "away_team": "Miami Heat",
+            "start_time": "2023-03-29T23:30:00Z"
+        }
+    },
+    "2023-03-30": {
+        "43056536e1f256a358f25f71b7340b14": {
+            "home_team": "San Antonio Spurs",
+            "away_team": "Utah Jazz",
+            "start_time": "2023-03-30T00:00:00Z"
+        },
+        "43dee700681adce809f21c74b03f82d0": {
+            "home_team": "Memphis Grizzlies",
+            "away_team": "LA Clippers",
+            "start_time": "2023-03-30T00:00:00Z"
+        },
+        "cf4f17de29e9457a6eb156364d6e6678": {
+            "home_team": "Oklahoma City Thunder",
+            "away_team": "Detroit Pistons",
+            "start_time": "2023-03-30T00:00:00Z"
+        },
+        "00b7ab695415b5bf05af88374d911a3c": {
+            "home_team": "Chicago Bulls",
+            "away_team": "Los Angeles Lakers",
+            "start_time": "2023-03-30T00:00:00Z"
+        },
+        "c480dabad04835efc8323abb6bcc365b": {
+            "home_team": "Portland Trail Blazers",
+            "away_team": "Sacramento Kings",
+            "start_time": "2023-03-30T02:00:00Z"
+        },
+        "cf5cad067e4e675be2bb82fa4d5dc7b1": {
+            "home_team": "Phoenix Suns",
+            "away_team": "Minnesota Timberwolves",
+            "start_time": "2023-03-30T02:00:00Z"
+        },
+        "b9f73afe76d00f8ab4df32b24700e6e3": {
+            "home_team": "Milwaukee Bucks",
+            "away_team": "Boston Celtics",
+            "start_time": "2023-03-30T23:30:00Z"
+        }
+    },
+    "2023-03-31": {
+        "f675c3bcd3829faa0c16e6ef609c94cc": {
+            "home_team": "Denver Nuggets",
+            "away_team": "New Orleans Pelicans",
+            "start_time": "2023-03-31T02:00:00Z"
+        },
+        "01092098ddf3786113f882e9595e221c": {
+            "home_team": "Philadelphia 76ers",
+            "away_team": "Toronto Raptors",
+            "start_time": "2023-03-31T23:00:00Z"
+        },
+        "e5e549c2915bd7542fbc8445764976e1": {
+            "home_team": "Washington Wizards",
+            "away_team": "Orlando Magic",
+            "start_time": "2023-03-31T23:00:00Z"
+        },
+        "821bb9d62a74cf9a4e056662b88fbcb6": {
+            "home_team": "Indiana Pacers",
+            "away_team": "Oklahoma City Thunder",
+            "start_time": "2023-03-31T23:00:00Z"
+        },
+        "39dee3e66ddefccd0037a482db303469": {
+            "home_team": "Charlotte Hornets",
+            "away_team": "Chicago Bulls",
+            "start_time": "2023-03-31T23:00:00Z"
+        },
+        "9a32500dfc383b1fe0ef1ab29a3e5b65": {
+            "home_team": "Brooklyn Nets",
+            "away_team": "Atlanta Hawks",
+            "start_time": "2023-03-31T23:30:00Z"
+        },
+        "5aba22ae43d7450dee74ba5867ee21b8": {
+            "home_team": "Cleveland Cavaliers",
+            "away_team": "New York Knicks",
+            "start_time": "2023-03-31T23:30:00Z"
+        },
+        "dccd6d118076f397970d87b441ef56b3": {
+            "home_team": "Boston Celtics",
+            "away_team": "Utah Jazz",
+            "start_time": "2023-03-31T23:30:00Z"
+        }
+    },
+    "2023-04-01": {
+        "38a34cfdda54b63bf54f463e8a0e70b1": {
+            "home_team": "Houston Rockets",
+            "away_team": "Detroit Pistons",
+            "start_time": "2023-04-01T00:00:00Z"
+        },
+        "19e1451e993cb0aa7774d5dcc91762ec": {
+            "home_team": "Minnesota Timberwolves",
+            "away_team": "Los Angeles Lakers",
+            "start_time": "2023-04-01T00:00:00Z"
+        },
+        "548b2146893eb689ffaa67764de7c95e": {
+            "home_team": "Memphis Grizzlies",
+            "away_team": "LA Clippers",
+            "start_time": "2023-04-01T00:00:00Z"
+        },
+        "0fc0acd27223d25c43a2347799d41ca6": {
+            "home_team": "Portland Trail Blazers",
+            "away_team": "Sacramento Kings",
+            "start_time": "2023-04-01T02:00:00Z"
+        },
+        "2a193027992b1e00babebabc2ecb76dd": {
+            "home_team": "Golden State Warriors",
+            "away_team": "San Antonio Spurs",
+            "start_time": "2023-04-01T02:00:00Z"
+        },
+        "c41c2107a371c768bceebc1dd9d2f688": {
+            "home_team": "Phoenix Suns",
+            "away_team": "Denver Nuggets",
+            "start_time": "2023-04-01T02:30:00Z"
+        },
+        "ec26cf3fc289d1364e5caf0e2b8aa61f": {
+            "home_team": "Miami Heat",
+            "away_team": "Dallas Mavericks",
+            "start_time": "2023-04-01T23:30:00Z"
+        }
+    },
+    "2023-04-02": {
+        "9903985ef140ac45a2d3644acf8ea5d8": {
+            "home_team": "New Orleans Pelicans",
+            "away_team": "LA Clippers",
+            "start_time": "2023-04-02T00:30:00Z"
+        },
+        "75f151dc17c381b50de088f0786f4e77": {
+            "home_team": "Charlotte Hornets",
+            "away_team": "Toronto Raptors",
+            "start_time": "2023-04-02T17:00:00Z"
+        },
+        "6c8b9f7d727b0a368b6a31f4bbf22c5e": {
+            "home_team": "Minnesota Timberwolves",
+            "away_team": "Portland Trail Blazers",
+            "start_time": "2023-04-02T19:30:00Z"
+        },
+        "283ef39ee8e894506c90d0d5009c6257": {
+            "home_team": "Brooklyn Nets",
+            "away_team": "Utah Jazz",
+            "start_time": "2023-04-02T19:30:00Z"
+        },
+        "3a8bfe292cc8acee659053865a322203": {
+            "home_team": "Chicago Bulls",
+            "away_team": "Memphis Grizzlies",
+            "start_time": "2023-04-02T19:30:00Z"
+        },
+        "bb80b155885884bccb5c83d23715920d": {
+            "home_team": "Sacramento Kings",
+            "away_team": "San Antonio Spurs",
+            "start_time": "2023-04-02T22:00:00Z"
+        },
+        "0fde7cb072eb9b456e2400a720021822": {
+            "home_team": "Atlanta Hawks",
+            "away_team": "Dallas Mavericks",
+            "start_time": "2023-04-02T22:00:00Z"
+        },
+        "dd81f66081020d9a4d0f8aabb13ac3b5": {
+            "home_team": "Orlando Magic",
+            "away_team": "Detroit Pistons",
+            "start_time": "2023-04-02T22:00:00Z"
+        },
+        "44f43b80489b0faa072eff31d001a8b6": {
+            "home_team": "New York Knicks",
+            "away_team": "Washington Wizards",
+            "start_time": "2023-04-02T22:00:00Z"
+        },
+        "01f6008a00b82a119b717781144d483e": {
+            "home_team": "Oklahoma City Thunder",
+            "away_team": "Phoenix Suns",
+            "start_time": "2023-04-02T23:00:00Z"
+        },
+        "869f17c14cf42a2ecdece166c0d153df": {
+            "home_team": "Houston Rockets",
+            "away_team": "Los Angeles Lakers",
+            "start_time": "2023-04-02T23:00:00Z"
+        }
+    },
+    "2023-04-03": {
+        "f3d15fa9ce10864cc58995fb5d484ac6": {
+            "home_team": "Cleveland Cavaliers",
+            "away_team": "Indiana Pacers",
+            "start_time": "2023-04-03T00:00:00Z"
+        },
+        "08041b82ae06db4fd68a3e0702be8ce7": {
+            "home_team": "Milwaukee Bucks",
+            "away_team": "Philadelphia 76ers",
+            "start_time": "2023-04-03T00:00:00Z"
+        },
+        "fd93bf137c84e6d69af4a6a388d385e0": {
+            "home_team": "Denver Nuggets",
+            "away_team": "Golden State Warriors",
+            "start_time": "2023-04-03T00:30:00Z"
+        }
+    },
+    "2023-04-04": {
+        "fd8f4ac6c0354b57ec62ed66abee9b2e": {
+            "home_team": "Detroit Pistons",
+            "away_team": "Miami Heat",
+            "start_time": "2023-04-04T23:00:00Z"
+        },
+        "b2710d5c8f1cd775383e279195fc7c3c": {
+            "home_team": "Charlotte Hornets",
+            "away_team": "Toronto Raptors",
+            "start_time": "2023-04-04T23:00:00Z"
+        },
+        "1c32e3bf39a81e6ae4816b0b67cdd6a7": {
+            "home_team": "Orlando Magic",
+            "away_team": "Cleveland Cavaliers",
+            "start_time": "2023-04-04T23:00:00Z"
+        },
+        "eac734c02814ecdd7d6b099a9b451f34": {
+            "home_team": "Washington Wizards",
+            "away_team": "Milwaukee Bucks",
+            "start_time": "2023-04-04T23:00:00Z"
+        },
+        "db115e001ef05d081ca247b93ef532e9": {
+            "home_team": "Brooklyn Nets",
+            "away_team": "Minnesota Timberwolves",
+            "start_time": "2023-04-04T23:30:00Z"
+        }
+    },
+    "2023-04-05": {
+        "2c191c33495cd3281ff956716de00c97": {
+            "home_team": "Houston Rockets",
+            "away_team": "Denver Nuggets",
+            "start_time": "2023-04-05T00:00:00Z"
+        },
+        "d12a85557588466b62b3b941fdab8f26": {
+            "home_team": "Philadelphia 76ers",
+            "away_team": "Boston Celtics",
+            "start_time": "2023-04-05T00:00:00Z"
+        },
+        "833f2b022733f5fdb071352f7d0ea60b": {
+            "home_team": "Chicago Bulls",
+            "away_team": "Atlanta Hawks",
+            "start_time": "2023-04-05T00:00:00Z"
+        },
+        "23bbd84add2eea0fe47badf057da4278": {
+            "home_team": "New Orleans Pelicans",
+            "away_team": "Sacramento Kings",
+            "start_time": "2023-04-05T00:00:00Z"
+        },
+        "4d7bd48250bad97ceb3433a2f5893f95": {
+            "home_team": "Memphis Grizzlies",
+            "away_team": "Portland Trail Blazers",
+            "start_time": "2023-04-05T00:00:00Z"
+        },
+        "1585d13c33de670c5b1fd1370a1b3ea5": {
+            "home_team": "Utah Jazz",
+            "away_team": "Los Angeles Lakers",
+            "start_time": "2023-04-05T01:00:00Z"
+        },
+        "1fdef5f2a4f4568e2e1f6288c5949919": {
+            "home_team": "Phoenix Suns",
+            "away_team": "San Antonio Spurs",
+            "start_time": "2023-04-05T02:00:00Z"
+        },
+        "8be06eae07b0bdd2efc1d33a7189be0c": {
+            "home_team": "Golden State Warriors",
+            "away_team": "Oklahoma City Thunder",
+            "start_time": "2023-04-05T02:00:00Z"
+        },
+        "20856586723ae25f4687806c60dcc3de": {
+            "home_team": "Indiana Pacers",
+            "away_team": "New York Knicks",
+            "start_time": "2023-04-05T23:00:00Z"
+        },
+        "815a0ba2c6ac504465fbd0f34472a06d": {
+            "home_team": "Detroit Pistons",
+            "away_team": "Brooklyn Nets",
+            "start_time": "2023-04-05T23:00:00Z"
+        },
+        "6d6bd3e7848b2286aba793688df9de0e": {
+            "home_team": "Atlanta Hawks",
+            "away_team": "Washington Wizards",
+            "start_time": "2023-04-05T23:30:00Z"
+        },
+        "c30ea779a1e4cbe246b9886708dc6f2d": {
+            "home_team": "Boston Celtics",
+            "away_team": "Toronto Raptors",
+            "start_time": "2023-04-05T23:30:00Z"
+        },
+        "7a69f192e4a5787dd9df4aa5d2ba62c4": {
+            "home_team": "Milwaukee Bucks",
+            "away_team": "Chicago Bulls",
+            "start_time": "2023-04-05T23:30:00Z"
+        }
+    },
+    "2023-04-06": {
+        "1fc310013687394d3bd3b33ef5603ae5": {
+            "home_team": "New Orleans Pelicans",
+            "away_team": "Memphis Grizzlies",
+            "start_time": "2023-04-06T00:00:00Z"
+        },
+        "4068e370bbacbc5d7c6e797f8efb903a": {
+            "home_team": "Dallas Mavericks",
+            "away_team": "Sacramento Kings",
+            "start_time": "2023-04-06T00:30:00Z"
+        },
+        "b0f1b2672fa0fee27eb27c69604efc95": {
+            "home_team": "LA Clippers",
+            "away_team": "Los Angeles Lakers",
+            "start_time": "2023-04-06T02:00:00Z"
+        },
+        "37c8eb855ee9e97bd3ae8c0e2d1dce0f": {
+            "home_team": "Orlando Magic",
+            "away_team": "Cleveland Cavaliers",
+            "start_time": "2023-04-06T23:00:00Z"
+        },
+        "dab2e7fc5323722ebc5b2f3fef161d4f": {
+            "home_team": "Philadelphia 76ers",
+            "away_team": "Miami Heat",
+            "start_time": "2023-04-06T23:30:00Z"
+        }
+    },
+    "2023-04-07": {
+        "e32cebe03996038ae3f304c8a073b0fc": {
+            "home_team": "San Antonio Spurs",
+            "away_team": "Portland Trail Blazers",
+            "start_time": "2023-04-07T00:00:00Z"
+        },
+        "20253dfa3ec6970483a76a6f9864afee": {
+            "home_team": "Utah Jazz",
+            "away_team": "Oklahoma City Thunder",
+            "start_time": "2023-04-07T01:00:00Z"
+        },
+        "2a6f714f5ad70cb4a21dda68dfd33f91": {
+            "home_team": "Phoenix Suns",
+            "away_team": "Denver Nuggets",
+            "start_time": "2023-04-07T02:00:00Z"
+        },
+        "653a443fe3ec6d0b91978021e7abbd53": {
+            "home_team": "Indiana Pacers",
+            "away_team": "Detroit Pistons",
+            "start_time": "2023-04-07T23:00:00Z"
+        },
+        "0f242a1fdad19b8bbbe719941bf27b89": {
+            "home_team": "Charlotte Hornets",
+            "away_team": "Houston Rockets",
+            "start_time": "2023-04-07T23:00:00Z"
+        },
+        "0c4cc1ea3bd6a5aca5ee3a9212f7611e": {
+            "home_team": "Washington Wizards",
+            "away_team": "Miami Heat",
+            "start_time": "2023-04-07T23:00:00Z"
+        },
+        "c2bd1ce6c20373dd74104d3a176f0222": {
+            "home_team": "Boston Celtics",
+            "away_team": "Toronto Raptors",
+            "start_time": "2023-04-07T23:30:00Z"
+        },
+        "f261bda3a4aa9e0db7bc838d1dcc9157": {
+            "home_team": "Atlanta Hawks",
+            "away_team": "Philadelphia 76ers",
+            "start_time": "2023-04-07T23:30:00Z"
+        },
+        "feb8c23807c816a2444b30611390a5eb": {
+            "home_team": "Brooklyn Nets",
+            "away_team": "Orlando Magic",
+            "start_time": "2023-04-07T23:30:00Z"
+        }
+    },
+    "2023-04-08": {
+        "ee92b290096b2652848204c00a2354df": {
+            "home_team": "Milwaukee Bucks",
+            "away_team": "Memphis Grizzlies",
+            "start_time": "2023-04-08T00:00:00Z"
+        },
+        "788ce132cccdaea040c95d0464808ff4": {
+            "home_team": "New Orleans Pelicans",
+            "away_team": "New York Knicks",
+            "start_time": "2023-04-08T00:00:00Z"
+        },
+        "8757990bb32f12b3c4d209c732cfd820": {
+            "home_team": "Dallas Mavericks",
+            "away_team": "Chicago Bulls",
+            "start_time": "2023-04-08T00:30:00Z"
+        },
+        "a939a597b2d71bb51973febd05cbe64d": {
+            "home_team": "Sacramento Kings",
+            "away_team": "Golden State Warriors",
+            "start_time": "2023-04-08T02:00:00Z"
+        },
+        "25cde6329053b8107760088193660ecf": {
+            "home_team": "Los Angeles Lakers",
+            "away_team": "Phoenix Suns",
+            "start_time": "2023-04-08T02:30:00Z"
+        },
+        "23735fdf2514d20d05cce280ec28d549": {
+            "home_team": "Utah Jazz",
+            "away_team": "Denver Nuggets",
+            "start_time": "2023-04-08T19:30:00Z"
+        },
+        "b71215b7bfca740f0d6afdf1f923fd3d": {
+            "home_team": "LA Clippers",
+            "away_team": "Portland Trail Blazers",
+            "start_time": "2023-04-08T20:00:00Z"
+        },
+        "f3d23a6d32ce474b6b259ed24abaf9a8": {
+            "home_team": "San Antonio Spurs",
+            "away_team": "Minnesota Timberwolves",
+            "start_time": "2023-04-08T20:00:00Z"
+        }
+    },
+    "2023-04-09": {
+        "f184f7cb63ae90f0dad4ebe4d793ccb6": {
+            "home_team": "Toronto Raptors",
+            "away_team": "Milwaukee Bucks",
+            "start_time": "2023-04-09T17:00:00Z"
+        },
+        "c3792bab7f19ebbbc5dd1d5a1624d191": {
+            "home_team": "Chicago Bulls",
+            "away_team": "Detroit Pistons",
+            "start_time": "2023-04-09T17:00:00Z"
+        },
+        "9e23e612052b02a613af4d1f0ff73abb": {
+            "home_team": "Cleveland Cavaliers",
+            "away_team": "Charlotte Hornets",
+            "start_time": "2023-04-09T17:00:00Z"
+        },
+        "4a7329206b98e1abd221c86420febf99": {
+            "home_team": "Brooklyn Nets",
+            "away_team": "Philadelphia 76ers",
+            "start_time": "2023-04-09T17:00:00Z"
+        },
+        "5b798170d54f7879e8d6abedfa21429b": {
+            "home_team": "Miami Heat",
+            "away_team": "Orlando Magic",
+            "start_time": "2023-04-09T17:00:00Z"
+        },
+        "2ac17f820c9a8d03abdd4acd3b7ef285": {
+            "home_team": "Washington Wizards",
+            "away_team": "Houston Rockets",
+            "start_time": "2023-04-09T17:00:00Z"
+        },
+        "5cc5cee7a1b9f4d16a7d0dd273fdb56d": {
+            "home_team": "Boston Celtics",
+            "away_team": "Atlanta Hawks",
+            "start_time": "2023-04-09T17:00:00Z"
+        },
+        "72dffda73530d054c05ae325c0a6d330": {
+            "home_team": "New York Knicks",
+            "away_team": "Indiana Pacers",
+            "start_time": "2023-04-09T17:00:00Z"
+        },
+        "05bfd3a6c4001aabf7da23e52396e750": {
+            "home_team": "Dallas Mavericks",
+            "away_team": "San Antonio Spurs",
+            "start_time": "2023-04-09T19:30:00Z"
+        },
+        "ce69d429fe544c1a4f0e725732f14749": {
+            "home_team": "Denver Nuggets",
+            "away_team": "Sacramento Kings",
+            "start_time": "2023-04-09T19:30:00Z"
+        },
+        "9231de3e6d7b227f12f61879496e73ed": {
+            "home_team": "Minnesota Timberwolves",
+            "away_team": "New Orleans Pelicans",
+            "start_time": "2023-04-09T19:30:00Z"
+        },
+        "33f1e4868b344c3bb39a1e68e7278c02": {
+            "home_team": "Oklahoma City Thunder",
+            "away_team": "Memphis Grizzlies",
+            "start_time": "2023-04-09T19:30:00Z"
+        },
+        "0ea4a98effa090cfe4948810a74cd9de": {
+            "home_team": "Portland Trail Blazers",
+            "away_team": "Golden State Warriors",
+            "start_time": "2023-04-09T19:30:00Z"
+        },
+        "ffde7eef5489472ff2e6185a1931462e": {
+            "home_team": "Los Angeles Lakers",
+            "away_team": "Utah Jazz",
+            "start_time": "2023-04-09T19:30:00Z"
+        },
+        "973ef3fd178a026edb82a3c0dd1cb3e1": {
+            "home_team": "Phoenix Suns",
+            "away_team": "LA Clippers",
+            "start_time": "2023-04-09T19:30:00Z"
+        }
+    },
+    "2023-04-11": {
+        "3a58414e72204789180939ddafe82f85": {
+            "home_team": "Miami Heat",
+            "away_team": "Atlanta Hawks",
+            "start_time": "2023-04-11T23:30:00Z"
+        }
+    },
+    "2023-04-12": {
+        "45b9dbf2753a0d5e874f239039ee61a9": {
+            "home_team": "Los Angeles Lakers",
+            "away_team": "Minnesota Timberwolves",
+            "start_time": "2023-04-12T02:00:00Z"
+        },
+        "5bfa63a092c0fe7fcfc414924099bf67": {
+            "home_team": "Toronto Raptors",
+            "away_team": "Chicago Bulls",
+            "start_time": "2023-04-12T23:00:00Z"
+        }
+    },
+    "2023-04-13": {
+        "9a5f9c73414b7602079c4b1fb1dcb4b8": {
+            "home_team": "New Orleans Pelicans",
+            "away_team": "Oklahoma City Thunder",
+            "start_time": "2023-04-13T01:30:00Z"
+        }
+    },
+    "2023-04-14": {
+        "4c8b351d12b976f3be6a7a94a51339a0": {
+            "home_team": "Miami Heat",
+            "away_team": "Chicago Bulls",
+            "start_time": "2023-04-14T23:00:00Z"
+        }
+    },
+    "2023-04-15": {
+        "5fe846ca4de92ae0bdd55673db798090": {
+            "home_team": "Minnesota Timberwolves",
+            "away_team": "Oklahoma City Thunder",
+            "start_time": "2023-04-15T01:30:00Z"
+        },
+        "ce801bb171cecf1e06213408a3f054b8": {
+            "home_team": "Philadelphia 76ers",
+            "away_team": "Brooklyn Nets",
+            "start_time": "2023-04-15T17:00:00Z"
+        },
+        "d3d106026f392473419a1d39a7b39224": {
+            "home_team": "Boston Celtics",
+            "away_team": "Atlanta Hawks",
+            "start_time": "2023-04-15T19:30:00Z"
+        },
+        "ea2e7e477d82213434611896c5e2a525": {
+            "home_team": "Cleveland Cavaliers",
+            "away_team": "New York Knicks",
+            "start_time": "2023-04-15T22:00:00Z"
+        }
+    },
+    "2023-04-16": {
+        "43cc3aba4c99fda0b5d46d315463ee90": {
+            "home_team": "Sacramento Kings",
+            "away_team": "Golden State Warriors",
+            "start_time": "2023-04-16T00:30:00Z"
+        },
+        "b00e76392164297c63f9aaaf35194821": {
+            "home_team": "Memphis Grizzlies",
+            "away_team": "Los Angeles Lakers",
+            "start_time": "2023-04-16T19:00:00Z"
+        },
+        "d465dd20f839778144825a9f15d801b6": {
+            "home_team": "Milwaukee Bucks",
+            "away_team": "Miami Heat",
+            "start_time": "2023-04-16T21:30:00Z"
+        }
+    },
+    "2023-04-17": {
+        "af2c65ee88461115c9e157100aed05b6": {
+            "home_team": "Phoenix Suns",
+            "away_team": "LA Clippers",
+            "start_time": "2023-04-17T00:00:00Z"
+        },
+        "16231786e51fe91ce0d304be1d4e87ca": {
+            "home_team": "Denver Nuggets",
+            "away_team": "Minnesota Timberwolves",
+            "start_time": "2023-04-17T02:30:00Z"
+        },
+        "d04d79e3a50930e744122841acd32e00": {
+            "home_team": "Philadelphia 76ers",
+            "away_team": "Brooklyn Nets",
+            "start_time": "2023-04-17T23:30:00Z"
+        }
+    },
+    "2023-04-18": {
+        "ab0fa2c9931531da026ca75dcd0a82c3": {
+            "home_team": "Sacramento Kings",
+            "away_team": "Golden State Warriors",
+            "start_time": "2023-04-18T02:00:00Z"
+        },
+        "200bb978f61f10d882c628276d8a12d4": {
+            "home_team": "Boston Celtics",
+            "away_team": "Atlanta Hawks",
+            "start_time": "2023-04-18T23:00:00Z"
+        },
+        "f87e2126bc90f0d939cb53b4911af364": {
+            "home_team": "Cleveland Cavaliers",
+            "away_team": "New York Knicks",
+            "start_time": "2023-04-18T23:30:00Z"
+        }
+    },
+    "2023-04-19": {
+        "7c6807f06c72b08f0789f4362d252fc6": {
+            "home_team": "Phoenix Suns",
+            "away_team": "LA Clippers",
+            "start_time": "2023-04-19T02:00:00Z"
+        },
+        "dc17f8f86e535282fd61c83d67a9a30b": {
+            "home_team": "Memphis Grizzlies",
+            "away_team": "Los Angeles Lakers",
+            "start_time": "2023-04-19T23:30:00Z"
+        }
+    },
+    "2023-04-20": {
+        "4f63b96152e37200168cf20285fd4aa7": {
+            "home_team": "Milwaukee Bucks",
+            "away_team": "Miami Heat",
+            "start_time": "2023-04-20T01:00:00Z"
+        },
+        "926b45d0ebe093d38919b8b9dcbb2179": {
+            "home_team": "Denver Nuggets",
+            "away_team": "Minnesota Timberwolves",
+            "start_time": "2023-04-20T02:00:00Z"
+        },
+        "4e22accceb8af8d8f6817aecc9898a3c": {
+            "home_team": "Brooklyn Nets",
+            "away_team": "Philadelphia 76ers",
+            "start_time": "2023-04-20T23:30:00Z"
+        }
+    },
+    "2023-04-21": {
+        "305444865b7450141fa61fa5deb62828": {
+            "home_team": "Golden State Warriors",
+            "away_team": "Sacramento Kings",
+            "start_time": "2023-04-21T02:00:00Z"
+        },
+        "2fb312686cb06a76fb7575f153280c76": {
+            "home_team": "LA Clippers",
+            "away_team": "Phoenix Suns",
+            "start_time": "2023-04-21T02:30:00Z"
+        },
+        "1782284ec07bd4c4c6592b16aa4097e6": {
+            "home_team": "Atlanta Hawks",
+            "away_team": "Boston Celtics",
+            "start_time": "2023-04-21T23:00:00Z"
+        }
+    },
+    "2023-04-22": {
+        "720ecda0d8ce083110835985081411f7": {
+            "home_team": "New York Knicks",
+            "away_team": "Cleveland Cavaliers",
+            "start_time": "2023-04-22T00:30:00Z"
+        },
+        "d76d1641cbdeb97687e32c1d46d303ab": {
+            "home_team": "Minnesota Timberwolves",
+            "away_team": "Denver Nuggets",
+            "start_time": "2023-04-22T01:30:00Z"
+        },
+        "6410fd658700e3a962814b29456d7d99": {
+            "home_team": "Brooklyn Nets",
+            "away_team": "Philadelphia 76ers",
+            "start_time": "2023-04-22T17:00:00Z"
+        },
+        "1234fd1858e9953500e385a14700b1a7": {
+            "home_team": "LA Clippers",
+            "away_team": "Phoenix Suns",
+            "start_time": "2023-04-22T19:30:00Z"
+        },
+        "e34bf4d9fed158be10fe5ef0ce5ed894": {
+            "home_team": "Miami Heat",
+            "away_team": "Milwaukee Bucks",
+            "start_time": "2023-04-22T23:30:00Z"
+        }
+    },
+    "2023-04-23": {
+        "dbceb7d236106a2e8843f1a15624cedb": {
+            "home_team": "Los Angeles Lakers",
+            "away_team": "Memphis Grizzlies",
+            "start_time": "2023-04-23T02:00:00Z"
+        },
+        "2ba2ecbbf1bc32cbfc07074566a68a99": {
+            "home_team": "New York Knicks",
+            "away_team": "Cleveland Cavaliers",
+            "start_time": "2023-04-23T17:00:00Z"
+        },
+        "e39a3da2f5fadfd85a9da3318106a7e2": {
+            "home_team": "Golden State Warriors",
+            "away_team": "Sacramento Kings",
+            "start_time": "2023-04-23T19:30:00Z"
+        },
+        "9f9732e7e846b2d4b935998d5da06261": {
+            "home_team": "Atlanta Hawks",
+            "away_team": "Boston Celtics",
+            "start_time": "2023-04-23T23:00:00Z"
+        }
+    },
+    "2023-04-24": {
+        "1213614e90a3a68e33c4fa6c33871536": {
+            "home_team": "Minnesota Timberwolves",
+            "away_team": "Denver Nuggets",
+            "start_time": "2023-04-24T01:30:00Z"
+        },
+        "40f96b8de1e9729ff7c0c5a29f5378c1": {
+            "home_team": "Philadelphia 76ers",
+            "away_team": "Brooklyn Nets",
+            "start_time": "2023-04-24T04:00:00Z"
+        },
+        "a67920528c9a62f2950307e5cf2501f7": {
+            "home_team": "Miami Heat",
+            "away_team": "Milwaukee Bucks",
+            "start_time": "2023-04-24T23:30:00Z"
+        }
+    },
+    "2023-04-25": {
+        "c55751da43014d248c1d0bbe1c19f71a": {
+            "home_team": "Los Angeles Lakers",
+            "away_team": "Memphis Grizzlies",
+            "start_time": "2023-04-25T02:00:00Z"
+        },
+        "39db0481965b96c6166bbaca7a474651": {
+            "home_team": "Boston Celtics",
+            "away_team": "Atlanta Hawks",
+            "start_time": "2023-04-25T23:30:00Z"
+        }
+    },
+    "2023-04-26": {
+        "5c5cd762c3b90adc29a76f023d2c8506": {
+            "home_team": "Denver Nuggets",
+            "away_team": "Minnesota Timberwolves",
+            "start_time": "2023-04-26T01:00:00Z"
+        },
+        "6b75807644756c992b6db9d82ba5381d": {
+            "home_team": "Phoenix Suns",
+            "away_team": "LA Clippers",
+            "start_time": "2023-04-26T02:00:00Z"
+        },
+        "76e79ab99c204edd0fa977c76eafad78": {
+            "home_team": "Cleveland Cavaliers",
+            "away_team": "New York Knicks",
+            "start_time": "2023-04-26T23:00:00Z"
+        },
+        "a49e1e84d21df8452b4727b36bd13877": {
+            "home_team": "Memphis Grizzlies",
+            "away_team": "Los Angeles Lakers",
+            "start_time": "2023-04-26T23:30:00Z"
+        }
+    },
+    "2023-04-27": {
+        "3c106414e87474b18b6e5c978b1123a7": {
+            "home_team": "Milwaukee Bucks",
+            "away_team": "Miami Heat",
+            "start_time": "2023-04-27T01:30:00Z"
+        },
+        "0cefbb259938c3104b19a118d40bb4fe": {
+            "home_team": "Sacramento Kings",
+            "away_team": "Golden State Warriors",
+            "start_time": "2023-04-27T02:00:00Z"
+        },
+        "c065a3d877dcb8e565d9d59a65177dd7": {
+            "home_team": "Brooklyn Nets",
+            "away_team": "Philadelphia 76ers",
+            "start_time": "2023-04-27T04:00:00Z"
+        },
+        "9c1f75a51abbdff36cf4ef95f334ffb4": {
+            "home_team": "Minnesota Timberwolves",
+            "away_team": "Denver Nuggets",
+            "start_time": "2023-04-27T04:00:00Z"
+        },
+        "27c70ed048a0077b8ac5d683eef148b0": {
+            "home_team": "LA Clippers",
+            "away_team": "Phoenix Suns",
+            "start_time": "2023-04-27T04:00:00Z"
+        }
+    },
+    "2023-04-28": {
+        "48ea5cf48ab1e937af8d7e4d268d1e1b": {
+            "home_team": "Atlanta Hawks",
+            "away_team": "Boston Celtics",
+            "start_time": "2023-04-28T00:30:00Z"
+        },
+        "4864623316605f4833266be6a6d2e507": {
+            "home_team": "New York Knicks",
+            "away_team": "Cleveland Cavaliers",
+            "start_time": "2023-04-28T04:00:00Z"
+        },
+        "3e8ce08c10715f5e5645c513398243c5": {
+            "home_team": "Miami Heat",
+            "away_team": "Milwaukee Bucks",
+            "start_time": "2023-04-28T04:00:00Z"
+        }
+    },
+    "2023-04-29": {
+        "c03071bea64f5795b434c3f15252fb59": {
+            "home_team": "Golden State Warriors",
+            "away_team": "Sacramento Kings",
+            "start_time": "2023-04-29T00:00:00Z"
+        },
+        "5243998e9092f4a022861cc503c8ce9d": {
+            "home_team": "Los Angeles Lakers",
+            "away_team": "Memphis Grizzlies",
+            "start_time": "2023-04-29T02:30:00Z"
+        },
+        "a363cb117def1b145d8cc88d89bd4637": {
+            "home_team": "Boston Celtics",
+            "away_team": "Atlanta Hawks",
+            "start_time": "2023-04-29T04:00:00Z"
+        },
+        "142902eea9443846714522cd92b64b3a": {
+            "home_team": "Philadelphia 76ers",
+            "away_team": "Brooklyn Nets",
+            "start_time": "2023-04-29T04:00:00Z"
+        },
+        "319dfb0197f42c4bdc197b8b506ee732": {
+            "home_team": "Denver Nuggets",
+            "away_team": "Minnesota Timberwolves",
+            "start_time": "2023-04-29T04:00:00Z"
+        },
+        "9638281b888e69ff7fa6dbb611b1f959": {
+            "home_team": "Phoenix Suns",
+            "away_team": "LA Clippers",
+            "start_time": "2023-04-29T04:00:00Z"
+        }
+    },
+    "2023-04-30": {
+        "932d59ce51817c331550ddc99a1235b3": {
+            "home_team": "Denver Nuggets",
+            "away_team": "Phoenix Suns",
+            "start_time": "2023-04-30T00:30:00Z"
+        },
+        "b49b8be964229a9ca0ec5e98f5ac9a69": {
+            "home_team": "Cleveland Cavaliers",
+            "away_team": "New York Knicks",
+            "start_time": "2023-04-30T04:00:00Z"
+        },
+        "aef443ba451d030011d423f85e6af410": {
+            "home_team": "Milwaukee Bucks",
+            "away_team": "Miami Heat",
+            "start_time": "2023-04-30T04:00:00Z"
+        },
+        "16772bf3cb1bdf00985e8b070cd86543": {
+            "home_team": "Memphis Grizzlies",
+            "away_team": "Los Angeles Lakers",
+            "start_time": "2023-04-30T04:00:00Z"
+        },
+        "e0b85b10ba88177587465533b57957b7": {
+            "home_team": "New York Knicks",
+            "away_team": "Miami Heat",
+            "start_time": "2023-04-30T17:00:00Z"
+        },
+        "71d6c6bb626acbebffeedab63fbd30ae": {
+            "home_team": "Sacramento Kings",
+            "away_team": "Golden State Warriors",
+            "start_time": "2023-04-30T19:30:00Z"
+        }
+    },
+    "2023-05-01": {
+        "293f5932d7701dbdd38e049b3bc998dd": {
+            "home_team": "Boston Celtics",
+            "away_team": "Philadelphia 76ers",
+            "start_time": "2023-05-01T23:30:00Z"
+        }
+    },
+    "2023-05-02": {
+        "420fbe2764aadc65f09aa2df75ed6680": {
+            "home_team": "Denver Nuggets",
+            "away_team": "Phoenix Suns",
+            "start_time": "2023-05-02T02:00:00Z"
+        },
+        "bc79b89db28e308f9f7cb4ca51db2a9d": {
+            "home_team": "New York Knicks",
+            "away_team": "Miami Heat",
+            "start_time": "2023-05-02T23:30:00Z"
+        }
+    },
+    "2023-05-03": {
+        "e012bab75156a2414fba68da0eee2da5": {
+            "home_team": "Golden State Warriors",
+            "away_team": "Los Angeles Lakers",
+            "start_time": "2023-05-03T02:00:00Z"
+        }
+    },
+    "2023-05-04": {
+        "9563cc25b697a04186f78a6263410a8d": {
+            "home_team": "Boston Celtics",
+            "away_team": "Philadelphia 76ers",
+            "start_time": "2023-05-04T00:00:00Z"
+        }
+    },
+    "2023-05-05": {
+        "49c8daf0ea1520c23152ff9f9ec60ab8": {
+            "home_team": "Golden State Warriors",
+            "away_team": "Los Angeles Lakers",
+            "start_time": "2023-05-05T01:00:00Z"
+        },
+        "fd69d9728798b16c1af91d00ced90fa5": {
+            "home_team": "Philadelphia 76ers",
+            "away_team": "Boston Celtics",
+            "start_time": "2023-05-05T23:30:00Z"
+        }
+    },
+    "2023-05-06": {
+        "23dfe19c76c874e16c253d990953713c": {
+            "home_team": "Phoenix Suns",
+            "away_team": "Denver Nuggets",
+            "start_time": "2023-05-06T02:00:00Z"
+        },
+        "8f14b1dbd29fd88114e01b127deca0b4": {
+            "home_team": "Miami Heat",
+            "away_team": "New York Knicks",
+            "start_time": "2023-05-06T19:30:00Z"
+        }
+    },
+    "2023-05-07": {
+        "dc2b57709db77157396bf3484fe25ce4": {
+            "home_team": "Los Angeles Lakers",
+            "away_team": "Golden State Warriors",
+            "start_time": "2023-05-07T00:30:00Z"
+        },
+        "a5d3945b50b8229f09f647c476962240": {
+            "home_team": "Philadelphia 76ers",
+            "away_team": "Boston Celtics",
+            "start_time": "2023-05-07T19:30:00Z"
+        }
+    },
+    "2023-05-08": {
+        "5d17247333898dcef28978afbae3d4b6": {
+            "home_team": "Phoenix Suns",
+            "away_team": "Denver Nuggets",
+            "start_time": "2023-05-08T00:00:00Z"
+        },
+        "e6e38ff205df7c5fe477650e45342cf1": {
+            "home_team": "Miami Heat",
+            "away_team": "New York Knicks",
+            "start_time": "2023-05-08T23:30:00Z"
+        }
+    },
+    "2023-05-09": {
+        "b236aa5467bc17ced7a94f9b0a623041": {
+            "home_team": "Los Angeles Lakers",
+            "away_team": "Golden State Warriors",
+            "start_time": "2023-05-09T02:00:00Z"
+        },
+        "dc0a02b77c5176c66746baf86546a3ad": {
+            "home_team": "Boston Celtics",
+            "away_team": "Philadelphia 76ers",
+            "start_time": "2023-05-09T23:30:00Z"
+        }
+    },
+    "2023-05-10": {
+        "b13a682fab35fa471075b948a5b48b99": {
+            "home_team": "Denver Nuggets",
+            "away_team": "Phoenix Suns",
+            "start_time": "2023-05-10T02:00:00Z"
+        },
+        "fe7117c2feb4aec1bea079fa733481ab": {
+            "home_team": "New York Knicks",
+            "away_team": "Miami Heat",
+            "start_time": "2023-05-10T23:30:00Z"
+        }
+    },
+    "2023-05-11": {
+        "3841c7411bd6873794449055603eebf7": {
+            "home_team": "Golden State Warriors",
+            "away_team": "Los Angeles Lakers",
+            "start_time": "2023-05-11T02:00:00Z"
+        },
+        "a51e6db725f1265de497a9a3827a452d": {
+            "home_team": "Philadelphia 76ers",
+            "away_team": "Boston Celtics",
+            "start_time": "2023-05-11T23:30:00Z"
+        }
+    },
+    "2023-05-12": {
+        "3281cf3d3d05c6afdecd6a748deaec83": {
+            "home_team": "Phoenix Suns",
+            "away_team": "Denver Nuggets",
+            "start_time": "2023-05-12T02:00:00Z"
+        },
+        "530dcedbde33922b4118ed5a05b6f34b": {
+            "home_team": "Miami Heat",
+            "away_team": "New York Knicks",
+            "start_time": "2023-05-12T23:30:00Z"
+        }
+    },
+    "2023-05-13": {
+        "441d372a9822412b6ae0e37a67a0c01f": {
+            "home_team": "Los Angeles Lakers",
+            "away_team": "Golden State Warriors",
+            "start_time": "2023-05-13T02:00:00Z"
+        }
+    },
+    "2023-05-14": {
+        "c7e822e95904b3084ba380bf2fa7f4ac": {
+            "home_team": "Denver Nuggets",
+            "away_team": "Phoenix Suns",
+            "start_time": "2023-05-14T04:00:00Z"
+        },
+        "c5649e6bdb0b4b4dfa7454d1ba86bd39": {
+            "home_team": "Golden State Warriors",
+            "away_team": "Los Angeles Lakers",
+            "start_time": "2023-05-14T04:00:00Z"
+        },
+        "15b95c3c12a6aa083d77685cf60c92c0": {
+            "home_team": "Boston Celtics",
+            "away_team": "Philadelphia 76ers",
+            "start_time": "2023-05-14T19:30:00Z"
+        }
+    },
+    "2023-05-16": {
+        "34eea0d7834cbe0e3b65db15d17fc119": {
+            "home_team": "New York Knicks",
+            "away_team": "Miami Heat",
+            "start_time": "2023-05-16T00:00:00Z"
+        }
+    },
+    "2023-05-17": {
+        "d933223ffbf092abcde745e058c486f6": {
+            "home_team": "Denver Nuggets",
+            "away_team": "Los Angeles Lakers",
+            "start_time": "2023-05-17T00:30:00Z"
+        }
+    },
+    "2023-05-18": {
+        "946bc3a093ba41074cec069049342109": {
+            "home_team": "Boston Celtics",
+            "away_team": "Miami Heat",
+            "start_time": "2023-05-18T00:30:00Z"
+        }
+    },
+    "2023-05-19": {
+        "f6520508500835ab1618b3feeb3806de": {
+            "home_team": "Denver Nuggets",
+            "away_team": "Los Angeles Lakers",
+            "start_time": "2023-05-19T00:30:00Z"
+        }
+    },
+    "2023-05-20": {
+        "cdc48c29e15a253444a02aa46264424a": {
+            "home_team": "Boston Celtics",
+            "away_team": "Miami Heat",
+            "start_time": "2023-05-20T00:30:00Z"
+        }
+    },
+    "2023-10-24": {
+        "4622c02f9bd1df188631c86e04036049": {
+            "home_team": "Denver Nuggets",
+            "away_team": "Los Angeles Lakers",
+            "start_time": "2023-10-24T23:30:00Z"
+        }
+    },
+    "2023-10-25": {
+        "9b3130e607f80aa4912aa184e2f4eab3": {
+            "home_team": "Golden State Warriors",
+            "away_team": "Phoenix Suns",
+            "start_time": "2023-10-25T02:00:00Z"
+        },
+        "4eec3d2ccf41b67f09948cb36fceee16": {
+            "home_team": "Charlotte Hornets",
+            "away_team": "Atlanta Hawks",
+            "start_time": "2023-10-25T23:00:00Z"
+        },
+        "04ebbb84dbf8f85789639293d764e98c": {
+            "home_team": "Indiana Pacers",
+            "away_team": "Washington Wizards",
+            "start_time": "2023-10-25T23:00:00Z"
+        },
+        "fc4c2016a5ccbb267aa0d569b1a49283": {
+            "home_team": "New York Knicks",
+            "away_team": "Boston Celtics",
+            "start_time": "2023-10-25T23:00:00Z"
+        },
+        "bc223a7e24fbf5cb9c6eecd0f016f38d": {
+            "home_team": "Orlando Magic",
+            "away_team": "Houston Rockets",
+            "start_time": "2023-10-25T23:00:00Z"
+        },
+        "9df5a18ec404f6abe1632c9244f4a5d4": {
+            "home_team": "Brooklyn Nets",
+            "away_team": "Cleveland Cavaliers",
+            "start_time": "2023-10-25T23:30:00Z"
+        },
+        "e144f29faba3f74fa2cfcff3a453c9f5": {
+            "home_team": "Miami Heat",
+            "away_team": "Detroit Pistons",
+            "start_time": "2023-10-25T23:30:00Z"
+        },
+        "2ac182b5f3deb3427fff7b20ef6923a7": {
+            "home_team": "Toronto Raptors",
+            "away_team": "Minnesota Timberwolves",
+            "start_time": "2023-10-25T23:30:00Z"
+        }
+    },
+    "2023-10-26": {
+        "9a246f4d94b4e81172c11e29f73c061b": {
+            "home_team": "Chicago Bulls",
+            "away_team": "Oklahoma City Thunder",
+            "start_time": "2023-10-26T00:00:00Z"
+        },
+        "e7aa4c6ee075887eac8a07785a9f81db": {
+            "home_team": "Memphis Grizzlies",
+            "away_team": "New Orleans Pelicans",
+            "start_time": "2023-10-26T00:00:00Z"
+        },
+        "3da05abaf29cf6c907253180fca9b256": {
+            "home_team": "Utah Jazz",
+            "away_team": "Sacramento Kings",
+            "start_time": "2023-10-26T01:00:00Z"
+        },
+        "5bb0e95012a4c67ec9eb95fedb933e6a": {
+            "home_team": "San Antonio Spurs",
+            "away_team": "Dallas Mavericks",
+            "start_time": "2023-10-26T01:30:00Z"
+        },
+        "14b35b5784ae5cbadba6824cb6fcee98": {
+            "home_team": "LA Clippers",
+            "away_team": "Portland Trail Blazers",
+            "start_time": "2023-10-26T02:30:00Z"
+        },
+        "1eb9915d586c87719ec6934863667a14": {
+            "home_team": "Milwaukee Bucks",
+            "away_team": "Philadelphia 76ers",
+            "start_time": "2023-10-26T23:30:00Z"
+        }
+    },
+    "2023-10-27": {
+        "8a673a488573ce37a3bdd7f0c1fd5d3a": {
+            "home_team": "Los Angeles Lakers",
+            "away_team": "Phoenix Suns",
+            "start_time": "2023-10-27T02:00:00Z"
+        },
+        "c8872ae6d185dc314178da88dcf254d5": {
+            "home_team": "Charlotte Hornets",
+            "away_team": "Detroit Pistons",
+            "start_time": "2023-10-27T23:00:00Z"
+        },
+        "14a8cbe914ca50ec6301efbb2a09a906": {
+            "home_team": "Memphis Grizzlies",
+            "away_team": "Denver Nuggets",
+            "start_time": "2023-10-27T23:00:00Z"
+        },
+        "4741f49b87ab73c0a5add62a4f48f992": {
+            "home_team": "Atlanta Hawks",
+            "away_team": "New York Knicks",
+            "start_time": "2023-10-27T23:30:00Z"
+        },
+        "2837480dec215a9c39bcc7a8873280e2": {
+            "home_team": "Boston Celtics",
+            "away_team": "Miami Heat",
+            "start_time": "2023-10-27T23:30:00Z"
+        },
+        "0c6162d6c90f9fc161fb06ac0ad46e38": {
+            "home_team": "Cleveland Cavaliers",
+            "away_team": "Oklahoma City Thunder",
+            "start_time": "2023-10-27T23:30:00Z"
+        }
+    },
+    "2023-10-28": {
+        "29ea738c1de18c8f28c09966bb267752": {
+            "home_team": "Chicago Bulls",
+            "away_team": "Toronto Raptors",
+            "start_time": "2023-10-28T00:00:00Z"
+        },
+        "b648f3bec470d6c24c43eab0902cf083": {
+            "home_team": "San Antonio Spurs",
+            "away_team": "Houston Rockets",
+            "start_time": "2023-10-28T00:00:00Z"
+        },
+        "5e902239ce38cccede66c182ced2b9f2": {
+            "home_team": "Dallas Mavericks",
+            "away_team": "Brooklyn Nets",
+            "start_time": "2023-10-28T00:30:00Z"
+        },
+        "36cc02aebbd57205da4ee51be27f1424": {
+            "home_team": "Utah Jazz",
+            "away_team": "LA Clippers",
+            "start_time": "2023-10-28T01:30:00Z"
+        },
+        "bb94e98ccf73f1a630cacf594ac232d2": {
+            "home_team": "Portland Trail Blazers",
+            "away_team": "Orlando Magic",
+            "start_time": "2023-10-28T02:00:00Z"
+        },
+        "f91f9d07281365808aa62ea443998bd9": {
+            "home_team": "Sacramento Kings",
+            "away_team": "Golden State Warriors",
+            "start_time": "2023-10-28T02:00:00Z"
+        },
+        "0d19f0f68bb3de882ab3fc019e1618aa": {
+            "home_team": "Detroit Pistons",
+            "away_team": "Chicago Bulls",
+            "start_time": "2023-10-28T23:00:00Z"
+        },
+        "23c5a2389ecae108083e3f2bb1d40a04": {
+            "home_team": "Washington Wizards",
+            "away_team": "Memphis Grizzlies",
+            "start_time": "2023-10-28T23:00:00Z"
+        },
+        "d24ff2523b81c9b7e662e2e45b8b2a9b": {
+            "home_team": "New Orleans Pelicans",
+            "away_team": "New York Knicks",
+            "start_time": "2023-10-28T23:00:00Z"
+        },
+        "31625d1b9a2b0e2e217ca8a3838cb6ed": {
+            "home_team": "Cleveland Cavaliers",
+            "away_team": "Indiana Pacers",
+            "start_time": "2023-10-28T23:30:00Z"
+        },
+        "fd82589c1de3cfd02bea4dc65a3cb4d4": {
+            "home_team": "Toronto Raptors",
+            "away_team": "Philadelphia 76ers",
+            "start_time": "2023-10-28T23:30:00Z"
+        }
+    },
+    "2023-10-29": {
+        "9f8490f5a9773532f4cfad9d3c800d4d": {
+            "home_team": "Minnesota Timberwolves",
+            "away_team": "Miami Heat",
+            "start_time": "2023-10-29T00:00:00Z"
+        },
+        "0da0b1b53777903462a23e598a1bf236": {
+            "home_team": "Phoenix Suns",
+            "away_team": "Utah Jazz",
+            "start_time": "2023-10-29T02:00:00Z"
+        },
+        "de25fc68b2ad92466dbfde1413d36bc4": {
+            "home_team": "Oklahoma City Thunder",
+            "away_team": "Denver Nuggets",
+            "start_time": "2023-10-29T19:30:00Z"
+        },
+        "9c9c28844987db07b9f3a96f5265bb8a": {
+            "home_team": "Houston Rockets",
+            "away_team": "Golden State Warriors",
+            "start_time": "2023-10-29T23:00:00Z"
+        },
+        "b9d80173049b2a752e52672b1c3d46e7": {
+            "home_team": "Milwaukee Bucks",
+            "away_team": "Atlanta Hawks",
+            "start_time": "2023-10-29T23:00:00Z"
+        },
+        "ead80eec2120f49e3232a704112c319a": {
+            "home_team": "Philadelphia 76ers",
+            "away_team": "Portland Trail Blazers",
+            "start_time": "2023-10-29T23:30:00Z"
+        }
+    },
+    "2023-10-30": {
+        "d996c6412e7179682ca8ef09b750f638": {
+            "home_team": "LA Clippers",
+            "away_team": "San Antonio Spurs",
+            "start_time": "2023-10-30T01:00:00Z"
+        },
+        "105fbe767ce5d1f9a97fe653861c2da4": {
+            "home_team": "Sacramento Kings",
+            "away_team": "Los Angeles Lakers",
+            "start_time": "2023-10-30T01:00:00Z"
+        },
+        "8e89f1c32afb2db5b73e43a3c5ba0f5a": {
+            "home_team": "Charlotte Hornets",
+            "away_team": "Brooklyn Nets",
+            "start_time": "2023-10-30T23:00:00Z"
+        },
+        "5ede552cdf581985eec76466a053c9d8": {
+            "home_team": "Indiana Pacers",
+            "away_team": "Chicago Bulls",
+            "start_time": "2023-10-30T23:00:00Z"
+        },
+        "f5a0f14b0d5578bf940e20c19c2af45b": {
+            "home_team": "Washington Wizards",
+            "away_team": "Boston Celtics",
+            "start_time": "2023-10-30T23:00:00Z"
+        },
+        "680a2a2643d5b327f2858916572a8de7": {
+            "home_team": "Atlanta Hawks",
+            "away_team": "Minnesota Timberwolves",
+            "start_time": "2023-10-30T23:30:00Z"
+        },
+        "2ac4831a2541b259c7cb6ab7ac090f26": {
+            "home_team": "Toronto Raptors",
+            "away_team": "Portland Trail Blazers",
+            "start_time": "2023-10-30T23:30:00Z"
+        }
+    }
+}

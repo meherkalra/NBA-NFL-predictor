@@ -1,0 +1,455 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_rebounds_over_under,sandro mamukelashvili,True,7.5,-102,2023-03-22T00:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_points_over_under,sandro mamukelashvili,False,20.5,-800,2023-03-22T02:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_points_over_under,sandro mamukelashvili,False,19.5,-166,2023-03-22T01:45:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_points_over_under,sandro mamukelashvili,False,17.5,-102,2023-03-22T01:30:02,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_points_over_under,sandro mamukelashvili,False,16.5,-162,2023-03-22T01:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_points_over_under,sandro mamukelashvili,False,15.5,114,2023-03-22T00:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_points_over_under,sandro mamukelashvili,False,11.5,-120,2023-03-21T22:45:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_points_over_under,sandro mamukelashvili,False,10.5,-130,2023-03-22T00:00:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_points_over_under,sandro mamukelashvili,False,9.5,104,2023-03-21T23:45:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_points_over_under,sandro mamukelashvili,True,20.5,450,2023-03-22T02:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_points_over_under,sandro mamukelashvili,True,19.5,124,2023-03-22T01:45:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_points_over_under,sandro mamukelashvili,True,17.5,-130,2023-03-22T01:30:02,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_points_over_under,sandro mamukelashvili,True,16.5,122,2023-03-22T01:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_points_over_under,sandro mamukelashvili,True,15.5,-152,2023-03-22T00:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_points_over_under,sandro mamukelashvili,True,11.5,-102,2023-03-21T22:45:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_points_over_under,sandro mamukelashvili,True,10.5,106,2023-03-22T00:00:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_points_over_under,sandro mamukelashvili,True,8.5,-115,2023-03-23T00:00:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_points_over_under,sandro mamukelashvili,False,8.5,-105,2023-03-23T00:00:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_rebounds_over_under,sandro mamukelashvili,True,4.5,-134,2023-03-23T00:00:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_rebounds_over_under,sandro mamukelashvili,False,4.5,110,2023-03-23T00:00:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_rebounds_over_under,sandro mamukelashvili,True,4.5,-230,2023-03-22T01:45:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_points_over_under,sandro mamukelashvili,True,9.5,-128,2023-03-21T23:45:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_rebounds_over_under,sandro mamukelashvili,True,5.5,630,2023-03-22T02:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_rebounds_over_under,sandro mamukelashvili,True,8.5,-118,2023-03-22T00:45:02,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_threes_over_under,sandro mamukelashvili,True,3.5,1000,2023-03-22T02:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_threes_over_under,sandro mamukelashvili,False,1.5,-162,2023-03-22T01:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_threes_over_under,sandro mamukelashvili,False,2.5,-290,2023-03-22T01:30:02,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_threes_over_under,sandro mamukelashvili,False,3.5,-50000,2023-03-22T02:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_steals_over_under,sandro mamukelashvili,False,3.5,-100000,2023-03-22T02:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_steals_over_under,sandro mamukelashvili,False,2.5,-2200,2023-03-22T01:45:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_steals_over_under,sandro mamukelashvili,False,1.5,-800,2023-03-22T01:30:02,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_steals_over_under,sandro mamukelashvili,False,0.5,-205,2023-03-22T00:45:02,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_steals_over_under,sandro mamukelashvili,True,3.5,1000,2023-03-22T02:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_steals_over_under,sandro mamukelashvili,True,2.5,800,2023-03-22T01:45:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_steals_over_under,sandro mamukelashvili,True,1.5,450,2023-03-22T01:30:02,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_steals_over_under,sandro mamukelashvili,True,0.5,152,2023-03-22T00:45:02,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_rebounds_over_under,sandro mamukelashvili,False,9.5,-152,2023-03-22T00:30:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_rebounds_over_under,sandro mamukelashvili,False,8.5,-114,2023-03-22T00:45:02,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_rebounds_over_under,sandro mamukelashvili,False,7.5,-130,2023-03-22T00:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_rebounds_over_under,sandro mamukelashvili,False,6.5,-104,2023-03-22T01:00:02,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_rebounds_over_under,sandro mamukelashvili,False,5.5,-1400,2023-03-22T02:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_rebounds_over_under,sandro mamukelashvili,False,4.5,168,2023-03-22T01:45:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_rebounds_over_under,sandro mamukelashvili,True,9.5,114,2023-03-22T00:30:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_rebounds_over_under,sandro mamukelashvili,True,6.5,-128,2023-03-22T01:00:02,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_threes_over_under,sandro mamukelashvili,True,2.5,205,2023-03-22T01:30:02,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_blocks_over_under,sandro mamukelashvili,False,0.5,-100000,2023-03-22T02:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_assists_over_under,sandro mamukelashvili,False,3.5,-10000,2023-03-22T02:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_blocks_over_under,sandro mamukelashvili,True,0.5,1000,2023-03-22T02:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_assists_over_under,sandro mamukelashvili,True,2.5,-136,2023-03-22T01:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_threes_over_under,sandro mamukelashvili,True,1.5,122,2023-03-22T01:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_assists_over_under,sandro mamukelashvili,True,3.5,1000,2023-03-22T02:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_assists_over_under,sandro mamukelashvili,False,2.5,102,2023-03-22T01:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_threes_over_under,sandro mamukelashvili,False,1.5,-194,2023-03-24T23:15:02,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_assists_over_under,sandro mamukelashvili,True,1.5,-205,2023-03-25T00:15:02,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_assists_over_under,sandro mamukelashvili,True,2.5,140,2023-03-24T23:30:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_assists_over_under,sandro mamukelashvili,True,3.5,225,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_assists_over_under,sandro mamukelashvili,False,1.5,152,2023-03-25T00:15:02,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_assists_over_under,sandro mamukelashvili,False,2.5,-188,2023-03-24T23:30:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_assists_over_under,sandro mamukelashvili,False,3.5,-320,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_blocks_over_under,sandro mamukelashvili,True,0.5,800,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_blocks_over_under,sandro mamukelashvili,False,0.5,-2200,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,sandro mamukelashvili,True,10.5,-124,2023-03-24T23:00:02,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,sandro mamukelashvili,True,12.5,-140,2023-03-25T00:45:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,sandro mamukelashvili,True,14.5,-118,2023-03-24T23:45:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,sandro mamukelashvili,True,15.5,-136,2023-03-24T23:30:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,sandro mamukelashvili,True,11.5,-166,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,sandro mamukelashvili,False,11.5,124,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_threes_over_under,sandro mamukelashvili,False,0.5,-420,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,sandro mamukelashvili,False,10.5,102,2023-03-24T23:00:02,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_threes_over_under,sandro mamukelashvili,True,0.5,280,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_steals_over_under,sandro mamukelashvili,False,0.5,-1200,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_steals_over_under,sandro mamukelashvili,True,0.5,580,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_rebounds_over_under,sandro mamukelashvili,False,7.5,-130,2023-03-25T00:30:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_threes_over_under,sandro mamukelashvili,True,1.5,144,2023-03-24T23:15:02,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_rebounds_over_under,sandro mamukelashvili,True,7.5,-102,2023-03-25T00:30:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_rebounds_over_under,sandro mamukelashvili,False,6.5,-210,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,sandro mamukelashvili,False,12.5,106,2023-03-25T00:45:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,sandro mamukelashvili,False,13.5,108,2023-03-25T00:30:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,sandro mamukelashvili,True,13.5,-144,2023-03-25T00:30:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,sandro mamukelashvili,False,15.5,102,2023-03-24T23:30:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_rebounds_over_under,sandro mamukelashvili,True,6.5,154,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,sandro mamukelashvili,False,14.5,-112,2023-03-24T23:45:01,Washington Wizards,San Antonio Spurs
+2023-03-29,43056536e1f256a358f25f71b7340b14,fanduel,player_rebounds_over_under,sandro mamukelashvili,False,6.5,-122,2023-03-30T00:00:01,San Antonio Spurs,Utah Jazz
+2023-03-29,43056536e1f256a358f25f71b7340b14,fanduel,player_rebounds_over_under,sandro mamukelashvili,False,5.5,118,2023-03-29T18:30:01,San Antonio Spurs,Utah Jazz
+2023-03-29,43056536e1f256a358f25f71b7340b14,fanduel,player_rebounds_over_under,sandro mamukelashvili,True,5.5,-144,2023-03-29T18:30:01,San Antonio Spurs,Utah Jazz
+2023-03-29,43056536e1f256a358f25f71b7340b14,fanduel,player_points_over_under,sandro mamukelashvili,False,9.5,-115,2023-03-30T00:00:01,San Antonio Spurs,Utah Jazz
+2023-03-29,43056536e1f256a358f25f71b7340b14,fanduel,player_points_over_under,sandro mamukelashvili,False,8.5,106,2023-03-29T20:15:01,San Antonio Spurs,Utah Jazz
+2023-03-29,43056536e1f256a358f25f71b7340b14,fanduel,player_points_over_under,sandro mamukelashvili,True,9.5,-105,2023-03-30T00:00:01,San Antonio Spurs,Utah Jazz
+2023-03-29,43056536e1f256a358f25f71b7340b14,fanduel,player_points_over_under,sandro mamukelashvili,True,8.5,-130,2023-03-29T20:15:01,San Antonio Spurs,Utah Jazz
+2023-03-29,43056536e1f256a358f25f71b7340b14,fanduel,player_rebounds_over_under,sandro mamukelashvili,True,6.5,100,2023-03-30T00:00:01,San Antonio Spurs,Utah Jazz
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_threes_over_under,sandro mamukelashvili,False,0.5,-2000,2023-04-01T04:16:01,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_threes_over_under,sandro mamukelashvili,False,1.5,-250,2023-04-01T02:26:02,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_rebounds_over_under,sandro mamukelashvili,True,7.5,102,2023-04-01T02:50:01,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_points_over_under,sandro mamukelashvili,False,11.5,130,2023-04-01T03:32:01,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_points_over_under,sandro mamukelashvili,False,10.5,-136,2023-04-01T02:50:01,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_points_over_under,sandro mamukelashvili,False,9.5,-114,2023-04-01T02:48:01,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_points_over_under,sandro mamukelashvili,True,15.5,-125,2023-04-01T04:00:01,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_points_over_under,sandro mamukelashvili,True,14.5,154,2023-04-01T04:14:01,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_points_over_under,sandro mamukelashvili,True,13.5,-154,2023-04-01T04:18:01,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_points_over_under,sandro mamukelashvili,True,12.5,-108,2023-04-01T03:54:02,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_points_over_under,sandro mamukelashvili,True,11.5,-174,2023-04-01T03:32:01,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_points_over_under,sandro mamukelashvili,True,10.5,102,2023-04-01T02:50:01,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_points_over_under,sandro mamukelashvili,False,12.5,-122,2023-04-01T03:54:02,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_assists_over_under,sandro mamukelashvili,True,1.5,-192,2023-04-01T02:16:01,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_assists_over_under,sandro mamukelashvili,True,3.5,188,2023-04-01T03:06:02,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_assists_over_under,sandro mamukelashvili,True,4.5,490,2023-04-01T04:18:01,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_assists_over_under,sandro mamukelashvili,False,1.5,142,2023-04-01T02:16:01,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_assists_over_under,sandro mamukelashvili,False,2.5,-210,2023-04-01T02:14:01,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_assists_over_under,sandro mamukelashvili,False,3.5,-260,2023-04-01T03:06:02,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_assists_over_under,sandro mamukelashvili,False,4.5,-900,2023-04-01T04:18:01,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_blocks_over_under,sandro mamukelashvili,True,0.5,520,2023-04-01T03:30:01,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_blocks_over_under,sandro mamukelashvili,True,1.5,1000,2023-04-01T04:02:01,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_blocks_over_under,sandro mamukelashvili,False,0.5,-1000,2023-04-01T03:30:01,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_assists_over_under,sandro mamukelashvili,True,2.5,154,2023-04-01T02:14:01,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_blocks_over_under,sandro mamukelashvili,False,1.5,-10000,2023-04-01T04:16:01,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_points_over_under,sandro mamukelashvili,False,13.5,116,2023-04-01T04:18:01,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_points_over_under,sandro mamukelashvili,False,15.5,-106,2023-04-01T04:00:01,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_threes_over_under,sandro mamukelashvili,True,1.5,182,2023-04-01T02:26:02,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_threes_over_under,sandro mamukelashvili,True,0.5,750,2023-04-01T04:16:01,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_steals_over_under,sandro mamukelashvili,False,1.5,-5000,2023-04-01T04:16:01,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_steals_over_under,sandro mamukelashvili,False,0.5,-275,2023-04-01T03:06:02,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_steals_over_under,sandro mamukelashvili,True,1.5,1000,2023-04-01T04:16:01,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_steals_over_under,sandro mamukelashvili,True,0.5,198,2023-04-01T03:06:02,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_rebounds_over_under,sandro mamukelashvili,False,13.5,-198,2023-04-01T03:44:01,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_rebounds_over_under,sandro mamukelashvili,False,12.5,100,2023-04-01T04:00:01,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_rebounds_over_under,sandro mamukelashvili,False,11.5,-166,2023-04-01T04:18:01,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_points_over_under,sandro mamukelashvili,False,14.5,-210,2023-04-01T04:14:01,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_rebounds_over_under,sandro mamukelashvili,False,10.5,124,2023-04-01T03:02:01,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_rebounds_over_under,sandro mamukelashvili,False,7.5,-136,2023-04-01T02:50:01,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_rebounds_over_under,sandro mamukelashvili,False,6.5,110,2023-04-01T02:48:01,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_rebounds_over_under,sandro mamukelashvili,True,13.5,146,2023-04-01T03:44:01,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_rebounds_over_under,sandro mamukelashvili,True,12.5,-132,2023-04-01T04:00:01,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_rebounds_over_under,sandro mamukelashvili,True,11.5,124,2023-04-01T04:18:01,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_rebounds_over_under,sandro mamukelashvili,True,10.5,-166,2023-04-01T03:02:01,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_rebounds_over_under,sandro mamukelashvili,True,8.5,110,2023-04-01T02:26:02,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_rebounds_over_under,sandro mamukelashvili,True,6.5,-146,2023-04-01T02:48:01,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_rebounds_over_under,sandro mamukelashvili,False,8.5,-146,2023-04-01T02:26:02,Golden State Warriors,San Antonio Spurs
+2023-03-31,2a193027992b1e00babebabc2ecb76dd,fanduel,player_points_over_under,sandro mamukelashvili,True,9.5,-114,2023-04-01T02:48:01,Golden State Warriors,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_assists_over_under,sandro mamukelashvili,True,0.5,116,2023-04-02T23:48:01,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_assists_over_under,sandro mamukelashvili,True,1.5,1000,2023-04-03T00:12:01,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_threes_over_under,sandro mamukelashvili,False,0.5,-50000,2023-04-03T00:22:02,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_assists_over_under,sandro mamukelashvili,False,0.5,-154,2023-04-02T23:48:01,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_threes_over_under,sandro mamukelashvili,False,1.5,-270,2023-04-02T22:30:01,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_assists_over_under,sandro mamukelashvili,False,1.5,-50000,2023-04-03T00:22:02,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_blocks_over_under,sandro mamukelashvili,True,0.5,1000,2023-04-03T00:08:01,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_blocks_over_under,sandro mamukelashvili,False,0.5,-100000,2023-04-03T00:12:01,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_points_over_under,sandro mamukelashvili,True,5.5,-200,2023-04-02T23:58:01,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_points_over_under,sandro mamukelashvili,True,6.5,630,2023-04-03T00:22:02,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_points_over_under,sandro mamukelashvili,True,8.5,102,2023-04-02T22:56:01,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_points_over_under,sandro mamukelashvili,True,9.5,116,2023-04-02T22:44:01,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_points_over_under,sandro mamukelashvili,True,10.5,100,2023-04-02T22:34:02,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_points_over_under,sandro mamukelashvili,False,5.5,148,2023-04-02T23:58:01,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_points_over_under,sandro mamukelashvili,False,6.5,-1400,2023-04-03T00:22:02,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_points_over_under,sandro mamukelashvili,False,7.5,154,2023-04-03T00:02:02,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_points_over_under,sandro mamukelashvili,False,8.5,-136,2023-04-02T22:56:01,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_points_over_under,sandro mamukelashvili,False,9.5,-154,2023-04-02T22:44:01,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_points_over_under,sandro mamukelashvili,True,7.5,-210,2023-04-03T00:02:02,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_steals_over_under,sandro mamukelashvili,True,1.5,1000,2023-04-03T00:08:01,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_steals_over_under,sandro mamukelashvili,False,1.5,-100000,2023-04-03T00:12:01,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_steals_over_under,sandro mamukelashvili,False,0.5,-188,2023-04-02T22:26:01,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_threes_over_under,sandro mamukelashvili,True,0.5,1000,2023-04-03T00:08:01,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_steals_over_under,sandro mamukelashvili,True,0.5,140,2023-04-02T22:26:01,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_rebounds_over_under,sandro mamukelashvili,False,6.5,-194,2023-04-03T00:02:02,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_rebounds_over_under,sandro mamukelashvili,False,5.5,-3000,2023-04-03T00:22:02,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_threes_over_under,sandro mamukelashvili,True,1.5,194,2023-04-02T22:30:01,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_rebounds_over_under,sandro mamukelashvili,False,3.5,-152,2023-04-02T23:56:01,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_rebounds_over_under,sandro mamukelashvili,True,6.5,144,2023-04-03T00:02:02,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_rebounds_over_under,sandro mamukelashvili,True,5.5,880,2023-04-03T00:22:02,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_rebounds_over_under,sandro mamukelashvili,True,4.5,152,2023-04-02T23:58:01,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_rebounds_over_under,sandro mamukelashvili,True,3.5,114,2023-04-02T23:56:01,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_rebounds_over_under,sandro mamukelashvili,False,4.5,-205,2023-04-02T23:58:01,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_points_over_under,sandro mamukelashvili,False,10.5,-132,2023-04-02T22:34:02,Sacramento Kings,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,fanduel,player_rebounds_over_under,sandro mamukelashvili,False,7.5,124,2023-04-05T03:45:01,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,fanduel,player_rebounds_over_under,sandro mamukelashvili,False,6.5,-1400,2023-04-05T04:00:02,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_points_over_under,sandro mamukelashvili,True,13.5,-160,2023-04-05T03:45:01,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,fanduel,player_rebounds_over_under,sandro mamukelashvili,False,9.5,-132,2023-04-05T02:15:01,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_rebounds_over_under,sandro mamukelashvili,True,6.5,350,2023-04-05T04:00:02,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,fanduel,player_rebounds_over_under,sandro mamukelashvili,True,9.5,100,2023-04-05T02:15:01,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_rebounds_over_under,sandro mamukelashvili,True,7.5,160,2023-04-05T03:45:01,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,fanduel,player_rebounds_over_under,sandro mamukelashvili,False,8.5,-112,2023-04-05T03:00:01,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,fanduel,player_rebounds_over_under,sandro mamukelashvili,True,8.5,-118,2023-04-05T03:00:01,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_points_over_under,sandro mamukelashvili,False,11.5,100,2023-04-05T03:00:01,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,fanduel,player_rebounds_over_under,sandro mamukelashvili,True,6.5,630,2023-04-05T04:00:02,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_points_over_under,sandro mamukelashvili,False,12.5,-115,2023-04-04T22:40:45,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_points_over_under,sandro mamukelashvili,False,13.5,120,2023-04-05T03:45:01,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_points_over_under,sandro mamukelashvili,False,12.5,-310,2023-04-05T04:00:02,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_points_over_under,sandro mamukelashvili,False,10.5,-125,2023-04-05T02:45:02,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_points_over_under,sandro mamukelashvili,True,12.5,-115,2023-04-04T22:40:45,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_points_over_under,sandro mamukelashvili,True,15.5,-140,2023-04-05T03:30:01,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_rebounds_over_under,sandro mamukelashvili,True,8.5,-120,2023-04-05T03:15:01,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,fanduel,player_rebounds_over_under,sandro mamukelashvili,True,7.5,-166,2023-04-05T03:45:01,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_rebounds_over_under,sandro mamukelashvili,True,9.5,100,2023-04-05T02:15:01,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,fanduel,player_threes_over_under,sandro mamukelashvili,False,1.5,-50000,2023-04-05T04:00:02,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_rebounds_over_under,sandro mamukelashvili,False,6.5,-550,2023-04-05T04:00:02,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_points_over_under,sandro mamukelashvili,True,12.5,220,2023-04-05T04:00:02,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_threes_over_under,sandro mamukelashvili,False,1.5,-550,2023-04-05T03:45:01,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_threes_over_under,sandro mamukelashvili,False,0.5,-135,2023-04-05T03:00:01,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_threes_over_under,sandro mamukelashvili,False,1.5,-175,2023-04-04T22:40:45,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_threes_over_under,sandro mamukelashvili,True,1.5,350,2023-04-05T03:45:01,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_threes_over_under,sandro mamukelashvili,True,0.5,100,2023-04-05T03:00:01,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_threes_over_under,sandro mamukelashvili,True,1.5,140,2023-04-04T22:40:45,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,fanduel,player_threes_over_under,sandro mamukelashvili,False,0.5,-136,2023-04-05T03:00:01,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,fanduel,player_threes_over_under,sandro mamukelashvili,True,1.5,1000,2023-04-05T04:00:02,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_rebounds_over_under,sandro mamukelashvili,True,7.5,-140,2023-04-04T22:40:45,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,fanduel,player_threes_over_under,sandro mamukelashvili,True,0.5,102,2023-04-05T03:00:01,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_steals_over_under,sandro mamukelashvili,False,0.5,-105,2023-04-04T22:40:45,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_steals_over_under,sandro mamukelashvili,True,0.5,650,2023-04-05T03:45:01,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_steals_over_under,sandro mamukelashvili,True,0.5,-125,2023-04-04T22:40:45,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,fanduel,player_steals_over_under,sandro mamukelashvili,False,0.5,-100000,2023-04-05T04:00:02,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,fanduel,player_steals_over_under,sandro mamukelashvili,True,0.5,1000,2023-04-05T04:00:02,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_rebounds_over_under,sandro mamukelashvili,False,7.5,110,2023-04-04T22:40:45,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_rebounds_over_under,sandro mamukelashvili,False,9.5,-130,2023-04-05T02:15:01,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_rebounds_over_under,sandro mamukelashvili,False,8.5,-110,2023-04-05T03:15:01,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_rebounds_over_under,sandro mamukelashvili,False,7.5,-220,2023-04-05T03:45:01,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_steals_over_under,sandro mamukelashvili,False,0.5,-1400,2023-04-05T03:45:01,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_points_over_under,sandro mamukelashvili,True,11.5,-135,2023-04-05T03:00:01,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_points_over_under,sandro mamukelashvili,False,15.5,105,2023-04-05T03:30:01,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,fanduel,player_points_over_under,sandro mamukelashvili,False,15.5,-112,2023-04-05T03:30:01,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,fanduel,player_assists_over_under,sandro mamukelashvili,True,2.5,1000,2023-04-05T04:00:02,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,fanduel,player_assists_over_under,sandro mamukelashvili,True,3.5,154,2023-04-05T02:15:01,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,fanduel,player_assists_over_under,sandro mamukelashvili,False,2.5,-10000,2023-04-05T04:00:02,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,fanduel,player_assists_over_under,sandro mamukelashvili,False,3.5,-210,2023-04-05T02:15:01,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_assists_over_under,sandro mamukelashvili,True,2.5,1000,2023-04-05T04:00:02,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_assists_over_under,sandro mamukelashvili,True,2.5,125,2023-04-04T22:40:45,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_assists_over_under,sandro mamukelashvili,False,2.5,-5000,2023-04-05T04:00:02,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_assists_over_under,sandro mamukelashvili,False,2.5,-155,2023-04-04T22:40:45,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,fanduel,player_blocks_over_under,sandro mamukelashvili,True,0.5,1000,2023-04-05T04:00:02,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,fanduel,player_blocks_over_under,sandro mamukelashvili,False,0.5,-100000,2023-04-05T04:00:02,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_blocks_over_under,sandro mamukelashvili,True,0.5,900,2023-04-05T03:45:01,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_points_over_under,sandro mamukelashvili,True,10.5,-105,2023-04-05T02:45:02,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_blocks_over_under,sandro mamukelashvili,False,0.5,-3000,2023-04-05T03:45:01,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_blocks_over_under,sandro mamukelashvili,True,0.5,160,2023-04-04T22:40:45,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,fanduel,player_points_over_under,sandro mamukelashvili,False,13.5,-118,2023-04-05T02:15:01,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,fanduel,player_points_over_under,sandro mamukelashvili,False,12.5,-700,2023-04-05T04:00:02,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,fanduel,player_points_over_under,sandro mamukelashvili,False,10.5,-108,2023-04-05T03:00:01,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,fanduel,player_points_over_under,sandro mamukelashvili,True,15.5,-118,2023-04-05T03:30:01,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,fanduel,player_points_over_under,sandro mamukelashvili,False,14.5,126,2023-04-05T03:45:01,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,fanduel,player_points_over_under,sandro mamukelashvili,True,13.5,-112,2023-04-05T02:15:01,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,fanduel,player_points_over_under,sandro mamukelashvili,True,12.5,410,2023-04-05T04:00:02,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,fanduel,player_points_over_under,sandro mamukelashvili,True,10.5,-122,2023-04-05T03:00:01,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_blocks_over_under,sandro mamukelashvili,False,0.5,-195,2023-04-04T22:40:45,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,fanduel,player_points_over_under,sandro mamukelashvili,True,14.5,-168,2023-04-05T03:45:01,Phoenix Suns,San Antonio Spurs
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_rebounds_over_under,sandro mamukelashvili,True,6.5,115,2023-04-06T23:45:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_threes_over_under,sandro mamukelashvili,False,1.5,-235,2023-04-06T23:45:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_threes_over_under,sandro mamukelashvili,False,0.5,190,2023-04-06T23:30:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_threes_over_under,sandro mamukelashvili,True,1.5,190,2023-04-06T23:45:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_threes_over_under,sandro mamukelashvili,True,0.5,-235,2023-04-06T23:30:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_steals_over_under,sandro mamukelashvili,False,0.5,-150,2023-04-06T23:30:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_steals_over_under,sandro mamukelashvili,True,0.5,120,2023-04-06T23:30:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_rebounds_over_under,sandro mamukelashvili,False,6.5,-145,2023-04-06T23:45:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_rebounds_over_under,sandro mamukelashvili,False,5.5,125,2023-04-06T23:30:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_rebounds_over_under,sandro mamukelashvili,True,5.5,-155,2023-04-06T23:30:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_points_over_under,sandro mamukelashvili,False,9.5,-120,2023-04-06T23:30:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_rebounds_over_under,sandro mamukelashvili,False,5.5,-104,2023-04-07T00:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_rebounds_over_under,sandro mamukelashvili,True,6.5,116,2023-04-06T23:45:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_rebounds_over_under,sandro mamukelashvili,True,5.5,-118,2023-04-07T00:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_points_over_under,sandro mamukelashvili,True,9.5,-110,2023-04-06T23:30:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_points_over_under,sandro mamukelashvili,False,9.5,-118,2023-04-06T23:45:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_points_over_under,sandro mamukelashvili,True,9.5,-104,2023-04-06T23:45:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_blocks_over_under,sandro mamukelashvili,False,0.5,-195,2023-04-06T23:30:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_blocks_over_under,sandro mamukelashvili,True,0.5,160,2023-04-06T23:30:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_rebounds_over_under,sandro mamukelashvili,False,6.5,-142,2023-04-06T23:45:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,fanduel,player_points_over_under,sandro mamukelashvili,False,12.5,-108,2023-04-08T20:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,fanduel,player_points_over_under,sandro mamukelashvili,False,16.5,-205,2023-04-08T21:45:02,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,fanduel,player_points_over_under,sandro mamukelashvili,False,17.5,-125,2023-04-08T21:30:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,fanduel,player_points_over_under,sandro mamukelashvili,False,14.5,128,2023-04-08T22:00:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,fanduel,player_points_over_under,sandro mamukelashvili,False,13.5,-130,2023-04-08T20:30:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,fanduel,player_points_over_under,sandro mamukelashvili,True,19.5,-160,2023-04-08T21:15:02,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,caesars,player_blocks_over_under,sandro mamukelashvili,False,0.5,-204,2023-04-08T19:15:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,fanduel,player_points_over_under,sandro mamukelashvili,True,16.5,152,2023-04-08T21:45:02,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,fanduel,player_assists_over_under,sandro mamukelashvili,True,3.5,-166,2023-04-08T20:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,fanduel,player_assists_over_under,sandro mamukelashvili,True,4.5,390,2023-04-08T22:00:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,fanduel,player_assists_over_under,sandro mamukelashvili,True,5.5,140,2023-04-08T21:15:02,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,fanduel,player_assists_over_under,sandro mamukelashvili,False,3.5,124,2023-04-08T20:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,fanduel,player_assists_over_under,sandro mamukelashvili,False,4.5,-650,2023-04-08T22:00:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,fanduel,player_assists_over_under,sandro mamukelashvili,False,5.5,-188,2023-04-08T21:15:02,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_assists_over_under,sandro mamukelashvili,True,2.5,-140,2023-04-08T19:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_assists_over_under,sandro mamukelashvili,True,3.5,-155,2023-04-08T20:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_assists_over_under,sandro mamukelashvili,True,4.5,450,2023-04-08T22:00:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_assists_over_under,sandro mamukelashvili,True,5.5,135,2023-04-08T21:15:02,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_assists_over_under,sandro mamukelashvili,False,2.5,110,2023-04-08T19:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,fanduel,player_points_over_under,sandro mamukelashvili,True,17.5,-106,2023-04-08T21:30:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_assists_over_under,sandro mamukelashvili,False,3.5,115,2023-04-08T20:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_assists_over_under,sandro mamukelashvili,False,5.5,-180,2023-04-08T21:15:02,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,caesars,player_assists_over_under,sandro mamukelashvili,True,2.5,-135,2023-04-08T19:15:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,fanduel,player_points_over_under,sandro mamukelashvili,False,19.5,120,2023-04-08T21:15:02,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,fanduel,player_blocks_over_under,sandro mamukelashvili,True,0.5,1000,2023-04-08T22:00:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,fanduel,player_blocks_over_under,sandro mamukelashvili,False,0.5,-10000,2023-04-08T22:00:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_blocks_over_under,sandro mamukelashvili,True,0.5,800,2023-04-08T21:45:02,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_blocks_over_under,sandro mamukelashvili,False,0.5,-2500,2023-04-08T21:45:02,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,caesars,player_blocks_over_under,sandro mamukelashvili,True,0.5,146,2023-04-08T19:15:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,fanduel,player_points_over_under,sandro mamukelashvili,True,12.5,-122,2023-04-08T20:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,fanduel,player_points_over_under,sandro mamukelashvili,True,13.5,-102,2023-04-08T20:30:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,fanduel,player_points_over_under,sandro mamukelashvili,True,14.5,-172,2023-04-08T22:00:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_assists_over_under,sandro mamukelashvili,False,4.5,-800,2023-04-08T22:00:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_points_over_under,sandro mamukelashvili,True,12.5,-115,2023-04-08T20:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,caesars,player_assists_over_under,sandro mamukelashvili,False,2.5,-101,2023-04-08T19:15:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_points_over_under,sandro mamukelashvili,True,14.5,-120,2023-04-08T22:00:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,fanduel,player_steals_over_under,sandro mamukelashvili,True,0.5,122,2023-04-08T20:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,fanduel,player_steals_over_under,sandro mamukelashvili,True,1.5,1000,2023-04-08T22:00:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,fanduel,player_steals_over_under,sandro mamukelashvili,False,0.5,-162,2023-04-08T20:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,fanduel,player_steals_over_under,sandro mamukelashvili,False,1.5,-4000,2023-04-08T22:00:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_steals_over_under,sandro mamukelashvili,True,0.5,120,2023-04-08T20:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_steals_over_under,sandro mamukelashvili,True,1.5,1100,2023-04-08T22:00:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_steals_over_under,sandro mamukelashvili,False,0.5,-160,2023-04-08T20:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_steals_over_under,sandro mamukelashvili,False,1.5,-8000,2023-04-08T22:00:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,caesars,player_steals_over_under,sandro mamukelashvili,True,0.5,-148,2023-04-08T19:15:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,caesars,player_steals_over_under,sandro mamukelashvili,False,0.5,108,2023-04-08T19:15:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,fanduel,player_threes_over_under,sandro mamukelashvili,True,0.5,-250,2023-04-08T20:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,caesars,player_rebounds_over_under,sandro mamukelashvili,False,7.5,-137,2023-04-08T19:15:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,fanduel,player_threes_over_under,sandro mamukelashvili,True,1.5,-162,2023-04-08T21:00:02,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,fanduel,player_threes_over_under,sandro mamukelashvili,False,0.5,182,2023-04-08T20:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,fanduel,player_threes_over_under,sandro mamukelashvili,False,1.5,122,2023-04-08T21:00:02,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,fanduel,player_threes_over_under,sandro mamukelashvili,False,2.5,-1450,2023-04-08T22:00:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_threes_over_under,sandro mamukelashvili,True,0.5,-240,2023-04-08T20:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_threes_over_under,sandro mamukelashvili,True,1.5,175,2023-04-08T20:30:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_threes_over_under,sandro mamukelashvili,True,2.5,750,2023-04-08T22:00:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_threes_over_under,sandro mamukelashvili,False,0.5,175,2023-04-08T20:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_threes_over_under,sandro mamukelashvili,False,1.5,-240,2023-04-08T20:30:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_threes_over_under,sandro mamukelashvili,False,2.5,-2000,2023-04-08T22:00:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,caesars,player_threes_over_under,sandro mamukelashvili,False,1.5,-123,2023-04-08T19:30:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_points_over_under,sandro mamukelashvili,True,13.5,-105,2023-04-08T20:30:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,fanduel,player_threes_over_under,sandro mamukelashvili,True,2.5,640,2023-04-08T22:00:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,caesars,player_rebounds_over_under,sandro mamukelashvili,True,7.5,100,2023-04-08T19:15:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,caesars,player_threes_over_under,sandro mamukelashvili,True,1.5,-111,2023-04-08T19:30:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_rebounds_over_under,sandro mamukelashvili,False,7.5,-190,2023-04-08T21:45:02,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_rebounds_over_under,sandro mamukelashvili,False,8.5,-195,2023-04-08T21:30:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_points_over_under,sandro mamukelashvili,True,19.5,-155,2023-04-08T21:15:02,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_points_over_under,sandro mamukelashvili,True,20.5,-120,2023-04-08T21:00:02,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_points_over_under,sandro mamukelashvili,False,12.5,-115,2023-04-08T20:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_points_over_under,sandro mamukelashvili,False,13.5,-130,2023-04-08T20:30:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_points_over_under,sandro mamukelashvili,False,14.5,-110,2023-04-08T22:00:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_points_over_under,sandro mamukelashvili,False,16.5,-175,2023-04-08T21:45:02,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_points_over_under,sandro mamukelashvili,False,17.5,100,2023-04-08T21:30:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_points_over_under,sandro mamukelashvili,False,19.5,115,2023-04-08T21:15:02,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_points_over_under,sandro mamukelashvili,False,20.5,-110,2023-04-08T21:00:02,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,caesars,player_points_over_under,sandro mamukelashvili,True,12.5,-133,2023-04-08T19:15:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,caesars,player_points_over_under,sandro mamukelashvili,False,12.5,-103,2023-04-08T19:15:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_points_over_under,sandro mamukelashvili,True,17.5,-135,2023-04-08T21:30:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,fanduel,player_rebounds_over_under,sandro mamukelashvili,True,6.5,134,2023-04-08T22:00:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_rebounds_over_under,sandro mamukelashvili,False,6.5,-235,2023-04-08T22:00:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,fanduel,player_rebounds_over_under,sandro mamukelashvili,True,5.5,-154,2023-04-08T20:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_rebounds_over_under,sandro mamukelashvili,False,5.5,110,2023-04-08T20:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_rebounds_over_under,sandro mamukelashvili,True,8.5,145,2023-04-08T21:30:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_rebounds_over_under,sandro mamukelashvili,True,7.5,140,2023-04-08T21:45:02,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_points_over_under,sandro mamukelashvili,True,16.5,130,2023-04-08T21:45:02,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_rebounds_over_under,sandro mamukelashvili,True,5.5,-145,2023-04-08T20:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,fanduel,player_rebounds_over_under,sandro mamukelashvili,False,7.5,-220,2023-04-08T21:45:02,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,fanduel,player_rebounds_over_under,sandro mamukelashvili,False,6.5,-182,2023-04-08T22:00:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,fanduel,player_rebounds_over_under,sandro mamukelashvili,False,5.5,116,2023-04-08T20:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_rebounds_over_under,sandro mamukelashvili,True,6.5,170,2023-04-08T22:00:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,fanduel,player_rebounds_over_under,sandro mamukelashvili,True,7.5,162,2023-04-08T21:45:02,San Antonio Spurs,Minnesota Timberwolves
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_points_over_under,sandro mamukelashvili,True,11.5,-130,2023-04-09T20:00:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_points_over_under,sandro mamukelashvili,True,13.5,104,2023-04-09T19:45:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_points_over_under,sandro mamukelashvili,True,14.5,142,2023-04-09T21:00:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_points_over_under,sandro mamukelashvili,True,16.5,110,2023-04-09T20:15:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_points_over_under,sandro mamukelashvili,True,18.5,-210,2023-04-09T21:15:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_points_over_under,sandro mamukelashvili,True,20.5,-162,2023-04-09T21:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_points_over_under,sandro mamukelashvili,False,11.5,-102,2023-04-09T20:00:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_points_over_under,sandro mamukelashvili,False,13.5,-138,2023-04-09T19:45:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_points_over_under,sandro mamukelashvili,False,14.5,-192,2023-04-09T21:00:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_points_over_under,sandro mamukelashvili,False,16.5,-146,2023-04-09T20:15:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_points_over_under,sandro mamukelashvili,True,11.5,-130,2023-04-09T20:00:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_points_over_under,sandro mamukelashvili,False,20.5,122,2023-04-09T21:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_points_over_under,sandro mamukelashvili,True,12.5,-130,2023-04-09T19:45:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_points_over_under,sandro mamukelashvili,True,13.5,-105,2023-04-09T17:45:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_points_over_under,sandro mamukelashvili,True,16.5,110,2023-04-09T20:15:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_points_over_under,sandro mamukelashvili,True,18.5,-195,2023-04-09T21:15:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_points_over_under,sandro mamukelashvili,True,20.5,-150,2023-04-09T21:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_points_over_under,sandro mamukelashvili,False,11.5,-105,2023-04-09T20:00:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_points_over_under,sandro mamukelashvili,False,12.5,100,2023-04-09T19:45:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_points_over_under,sandro mamukelashvili,False,13.5,-125,2023-04-09T17:45:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,caesars,player_blocks_over_under,sandro mamukelashvili,False,0.5,-179,2023-04-09T17:45:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_points_over_under,sandro mamukelashvili,False,14.5,-185,2023-04-09T21:00:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_points_over_under,sandro mamukelashvili,False,18.5,154,2023-04-09T21:15:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_points_over_under,sandro mamukelashvili,True,14.5,135,2023-04-09T21:00:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_assists_over_under,sandro mamukelashvili,False,4.5,-800,2023-04-09T21:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_blocks_over_under,sandro mamukelashvili,False,1.5,-2500,2023-04-09T21:15:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_points_over_under,sandro mamukelashvili,False,16.5,-145,2023-04-09T20:15:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_assists_over_under,sandro mamukelashvili,True,3.5,104,2023-04-09T21:00:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_assists_over_under,sandro mamukelashvili,True,4.5,450,2023-04-09T21:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_assists_over_under,sandro mamukelashvili,False,2.5,118,2023-04-09T20:00:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_assists_over_under,sandro mamukelashvili,False,3.5,-138,2023-04-09T21:00:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_assists_over_under,sandro mamukelashvili,False,4.5,-800,2023-04-09T21:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_assists_over_under,sandro mamukelashvili,True,1.5,-205,2023-04-09T19:45:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_assists_over_under,sandro mamukelashvili,True,2.5,-155,2023-04-09T20:00:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_assists_over_under,sandro mamukelashvili,True,3.5,105,2023-04-09T21:00:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_assists_over_under,sandro mamukelashvili,True,4.5,450,2023-04-09T21:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,caesars,player_blocks_over_under,sandro mamukelashvili,True,0.5,129,2023-04-09T17:45:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_assists_over_under,sandro mamukelashvili,False,1.5,150,2023-04-09T19:45:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_assists_over_under,sandro mamukelashvili,False,3.5,-140,2023-04-09T21:00:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,caesars,player_assists_over_under,sandro mamukelashvili,True,2.5,-109,2023-04-09T17:45:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,caesars,player_assists_over_under,sandro mamukelashvili,False,2.5,-125,2023-04-09T17:45:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_blocks_over_under,sandro mamukelashvili,True,0.5,168,2023-04-09T19:45:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_blocks_over_under,sandro mamukelashvili,True,1.5,1000,2023-04-09T21:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_blocks_over_under,sandro mamukelashvili,False,0.5,-230,2023-04-09T19:45:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_blocks_over_under,sandro mamukelashvili,False,1.5,-10000,2023-04-09T21:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_blocks_over_under,sandro mamukelashvili,True,0.5,165,2023-04-09T19:45:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_blocks_over_under,sandro mamukelashvili,True,1.5,800,2023-04-09T21:15:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_blocks_over_under,sandro mamukelashvili,False,0.5,-225,2023-04-09T19:45:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_assists_over_under,sandro mamukelashvili,False,2.5,120,2023-04-09T20:00:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_points_over_under,sandro mamukelashvili,False,18.5,145,2023-04-09T21:15:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,caesars,player_rebounds_over_under,sandro mamukelashvili,False,7.5,-103,2023-04-09T17:45:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,caesars,player_points_over_under,sandro mamukelashvili,True,13.5,-103,2023-04-09T18:30:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_steals_over_under,sandro mamukelashvili,True,0.5,1100,2023-04-09T21:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_steals_over_under,sandro mamukelashvili,False,0.5,-8000,2023-04-09T21:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,caesars,player_steals_over_under,sandro mamukelashvili,True,0.5,-139,2023-04-09T17:45:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,caesars,player_steals_over_under,sandro mamukelashvili,False,0.5,102,2023-04-09T17:45:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_threes_over_under,sandro mamukelashvili,True,0.5,-270,2023-04-09T20:00:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_threes_over_under,sandro mamukelashvili,True,1.5,148,2023-04-09T19:45:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_threes_over_under,sandro mamukelashvili,True,2.5,310,2023-04-09T21:15:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_threes_over_under,sandro mamukelashvili,True,3.5,750,2023-04-09T21:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_threes_over_under,sandro mamukelashvili,False,0.5,194,2023-04-09T20:00:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_threes_over_under,sandro mamukelashvili,False,1.5,-200,2023-04-09T19:45:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_steals_over_under,sandro mamukelashvili,False,0.5,-5000,2023-04-09T21:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_threes_over_under,sandro mamukelashvili,False,2.5,-470,2023-04-09T21:15:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_threes_over_under,sandro mamukelashvili,True,0.5,-255,2023-04-09T20:00:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_threes_over_under,sandro mamukelashvili,True,1.5,150,2023-04-09T19:45:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_threes_over_under,sandro mamukelashvili,True,2.5,310,2023-04-09T21:15:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_threes_over_under,sandro mamukelashvili,True,3.5,700,2023-04-09T21:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_threes_over_under,sandro mamukelashvili,False,0.5,185,2023-04-09T20:00:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_threes_over_under,sandro mamukelashvili,False,1.5,-205,2023-04-09T19:45:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_threes_over_under,sandro mamukelashvili,False,2.5,-475,2023-04-09T21:15:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_threes_over_under,sandro mamukelashvili,False,3.5,-1600,2023-04-09T21:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,caesars,player_threes_over_under,sandro mamukelashvili,True,1.5,100,2023-04-09T17:45:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,caesars,player_threes_over_under,sandro mamukelashvili,False,1.5,-137,2023-04-09T17:45:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_threes_over_under,sandro mamukelashvili,False,3.5,-2000,2023-04-09T21:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_points_over_under,sandro mamukelashvili,False,20.5,115,2023-04-09T21:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_steals_over_under,sandro mamukelashvili,True,0.5,1000,2023-04-09T21:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_rebounds_over_under,sandro mamukelashvili,False,12.5,-210,2023-04-09T21:15:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,caesars,player_points_over_under,sandro mamukelashvili,False,13.5,-133,2023-04-09T18:30:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_rebounds_over_under,sandro mamukelashvili,True,8.5,-136,2023-04-09T20:00:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_rebounds_over_under,sandro mamukelashvili,True,9.5,-102,2023-04-09T20:45:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_rebounds_over_under,sandro mamukelashvili,True,10.5,-152,2023-04-09T21:00:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_rebounds_over_under,sandro mamukelashvili,True,11.5,132,2023-04-09T21:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_rebounds_over_under,sandro mamukelashvili,True,12.5,158,2023-04-09T21:15:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_rebounds_over_under,sandro mamukelashvili,False,8.5,102,2023-04-09T20:00:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_rebounds_over_under,sandro mamukelashvili,False,9.5,-130,2023-04-09T20:45:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_rebounds_over_under,sandro mamukelashvili,False,10.5,114,2023-04-09T21:00:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_rebounds_over_under,sandro mamukelashvili,False,11.5,-178,2023-04-09T21:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,caesars,player_rebounds_over_under,sandro mamukelashvili,True,7.5,-133,2023-04-09T17:45:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_rebounds_over_under,sandro mamukelashvili,False,12.5,-215,2023-04-09T21:15:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_rebounds_over_under,sandro mamukelashvili,True,8.5,-140,2023-04-09T20:00:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_rebounds_over_under,sandro mamukelashvili,True,9.5,125,2023-04-09T20:45:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_rebounds_over_under,sandro mamukelashvili,True,10.5,-150,2023-04-09T21:00:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_rebounds_over_under,sandro mamukelashvili,True,11.5,135,2023-04-09T21:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_rebounds_over_under,sandro mamukelashvili,True,12.5,155,2023-04-09T21:15:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_rebounds_over_under,sandro mamukelashvili,False,7.5,-105,2023-04-09T17:45:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_rebounds_over_under,sandro mamukelashvili,False,8.5,105,2023-04-09T20:00:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_rebounds_over_under,sandro mamukelashvili,False,9.5,-165,2023-04-09T20:45:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_rebounds_over_under,sandro mamukelashvili,False,10.5,110,2023-04-09T21:00:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_rebounds_over_under,sandro mamukelashvili,False,11.5,-180,2023-04-09T21:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_rebounds_over_under,sandro mamukelashvili,True,7.5,-125,2023-04-09T17:45:01,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,fanduel,player_assists_over_under,sandro mamukelashvili,True,2.5,-158,2023-04-09T20:00:01,Dallas Mavericks,San Antonio Spurs

@@ -1,0 +1,105 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_blocks_over_under,oshae brissett,True,0.5,1000,2023-03-23T01:45:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_points_over_under,oshae brissett,True,7.5,-106,2023-03-22T23:30:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_points_over_under,oshae brissett,True,8.5,118,2023-03-23T01:30:01,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_points_over_under,oshae brissett,True,9.5,240,2023-03-23T01:45:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_points_over_under,oshae brissett,True,10.5,-140,2023-03-23T00:45:01,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_points_over_under,oshae brissett,False,7.5,-114,2023-03-22T23:30:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_points_over_under,oshae brissett,False,8.5,-158,2023-03-23T01:30:01,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_points_over_under,oshae brissett,False,9.5,-350,2023-03-23T01:45:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_points_over_under,oshae brissett,False,10.5,106,2023-03-23T00:45:01,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_rebounds_over_under,oshae brissett,True,5.5,-152,2023-03-23T01:30:01,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_blocks_over_under,oshae brissett,False,0.5,-100000,2023-03-23T01:45:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_rebounds_over_under,oshae brissett,True,6.5,450,2023-03-23T01:45:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_rebounds_over_under,oshae brissett,False,5.5,114,2023-03-23T01:30:01,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_rebounds_over_under,oshae brissett,False,6.5,-800,2023-03-23T01:45:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_rebounds_over_under,oshae brissett,False,7.5,-210,2023-03-23T00:45:01,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_steals_over_under,oshae brissett,True,0.5,1000,2023-03-23T01:45:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_steals_over_under,oshae brissett,False,0.5,-50000,2023-03-23T01:45:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_threes_over_under,oshae brissett,True,1.5,1000,2023-03-23T01:45:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_threes_over_under,oshae brissett,False,1.5,-7000,2023-03-23T01:45:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_assists_over_under,oshae brissett,True,1.5,1000,2023-03-23T01:45:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_rebounds_over_under,oshae brissett,True,7.5,154,2023-03-23T00:45:01,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_assists_over_under,oshae brissett,False,1.5,-7000,2023-03-23T01:45:02,Toronto Raptors,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,oshae brissett,False,6.5,110,2023-04-03T00:08:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,oshae brissett,False,7.5,-134,2023-04-03T00:00:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,oshae brissett,True,6.5,-134,2023-04-03T00:08:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,oshae brissett,True,7.5,110,2023-04-03T00:00:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_rebounds_over_under,oshae brissett,True,3.5,105,2023-04-05T22:45:02,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,oshae brissett,False,7.5,-125,2023-04-05T22:45:02,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,oshae brissett,True,7.5,-105,2023-04-05T22:45:02,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_points_over_under,oshae brissett,False,7.5,-128,2023-04-05T23:00:02,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_points_over_under,oshae brissett,True,7.5,104,2023-04-05T23:00:02,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_blocks_over_under,oshae brissett,False,0.5,-475,2023-04-05T22:45:02,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_blocks_over_under,oshae brissett,True,0.5,350,2023-04-05T22:45:02,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_steals_over_under,oshae brissett,False,0.5,-150,2023-04-05T22:45:02,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_threes_over_under,oshae brissett,True,0.5,-160,2023-04-05T22:45:02,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_threes_over_under,oshae brissett,False,0.5,130,2023-04-05T22:45:02,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_rebounds_over_under,oshae brissett,False,3.5,-135,2023-04-05T22:45:02,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_steals_over_under,oshae brissett,True,0.5,120,2023-04-05T22:45:02,Indiana Pacers,New York Knicks
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_rebounds_over_under,oshae brissett,True,4.5,-160,2023-04-07T22:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_rebounds_over_under,oshae brissett,False,4.5,120,2023-04-07T21:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_rebounds_over_under,oshae brissett,True,4.5,-166,2023-04-07T21:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_rebounds_over_under,oshae brissett,False,4.5,125,2023-04-07T21:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_rebounds_over_under,oshae brissett,True,4.5,-155,2023-04-07T21:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_points_over_under,oshae brissett,False,11.5,-115,2023-04-07T22:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_points_over_under,oshae brissett,True,11.5,-115,2023-04-07T22:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_threes_over_under,oshae brissett,True,1.5,146,2023-04-07T21:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_steals_over_under,oshae brissett,True,0.5,-115,2023-04-07T21:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_steals_over_under,oshae brissett,False,0.5,-115,2023-04-07T21:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_steals_over_under,oshae brissett,True,0.5,-120,2023-04-07T22:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_steals_over_under,oshae brissett,False,0.5,-115,2023-04-07T22:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_threes_over_under,oshae brissett,True,1.5,155,2023-04-07T21:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_threes_over_under,oshae brissett,False,1.5,-190,2023-04-07T21:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_points_over_under,oshae brissett,False,11.5,-119,2023-04-07T21:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_threes_over_under,oshae brissett,False,1.5,-204,2023-04-07T21:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_threes_over_under,oshae brissett,True,1.5,145,2023-04-07T22:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_threes_over_under,oshae brissett,False,1.5,-200,2023-04-07T22:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_rebounds_over_under,oshae brissett,False,4.5,120,2023-04-07T22:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_points_over_under,oshae brissett,False,10.5,-106,2023-04-07T22:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_blocks_over_under,oshae brissett,False,0.5,-355,2023-04-07T21:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_points_over_under,oshae brissett,True,10.5,-129,2023-04-07T22:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_points_over_under,oshae brissett,False,11.5,-145,2023-04-07T23:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_points_over_under,oshae brissett,True,11.5,115,2023-04-07T23:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_blocks_over_under,oshae brissett,False,0.5,-375,2023-04-07T22:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_blocks_over_under,oshae brissett,True,0.5,260,2023-04-07T22:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_blocks_over_under,oshae brissett,True,0.5,275,2023-04-07T21:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_assists_over_under,oshae brissett,False,1.5,-165,2023-04-07T22:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_assists_over_under,oshae brissett,True,1.5,125,2023-04-07T22:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_points_over_under,oshae brissett,True,11.5,-115,2023-04-07T21:45:01,Indiana Pacers,Detroit Pistons
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_points_over_under,oshae brissett,True,9.5,-115,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_points_over_under,oshae brissett,True,8.5,-145,2023-04-09T18:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_points_over_under,oshae brissett,False,11.5,-275,2023-04-09T19:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_points_over_under,oshae brissett,False,9.5,-114,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_points_over_under,oshae brissett,False,8.5,120,2023-04-09T18:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_points_over_under,oshae brissett,True,11.5,198,2023-04-09T19:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_points_over_under,oshae brissett,True,9.5,-114,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_blocks_over_under,oshae brissett,True,1.5,1000,2023-04-09T19:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_blocks_over_under,oshae brissett,False,1.5,-50000,2023-04-09T19:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_blocks_over_under,oshae brissett,False,0.5,-500,2023-04-09T18:45:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_points_over_under,oshae brissett,False,8.5,110,2023-04-09T18:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_blocks_over_under,oshae brissett,True,0.5,320,2023-04-09T18:45:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_assists_over_under,oshae brissett,False,3.5,-4000,2023-04-09T19:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_assists_over_under,oshae brissett,False,2.5,-245,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_assists_over_under,oshae brissett,True,3.5,1000,2023-04-09T19:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_points_over_under,oshae brissett,True,8.5,-160,2023-04-09T18:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_points_over_under,oshae brissett,False,9.5,-115,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_rebounds_over_under,oshae brissett,False,5.5,142,2023-04-09T18:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_rebounds_over_under,oshae brissett,True,6.5,148,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_threes_over_under,oshae brissett,False,0.5,-340,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_threes_over_under,oshae brissett,True,0.5,235,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_threes_over_under,oshae brissett,False,0.5,-7000,2023-04-09T19:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_threes_over_under,oshae brissett,True,0.5,1000,2023-04-09T19:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_steals_over_under,oshae brissett,False,0.5,-650,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_steals_over_under,oshae brissett,True,0.5,390,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_steals_over_under,oshae brissett,False,0.5,-10000,2023-04-09T19:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_steals_over_under,oshae brissett,True,0.5,1000,2023-04-09T19:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_rebounds_over_under,oshae brissett,False,6.5,-190,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_rebounds_over_under,oshae brissett,False,5.5,135,2023-04-09T18:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_rebounds_over_under,oshae brissett,True,6.5,140,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_rebounds_over_under,oshae brissett,True,5.5,-180,2023-04-09T18:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_rebounds_over_under,oshae brissett,False,7.5,-700,2023-04-09T19:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_rebounds_over_under,oshae brissett,False,6.5,-200,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_rebounds_over_under,oshae brissett,True,7.5,410,2023-04-09T19:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_rebounds_over_under,oshae brissett,True,5.5,-192,2023-04-09T18:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_assists_over_under,oshae brissett,True,2.5,178,2023-04-09T19:00:02,New York Knicks,Indiana Pacers

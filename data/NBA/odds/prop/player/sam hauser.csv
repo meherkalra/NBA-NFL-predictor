@@ -1,0 +1,333 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_assists_over_under,sam hauser,False,0.5,-470,2023-03-27T00:00:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_points_over_under,sam hauser,False,6.5,-132,2023-03-26T23:30:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_points_over_under,sam hauser,False,5.5,110,2023-03-26T23:45:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_points_over_under,sam hauser,False,4.5,-152,2023-03-27T00:00:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_points_over_under,sam hauser,True,10.5,-110,2023-03-26T22:30:02,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_points_over_under,sam hauser,True,8.5,100,2023-03-26T23:00:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_points_over_under,sam hauser,True,7.5,118,2023-03-26T23:15:02,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_points_over_under,sam hauser,False,7.5,-158,2023-03-26T23:15:02,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_points_over_under,sam hauser,True,6.5,100,2023-03-26T23:30:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_points_over_under,sam hauser,True,4.5,114,2023-03-27T00:00:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_blocks_over_under,sam hauser,False,0.5,-4000,2023-03-27T00:00:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_blocks_over_under,sam hauser,True,0.5,1000,2023-03-27T00:00:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_assists_over_under,sam hauser,False,1.5,-245,2023-03-26T22:30:02,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_assists_over_under,sam hauser,True,1.5,178,2023-03-26T22:30:02,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_assists_over_under,sam hauser,True,0.5,310,2023-03-27T00:00:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_points_over_under,sam hauser,True,5.5,-146,2023-03-26T23:45:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_points_over_under,sam hauser,False,8.5,-132,2023-03-26T23:00:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_points_over_under,sam hauser,True,9.5,-114,2023-03-26T22:45:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_points_over_under,sam hauser,False,10.5,-120,2023-03-26T22:30:02,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_threes_over_under,sam hauser,False,2.5,-240,2023-03-26T23:15:02,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_threes_over_under,sam hauser,False,1.5,-240,2023-03-27T00:00:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_points_over_under,sam hauser,False,9.5,-114,2023-03-26T22:45:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_threes_over_under,sam hauser,True,2.5,174,2023-03-26T23:15:02,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_threes_over_under,sam hauser,True,1.5,174,2023-03-27T00:00:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_steals_over_under,sam hauser,False,0.5,-1450,2023-03-27T00:00:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_rebounds_over_under,sam hauser,False,4.5,-178,2023-03-26T23:45:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_steals_over_under,sam hauser,True,0.5,640,2023-03-27T00:00:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_rebounds_over_under,sam hauser,False,2.5,-138,2023-03-26T23:00:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_rebounds_over_under,sam hauser,False,1.5,142,2023-03-26T23:15:02,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_rebounds_over_under,sam hauser,True,4.5,132,2023-03-26T23:45:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_rebounds_over_under,sam hauser,True,3.5,-122,2023-03-27T00:00:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_rebounds_over_under,sam hauser,True,2.5,104,2023-03-26T23:00:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_rebounds_over_under,sam hauser,True,1.5,-192,2023-03-26T23:15:02,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_rebounds_over_under,sam hauser,False,3.5,-108,2023-03-27T00:00:01,Boston Celtics,San Antonio Spurs
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,draftkings,player_points_over_under,sam hauser,True,4.5,-150,2023-04-06T01:15:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,fanduel,player_points_over_under,sam hauser,False,5.5,-162,2023-04-06T01:15:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,fanduel,player_points_over_under,sam hauser,False,7.5,-138,2023-04-06T00:45:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,fanduel,player_points_over_under,sam hauser,False,9.5,-146,2023-04-06T00:15:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,draftkings,player_points_over_under,sam hauser,True,3.5,130,2023-04-06T01:30:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,draftkings,player_points_over_under,sam hauser,True,5.5,-110,2023-04-06T01:00:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,draftkings,player_points_over_under,sam hauser,False,7.5,-130,2023-04-06T00:45:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,draftkings,player_points_over_under,sam hauser,True,9.5,105,2023-04-06T00:15:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,draftkings,player_points_over_under,sam hauser,False,3.5,-175,2023-04-06T01:30:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,draftkings,player_points_over_under,sam hauser,False,4.5,115,2023-04-06T01:15:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,draftkings,player_points_over_under,sam hauser,False,5.5,-120,2023-04-06T01:00:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,fanduel,player_points_over_under,sam hauser,False,3.5,-158,2023-04-06T01:30:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,draftkings,player_points_over_under,sam hauser,True,7.5,100,2023-04-06T00:45:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,fanduel,player_points_over_under,sam hauser,True,9.5,110,2023-04-06T00:15:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,draftkings,player_points_over_under,sam hauser,False,9.5,-140,2023-04-06T00:15:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,fanduel,player_points_over_under,sam hauser,True,5.5,122,2023-04-06T01:15:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,fanduel,player_points_over_under,sam hauser,True,3.5,118,2023-04-06T01:30:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,draftkings,player_blocks_over_under,sam hauser,False,0.5,-570,2023-04-05T23:15:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,draftkings,player_blocks_over_under,sam hauser,True,0.5,410,2023-04-05T23:15:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,fanduel,player_blocks_over_under,sam hauser,False,1.5,-100000,2023-04-06T01:30:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,fanduel,player_blocks_over_under,sam hauser,False,0.5,-1200,2023-04-06T00:15:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,fanduel,player_blocks_over_under,sam hauser,True,1.5,1000,2023-04-06T01:00:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,draftkings,player_assists_over_under,sam hauser,False,4.5,-1200,2023-04-06T01:30:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,draftkings,player_assists_over_under,sam hauser,False,3.5,160,2023-04-06T00:45:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,draftkings,player_assists_over_under,sam hauser,True,4.5,600,2023-04-06T01:30:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,draftkings,player_assists_over_under,sam hauser,True,3.5,-220,2023-04-06T00:45:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,fanduel,player_assists_over_under,sam hauser,False,4.5,-1200,2023-04-06T01:30:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,fanduel,player_assists_over_under,sam hauser,False,3.5,168,2023-04-06T00:45:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,fanduel,player_rebounds_over_under,sam hauser,True,3.5,-200,2023-04-06T00:45:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,fanduel,player_points_over_under,sam hauser,True,7.5,104,2023-04-06T00:45:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,fanduel,player_rebounds_over_under,sam hauser,True,4.5,148,2023-04-06T00:30:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,draftkings,player_steals_over_under,sam hauser,True,0.5,130,2023-04-06T00:00:02,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,fanduel,player_rebounds_over_under,sam hauser,False,3.5,148,2023-04-06T00:45:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,draftkings,player_threes_over_under,sam hauser,False,2.5,-145,2023-04-06T00:45:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,draftkings,player_threes_over_under,sam hauser,False,1.5,-750,2023-04-06T01:30:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,draftkings,player_threes_over_under,sam hauser,True,2.5,110,2023-04-06T00:45:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,draftkings,player_threes_over_under,sam hauser,True,1.5,425,2023-04-06T01:30:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,fanduel,player_threes_over_under,sam hauser,False,2.5,-152,2023-04-06T00:45:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,fanduel,player_threes_over_under,sam hauser,False,1.5,-670,2023-04-06T01:30:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,fanduel,player_threes_over_under,sam hauser,True,2.5,114,2023-04-06T00:45:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,fanduel,player_threes_over_under,sam hauser,True,1.5,400,2023-04-06T01:30:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,draftkings,player_steals_over_under,sam hauser,False,2.5,-900,2023-04-06T01:15:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,draftkings,player_steals_over_under,sam hauser,False,1.5,-280,2023-04-06T00:45:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,draftkings,player_steals_over_under,sam hauser,False,0.5,-175,2023-04-06T00:00:02,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,draftkings,player_steals_over_under,sam hauser,True,2.5,475,2023-04-06T01:15:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,draftkings,player_steals_over_under,sam hauser,True,1.5,200,2023-04-06T00:45:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,fanduel,player_rebounds_over_under,sam hauser,True,6.5,290,2023-04-06T01:30:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,fanduel,player_assists_over_under,sam hauser,True,4.5,580,2023-04-06T01:30:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,fanduel,player_steals_over_under,sam hauser,False,1.5,-300,2023-04-06T00:45:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,fanduel,player_steals_over_under,sam hauser,False,0.5,-182,2023-04-06T00:00:02,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,fanduel,player_steals_over_under,sam hauser,True,2.5,1000,2023-04-06T01:30:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,fanduel,player_steals_over_under,sam hauser,True,1.5,210,2023-04-06T00:45:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,fanduel,player_steals_over_under,sam hauser,True,0.5,136,2023-04-06T00:00:02,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,draftkings,player_rebounds_over_under,sam hauser,False,6.5,-475,2023-04-06T01:30:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,draftkings,player_rebounds_over_under,sam hauser,False,4.5,-195,2023-04-06T00:30:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,draftkings,player_rebounds_over_under,sam hauser,False,3.5,145,2023-04-06T00:45:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,draftkings,player_rebounds_over_under,sam hauser,True,6.5,310,2023-04-06T01:30:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,draftkings,player_rebounds_over_under,sam hauser,True,4.5,145,2023-04-06T00:30:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,draftkings,player_rebounds_over_under,sam hauser,True,3.5,-195,2023-04-06T00:45:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,fanduel,player_rebounds_over_under,sam hauser,False,6.5,-440,2023-04-06T01:30:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,fanduel,player_rebounds_over_under,sam hauser,False,4.5,-200,2023-04-06T00:30:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,fanduel,player_steals_over_under,sam hauser,False,2.5,-7000,2023-04-06T01:30:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,fanduel,player_assists_over_under,sam hauser,True,3.5,-230,2023-04-06T00:45:01,Boston Celtics,Toronto Raptors
+2023-04-05,c30ea779a1e4cbe246b9886708dc6f2d,fanduel,player_blocks_over_under,sam hauser,True,0.5,580,2023-04-06T00:15:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,fanduel,player_rebounds_over_under,sam hauser,False,6.5,-154,2023-04-08T00:00:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,draftkings,player_threes_over_under,sam hauser,True,2.5,-135,2023-04-07T23:15:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,draftkings,player_threes_over_under,sam hauser,True,3.5,-255,2023-04-08T01:00:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,draftkings,player_threes_over_under,sam hauser,True,4.5,150,2023-04-08T00:30:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,draftkings,player_threes_over_under,sam hauser,True,5.5,160,2023-04-08T01:30:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,draftkings,player_threes_over_under,sam hauser,False,2.5,105,2023-04-07T23:15:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,draftkings,player_threes_over_under,sam hauser,False,3.5,185,2023-04-08T01:00:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,draftkings,player_threes_over_under,sam hauser,False,4.5,-205,2023-04-08T00:30:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,draftkings,player_threes_over_under,sam hauser,False,5.5,-220,2023-04-08T01:30:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,fanduel,player_threes_over_under,sam hauser,False,5.5,-188,2023-04-08T01:30:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,caesars,player_threes_over_under,sam hauser,True,2.5,-135,2023-04-07T23:15:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,fanduel,player_assists_over_under,sam hauser,True,1.5,-162,2023-04-08T01:00:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,fanduel,player_assists_over_under,sam hauser,True,2.5,194,2023-04-08T01:30:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,fanduel,player_assists_over_under,sam hauser,False,1.5,122,2023-04-08T01:00:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,fanduel,player_assists_over_under,sam hauser,False,2.5,-270,2023-04-08T01:30:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,draftkings,player_assists_over_under,sam hauser,True,1.5,-155,2023-04-08T00:45:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,draftkings,player_assists_over_under,sam hauser,True,2.5,230,2023-04-08T01:30:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,draftkings,player_assists_over_under,sam hauser,False,1.5,115,2023-04-08T00:45:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,caesars,player_assists_over_under,sam hauser,True,2.5,139,2023-04-07T23:15:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,caesars,player_threes_over_under,sam hauser,False,2.5,-101,2023-04-07T23:15:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,fanduel,player_rebounds_over_under,sam hauser,False,5.5,-114,2023-04-08T01:30:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,fanduel,player_threes_over_under,sam hauser,False,4.5,-182,2023-04-08T00:30:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,draftkings,player_rebounds_over_under,sam hauser,True,3.5,-150,2023-04-07T23:15:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,draftkings,player_rebounds_over_under,sam hauser,True,4.5,-240,2023-04-08T01:15:02,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,draftkings,player_rebounds_over_under,sam hauser,True,5.5,105,2023-04-08T01:30:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,draftkings,player_rebounds_over_under,sam hauser,True,6.5,115,2023-04-08T00:00:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,draftkings,player_rebounds_over_under,sam hauser,False,3.5,120,2023-04-07T23:15:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,draftkings,player_rebounds_over_under,sam hauser,False,4.5,175,2023-04-08T01:15:02,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,draftkings,player_rebounds_over_under,sam hauser,False,5.5,-140,2023-04-08T01:30:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,draftkings,player_rebounds_over_under,sam hauser,False,6.5,-150,2023-04-08T00:00:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,caesars,player_rebounds_over_under,sam hauser,True,3.5,-160,2023-04-07T23:15:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,fanduel,player_threes_over_under,sam hauser,False,3.5,194,2023-04-08T01:00:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,caesars,player_rebounds_over_under,sam hauser,False,3.5,116,2023-04-07T23:15:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,fanduel,player_steals_over_under,sam hauser,False,0.5,-1200,2023-04-08T01:30:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,draftkings,player_steals_over_under,sam hauser,True,0.5,650,2023-04-08T01:30:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,draftkings,player_steals_over_under,sam hauser,False,0.5,-1400,2023-04-08T01:30:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,caesars,player_steals_over_under,sam hauser,True,0.5,-131,2023-04-07T23:15:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,caesars,player_steals_over_under,sam hauser,False,0.5,-104,2023-04-07T23:15:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,fanduel,player_threes_over_under,sam hauser,True,3.5,-270,2023-04-08T01:00:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,fanduel,player_threes_over_under,sam hauser,True,4.5,136,2023-04-08T00:30:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,fanduel,player_threes_over_under,sam hauser,True,5.5,140,2023-04-08T01:30:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,fanduel,player_steals_over_under,sam hauser,True,0.5,580,2023-04-08T01:30:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,caesars,player_assists_over_under,sam hauser,False,2.5,-194,2023-04-07T23:15:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,draftkings,player_assists_over_under,sam hauser,False,2.5,-330,2023-04-08T01:30:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,fanduel,player_blocks_over_under,sam hauser,False,0.5,-7000,2023-04-08T01:30:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,fanduel,player_blocks_over_under,sam hauser,True,0.5,1000,2023-04-08T01:15:02,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,draftkings,player_points_over_under,sam hauser,True,21.5,-140,2023-04-08T01:15:02,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,draftkings,player_points_over_under,sam hauser,True,24.5,105,2023-04-08T01:30:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,draftkings,player_points_over_under,sam hauser,False,10.5,-120,2023-04-07T23:15:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,draftkings,player_points_over_under,sam hauser,False,12.5,-130,2023-04-07T23:45:02,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,draftkings,player_points_over_under,sam hauser,False,14.5,120,2023-04-08T00:45:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,draftkings,player_points_over_under,sam hauser,False,15.5,-120,2023-04-08T00:30:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,draftkings,player_points_over_under,sam hauser,False,16.5,-115,2023-04-08T00:00:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,draftkings,player_points_over_under,sam hauser,True,15.5,-110,2023-04-08T00:30:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,draftkings,player_points_over_under,sam hauser,False,21.5,105,2023-04-08T01:15:02,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,caesars,player_points_over_under,sam hauser,True,10.5,-113,2023-04-07T23:15:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,caesars,player_points_over_under,sam hauser,False,10.5,-121,2023-04-07T23:15:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,fanduel,player_rebounds_over_under,sam hauser,True,3.5,-134,2023-04-07T23:30:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,fanduel,player_rebounds_over_under,sam hauser,True,4.5,-260,2023-04-08T01:15:02,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,fanduel,player_rebounds_over_under,sam hauser,True,5.5,-118,2023-04-08T01:30:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,fanduel,player_rebounds_over_under,sam hauser,True,6.5,116,2023-04-08T00:00:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,fanduel,player_rebounds_over_under,sam hauser,False,3.5,110,2023-04-07T23:30:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,fanduel,player_rebounds_over_under,sam hauser,False,4.5,188,2023-04-08T01:15:02,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,draftkings,player_points_over_under,sam hauser,False,24.5,-140,2023-04-08T01:30:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,draftkings,player_points_over_under,sam hauser,True,14.5,-160,2023-04-08T01:00:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,draftkings,player_points_over_under,sam hauser,True,16.5,-115,2023-04-08T00:00:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,draftkings,player_points_over_under,sam hauser,True,10.5,-110,2023-04-07T23:15:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,draftkings,player_blocks_over_under,sam hauser,True,0.5,350,2023-04-07T23:15:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,draftkings,player_blocks_over_under,sam hauser,False,0.5,-475,2023-04-07T23:15:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,caesars,player_blocks_over_under,sam hauser,True,0.5,311,2023-04-07T23:15:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,caesars,player_blocks_over_under,sam hauser,False,0.5,-504,2023-04-07T23:15:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,fanduel,player_points_over_under,sam hauser,True,10.5,-104,2023-04-07T23:30:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,draftkings,player_points_over_under,sam hauser,True,12.5,100,2023-04-07T23:45:02,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,fanduel,player_points_over_under,sam hauser,True,14.5,-166,2023-04-08T01:00:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,fanduel,player_points_over_under,sam hauser,True,15.5,-140,2023-04-08T00:30:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,fanduel,player_points_over_under,sam hauser,True,16.5,-114,2023-04-08T00:00:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,fanduel,player_points_over_under,sam hauser,True,12.5,-106,2023-04-07T23:45:02,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,fanduel,player_points_over_under,sam hauser,True,24.5,-136,2023-04-08T01:30:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,fanduel,player_points_over_under,sam hauser,True,21.5,-148,2023-04-08T01:15:02,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,fanduel,player_points_over_under,sam hauser,False,21.5,112,2023-04-08T01:15:02,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,fanduel,player_points_over_under,sam hauser,False,16.5,-114,2023-04-08T00:00:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,fanduel,player_points_over_under,sam hauser,False,24.5,102,2023-04-08T01:30:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,fanduel,player_points_over_under,sam hauser,False,14.5,124,2023-04-08T01:00:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,fanduel,player_points_over_under,sam hauser,False,12.5,-125,2023-04-07T23:45:02,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,fanduel,player_points_over_under,sam hauser,False,10.5,-118,2023-04-07T23:30:01,Boston Celtics,Toronto Raptors
+2023-04-07,c2bd1ce6c20373dd74104d3a176f0222,fanduel,player_points_over_under,sam hauser,False,15.5,106,2023-04-08T00:30:01,Boston Celtics,Toronto Raptors
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,fanduel,player_assists_over_under,sam hauser,False,6.5,-158,2023-04-09T18:45:02,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,fanduel,player_assists_over_under,sam hauser,True,4.5,-180,2023-04-09T18:00:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,fanduel,player_assists_over_under,sam hauser,True,5.5,-104,2023-04-09T18:30:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,fanduel,player_assists_over_under,sam hauser,True,6.5,118,2023-04-09T18:45:02,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,fanduel,player_assists_over_under,sam hauser,True,7.5,118,2023-04-09T19:00:02,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,fanduel,player_assists_over_under,sam hauser,False,4.5,134,2023-04-09T18:00:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,fanduel,player_assists_over_under,sam hauser,False,5.5,-128,2023-04-09T18:30:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,fanduel,player_assists_over_under,sam hauser,False,7.5,-158,2023-04-09T19:00:02,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,caesars,player_rebounds_over_under,sam hauser,True,5.5,102,2023-04-09T16:00:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_rebounds_over_under,sam hauser,False,7.5,-130,2023-04-09T19:00:02,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_threes_over_under,sam hauser,False,3.5,130,2023-04-09T16:00:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_threes_over_under,sam hauser,False,5.5,-110,2023-04-09T18:00:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_threes_over_under,sam hauser,False,6.5,-170,2023-04-09T18:15:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_threes_over_under,sam hauser,False,8.5,125,2023-04-09T18:45:02,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_threes_over_under,sam hauser,False,9.5,-205,2023-04-09T18:30:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,caesars,player_threes_over_under,sam hauser,True,3.5,-157,2023-04-09T16:00:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,caesars,player_threes_over_under,sam hauser,False,3.5,114,2023-04-09T16:00:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_rebounds_over_under,sam hauser,False,6.5,-130,2023-04-09T18:45:02,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_threes_over_under,sam hauser,True,9.5,150,2023-04-09T18:30:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_rebounds_over_under,sam hauser,False,5.5,-130,2023-04-09T17:15:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_rebounds_over_under,sam hauser,True,6.5,-105,2023-04-09T18:45:02,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_rebounds_over_under,sam hauser,True,5.5,100,2023-04-09T17:15:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,fanduel,player_rebounds_over_under,sam hauser,False,7.5,-130,2023-04-09T19:00:02,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,fanduel,player_rebounds_over_under,sam hauser,False,6.5,-130,2023-04-09T18:45:02,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,fanduel,player_rebounds_over_under,sam hauser,True,7.5,-102,2023-04-09T19:00:02,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,fanduel,player_rebounds_over_under,sam hauser,True,6.5,-102,2023-04-09T18:45:02,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_assists_over_under,sam hauser,True,2.5,-170,2023-04-09T17:15:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,caesars,player_points_over_under,sam hauser,True,15.5,-131,2023-04-09T16:00:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_rebounds_over_under,sam hauser,True,7.5,-105,2023-04-09T19:00:02,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_points_over_under,sam hauser,False,30.5,-120,2023-04-09T18:45:02,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_threes_over_under,sam hauser,True,8.5,-165,2023-04-09T18:45:02,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_threes_over_under,sam hauser,True,5.5,-120,2023-04-09T18:00:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,caesars,player_rebounds_over_under,sam hauser,False,5.5,-139,2023-04-09T16:00:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,fanduel,player_steals_over_under,sam hauser,True,0.5,134,2023-04-09T18:45:02,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,fanduel,player_steals_over_under,sam hauser,False,0.5,-182,2023-04-09T18:45:02,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_steals_over_under,sam hauser,True,0.5,130,2023-04-09T18:45:02,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_steals_over_under,sam hauser,False,0.5,-175,2023-04-09T18:45:02,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,caesars,player_steals_over_under,sam hauser,True,0.5,-214,2023-04-09T16:00:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,caesars,player_steals_over_under,sam hauser,False,0.5,152,2023-04-09T16:00:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,fanduel,player_threes_over_under,sam hauser,True,3.5,-142,2023-04-09T17:15:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_threes_over_under,sam hauser,True,6.5,130,2023-04-09T17:30:02,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,fanduel,player_threes_over_under,sam hauser,True,5.5,-118,2023-04-09T18:00:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,fanduel,player_threes_over_under,sam hauser,True,8.5,-168,2023-04-09T18:45:02,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,fanduel,player_threes_over_under,sam hauser,True,9.5,154,2023-04-09T18:30:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,fanduel,player_threes_over_under,sam hauser,False,3.5,112,2023-04-09T17:15:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,fanduel,player_threes_over_under,sam hauser,False,5.5,-112,2023-04-09T18:00:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,fanduel,player_threes_over_under,sam hauser,False,6.5,-198,2023-04-09T18:15:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,fanduel,player_threes_over_under,sam hauser,False,8.5,126,2023-04-09T18:45:02,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,fanduel,player_threes_over_under,sam hauser,False,9.5,-210,2023-04-09T18:30:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_threes_over_under,sam hauser,True,3.5,-160,2023-04-09T16:00:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,fanduel,player_threes_over_under,sam hauser,True,6.5,146,2023-04-09T18:15:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_points_over_under,sam hauser,False,29.5,-140,2023-04-09T18:30:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,caesars,player_points_over_under,sam hauser,False,15.5,-104,2023-04-09T16:00:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_points_over_under,sam hauser,False,20.5,105,2023-04-09T18:15:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,fanduel,player_points_over_under,sam hauser,True,19.5,100,2023-04-09T18:00:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,fanduel,player_points_over_under,sam hauser,True,16.5,-105,2023-04-09T17:15:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,fanduel,player_points_over_under,sam hauser,True,15.5,-122,2023-04-09T16:15:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,caesars,player_blocks_over_under,sam hauser,False,0.5,-294,2023-04-09T16:00:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,caesars,player_blocks_over_under,sam hauser,True,0.5,202,2023-04-09T16:00:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_blocks_over_under,sam hauser,False,1.5,-800,2023-04-09T18:45:02,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_blocks_over_under,sam hauser,False,0.5,-300,2023-04-09T17:15:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_blocks_over_under,sam hauser,True,1.5,450,2023-04-09T18:45:02,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_blocks_over_under,sam hauser,True,0.5,215,2023-04-09T17:15:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,fanduel,player_blocks_over_under,sam hauser,False,1.5,-900,2023-04-09T18:45:02,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,fanduel,player_blocks_over_under,sam hauser,True,1.5,490,2023-04-09T18:45:02,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,caesars,player_assists_over_under,sam hauser,False,2.5,126,2023-04-09T16:00:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,caesars,player_assists_over_under,sam hauser,True,2.5,-174,2023-04-09T16:00:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_assists_over_under,sam hauser,False,7.5,-150,2023-04-09T19:00:02,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_assists_over_under,sam hauser,False,6.5,-150,2023-04-09T18:45:02,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_assists_over_under,sam hauser,False,5.5,-125,2023-04-09T18:30:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_assists_over_under,sam hauser,False,4.5,130,2023-04-09T18:00:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_assists_over_under,sam hauser,False,2.5,130,2023-04-09T16:00:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_assists_over_under,sam hauser,True,7.5,115,2023-04-09T19:00:02,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_assists_over_under,sam hauser,True,6.5,115,2023-04-09T18:45:02,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_assists_over_under,sam hauser,True,5.5,-105,2023-04-09T18:30:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,fanduel,player_points_over_under,sam hauser,True,20.5,-106,2023-04-09T18:15:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_points_over_under,sam hauser,False,21.5,-130,2023-04-09T17:30:02,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,fanduel,player_points_over_under,sam hauser,True,21.5,-102,2023-04-09T17:30:02,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,fanduel,player_points_over_under,sam hauser,True,30.5,-110,2023-04-09T18:45:02,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_points_over_under,sam hauser,False,19.5,-130,2023-04-09T18:00:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_points_over_under,sam hauser,False,15.5,105,2023-04-09T17:15:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_points_over_under,sam hauser,True,30.5,-110,2023-04-09T18:45:02,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_points_over_under,sam hauser,True,29.5,105,2023-04-09T18:30:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_points_over_under,sam hauser,True,21.5,100,2023-04-09T17:30:02,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_points_over_under,sam hauser,True,20.5,-135,2023-04-09T18:15:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_points_over_under,sam hauser,True,19.5,100,2023-04-09T18:00:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_points_over_under,sam hauser,True,15.5,-140,2023-04-09T17:15:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,fanduel,player_points_over_under,sam hauser,False,30.5,-122,2023-04-09T18:45:02,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,fanduel,player_points_over_under,sam hauser,False,29.5,-140,2023-04-09T18:30:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,fanduel,player_points_over_under,sam hauser,False,21.5,-130,2023-04-09T17:30:02,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,fanduel,player_points_over_under,sam hauser,False,20.5,-125,2023-04-09T18:15:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,fanduel,player_points_over_under,sam hauser,False,19.5,-132,2023-04-09T18:00:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,fanduel,player_points_over_under,sam hauser,False,16.5,-115,2023-04-09T17:15:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,fanduel,player_points_over_under,sam hauser,False,15.5,100,2023-04-09T16:15:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,fanduel,player_points_over_under,sam hauser,True,29.5,106,2023-04-09T18:30:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_assists_over_under,sam hauser,True,4.5,-175,2023-04-09T18:00:01,Boston Celtics,Atlanta Hawks
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,draftkings,player_threes_over_under,sam hauser,False,0.5,175,2023-04-21T23:00:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,draftkings,player_threes_over_under,sam hauser,True,0.5,-215,2023-04-21T23:00:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,draftkings,player_steals_over_under,sam hauser,False,0.5,-335,2023-04-21T23:00:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,draftkings,player_steals_over_under,sam hauser,True,0.5,260,2023-04-21T23:00:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,draftkings,player_blocks_over_under,sam hauser,False,0.5,-425,2023-04-21T23:00:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,draftkings,player_blocks_over_under,sam hauser,True,0.5,320,2023-04-21T23:00:01,Atlanta Hawks,Boston Celtics
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_assists_over_under,sam hauser,True,0.5,310,2023-04-26T01:00:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_threes_over_under,sam hauser,False,2.5,-3000,2023-04-26T01:30:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_assists_over_under,sam hauser,True,2.5,1000,2023-04-26T01:30:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_assists_over_under,sam hauser,False,0.5,-470,2023-04-26T01:00:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_assists_over_under,sam hauser,False,2.5,-5000,2023-04-26T01:30:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_blocks_over_under,sam hauser,True,0.5,1000,2023-04-26T01:00:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_blocks_over_under,sam hauser,True,1.5,1000,2023-04-26T01:15:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_blocks_over_under,sam hauser,False,0.5,-4000,2023-04-26T01:00:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_blocks_over_under,sam hauser,False,1.5,-100000,2023-04-26T01:30:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_points_over_under,sam hauser,True,3.5,102,2023-04-25T23:45:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_points_over_under,sam hauser,True,5.5,-182,2023-04-26T01:15:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_points_over_under,sam hauser,True,6.5,134,2023-04-26T00:00:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_points_over_under,sam hauser,True,8.5,230,2023-04-26T01:30:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_points_over_under,sam hauser,False,3.5,-136,2023-04-25T23:45:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_points_over_under,sam hauser,False,4.5,-144,2023-04-26T01:00:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_points_over_under,sam hauser,False,5.5,136,2023-04-26T01:15:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_points_over_under,sam hauser,True,4.5,108,2023-04-26T01:00:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_points_over_under,sam hauser,False,8.5,-330,2023-04-26T01:30:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_points_over_under,sam hauser,False,6.5,-180,2023-04-26T00:00:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_threes_over_under,sam hauser,False,0.5,134,2023-04-25T23:45:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_threes_over_under,sam hauser,True,2.5,880,2023-04-26T01:30:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_threes_over_under,sam hauser,True,1.5,320,2023-04-26T01:15:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_threes_over_under,sam hauser,True,0.5,-180,2023-04-25T23:45:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_steals_over_under,sam hauser,False,0.5,-50000,2023-04-26T01:30:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_steals_over_under,sam hauser,True,0.5,1000,2023-04-26T01:30:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_threes_over_under,sam hauser,False,1.5,-490,2023-04-26T01:15:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_rebounds_over_under,sam hauser,False,1.5,-230,2023-04-26T00:15:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_rebounds_over_under,sam hauser,False,0.5,102,2023-04-26T01:00:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_rebounds_over_under,sam hauser,True,2.5,490,2023-04-26T01:30:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_rebounds_over_under,sam hauser,True,1.5,168,2023-04-26T00:15:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_rebounds_over_under,sam hauser,True,0.5,-136,2023-04-26T01:00:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_rebounds_over_under,sam hauser,False,2.5,-900,2023-04-26T01:30:02,Boston Celtics,Atlanta Hawks
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,draftkings,player_threes_over_under,sam hauser,True,0.5,-155,2023-04-27T21:45:01,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,pinnacle,player_threes_over_under,sam hauser,False,0.5,138,2023-04-27T19:45:02,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,pinnacle,player_threes_over_under,sam hauser,True,0.5,-189,2023-04-27T19:45:02,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,draftkings,player_steals_over_under,sam hauser,False,0.5,-400,2023-04-27T19:45:01,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,draftkings,player_steals_over_under,sam hauser,True,0.5,300,2023-04-27T19:45:01,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,pinnacle,player_rebounds_over_under,sam hauser,False,1.5,-112,2023-04-27T19:45:02,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,draftkings,player_blocks_over_under,sam hauser,False,0.5,-600,2023-04-27T19:45:01,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,pinnacle,player_points_over_under,sam hauser,False,3.5,-149,2023-04-27T23:30:02,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,pinnacle,player_points_over_under,sam hauser,True,3.5,111,2023-04-27T23:30:02,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,draftkings,player_blocks_over_under,sam hauser,True,0.5,430,2023-04-27T19:45:01,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,pinnacle,player_assists_over_under,sam hauser,False,0.5,-211,2023-04-27T19:45:02,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,pinnacle,player_assists_over_under,sam hauser,True,0.5,151,2023-04-27T19:45:02,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,pinnacle,player_rebounds_over_under,sam hauser,True,1.5,-118,2023-04-27T19:45:02,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,draftkings,player_threes_over_under,sam hauser,False,0.5,125,2023-04-27T21:45:01,Atlanta Hawks,Boston Celtics

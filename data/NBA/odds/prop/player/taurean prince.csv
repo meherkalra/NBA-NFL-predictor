@@ -1,0 +1,1138 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-20,65f804a6342c36120d53394db854c81f,fanduel,player_threes_over_under,taurean prince,False,7.5,-360,2023-03-21T01:45:01,New York Knicks,Minnesota Timberwolves
+2023-03-20,65f804a6342c36120d53394db854c81f,fanduel,player_points_over_under,taurean prince,False,12.5,-136,2023-03-20T23:45:02,New York Knicks,Minnesota Timberwolves
+2023-03-20,65f804a6342c36120d53394db854c81f,fanduel,player_points_over_under,taurean prince,False,11.5,-120,2023-03-20T23:30:01,New York Knicks,Minnesota Timberwolves
+2023-03-20,65f804a6342c36120d53394db854c81f,fanduel,player_points_over_under,taurean prince,True,31.5,-172,2023-03-21T01:45:01,New York Knicks,Minnesota Timberwolves
+2023-03-20,65f804a6342c36120d53394db854c81f,fanduel,player_points_over_under,taurean prince,True,29.5,-154,2023-03-21T01:00:02,New York Knicks,Minnesota Timberwolves
+2023-03-20,65f804a6342c36120d53394db854c81f,fanduel,player_points_over_under,taurean prince,True,28.5,-122,2023-03-21T01:15:02,New York Knicks,Minnesota Timberwolves
+2023-03-20,65f804a6342c36120d53394db854c81f,fanduel,player_points_over_under,taurean prince,True,27.5,104,2023-03-21T01:30:01,New York Knicks,Minnesota Timberwolves
+2023-03-20,65f804a6342c36120d53394db854c81f,fanduel,player_points_over_under,taurean prince,True,25.5,104,2023-03-21T00:45:01,New York Knicks,Minnesota Timberwolves
+2023-03-20,65f804a6342c36120d53394db854c81f,fanduel,player_points_over_under,taurean prince,True,23.5,-120,2023-03-21T00:30:02,New York Knicks,Minnesota Timberwolves
+2023-03-20,65f804a6342c36120d53394db854c81f,fanduel,player_points_over_under,taurean prince,True,18.5,116,2023-03-21T00:00:02,New York Knicks,Minnesota Timberwolves
+2023-03-20,65f804a6342c36120d53394db854c81f,fanduel,player_points_over_under,taurean prince,False,17.5,108,2023-03-21T00:15:02,New York Knicks,Minnesota Timberwolves
+2023-03-20,65f804a6342c36120d53394db854c81f,fanduel,player_points_over_under,taurean prince,True,17.5,-144,2023-03-21T00:15:02,New York Knicks,Minnesota Timberwolves
+2023-03-20,65f804a6342c36120d53394db854c81f,fanduel,player_points_over_under,taurean prince,True,11.5,-102,2023-03-20T23:30:01,New York Knicks,Minnesota Timberwolves
+2023-03-20,65f804a6342c36120d53394db854c81f,fanduel,player_blocks_over_under,taurean prince,False,0.5,-3000,2023-03-21T01:45:01,New York Knicks,Minnesota Timberwolves
+2023-03-20,65f804a6342c36120d53394db854c81f,fanduel,player_blocks_over_under,taurean prince,True,0.5,880,2023-03-21T01:45:01,New York Knicks,Minnesota Timberwolves
+2023-03-20,65f804a6342c36120d53394db854c81f,fanduel,player_assists_over_under,taurean prince,False,3.5,-215,2023-03-21T00:30:02,New York Knicks,Minnesota Timberwolves
+2023-03-20,65f804a6342c36120d53394db854c81f,fanduel,player_assists_over_under,taurean prince,False,2.5,-300,2023-03-21T01:45:01,New York Knicks,Minnesota Timberwolves
+2023-03-20,65f804a6342c36120d53394db854c81f,fanduel,player_assists_over_under,taurean prince,True,3.5,158,2023-03-21T00:30:02,New York Knicks,Minnesota Timberwolves
+2023-03-20,65f804a6342c36120d53394db854c81f,fanduel,player_assists_over_under,taurean prince,True,2.5,210,2023-03-21T01:45:01,New York Knicks,Minnesota Timberwolves
+2023-03-20,65f804a6342c36120d53394db854c81f,fanduel,player_assists_over_under,taurean prince,True,1.5,-166,2023-03-20T23:45:02,New York Knicks,Minnesota Timberwolves
+2023-03-20,65f804a6342c36120d53394db854c81f,fanduel,player_threes_over_under,taurean prince,False,6.5,-270,2023-03-21T01:30:01,New York Knicks,Minnesota Timberwolves
+2023-03-20,65f804a6342c36120d53394db854c81f,fanduel,player_points_over_under,taurean prince,True,12.5,102,2023-03-20T23:45:02,New York Knicks,Minnesota Timberwolves
+2023-03-20,65f804a6342c36120d53394db854c81f,fanduel,player_points_over_under,taurean prince,False,18.5,-154,2023-03-21T00:00:02,New York Knicks,Minnesota Timberwolves
+2023-03-20,65f804a6342c36120d53394db854c81f,fanduel,player_assists_over_under,taurean prince,False,1.5,124,2023-03-20T23:45:02,New York Knicks,Minnesota Timberwolves
+2023-03-20,65f804a6342c36120d53394db854c81f,fanduel,player_points_over_under,taurean prince,False,25.5,-138,2023-03-21T00:45:01,New York Knicks,Minnesota Timberwolves
+2023-03-20,65f804a6342c36120d53394db854c81f,fanduel,player_threes_over_under,taurean prince,False,5.5,108,2023-03-21T00:45:01,New York Knicks,Minnesota Timberwolves
+2023-03-20,65f804a6342c36120d53394db854c81f,fanduel,player_points_over_under,taurean prince,False,23.5,-110,2023-03-21T00:30:02,New York Knicks,Minnesota Timberwolves
+2023-03-20,65f804a6342c36120d53394db854c81f,fanduel,player_threes_over_under,taurean prince,False,4.5,154,2023-03-21T00:30:02,New York Knicks,Minnesota Timberwolves
+2023-03-20,65f804a6342c36120d53394db854c81f,fanduel,player_threes_over_under,taurean prince,False,3.5,-250,2023-03-21T00:15:02,New York Knicks,Minnesota Timberwolves
+2023-03-20,65f804a6342c36120d53394db854c81f,fanduel,player_threes_over_under,taurean prince,False,1.5,-144,2023-03-20T23:45:02,New York Knicks,Minnesota Timberwolves
+2023-03-20,65f804a6342c36120d53394db854c81f,fanduel,player_threes_over_under,taurean prince,True,7.5,250,2023-03-21T01:45:01,New York Knicks,Minnesota Timberwolves
+2023-03-20,65f804a6342c36120d53394db854c81f,fanduel,player_threes_over_under,taurean prince,True,6.5,194,2023-03-21T01:30:01,New York Knicks,Minnesota Timberwolves
+2023-03-20,65f804a6342c36120d53394db854c81f,fanduel,player_threes_over_under,taurean prince,True,5.5,-144,2023-03-21T00:45:01,New York Knicks,Minnesota Timberwolves
+2023-03-20,65f804a6342c36120d53394db854c81f,fanduel,player_threes_over_under,taurean prince,True,4.5,-210,2023-03-21T00:30:02,New York Knicks,Minnesota Timberwolves
+2023-03-20,65f804a6342c36120d53394db854c81f,fanduel,player_threes_over_under,taurean prince,True,1.5,108,2023-03-20T23:45:02,New York Knicks,Minnesota Timberwolves
+2023-03-20,65f804a6342c36120d53394db854c81f,fanduel,player_threes_over_under,taurean prince,True,3.5,182,2023-03-21T00:15:02,New York Knicks,Minnesota Timberwolves
+2023-03-20,65f804a6342c36120d53394db854c81f,fanduel,player_steals_over_under,taurean prince,True,0.5,630,2023-03-21T01:45:01,New York Knicks,Minnesota Timberwolves
+2023-03-20,65f804a6342c36120d53394db854c81f,fanduel,player_rebounds_over_under,taurean prince,False,3.5,-198,2023-03-21T01:45:01,New York Knicks,Minnesota Timberwolves
+2023-03-20,65f804a6342c36120d53394db854c81f,fanduel,player_rebounds_over_under,taurean prince,False,2.5,-138,2023-03-21T01:30:01,New York Knicks,Minnesota Timberwolves
+2023-03-20,65f804a6342c36120d53394db854c81f,fanduel,player_rebounds_over_under,taurean prince,True,3.5,146,2023-03-21T01:45:01,New York Knicks,Minnesota Timberwolves
+2023-03-20,65f804a6342c36120d53394db854c81f,fanduel,player_rebounds_over_under,taurean prince,True,2.5,104,2023-03-21T01:30:01,New York Knicks,Minnesota Timberwolves
+2023-03-20,65f804a6342c36120d53394db854c81f,fanduel,player_points_over_under,taurean prince,False,31.5,128,2023-03-21T01:45:01,New York Knicks,Minnesota Timberwolves
+2023-03-20,65f804a6342c36120d53394db854c81f,fanduel,player_points_over_under,taurean prince,False,29.5,116,2023-03-21T01:00:02,New York Knicks,Minnesota Timberwolves
+2023-03-20,65f804a6342c36120d53394db854c81f,fanduel,player_points_over_under,taurean prince,False,28.5,-108,2023-03-21T01:15:02,New York Knicks,Minnesota Timberwolves
+2023-03-20,65f804a6342c36120d53394db854c81f,fanduel,player_points_over_under,taurean prince,False,27.5,-138,2023-03-21T01:30:01,New York Knicks,Minnesota Timberwolves
+2023-03-20,65f804a6342c36120d53394db854c81f,fanduel,player_steals_over_under,taurean prince,False,0.5,-1400,2023-03-21T01:45:01,New York Knicks,Minnesota Timberwolves
+2023-03-22,f5a7269478af52df731f40b910673b5c,fanduel,player_points_over_under,taurean prince,False,10.5,104,2023-03-23T00:00:01,Minnesota Timberwolves,Atlanta Hawks
+2023-03-22,f5a7269478af52df731f40b910673b5c,fanduel,player_points_over_under,taurean prince,True,10.5,-128,2023-03-23T00:00:01,Minnesota Timberwolves,Atlanta Hawks
+2023-03-26,3ee1f7f5a998c836d30a9a6127321256,fanduel,player_points_over_under,taurean prince,False,7.5,-106,2023-03-27T00:30:02,Golden State Warriors,Minnesota Timberwolves
+2023-03-26,3ee1f7f5a998c836d30a9a6127321256,fanduel,player_points_over_under,taurean prince,True,7.5,-114,2023-03-27T00:30:02,Golden State Warriors,Minnesota Timberwolves
+2023-03-31,19e1451e993cb0aa7774d5dcc91762ec,fanduel,player_points_over_under,taurean prince,False,7.5,-120,2023-04-01T00:10:02,Minnesota Timberwolves,Los Angeles Lakers
+2023-03-31,19e1451e993cb0aa7774d5dcc91762ec,fanduel,player_points_over_under,taurean prince,True,7.5,-106,2023-04-01T00:10:02,Minnesota Timberwolves,Los Angeles Lakers
+2023-04-04,db115e001ef05d081ca247b93ef532e9,draftkings,player_points_over_under,taurean prince,True,5.5,-180,2023-04-05T01:15:01,Brooklyn Nets,Minnesota Timberwolves
+2023-04-04,db115e001ef05d081ca247b93ef532e9,draftkings,player_points_over_under,taurean prince,True,6.5,125,2023-04-05T00:30:01,Brooklyn Nets,Minnesota Timberwolves
+2023-04-04,db115e001ef05d081ca247b93ef532e9,draftkings,player_rebounds_over_under,taurean prince,True,1.5,-225,2023-04-05T01:00:01,Brooklyn Nets,Minnesota Timberwolves
+2023-04-04,db115e001ef05d081ca247b93ef532e9,draftkings,player_points_over_under,taurean prince,True,7.5,425,2023-04-05T01:30:01,Brooklyn Nets,Minnesota Timberwolves
+2023-04-04,db115e001ef05d081ca247b93ef532e9,draftkings,player_points_over_under,taurean prince,False,5.5,135,2023-04-05T01:15:01,Brooklyn Nets,Minnesota Timberwolves
+2023-04-04,db115e001ef05d081ca247b93ef532e9,draftkings,player_points_over_under,taurean prince,False,6.5,-165,2023-04-05T00:30:01,Brooklyn Nets,Minnesota Timberwolves
+2023-04-04,db115e001ef05d081ca247b93ef532e9,draftkings,player_points_over_under,taurean prince,False,7.5,-750,2023-04-05T01:30:01,Brooklyn Nets,Minnesota Timberwolves
+2023-04-04,db115e001ef05d081ca247b93ef532e9,fanduel,player_rebounds_over_under,taurean prince,True,1.5,-260,2023-04-05T01:00:01,Brooklyn Nets,Minnesota Timberwolves
+2023-04-04,db115e001ef05d081ca247b93ef532e9,fanduel,player_rebounds_over_under,taurean prince,True,2.5,182,2023-04-05T00:36:01,Brooklyn Nets,Minnesota Timberwolves
+2023-04-04,db115e001ef05d081ca247b93ef532e9,fanduel,player_rebounds_over_under,taurean prince,True,3.5,1000,2023-04-05T01:30:01,Brooklyn Nets,Minnesota Timberwolves
+2023-04-04,db115e001ef05d081ca247b93ef532e9,fanduel,player_rebounds_over_under,taurean prince,False,1.5,188,2023-04-05T01:00:01,Brooklyn Nets,Minnesota Timberwolves
+2023-04-04,db115e001ef05d081ca247b93ef532e9,fanduel,player_points_over_under,taurean prince,False,7.5,-1450,2023-04-05T01:30:01,Brooklyn Nets,Minnesota Timberwolves
+2023-04-04,db115e001ef05d081ca247b93ef532e9,fanduel,player_rebounds_over_under,taurean prince,False,2.5,-250,2023-04-05T00:36:01,Brooklyn Nets,Minnesota Timberwolves
+2023-04-04,db115e001ef05d081ca247b93ef532e9,fanduel,player_rebounds_over_under,taurean prince,False,3.5,-10000,2023-04-05T01:30:01,Brooklyn Nets,Minnesota Timberwolves
+2023-04-04,db115e001ef05d081ca247b93ef532e9,draftkings,player_rebounds_over_under,taurean prince,True,2.5,175,2023-04-05T00:36:01,Brooklyn Nets,Minnesota Timberwolves
+2023-04-04,db115e001ef05d081ca247b93ef532e9,draftkings,player_threes_over_under,taurean prince,True,1.5,500,2023-04-05T01:15:01,Brooklyn Nets,Minnesota Timberwolves
+2023-04-04,db115e001ef05d081ca247b93ef532e9,draftkings,player_rebounds_over_under,taurean prince,False,1.5,165,2023-04-05T01:00:01,Brooklyn Nets,Minnesota Timberwolves
+2023-04-04,db115e001ef05d081ca247b93ef532e9,draftkings,player_rebounds_over_under,taurean prince,False,2.5,-240,2023-04-05T00:36:01,Brooklyn Nets,Minnesota Timberwolves
+2023-04-04,db115e001ef05d081ca247b93ef532e9,draftkings,player_rebounds_over_under,taurean prince,False,3.5,-8000,2023-04-05T01:30:01,Brooklyn Nets,Minnesota Timberwolves
+2023-04-04,db115e001ef05d081ca247b93ef532e9,fanduel,player_steals_over_under,taurean prince,False,0.5,-100000,2023-04-05T01:30:01,Brooklyn Nets,Minnesota Timberwolves
+2023-04-04,db115e001ef05d081ca247b93ef532e9,draftkings,player_steals_over_under,taurean prince,True,0.5,900,2023-04-05T01:15:01,Brooklyn Nets,Minnesota Timberwolves
+2023-04-04,db115e001ef05d081ca247b93ef532e9,draftkings,player_steals_over_under,taurean prince,False,0.5,-3000,2023-04-05T01:15:01,Brooklyn Nets,Minnesota Timberwolves
+2023-04-04,db115e001ef05d081ca247b93ef532e9,fanduel,player_threes_over_under,taurean prince,True,0.5,118,2023-04-05T01:00:01,Brooklyn Nets,Minnesota Timberwolves
+2023-04-04,db115e001ef05d081ca247b93ef532e9,fanduel,player_threes_over_under,taurean prince,True,1.5,1000,2023-04-05T01:30:01,Brooklyn Nets,Minnesota Timberwolves
+2023-04-04,db115e001ef05d081ca247b93ef532e9,fanduel,player_threes_over_under,taurean prince,False,0.5,-158,2023-04-05T01:00:01,Brooklyn Nets,Minnesota Timberwolves
+2023-04-04,db115e001ef05d081ca247b93ef532e9,fanduel,player_threes_over_under,taurean prince,False,1.5,-50000,2023-04-05T01:30:01,Brooklyn Nets,Minnesota Timberwolves
+2023-04-04,db115e001ef05d081ca247b93ef532e9,draftkings,player_threes_over_under,taurean prince,True,0.5,125,2023-04-05T01:00:01,Brooklyn Nets,Minnesota Timberwolves
+2023-04-04,db115e001ef05d081ca247b93ef532e9,draftkings,player_threes_over_under,taurean prince,False,0.5,-165,2023-04-05T01:00:01,Brooklyn Nets,Minnesota Timberwolves
+2023-04-04,db115e001ef05d081ca247b93ef532e9,draftkings,player_threes_over_under,taurean prince,False,1.5,-1000,2023-04-05T01:15:01,Brooklyn Nets,Minnesota Timberwolves
+2023-04-04,db115e001ef05d081ca247b93ef532e9,fanduel,player_points_over_under,taurean prince,False,6.5,-158,2023-04-05T00:30:01,Brooklyn Nets,Minnesota Timberwolves
+2023-04-04,db115e001ef05d081ca247b93ef532e9,draftkings,player_rebounds_over_under,taurean prince,True,3.5,1100,2023-04-05T01:30:01,Brooklyn Nets,Minnesota Timberwolves
+2023-04-04,db115e001ef05d081ca247b93ef532e9,fanduel,player_points_over_under,taurean prince,False,5.5,188,2023-04-05T01:15:01,Brooklyn Nets,Minnesota Timberwolves
+2023-04-04,db115e001ef05d081ca247b93ef532e9,fanduel,player_steals_over_under,taurean prince,True,0.5,1000,2023-04-05T01:30:01,Brooklyn Nets,Minnesota Timberwolves
+2023-04-04,db115e001ef05d081ca247b93ef532e9,fanduel,player_points_over_under,taurean prince,True,6.5,118,2023-04-05T00:30:01,Brooklyn Nets,Minnesota Timberwolves
+2023-04-04,db115e001ef05d081ca247b93ef532e9,fanduel,player_points_over_under,taurean prince,True,5.5,-260,2023-04-05T01:15:01,Brooklyn Nets,Minnesota Timberwolves
+2023-04-04,db115e001ef05d081ca247b93ef532e9,draftkings,player_blocks_over_under,taurean prince,False,0.5,-400,2023-04-04T23:14:32,Brooklyn Nets,Minnesota Timberwolves
+2023-04-04,db115e001ef05d081ca247b93ef532e9,draftkings,player_blocks_over_under,taurean prince,True,0.5,300,2023-04-04T23:14:32,Brooklyn Nets,Minnesota Timberwolves
+2023-04-04,db115e001ef05d081ca247b93ef532e9,fanduel,player_blocks_over_under,taurean prince,False,0.5,-100000,2023-04-05T01:30:01,Brooklyn Nets,Minnesota Timberwolves
+2023-04-04,db115e001ef05d081ca247b93ef532e9,fanduel,player_blocks_over_under,taurean prince,True,0.5,1000,2023-04-05T01:15:01,Brooklyn Nets,Minnesota Timberwolves
+2023-04-04,db115e001ef05d081ca247b93ef532e9,fanduel,player_assists_over_under,taurean prince,False,0.5,-50000,2023-04-05T01:30:01,Brooklyn Nets,Minnesota Timberwolves
+2023-04-04,db115e001ef05d081ca247b93ef532e9,fanduel,player_assists_over_under,taurean prince,True,0.5,1000,2023-04-05T01:30:01,Brooklyn Nets,Minnesota Timberwolves
+2023-04-04,db115e001ef05d081ca247b93ef532e9,fanduel,player_points_over_under,taurean prince,True,7.5,640,2023-04-05T01:30:01,Brooklyn Nets,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_blocks_over_under,taurean prince,True,0.5,240,2023-04-08T19:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_blocks_over_under,taurean prince,False,0.5,-305,2023-04-08T19:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_points_over_under,taurean prince,True,9.5,-115,2023-04-08T19:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_points_over_under,taurean prince,False,9.5,-115,2023-04-08T19:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,caesars,player_points_over_under,taurean prince,True,9.5,-115,2023-04-08T19:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,caesars,player_points_over_under,taurean prince,False,9.5,-119,2023-04-08T19:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_rebounds_over_under,taurean prince,False,2.5,-135,2023-04-08T19:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_steals_over_under,taurean prince,True,0.5,-105,2023-04-08T19:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_steals_over_under,taurean prince,False,0.5,-125,2023-04-08T19:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_threes_over_under,taurean prince,True,1.5,155,2023-04-08T19:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_threes_over_under,taurean prince,False,1.5,-190,2023-04-08T19:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,caesars,player_threes_over_under,taurean prince,True,1.5,146,2023-04-08T19:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,caesars,player_threes_over_under,taurean prince,False,1.5,-204,2023-04-08T19:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_rebounds_over_under,taurean prince,True,2.5,105,2023-04-08T19:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,caesars,player_points_over_under,taurean prince,True,8.5,100,2023-04-09T19:30:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_blocks_over_under,taurean prince,False,0.5,-335,2023-04-09T19:30:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_points_over_under,taurean prince,True,8.5,100,2023-04-09T19:30:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_blocks_over_under,taurean prince,True,0.5,260,2023-04-09T19:30:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_points_over_under,taurean prince,False,8.5,-130,2023-04-09T19:30:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,caesars,player_points_over_under,taurean prince,False,8.5,-137,2023-04-09T19:30:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_rebounds_over_under,taurean prince,False,2.5,-140,2023-04-09T19:30:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_steals_over_under,taurean prince,True,0.5,110,2023-04-09T19:30:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_steals_over_under,taurean prince,False,0.5,-140,2023-04-09T19:30:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_threes_over_under,taurean prince,True,1.5,190,2023-04-09T19:30:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,caesars,player_threes_over_under,taurean prince,False,1.5,-254,2023-04-09T19:30:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_rebounds_over_under,taurean prince,True,2.5,110,2023-04-09T19:30:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_threes_over_under,taurean prince,False,1.5,-235,2023-04-09T19:30:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,caesars,player_threes_over_under,taurean prince,True,1.5,178,2023-04-09T19:30:02,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_steals_over_under,taurean prince,True,0.5,-145,2023-04-10T21:00:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,fanduel,player_steals_over_under,taurean prince,False,2.5,-1100,2023-04-12T04:15:02,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,fanduel,player_steals_over_under,taurean prince,False,1.5,-350,2023-04-12T03:30:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,fanduel,player_steals_over_under,taurean prince,True,2.5,550,2023-04-12T04:15:02,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,fanduel,player_steals_over_under,taurean prince,True,1.5,240,2023-04-12T03:30:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_rebounds_over_under,taurean prince,False,4.5,-150,2023-04-10T23:00:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_rebounds_over_under,taurean prince,True,4.5,110,2023-04-12T01:45:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,caesars,player_rebounds_over_under,taurean prince,False,4.5,-154,2023-04-10T21:00:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,caesars,player_rebounds_over_under,taurean prince,True,4.5,112,2023-04-10T21:00:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_rebounds_over_under,taurean prince,False,4.5,-150,2023-04-12T02:15:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_rebounds_over_under,taurean prince,False,2.5,145,2023-04-12T04:00:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_rebounds_over_under,taurean prince,False,1.5,-115,2023-04-12T03:15:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_rebounds_over_under,taurean prince,True,4.5,110,2023-04-12T02:15:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_rebounds_over_under,taurean prince,True,3.5,-135,2023-04-12T04:15:02,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_rebounds_over_under,taurean prince,True,2.5,-200,2023-04-12T04:00:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_rebounds_over_under,taurean prince,True,1.5,-115,2023-04-12T03:15:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,fanduel,player_rebounds_over_under,taurean prince,False,4.5,-148,2023-04-12T01:45:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,fanduel,player_rebounds_over_under,taurean prince,False,3.5,100,2023-04-12T04:15:02,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_rebounds_over_under,taurean prince,False,3.5,105,2023-04-12T04:15:02,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_steals_over_under,taurean prince,True,1.5,230,2023-04-12T03:15:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_threes_over_under,taurean prince,True,2.5,-120,2023-04-12T03:15:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_steals_over_under,taurean prince,False,0.5,110,2023-04-12T02:15:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,caesars,player_threes_over_under,taurean prince,False,1.5,104,2023-04-11T12:15:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,caesars,player_threes_over_under,taurean prince,True,1.5,-142,2023-04-11T12:15:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_threes_over_under,taurean prince,False,3.5,-330,2023-04-12T04:15:02,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_threes_over_under,taurean prince,False,2.5,-110,2023-04-12T03:15:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_threes_over_under,taurean prince,False,1.5,-190,2023-04-12T02:30:02,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_threes_over_under,taurean prince,True,3.5,230,2023-04-12T04:15:02,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,fanduel,player_rebounds_over_under,taurean prince,False,2.5,154,2023-04-12T04:00:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_threes_over_under,taurean prince,True,1.5,140,2023-04-12T02:30:02,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,fanduel,player_threes_over_under,taurean prince,False,3.5,-330,2023-04-12T04:15:02,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_steals_over_under,taurean prince,True,2.5,500,2023-04-12T04:15:02,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,fanduel,player_threes_over_under,taurean prince,False,2.5,-114,2023-04-12T03:30:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,fanduel,player_threes_over_under,taurean prince,True,3.5,230,2023-04-12T04:15:02,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,fanduel,player_threes_over_under,taurean prince,True,2.5,-118,2023-04-12T03:15:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,fanduel,player_threes_over_under,taurean prince,True,1.5,142,2023-04-12T02:30:02,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_steals_over_under,taurean prince,False,0.5,110,2023-04-10T21:00:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_steals_over_under,taurean prince,True,0.5,-150,2023-04-10T21:00:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,caesars,player_steals_over_under,taurean prince,False,0.5,108,2023-04-10T21:00:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,caesars,player_steals_over_under,taurean prince,True,0.5,-148,2023-04-10T21:00:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_steals_over_under,taurean prince,False,2.5,-1000,2023-04-12T04:15:02,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_steals_over_under,taurean prince,False,1.5,-330,2023-04-12T03:15:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,fanduel,player_threes_over_under,taurean prince,False,1.5,-192,2023-04-12T02:30:02,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,fanduel,player_rebounds_over_under,taurean prince,False,1.5,-118,2023-04-12T03:30:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_points_over_under,taurean prince,True,11.5,-150,2023-04-12T02:30:02,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,fanduel,player_rebounds_over_under,taurean prince,True,3.5,-132,2023-04-12T04:15:02,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,fanduel,player_points_over_under,taurean prince,True,12.5,110,2023-04-12T02:30:02,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_blocks_over_under,taurean prince,False,0.5,-210,2023-04-10T21:00:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_blocks_over_under,taurean prince,True,0.5,150,2023-04-10T21:00:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,caesars,player_blocks_over_under,taurean prince,False,0.5,-204,2023-04-10T21:00:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,caesars,player_blocks_over_under,taurean prince,True,0.5,146,2023-04-10T21:00:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_blocks_over_under,taurean prince,False,0.5,-2500,2023-04-12T04:15:02,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_blocks_over_under,taurean prince,True,0.5,800,2023-04-12T04:15:02,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,fanduel,player_blocks_over_under,taurean prince,False,0.5,-3000,2023-04-12T04:15:02,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,fanduel,player_blocks_over_under,taurean prince,True,0.5,880,2023-04-12T04:15:02,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,fanduel,player_points_over_under,taurean prince,True,13.5,106,2023-04-12T04:15:02,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_assists_over_under,taurean prince,False,1.5,100,2023-04-10T21:00:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,caesars,player_assists_over_under,taurean prince,False,1.5,-108,2023-04-12T02:00:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,caesars,player_assists_over_under,taurean prince,True,1.5,-127,2023-04-12T02:00:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_assists_over_under,taurean prince,False,1.5,-185,2023-04-12T02:45:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_assists_over_under,taurean prince,True,1.5,140,2023-04-12T02:45:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_assists_over_under,taurean prince,True,0.5,235,2023-04-12T04:15:02,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,fanduel,player_assists_over_under,taurean prince,False,1.5,-200,2023-04-12T02:45:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,fanduel,player_assists_over_under,taurean prince,False,0.5,-350,2023-04-12T04:15:02,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,fanduel,player_assists_over_under,taurean prince,True,1.5,148,2023-04-12T02:45:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,fanduel,player_assists_over_under,taurean prince,True,0.5,240,2023-04-12T04:15:02,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_assists_over_under,taurean prince,True,1.5,-135,2023-04-10T21:00:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,fanduel,player_rebounds_over_under,taurean prince,True,4.5,120,2023-04-12T01:45:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,fanduel,player_points_over_under,taurean prince,True,14.5,130,2023-04-12T04:00:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,fanduel,player_points_over_under,taurean prince,True,17.5,-132,2023-04-12T02:45:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,fanduel,player_rebounds_over_under,taurean prince,True,2.5,-210,2023-04-12T04:00:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,fanduel,player_rebounds_over_under,taurean prince,True,1.5,-112,2023-04-12T03:30:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_points_over_under,taurean prince,False,13.5,-110,2023-04-11T00:45:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_points_over_under,taurean prince,True,13.5,-120,2023-04-10T21:00:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,caesars,player_points_over_under,taurean prince,False,13.5,-119,2023-04-10T21:00:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,caesars,player_points_over_under,taurean prince,True,13.5,-115,2023-04-10T21:00:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_points_over_under,taurean prince,False,17.5,100,2023-04-12T02:45:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_points_over_under,taurean prince,False,15.5,115,2023-04-12T03:00:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_points_over_under,taurean prince,False,14.5,-170,2023-04-12T04:00:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,fanduel,player_points_over_under,taurean prince,True,16.5,104,2023-04-12T03:00:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_points_over_under,taurean prince,False,13.5,-140,2023-04-12T04:15:02,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_points_over_under,taurean prince,True,17.5,-130,2023-04-12T02:45:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_points_over_under,taurean prince,True,15.5,-155,2023-04-12T03:00:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_points_over_under,taurean prince,True,14.5,125,2023-04-12T04:00:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_points_over_under,taurean prince,True,13.5,105,2023-04-12T04:15:02,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,fanduel,player_points_over_under,taurean prince,False,17.5,100,2023-04-12T02:45:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,fanduel,player_points_over_under,taurean prince,False,16.5,-138,2023-04-12T03:00:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,fanduel,player_points_over_under,taurean prince,False,14.5,-174,2023-04-12T04:00:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,fanduel,player_points_over_under,taurean prince,False,13.5,-140,2023-04-12T04:15:02,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,fanduel,player_points_over_under,taurean prince,False,12.5,-146,2023-04-12T02:30:02,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_points_over_under,taurean prince,False,11.5,110,2023-04-12T02:30:02,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_threes_over_under,taurean prince,True,1.5,-165,2023-04-12T01:30:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_assists_over_under,taurean prince,False,0.5,-340,2023-04-12T04:15:02,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_threes_over_under,taurean prince,False,1.5,130,2023-04-12T01:30:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,betmgm,player_blocks_over_under,taurean prince,False,0.5,-275,2023-04-13T16:45:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,fanduel,player_points_over_under,taurean prince,True,8.5,104,2023-04-15T02:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,fanduel,player_points_over_under,taurean prince,True,9.5,-122,2023-04-15T02:00:02,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,fanduel,player_points_over_under,taurean prince,True,10.5,-104,2023-04-15T01:00:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,fanduel,player_points_over_under,taurean prince,False,4.5,100,2023-04-15T03:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,fanduel,player_points_over_under,taurean prince,False,5.5,-154,2023-04-15T03:00:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,fanduel,player_points_over_under,taurean prince,False,6.5,-210,2023-04-15T04:00:02,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,fanduel,player_points_over_under,taurean prince,False,8.5,-138,2023-04-15T02:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,fanduel,player_points_over_under,taurean prince,False,9.5,-108,2023-04-15T02:00:02,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,fanduel,player_points_over_under,taurean prince,False,10.5,-118,2023-04-15T01:00:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,draftkings,player_points_over_under,taurean prince,True,4.5,-130,2023-04-15T03:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,draftkings,player_points_over_under,taurean prince,True,5.5,110,2023-04-15T03:00:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,draftkings,player_points_over_under,taurean prince,True,6.5,150,2023-04-15T04:00:02,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,draftkings,player_points_over_under,taurean prince,True,7.5,-145,2023-04-15T02:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,draftkings,player_points_over_under,taurean prince,True,9.5,-120,2023-04-15T02:00:02,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,draftkings,player_points_over_under,taurean prince,False,4.5,100,2023-04-15T03:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,draftkings,player_points_over_under,taurean prince,False,5.5,-145,2023-04-15T03:00:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,fanduel,player_points_over_under,taurean prince,True,6.5,154,2023-04-15T04:00:02,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,fanduel,player_points_over_under,taurean prince,True,5.5,116,2023-04-15T03:00:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,fanduel,player_points_over_under,taurean prince,True,4.5,-132,2023-04-15T03:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,betmgm,player_blocks_over_under,taurean prince,True,0.5,190,2023-04-13T16:45:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,fanduel,player_assists_over_under,taurean prince,True,1.5,-250,2023-04-15T02:30:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,fanduel,player_assists_over_under,taurean prince,False,1.5,182,2023-04-15T02:30:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,fanduel,player_assists_over_under,taurean prince,False,2.5,104,2023-04-15T03:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,betmgm,player_threes_over_under,taurean prince,False,1.5,-130,2023-04-15T01:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,fanduel,player_assists_over_under,taurean prince,False,3.5,-3500,2023-04-15T04:00:02,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,draftkings,player_assists_over_under,taurean prince,True,1.5,-235,2023-04-15T02:30:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,draftkings,player_assists_over_under,taurean prince,True,2.5,-135,2023-04-15T03:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,draftkings,player_assists_over_under,taurean prince,True,3.5,900,2023-04-15T04:00:02,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,draftkings,player_assists_over_under,taurean prince,False,1.5,170,2023-04-15T02:30:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,draftkings,player_assists_over_under,taurean prince,False,2.5,105,2023-04-15T03:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,draftkings,player_assists_over_under,taurean prince,False,3.5,-3000,2023-04-15T04:00:02,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,betmgm,player_assists_over_under,taurean prince,True,1.5,-105,2023-04-15T01:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,betmgm,player_assists_over_under,taurean prince,False,1.5,-130,2023-04-15T01:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,fanduel,player_blocks_over_under,taurean prince,True,0.5,1000,2023-04-15T03:45:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,fanduel,player_blocks_over_under,taurean prince,False,0.5,-50000,2023-04-15T04:00:02,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,draftkings,player_blocks_over_under,taurean prince,True,0.5,500,2023-04-15T03:30:02,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,draftkings,player_blocks_over_under,taurean prince,False,0.5,-1000,2023-04-15T03:30:02,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,draftkings,player_points_over_under,taurean prince,False,6.5,-200,2023-04-15T04:00:02,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,draftkings,player_points_over_under,taurean prince,False,7.5,110,2023-04-15T02:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,draftkings,player_points_over_under,taurean prince,False,9.5,-110,2023-04-15T02:00:02,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,caesars,player_points_over_under,taurean prince,True,9.5,-127,2023-04-13T16:45:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,betmgm,player_steals_over_under,taurean prince,True,0.5,-120,2023-04-13T16:45:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,betmgm,player_steals_over_under,taurean prince,False,0.5,-115,2023-04-15T01:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,fanduel,player_threes_over_under,taurean prince,True,0.5,-140,2023-04-15T03:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,betmgm,player_threes_over_under,taurean prince,True,1.5,-105,2023-04-15T01:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,caesars,player_threes_over_under,taurean prince,False,1.5,-121,2023-04-14T21:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,caesars,player_threes_over_under,taurean prince,True,1.5,-113,2023-04-14T21:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,draftkings,player_threes_over_under,taurean prince,False,2.5,-3000,2023-04-15T04:00:02,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,draftkings,player_threes_over_under,taurean prince,False,1.5,-140,2023-04-15T03:30:02,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,draftkings,player_threes_over_under,taurean prince,False,0.5,100,2023-04-15T03:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,draftkings,player_threes_over_under,taurean prince,True,2.5,900,2023-04-15T04:00:02,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,draftkings,player_threes_over_under,taurean prince,True,1.5,105,2023-04-15T03:30:02,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,draftkings,player_threes_over_under,taurean prince,True,0.5,-135,2023-04-15T03:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,fanduel,player_threes_over_under,taurean prince,False,2.5,-3500,2023-04-15T04:00:02,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,fanduel,player_threes_over_under,taurean prince,False,1.5,-138,2023-04-15T03:30:02,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,fanduel,player_threes_over_under,taurean prince,False,0.5,106,2023-04-15T03:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,fanduel,player_threes_over_under,taurean prince,True,2.5,920,2023-04-15T04:00:02,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,fanduel,player_threes_over_under,taurean prince,True,1.5,104,2023-04-15T03:30:02,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,draftkings,player_steals_over_under,taurean prince,False,0.5,-2500,2023-04-15T03:45:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,fanduel,player_assists_over_under,taurean prince,True,2.5,-138,2023-04-15T03:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,draftkings,player_steals_over_under,taurean prince,True,0.5,800,2023-04-15T03:45:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,fanduel,player_steals_over_under,taurean prince,True,0.5,1000,2023-04-15T04:00:02,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,caesars,player_points_over_under,taurean prince,False,9.5,-108,2023-04-13T16:45:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,betmgm,player_points_over_under,taurean prince,True,9.5,-130,2023-04-13T16:45:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,betmgm,player_points_over_under,taurean prince,False,9.5,-105,2023-04-15T01:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,fanduel,player_rebounds_over_under,taurean prince,True,0.5,550,2023-04-15T04:00:02,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,fanduel,player_rebounds_over_under,taurean prince,True,1.5,188,2023-04-15T03:30:02,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,fanduel,player_rebounds_over_under,taurean prince,True,2.5,-106,2023-04-15T02:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,fanduel,player_rebounds_over_under,taurean prince,False,0.5,-1100,2023-04-15T04:00:02,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,fanduel,player_rebounds_over_under,taurean prince,False,1.5,-260,2023-04-15T03:30:02,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,fanduel,player_rebounds_over_under,taurean prince,False,2.5,-125,2023-04-15T02:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,draftkings,player_rebounds_over_under,taurean prince,True,0.5,500,2023-04-15T04:00:02,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,draftkings,player_rebounds_over_under,taurean prince,True,1.5,180,2023-04-15T03:30:02,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,draftkings,player_rebounds_over_under,taurean prince,True,2.5,105,2023-04-15T02:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,draftkings,player_rebounds_over_under,taurean prince,False,0.5,-1000,2023-04-15T04:00:02,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,draftkings,player_rebounds_over_under,taurean prince,False,1.5,-245,2023-04-15T03:30:02,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,draftkings,player_rebounds_over_under,taurean prince,False,2.5,-135,2023-04-15T02:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,betmgm,player_rebounds_over_under,taurean prince,True,2.5,-165,2023-04-15T01:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,betmgm,player_rebounds_over_under,taurean prince,False,2.5,125,2023-04-15T01:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,fanduel,player_steals_over_under,taurean prince,False,0.5,-10000,2023-04-15T04:00:02,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-14,5fe846ca4de92ae0bdd55673db798090,fanduel,player_assists_over_under,taurean prince,True,3.5,920,2023-04-15T04:00:02,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_assists_over_under,taurean prince,True,1.5,-158,2023-04-17T03:30:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,betmgm,player_threes_over_under,taurean prince,True,1.5,110,2023-04-16T14:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_points_over_under,taurean prince,True,8.5,-108,2023-04-17T03:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_points_over_under,taurean prince,False,0.5,-130,2023-04-17T05:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_points_over_under,taurean prince,False,2.5,-174,2023-04-17T04:45:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_points_over_under,taurean prince,False,3.5,118,2023-04-17T04:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_points_over_under,taurean prince,False,4.5,-106,2023-04-17T04:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_points_over_under,taurean prince,False,5.5,-128,2023-04-17T03:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_points_over_under,taurean prince,False,7.5,-158,2023-04-17T03:15:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,betmgm,player_threes_over_under,taurean prince,False,1.5,-145,2023-04-16T14:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_points_over_under,taurean prince,False,8.5,-122,2023-04-17T03:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_points_over_under,taurean prince,True,2.5,125,2023-04-17T04:45:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_points_over_under,taurean prince,True,3.5,-165,2023-04-17T04:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_points_over_under,taurean prince,True,4.5,-120,2023-04-17T04:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_points_over_under,taurean prince,True,5.5,100,2023-04-17T03:30:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_points_over_under,taurean prince,True,6.5,-155,2023-04-17T03:15:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_points_over_under,taurean prince,True,8.5,-110,2023-04-17T03:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_points_over_under,taurean prince,False,0.5,-130,2023-04-17T05:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_points_over_under,taurean prince,True,0.5,-105,2023-04-17T05:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_points_over_under,taurean prince,True,5.5,-104,2023-04-17T03:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_points_over_under,taurean prince,True,4.5,-125,2023-04-17T04:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_points_over_under,taurean prince,True,3.5,-158,2023-04-17T04:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_assists_over_under,taurean prince,True,2.5,750,2023-04-17T05:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_assists_over_under,taurean prince,False,1.5,118,2023-04-17T03:30:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_assists_over_under,taurean prince,False,2.5,-2000,2023-04-17T05:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_assists_over_under,taurean prince,True,1.5,-155,2023-04-17T03:30:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_assists_over_under,taurean prince,True,2.5,700,2023-04-17T05:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_assists_over_under,taurean prince,False,1.5,115,2023-04-17T03:30:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_assists_over_under,taurean prince,False,2.5,-1600,2023-04-17T05:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,betmgm,player_assists_over_under,taurean prince,True,1.5,140,2023-04-17T02:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,betmgm,player_assists_over_under,taurean prince,False,1.5,-190,2023-04-17T02:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_blocks_over_under,taurean prince,True,0.5,1000,2023-04-17T05:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_blocks_over_under,taurean prince,False,0.5,-50000,2023-04-17T05:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_blocks_over_under,taurean prince,True,0.5,800,2023-04-17T04:45:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_blocks_over_under,taurean prince,False,0.5,-2500,2023-04-17T04:45:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,betmgm,player_blocks_over_under,taurean prince,True,0.5,250,2023-04-17T02:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,betmgm,player_blocks_over_under,taurean prince,False,0.5,-350,2023-04-17T02:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_points_over_under,taurean prince,True,0.5,-102,2023-04-17T05:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_points_over_under,taurean prince,True,2.5,130,2023-04-17T04:45:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_points_over_under,taurean prince,False,2.5,-165,2023-04-17T04:45:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_points_over_under,taurean prince,False,3.5,125,2023-04-17T04:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_points_over_under,taurean prince,True,7.5,118,2023-04-17T03:15:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_points_over_under,taurean prince,False,5.5,-130,2023-04-17T03:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_steals_over_under,taurean prince,True,0.5,1000,2023-04-17T05:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_steals_over_under,taurean prince,False,0.5,-5000,2023-04-17T05:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_steals_over_under,taurean prince,True,0.5,1100,2023-04-17T05:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_steals_over_under,taurean prince,False,0.5,-8000,2023-04-17T05:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,betmgm,player_steals_over_under,taurean prince,True,0.5,-120,2023-04-16T14:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_threes_over_under,taurean prince,True,0.5,640,2023-04-17T05:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_threes_over_under,taurean prince,True,1.5,162,2023-04-17T03:15:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,betmgm,player_rebounds_over_under,taurean prince,False,2.5,-200,2023-04-16T14:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_threes_over_under,taurean prince,False,0.5,-1450,2023-04-17T05:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_threes_over_under,taurean prince,True,0.5,650,2023-04-17T05:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_threes_over_under,taurean prince,True,1.5,155,2023-04-17T03:15:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_threes_over_under,taurean prince,False,0.5,-1400,2023-04-17T05:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_threes_over_under,taurean prince,False,1.5,-215,2023-04-17T03:15:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,caesars,player_threes_over_under,taurean prince,True,1.5,108,2023-04-16T14:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_points_over_under,taurean prince,False,4.5,-115,2023-04-17T04:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,caesars,player_threes_over_under,taurean prince,False,1.5,-148,2023-04-16T14:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_threes_over_under,taurean prince,False,1.5,-220,2023-04-17T03:15:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,betmgm,player_rebounds_over_under,taurean prince,True,2.5,145,2023-04-16T14:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,betmgm,player_steals_over_under,taurean prince,False,0.5,-110,2023-04-16T14:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_rebounds_over_under,taurean prince,False,1.5,-235,2023-04-17T04:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_points_over_under,taurean prince,False,6.5,120,2023-04-17T03:15:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_rebounds_over_under,taurean prince,False,2.5,-200,2023-04-17T03:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,caesars,player_points_over_under,taurean prince,True,8.5,-123,2023-04-16T14:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,caesars,player_points_over_under,taurean prince,False,8.5,-111,2023-04-16T14:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,betmgm,player_points_over_under,taurean prince,True,8.5,-120,2023-04-16T14:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,betmgm,player_points_over_under,taurean prince,False,8.5,-110,2023-04-16T14:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_rebounds_over_under,taurean prince,True,0.5,490,2023-04-17T05:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_rebounds_over_under,taurean prince,True,1.5,178,2023-04-17T04:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_rebounds_over_under,taurean prince,True,2.5,154,2023-04-17T03:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_points_over_under,taurean prince,False,8.5,-120,2023-04-17T03:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_rebounds_over_under,taurean prince,False,1.5,-245,2023-04-17T04:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_rebounds_over_under,taurean prince,False,0.5,-900,2023-04-17T05:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_rebounds_over_under,taurean prince,True,2.5,150,2023-04-17T03:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_rebounds_over_under,taurean prince,True,1.5,170,2023-04-17T04:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_rebounds_over_under,taurean prince,False,0.5,-800,2023-04-17T05:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_rebounds_over_under,taurean prince,False,2.5,-210,2023-04-17T03:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_rebounds_over_under,taurean prince,True,0.5,450,2023-04-17T05:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_points_over_under,taurean prince,True,13.5,154,2023-04-20T04:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_points_over_under,taurean prince,True,14.5,154,2023-04-20T04:00:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_points_over_under,taurean prince,False,7.5,-120,2023-04-19T16:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_points_over_under,taurean prince,False,8.5,110,2023-04-20T03:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_points_over_under,taurean prince,False,9.5,-110,2023-04-20T02:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_points_over_under,taurean prince,False,10.5,-115,2023-04-20T02:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_points_over_under,taurean prince,False,12.5,-600,2023-04-20T04:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_points_over_under,taurean prince,False,13.5,-210,2023-04-20T04:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_points_over_under,taurean prince,True,7.5,100,2023-04-19T13:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_points_over_under,taurean prince,True,12.5,370,2023-04-20T04:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_points_over_under,taurean prince,True,8.5,-145,2023-04-20T03:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_points_over_under,taurean prince,True,9.5,-110,2023-04-20T02:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_points_over_under,taurean prince,True,10.5,100,2023-04-20T02:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_points_over_under,taurean prince,True,12.5,350,2023-04-20T04:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_points_over_under,taurean prince,True,13.5,150,2023-04-20T04:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_points_over_under,taurean prince,False,14.5,-210,2023-04-20T04:00:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_points_over_under,taurean prince,True,10.5,-105,2023-04-20T02:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_assists_over_under,taurean prince,True,0.5,-220,2023-04-20T03:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_points_over_under,taurean prince,True,8.5,-146,2023-04-20T03:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_points_over_under,taurean prince,True,14.5,125,2023-04-20T04:00:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_assists_over_under,taurean prince,True,1.5,1000,2023-04-20T04:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_assists_over_under,taurean prince,False,0.5,162,2023-04-20T03:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_assists_over_under,taurean prince,False,1.5,-7000,2023-04-20T04:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_assists_over_under,taurean prince,True,0.5,-215,2023-04-20T03:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_assists_over_under,taurean prince,True,1.5,340,2023-04-20T04:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_assists_over_under,taurean prince,False,0.5,155,2023-04-20T03:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_assists_over_under,taurean prince,False,1.5,-525,2023-04-20T04:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_assists_over_under,taurean prince,True,1.5,-105,2023-04-20T01:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_assists_over_under,taurean prince,False,1.5,-130,2023-04-20T01:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_blocks_over_under,taurean prince,True,0.5,1000,2023-04-20T04:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_blocks_over_under,taurean prince,False,0.5,-100000,2023-04-20T04:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_blocks_over_under,taurean prince,True,0.5,1100,2023-04-20T04:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_blocks_over_under,taurean prince,False,0.5,-8000,2023-04-20T04:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_blocks_over_under,taurean prince,True,0.5,220,2023-04-20T01:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_blocks_over_under,taurean prince,False,0.5,-300,2023-04-20T01:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_points_over_under,taurean prince,True,7.5,-106,2023-04-19T16:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_points_over_under,taurean prince,True,9.5,-120,2023-04-20T02:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_points_over_under,taurean prince,False,7.5,-130,2023-04-19T13:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_points_over_under,taurean prince,False,7.5,-120,2023-04-19T13:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_points_over_under,taurean prince,False,9.5,-120,2023-04-20T02:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_points_over_under,taurean prince,False,8.5,110,2023-04-20T03:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_steals_over_under,taurean prince,False,0.5,-50000,2023-04-20T04:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_steals_over_under,taurean prince,True,0.5,650,2023-04-20T04:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_steals_over_under,taurean prince,False,0.5,-1400,2023-04-20T04:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_steals_over_under,taurean prince,True,0.5,-150,2023-04-20T01:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_steals_over_under,taurean prince,False,0.5,110,2023-04-20T01:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_threes_over_under,taurean prince,True,0.5,-200,2023-04-20T03:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_threes_over_under,taurean prince,True,1.5,132,2023-04-20T02:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_threes_over_under,taurean prince,True,2.5,-130,2023-04-20T03:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_threes_over_under,taurean prince,True,3.5,1000,2023-04-20T04:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_threes_over_under,taurean prince,False,0.5,148,2023-04-20T03:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_rebounds_over_under,taurean prince,False,2.5,-150,2023-04-20T01:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_threes_over_under,taurean prince,False,1.5,-178,2023-04-20T02:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_threes_over_under,taurean prince,False,3.5,-10000,2023-04-20T04:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_threes_over_under,taurean prince,True,0.5,-190,2023-04-20T03:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_threes_over_under,taurean prince,True,1.5,130,2023-04-20T02:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_threes_over_under,taurean prince,True,2.5,-125,2023-04-20T03:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_threes_over_under,taurean prince,True,3.5,350,2023-04-20T04:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_threes_over_under,taurean prince,False,0.5,140,2023-04-20T03:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_threes_over_under,taurean prince,False,1.5,-170,2023-04-20T02:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_threes_over_under,taurean prince,False,2.5,-105,2023-04-20T03:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_threes_over_under,taurean prince,False,3.5,-550,2023-04-20T04:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_threes_over_under,taurean prince,True,1.5,105,2023-04-20T01:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_threes_over_under,taurean prince,False,1.5,-145,2023-04-20T01:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_threes_over_under,taurean prince,False,2.5,-102,2023-04-20T03:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_rebounds_over_under,taurean prince,False,1.5,115,2023-04-19T13:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_steals_over_under,taurean prince,True,0.5,1000,2023-04-20T04:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_rebounds_over_under,taurean prince,True,3.5,1000,2023-04-20T04:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_rebounds_over_under,taurean prince,True,2.5,115,2023-04-20T01:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_rebounds_over_under,taurean prince,True,1.5,-150,2023-04-19T13:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_rebounds_over_under,taurean prince,False,4.5,-245,2023-04-20T03:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_rebounds_over_under,taurean prince,False,3.5,-8000,2023-04-20T04:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_rebounds_over_under,taurean prince,False,1.5,100,2023-04-20T02:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_rebounds_over_under,taurean prince,True,4.5,180,2023-04-20T03:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_rebounds_over_under,taurean prince,True,3.5,1100,2023-04-20T04:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_rebounds_over_under,taurean prince,True,2.5,-120,2023-04-20T02:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_rebounds_over_under,taurean prince,True,1.5,-135,2023-04-20T02:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_rebounds_over_under,taurean prince,False,4.5,-250,2023-04-20T03:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_rebounds_over_under,taurean prince,False,3.5,-5000,2023-04-20T04:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_rebounds_over_under,taurean prince,False,2.5,-108,2023-04-20T02:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_rebounds_over_under,taurean prince,False,2.5,-110,2023-04-20T02:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_rebounds_over_under,taurean prince,True,4.5,182,2023-04-20T03:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_rebounds_over_under,taurean prince,False,1.5,100,2023-04-20T02:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_points_over_under,taurean prince,False,10.5,-135,2023-04-20T02:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_points_over_under,taurean prince,False,12.5,-550,2023-04-20T04:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_points_over_under,taurean prince,False,14.5,-170,2023-04-20T04:00:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_points_over_under,taurean prince,True,7.5,-110,2023-04-19T13:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_points_over_under,taurean prince,False,13.5,-200,2023-04-20T04:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_points_over_under,taurean prince,False,9.5,-120,2023-04-20T01:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_rebounds_over_under,taurean prince,True,1.5,-132,2023-04-20T02:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_rebounds_over_under,taurean prince,True,2.5,-122,2023-04-20T02:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_points_over_under,taurean prince,True,9.5,-110,2023-04-20T01:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_rebounds_over_under,taurean prince,False,1.5,-150,2023-04-22T02:30:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_steals_over_under,taurean prince,True,1.5,1000,2023-04-22T04:00:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_rebounds_over_under,taurean prince,False,2.5,-190,2023-04-22T01:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,betmgm,player_rebounds_over_under,taurean prince,True,2.5,140,2023-04-22T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_rebounds_over_under,taurean prince,False,0.5,-310,2023-04-22T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,betmgm,player_rebounds_over_under,taurean prince,False,2.5,-190,2023-04-22T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_steals_over_under,taurean prince,True,0.5,102,2023-04-22T02:00:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_steals_over_under,taurean prince,False,0.5,-136,2023-04-22T02:00:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,betmgm,player_steals_over_under,taurean prince,True,0.5,100,2023-04-22T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_steals_over_under,taurean prince,True,0.5,105,2023-04-22T02:00:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_steals_over_under,taurean prince,True,1.5,700,2023-04-22T03:30:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_steals_over_under,taurean prince,False,0.5,-140,2023-04-22T02:00:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_steals_over_under,taurean prince,False,1.5,-1600,2023-04-22T03:30:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,betmgm,player_steals_over_under,taurean prince,False,0.5,-135,2023-04-22T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_threes_over_under,taurean prince,True,1.5,1000,2023-04-22T04:00:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_rebounds_over_under,taurean prince,True,2.5,140,2023-04-22T01:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_threes_over_under,taurean prince,False,1.5,-7000,2023-04-22T04:00:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_steals_over_under,taurean prince,False,1.5,-50000,2023-04-22T04:00:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_rebounds_over_under,taurean prince,True,1.5,115,2023-04-22T02:30:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_rebounds_over_under,taurean prince,True,0.5,220,2023-04-22T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_rebounds_over_under,taurean prince,False,2.5,-200,2023-04-22T02:00:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_points_over_under,taurean prince,False,7.5,-230,2023-04-22T03:30:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_points_over_under,taurean prince,False,6.5,194,2023-04-22T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_points_over_under,taurean prince,True,10.5,-154,2023-04-22T02:30:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_points_over_under,taurean prince,True,9.5,108,2023-04-22T03:00:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_points_over_under,taurean prince,True,8.5,320,2023-04-22T04:00:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_points_over_under,taurean prince,True,7.5,168,2023-04-22T03:30:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_points_over_under,taurean prince,True,6.5,-270,2023-04-22T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,betmgm,player_blocks_over_under,taurean prince,False,0.5,-350,2023-04-22T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,betmgm,player_blocks_over_under,taurean prince,True,0.5,230,2023-04-22T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_blocks_over_under,taurean prince,False,0.5,-8000,2023-04-22T03:30:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_blocks_over_under,taurean prince,True,0.5,1100,2023-04-22T03:30:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_blocks_over_under,taurean prince,False,0.5,-100000,2023-04-22T04:00:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_blocks_over_under,taurean prince,True,0.5,1000,2023-04-22T03:30:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,betmgm,player_assists_over_under,taurean prince,False,1.5,-225,2023-04-22T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,betmgm,player_assists_over_under,taurean prince,True,1.5,160,2023-04-22T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_assists_over_under,taurean prince,False,2.5,-240,2023-04-22T02:00:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_assists_over_under,taurean prince,False,1.5,-650,2023-04-22T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_assists_over_under,taurean prince,True,2.5,175,2023-04-22T02:00:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_assists_over_under,taurean prince,True,1.5,1000,2023-04-22T04:00:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_points_over_under,taurean prince,False,8.5,-490,2023-04-22T04:00:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_threes_over_under,taurean prince,True,1.5,350,2023-04-22T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_points_over_under,taurean prince,False,9.5,-144,2023-04-22T03:00:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_points_over_under,taurean prince,True,6.5,-255,2023-04-22T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_rebounds_over_under,taurean prince,False,1.5,-3500,2023-04-22T04:00:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_rebounds_over_under,taurean prince,False,0.5,-310,2023-04-22T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_rebounds_over_under,taurean prince,True,2.5,148,2023-04-22T02:00:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_rebounds_over_under,taurean prince,True,1.5,920,2023-04-22T04:00:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_rebounds_over_under,taurean prince,True,0.5,220,2023-04-22T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,betmgm,player_points_over_under,taurean prince,False,9.5,-105,2023-04-21T17:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,betmgm,player_points_over_under,taurean prince,False,7.5,-120,2023-04-22T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,betmgm,player_points_over_under,taurean prince,True,9.5,-125,2023-04-21T17:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,betmgm,player_points_over_under,taurean prince,True,7.5,-115,2023-04-22T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_points_over_under,taurean prince,False,10.5,110,2023-04-22T02:30:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_assists_over_under,taurean prince,False,1.5,-7000,2023-04-22T04:00:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_points_over_under,taurean prince,False,9.5,-145,2023-04-22T03:00:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_points_over_under,taurean prince,False,8.5,-1000,2023-04-22T04:00:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_points_over_under,taurean prince,False,7.5,-235,2023-04-22T03:30:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_points_over_under,taurean prince,False,6.5,185,2023-04-22T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_points_over_under,taurean prince,True,10.5,-145,2023-04-22T02:30:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_points_over_under,taurean prince,True,9.5,110,2023-04-22T03:00:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_points_over_under,taurean prince,True,8.5,500,2023-04-22T04:00:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_points_over_under,taurean prince,True,7.5,170,2023-04-22T03:30:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_points_over_under,taurean prince,False,10.5,116,2023-04-22T02:30:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_threes_over_under,taurean prince,False,1.5,-550,2023-04-22T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_assists_over_under,taurean prince,True,1.5,390,2023-04-22T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,betmgm,player_threes_over_under,taurean prince,False,1.5,-175,2023-04-22T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,betmgm,player_threes_over_under,taurean prince,True,1.5,130,2023-04-22T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_assists_over_under,taurean prince,True,0.5,475,2023-04-24T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_points_over_under,taurean prince,False,7.5,-120,2023-04-24T03:30:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_points_over_under,taurean prince,False,6.5,130,2023-04-24T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_points_over_under,taurean prince,True,11.5,115,2023-04-24T02:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_points_over_under,taurean prince,True,9.5,135,2023-04-24T03:00:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_points_over_under,taurean prince,True,8.5,-150,2023-04-24T03:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_points_over_under,taurean prince,True,7.5,-110,2023-04-24T03:30:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_points_over_under,taurean prince,True,6.5,-175,2023-04-24T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,pinnacle,player_points_over_under,taurean prince,False,7.5,-126,2023-04-24T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,pinnacle,player_points_over_under,taurean prince,True,7.5,-105,2023-04-24T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_points_over_under,taurean prince,False,11.5,-136,2023-04-24T02:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_points_over_under,taurean prince,False,9.5,-154,2023-04-24T02:45:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_points_over_under,taurean prince,False,8.5,136,2023-04-24T03:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_points_over_under,taurean prince,False,7.5,-118,2023-04-24T03:30:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,pinnacle,player_assists_over_under,taurean prince,False,1.5,-230,2023-04-24T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_points_over_under,taurean prince,False,6.5,134,2023-04-24T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_points_over_under,taurean prince,True,9.5,116,2023-04-24T02:45:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_points_over_under,taurean prince,True,8.5,-182,2023-04-24T03:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_points_over_under,taurean prince,True,7.5,-112,2023-04-24T03:30:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_points_over_under,taurean prince,True,6.5,-180,2023-04-24T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_blocks_over_under,taurean prince,False,0.5,-400,2023-04-24T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_blocks_over_under,taurean prince,True,0.5,280,2023-04-24T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_blocks_over_under,taurean prince,False,0.5,-5000,2023-04-24T03:30:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_blocks_over_under,taurean prince,True,0.5,1000,2023-04-24T03:30:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_blocks_over_under,taurean prince,False,0.5,-10000,2023-04-24T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_blocks_over_under,taurean prince,True,0.5,1000,2023-04-24T03:30:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_assists_over_under,taurean prince,False,1.5,-225,2023-04-24T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_assists_over_under,taurean prince,True,1.5,160,2023-04-24T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_assists_over_under,taurean prince,False,0.5,-900,2023-04-24T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_points_over_under,taurean prince,False,8.5,115,2023-04-24T03:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_points_over_under,taurean prince,True,11.5,102,2023-04-24T02:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_points_over_under,taurean prince,False,9.5,-180,2023-04-24T03:00:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_points_over_under,taurean prince,True,7.5,-105,2023-04-24T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_assists_over_under,taurean prince,False,0.5,-900,2023-04-24T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_assists_over_under,taurean prince,True,0.5,490,2023-04-24T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_threes_over_under,taurean prince,False,1.5,-210,2023-04-24T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_threes_over_under,taurean prince,True,1.5,155,2023-04-24T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_threes_over_under,taurean prince,False,1.5,-900,2023-04-24T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_threes_over_under,taurean prince,True,1.5,475,2023-04-24T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,pinnacle,player_threes_over_under,taurean prince,False,1.5,-225,2023-04-24T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,pinnacle,player_threes_over_under,taurean prince,True,1.5,160,2023-04-24T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_threes_over_under,taurean prince,False,1.5,-900,2023-04-24T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_threes_over_under,taurean prince,True,1.5,490,2023-04-24T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_steals_over_under,taurean prince,False,0.5,-135,2023-04-24T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_steals_over_under,taurean prince,True,0.5,100,2023-04-24T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_steals_over_under,taurean prince,False,0.5,-2500,2023-04-24T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_steals_over_under,taurean prince,True,0.5,800,2023-04-24T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_steals_over_under,taurean prince,False,0.5,-3000,2023-04-24T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_steals_over_under,taurean prince,True,0.5,880,2023-04-24T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_rebounds_over_under,taurean prince,False,1.5,140,2023-04-24T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_rebounds_over_under,taurean prince,True,1.5,-190,2023-04-24T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_rebounds_over_under,taurean prince,False,3.5,-425,2023-04-24T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_rebounds_over_under,taurean prince,False,1.5,105,2023-04-24T02:00:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_rebounds_over_under,taurean prince,True,3.5,285,2023-04-24T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_rebounds_over_under,taurean prince,True,1.5,-140,2023-04-24T02:00:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,pinnacle,player_rebounds_over_under,taurean prince,False,1.5,141,2023-04-24T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,pinnacle,player_rebounds_over_under,taurean prince,True,1.5,-194,2023-04-24T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_rebounds_over_under,taurean prince,False,3.5,-440,2023-04-24T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_rebounds_over_under,taurean prince,False,1.5,108,2023-04-24T02:00:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_rebounds_over_under,taurean prince,True,3.5,290,2023-04-24T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_rebounds_over_under,taurean prince,True,1.5,-144,2023-04-24T02:00:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_points_over_under,taurean prince,False,7.5,-125,2023-04-24T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_points_over_under,taurean prince,False,11.5,-155,2023-04-24T02:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,pinnacle,player_assists_over_under,taurean prince,True,1.5,163,2023-04-24T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_rebounds_over_under,taurean prince,False,2.5,-145,2023-04-25T22:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_threes_over_under,taurean prince,True,1.5,120,2023-04-25T22:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,fanduel,player_points_over_under,taurean prince,True,9.5,104,2023-04-26T01:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,fanduel,player_points_over_under,taurean prince,True,11.5,-146,2023-04-26T01:30:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,fanduel,player_points_over_under,taurean prince,True,13.5,520,2023-04-26T03:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,fanduel,player_points_over_under,taurean prince,True,14.5,-102,2023-04-26T03:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,fanduel,player_points_over_under,taurean prince,False,8.5,100,2023-04-26T01:15:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,fanduel,player_points_over_under,taurean prince,False,9.5,-128,2023-04-26T01:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,fanduel,player_points_over_under,taurean prince,False,11.5,110,2023-04-26T01:30:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,fanduel,player_points_over_under,taurean prince,False,13.5,-1000,2023-04-26T03:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,fanduel,player_points_over_under,taurean prince,False,14.5,-130,2023-04-26T03:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,pinnacle,player_points_over_under,taurean prince,True,8.5,-137,2023-04-25T23:00:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,pinnacle,player_points_over_under,taurean prince,False,8.5,103,2023-04-25T23:00:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_points_over_under,taurean prince,True,8.5,-125,2023-04-26T01:15:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_points_over_under,taurean prince,True,11.5,-135,2023-04-26T01:30:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_points_over_under,taurean prince,True,13.5,145,2023-04-26T03:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_points_over_under,taurean prince,True,14.5,-105,2023-04-26T03:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_points_over_under,taurean prince,False,8.5,-105,2023-04-26T01:15:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_points_over_under,taurean prince,False,11.5,105,2023-04-26T01:30:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_points_over_under,taurean prince,False,13.5,-195,2023-04-26T03:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_points_over_under,taurean prince,False,14.5,-125,2023-04-26T03:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,fanduel,player_points_over_under,taurean prince,True,8.5,-132,2023-04-26T01:15:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_points_over_under,taurean prince,True,8.5,-135,2023-04-25T22:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_blocks_over_under,taurean prince,False,0.5,-350,2023-04-25T22:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_blocks_over_under,taurean prince,False,1.5,-8000,2023-04-26T03:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_threes_over_under,taurean prince,False,1.5,-160,2023-04-25T22:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,fanduel,player_assists_over_under,taurean prince,True,0.5,1000,2023-04-26T03:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,fanduel,player_assists_over_under,taurean prince,True,1.5,168,2023-04-26T01:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,fanduel,player_assists_over_under,taurean prince,False,0.5,-10000,2023-04-26T03:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,fanduel,player_assists_over_under,taurean prince,False,1.5,-230,2023-04-26T01:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,pinnacle,player_assists_over_under,taurean prince,True,1.5,-113,2023-04-26T01:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,pinnacle,player_assists_over_under,taurean prince,False,1.5,-116,2023-04-26T01:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_assists_over_under,taurean prince,True,0.5,750,2023-04-26T03:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_assists_over_under,taurean prince,True,1.5,160,2023-04-26T01:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_assists_over_under,taurean prince,False,0.5,-2000,2023-04-26T03:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_assists_over_under,taurean prince,False,1.5,-220,2023-04-26T01:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_assists_over_under,taurean prince,True,1.5,-125,2023-04-25T22:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_assists_over_under,taurean prince,False,1.5,-110,2023-04-25T22:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,fanduel,player_blocks_over_under,taurean prince,True,1.5,1000,2023-04-26T03:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,fanduel,player_blocks_over_under,taurean prince,False,0.5,-650,2023-04-26T01:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,fanduel,player_blocks_over_under,taurean prince,False,1.5,-100000,2023-04-26T03:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_blocks_over_under,taurean prince,True,0.5,370,2023-04-26T01:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_blocks_over_under,taurean prince,True,1.5,1100,2023-04-26T03:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_blocks_over_under,taurean prince,False,0.5,-600,2023-04-26T01:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_blocks_over_under,taurean prince,True,0.5,250,2023-04-25T22:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_points_over_under,taurean prince,False,8.5,100,2023-04-25T22:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,fanduel,player_blocks_over_under,taurean prince,True,0.5,390,2023-04-26T01:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,fanduel,player_rebounds_over_under,taurean prince,True,1.5,178,2023-04-26T02:15:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_steals_over_under,taurean prince,False,0.5,-145,2023-04-26T01:30:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_steals_over_under,taurean prince,False,1.5,-160,2023-04-26T01:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_steals_over_under,taurean prince,False,2.5,-1100,2023-04-26T03:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_steals_over_under,taurean prince,True,0.5,-130,2023-04-25T22:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_steals_over_under,taurean prince,False,0.5,-105,2023-04-25T22:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,fanduel,player_threes_over_under,taurean prince,True,1.5,-220,2023-04-26T01:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,fanduel,player_threes_over_under,taurean prince,True,2.5,128,2023-04-26T02:45:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,fanduel,player_threes_over_under,taurean prince,True,3.5,1000,2023-04-26T03:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,fanduel,player_threes_over_under,taurean prince,False,1.5,162,2023-04-26T01:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,fanduel,player_threes_over_under,taurean prince,False,2.5,-172,2023-04-26T02:45:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,fanduel,player_threes_over_under,taurean prince,False,3.5,-50000,2023-04-26T03:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,pinnacle,player_threes_over_under,taurean prince,False,1.5,-163,2023-04-25T23:00:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_threes_over_under,taurean prince,True,1.5,-215,2023-04-26T01:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_threes_over_under,taurean prince,True,2.5,120,2023-04-26T02:45:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_threes_over_under,taurean prince,True,3.5,900,2023-04-26T03:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_threes_over_under,taurean prince,False,1.5,155,2023-04-26T01:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_threes_over_under,taurean prince,False,2.5,-160,2023-04-26T02:45:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_threes_over_under,taurean prince,False,3.5,-3000,2023-04-26T03:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,fanduel,player_rebounds_over_under,taurean prince,True,0.5,1000,2023-04-26T03:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_steals_over_under,taurean prince,True,2.5,550,2023-04-26T03:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_steals_over_under,taurean prince,True,1.5,120,2023-04-26T01:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,pinnacle,player_threes_over_under,taurean prince,True,1.5,121,2023-04-25T23:00:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,fanduel,player_steals_over_under,taurean prince,False,2.5,-100000,2023-04-26T03:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,fanduel,player_rebounds_over_under,taurean prince,True,2.5,114,2023-04-26T01:15:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_steals_over_under,taurean prince,True,0.5,110,2023-04-26T01:30:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,fanduel,player_rebounds_over_under,taurean prince,False,0.5,-7000,2023-04-26T03:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,fanduel,player_rebounds_over_under,taurean prince,False,1.5,-245,2023-04-26T02:15:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,fanduel,player_rebounds_over_under,taurean prince,False,2.5,-152,2023-04-26T01:15:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,pinnacle,player_rebounds_over_under,taurean prince,True,1.5,-180,2023-04-24T15:45:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,pinnacle,player_rebounds_over_under,taurean prince,False,1.5,132,2023-04-24T15:45:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,pinnacle,player_rebounds_over_under,taurean prince,False,2.5,-146,2023-04-25T23:00:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_rebounds_over_under,taurean prince,True,0.5,600,2023-04-26T03:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_rebounds_over_under,taurean prince,True,1.5,170,2023-04-26T02:15:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,pinnacle,player_rebounds_over_under,taurean prince,True,2.5,109,2023-04-25T23:00:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_rebounds_over_under,taurean prince,False,0.5,-1200,2023-04-26T03:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_rebounds_over_under,taurean prince,False,1.5,-235,2023-04-26T02:15:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_rebounds_over_under,taurean prince,False,2.5,-150,2023-04-26T01:15:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,fanduel,player_steals_over_under,taurean prince,False,1.5,-166,2023-04-26T01:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_rebounds_over_under,taurean prince,True,2.5,110,2023-04-25T22:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,fanduel,player_steals_over_under,taurean prince,True,0.5,110,2023-04-26T01:30:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,fanduel,player_steals_over_under,taurean prince,True,1.5,124,2023-04-26T01:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,fanduel,player_steals_over_under,taurean prince,True,2.5,1000,2023-04-26T03:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_rebounds_over_under,taurean prince,True,2.5,115,2023-04-26T01:15:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,fanduel,player_steals_over_under,taurean prince,False,0.5,-146,2023-04-26T01:30:02,Denver Nuggets,Minnesota Timberwolves
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,taurean prince,True,15.5,105,2023-10-25T01:35:09,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,taurean prince,True,14.5,100,2023-10-25T01:00:35,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,taurean prince,True,13.5,105,2023-10-25T00:25:18,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,taurean prince,True,12.5,-110,2023-10-25T00:51:09,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,taurean prince,True,11.5,-105,2023-10-25T00:01:34,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,taurean prince,True,10.5,250,2023-10-24T23:40:32,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,taurean prince,True,8.5,105,2023-10-23T22:50:04,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,taurean prince,True,7.5,-110,2023-10-24T23:40:32,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,taurean prince,True,9.5,180,2023-10-24T23:40:32,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,taurean prince,True,16.5,-140,2023-10-25T01:16:51,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,taurean prince,True,7.5,-140,2023-10-23T22:50:04,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,taurean prince,True,8.5,130,2023-10-24T23:40:32,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,taurean prince,True,10.5,-110,2023-10-25T00:20:04,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,taurean prince,True,17.5,-110,2023-10-25T01:10:04,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,taurean prince,False,11.5,-125,2023-10-25T00:01:34,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,taurean prince,False,6.5,125,2023-10-24T23:40:32,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,taurean prince,False,7.5,110,2023-10-23T22:50:04,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,taurean prince,False,8.5,-170,2023-10-24T23:40:32,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,taurean prince,False,9.5,-235,2023-10-24T23:40:32,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,taurean prince,False,10.5,-340,2023-10-24T23:40:32,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,taurean prince,False,7.5,-115,2023-10-24T23:40:32,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,taurean prince,False,8.5,-135,2023-10-23T22:50:04,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,taurean prince,False,10.5,-120,2023-10-25T00:20:04,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,taurean prince,False,12.5,-120,2023-10-25T00:51:09,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,taurean prince,False,13.5,-140,2023-10-25T00:25:18,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,taurean prince,False,14.5,-135,2023-10-25T01:00:35,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,taurean prince,False,15.5,-135,2023-10-25T01:35:09,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,fanduel,player_points_over_under,taurean prince,False,18.5,-3500,2023-10-25T01:50:17,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,taurean prince,False,16.5,105,2023-10-25T01:16:51,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,taurean prince,True,18.5,950,2023-10-25T01:51:01,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,fanduel,player_points_over_under,taurean prince,False,17.5,-184,2023-10-25T01:20:14,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_assists_over_under,taurean prince,True,1.5,185,2023-10-24T23:36:03,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,fanduel,player_points_over_under,taurean prince,False,12.5,102,2023-10-25T01:00:08,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,taurean prince,False,17.5,-120,2023-10-25T01:10:04,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_assists_over_under,taurean prince,True,0.5,-230,2023-10-24T23:40:32,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_assists_over_under,taurean prince,True,1.5,180,2023-10-24T23:25:07,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_assists_over_under,taurean prince,False,0.5,180,2023-10-24T23:40:32,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_assists_over_under,taurean prince,False,1.5,-235,2023-10-24T23:25:07,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_assists_over_under,taurean prince,True,0.5,-225,2023-10-24T23:40:08,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_assists_over_under,taurean prince,True,1.5,180,2023-10-24T23:30:16,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_assists_over_under,taurean prince,False,0.5,170,2023-10-24T23:40:08,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_assists_over_under,taurean prince,False,1.5,-250,2023-10-24T23:30:16,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_assists_over_under,taurean prince,True,0.5,-225,2023-10-24T23:36:03,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_assists_over_under,taurean prince,True,2.5,475,2023-10-24T23:36:03,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_assists_over_under,taurean prince,False,0.5,165,2023-10-24T23:36:03,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_assists_over_under,taurean prince,False,1.5,-275,2023-10-24T23:36:03,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_assists_over_under,taurean prince,False,2.5,-1000,2023-10-24T23:36:03,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,fanduel,player_points_over_under,taurean prince,False,16.5,-128,2023-10-25T01:30:14,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_blocks_over_under,taurean prince,True,0.5,215,2023-10-24T23:40:32,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_blocks_over_under,taurean prince,True,0.5,210,2023-10-24T23:40:08,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_blocks_over_under,taurean prince,False,0.5,-300,2023-10-24T23:40:08,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_blocks_over_under,taurean prince,True,0.5,235,2023-10-24T23:45:53,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_blocks_over_under,taurean prince,False,0.5,-375,2023-10-24T23:45:53,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,fanduel,player_points_over_under,taurean prince,True,7.5,-104,2023-10-24T23:40:10,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,fanduel,player_points_over_under,taurean prince,True,10.5,-132,2023-10-25T00:20:25,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,fanduel,player_points_over_under,taurean prince,True,11.5,116,2023-10-25T00:50:45,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,fanduel,player_points_over_under,taurean prince,True,12.5,-130,2023-10-25T01:00:08,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,fanduel,player_points_over_under,taurean prince,True,16.5,100,2023-10-25T01:30:14,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,fanduel,player_points_over_under,taurean prince,True,17.5,142,2023-10-25T01:20:14,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,fanduel,player_points_over_under,taurean prince,True,18.5,255,2023-10-25T01:45:30,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,fanduel,player_points_over_under,taurean prince,False,7.5,-122,2023-10-24T23:40:10,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,fanduel,player_points_over_under,taurean prince,False,10.5,104,2023-10-25T00:20:25,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,fanduel,player_points_over_under,taurean prince,False,11.5,-148,2023-10-25T00:50:45,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_blocks_over_under,taurean prince,False,0.5,-285,2023-10-24T23:40:32,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,taurean prince,False,18.5,-3500,2023-10-25T01:51:01,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,taurean prince,True,6.5,-160,2023-10-24T23:40:32,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_points_over_under,taurean prince,True,8.5,100,2023-10-23T22:50:11,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_rebounds_over_under,taurean prince,False,1.5,105,2023-10-24T23:55:51,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_rebounds_over_under,taurean prince,False,2.5,-165,2023-10-24T23:36:03,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_rebounds_over_under,taurean prince,False,3.5,-140,2023-10-25T00:26:05,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_rebounds_over_under,taurean prince,False,4.5,-180,2023-10-25T01:00:05,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_steals_over_under,taurean prince,True,0.5,115,2023-10-24T23:40:32,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_steals_over_under,taurean prince,False,0.5,-145,2023-10-24T23:40:32,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_steals_over_under,taurean prince,True,0.5,110,2023-10-24T23:40:08,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_steals_over_under,taurean prince,False,0.5,-150,2023-10-24T23:40:08,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_steals_over_under,taurean prince,True,0.5,210,2023-10-25T01:00:05,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_steals_over_under,taurean prince,False,0.5,-325,2023-10-25T01:00:05,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,pinnacle,player_threes_over_under,taurean prince,True,1.5,105,2023-10-24T23:35:11,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,pinnacle,player_threes_over_under,taurean prince,False,1.5,-141,2023-10-24T23:35:11,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_threes_over_under,taurean prince,True,1.5,125,2023-10-24T23:40:32,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_threes_over_under,taurean prince,True,2.5,-170,2023-10-25T01:00:35,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_threes_over_under,taurean prince,True,3.5,260,2023-10-25T01:35:09,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_threes_over_under,taurean prince,False,1.5,-155,2023-10-24T23:40:32,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_threes_over_under,taurean prince,False,2.5,125,2023-10-25T01:00:35,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betrivers,player_threes_over_under,taurean prince,True,1.5,117,2023-10-24T23:20:04,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_points_over_under,taurean prince,True,7.5,-115,2023-10-24T23:40:08,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_threes_over_under,taurean prince,False,3.5,-180,2023-10-25T01:10:12,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_threes_over_under,taurean prince,False,2.5,110,2023-10-25T01:00:05,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_threes_over_under,taurean prince,False,1.5,-165,2023-10-24T23:36:03,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_threes_over_under,taurean prince,False,0.5,230,2023-10-24T23:36:03,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_rebounds_over_under,taurean prince,True,4.5,125,2023-10-25T01:00:05,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_threes_over_under,taurean prince,True,3.5,125,2023-10-25T01:10:12,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_threes_over_under,taurean prince,True,1.5,125,2023-10-24T23:36:03,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_threes_over_under,taurean prince,True,0.5,-350,2023-10-24T23:36:03,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_threes_over_under,taurean prince,False,1.5,-160,2023-10-24T23:40:08,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_threes_over_under,taurean prince,True,1.5,120,2023-10-24T23:40:08,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_threes_over_under,taurean prince,False,4.5,-800,2023-10-25T01:46:22,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_threes_over_under,taurean prince,False,3.5,-380,2023-10-25T01:35:09,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_threes_over_under,taurean prince,True,2.5,-160,2023-10-25T01:00:05,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_rebounds_over_under,taurean prince,True,3.5,100,2023-10-25T00:26:05,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_threes_over_under,taurean prince,True,4.5,450,2023-10-25T01:46:22,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_rebounds_over_under,taurean prince,True,1.5,-150,2023-10-24T23:55:51,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,taurean prince,False,8.5,-175,2023-10-24T23:36:03,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,taurean prince,False,7.5,-115,2023-10-24T23:36:03,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,taurean prince,False,6.5,120,2023-10-24T23:36:03,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,taurean prince,True,17.5,-115,2023-10-25T01:10:12,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,taurean prince,True,13.5,105,2023-10-25T00:26:05,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,taurean prince,True,12.5,-120,2023-10-25T00:55:25,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,taurean prince,False,10.5,100,2023-10-25T00:05:05,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,taurean prince,True,11.5,-110,2023-10-25T00:01:11,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,taurean prince,True,8.5,125,2023-10-24T23:36:03,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,taurean prince,True,7.5,-115,2023-10-24T23:36:03,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,taurean prince,True,6.5,-160,2023-10-24T23:36:03,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_rebounds_over_under,taurean prince,True,2.5,125,2023-10-24T23:36:03,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_points_over_under,taurean prince,False,7.5,-120,2023-10-24T23:40:08,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_points_over_under,taurean prince,False,8.5,-135,2023-10-23T22:50:11,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,taurean prince,True,10.5,-140,2023-10-25T00:05:05,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,taurean prince,False,11.5,-130,2023-10-25T00:01:11,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,taurean prince,True,14.5,-110,2023-10-25T01:00:05,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,taurean prince,False,12.5,-120,2023-10-25T00:55:25,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_rebounds_over_under,taurean prince,False,2.5,-155,2023-10-24T23:40:08,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_rebounds_over_under,taurean prince,True,2.5,120,2023-10-24T23:40:08,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_rebounds_over_under,taurean prince,False,2.5,-140,2023-10-24T23:40:32,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_rebounds_over_under,taurean prince,True,2.5,110,2023-10-24T23:40:32,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betrivers,player_points_over_under,taurean prince,True,9.5,148,2023-10-24T23:20:04,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betrivers,player_points_over_under,taurean prince,True,8.5,108,2023-10-24T23:20:04,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betrivers,player_points_over_under,taurean prince,True,10.5,205,2023-10-24T23:20:04,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betrivers,player_points_over_under,taurean prince,True,6.5,-215,2023-10-24T23:20:04,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betrivers,player_points_over_under,taurean prince,True,5.5,-360,2023-10-24T23:20:04,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,taurean prince,False,17.5,-125,2023-10-25T01:10:12,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,taurean prince,False,14.5,-130,2023-10-25T01:00:05,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,taurean prince,False,13.5,-150,2023-10-25T00:26:05,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betrivers,player_points_over_under,taurean prince,True,7.5,-136,2023-10-24T23:20:04,Denver Nuggets,Los Angeles Lakers
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_rebounds_over_under,taurean prince,False,3.5,-144,2023-10-27T02:20:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_rebounds_over_under,taurean prince,False,0.5,-3500,2023-10-27T04:30:19,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_rebounds_over_under,taurean prince,True,0.5,900,2023-10-27T04:30:19,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_rebounds_over_under,taurean prince,True,1.5,170,2023-10-27T03:40:56,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_rebounds_over_under,taurean prince,True,2.5,140,2023-10-27T03:00:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_rebounds_over_under,taurean prince,True,3.5,130,2023-10-27T02:20:20,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_rebounds_over_under,taurean prince,False,1.5,-230,2023-10-27T03:40:56,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betmgm,player_rebounds_over_under,taurean prince,False,3.5,-160,2023-10-27T02:45:43,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_rebounds_over_under,taurean prince,False,3.5,-165,2023-10-27T02:20:20,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betmgm,player_rebounds_over_under,taurean prince,True,3.5,120,2023-10-27T02:45:43,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_rebounds_over_under,taurean prince,True,3.5,125,2023-10-27T02:25:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_rebounds_over_under,taurean prince,True,2.5,125,2023-10-27T02:55:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_rebounds_over_under,taurean prince,True,1.5,160,2023-10-27T03:40:29,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_rebounds_over_under,taurean prince,False,2.5,-192,2023-10-27T03:00:30,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_rebounds_over_under,taurean prince,False,2.5,-185,2023-10-27T03:00:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_rebounds_over_under,taurean prince,False,1.5,-245,2023-10-27T03:40:35,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_points_over_under,taurean prince,False,6.5,-120,2023-10-27T02:55:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_rebounds_over_under,taurean prince,True,3.5,118,2023-10-27T02:20:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_points_over_under,taurean prince,False,2.5,-130,2023-10-27T03:51:15,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_rebounds_over_under,taurean prince,False,1.5,-240,2023-10-27T03:40:29,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_points_over_under,taurean prince,False,3.5,-165,2023-10-27T03:40:29,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_points_over_under,taurean prince,False,5.5,-105,2023-10-27T03:11:35,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_points_over_under,taurean prince,False,7.5,-120,2023-10-27T02:41:27,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_points_over_under,taurean prince,False,9.5,100,2023-10-27T02:25:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_points_over_under,taurean prince,False,10.5,-135,2023-10-26T02:50:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_rebounds_over_under,taurean prince,False,0.5,-100000,2023-10-27T04:40:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betrivers,player_points_over_under,taurean prince,True,7.5,-315,2023-10-27T02:00:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betrivers,player_points_over_under,taurean prince,True,9.5,-132,2023-10-27T02:00:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betrivers,player_points_over_under,taurean prince,True,10.5,107,2023-10-27T02:00:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betrivers,player_points_over_under,taurean prince,True,11.5,145,2023-10-27T02:00:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betrivers,player_points_over_under,taurean prince,True,12.5,195,2023-10-27T02:00:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_rebounds_over_under,taurean prince,True,0.5,1000,2023-10-27T04:35:11,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_rebounds_over_under,taurean prince,True,1.5,178,2023-10-27T03:40:35,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_rebounds_over_under,taurean prince,True,2.5,142,2023-10-27T03:00:30,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betrivers,player_points_over_under,taurean prince,True,8.5,-195,2023-10-27T02:00:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_rebounds_over_under,taurean prince,False,2.5,-180,2023-10-27T02:55:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betrivers,player_threes_over_under,taurean prince,True,1.5,-155,2023-10-27T02:00:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betrivers,player_rebounds_over_under,taurean prince,True,2.5,-186,2023-10-27T02:00:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_threes_over_under,taurean prince,True,1.5,180,2023-10-27T03:10:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_threes_over_under,taurean prince,False,0.5,-4000,2023-10-27T04:25:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_threes_over_under,taurean prince,False,1.5,-245,2023-10-27T03:10:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betmgm,player_threes_over_under,taurean prince,True,1.5,-145,2023-10-27T02:45:43,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betmgm,player_threes_over_under,taurean prince,False,1.5,105,2023-10-27T02:45:43,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_threes_over_under,taurean prince,True,0.5,125,2023-10-27T03:51:15,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_threes_over_under,taurean prince,True,1.5,170,2023-10-27T03:11:35,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_threes_over_under,taurean prince,True,0.5,950,2023-10-27T04:25:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_threes_over_under,taurean prince,False,0.5,-180,2023-10-27T03:51:15,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_points_over_under,taurean prince,True,10.5,105,2023-10-26T02:50:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betrivers,player_threes_over_under,taurean prince,True,2.5,220,2023-10-27T02:00:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_assists_over_under,taurean prince,True,0.5,-205,2023-10-30T01:15:21,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_assists_over_under,taurean prince,True,1.5,188,2023-10-30T02:35:20,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_assists_over_under,taurean prince,True,2.5,1000,2023-10-30T03:45:06,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_assists_over_under,taurean prince,False,0.5,152,2023-10-30T01:15:21,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_assists_over_under,taurean prince,False,1.5,-260,2023-10-30T02:35:20,Sacramento Kings,Los Angeles Lakers
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_threes_over_under,taurean prince,False,1.5,-260,2023-10-27T03:11:35,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_rebounds_over_under,taurean prince,False,3.5,-175,2023-10-27T02:25:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,pinnacle,player_threes_over_under,taurean prince,False,1.5,116,2023-10-26T20:20:06,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_threes_over_under,taurean prince,False,1.5,-280,2023-10-27T03:05:06,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betrivers,player_rebounds_over_under,taurean prince,True,3.5,140,2023-10-27T02:00:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_steals_over_under,taurean prince,True,1.5,1000,2023-10-27T04:20:31,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_steals_over_under,taurean prince,False,1.5,-100000,2023-10-27T04:35:11,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_steals_over_under,taurean prince,True,0.5,-170,2023-10-27T02:20:20,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_steals_over_under,taurean prince,True,1.5,1100,2023-10-27T04:20:31,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_steals_over_under,taurean prince,False,0.5,130,2023-10-27T02:20:20,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_steals_over_under,taurean prince,False,1.5,-10000,2023-10-27T04:20:31,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,pinnacle,player_threes_over_under,taurean prince,True,1.5,-156,2023-10-26T20:20:06,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betmgm,player_steals_over_under,taurean prince,True,0.5,-165,2023-10-27T02:45:43,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_steals_over_under,taurean prince,True,0.5,-180,2023-10-27T02:25:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_steals_over_under,taurean prince,True,1.5,270,2023-10-27T03:51:15,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_steals_over_under,taurean prince,False,0.5,130,2023-10-27T02:25:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_steals_over_under,taurean prince,False,1.5,-450,2023-10-27T03:51:15,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_threes_over_under,taurean prince,True,0.5,-154,2023-10-27T03:35:43,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_threes_over_under,taurean prince,True,1.5,200,2023-10-27T03:05:06,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_threes_over_under,taurean prince,False,0.5,116,2023-10-27T03:35:43,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betmgm,player_steals_over_under,taurean prince,False,0.5,130,2023-10-27T02:45:43,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_points_over_under,taurean prince,True,9.5,-130,2023-10-27T02:25:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,taurean prince,True,0.5,850,2023-10-27T04:30:19,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_points_over_under,taurean prince,True,6.5,-120,2023-10-27T02:55:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_blocks_over_under,taurean prince,True,0.5,260,2023-10-27T03:11:35,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_blocks_over_under,taurean prince,False,0.5,-425,2023-10-27T03:11:35,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_points_over_under,taurean prince,True,3.5,-113,2023-10-27T03:35:43,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_points_over_under,taurean prince,True,4.5,-120,2023-10-27T03:11:15,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_points_over_under,taurean prince,True,5.5,104,2023-10-27T03:11:15,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_points_over_under,taurean prince,True,6.5,-136,2023-10-27T02:50:14,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_points_over_under,taurean prince,True,7.5,104,2023-10-27T02:46:00,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_points_over_under,taurean prince,True,8.5,-122,2023-10-27T02:30:50,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_points_over_under,taurean prince,True,9.5,-106,2023-10-27T02:25:06,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_points_over_under,taurean prince,False,3.5,-113,2023-10-27T03:35:43,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_points_over_under,taurean prince,False,4.5,-106,2023-10-27T03:11:15,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_points_over_under,taurean prince,False,5.5,-132,2023-10-27T03:11:15,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_points_over_under,taurean prince,False,6.5,108,2023-10-27T02:50:14,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_points_over_under,taurean prince,False,7.5,-132,2023-10-27T02:46:00,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_points_over_under,taurean prince,False,8.5,-104,2023-10-27T02:30:50,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betmgm,player_blocks_over_under,taurean prince,False,0.5,-225,2023-10-27T02:45:43,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betmgm,player_blocks_over_under,taurean prince,True,0.5,160,2023-10-27T02:45:43,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_blocks_over_under,taurean prince,False,0.5,-10000,2023-10-27T04:15:31,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_blocks_over_under,taurean prince,True,0.5,1200,2023-10-27T04:15:31,Los Angeles Lakers,Phoenix Suns
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_assists_over_under,taurean prince,False,2.5,-8000,2023-10-30T03:45:06,Sacramento Kings,Los Angeles Lakers
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_assists_over_under,taurean prince,True,1.5,182,2023-10-27T02:30:50,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_assists_over_under,taurean prince,False,0.5,-100000,2023-10-27T04:40:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_assists_over_under,taurean prince,False,1.5,-250,2023-10-27T02:30:50,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_assists_over_under,taurean prince,True,0.5,1200,2023-10-27T04:25:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_assists_over_under,taurean prince,True,1.5,180,2023-10-27T02:30:59,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_assists_over_under,taurean prince,False,0.5,-10000,2023-10-27T04:25:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_points_over_under,taurean prince,False,9.5,-120,2023-10-27T02:25:06,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_assists_over_under,taurean prince,False,1.5,-245,2023-10-27T02:30:59,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betmgm,player_assists_over_under,taurean prince,False,1.5,-145,2023-10-27T02:45:43,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_assists_over_under,taurean prince,True,0.5,-425,2023-10-27T02:25:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_assists_over_under,taurean prince,True,1.5,115,2023-10-26T21:20:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_assists_over_under,taurean prince,False,0.5,260,2023-10-27T02:25:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_assists_over_under,taurean prince,False,1.5,-150,2023-10-26T21:20:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_blocks_over_under,taurean prince,True,0.5,1000,2023-10-27T04:05:07,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_blocks_over_under,taurean prince,False,0.5,-100000,2023-10-27T04:30:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betmgm,player_assists_over_under,taurean prince,True,1.5,110,2023-10-27T02:45:43,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_points_over_under,taurean prince,True,7.5,-120,2023-10-27T02:41:27,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,pinnacle,player_points_over_under,taurean prince,True,9.5,-135,2023-10-26T18:20:34,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,taurean prince,True,7.5,-240,2023-10-27T02:20:20,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,taurean prince,False,2.5,-125,2023-10-27T03:50:33,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,taurean prince,False,3.5,-160,2023-10-27T03:40:56,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,taurean prince,False,5.5,-105,2023-10-27T03:10:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,taurean prince,False,6.5,-130,2023-10-27T03:00:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,taurean prince,False,7.5,-135,2023-10-27T02:46:37,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,taurean prince,False,8.5,-110,2023-10-27T02:25:09,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,taurean prince,False,9.5,-130,2023-10-27T02:20:20,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,taurean prince,False,10.5,-130,2023-10-26T02:50:45,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betmgm,player_points_over_under,taurean prince,True,10.5,100,2023-10-26T02:50:26,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betmgm,player_points_over_under,taurean prince,True,9.5,-120,2023-10-27T02:45:43,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betmgm,player_points_over_under,taurean prince,False,10.5,-135,2023-10-26T02:50:26,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betmgm,player_points_over_under,taurean prince,False,9.5,-110,2023-10-27T02:45:43,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_points_over_under,taurean prince,True,2.5,-110,2023-10-27T03:51:15,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_points_over_under,taurean prince,True,3.5,115,2023-10-27T03:40:29,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_points_over_under,taurean prince,True,5.5,-135,2023-10-27T03:11:35,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,taurean prince,False,0.5,-3000,2023-10-27T04:30:19,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,taurean prince,False,12.5,-240,2023-10-26T02:50:45,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,taurean prince,False,11.5,-200,2023-10-27T02:20:20,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,taurean prince,False,10.5,-145,2023-10-27T02:20:20,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,taurean prince,True,8.5,-165,2023-10-27T02:20:20,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,taurean prince,True,9.5,-130,2023-10-26T02:50:45,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,taurean prince,True,10.5,115,2023-10-27T02:20:20,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,taurean prince,True,11.5,155,2023-10-27T02:20:20,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,taurean prince,True,12.5,185,2023-10-26T02:50:45,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,taurean prince,True,2.5,-105,2023-10-27T03:50:33,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,taurean prince,True,3.5,120,2023-10-27T03:40:56,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,pinnacle,player_points_over_under,taurean prince,False,9.5,103,2023-10-26T18:20:34,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,taurean prince,True,5.5,-130,2023-10-27T03:10:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,taurean prince,True,7.5,100,2023-10-27T02:46:37,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,taurean prince,True,8.5,-120,2023-10-27T02:25:09,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,taurean prince,True,9.5,100,2023-10-27T02:20:20,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,taurean prince,True,10.5,100,2023-10-26T02:50:45,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,taurean prince,False,7.5,185,2023-10-27T02:20:20,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,taurean prince,False,8.5,130,2023-10-27T02:20:20,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,taurean prince,False,9.5,100,2023-10-26T02:50:45,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,taurean prince,True,6.5,100,2023-10-27T03:00:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_assists_over_under,taurean prince,True,0.5,-195,2023-10-30T01:20:32,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,barstool,player_rebounds_over_under,taurean prince,True,2.5,120,2023-10-30T01:25:28,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_assists_over_under,taurean prince,True,2.5,475,2023-10-30T03:40:12,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_rebounds_over_under,taurean prince,False,3.5,-4000,2023-10-30T03:45:06,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_rebounds_over_under,taurean prince,False,4.5,-146,2023-10-30T02:05:03,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_rebounds_over_under,taurean prince,True,1.5,-115,2023-10-30T01:50:06,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_rebounds_over_under,taurean prince,True,2.5,120,2023-10-30T01:25:04,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_rebounds_over_under,taurean prince,True,3.5,950,2023-10-30T03:45:05,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_rebounds_over_under,taurean prince,True,4.5,110,2023-10-30T02:05:03,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_rebounds_over_under,taurean prince,False,1.5,-115,2023-10-30T01:50:06,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_rebounds_over_under,taurean prince,False,2.5,-160,2023-10-30T01:25:04,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_rebounds_over_under,taurean prince,False,3.5,-4000,2023-10-30T03:45:05,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_rebounds_over_under,taurean prince,False,4.5,-145,2023-10-30T02:05:03,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,barstool,player_rebounds_over_under,taurean prince,True,1.5,-135,2023-10-30T01:55:42,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,barstool,player_rebounds_over_under,taurean prince,True,3.5,-250,2023-10-30T02:35:04,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,barstool,player_rebounds_over_under,taurean prince,True,4.5,105,2023-10-30T02:05:34,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,barstool,player_rebounds_over_under,taurean prince,False,1.5,-105,2023-10-30T01:55:42,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,barstool,player_rebounds_over_under,taurean prince,False,2.5,-170,2023-10-30T01:25:28,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_rebounds_over_under,taurean prince,False,2.5,-112,2023-10-30T01:55:08,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_rebounds_over_under,taurean prince,False,1.5,110,2023-10-30T01:50:34,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_rebounds_over_under,taurean prince,True,4.5,110,2023-10-30T02:05:03,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_rebounds_over_under,taurean prince,True,3.5,1000,2023-10-30T03:45:06,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,barstool,player_points_over_under,taurean prince,False,7.5,120,2023-10-29T16:25:06,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,barstool,player_points_over_under,taurean prince,False,8.5,-115,2023-10-30T01:10:22,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,barstool,player_points_over_under,taurean prince,False,9.5,-110,2023-10-30T01:25:28,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,barstool,player_points_over_under,taurean prince,False,10.5,-115,2023-10-30T02:30:09,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,barstool,player_points_over_under,taurean prince,False,11.5,-125,2023-10-30T02:05:34,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,barstool,player_points_over_under,taurean prince,False,12.5,-150,2023-10-30T02:35:04,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,barstool,player_points_over_under,taurean prince,False,13.5,-135,2023-10-30T01:30:20,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,barstool,player_rebounds_over_under,taurean prince,False,3.5,165,2023-10-30T02:35:04,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,barstool,player_points_over_under,taurean prince,False,14.5,-115,2023-10-30T02:40:03,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,betrivers,player_points_over_under,taurean prince,True,7.5,-190,2023-10-30T01:05:04,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,betrivers,player_points_over_under,taurean prince,True,8.5,-124,2023-10-30T01:05:04,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,betrivers,player_points_over_under,taurean prince,True,9.5,112,2023-10-30T01:05:04,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,betrivers,player_points_over_under,taurean prince,True,10.5,155,2023-10-30T01:00:16,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,betrivers,player_points_over_under,taurean prince,True,11.5,210,2023-10-30T01:05:04,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_rebounds_over_under,taurean prince,True,1.5,-146,2023-10-30T01:50:34,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_rebounds_over_under,taurean prince,True,2.5,-118,2023-10-30T01:55:08,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,betrivers,player_points_over_under,taurean prince,True,6.5,-315,2023-10-30T01:00:16,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,barstool,player_points_over_under,taurean prince,True,14.5,-125,2023-10-30T02:40:03,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,barstool,player_rebounds_over_under,taurean prince,False,4.5,-150,2023-10-30T02:05:34,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,betrivers,player_rebounds_over_under,taurean prince,True,3.5,170,2023-10-29T17:40:19,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_threes_over_under,taurean prince,True,3.5,170,2023-10-30T02:40:05,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_threes_over_under,taurean prince,True,5.5,1100,2023-10-30T03:45:05,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_threes_over_under,taurean prince,False,1.5,-140,2023-10-30T01:15:26,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_threes_over_under,taurean prince,False,2.5,-130,2023-10-30T02:35:16,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_threes_over_under,taurean prince,False,3.5,-235,2023-10-30T02:40:05,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_threes_over_under,taurean prince,False,5.5,-10000,2023-10-30T03:45:05,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,barstool,player_threes_over_under,taurean prince,True,0.5,-425,2023-10-29T23:35:03,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,barstool,player_threes_over_under,taurean prince,True,1.5,110,2023-10-30T01:10:22,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,barstool,player_threes_over_under,taurean prince,True,2.5,100,2023-10-30T02:35:04,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,barstool,player_threes_over_under,taurean prince,True,3.5,130,2023-10-30T02:40:03,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,barstool,player_threes_over_under,taurean prince,False,0.5,260,2023-10-29T23:35:03,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,barstool,player_threes_over_under,taurean prince,False,1.5,-140,2023-10-30T01:10:22,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,barstool,player_threes_over_under,taurean prince,False,2.5,-140,2023-10-30T02:35:04,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,barstool,player_threes_over_under,taurean prince,False,3.5,-185,2023-10-30T02:40:03,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,betrivers,player_threes_over_under,taurean prince,True,1.5,-113,2023-10-30T01:00:16,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_threes_over_under,taurean prince,True,2.5,100,2023-10-30T02:35:16,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_threes_over_under,taurean prince,True,1.5,105,2023-10-30T01:15:26,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,pinnacle,player_threes_over_under,taurean prince,False,1.5,-139,2023-10-29T19:00:19,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,pinnacle,player_threes_over_under,taurean prince,True,1.5,105,2023-10-29T19:00:19,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_steals_over_under,taurean prince,True,0.5,1000,2023-10-30T03:45:06,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_steals_over_under,taurean prince,False,0.5,-50000,2023-10-30T03:45:06,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_steals_over_under,taurean prince,True,0.5,750,2023-10-30T03:35:47,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_steals_over_under,taurean prince,False,0.5,-2000,2023-10-30T03:35:47,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,barstool,player_steals_over_under,taurean prince,True,0.5,220,2023-10-30T02:35:04,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,barstool,player_steals_over_under,taurean prince,True,1.5,375,2023-10-29T15:56:07,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,barstool,player_steals_over_under,taurean prince,False,0.5,-350,2023-10-30T02:35:04,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,betrivers,player_rebounds_over_under,taurean prince,True,2.5,-122,2023-10-30T01:05:04,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,barstool,player_steals_over_under,taurean prince,False,1.5,-650,2023-10-29T15:56:07,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_threes_over_under,taurean prince,True,2.5,122,2023-10-30T02:35:20,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_threes_over_under,taurean prince,True,3.5,178,2023-10-30T02:40:22,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_threes_over_under,taurean prince,True,5.5,630,2023-10-30T03:35:03,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_threes_over_under,taurean prince,False,1.5,-154,2023-10-30T01:15:21,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_threes_over_under,taurean prince,False,2.5,-162,2023-10-30T02:35:20,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_threes_over_under,taurean prince,False,3.5,-245,2023-10-30T02:40:22,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_threes_over_under,taurean prince,False,5.5,-100000,2023-10-30T03:45:06,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_threes_over_under,taurean prince,True,1.5,116,2023-10-30T01:15:21,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_assists_over_under,taurean prince,True,1.5,180,2023-10-30T02:35:16,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,barstool,player_points_over_under,taurean prince,True,13.5,-105,2023-10-30T01:30:20,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,barstool,player_points_over_under,taurean prince,True,11.5,-115,2023-10-30T02:05:34,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_points_over_under,taurean prince,True,11.5,-166,2023-10-30T02:35:20,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_points_over_under,taurean prince,True,12.5,108,2023-10-30T01:55:08,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_points_over_under,taurean prince,True,14.5,134,2023-10-30T02:40:22,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_points_over_under,taurean prince,True,19.5,132,2023-10-30T03:10:05,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_points_over_under,taurean prince,True,20.5,220,2023-10-30T03:40:04,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_points_over_under,taurean prince,True,21.5,140,2023-10-30T03:15:05,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_points_over_under,taurean prince,False,7.5,102,2023-10-30T01:15:21,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_points_over_under,taurean prince,False,8.5,-128,2023-10-30T01:10:31,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_points_over_under,taurean prince,False,9.5,-113,2023-10-30T01:25:18,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_points_over_under,taurean prince,False,10.5,-111,2023-10-30T02:30:29,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_points_over_under,taurean prince,False,11.5,130,2023-10-30T02:35:20,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_points_over_under,taurean prince,False,12.5,-138,2023-10-30T01:55:08,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_points_over_under,taurean prince,False,14.5,-172,2023-10-30T02:40:22,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_points_over_under,taurean prince,False,19.5,-170,2023-10-30T03:10:05,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_points_over_under,taurean prince,False,20.5,-2500,2023-10-30T03:45:06,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_points_over_under,taurean prince,True,10.5,-115,2023-10-30T02:30:29,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_points_over_under,taurean prince,True,9.5,-113,2023-10-30T01:25:18,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_points_over_under,taurean prince,True,8.5,104,2023-10-30T01:10:31,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_points_over_under,taurean prince,True,7.5,-130,2023-10-30T01:15:21,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_assists_over_under,taurean prince,False,0.5,145,2023-10-30T01:15:26,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_assists_over_under,taurean prince,False,1.5,-250,2023-10-30T02:35:16,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_assists_over_under,taurean prince,False,2.5,-900,2023-10-30T03:40:12,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,barstool,player_assists_over_under,taurean prince,True,1.5,175,2023-10-30T01:10:22,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,barstool,player_assists_over_under,taurean prince,False,1.5,-250,2023-10-30T01:10:22,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,betrivers,player_assists_over_under,taurean prince,True,1.5,-136,2023-10-29T10:40:21,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_blocks_over_under,taurean prince,True,0.5,360,2023-10-30T02:00:04,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_points_over_under,taurean prince,False,21.5,-180,2023-10-30T03:15:05,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_blocks_over_under,taurean prince,True,1.5,1000,2023-10-30T03:20:04,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_blocks_over_under,taurean prince,False,1.5,-100000,2023-10-30T03:45:06,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_blocks_over_under,taurean prince,True,0.5,350,2023-10-30T02:00:32,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_blocks_over_under,taurean prince,True,1.5,1100,2023-10-30T03:20:11,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_blocks_over_under,taurean prince,False,0.5,-550,2023-10-30T02:00:32,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_blocks_over_under,taurean prince,False,1.5,-6000,2023-10-30T03:40:12,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,barstool,player_blocks_over_under,taurean prince,True,0.5,270,2023-10-30T01:55:42,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,barstool,player_blocks_over_under,taurean prince,False,0.5,-450,2023-10-30T01:55:42,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,fanduel,player_blocks_over_under,taurean prince,False,0.5,-580,2023-10-30T02:00:04,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,barstool,player_points_over_under,taurean prince,True,12.5,105,2023-10-30T02:35:04,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,pinnacle,player_points_over_under,taurean prince,True,8.5,-112,2023-10-29T19:00:19,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_points_over_under,taurean prince,True,6.5,-245,2023-10-30T01:10:25,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_points_over_under,taurean prince,False,9.5,-105,2023-10-30T01:25:04,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_points_over_under,taurean prince,False,10.5,-110,2023-10-30T02:30:14,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_points_over_under,taurean prince,False,11.5,-120,2023-10-30T02:05:03,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_points_over_under,taurean prince,False,12.5,-145,2023-10-30T02:35:16,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_points_over_under,taurean prince,False,13.5,-130,2023-10-30T01:30:40,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_points_over_under,taurean prince,False,14.5,-155,2023-10-30T02:40:05,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_points_over_under,taurean prince,False,18.5,-155,2023-10-30T03:05:10,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_points_over_under,taurean prince,False,19.5,-120,2023-10-30T02:50:34,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_points_over_under,taurean prince,False,20.5,-1800,2023-10-30T03:45:05,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_points_over_under,taurean prince,False,21.5,-105,2023-10-30T03:15:05,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_points_over_under,taurean prince,False,22.5,-145,2023-10-30T03:10:25,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,barstool,player_points_over_under,taurean prince,True,7.5,-160,2023-10-29T16:25:06,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,barstool,player_points_over_under,taurean prince,True,8.5,-115,2023-10-30T01:10:22,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,barstool,player_points_over_under,taurean prince,True,9.5,-130,2023-10-30T01:25:28,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,barstool,player_points_over_under,taurean prince,True,10.5,-125,2023-10-30T02:30:09,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_points_over_under,taurean prince,False,8.5,-115,2023-10-30T01:15:26,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_points_over_under,taurean prince,False,10.5,-210,2023-10-30T01:10:25,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_points_over_under,taurean prince,False,9.5,-160,2023-10-30T01:10:25,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_points_over_under,taurean prince,False,7.5,130,2023-10-30T01:10:25,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_points_over_under,taurean prince,True,7.5,-170,2023-10-30T01:10:25,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_points_over_under,taurean prince,True,9.5,125,2023-10-30T01:10:25,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_points_over_under,taurean prince,True,10.5,165,2023-10-30T01:10:25,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_points_over_under,taurean prince,True,8.5,-115,2023-10-30T01:15:26,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_points_over_under,taurean prince,True,9.5,-130,2023-10-30T01:25:04,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_points_over_under,taurean prince,True,10.5,-120,2023-10-30T02:30:14,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_points_over_under,taurean prince,True,11.5,-110,2023-10-30T02:05:03,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,pinnacle,player_points_over_under,taurean prince,False,8.5,-118,2023-10-29T19:00:19,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_points_over_under,taurean prince,True,12.5,110,2023-10-30T02:35:16,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_points_over_under,taurean prince,True,14.5,115,2023-10-30T02:40:05,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_points_over_under,taurean prince,True,18.5,120,2023-10-30T03:05:10,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_points_over_under,taurean prince,True,19.5,-110,2023-10-30T02:50:34,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_points_over_under,taurean prince,True,20.5,700,2023-10-30T03:45:05,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_points_over_under,taurean prince,True,21.5,-130,2023-10-30T03:15:05,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_points_over_under,taurean prince,True,22.5,110,2023-10-30T03:10:25,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_points_over_under,taurean prince,False,6.5,185,2023-10-30T01:10:25,Sacramento Kings,Los Angeles Lakers
+2023-10-26,105fbe767ce5d1f9a97fe653861c2da4,draftkings,player_points_over_under,taurean prince,True,13.5,-105,2023-10-30T01:30:40,Sacramento Kings,Los Angeles Lakers
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_assists_over_under,taurean prince,True,0.5,1000,2023-10-27T04:25:23,Los Angeles Lakers,Phoenix Suns

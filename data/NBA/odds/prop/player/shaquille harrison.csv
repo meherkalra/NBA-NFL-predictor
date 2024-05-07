@@ -1,0 +1,35 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_threes_over_under,shaquille harrison,False,0.5,110,2023-04-07T00:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_assists_over_under,shaquille harrison,True,3.5,115,2023-04-07T00:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_assists_over_under,shaquille harrison,False,3.5,-145,2023-04-07T00:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_blocks_over_under,shaquille harrison,False,0.5,-210,2023-04-07T00:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_points_over_under,shaquille harrison,True,10.5,-130,2023-04-07T00:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_blocks_over_under,shaquille harrison,True,0.5,170,2023-04-07T00:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_rebounds_over_under,shaquille harrison,True,3.5,-135,2023-04-07T00:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_rebounds_over_under,shaquille harrison,False,3.5,105,2023-04-07T00:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_steals_over_under,shaquille harrison,True,1.5,110,2023-04-07T00:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_steals_over_under,shaquille harrison,False,1.5,-140,2023-04-07T00:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_points_over_under,shaquille harrison,False,10.5,100,2023-04-07T00:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_threes_over_under,shaquille harrison,True,0.5,-140,2023-04-07T00:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_steals_over_under,shaquille harrison,False,1.5,-157,2023-04-08T19:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_threes_over_under,shaquille harrison,False,0.5,-123,2023-04-08T19:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_threes_over_under,shaquille harrison,True,0.5,-111,2023-04-08T19:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_threes_over_under,shaquille harrison,False,0.5,-120,2023-04-08T19:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_threes_over_under,shaquille harrison,True,0.5,-110,2023-04-08T19:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_assists_over_under,shaquille harrison,True,3.5,105,2023-04-08T19:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_steals_over_under,shaquille harrison,True,1.5,130,2023-04-08T19:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_rebounds_over_under,shaquille harrison,False,3.5,102,2023-04-08T20:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_rebounds_over_under,shaquille harrison,True,3.5,-139,2023-04-08T20:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_rebounds_over_under,shaquille harrison,False,3.5,125,2023-04-08T19:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_rebounds_over_under,shaquille harrison,True,3.5,-155,2023-04-08T19:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_points_over_under,shaquille harrison,False,9.5,-137,2023-04-08T19:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_points_over_under,shaquille harrison,True,9.5,100,2023-04-08T19:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,shaquille harrison,False,9.5,-135,2023-04-08T19:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,shaquille harrison,True,9.5,105,2023-04-08T19:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_blocks_over_under,shaquille harrison,False,0.5,-175,2023-04-08T19:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_blocks_over_under,shaquille harrison,True,0.5,140,2023-04-08T19:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_assists_over_under,shaquille harrison,False,3.5,-142,2023-04-08T19:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_assists_over_under,shaquille harrison,True,3.5,104,2023-04-08T19:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_assists_over_under,shaquille harrison,False,3.5,-135,2023-04-08T19:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_steals_over_under,shaquille harrison,False,1.5,-160,2023-04-08T19:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_steals_over_under,shaquille harrison,True,1.5,114,2023-04-08T19:15:01,LA Clippers,Portland Trail Blazers

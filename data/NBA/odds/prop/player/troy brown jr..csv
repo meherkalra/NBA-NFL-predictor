@@ -1,0 +1,558 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_threes_over_under,troy brown jr.,False,4.5,-420,2023-03-20T03:30:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_threes_over_under,troy brown jr.,False,3.5,106,2023-03-20T02:45:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_assists_over_under,troy brown jr.,True,0.5,140,2023-03-20T03:00:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_assists_over_under,troy brown jr.,True,1.5,146,2023-03-20T01:45:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_assists_over_under,troy brown jr.,True,2.5,280,2023-03-20T03:30:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_assists_over_under,troy brown jr.,False,0.5,-188,2023-03-20T03:00:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_assists_over_under,troy brown jr.,False,1.5,-198,2023-03-20T01:45:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_blocks_over_under,troy brown jr.,True,0.5,1000,2023-03-20T03:15:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_blocks_over_under,troy brown jr.,False,0.5,-7000,2023-03-20T03:30:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_points_over_under,troy brown jr.,True,8.5,-152,2023-03-20T01:45:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_points_over_under,troy brown jr.,True,12.5,-110,2023-03-20T02:45:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_points_over_under,troy brown jr.,True,13.5,168,2023-03-20T03:30:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_points_over_under,troy brown jr.,True,14.5,140,2023-03-20T03:00:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_points_over_under,troy brown jr.,False,8.5,114,2023-03-20T01:45:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_points_over_under,troy brown jr.,False,12.5,-120,2023-03-20T02:45:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_assists_over_under,troy brown jr.,False,2.5,-420,2023-03-20T03:30:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_points_over_under,troy brown jr.,False,14.5,-188,2023-03-20T03:00:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_points_over_under,troy brown jr.,False,13.5,-230,2023-03-20T03:30:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_threes_over_under,troy brown jr.,False,2.5,-200,2023-03-20T01:45:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_threes_over_under,troy brown jr.,True,4.5,280,2023-03-20T03:30:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_threes_over_under,troy brown jr.,True,3.5,-140,2023-03-20T02:45:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_steals_over_under,troy brown jr.,False,0.5,-1200,2023-03-20T03:30:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_steals_over_under,troy brown jr.,True,0.5,580,2023-03-20T03:30:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_threes_over_under,troy brown jr.,True,2.5,148,2023-03-20T01:45:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_rebounds_over_under,troy brown jr.,False,4.5,-118,2023-03-20T02:00:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_rebounds_over_under,troy brown jr.,False,3.5,-130,2023-03-20T03:30:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_rebounds_over_under,troy brown jr.,False,2.5,136,2023-03-20T01:45:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_rebounds_over_under,troy brown jr.,True,4.5,-112,2023-03-20T02:00:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_rebounds_over_under,troy brown jr.,True,3.5,-102,2023-03-20T03:30:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_rebounds_over_under,troy brown jr.,True,2.5,-182,2023-03-20T01:45:01,Los Angeles Lakers,Orlando Magic
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_points_over_under,troy brown jr.,True,5.5,120,2023-03-23T02:45:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_points_over_under,troy brown jr.,True,9.5,-136,2023-03-23T03:30:02,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_points_over_under,troy brown jr.,True,8.5,154,2023-03-23T03:45:02,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_points_over_under,troy brown jr.,True,7.5,104,2023-03-23T04:00:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_points_over_under,troy brown jr.,True,6.5,250,2023-03-23T04:30:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_points_over_under,troy brown jr.,False,4.5,110,2023-03-23T03:00:02,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_points_over_under,troy brown jr.,True,4.5,-146,2023-03-23T03:00:02,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_assists_over_under,troy brown jr.,True,1.5,194,2023-03-23T02:45:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_blocks_over_under,troy brown jr.,True,0.5,1000,2023-03-23T03:45:02,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_assists_over_under,troy brown jr.,False,2.5,-4000,2023-03-23T04:30:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_assists_over_under,troy brown jr.,False,1.5,-270,2023-03-23T02:45:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_assists_over_under,troy brown jr.,False,0.5,118,2023-03-23T03:15:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_assists_over_under,troy brown jr.,True,2.5,1000,2023-03-23T04:30:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_assists_over_under,troy brown jr.,True,0.5,-158,2023-03-23T03:15:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_points_over_under,troy brown jr.,False,5.5,-160,2023-03-23T02:45:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_blocks_over_under,troy brown jr.,False,0.5,-100000,2023-03-23T04:30:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_points_over_under,troy brown jr.,False,6.5,-360,2023-03-23T04:30:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_points_over_under,troy brown jr.,False,7.5,-138,2023-03-23T04:00:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_points_over_under,troy brown jr.,False,8.5,-210,2023-03-23T03:45:02,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_threes_over_under,troy brown jr.,False,1.5,-4000,2023-03-23T04:30:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_threes_over_under,troy brown jr.,False,0.5,162,2023-03-23T03:00:02,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_threes_over_under,troy brown jr.,True,0.5,-220,2023-03-23T03:00:02,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_steals_over_under,troy brown jr.,False,1.5,-10000,2023-03-23T04:30:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_steals_over_under,troy brown jr.,False,0.5,-192,2023-03-23T03:00:02,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_steals_over_under,troy brown jr.,True,1.5,1000,2023-03-23T04:30:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_steals_over_under,troy brown jr.,True,0.5,142,2023-03-23T03:00:02,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_rebounds_over_under,troy brown jr.,False,6.5,-1100,2023-03-23T04:30:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_threes_over_under,troy brown jr.,True,1.5,1000,2023-03-23T04:30:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_rebounds_over_under,troy brown jr.,False,4.5,172,2023-03-23T03:45:02,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_rebounds_over_under,troy brown jr.,False,3.5,-152,2023-03-23T03:00:02,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_rebounds_over_under,troy brown jr.,True,6.5,550,2023-03-23T04:30:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_rebounds_over_under,troy brown jr.,True,5.5,146,2023-03-23T04:15:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_rebounds_over_under,troy brown jr.,True,4.5,-235,2023-03-23T03:45:02,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_rebounds_over_under,troy brown jr.,True,3.5,116,2023-03-23T03:00:02,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_points_over_under,troy brown jr.,False,9.5,102,2023-03-23T03:30:02,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_rebounds_over_under,troy brown jr.,False,5.5,-198,2023-03-23T04:15:01,Los Angeles Lakers,Phoenix Suns
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_points_over_under,troy brown jr.,False,5.5,-125,2023-03-25T04:00:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_points_over_under,troy brown jr.,True,9.5,116,2023-03-25T03:00:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_points_over_under,troy brown jr.,True,8.5,-125,2023-03-25T03:15:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_points_over_under,troy brown jr.,True,7.5,140,2023-03-25T04:30:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_points_over_under,troy brown jr.,True,6.5,-144,2023-03-25T03:45:02,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_blocks_over_under,troy brown jr.,False,1.5,-900,2023-03-25T03:15:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_blocks_over_under,troy brown jr.,False,2.5,-7000,2023-03-25T04:30:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_blocks_over_under,troy brown jr.,False,0.5,-550,2023-03-25T02:45:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_blocks_over_under,troy brown jr.,True,2.5,1000,2023-03-25T04:15:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_blocks_over_under,troy brown jr.,True,1.5,490,2023-03-25T03:15:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_points_over_under,troy brown jr.,False,6.5,108,2023-03-25T03:45:02,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_points_over_under,troy brown jr.,True,5.5,-106,2023-03-25T04:00:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_points_over_under,troy brown jr.,False,7.5,-188,2023-03-25T04:30:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_rebounds_over_under,troy brown jr.,False,3.5,-160,2023-03-25T04:00:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_points_over_under,troy brown jr.,False,9.5,-152,2023-03-25T03:00:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_rebounds_over_under,troy brown jr.,True,2.5,-130,2023-03-25T04:30:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_rebounds_over_under,troy brown jr.,True,3.5,120,2023-03-25T04:00:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_rebounds_over_under,troy brown jr.,True,4.5,108,2023-03-25T03:30:02,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_rebounds_over_under,troy brown jr.,True,5.5,120,2023-03-25T03:00:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_rebounds_over_under,troy brown jr.,False,2.5,-102,2023-03-25T04:30:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_blocks_over_under,troy brown jr.,True,0.5,350,2023-03-25T02:45:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_rebounds_over_under,troy brown jr.,False,4.5,-144,2023-03-25T03:30:02,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_rebounds_over_under,troy brown jr.,False,5.5,-160,2023-03-25T03:00:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_steals_over_under,troy brown jr.,True,0.5,550,2023-03-25T04:30:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_steals_over_under,troy brown jr.,False,0.5,-1100,2023-03-25T04:30:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_threes_over_under,troy brown jr.,True,1.5,104,2023-03-25T04:00:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_threes_over_under,troy brown jr.,True,2.5,230,2023-03-25T04:30:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_points_over_under,troy brown jr.,False,8.5,-106,2023-03-25T03:15:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_assists_over_under,troy brown jr.,False,2.5,-310,2023-03-25T04:30:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_threes_over_under,troy brown jr.,False,2.5,-330,2023-03-25T04:30:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_threes_over_under,troy brown jr.,False,1.5,-138,2023-03-25T04:00:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_assists_over_under,troy brown jr.,True,2.5,220,2023-03-25T04:30:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_assists_over_under,troy brown jr.,False,1.5,-180,2023-03-25T03:15:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_assists_over_under,troy brown jr.,True,1.5,134,2023-03-25T03:15:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_blocks_over_under,troy brown jr.,False,0.5,-5000,2023-03-26T21:30:02,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_assists_over_under,troy brown jr.,False,1.5,-1400,2023-03-26T21:45:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_assists_over_under,troy brown jr.,False,0.5,-320,2023-03-26T21:15:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_assists_over_under,troy brown jr.,True,1.5,630,2023-03-26T21:45:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_assists_over_under,troy brown jr.,True,0.5,225,2023-03-26T21:15:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_steals_over_under,troy brown jr.,False,0.5,-240,2023-03-26T20:15:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_steals_over_under,troy brown jr.,False,2.5,-4000,2023-03-26T21:45:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_blocks_over_under,troy brown jr.,False,2.5,-50000,2023-03-26T21:45:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_threes_over_under,troy brown jr.,True,2.5,-230,2023-03-26T20:15:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_threes_over_under,troy brown jr.,True,3.5,114,2023-03-26T21:00:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_threes_over_under,troy brown jr.,True,4.5,520,2023-03-26T21:45:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_threes_over_under,troy brown jr.,False,2.5,168,2023-03-26T20:15:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_threes_over_under,troy brown jr.,False,3.5,-152,2023-03-26T21:00:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_threes_over_under,troy brown jr.,False,4.5,-1000,2023-03-26T21:45:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_steals_over_under,troy brown jr.,False,1.5,-1000,2023-03-26T21:30:02,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_points_over_under,troy brown jr.,True,8.5,-140,2023-03-26T19:45:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_steals_over_under,troy brown jr.,True,2.5,1000,2023-03-26T21:45:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_points_over_under,troy brown jr.,True,12.5,116,2023-03-26T20:15:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_steals_over_under,troy brown jr.,True,1.5,520,2023-03-26T21:30:02,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_steals_over_under,troy brown jr.,True,0.5,174,2023-03-26T20:15:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_rebounds_over_under,troy brown jr.,False,6.5,-350,2023-03-26T21:45:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_rebounds_over_under,troy brown jr.,False,4.5,-194,2023-03-26T20:15:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_rebounds_over_under,troy brown jr.,False,3.5,116,2023-03-26T21:15:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_rebounds_over_under,troy brown jr.,True,6.5,240,2023-03-26T21:45:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_rebounds_over_under,troy brown jr.,True,4.5,144,2023-03-26T20:15:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_rebounds_over_under,troy brown jr.,True,3.5,-154,2023-03-26T21:15:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_points_over_under,troy brown jr.,False,19.5,-138,2023-03-26T21:30:02,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_points_over_under,troy brown jr.,False,18.5,-144,2023-03-26T21:45:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_points_over_under,troy brown jr.,True,10.5,-160,2023-03-26T20:00:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_blocks_over_under,troy brown jr.,True,0.5,1000,2023-03-26T21:15:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_points_over_under,troy brown jr.,False,12.5,-154,2023-03-26T20:15:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_points_over_under,troy brown jr.,False,10.5,120,2023-03-26T20:00:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_points_over_under,troy brown jr.,False,8.5,106,2023-03-26T19:45:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_points_over_under,troy brown jr.,True,19.5,104,2023-03-26T21:30:02,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_points_over_under,troy brown jr.,True,18.5,108,2023-03-26T21:45:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_points_over_under,troy brown jr.,True,17.5,116,2023-03-26T21:00:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_points_over_under,troy brown jr.,False,17.5,-154,2023-03-26T21:00:01,Los Angeles Lakers,Chicago Bulls
+2023-04-05,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_rebounds_over_under,troy brown jr.,True,3.5,-115,2023-04-05T00:36:01,Utah Jazz,Los Angeles Lakers
+2023-04-05,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_steals_over_under,troy brown jr.,True,0.5,-150,2023-04-05T00:36:01,Utah Jazz,Los Angeles Lakers
+2023-04-05,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_points_over_under,troy brown jr.,False,6.5,-115,2023-04-05T01:00:01,Utah Jazz,Los Angeles Lakers
+2023-04-05,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_points_over_under,troy brown jr.,True,6.5,-130,2023-04-05T00:36:01,Utah Jazz,Los Angeles Lakers
+2023-04-05,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_blocks_over_under,troy brown jr.,False,0.5,-500,2023-04-05T00:36:01,Utah Jazz,Los Angeles Lakers
+2023-04-05,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_blocks_over_under,troy brown jr.,True,0.5,370,2023-04-05T00:36:01,Utah Jazz,Los Angeles Lakers
+2023-04-05,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_rebounds_over_under,troy brown jr.,False,3.5,-115,2023-04-05T00:36:01,Utah Jazz,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,draftkings,player_rebounds_over_under,troy brown jr.,True,2.5,-120,2023-04-06T01:30:01,LA Clippers,Los Angeles Lakers
+2023-04-05,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_threes_over_under,troy brown jr.,False,1.5,-150,2023-04-05T01:00:01,Utah Jazz,Los Angeles Lakers
+2023-04-05,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_threes_over_under,troy brown jr.,True,1.5,120,2023-04-05T01:00:01,Utah Jazz,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,draftkings,player_threes_over_under,troy brown jr.,False,0.5,120,2023-04-06T01:30:01,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,draftkings,player_threes_over_under,troy brown jr.,True,0.5,-150,2023-04-06T01:30:01,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,draftkings,player_steals_over_under,troy brown jr.,False,0.5,-125,2023-04-06T01:30:01,LA Clippers,Los Angeles Lakers
+2023-04-05,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_steals_over_under,troy brown jr.,False,0.5,120,2023-04-05T00:36:01,Utah Jazz,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,draftkings,player_rebounds_over_under,troy brown jr.,False,2.5,-110,2023-04-06T01:30:01,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,draftkings,player_blocks_over_under,troy brown jr.,False,0.5,-690,2023-04-06T01:30:01,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,draftkings,player_blocks_over_under,troy brown jr.,True,0.5,470,2023-04-06T01:30:01,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,draftkings,player_steals_over_under,troy brown jr.,True,0.5,-105,2023-04-06T01:30:01,LA Clippers,Los Angeles Lakers
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_blocks_over_under,troy brown jr.,True,0.5,300,2023-04-08T01:30:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_blocks_over_under,troy brown jr.,False,0.5,-400,2023-04-08T01:30:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_rebounds_over_under,troy brown jr.,True,2.5,-160,2023-04-08T01:30:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_rebounds_over_under,troy brown jr.,False,2.5,130,2023-04-08T01:30:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_steals_over_under,troy brown jr.,True,0.5,-115,2023-04-08T01:30:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_steals_over_under,troy brown jr.,False,0.5,-115,2023-04-08T01:30:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_threes_over_under,troy brown jr.,True,1.5,190,2023-04-08T01:30:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,caesars,player_threes_over_under,troy brown jr.,False,1.5,-254,2023-04-08T01:30:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,caesars,player_threes_over_under,troy brown jr.,True,1.5,178,2023-04-08T01:30:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_threes_over_under,troy brown jr.,False,1.5,-235,2023-04-08T01:30:01,Los Angeles Lakers,Phoenix Suns
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_rebounds_over_under,troy brown jr.,True,3.5,-115,2023-04-09T18:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_blocks_over_under,troy brown jr.,False,0.5,-280,2023-04-09T18:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_points_over_under,troy brown jr.,True,6.5,-120,2023-04-09T18:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_points_over_under,troy brown jr.,False,6.5,-110,2023-04-09T18:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_rebounds_over_under,troy brown jr.,False,3.5,-115,2023-04-09T18:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,caesars,player_rebounds_over_under,troy brown jr.,True,3.5,-121,2023-04-09T18:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,caesars,player_rebounds_over_under,troy brown jr.,False,3.5,-113,2023-04-09T18:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_steals_over_under,troy brown jr.,True,0.5,-155,2023-04-09T18:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_steals_over_under,troy brown jr.,False,0.5,125,2023-04-09T18:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_blocks_over_under,troy brown jr.,True,0.5,220,2023-04-09T18:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_threes_over_under,troy brown jr.,True,1.5,145,2023-04-09T18:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,caesars,player_threes_over_under,troy brown jr.,True,1.5,136,2023-04-09T18:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,caesars,player_threes_over_under,troy brown jr.,False,1.5,-189,2023-04-09T18:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_threes_over_under,troy brown jr.,False,1.5,-180,2023-04-09T18:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_steals_over_under,troy brown jr.,True,0.5,110,2023-04-11T12:15:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_steals_over_under,troy brown jr.,False,0.5,-140,2023-04-11T12:15:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_steals_over_under,troy brown jr.,True,0.5,110,2023-04-11T12:15:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_steals_over_under,troy brown jr.,False,0.5,-145,2023-04-11T12:15:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_threes_over_under,troy brown jr.,True,0.5,-185,2023-04-11T12:15:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_threes_over_under,troy brown jr.,False,0.5,150,2023-04-11T12:15:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,caesars,player_threes_over_under,troy brown jr.,True,0.5,-214,2023-04-11T12:15:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_assists_over_under,troy brown jr.,True,0.5,-160,2023-04-11T12:15:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_threes_over_under,troy brown jr.,False,0.5,145,2023-04-11T12:15:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_blocks_over_under,troy brown jr.,True,0.5,320,2023-04-11T12:15:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,caesars,player_threes_over_under,troy brown jr.,False,0.5,152,2023-04-11T12:15:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_blocks_over_under,troy brown jr.,False,0.5,-425,2023-04-11T12:15:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_blocks_over_under,troy brown jr.,True,0.5,300,2023-04-11T12:15:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_blocks_over_under,troy brown jr.,False,0.5,-450,2023-04-11T12:15:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_points_over_under,troy brown jr.,True,4.5,-135,2023-04-11T12:15:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_points_over_under,troy brown jr.,False,4.5,100,2023-04-11T12:15:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_rebounds_over_under,troy brown jr.,True,2.5,-150,2023-04-11T23:00:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_rebounds_over_under,troy brown jr.,False,2.5,120,2023-04-11T23:00:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_assists_over_under,troy brown jr.,False,0.5,120,2023-04-11T12:15:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_threes_over_under,troy brown jr.,True,0.5,-200,2023-04-11T12:15:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_rebounds_over_under,troy brown jr.,False,2.5,110,2023-04-11T18:15:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_rebounds_over_under,troy brown jr.,True,2.5,-145,2023-04-11T12:15:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-16,b00e76392164297c63f9aaaf35194821,betmgm,player_assists_over_under,troy brown jr.,True,0.5,-175,2023-04-14T20:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,betmgm,player_threes_over_under,troy brown jr.,False,0.5,130,2023-04-14T20:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,betmgm,player_threes_over_under,troy brown jr.,True,0.5,-175,2023-04-14T20:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,caesars,player_threes_over_under,troy brown jr.,False,0.5,126,2023-04-14T20:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,caesars,player_threes_over_under,troy brown jr.,True,0.5,-174,2023-04-14T20:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,draftkings,player_threes_over_under,troy brown jr.,False,0.5,140,2023-04-16T14:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,draftkings,player_threes_over_under,troy brown jr.,True,0.5,-175,2023-04-16T14:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,betmgm,player_steals_over_under,troy brown jr.,False,0.5,-135,2023-04-14T20:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,betmgm,player_steals_over_under,troy brown jr.,True,0.5,100,2023-04-14T20:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,draftkings,player_steals_over_under,troy brown jr.,False,0.5,-130,2023-04-16T14:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,draftkings,player_steals_over_under,troy brown jr.,True,0.5,100,2023-04-16T14:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,betmgm,player_rebounds_over_under,troy brown jr.,False,2.5,105,2023-04-16T14:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,betmgm,player_rebounds_over_under,troy brown jr.,True,2.5,-140,2023-04-16T14:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,draftkings,player_rebounds_over_under,troy brown jr.,False,2.5,105,2023-04-16T14:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,draftkings,player_rebounds_over_under,troy brown jr.,True,2.5,-135,2023-04-16T14:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,betmgm,player_points_over_under,troy brown jr.,True,4.5,-120,2023-04-14T20:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,betmgm,player_blocks_over_under,troy brown jr.,False,0.5,-550,2023-04-14T20:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,betmgm,player_blocks_over_under,troy brown jr.,True,0.5,350,2023-04-14T20:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,draftkings,player_blocks_over_under,troy brown jr.,False,0.5,-500,2023-04-14T20:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,draftkings,player_blocks_over_under,troy brown jr.,True,0.5,370,2023-04-14T20:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,betmgm,player_assists_over_under,troy brown jr.,False,0.5,130,2023-04-14T20:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,betmgm,player_points_over_under,troy brown jr.,False,4.5,-110,2023-04-14T20:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_points_over_under,troy brown jr.,True,3.5,108,2023-04-20T00:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_points_over_under,troy brown jr.,False,0.5,-650,2023-04-20T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_points_over_under,troy brown jr.,True,1.5,-102,2023-04-20T01:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_points_over_under,troy brown jr.,True,0.5,450,2023-04-20T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,betmgm,player_blocks_over_under,troy brown jr.,False,0.5,-650,2023-04-19T13:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,betmgm,player_blocks_over_under,troy brown jr.,True,0.5,375,2023-04-19T13:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_blocks_over_under,troy brown jr.,False,0.5,-570,2023-04-18T22:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_blocks_over_under,troy brown jr.,True,0.5,410,2023-04-18T22:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_blocks_over_under,troy brown jr.,False,0.5,-100000,2023-04-20T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_blocks_over_under,troy brown jr.,True,0.5,1000,2023-04-20T01:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,betmgm,player_assists_over_under,troy brown jr.,False,0.5,130,2023-04-19T13:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,betmgm,player_assists_over_under,troy brown jr.,True,0.5,-175,2023-04-19T13:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_assists_over_under,troy brown jr.,False,2.5,-7000,2023-04-20T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_assists_over_under,troy brown jr.,True,2.5,1000,2023-04-20T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_points_over_under,troy brown jr.,False,0.5,-800,2023-04-20T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_points_over_under,troy brown jr.,True,3.5,120,2023-04-20T00:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_points_over_under,troy brown jr.,False,1.5,-130,2023-04-20T01:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_points_over_under,troy brown jr.,True,2.5,108,2023-04-20T01:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_points_over_under,troy brown jr.,False,3.5,-144,2023-04-20T00:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_threes_over_under,troy brown jr.,True,0.5,750,2023-04-20T01:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_threes_over_under,troy brown jr.,False,0.5,-7000,2023-04-20T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_threes_over_under,troy brown jr.,True,0.5,1000,2023-04-20T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,betmgm,player_steals_over_under,troy brown jr.,False,0.5,-160,2023-04-19T22:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,betmgm,player_steals_over_under,troy brown jr.,True,0.5,120,2023-04-19T22:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_steals_over_under,troy brown jr.,False,1.5,-8000,2023-04-20T01:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_steals_over_under,troy brown jr.,False,0.5,-215,2023-04-20T00:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_points_over_under,troy brown jr.,False,2.5,-144,2023-04-20T01:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_steals_over_under,troy brown jr.,True,1.5,1100,2023-04-20T01:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_steals_over_under,troy brown jr.,True,0.5,155,2023-04-20T00:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_steals_over_under,troy brown jr.,False,1.5,-50000,2023-04-20T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_steals_over_under,troy brown jr.,False,0.5,-215,2023-04-20T00:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_steals_over_under,troy brown jr.,True,1.5,1000,2023-04-20T01:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_steals_over_under,troy brown jr.,True,0.5,158,2023-04-20T00:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,betmgm,player_rebounds_over_under,troy brown jr.,False,2.5,110,2023-04-19T13:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,betmgm,player_rebounds_over_under,troy brown jr.,True,2.5,-145,2023-04-19T13:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_rebounds_over_under,troy brown jr.,False,2.5,-130,2023-04-20T01:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_rebounds_over_under,troy brown jr.,False,1.5,-1100,2023-04-20T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_rebounds_over_under,troy brown jr.,True,2.5,-105,2023-04-20T01:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_rebounds_over_under,troy brown jr.,True,1.5,550,2023-04-20T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_rebounds_over_under,troy brown jr.,False,2.5,-110,2023-04-20T01:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_rebounds_over_under,troy brown jr.,False,1.5,-1400,2023-04-20T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_rebounds_over_under,troy brown jr.,True,2.5,-120,2023-04-20T01:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_rebounds_over_under,troy brown jr.,True,1.5,630,2023-04-20T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,betmgm,player_points_over_under,troy brown jr.,False,4.5,-135,2023-04-19T13:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,betmgm,player_points_over_under,troy brown jr.,True,4.5,100,2023-04-19T13:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_points_over_under,troy brown jr.,False,3.5,-160,2023-04-20T00:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_points_over_under,troy brown jr.,False,2.5,-170,2023-04-20T01:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_points_over_under,troy brown jr.,False,1.5,-155,2023-04-20T01:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_threes_over_under,troy brown jr.,False,0.5,-2000,2023-04-20T01:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,betmgm,player_threes_over_under,troy brown jr.,True,0.5,-185,2023-04-19T13:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_points_over_under,troy brown jr.,True,2.5,125,2023-04-20T01:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_points_over_under,troy brown jr.,True,0.5,390,2023-04-20T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_points_over_under,troy brown jr.,True,1.5,115,2023-04-20T01:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,betmgm,player_threes_over_under,troy brown jr.,False,0.5,135,2023-04-19T13:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_threes_over_under,troy brown jr.,False,0.5,100,2023-04-23T02:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,betmgm,player_threes_over_under,troy brown jr.,False,0.5,115,2023-04-22T16:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,betmgm,player_threes_over_under,troy brown jr.,True,0.5,-155,2023-04-22T16:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_threes_over_under,troy brown jr.,True,0.5,-130,2023-04-23T02:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,betmgm,player_steals_over_under,troy brown jr.,False,0.5,-160,2023-04-22T16:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,betmgm,player_steals_over_under,troy brown jr.,True,0.5,120,2023-04-22T16:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_steals_over_under,troy brown jr.,False,0.5,-150,2023-04-22T16:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_steals_over_under,troy brown jr.,True,0.5,120,2023-04-22T16:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,betmgm,player_rebounds_over_under,troy brown jr.,False,2.5,-150,2023-04-22T16:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,betmgm,player_rebounds_over_under,troy brown jr.,True,2.5,115,2023-04-22T16:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_rebounds_over_under,troy brown jr.,False,2.5,-145,2023-04-22T16:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_rebounds_over_under,troy brown jr.,True,2.5,115,2023-04-22T16:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,betmgm,player_assists_over_under,troy brown jr.,True,0.5,-175,2023-04-22T16:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,betmgm,player_points_over_under,troy brown jr.,True,3.5,-115,2023-04-22T16:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,betmgm,player_blocks_over_under,troy brown jr.,False,0.5,-700,2023-04-22T16:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,betmgm,player_blocks_over_under,troy brown jr.,True,0.5,425,2023-04-22T16:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_blocks_over_under,troy brown jr.,False,0.5,-650,2023-04-22T16:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_blocks_over_under,troy brown jr.,True,0.5,450,2023-04-22T16:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,betmgm,player_assists_over_under,troy brown jr.,False,0.5,130,2023-04-22T16:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,betmgm,player_points_over_under,troy brown jr.,False,3.5,-115,2023-04-22T16:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,draftkings,player_steals_over_under,troy brown jr.,False,0.5,-140,2023-04-24T18:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,betmgm,player_steals_over_under,troy brown jr.,True,0.5,110,2023-04-24T18:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,betmgm,player_steals_over_under,troy brown jr.,False,0.5,-145,2023-04-24T18:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,pinnacle,player_threes_over_under,troy brown jr.,True,0.5,-144,2023-04-24T18:00:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,pinnacle,player_threes_over_under,troy brown jr.,False,0.5,108,2023-04-24T18:00:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,betmgm,player_threes_over_under,troy brown jr.,True,0.5,-145,2023-04-24T18:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,draftkings,player_threes_over_under,troy brown jr.,False,0.5,-105,2023-04-24T22:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,draftkings,player_steals_over_under,troy brown jr.,True,0.5,110,2023-04-24T18:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,betmgm,player_threes_over_under,troy brown jr.,False,0.5,105,2023-04-24T18:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,betmgm,player_assists_over_under,troy brown jr.,True,0.5,-160,2023-04-24T18:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,pinnacle,player_assists_over_under,troy brown jr.,False,0.5,112,2023-04-24T19:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,draftkings,player_threes_over_under,troy brown jr.,True,0.5,-125,2023-04-24T22:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,betmgm,player_rebounds_over_under,troy brown jr.,False,2.5,-125,2023-04-24T18:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,draftkings,player_rebounds_over_under,troy brown jr.,True,2.5,-105,2023-04-24T18:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,draftkings,player_rebounds_over_under,troy brown jr.,False,2.5,-125,2023-04-24T18:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,pinnacle,player_rebounds_over_under,troy brown jr.,False,2.5,-125,2023-04-24T18:00:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,pinnacle,player_rebounds_over_under,troy brown jr.,True,2.5,-106,2023-04-24T18:00:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,betmgm,player_points_over_under,troy brown jr.,False,3.5,-130,2023-04-25T02:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,betmgm,player_points_over_under,troy brown jr.,True,3.5,-105,2023-04-25T02:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,pinnacle,player_points_over_under,troy brown jr.,False,3.5,-129,2023-04-25T02:00:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,betmgm,player_assists_over_under,troy brown jr.,False,0.5,120,2023-04-24T18:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,draftkings,player_blocks_over_under,troy brown jr.,True,0.5,350,2023-04-24T18:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,draftkings,player_blocks_over_under,troy brown jr.,False,0.5,-475,2023-04-24T18:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,betmgm,player_blocks_over_under,troy brown jr.,True,0.5,333,2023-04-24T18:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,betmgm,player_blocks_over_under,troy brown jr.,False,0.5,-550,2023-04-24T18:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,pinnacle,player_points_over_under,troy brown jr.,True,3.5,-102,2023-04-25T02:00:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,betmgm,player_rebounds_over_under,troy brown jr.,True,2.5,-105,2023-04-24T18:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,pinnacle,player_assists_over_under,troy brown jr.,True,0.5,-150,2023-04-24T19:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,draftkings,player_threes_over_under,troy brown jr.,True,0.5,900,2023-04-27T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,betmgm,player_threes_over_under,troy brown jr.,True,0.5,-155,2023-04-26T14:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,draftkings,player_points_over_under,troy brown jr.,False,1.5,100,2023-04-27T01:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,draftkings,player_points_over_under,troy brown jr.,False,0.5,-300,2023-04-27T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,draftkings,player_points_over_under,troy brown jr.,True,2.5,-145,2023-04-27T00:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,draftkings,player_points_over_under,troy brown jr.,True,1.5,-130,2023-04-27T01:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,draftkings,player_points_over_under,troy brown jr.,True,0.5,215,2023-04-27T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,pinnacle,player_points_over_under,troy brown jr.,False,4.5,-157,2023-04-26T23:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,pinnacle,player_points_over_under,troy brown jr.,True,4.5,116,2023-04-26T23:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,fanduel,player_points_over_under,troy brown jr.,False,2.5,-188,2023-04-27T00:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,fanduel,player_points_over_under,troy brown jr.,False,1.5,104,2023-04-27T01:00:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,fanduel,player_points_over_under,troy brown jr.,False,0.5,-310,2023-04-27T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,fanduel,player_points_over_under,troy brown jr.,True,2.5,140,2023-04-27T00:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,fanduel,player_points_over_under,troy brown jr.,True,1.5,-138,2023-04-27T01:00:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,fanduel,player_points_over_under,troy brown jr.,True,0.5,220,2023-04-27T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,betmgm,player_blocks_over_under,troy brown jr.,False,0.5,-650,2023-04-26T14:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,betmgm,player_blocks_over_under,troy brown jr.,True,0.5,375,2023-04-26T14:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,draftkings,player_blocks_over_under,troy brown jr.,False,0.5,-570,2023-04-26T14:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,draftkings,player_blocks_over_under,troy brown jr.,True,0.5,410,2023-04-26T14:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,fanduel,player_blocks_over_under,troy brown jr.,False,0.5,-50000,2023-04-27T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,fanduel,player_blocks_over_under,troy brown jr.,True,0.5,1000,2023-04-27T01:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,betmgm,player_assists_over_under,troy brown jr.,False,0.5,125,2023-04-26T14:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,betmgm,player_assists_over_under,troy brown jr.,True,0.5,-165,2023-04-26T14:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,pinnacle,player_assists_over_under,troy brown jr.,True,0.5,-172,2023-04-26T14:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,fanduel,player_assists_over_under,troy brown jr.,False,1.5,-3000,2023-04-27T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,fanduel,player_assists_over_under,troy brown jr.,True,1.5,880,2023-04-27T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,betmgm,player_threes_over_under,troy brown jr.,False,0.5,115,2023-04-26T14:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,draftkings,player_points_over_under,troy brown jr.,False,2.5,110,2023-04-27T00:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,betmgm,player_points_over_under,troy brown jr.,True,4.5,105,2023-04-26T14:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,pinnacle,player_assists_over_under,troy brown jr.,False,0.5,127,2023-04-26T14:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,fanduel,player_rebounds_over_under,troy brown jr.,True,3.5,-210,2023-04-27T00:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,betmgm,player_points_over_under,troy brown jr.,False,4.5,-145,2023-04-26T14:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,pinnacle,player_threes_over_under,troy brown jr.,False,0.5,118,2023-04-26T14:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,pinnacle,player_threes_over_under,troy brown jr.,True,0.5,-159,2023-04-26T14:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,fanduel,player_threes_over_under,troy brown jr.,False,0.5,-3500,2023-04-27T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,draftkings,player_threes_over_under,troy brown jr.,False,0.5,-3000,2023-04-27T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,fanduel,player_threes_over_under,troy brown jr.,True,0.5,920,2023-04-27T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,betmgm,player_steals_over_under,troy brown jr.,True,0.5,110,2023-04-26T14:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,draftkings,player_steals_over_under,troy brown jr.,False,0.5,-8000,2023-04-27T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,draftkings,player_steals_over_under,troy brown jr.,True,0.5,1100,2023-04-27T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,fanduel,player_steals_over_under,troy brown jr.,False,0.5,-5000,2023-04-27T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,fanduel,player_steals_over_under,troy brown jr.,True,0.5,1000,2023-04-27T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,betmgm,player_rebounds_over_under,troy brown jr.,False,2.5,110,2023-04-26T14:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,betmgm,player_rebounds_over_under,troy brown jr.,True,2.5,-145,2023-04-26T14:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,betmgm,player_steals_over_under,troy brown jr.,False,0.5,-150,2023-04-26T14:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,draftkings,player_rebounds_over_under,troy brown jr.,False,4.5,-475,2023-04-27T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,fanduel,player_rebounds_over_under,troy brown jr.,True,4.5,320,2023-04-27T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,draftkings,player_rebounds_over_under,troy brown jr.,False,5.5,-200,2023-04-27T01:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,fanduel,player_rebounds_over_under,troy brown jr.,True,5.5,148,2023-04-27T01:00:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,fanduel,player_rebounds_over_under,troy brown jr.,False,3.5,154,2023-04-27T00:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,fanduel,player_rebounds_over_under,troy brown jr.,False,5.5,-200,2023-04-27T01:00:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,pinnacle,player_rebounds_over_under,troy brown jr.,True,2.5,-146,2023-04-26T14:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,fanduel,player_rebounds_over_under,troy brown jr.,False,4.5,-490,2023-04-27T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,pinnacle,player_rebounds_over_under,troy brown jr.,False,2.5,109,2023-04-26T14:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,draftkings,player_rebounds_over_under,troy brown jr.,True,2.5,-140,2023-04-26T14:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,draftkings,player_rebounds_over_under,troy brown jr.,True,4.5,310,2023-04-27T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,draftkings,player_rebounds_over_under,troy brown jr.,True,5.5,150,2023-04-27T01:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,draftkings,player_rebounds_over_under,troy brown jr.,False,2.5,110,2023-04-26T14:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,pinnacle,player_points_over_under,troy brown jr.,True,3.5,102,2023-04-29T02:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,pinnacle,player_points_over_under,troy brown jr.,False,4.5,-141,2023-04-28T14:05:51,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,pinnacle,player_points_over_under,troy brown jr.,False,3.5,-133,2023-04-29T02:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,pinnacle,player_points_over_under,troy brown jr.,True,4.5,106,2023-04-28T14:05:51,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,betmgm,player_points_over_under,troy brown jr.,True,3.5,-135,2023-04-28T22:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,betmgm,player_blocks_over_under,troy brown jr.,False,0.5,-550,2023-04-28T19:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,pinnacle,player_assists_over_under,troy brown jr.,False,0.5,118,2023-04-28T19:30:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,draftkings,player_blocks_over_under,troy brown jr.,False,0.5,-490,2023-04-28T19:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,draftkings,player_blocks_over_under,troy brown jr.,True,0.5,360,2023-04-28T19:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,betmgm,player_assists_over_under,troy brown jr.,False,0.5,115,2023-04-28T19:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,betmgm,player_assists_over_under,troy brown jr.,True,0.5,-155,2023-04-28T19:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,pinnacle,player_assists_over_under,troy brown jr.,True,0.5,-159,2023-04-28T19:30:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,betmgm,player_points_over_under,troy brown jr.,False,3.5,100,2023-04-28T22:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,betmgm,player_blocks_over_under,troy brown jr.,True,0.5,340,2023-04-28T19:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,pinnacle,player_rebounds_over_under,troy brown jr.,True,2.5,-118,2023-04-28T19:30:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,draftkings,player_steals_over_under,troy brown jr.,False,0.5,-155,2023-04-28T19:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,draftkings,player_rebounds_over_under,troy brown jr.,True,2.5,-120,2023-04-28T19:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,pinnacle,player_rebounds_over_under,troy brown jr.,False,2.5,-112,2023-04-28T19:30:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,betmgm,player_threes_over_under,troy brown jr.,False,0.5,105,2023-04-28T19:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,betmgm,player_threes_over_under,troy brown jr.,True,0.5,-145,2023-04-28T19:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,caesars,player_threes_over_under,troy brown jr.,False,0.5,104,2023-04-28T19:37:59,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,draftkings,player_threes_over_under,troy brown jr.,False,0.5,110,2023-04-28T19:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,draftkings,player_threes_over_under,troy brown jr.,True,0.5,-140,2023-04-28T19:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,pinnacle,player_threes_over_under,troy brown jr.,False,0.5,108,2023-04-28T19:30:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,caesars,player_threes_over_under,troy brown jr.,True,0.5,-142,2023-04-28T19:37:59,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,betmgm,player_steals_over_under,troy brown jr.,False,0.5,-160,2023-04-28T19:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,betmgm,player_steals_over_under,troy brown jr.,True,0.5,120,2023-04-28T19:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,draftkings,player_steals_over_under,troy brown jr.,True,0.5,125,2023-04-28T19:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,betmgm,player_rebounds_over_under,troy brown jr.,False,2.5,-110,2023-04-28T19:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,betmgm,player_rebounds_over_under,troy brown jr.,True,2.5,-120,2023-04-28T19:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,draftkings,player_rebounds_over_under,troy brown jr.,False,2.5,-110,2023-04-28T19:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,pinnacle,player_threes_over_under,troy brown jr.,True,0.5,-144,2023-04-28T19:30:02,Los Angeles Lakers,Memphis Grizzlies
+2023-05-02,e012bab75156a2414fba68da0eee2da5,draftkings,player_blocks_over_under,troy brown jr.,False,0.5,-750,2023-05-02T16:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,fanduel,player_points_over_under,troy brown jr.,True,3.5,225,2023-05-03T04:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,fanduel,player_points_over_under,troy brown jr.,True,2.5,-110,2023-05-03T02:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,fanduel,player_points_over_under,troy brown jr.,True,1.5,-128,2023-05-03T03:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,betmgm,player_blocks_over_under,troy brown jr.,False,0.5,-800,2023-05-02T16:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,betmgm,player_blocks_over_under,troy brown jr.,True,0.5,475,2023-05-02T16:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,draftkings,player_blocks_over_under,troy brown jr.,True,0.5,500,2023-05-02T16:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,fanduel,player_assists_over_under,troy brown jr.,True,0.5,800,2023-05-03T04:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,fanduel,player_points_over_under,troy brown jr.,True,4.5,144,2023-05-03T04:00:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,betmgm,player_assists_over_under,troy brown jr.,False,0.5,120,2023-05-02T16:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,betmgm,player_assists_over_under,troy brown jr.,True,0.5,-160,2023-05-02T16:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,pinnacle,player_assists_over_under,troy brown jr.,False,0.5,110,2023-05-03T02:15:02,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,pinnacle,player_assists_over_under,troy brown jr.,True,0.5,-148,2023-05-03T02:15:02,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,fanduel,player_assists_over_under,troy brown jr.,False,0.5,-2200,2023-05-03T04:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,fanduel,player_blocks_over_under,troy brown jr.,False,0.5,-100000,2023-05-03T04:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,fanduel,player_points_over_under,troy brown jr.,False,1.5,-104,2023-05-03T03:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,fanduel,player_blocks_over_under,troy brown jr.,True,0.5,1000,2023-05-03T04:00:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,fanduel,player_points_over_under,troy brown jr.,False,3.5,-320,2023-05-03T04:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,betmgm,player_threes_over_under,troy brown jr.,True,0.5,-120,2023-05-02T16:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,draftkings,player_threes_over_under,troy brown jr.,False,1.5,-2000,2023-05-03T04:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,draftkings,player_threes_over_under,troy brown jr.,False,0.5,-270,2023-05-03T03:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,draftkings,player_threes_over_under,troy brown jr.,True,1.5,750,2023-05-03T04:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,draftkings,player_threes_over_under,troy brown jr.,True,0.5,195,2023-05-03T03:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,pinnacle,player_threes_over_under,troy brown jr.,False,0.5,-122,2023-05-03T02:15:02,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,pinnacle,player_threes_over_under,troy brown jr.,True,0.5,-108,2023-05-03T02:15:02,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,fanduel,player_threes_over_under,troy brown jr.,False,1.5,-3500,2023-05-03T04:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,fanduel,player_threes_over_under,troy brown jr.,False,0.5,-275,2023-05-03T03:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,fanduel,player_threes_over_under,troy brown jr.,True,1.5,920,2023-05-03T04:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,fanduel,player_threes_over_under,troy brown jr.,True,0.5,198,2023-05-03T03:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,fanduel,player_points_over_under,troy brown jr.,False,2.5,-120,2023-05-03T02:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,fanduel,player_rebounds_over_under,troy brown jr.,True,2.5,100,2023-05-03T02:30:02,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,fanduel,player_rebounds_over_under,troy brown jr.,False,0.5,-440,2023-05-03T04:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,betmgm,player_threes_over_under,troy brown jr.,False,0.5,-115,2023-05-02T16:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,fanduel,player_rebounds_over_under,troy brown jr.,False,1.5,-172,2023-05-03T03:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,pinnacle,player_rebounds_over_under,troy brown jr.,True,2.5,-100,2023-05-03T02:15:02,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,pinnacle,player_rebounds_over_under,troy brown jr.,False,2.5,-132,2023-05-03T02:15:02,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,draftkings,player_rebounds_over_under,troy brown jr.,True,0.5,220,2023-05-03T04:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,draftkings,player_rebounds_over_under,troy brown jr.,True,1.5,125,2023-05-03T03:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,draftkings,player_rebounds_over_under,troy brown jr.,True,2.5,100,2023-05-03T02:30:02,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,draftkings,player_rebounds_over_under,troy brown jr.,False,0.5,-310,2023-05-03T04:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,draftkings,player_rebounds_over_under,troy brown jr.,False,1.5,-165,2023-05-03T03:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,draftkings,player_rebounds_over_under,troy brown jr.,False,2.5,-130,2023-05-03T02:30:02,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,betmgm,player_rebounds_over_under,troy brown jr.,True,2.5,-110,2023-05-02T16:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,betmgm,player_rebounds_over_under,troy brown jr.,False,2.5,-120,2023-05-02T16:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,fanduel,player_steals_over_under,troy brown jr.,True,0.5,1000,2023-05-03T04:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,fanduel,player_steals_over_under,troy brown jr.,False,0.5,-5000,2023-05-03T04:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,draftkings,player_steals_over_under,troy brown jr.,True,0.5,900,2023-05-03T04:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,draftkings,player_steals_over_under,troy brown jr.,False,0.5,-3000,2023-05-03T04:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,fanduel,player_rebounds_over_under,troy brown jr.,False,2.5,-132,2023-05-03T02:30:02,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,betmgm,player_steals_over_under,troy brown jr.,True,0.5,125,2023-05-02T16:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,betmgm,player_steals_over_under,troy brown jr.,False,0.5,-165,2023-05-02T16:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,draftkings,player_points_over_under,troy brown jr.,False,4.5,-250,2023-05-03T04:00:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,fanduel,player_rebounds_over_under,troy brown jr.,True,1.5,128,2023-05-03T03:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,fanduel,player_rebounds_over_under,troy brown jr.,True,0.5,290,2023-05-03T04:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,betmgm,player_points_over_under,troy brown jr.,False,3.5,-125,2023-05-02T16:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,betmgm,player_points_over_under,troy brown jr.,True,3.5,-105,2023-05-02T16:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,draftkings,player_points_over_under,troy brown jr.,False,3.5,-235,2023-05-03T04:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,draftkings,player_points_over_under,troy brown jr.,False,2.5,-120,2023-05-03T02:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,draftkings,player_points_over_under,troy brown jr.,False,1.5,100,2023-05-03T03:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,draftkings,player_points_over_under,troy brown jr.,True,3.5,170,2023-05-03T04:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,draftkings,player_points_over_under,troy brown jr.,True,2.5,-110,2023-05-03T02:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,draftkings,player_points_over_under,troy brown jr.,True,1.5,-130,2023-05-03T03:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,pinnacle,player_points_over_under,troy brown jr.,False,3.5,-145,2023-05-03T02:15:02,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,pinnacle,player_points_over_under,troy brown jr.,True,3.5,109,2023-05-03T02:15:02,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,fanduel,player_points_over_under,troy brown jr.,False,4.5,-194,2023-05-03T04:00:01,Golden State Warriors,Los Angeles Lakers
+2023-05-02,e012bab75156a2414fba68da0eee2da5,draftkings,player_points_over_under,troy brown jr.,True,4.5,180,2023-05-03T04:00:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,49c8daf0ea1520c23152ff9f9ec60ab8,pinnacle,player_threes_over_under,troy brown jr.,False,0.5,-135,2023-05-05T00:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,49c8daf0ea1520c23152ff9f9ec60ab8,pinnacle,player_threes_over_under,troy brown jr.,True,0.5,102,2023-05-05T00:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,49c8daf0ea1520c23152ff9f9ec60ab8,draftkings,player_threes_over_under,troy brown jr.,True,0.5,110,2023-05-04T22:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,49c8daf0ea1520c23152ff9f9ec60ab8,pinnacle,player_points_over_under,troy brown jr.,False,3.5,-146,2023-05-03T15:00:02,Golden State Warriors,Los Angeles Lakers
+2023-05-04,49c8daf0ea1520c23152ff9f9ec60ab8,betmgm,player_threes_over_under,troy brown jr.,True,0.5,100,2023-05-04T22:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,49c8daf0ea1520c23152ff9f9ec60ab8,betmgm,player_threes_over_under,troy brown jr.,False,0.5,-135,2023-05-04T22:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,49c8daf0ea1520c23152ff9f9ec60ab8,betmgm,player_steals_over_under,troy brown jr.,False,0.5,-210,2023-05-04T22:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,49c8daf0ea1520c23152ff9f9ec60ab8,draftkings,player_threes_over_under,troy brown jr.,False,0.5,-140,2023-05-04T22:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,49c8daf0ea1520c23152ff9f9ec60ab8,betmgm,player_points_over_under,troy brown jr.,True,2.5,-140,2023-05-04T22:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,49c8daf0ea1520c23152ff9f9ec60ab8,betmgm,player_steals_over_under,troy brown jr.,True,0.5,155,2023-05-04T22:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,49c8daf0ea1520c23152ff9f9ec60ab8,draftkings,player_steals_over_under,troy brown jr.,True,0.5,165,2023-05-04T22:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,49c8daf0ea1520c23152ff9f9ec60ab8,pinnacle,player_points_over_under,troy brown jr.,False,2.5,-120,2023-05-05T00:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,49c8daf0ea1520c23152ff9f9ec60ab8,pinnacle,player_points_over_under,troy brown jr.,True,3.5,109,2023-05-03T15:00:02,Golden State Warriors,Los Angeles Lakers
+2023-05-04,49c8daf0ea1520c23152ff9f9ec60ab8,pinnacle,player_points_over_under,troy brown jr.,True,2.5,-111,2023-05-05T00:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,49c8daf0ea1520c23152ff9f9ec60ab8,betmgm,player_blocks_over_under,troy brown jr.,False,0.5,-1000,2023-05-04T22:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,49c8daf0ea1520c23152ff9f9ec60ab8,betmgm,player_blocks_over_under,troy brown jr.,True,0.5,525,2023-05-04T22:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,49c8daf0ea1520c23152ff9f9ec60ab8,draftkings,player_blocks_over_under,troy brown jr.,False,0.5,-875,2023-05-04T22:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,49c8daf0ea1520c23152ff9f9ec60ab8,betmgm,player_points_over_under,troy brown jr.,False,2.5,105,2023-05-04T22:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,49c8daf0ea1520c23152ff9f9ec60ab8,betmgm,player_assists_over_under,troy brown jr.,False,0.5,-145,2023-05-04T22:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,49c8daf0ea1520c23152ff9f9ec60ab8,betmgm,player_assists_over_under,troy brown jr.,True,0.5,110,2023-05-04T22:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,49c8daf0ea1520c23152ff9f9ec60ab8,pinnacle,player_assists_over_under,troy brown jr.,False,0.5,-119,2023-05-05T01:00:02,Golden State Warriors,Los Angeles Lakers
+2023-05-04,49c8daf0ea1520c23152ff9f9ec60ab8,pinnacle,player_assists_over_under,troy brown jr.,True,0.5,-111,2023-05-05T01:00:02,Golden State Warriors,Los Angeles Lakers
+2023-05-04,49c8daf0ea1520c23152ff9f9ec60ab8,pinnacle,player_rebounds_over_under,troy brown jr.,True,1.5,-210,2023-05-05T00:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,49c8daf0ea1520c23152ff9f9ec60ab8,pinnacle,player_rebounds_over_under,troy brown jr.,True,2.5,148,2023-05-03T15:00:02,Golden State Warriors,Los Angeles Lakers
+2023-05-04,49c8daf0ea1520c23152ff9f9ec60ab8,pinnacle,player_rebounds_over_under,troy brown jr.,False,1.5,151,2023-05-05T00:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,49c8daf0ea1520c23152ff9f9ec60ab8,pinnacle,player_rebounds_over_under,troy brown jr.,False,2.5,-205,2023-05-03T15:00:02,Golden State Warriors,Los Angeles Lakers
+2023-05-04,49c8daf0ea1520c23152ff9f9ec60ab8,betmgm,player_rebounds_over_under,troy brown jr.,True,1.5,-200,2023-05-04T22:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,49c8daf0ea1520c23152ff9f9ec60ab8,betmgm,player_rebounds_over_under,troy brown jr.,False,1.5,145,2023-05-04T22:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,49c8daf0ea1520c23152ff9f9ec60ab8,draftkings,player_steals_over_under,troy brown jr.,False,0.5,-205,2023-05-04T22:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,49c8daf0ea1520c23152ff9f9ec60ab8,draftkings,player_blocks_over_under,troy brown jr.,True,0.5,575,2023-05-04T22:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-06,dc2b57709db77157396bf3484fe25ce4,fanduel,player_rebounds_over_under,troy brown jr.,True,0.5,1000,2023-05-07T02:00:01,Los Angeles Lakers,Golden State Warriors
+2023-05-06,dc2b57709db77157396bf3484fe25ce4,betmgm,player_points_over_under,troy brown jr.,False,2.5,-115,2023-05-06T19:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-06,dc2b57709db77157396bf3484fe25ce4,betmgm,player_points_over_under,troy brown jr.,True,2.5,-115,2023-05-06T19:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-06,dc2b57709db77157396bf3484fe25ce4,pinnacle,player_points_over_under,troy brown jr.,False,2.5,-115,2023-05-06T19:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-06,dc2b57709db77157396bf3484fe25ce4,betmgm,player_assists_over_under,troy brown jr.,False,0.5,115,2023-05-06T19:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-06,dc2b57709db77157396bf3484fe25ce4,fanduel,player_points_over_under,troy brown jr.,False,2.5,-166,2023-05-07T01:00:02,Los Angeles Lakers,Golden State Warriors
+2023-05-06,dc2b57709db77157396bf3484fe25ce4,fanduel,player_assists_over_under,troy brown jr.,False,0.5,-50000,2023-05-07T03:00:01,Los Angeles Lakers,Golden State Warriors
+2023-05-06,dc2b57709db77157396bf3484fe25ce4,pinnacle,player_assists_over_under,troy brown jr.,True,0.5,-159,2023-05-06T19:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-06,dc2b57709db77157396bf3484fe25ce4,pinnacle,player_assists_over_under,troy brown jr.,False,0.5,118,2023-05-06T19:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-06,dc2b57709db77157396bf3484fe25ce4,betmgm,player_assists_over_under,troy brown jr.,True,0.5,-155,2023-05-06T19:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-06,dc2b57709db77157396bf3484fe25ce4,fanduel,player_rebounds_over_under,troy brown jr.,True,1.5,-152,2023-05-07T01:00:02,Los Angeles Lakers,Golden State Warriors
+2023-05-06,dc2b57709db77157396bf3484fe25ce4,fanduel,player_blocks_over_under,troy brown jr.,True,0.5,1000,2023-05-07T01:15:01,Los Angeles Lakers,Golden State Warriors
+2023-05-06,dc2b57709db77157396bf3484fe25ce4,pinnacle,player_points_over_under,troy brown jr.,True,2.5,-115,2023-05-06T19:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-06,dc2b57709db77157396bf3484fe25ce4,fanduel,player_blocks_over_under,troy brown jr.,False,0.5,-100000,2023-05-07T01:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-06,dc2b57709db77157396bf3484fe25ce4,draftkings,player_blocks_over_under,troy brown jr.,False,0.5,-750,2023-05-06T19:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-06,dc2b57709db77157396bf3484fe25ce4,betmgm,player_blocks_over_under,troy brown jr.,True,0.5,475,2023-05-06T19:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-06,dc2b57709db77157396bf3484fe25ce4,betmgm,player_blocks_over_under,troy brown jr.,False,0.5,-800,2023-05-06T19:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-06,dc2b57709db77157396bf3484fe25ce4,fanduel,player_points_over_under,troy brown jr.,True,0.5,1000,2023-05-07T02:30:01,Los Angeles Lakers,Golden State Warriors
+2023-05-06,dc2b57709db77157396bf3484fe25ce4,fanduel,player_points_over_under,troy brown jr.,True,2.5,124,2023-05-07T01:00:02,Los Angeles Lakers,Golden State Warriors
+2023-05-06,dc2b57709db77157396bf3484fe25ce4,fanduel,player_points_over_under,troy brown jr.,False,0.5,-5000,2023-05-07T03:00:01,Los Angeles Lakers,Golden State Warriors
+2023-05-06,dc2b57709db77157396bf3484fe25ce4,draftkings,player_blocks_over_under,troy brown jr.,True,0.5,500,2023-05-06T19:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-06,dc2b57709db77157396bf3484fe25ce4,fanduel,player_rebounds_over_under,troy brown jr.,False,0.5,-7000,2023-05-07T03:00:01,Los Angeles Lakers,Golden State Warriors
+2023-05-06,dc2b57709db77157396bf3484fe25ce4,draftkings,player_rebounds_over_under,troy brown jr.,False,1.5,115,2023-05-07T01:00:02,Los Angeles Lakers,Golden State Warriors
+2023-05-06,dc2b57709db77157396bf3484fe25ce4,pinnacle,player_rebounds_over_under,troy brown jr.,True,1.5,-173,2023-05-07T00:15:01,Los Angeles Lakers,Golden State Warriors
+2023-05-06,dc2b57709db77157396bf3484fe25ce4,betmgm,player_threes_over_under,troy brown jr.,False,0.5,-145,2023-05-06T19:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-06,dc2b57709db77157396bf3484fe25ce4,betmgm,player_threes_over_under,troy brown jr.,True,0.5,110,2023-05-06T19:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-06,dc2b57709db77157396bf3484fe25ce4,draftkings,player_threes_over_under,troy brown jr.,False,0.5,-1400,2023-05-07T01:30:01,Los Angeles Lakers,Golden State Warriors
+2023-05-06,dc2b57709db77157396bf3484fe25ce4,draftkings,player_threes_over_under,troy brown jr.,True,0.5,650,2023-05-07T01:30:01,Los Angeles Lakers,Golden State Warriors
+2023-05-06,dc2b57709db77157396bf3484fe25ce4,pinnacle,player_threes_over_under,troy brown jr.,False,0.5,-170,2023-05-06T22:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-06,dc2b57709db77157396bf3484fe25ce4,pinnacle,player_threes_over_under,troy brown jr.,True,0.5,128,2023-05-06T22:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-06,dc2b57709db77157396bf3484fe25ce4,fanduel,player_threes_over_under,troy brown jr.,False,0.5,-100000,2023-05-07T02:30:01,Los Angeles Lakers,Golden State Warriors
+2023-05-06,dc2b57709db77157396bf3484fe25ce4,fanduel,player_threes_over_under,troy brown jr.,True,0.5,1000,2023-05-07T01:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-06,dc2b57709db77157396bf3484fe25ce4,betmgm,player_steals_over_under,troy brown jr.,False,0.5,-225,2023-05-06T19:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-06,dc2b57709db77157396bf3484fe25ce4,fanduel,player_rebounds_over_under,troy brown jr.,False,1.5,114,2023-05-07T01:00:02,Los Angeles Lakers,Golden State Warriors
+2023-05-06,dc2b57709db77157396bf3484fe25ce4,betmgm,player_steals_over_under,troy brown jr.,True,0.5,165,2023-05-06T19:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-06,dc2b57709db77157396bf3484fe25ce4,draftkings,player_steals_over_under,troy brown jr.,True,0.5,800,2023-05-07T01:30:01,Los Angeles Lakers,Golden State Warriors
+2023-05-06,dc2b57709db77157396bf3484fe25ce4,fanduel,player_steals_over_under,troy brown jr.,False,0.5,-100000,2023-05-07T02:00:01,Los Angeles Lakers,Golden State Warriors
+2023-05-06,dc2b57709db77157396bf3484fe25ce4,fanduel,player_steals_over_under,troy brown jr.,True,0.5,1000,2023-05-07T01:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-06,dc2b57709db77157396bf3484fe25ce4,betmgm,player_rebounds_over_under,troy brown jr.,False,1.5,125,2023-05-06T19:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-06,dc2b57709db77157396bf3484fe25ce4,betmgm,player_rebounds_over_under,troy brown jr.,True,1.5,-165,2023-05-06T19:45:01,Los Angeles Lakers,Golden State Warriors
+2023-05-06,dc2b57709db77157396bf3484fe25ce4,draftkings,player_rebounds_over_under,troy brown jr.,False,0.5,-5000,2023-05-07T02:00:01,Los Angeles Lakers,Golden State Warriors
+2023-05-06,dc2b57709db77157396bf3484fe25ce4,draftkings,player_rebounds_over_under,troy brown jr.,True,1.5,-150,2023-05-07T01:00:02,Los Angeles Lakers,Golden State Warriors
+2023-05-06,dc2b57709db77157396bf3484fe25ce4,draftkings,player_rebounds_over_under,troy brown jr.,True,0.5,1000,2023-05-07T02:00:01,Los Angeles Lakers,Golden State Warriors
+2023-05-06,dc2b57709db77157396bf3484fe25ce4,pinnacle,player_rebounds_over_under,troy brown jr.,False,1.5,128,2023-05-07T00:15:01,Los Angeles Lakers,Golden State Warriors
+2023-05-06,dc2b57709db77157396bf3484fe25ce4,draftkings,player_steals_over_under,troy brown jr.,False,0.5,-2500,2023-05-07T01:30:01,Los Angeles Lakers,Golden State Warriors
+2023-05-06,dc2b57709db77157396bf3484fe25ce4,fanduel,player_assists_over_under,troy brown jr.,True,0.5,1000,2023-05-07T01:45:01,Los Angeles Lakers,Golden State Warriors

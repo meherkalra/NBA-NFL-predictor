@@ -1,0 +1,93 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_points_over_under,ryan arcidiacono,True,6.5,-140,2023-03-25T02:45:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_rebounds_over_under,ryan arcidiacono,False,2.5,-138,2023-03-25T02:30:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_assists_over_under,ryan arcidiacono,True,4.5,-106,2023-03-25T02:15:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_assists_over_under,ryan arcidiacono,True,5.5,-235,2023-03-25T03:45:02,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_assists_over_under,ryan arcidiacono,True,6.5,920,2023-03-25T04:00:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_assists_over_under,ryan arcidiacono,True,7.5,-102,2023-03-25T03:15:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_assists_over_under,ryan arcidiacono,False,4.5,-125,2023-03-25T02:15:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_assists_over_under,ryan arcidiacono,False,5.5,172,2023-03-25T03:45:02,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_assists_over_under,ryan arcidiacono,False,6.5,-3500,2023-03-25T04:00:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_assists_over_under,ryan arcidiacono,False,7.5,-130,2023-03-25T03:15:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_blocks_over_under,ryan arcidiacono,True,0.5,1000,2023-03-25T02:30:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_blocks_over_under,ryan arcidiacono,False,0.5,-100000,2023-03-25T02:45:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_points_over_under,ryan arcidiacono,True,0.5,550,2023-03-25T04:00:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_points_over_under,ryan arcidiacono,True,1.5,-162,2023-03-25T03:45:02,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_points_over_under,ryan arcidiacono,True,4.5,-118,2023-03-25T03:15:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_rebounds_over_under,ryan arcidiacono,False,1.5,-162,2023-03-25T03:15:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_points_over_under,ryan arcidiacono,True,7.5,-158,2023-03-25T02:30:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_points_over_under,ryan arcidiacono,True,9.5,-112,2023-03-25T02:15:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_points_over_under,ryan arcidiacono,False,0.5,-1100,2023-03-25T04:00:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_points_over_under,ryan arcidiacono,False,1.5,122,2023-03-25T03:45:02,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_points_over_under,ryan arcidiacono,False,4.5,-112,2023-03-25T03:15:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_points_over_under,ryan arcidiacono,False,6.5,106,2023-03-25T02:45:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_points_over_under,ryan arcidiacono,False,7.5,118,2023-03-25T02:30:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_points_over_under,ryan arcidiacono,False,9.5,-118,2023-03-25T02:15:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_rebounds_over_under,ryan arcidiacono,True,0.5,1000,2023-03-25T04:00:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_rebounds_over_under,ryan arcidiacono,True,1.5,122,2023-03-25T03:15:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_steals_over_under,ryan arcidiacono,True,0.5,-102,2023-03-25T02:45:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_steals_over_under,ryan arcidiacono,True,2.5,1000,2023-03-25T04:00:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_steals_over_under,ryan arcidiacono,False,0.5,-130,2023-03-25T02:45:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_steals_over_under,ryan arcidiacono,False,2.5,-100000,2023-03-25T04:00:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_rebounds_over_under,ryan arcidiacono,True,2.5,104,2023-03-25T02:30:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_threes_over_under,ryan arcidiacono,False,1.5,-172,2023-03-25T02:45:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_rebounds_over_under,ryan arcidiacono,False,0.5,-7000,2023-03-25T04:00:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_threes_over_under,ryan arcidiacono,True,1.5,128,2023-03-25T02:45:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_threes_over_under,ryan arcidiacono,True,0.5,1000,2023-03-25T04:00:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_threes_over_under,ryan arcidiacono,False,0.5,-10000,2023-03-25T04:00:01,Portland Trail Blazers,Chicago Bulls
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_threes_over_under,ryan arcidiacono,True,1.5,230,2023-03-27T01:15:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_threes_over_under,ryan arcidiacono,True,0.5,-230,2023-03-27T00:00:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_steals_over_under,ryan arcidiacono,False,0.5,-700,2023-03-27T01:15:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_steals_over_under,ryan arcidiacono,True,0.5,410,2023-03-27T01:15:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_rebounds_over_under,ryan arcidiacono,False,2.5,-215,2023-03-27T01:15:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_rebounds_over_under,ryan arcidiacono,False,1.5,-146,2023-03-27T01:00:02,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_rebounds_over_under,ryan arcidiacono,True,2.5,158,2023-03-27T01:15:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_rebounds_over_under,ryan arcidiacono,True,1.5,110,2023-03-27T01:00:02,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_points_over_under,ryan arcidiacono,False,7.5,-152,2023-03-26T23:15:02,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_points_over_under,ryan arcidiacono,False,6.5,-138,2023-03-27T00:30:02,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_points_over_under,ryan arcidiacono,False,5.5,-182,2023-03-27T00:45:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_points_over_under,ryan arcidiacono,True,6.5,104,2023-03-27T00:30:02,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_points_over_under,ryan arcidiacono,True,5.5,136,2023-03-27T00:45:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_points_over_under,ryan arcidiacono,True,4.5,130,2023-03-27T01:15:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_blocks_over_under,ryan arcidiacono,False,0.5,-100000,2023-03-26T23:45:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_blocks_over_under,ryan arcidiacono,True,0.5,1000,2023-03-26T23:30:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_assists_over_under,ryan arcidiacono,False,4.5,140,2023-03-27T01:15:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_assists_over_under,ryan arcidiacono,False,3.5,130,2023-03-27T00:00:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_assists_over_under,ryan arcidiacono,True,4.5,-188,2023-03-27T01:15:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_assists_over_under,ryan arcidiacono,True,3.5,-174,2023-03-27T00:00:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_points_over_under,ryan arcidiacono,False,4.5,-174,2023-03-27T01:15:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_points_over_under,ryan arcidiacono,True,7.5,114,2023-03-26T23:15:02,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_threes_over_under,ryan arcidiacono,False,1.5,-330,2023-03-27T01:15:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_threes_over_under,ryan arcidiacono,False,0.5,168,2023-03-27T00:00:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-27,c480dabad04835efc8323abb6bcc365b,fanduel,player_points_over_under,ryan arcidiacono,False,7.5,-128,2023-03-30T02:00:01,Portland Trail Blazers,Sacramento Kings
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_assists_over_under,ryan arcidiacono,True,2.5,-158,2023-03-28T03:15:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_assists_over_under,ryan arcidiacono,True,3.5,124,2023-03-28T02:30:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_assists_over_under,ryan arcidiacono,True,4.5,110,2023-03-28T01:45:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_assists_over_under,ryan arcidiacono,False,1.5,-245,2023-03-28T04:00:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_assists_over_under,ryan arcidiacono,False,2.5,118,2023-03-28T03:15:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_assists_over_under,ryan arcidiacono,False,3.5,-166,2023-03-28T02:30:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_assists_over_under,ryan arcidiacono,False,4.5,-134,2023-03-28T01:45:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_blocks_over_under,ryan arcidiacono,True,0.5,1000,2023-03-28T02:30:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_blocks_over_under,ryan arcidiacono,False,0.5,-100000,2023-03-28T02:45:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_points_over_under,ryan arcidiacono,True,3.5,-104,2023-03-28T04:00:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_points_over_under,ryan arcidiacono,True,4.5,162,2023-03-28T03:45:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_points_over_under,ryan arcidiacono,True,5.5,-162,2023-03-28T03:15:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_points_over_under,ryan arcidiacono,True,6.5,124,2023-03-28T03:00:02,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_points_over_under,ryan arcidiacono,True,7.5,-132,2023-03-28T02:45:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_points_over_under,ryan arcidiacono,False,3.5,-128,2023-03-28T04:00:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_points_over_under,ryan arcidiacono,False,5.5,122,2023-03-28T03:15:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_points_over_under,ryan arcidiacono,False,6.5,-166,2023-03-28T03:00:02,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_points_over_under,ryan arcidiacono,False,7.5,100,2023-03-28T02:45:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_rebounds_over_under,ryan arcidiacono,True,1.5,-166,2023-03-28T02:15:02,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_rebounds_over_under,ryan arcidiacono,True,2.5,390,2023-03-28T04:00:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_rebounds_over_under,ryan arcidiacono,True,3.5,108,2023-03-28T02:45:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_rebounds_over_under,ryan arcidiacono,False,1.5,124,2023-03-28T02:15:02,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_rebounds_over_under,ryan arcidiacono,False,2.5,-650,2023-03-28T04:00:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_rebounds_over_under,ryan arcidiacono,False,3.5,-144,2023-03-28T02:45:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_steals_over_under,ryan arcidiacono,True,0.5,920,2023-03-28T04:00:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_steals_over_under,ryan arcidiacono,False,0.5,-3500,2023-03-28T04:00:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_threes_over_under,ryan arcidiacono,True,1.5,580,2023-03-28T04:00:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_threes_over_under,ryan arcidiacono,False,1.5,-1200,2023-03-28T04:00:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,c480dabad04835efc8323abb6bcc365b,fanduel,player_points_over_under,ryan arcidiacono,True,7.5,104,2023-03-30T02:00:01,Portland Trail Blazers,Sacramento Kings
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_points_over_under,ryan arcidiacono,False,4.5,-220,2023-03-28T03:45:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_assists_over_under,ryan arcidiacono,True,1.5,178,2023-03-28T04:00:01,Portland Trail Blazers,New Orleans Pelicans

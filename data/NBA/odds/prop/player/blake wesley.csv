@@ -1,0 +1,73 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_points_over_under,blake wesley,False,7.5,-118,2023-03-22T00:00:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_points_over_under,blake wesley,True,7.5,-104,2023-03-22T00:00:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_assists_over_under,blake wesley,False,2.5,-124,2023-03-22T00:00:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-22,0abd21a65febdc10758f318eb76b50d6,fanduel,player_assists_over_under,blake wesley,True,2.5,102,2023-03-22T00:00:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,blake wesley,False,6.5,100,2023-03-24T23:00:02,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_assists_over_under,blake wesley,True,2.5,112,2023-03-24T23:00:02,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_assists_over_under,blake wesley,False,2.5,-138,2023-03-24T23:00:02,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,blake wesley,True,6.5,-122,2023-03-24T23:00:02,Washington Wizards,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_points_over_under,blake wesley,False,6.5,-104,2023-04-02T22:00:01,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_points_over_under,blake wesley,True,6.5,-118,2023-04-02T22:00:01,Sacramento Kings,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_assists_over_under,blake wesley,False,2.5,-125,2023-04-05T01:45:02,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_blocks_over_under,blake wesley,True,0.5,575,2023-04-05T01:45:02,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_blocks_over_under,blake wesley,False,0.5,-875,2023-04-05T01:45:02,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,fanduel,player_points_over_under,blake wesley,True,7.5,104,2023-04-05T02:00:02,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,fanduel,player_points_over_under,blake wesley,False,7.5,-128,2023-04-05T02:00:02,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_points_over_under,blake wesley,True,7.5,105,2023-04-05T01:45:02,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_points_over_under,blake wesley,False,7.5,-135,2023-04-05T01:45:02,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_rebounds_over_under,blake wesley,True,2.5,-105,2023-04-05T01:45:02,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_rebounds_over_under,blake wesley,False,2.5,-125,2023-04-05T01:45:02,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_steals_over_under,blake wesley,True,0.5,-125,2023-04-05T01:45:02,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_steals_over_under,blake wesley,False,0.5,-105,2023-04-05T01:45:02,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_threes_over_under,blake wesley,True,0.5,130,2023-04-05T01:45:02,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_assists_over_under,blake wesley,True,2.5,-105,2023-04-05T01:45:02,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_threes_over_under,blake wesley,False,0.5,-160,2023-04-05T01:45:02,Phoenix Suns,San Antonio Spurs
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_steals_over_under,blake wesley,True,0.5,-130,2023-04-07T00:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_threes_over_under,blake wesley,False,0.5,100,2023-04-07T00:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_threes_over_under,blake wesley,True,0.5,-130,2023-04-07T00:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_steals_over_under,blake wesley,False,0.5,100,2023-04-07T00:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_assists_over_under,blake wesley,True,2.5,-135,2023-04-07T00:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_assists_over_under,blake wesley,False,2.5,105,2023-04-07T00:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_blocks_over_under,blake wesley,True,0.5,380,2023-04-07T00:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_blocks_over_under,blake wesley,False,0.5,-520,2023-04-07T00:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_points_over_under,blake wesley,True,6.5,-115,2023-04-07T00:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_points_over_under,blake wesley,False,6.5,-115,2023-04-07T00:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_rebounds_over_under,blake wesley,True,2.5,115,2023-04-07T00:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_rebounds_over_under,blake wesley,False,2.5,-145,2023-04-07T00:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,caesars,player_threes_over_under,blake wesley,False,0.5,-117,2023-04-08T19:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_threes_over_under,blake wesley,False,0.5,-115,2023-04-08T19:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,caesars,player_threes_over_under,blake wesley,True,0.5,-117,2023-04-08T19:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_assists_over_under,blake wesley,True,3.5,130,2023-04-08T19:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_assists_over_under,blake wesley,False,3.5,-160,2023-04-08T19:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,caesars,player_assists_over_under,blake wesley,False,3.5,-169,2023-04-08T19:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_blocks_over_under,blake wesley,True,0.5,470,2023-04-08T19:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_blocks_over_under,blake wesley,False,0.5,-690,2023-04-08T19:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,caesars,player_assists_over_under,blake wesley,True,3.5,123,2023-04-08T19:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_points_over_under,blake wesley,False,7.5,105,2023-04-08T19:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_rebounds_over_under,blake wesley,True,2.5,-135,2023-04-08T19:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_rebounds_over_under,blake wesley,False,2.5,105,2023-04-08T19:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_steals_over_under,blake wesley,True,0.5,-185,2023-04-08T19:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_steals_over_under,blake wesley,False,0.5,150,2023-04-08T19:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_threes_over_under,blake wesley,True,0.5,-115,2023-04-08T19:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_points_over_under,blake wesley,True,7.5,-135,2023-04-08T19:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,caesars,player_points_over_under,blake wesley,True,9.5,-137,2023-04-09T19:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_assists_over_under,blake wesley,False,3.5,-115,2023-04-09T19:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,caesars,player_assists_over_under,blake wesley,True,3.5,-117,2023-04-09T19:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,caesars,player_assists_over_under,blake wesley,False,3.5,-117,2023-04-09T19:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_blocks_over_under,blake wesley,True,0.5,380,2023-04-09T19:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_blocks_over_under,blake wesley,False,0.5,-520,2023-04-09T19:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_points_over_under,blake wesley,True,9.5,-135,2023-04-09T19:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_points_over_under,blake wesley,False,9.5,105,2023-04-09T19:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,caesars,player_points_over_under,blake wesley,False,9.5,100,2023-04-09T19:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_threes_over_under,blake wesley,True,0.5,-175,2023-04-09T19:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_rebounds_over_under,blake wesley,False,3.5,-165,2023-04-09T19:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,caesars,player_rebounds_over_under,blake wesley,True,3.5,123,2023-04-09T19:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,caesars,player_rebounds_over_under,blake wesley,False,3.5,-169,2023-04-09T19:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_steals_over_under,blake wesley,True,0.5,-215,2023-04-09T19:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_steals_over_under,blake wesley,False,0.5,175,2023-04-09T19:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_threes_over_under,blake wesley,False,0.5,140,2023-04-09T19:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,caesars,player_threes_over_under,blake wesley,True,0.5,-169,2023-04-09T19:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,caesars,player_threes_over_under,blake wesley,False,0.5,123,2023-04-09T19:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_rebounds_over_under,blake wesley,True,3.5,135,2023-04-09T19:30:02,Dallas Mavericks,San Antonio Spurs
+2023-04-09,05bfd3a6c4001aabf7da23e52396e750,draftkings,player_assists_over_under,blake wesley,True,3.5,-115,2023-04-09T19:30:02,Dallas Mavericks,San Antonio Spurs

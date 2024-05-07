@@ -1,0 +1,121 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_threes_over_under,jabari walker,False,0.5,-320,2023-04-02T21:10:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_assists_over_under,jabari walker,True,0.5,168,2023-04-02T21:10:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_assists_over_under,jabari walker,False,0.5,-230,2023-04-02T21:10:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_blocks_over_under,jabari walker,True,0.5,410,2023-04-02T21:10:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_blocks_over_under,jabari walker,False,0.5,-700,2023-04-02T21:10:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_points_over_under,jabari walker,True,5.5,-146,2023-04-02T21:10:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_points_over_under,jabari walker,True,6.5,-104,2023-04-02T20:50:02,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_points_over_under,jabari walker,True,7.5,124,2023-04-02T20:34:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_points_over_under,jabari walker,True,8.5,116,2023-04-02T20:16:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_points_over_under,jabari walker,True,9.5,114,2023-04-02T20:08:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_points_over_under,jabari walker,False,5.5,110,2023-04-02T21:10:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_points_over_under,jabari walker,False,6.5,-128,2023-04-02T20:50:02,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_threes_over_under,jabari walker,True,0.5,225,2023-04-02T21:10:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_points_over_under,jabari walker,False,8.5,-154,2023-04-02T20:16:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_points_over_under,jabari walker,False,7.5,-166,2023-04-02T20:34:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_steals_over_under,jabari walker,True,0.5,320,2023-04-02T21:10:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_rebounds_over_under,jabari walker,False,4.5,-210,2023-04-02T20:24:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_rebounds_over_under,jabari walker,False,3.5,-152,2023-04-02T21:10:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_steals_over_under,jabari walker,False,0.5,-500,2023-04-02T21:10:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_rebounds_over_under,jabari walker,True,4.5,154,2023-04-02T20:24:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_rebounds_over_under,jabari walker,True,3.5,114,2023-04-02T21:10:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_rebounds_over_under,jabari walker,True,2.5,-178,2023-04-02T20:02:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_points_over_under,jabari walker,False,9.5,-152,2023-04-02T20:08:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_rebounds_over_under,jabari walker,False,2.5,132,2023-04-02T20:02:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_blocks_over_under,jabari walker,True,0.5,105,2023-04-04T23:42:03,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_blocks_over_under,jabari walker,False,0.5,-135,2023-04-04T23:42:03,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_points_over_under,jabari walker,True,10.5,-115,2023-04-04T23:42:03,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_points_over_under,jabari walker,False,10.5,-115,2023-04-04T23:42:03,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_rebounds_over_under,jabari walker,True,4.5,-105,2023-04-04T23:42:03,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_rebounds_over_under,jabari walker,False,4.5,-125,2023-04-04T23:42:03,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_steals_over_under,jabari walker,True,0.5,-115,2023-04-04T23:42:03,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_steals_over_under,jabari walker,False,0.5,-115,2023-04-04T23:42:03,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_threes_over_under,jabari walker,False,1.5,-205,2023-04-04T23:42:03,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_threes_over_under,jabari walker,True,1.5,165,2023-04-04T23:42:03,Memphis Grizzlies,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_blocks_over_under,jabari walker,True,0.5,140,2023-04-06T23:45:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_blocks_over_under,jabari walker,False,0.5,-175,2023-04-06T23:45:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_threes_over_under,jabari walker,False,1.5,-125,2023-04-06T23:45:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_threes_over_under,jabari walker,True,1.5,-105,2023-04-06T23:45:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_steals_over_under,jabari walker,False,0.5,-130,2023-04-06T23:45:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_steals_over_under,jabari walker,True,0.5,100,2023-04-06T23:45:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_points_over_under,jabari walker,False,11.5,-130,2023-04-06T23:45:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_rebounds_over_under,jabari walker,True,4.5,125,2023-04-06T23:45:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_points_over_under,jabari walker,True,11.5,100,2023-04-06T23:45:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_points_over_under,jabari walker,False,11.5,-122,2023-04-07T00:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_points_over_under,jabari walker,True,11.5,100,2023-04-07T00:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_rebounds_over_under,jabari walker,False,4.5,-155,2023-04-06T23:45:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,jabari walker,False,10.5,100,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_points_over_under,jabari walker,True,10.5,-133,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_points_over_under,jabari walker,False,10.5,-103,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_rebounds_over_under,jabari walker,True,4.5,-125,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_rebounds_over_under,jabari walker,False,4.5,-105,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_rebounds_over_under,jabari walker,True,4.5,-131,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_steals_over_under,jabari walker,True,0.5,-115,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_steals_over_under,jabari walker,False,0.5,-115,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_threes_over_under,jabari walker,True,1.5,190,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_threes_over_under,jabari walker,False,1.5,-235,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_threes_over_under,jabari walker,False,1.5,-244,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,jabari walker,True,10.5,-130,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_rebounds_over_under,jabari walker,False,4.5,-104,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_threes_over_under,jabari walker,True,1.5,172,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_blocks_over_under,jabari walker,False,0.5,-120,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_blocks_over_under,jabari walker,True,0.5,-110,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_points_over_under,jabari walker,False,11.5,-110,2023-04-09T20:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_points_over_under,jabari walker,False,10.5,-255,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_points_over_under,jabari walker,False,9.5,-145,2023-04-09T20:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_points_over_under,jabari walker,True,12.5,-135,2023-04-09T21:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_points_over_under,jabari walker,True,11.5,-120,2023-04-09T20:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_points_over_under,jabari walker,True,10.5,185,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_points_over_under,jabari walker,True,9.5,110,2023-04-09T20:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_points_over_under,jabari walker,False,12.5,102,2023-04-09T21:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_points_over_under,jabari walker,False,11.5,-130,2023-04-09T20:45:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_points_over_under,jabari walker,False,10.5,-270,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_points_over_under,jabari walker,False,9.5,-146,2023-04-09T20:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_points_over_under,jabari walker,True,12.5,-136,2023-04-09T21:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_points_over_under,jabari walker,False,12.5,105,2023-04-09T21:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,caesars,player_threes_over_under,jabari walker,False,0.5,159,2023-04-09T19:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_points_over_under,jabari walker,True,9.5,110,2023-04-09T20:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_blocks_over_under,jabari walker,False,0.5,-5000,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_blocks_over_under,jabari walker,True,0.5,1000,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_blocks_over_under,jabari walker,False,0.5,-4000,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_blocks_over_under,jabari walker,True,0.5,1000,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_assists_over_under,jabari walker,False,1.5,-190,2023-04-09T20:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_assists_over_under,jabari walker,False,0.5,-800,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_assists_over_under,jabari walker,True,1.5,140,2023-04-09T20:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_assists_over_under,jabari walker,True,0.5,450,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_assists_over_under,jabari walker,False,1.5,-200,2023-04-09T20:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_assists_over_under,jabari walker,False,0.5,-900,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_assists_over_under,jabari walker,True,1.5,148,2023-04-09T20:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_points_over_under,jabari walker,True,10.5,194,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_points_over_under,jabari walker,True,11.5,-102,2023-04-09T20:45:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,caesars,player_points_over_under,jabari walker,True,10.5,-119,2023-04-09T19:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_rebounds_over_under,jabari walker,True,3.5,146,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,caesars,player_threes_over_under,jabari walker,True,0.5,-224,2023-04-09T19:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_threes_over_under,jabari walker,False,0.5,-1200,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_threes_over_under,jabari walker,True,0.5,600,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_threes_over_under,jabari walker,False,0.5,-1400,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_threes_over_under,jabari walker,True,0.5,630,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_steals_over_under,jabari walker,False,0.5,-2500,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_steals_over_under,jabari walker,True,0.5,800,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_steals_over_under,jabari walker,False,0.5,-3000,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_steals_over_under,jabari walker,True,0.5,880,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,caesars,player_rebounds_over_under,jabari walker,False,4.5,-145,2023-04-09T19:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,caesars,player_rebounds_over_under,jabari walker,True,4.5,106,2023-04-09T19:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_rebounds_over_under,jabari walker,False,6.5,-175,2023-04-09T20:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,caesars,player_points_over_under,jabari walker,False,10.5,-115,2023-04-09T19:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_rebounds_over_under,jabari walker,False,5.5,100,2023-04-09T20:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_rebounds_over_under,jabari walker,False,3.5,-190,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_rebounds_over_under,jabari walker,True,6.5,130,2023-04-09T20:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_rebounds_over_under,jabari walker,True,5.5,-135,2023-04-09T21:00:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_rebounds_over_under,jabari walker,True,4.5,-105,2023-04-09T21:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_rebounds_over_under,jabari walker,True,3.5,140,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_rebounds_over_under,jabari walker,False,6.5,-182,2023-04-09T20:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_rebounds_over_under,jabari walker,False,5.5,118,2023-04-09T21:00:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_rebounds_over_under,jabari walker,False,4.5,-130,2023-04-09T21:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_rebounds_over_under,jabari walker,False,3.5,-198,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_rebounds_over_under,jabari walker,True,6.5,136,2023-04-09T20:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_rebounds_over_under,jabari walker,True,5.5,-158,2023-04-09T21:00:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_rebounds_over_under,jabari walker,True,4.5,-102,2023-04-09T21:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_rebounds_over_under,jabari walker,False,4.5,-125,2023-04-09T21:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_assists_over_under,jabari walker,True,0.5,490,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors

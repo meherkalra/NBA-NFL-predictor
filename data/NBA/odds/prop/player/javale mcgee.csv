@@ -1,0 +1,21 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_blocks_over_under,javale mcgee,True,0.5,-235,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_blocks_over_under,javale mcgee,False,0.5,190,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_points_over_under,javale mcgee,True,9.5,-135,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_points_over_under,javale mcgee,False,9.5,105,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,caesars,player_points_over_under,javale mcgee,True,9.5,-139,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,caesars,player_points_over_under,javale mcgee,False,9.5,102,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_rebounds_over_under,javale mcgee,True,5.5,-120,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_rebounds_over_under,javale mcgee,False,5.5,-110,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,caesars,player_rebounds_over_under,javale mcgee,True,5.5,-125,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,caesars,player_rebounds_over_under,javale mcgee,False,5.5,-109,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_steals_over_under,javale mcgee,True,0.5,220,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_steals_over_under,javale mcgee,False,0.5,-280,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-10-27,f91f9d07281365808aa62ea443998bd9,fanduel,player_assists_over_under,javale mcgee,True,0.5,1000,2023-10-28T04:11:20,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,fanduel,player_assists_over_under,javale mcgee,False,0.5,-100000,2023-10-28T04:25:05,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,fanduel,player_blocks_over_under,javale mcgee,True,0.5,1000,2023-10-28T04:11:20,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,fanduel,player_blocks_over_under,javale mcgee,False,0.5,-100000,2023-10-28T04:25:05,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,fanduel,player_rebounds_over_under,javale mcgee,True,4.5,1000,2023-10-28T04:25:05,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,fanduel,player_rebounds_over_under,javale mcgee,False,4.5,-100000,2023-10-28T04:25:05,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,fanduel,player_steals_over_under,javale mcgee,True,0.5,1000,2023-10-28T04:11:20,Sacramento Kings,Golden State Warriors
+2023-10-27,f91f9d07281365808aa62ea443998bd9,fanduel,player_steals_over_under,javale mcgee,False,0.5,-100000,2023-10-28T04:16:31,Sacramento Kings,Golden State Warriors

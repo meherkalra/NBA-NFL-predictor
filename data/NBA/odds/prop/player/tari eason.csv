@@ -1,0 +1,288 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_points_over_under,tari eason,False,14.5,-210,2023-03-21T02:00:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_points_over_under,tari eason,False,19.5,-130,2023-03-21T02:15:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_points_over_under,tari eason,False,15.5,-130,2023-03-21T01:45:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_points_over_under,tari eason,False,12.5,-114,2023-03-21T00:45:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_points_over_under,tari eason,False,11.5,-158,2023-03-21T01:15:02,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_points_over_under,tari eason,False,10.5,-112,2023-03-21T01:00:02,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_points_over_under,tari eason,True,19.5,-102,2023-03-21T02:15:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_points_over_under,tari eason,True,14.5,154,2023-03-21T02:00:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_rebounds_over_under,tari eason,True,6.5,-110,2023-03-20T18:15:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_points_over_under,tari eason,True,12.5,-114,2023-03-21T00:45:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_points_over_under,tari eason,True,10.5,-118,2023-03-21T01:00:02,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_blocks_over_under,tari eason,False,0.5,-7000,2023-03-21T02:15:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_blocks_over_under,tari eason,True,0.5,1000,2023-03-21T02:15:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_assists_over_under,tari eason,False,1.5,-3500,2023-03-21T02:15:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_assists_over_under,tari eason,False,0.5,104,2023-03-21T01:00:02,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_assists_over_under,tari eason,True,1.5,920,2023-03-21T02:15:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_assists_over_under,tari eason,True,0.5,-138,2023-03-21T01:00:02,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_points_over_under,tari eason,True,11.5,118,2023-03-21T01:15:02,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_rebounds_over_under,tari eason,True,9.5,128,2023-03-21T02:00:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_rebounds_over_under,tari eason,True,8.5,-128,2023-03-21T01:00:02,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_rebounds_over_under,tari eason,True,11.5,178,2023-03-21T02:15:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_threes_over_under,tari eason,False,1.5,-7000,2023-03-21T02:15:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_threes_over_under,tari eason,False,0.5,-290,2023-03-21T01:15:02,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_threes_over_under,tari eason,True,1.5,1000,2023-03-21T02:15:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_threes_over_under,tari eason,True,0.5,205,2023-03-21T01:15:02,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_steals_over_under,tari eason,False,4.5,-4000,2023-03-21T02:15:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_steals_over_under,tari eason,False,3.5,-600,2023-03-21T02:00:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_steals_over_under,tari eason,False,2.5,-138,2023-03-21T01:15:02,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_steals_over_under,tari eason,False,1.5,-108,2023-03-21T01:00:02,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_rebounds_over_under,tari eason,True,10.5,130,2023-03-21T01:45:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_steals_over_under,tari eason,True,4.5,1000,2023-03-21T02:15:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_steals_over_under,tari eason,True,2.5,104,2023-03-21T01:15:02,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_steals_over_under,tari eason,True,1.5,-122,2023-03-21T01:00:02,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_rebounds_over_under,tari eason,False,11.5,-245,2023-03-21T02:15:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_rebounds_over_under,tari eason,False,10.5,-174,2023-03-21T01:45:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_rebounds_over_under,tari eason,False,9.5,-172,2023-03-21T02:00:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_rebounds_over_under,tari eason,False,8.5,-104,2023-03-21T01:00:02,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_rebounds_over_under,tari eason,False,6.5,-110,2023-03-20T18:15:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_steals_over_under,tari eason,True,3.5,370,2023-03-21T02:00:01,Houston Rockets,Golden State Warriors
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_points_over_under,tari eason,False,9.5,110,2023-03-23T01:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_points_over_under,tari eason,True,10.5,-102,2023-03-23T01:15:02,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_points_over_under,tari eason,False,8.5,-182,2023-03-23T01:45:02,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_points_over_under,tari eason,False,6.5,-158,2023-03-23T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_points_over_under,tari eason,True,9.5,-146,2023-03-23T01:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_points_over_under,tari eason,True,8.5,136,2023-03-23T01:45:02,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_blocks_over_under,tari eason,False,0.5,-3500,2023-03-23T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_blocks_over_under,tari eason,True,0.5,920,2023-03-23T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_assists_over_under,tari eason,False,2.5,-800,2023-03-23T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_assists_over_under,tari eason,True,2.5,450,2023-03-23T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_points_over_under,tari eason,False,10.5,-130,2023-03-23T01:15:02,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_points_over_under,tari eason,True,6.5,118,2023-03-23T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_rebounds_over_under,tari eason,True,6.5,-114,2023-03-23T00:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_steals_over_under,tari eason,False,0.5,-900,2023-03-23T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_rebounds_over_under,tari eason,True,8.5,-188,2023-03-23T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_rebounds_over_under,tari eason,True,7.5,-186,2023-03-23T01:45:02,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_threes_over_under,tari eason,False,1.5,-2000,2023-03-23T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_threes_over_under,tari eason,True,1.5,750,2023-03-23T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_threes_over_under,tari eason,True,0.5,140,2023-03-23T00:45:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_steals_over_under,tari eason,False,1.5,-230,2023-03-23T00:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_threes_over_under,tari eason,False,0.5,-188,2023-03-23T00:45:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_steals_over_under,tari eason,True,1.5,176,2023-03-23T00:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_steals_over_under,tari eason,True,0.5,490,2023-03-23T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_rebounds_over_under,tari eason,False,8.5,140,2023-03-23T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_rebounds_over_under,tari eason,False,7.5,138,2023-03-23T01:45:02,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_rebounds_over_under,tari eason,False,6.5,-105,2023-03-23T00:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_assists_over_under,tari eason,True,3.5,370,2023-03-25T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_points_over_under,tari eason,False,10.5,-154,2023-03-25T01:45:02,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_points_over_under,tari eason,True,13.5,-136,2023-03-25T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_points_over_under,tari eason,True,12.5,-118,2023-03-25T01:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_points_over_under,tari eason,True,10.5,116,2023-03-25T01:45:02,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_blocks_over_under,tari eason,True,0.5,880,2023-03-25T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_assists_over_under,tari eason,True,2.5,-106,2023-03-25T01:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_assists_over_under,tari eason,False,3.5,-600,2023-03-25T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_assists_over_under,tari eason,False,2.5,-125,2023-03-25T01:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_points_over_under,tari eason,False,12.5,-112,2023-03-25T01:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_blocks_over_under,tari eason,False,0.5,-3000,2023-03-25T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_points_over_under,tari eason,False,13.5,102,2023-03-25T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_rebounds_over_under,tari eason,False,6.5,-106,2023-03-25T00:45:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_rebounds_over_under,tari eason,True,5.5,-122,2023-03-25T01:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_rebounds_over_under,tari eason,True,6.5,-125,2023-03-25T00:45:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_rebounds_over_under,tari eason,False,4.5,-250,2023-03-25T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_rebounds_over_under,tari eason,False,5.5,-108,2023-03-25T01:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_steals_over_under,tari eason,True,0.5,102,2023-03-25T01:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_steals_over_under,tari eason,True,1.5,400,2023-03-25T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_steals_over_under,tari eason,False,0.5,-136,2023-03-25T01:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_steals_over_under,tari eason,False,1.5,-670,2023-03-25T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_threes_over_under,tari eason,True,0.5,630,2023-03-25T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_threes_over_under,tari eason,False,0.5,-1400,2023-03-25T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_rebounds_over_under,tari eason,True,4.5,188,2023-03-25T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_assists_over_under,tari eason,True,0.5,1000,2023-03-27T00:15:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_assists_over_under,tari eason,False,0.5,-50000,2023-03-27T00:15:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_rebounds_over_under,tari eason,False,6.5,118,2023-03-26T23:30:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_blocks_over_under,tari eason,False,0.5,-100000,2023-03-27T00:15:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_threes_over_under,tari eason,False,0.5,-100000,2023-03-27T00:15:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_threes_over_under,tari eason,True,0.5,1000,2023-03-27T00:15:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_steals_over_under,tari eason,False,1.5,-50000,2023-03-27T00:15:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_steals_over_under,tari eason,False,0.5,100,2023-03-26T22:45:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_steals_over_under,tari eason,True,1.5,1000,2023-03-27T00:15:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_steals_over_under,tari eason,True,0.5,-132,2023-03-26T22:45:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_rebounds_over_under,tari eason,False,8.5,-1450,2023-03-27T00:15:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_rebounds_over_under,tari eason,False,7.5,-172,2023-03-26T23:15:02,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_rebounds_over_under,tari eason,False,5.5,-118,2023-03-26T22:30:02,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_rebounds_over_under,tari eason,False,4.5,124,2023-03-26T22:45:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_rebounds_over_under,tari eason,True,8.5,640,2023-03-27T00:15:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_rebounds_over_under,tari eason,True,7.5,128,2023-03-26T23:15:02,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_blocks_over_under,tari eason,True,0.5,1000,2023-03-27T00:15:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_rebounds_over_under,tari eason,True,6.5,-158,2023-03-26T23:30:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_rebounds_over_under,tari eason,True,4.5,-166,2023-03-26T22:45:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_points_over_under,tari eason,False,11.5,-158,2023-03-26T23:45:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_points_over_under,tari eason,False,10.5,-152,2023-03-26T23:00:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_points_over_under,tari eason,False,9.5,124,2023-03-27T00:00:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_points_over_under,tari eason,False,8.5,-670,2023-03-27T00:15:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_points_over_under,tari eason,True,11.5,118,2023-03-26T23:45:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_points_over_under,tari eason,True,10.5,114,2023-03-26T23:00:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_points_over_under,tari eason,True,9.5,-166,2023-03-27T00:00:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_points_over_under,tari eason,True,8.5,400,2023-03-27T00:15:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_rebounds_over_under,tari eason,True,5.5,-112,2023-03-26T22:30:02,Cleveland Cavaliers,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_points_over_under,tari eason,False,11.5,-122,2023-03-27T23:15:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_rebounds_over_under,tari eason,True,6.5,-110,2023-03-27T23:30:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_rebounds_over_under,tari eason,False,6.5,-110,2023-03-27T23:30:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_points_over_under,tari eason,True,11.5,100,2023-03-27T23:15:01,New York Knicks,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_assists_over_under,tari eason,True,0.5,-130,2023-03-30T00:15:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_steals_over_under,tari eason,False,1.5,-215,2023-03-29T21:30:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_rebounds_over_under,tari eason,False,6.5,-650,2023-03-30T01:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_rebounds_over_under,tari eason,False,5.5,116,2023-03-30T01:15:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_rebounds_over_under,tari eason,False,4.5,154,2023-03-30T01:30:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_rebounds_over_under,tari eason,True,6.5,390,2023-03-30T01:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_rebounds_over_under,tari eason,True,5.5,-154,2023-03-30T01:15:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_rebounds_over_under,tari eason,True,4.5,-210,2023-03-30T01:30:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_points_over_under,tari eason,False,11.5,-120,2023-03-29T23:30:02,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_steals_over_under,tari eason,False,0.5,-10000,2023-03-30T01:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_points_over_under,tari eason,False,6.5,110,2023-03-30T00:15:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_points_over_under,tari eason,False,4.5,-130,2023-03-30T00:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_points_over_under,tari eason,False,3.5,122,2023-03-30T01:00:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_points_over_under,tari eason,False,2.5,100,2023-03-30T01:15:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_points_over_under,tari eason,False,1.5,-158,2023-03-30T01:30:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_steals_over_under,tari eason,True,0.5,1000,2023-03-30T01:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_points_over_under,tari eason,False,0.5,-390,2023-03-30T01:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_points_over_under,tari eason,True,6.5,-146,2023-03-30T00:15:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_points_over_under,tari eason,True,4.5,-102,2023-03-30T00:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_points_over_under,tari eason,True,3.5,-162,2023-03-30T01:00:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_points_over_under,tari eason,True,2.5,-132,2023-03-30T01:15:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_points_over_under,tari eason,True,1.5,118,2023-03-30T01:30:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_points_over_under,tari eason,True,0.5,265,2023-03-30T01:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_blocks_over_under,tari eason,False,0.5,-100000,2023-03-30T01:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_blocks_over_under,tari eason,True,0.5,1000,2023-03-30T01:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_assists_over_under,tari eason,False,1.5,-10000,2023-03-30T01:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_assists_over_under,tari eason,False,0.5,-102,2023-03-30T00:15:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_assists_over_under,tari eason,True,1.5,1000,2023-03-30T01:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_threes_over_under,tari eason,True,0.5,1000,2023-03-30T01:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_threes_over_under,tari eason,False,0.5,-50000,2023-03-30T01:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_points_over_under,tari eason,True,11.5,-102,2023-03-29T23:30:02,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_steals_over_under,tari eason,True,1.5,164,2023-03-29T21:30:01,Brooklyn Nets,Houston Rockets
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_rebounds_over_under,tari eason,False,6.5,102,2023-04-01T00:08:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_rebounds_over_under,tari eason,True,6.5,-124,2023-04-01T00:08:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_points_over_under,tari eason,True,11.5,-114,2023-04-01T00:08:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_points_over_under,tari eason,False,11.5,-106,2023-04-01T00:08:01,Houston Rockets,Detroit Pistons
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_rebounds_over_under,tari eason,True,7.5,-114,2023-04-03T01:10:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_rebounds_over_under,tari eason,True,6.5,114,2023-04-02T23:28:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_rebounds_over_under,tari eason,True,5.5,-120,2023-04-02T23:44:02,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,tari eason,False,10.5,-160,2023-04-03T00:48:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,tari eason,False,9.5,-132,2023-04-03T00:52:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,tari eason,False,8.5,-235,2023-04-03T00:54:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_blocks_over_under,tari eason,True,0.5,1000,2023-04-03T00:56:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,tari eason,True,10.5,120,2023-04-03T00:48:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,tari eason,True,9.5,100,2023-04-03T00:52:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,tari eason,True,8.5,172,2023-04-03T00:54:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,tari eason,True,7.5,-245,2023-04-03T01:10:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_blocks_over_under,tari eason,False,0.5,-4000,2023-04-03T01:10:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_rebounds_over_under,tari eason,True,8.5,-106,2023-04-03T00:52:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,tari eason,False,7.5,178,2023-04-03T01:10:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_rebounds_over_under,tari eason,True,10.5,140,2023-04-03T00:44:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_rebounds_over_under,tari eason,False,6.5,-152,2023-04-02T23:28:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_rebounds_over_under,tari eason,False,7.5,-114,2023-04-03T01:10:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_rebounds_over_under,tari eason,False,8.5,-125,2023-04-03T00:52:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_rebounds_over_under,tari eason,False,9.5,154,2023-04-03T00:46:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_rebounds_over_under,tari eason,False,10.5,-188,2023-04-03T00:44:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_steals_over_under,tari eason,True,0.5,-136,2023-04-02T23:44:02,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_steals_over_under,tari eason,True,1.5,640,2023-04-03T01:10:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_steals_over_under,tari eason,False,0.5,102,2023-04-02T23:44:02,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_steals_over_under,tari eason,False,1.5,-1450,2023-04-03T01:10:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_threes_over_under,tari eason,True,0.5,116,2023-04-02T23:40:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_threes_over_under,tari eason,True,1.5,920,2023-04-03T01:10:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_threes_over_under,tari eason,False,0.5,-154,2023-04-02T23:40:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_threes_over_under,tari eason,False,1.5,-3500,2023-04-03T01:10:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_rebounds_over_under,tari eason,True,9.5,-210,2023-04-03T00:46:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_assists_over_under,tari eason,False,2.5,-1400,2023-04-03T01:10:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_rebounds_over_under,tari eason,False,5.5,-110,2023-04-02T23:44:02,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_assists_over_under,tari eason,False,0.5,108,2023-04-02T23:44:02,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_assists_over_under,tari eason,True,2.5,630,2023-04-03T01:10:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_assists_over_under,tari eason,True,1.5,100,2023-04-03T00:32:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_assists_over_under,tari eason,True,0.5,-144,2023-04-02T23:44:02,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_assists_over_under,tari eason,False,1.5,-132,2023-04-03T00:32:01,Houston Rockets,Los Angeles Lakers
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_rebounds_over_under,tari eason,False,6.5,110,2023-04-05T00:55:42,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_rebounds_over_under,tari eason,False,5.5,-106,2023-04-05T00:30:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_rebounds_over_under,tari eason,True,7.5,148,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_rebounds_over_under,tari eason,True,6.5,-146,2023-04-05T00:55:42,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_rebounds_over_under,tari eason,True,5.5,-125,2023-04-05T00:30:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_assists_over_under,tari eason,True,0.5,310,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_assists_over_under,tari eason,False,0.5,-470,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_blocks_over_under,tari eason,True,0.5,450,2023-04-05T01:45:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_blocks_over_under,tari eason,True,1.5,640,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_blocks_over_under,tari eason,False,1.5,-1450,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_blocks_over_under,tari eason,True,0.5,425,2023-04-05T01:45:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_blocks_over_under,tari eason,True,1.5,650,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_blocks_over_under,tari eason,True,0.5,130,2023-04-04T19:51:15,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_blocks_over_under,tari eason,False,0.5,-750,2023-04-05T01:45:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_blocks_over_under,tari eason,False,1.5,-1400,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_blocks_over_under,tari eason,False,0.5,-160,2023-04-04T19:51:15,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_points_over_under,tari eason,True,7.5,-146,2023-04-05T01:30:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_points_over_under,tari eason,True,8.5,-180,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_blocks_over_under,tari eason,False,0.5,-800,2023-04-05T01:45:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_rebounds_over_under,tari eason,False,7.5,-200,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_rebounds_over_under,tari eason,True,7.5,140,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_rebounds_over_under,tari eason,True,6.5,100,2023-04-04T23:14:32,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_threes_over_under,tari eason,False,0.5,-110,2023-04-04T19:51:15,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_threes_over_under,tari eason,True,1.5,475,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_threes_over_under,tari eason,True,0.5,-120,2023-04-04T23:14:32,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_threes_over_under,tari eason,True,0.5,-120,2023-04-04T19:51:15,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_threes_over_under,tari eason,False,1.5,-1000,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_threes_over_under,tari eason,True,1.5,520,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_steals_over_under,tari eason,False,1.5,-210,2023-04-04T19:51:15,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_steals_over_under,tari eason,False,1.5,-210,2023-04-04T23:14:32,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_steals_over_under,tari eason,False,0.5,-450,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_steals_over_under,tari eason,True,1.5,170,2023-04-04T19:51:15,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_steals_over_under,tari eason,True,1.5,170,2023-04-04T23:14:32,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_steals_over_under,tari eason,True,0.5,300,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_steals_over_under,tari eason,False,0.5,-470,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_steals_over_under,tari eason,True,0.5,310,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_rebounds_over_under,tari eason,False,6.5,-135,2023-04-04T22:40:45,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_rebounds_over_under,tari eason,False,7.5,-190,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_rebounds_over_under,tari eason,False,6.5,-130,2023-04-04T23:14:32,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_rebounds_over_under,tari eason,False,5.5,-120,2023-04-05T00:30:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_rebounds_over_under,tari eason,True,6.5,105,2023-04-04T22:40:45,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_rebounds_over_under,tari eason,True,5.5,-110,2023-04-05T00:30:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_points_over_under,tari eason,True,10.5,110,2023-04-05T00:42:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_points_over_under,tari eason,True,9.5,-110,2023-04-05T00:48:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_points_over_under,tari eason,False,7.5,110,2023-04-05T01:30:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_threes_over_under,tari eason,False,1.5,-900,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_points_over_under,tari eason,True,11.5,-125,2023-04-05T00:30:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,tari eason,False,9.5,100,2023-04-04T19:51:15,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,tari eason,False,11.5,-120,2023-04-05T00:30:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,tari eason,False,10.5,110,2023-04-05T00:36:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,tari eason,False,9.5,100,2023-04-04T23:14:32,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,tari eason,False,8.5,130,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,tari eason,False,7.5,100,2023-04-05T01:30:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,tari eason,True,9.5,-130,2023-04-04T19:51:15,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_threes_over_under,tari eason,False,0.5,-110,2023-04-04T23:14:32,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,tari eason,True,10.5,-145,2023-04-05T00:36:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,tari eason,True,11.5,-110,2023-04-05T00:30:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_points_over_under,tari eason,False,9.5,-120,2023-04-05T00:48:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_points_over_under,tari eason,False,8.5,134,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_points_over_under,tari eason,False,11.5,-106,2023-04-05T00:30:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_points_over_under,tari eason,False,10.5,-146,2023-04-05T00:42:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,tari eason,True,7.5,-135,2023-04-05T01:30:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,tari eason,True,8.5,-175,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,tari eason,True,9.5,-130,2023-04-04T23:14:32,Houston Rockets,Denver Nuggets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,caesars,player_threes_over_under,tari eason,False,0.5,-101,2023-04-07T20:12:09,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,caesars,player_threes_over_under,tari eason,True,0.5,-135,2023-04-07T20:12:09,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_threes_over_under,tari eason,False,0.5,100,2023-04-07T15:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,betmgm,player_threes_over_under,tari eason,False,0.5,100,2023-04-07T22:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_threes_over_under,tari eason,True,0.5,-130,2023-04-07T15:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,betmgm,player_steals_over_under,tari eason,False,0.5,180,2023-04-07T22:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,betmgm,player_steals_over_under,tari eason,True,0.5,-250,2023-04-07T22:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_steals_over_under,tari eason,False,0.5,190,2023-04-07T15:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_steals_over_under,tari eason,True,0.5,-235,2023-04-07T15:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,betmgm,player_rebounds_over_under,tari eason,False,7.5,-125,2023-04-07T22:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,betmgm,player_rebounds_over_under,tari eason,True,7.5,-105,2023-04-07T22:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,betmgm,player_threes_over_under,tari eason,True,0.5,-135,2023-04-07T22:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,caesars,player_rebounds_over_under,tari eason,False,7.5,-125,2023-04-07T20:12:09,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,betmgm,player_points_over_under,tari eason,False,10.5,100,2023-04-07T22:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_rebounds_over_under,tari eason,False,7.5,-125,2023-04-07T15:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_rebounds_over_under,tari eason,True,7.5,-105,2023-04-07T15:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,betmgm,player_points_over_under,tari eason,True,10.5,-135,2023-04-07T22:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,caesars,player_points_over_under,tari eason,False,11.5,-109,2023-04-07T21:30:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,caesars,player_points_over_under,tari eason,False,10.5,-101,2023-04-07T20:12:09,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,caesars,player_points_over_under,tari eason,True,11.5,-125,2023-04-07T21:30:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,caesars,player_points_over_under,tari eason,True,10.5,-135,2023-04-07T20:12:09,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_points_over_under,tari eason,True,10.5,-160,2023-04-07T23:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,betmgm,player_blocks_over_under,tari eason,False,0.5,-160,2023-04-07T22:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,betmgm,player_assists_over_under,tari eason,True,1.5,175,2023-04-07T22:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,betmgm,player_assists_over_under,tari eason,False,1.5,-250,2023-04-07T22:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_blocks_over_under,tari eason,True,0.5,120,2023-04-07T15:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_blocks_over_under,tari eason,False,0.5,-150,2023-04-07T15:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,betmgm,player_blocks_over_under,tari eason,True,0.5,120,2023-04-07T22:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,caesars,player_rebounds_over_under,tari eason,True,7.5,-109,2023-04-07T20:12:09,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_points_over_under,tari eason,False,10.5,130,2023-04-07T23:00:01,Charlotte Hornets,Houston Rockets

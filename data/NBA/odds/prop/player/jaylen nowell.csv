@@ -1,0 +1,145 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-22,f5a7269478af52df731f40b910673b5c,fanduel,player_points_over_under,jaylen nowell,False,10.5,-106,2023-03-23T00:00:01,Minnesota Timberwolves,Atlanta Hawks
+2023-03-22,f5a7269478af52df731f40b910673b5c,fanduel,player_points_over_under,jaylen nowell,True,10.5,-114,2023-03-23T00:00:01,Minnesota Timberwolves,Atlanta Hawks
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_rebounds_over_under,jaylen nowell,False,2.5,-190,2023-04-12T01:45:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_threes_over_under,jaylen nowell,True,0.5,-105,2023-04-12T01:45:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,caesars,player_threes_over_under,jaylen nowell,False,0.5,-129,2023-04-12T01:45:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,caesars,player_threes_over_under,jaylen nowell,True,0.5,-106,2023-04-12T01:45:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_threes_over_under,jaylen nowell,False,0.5,-125,2023-04-12T01:45:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_threes_over_under,jaylen nowell,True,0.5,-105,2023-04-12T01:45:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_steals_over_under,jaylen nowell,False,0.5,-190,2023-04-12T01:45:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_steals_over_under,jaylen nowell,True,0.5,145,2023-04-12T01:45:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_steals_over_under,jaylen nowell,False,0.5,-185,2023-04-12T01:45:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_steals_over_under,jaylen nowell,True,0.5,150,2023-04-12T01:45:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_rebounds_over_under,jaylen nowell,True,2.5,145,2023-04-12T01:45:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_rebounds_over_under,jaylen nowell,False,2.5,-185,2023-04-12T01:45:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_points_over_under,jaylen nowell,False,6.5,-110,2023-04-12T01:45:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_points_over_under,jaylen nowell,True,6.5,-120,2023-04-12T01:45:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_points_over_under,jaylen nowell,False,6.5,-130,2023-04-12T02:00:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_points_over_under,jaylen nowell,True,6.5,100,2023-04-12T02:00:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_blocks_over_under,jaylen nowell,False,0.5,-1600,2023-04-12T01:45:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_blocks_over_under,jaylen nowell,True,0.5,675,2023-04-12T01:45:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_blocks_over_under,jaylen nowell,False,0.5,-1300,2023-04-12T01:45:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_blocks_over_under,jaylen nowell,True,0.5,750,2023-04-12T01:45:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_assists_over_under,jaylen nowell,False,1.5,-250,2023-04-12T02:00:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_assists_over_under,jaylen nowell,True,1.5,180,2023-04-12T02:00:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_rebounds_over_under,jaylen nowell,True,2.5,150,2023-04-12T01:45:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_threes_over_under,jaylen nowell,False,0.5,-130,2023-04-12T01:45:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-16,5fe846ca4de92ae0bdd55673db798090,betmgm,player_threes_over_under,jaylen nowell,False,0.5,-125,2023-04-15T01:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-16,5fe846ca4de92ae0bdd55673db798090,betmgm,player_assists_over_under,jaylen nowell,False,0.5,180,2023-04-15T01:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-16,5fe846ca4de92ae0bdd55673db798090,betmgm,player_assists_over_under,jaylen nowell,True,0.5,-250,2023-04-15T01:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-16,5fe846ca4de92ae0bdd55673db798090,caesars,player_threes_over_under,jaylen nowell,False,0.5,-135,2023-04-15T01:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-16,5fe846ca4de92ae0bdd55673db798090,caesars,player_threes_over_under,jaylen nowell,True,0.5,-101,2023-04-15T01:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-16,5fe846ca4de92ae0bdd55673db798090,draftkings,player_threes_over_under,jaylen nowell,False,0.5,-125,2023-04-15T01:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-16,5fe846ca4de92ae0bdd55673db798090,draftkings,player_threes_over_under,jaylen nowell,True,0.5,-105,2023-04-15T01:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-16,5fe846ca4de92ae0bdd55673db798090,betmgm,player_steals_over_under,jaylen nowell,False,0.5,-250,2023-04-15T01:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-16,5fe846ca4de92ae0bdd55673db798090,betmgm,player_steals_over_under,jaylen nowell,True,0.5,180,2023-04-15T01:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-16,5fe846ca4de92ae0bdd55673db798090,draftkings,player_steals_over_under,jaylen nowell,False,0.5,-235,2023-04-15T01:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-16,5fe846ca4de92ae0bdd55673db798090,draftkings,player_steals_over_under,jaylen nowell,True,0.5,190,2023-04-15T01:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-16,5fe846ca4de92ae0bdd55673db798090,betmgm,player_rebounds_over_under,jaylen nowell,False,1.5,-110,2023-04-15T01:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-16,5fe846ca4de92ae0bdd55673db798090,betmgm,player_rebounds_over_under,jaylen nowell,True,1.5,-125,2023-04-15T01:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-16,5fe846ca4de92ae0bdd55673db798090,betmgm,player_threes_over_under,jaylen nowell,True,0.5,-105,2023-04-15T01:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-16,5fe846ca4de92ae0bdd55673db798090,betmgm,player_points_over_under,jaylen nowell,True,6.5,-105,2023-04-15T01:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-16,5fe846ca4de92ae0bdd55673db798090,betmgm,player_points_over_under,jaylen nowell,False,6.5,-125,2023-04-15T01:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-16,5fe846ca4de92ae0bdd55673db798090,draftkings,player_blocks_over_under,jaylen nowell,False,0.5,-1450,2023-04-15T01:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-16,5fe846ca4de92ae0bdd55673db798090,betmgm,player_blocks_over_under,jaylen nowell,True,0.5,725,2023-04-15T01:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-16,5fe846ca4de92ae0bdd55673db798090,betmgm,player_blocks_over_under,jaylen nowell,False,0.5,-2000,2023-04-15T01:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-16,5fe846ca4de92ae0bdd55673db798090,draftkings,player_blocks_over_under,jaylen nowell,True,0.5,800,2023-04-15T01:15:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-16,5fe846ca4de92ae0bdd55673db798090,fanduel,player_points_over_under,jaylen nowell,False,5.5,-115,2023-04-15T01:45:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-16,5fe846ca4de92ae0bdd55673db798090,draftkings,player_points_over_under,jaylen nowell,True,6.5,125,2023-04-15T01:30:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-16,5fe846ca4de92ae0bdd55673db798090,draftkings,player_points_over_under,jaylen nowell,False,6.5,-155,2023-04-15T01:30:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-16,5fe846ca4de92ae0bdd55673db798090,fanduel,player_points_over_under,jaylen nowell,True,5.5,-105,2023-04-15T01:45:01,Minnesota Timberwolves,Oklahoma City Thunder
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_assists_over_under,jaylen nowell,True,1.5,180,2023-04-20T01:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_points_over_under,jaylen nowell,False,6.5,-135,2023-04-20T02:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_assists_over_under,jaylen nowell,False,1.5,-250,2023-04-20T01:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_blocks_over_under,jaylen nowell,True,0.5,800,2023-04-20T01:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_blocks_over_under,jaylen nowell,False,0.5,-1450,2023-04-20T01:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_blocks_over_under,jaylen nowell,True,0.5,725,2023-04-20T01:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_blocks_over_under,jaylen nowell,False,0.5,-2000,2023-04-20T01:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_points_over_under,jaylen nowell,True,6.5,105,2023-04-20T02:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_points_over_under,jaylen nowell,True,6.5,-110,2023-04-20T01:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_steals_over_under,jaylen nowell,False,0.5,-205,2023-04-20T01:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_rebounds_over_under,jaylen nowell,True,1.5,100,2023-04-20T01:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_rebounds_over_under,jaylen nowell,False,1.5,-135,2023-04-20T01:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_steals_over_under,jaylen nowell,True,0.5,165,2023-04-20T01:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_steals_over_under,jaylen nowell,True,0.5,160,2023-04-20T01:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_steals_over_under,jaylen nowell,False,0.5,-225,2023-04-20T01:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_threes_over_under,jaylen nowell,True,0.5,-115,2023-04-20T01:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_threes_over_under,jaylen nowell,False,0.5,-115,2023-04-20T01:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_threes_over_under,jaylen nowell,True,0.5,-115,2023-04-20T01:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_points_over_under,jaylen nowell,False,6.5,-120,2023-04-20T01:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_threes_over_under,jaylen nowell,False,0.5,-115,2023-04-20T01:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,betmgm,player_threes_over_under,jaylen nowell,True,0.5,105,2023-04-22T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,betmgm,player_threes_over_under,jaylen nowell,False,0.5,-140,2023-04-22T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_threes_over_under,jaylen nowell,False,0.5,-135,2023-04-22T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,betmgm,player_steals_over_under,jaylen nowell,False,0.5,-250,2023-04-22T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_threes_over_under,jaylen nowell,True,0.5,105,2023-04-22T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,betmgm,player_assists_over_under,jaylen nowell,True,0.5,-210,2023-04-22T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_blocks_over_under,jaylen nowell,True,0.5,900,2023-04-22T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_blocks_over_under,jaylen nowell,False,0.5,-1700,2023-04-22T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,betmgm,player_blocks_over_under,jaylen nowell,True,0.5,800,2023-04-22T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,betmgm,player_blocks_over_under,jaylen nowell,False,0.5,-2500,2023-04-22T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,betmgm,player_assists_over_under,jaylen nowell,False,0.5,155,2023-04-22T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,betmgm,player_points_over_under,jaylen nowell,False,5.5,-105,2023-04-22T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,betmgm,player_points_over_under,jaylen nowell,True,5.5,-130,2023-04-22T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_steals_over_under,jaylen nowell,False,0.5,-230,2023-04-22T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,betmgm,player_steals_over_under,jaylen nowell,True,0.5,175,2023-04-22T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,betmgm,player_rebounds_over_under,jaylen nowell,False,1.5,-225,2023-04-22T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,betmgm,player_rebounds_over_under,jaylen nowell,True,1.5,170,2023-04-22T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_steals_over_under,jaylen nowell,True,0.5,185,2023-04-22T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_rebounds_over_under,jaylen nowell,True,1.5,180,2023-04-24T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_threes_over_under,jaylen nowell,False,0.5,-135,2023-04-24T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_threes_over_under,jaylen nowell,True,0.5,105,2023-04-24T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,pinnacle,player_threes_over_under,jaylen nowell,False,0.5,-143,2023-04-24T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,pinnacle,player_threes_over_under,jaylen nowell,True,0.5,107,2023-04-24T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_steals_over_under,jaylen nowell,False,0.5,-250,2023-04-24T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_steals_over_under,jaylen nowell,True,0.5,180,2023-04-24T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_steals_over_under,jaylen nowell,False,0.5,-235,2023-04-24T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_steals_over_under,jaylen nowell,True,0.5,190,2023-04-24T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_rebounds_over_under,jaylen nowell,False,1.5,-250,2023-04-24T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,pinnacle,player_rebounds_over_under,jaylen nowell,False,1.5,-204,2023-04-24T01:30:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_blocks_over_under,jaylen nowell,True,0.5,825,2023-04-24T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_points_over_under,jaylen nowell,False,5.5,-115,2023-04-24T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_points_over_under,jaylen nowell,True,5.5,-120,2023-04-24T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,pinnacle,player_points_over_under,jaylen nowell,False,5.5,-113,2023-04-24T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,pinnacle,player_points_over_under,jaylen nowell,True,5.5,-117,2023-04-24T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_blocks_over_under,jaylen nowell,False,0.5,-2500,2023-04-24T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_threes_over_under,jaylen nowell,True,0.5,105,2023-04-24T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_blocks_over_under,jaylen nowell,False,0.5,-1700,2023-04-24T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_blocks_over_under,jaylen nowell,True,0.5,900,2023-04-24T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_assists_over_under,jaylen nowell,False,0.5,155,2023-04-24T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_assists_over_under,jaylen nowell,True,0.5,-210,2023-04-24T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,pinnacle,player_assists_over_under,jaylen nowell,False,0.5,159,2023-04-24T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,pinnacle,player_rebounds_over_under,jaylen nowell,True,1.5,144,2023-04-24T01:30:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_threes_over_under,jaylen nowell,False,0.5,-140,2023-04-24T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,pinnacle,player_assists_over_under,jaylen nowell,True,0.5,-224,2023-04-24T01:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,pinnacle,player_assists_over_under,jaylen nowell,False,0.5,144,2023-04-26T00:45:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_threes_over_under,jaylen nowell,False,0.5,-145,2023-04-26T00:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_threes_over_under,jaylen nowell,True,0.5,110,2023-04-26T00:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_threes_over_under,jaylen nowell,False,0.5,-140,2023-04-26T00:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_threes_over_under,jaylen nowell,True,0.5,110,2023-04-26T00:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,pinnacle,player_threes_over_under,jaylen nowell,False,0.5,-146,2023-04-26T00:45:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,pinnacle,player_threes_over_under,jaylen nowell,True,0.5,110,2023-04-26T00:45:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_steals_over_under,jaylen nowell,False,0.5,-225,2023-04-26T00:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_steals_over_under,jaylen nowell,True,0.5,170,2023-04-26T00:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_steals_over_under,jaylen nowell,False,0.5,-220,2023-04-26T00:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_steals_over_under,jaylen nowell,True,0.5,180,2023-04-26T00:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_rebounds_over_under,jaylen nowell,False,1.5,-120,2023-04-26T00:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_rebounds_over_under,jaylen nowell,True,1.5,-110,2023-04-26T00:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,pinnacle,player_rebounds_over_under,jaylen nowell,False,1.5,-121,2023-04-26T00:45:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,pinnacle,player_rebounds_over_under,jaylen nowell,True,1.5,-109,2023-04-26T00:45:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_points_over_under,jaylen nowell,False,5.5,-110,2023-04-26T00:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_points_over_under,jaylen nowell,True,5.5,-120,2023-04-26T00:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,pinnacle,player_points_over_under,jaylen nowell,False,6.5,-131,2023-04-25T19:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,pinnacle,player_points_over_under,jaylen nowell,False,5.5,-152,2023-04-26T01:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,pinnacle,player_points_over_under,jaylen nowell,True,6.5,-101,2023-04-25T19:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,pinnacle,player_points_over_under,jaylen nowell,True,5.5,115,2023-04-26T01:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_blocks_over_under,jaylen nowell,False,0.5,-2500,2023-04-26T00:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_blocks_over_under,jaylen nowell,False,0.5,-1700,2023-04-26T00:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_blocks_over_under,jaylen nowell,True,0.5,900,2023-04-26T00:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_assists_over_under,jaylen nowell,False,0.5,170,2023-04-26T00:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_assists_over_under,jaylen nowell,True,0.5,-225,2023-04-26T00:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,pinnacle,player_assists_over_under,jaylen nowell,True,0.5,-202,2023-04-26T00:45:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,pinnacle,player_assists_over_under,jaylen nowell,True,1.5,176,2023-04-25T19:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,pinnacle,player_assists_over_under,jaylen nowell,False,1.5,-253,2023-04-25T19:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_blocks_over_under,jaylen nowell,True,0.5,825,2023-04-26T00:45:01,Denver Nuggets,Minnesota Timberwolves

@@ -1,0 +1,11 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_blocks_over_under,dominick barlow,True,0.5,-140,2023-04-08T19:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_blocks_over_under,dominick barlow,False,0.5,110,2023-04-08T19:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_points_over_under,dominick barlow,True,6.5,110,2023-04-08T19:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_points_over_under,dominick barlow,False,6.5,-140,2023-04-08T19:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_rebounds_over_under,dominick barlow,True,4.5,-105,2023-04-08T19:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_rebounds_over_under,dominick barlow,False,4.5,-125,2023-04-08T19:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,caesars,player_rebounds_over_under,dominick barlow,True,4.5,-106,2023-04-08T19:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,caesars,player_rebounds_over_under,dominick barlow,False,4.5,-129,2023-04-08T19:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_steals_over_under,dominick barlow,True,0.5,105,2023-04-08T19:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-08,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_steals_over_under,dominick barlow,False,0.5,-135,2023-04-08T19:45:01,San Antonio Spurs,Minnesota Timberwolves

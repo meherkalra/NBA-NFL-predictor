@@ -1,0 +1,1113 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-19,a91b3fe8fb3af636c3c07f332f35fbb9,fanduel,player_points_over_under,grayson allen,True,4.5,-110,2023-03-20T01:45:01,Milwaukee Bucks,Toronto Raptors
+2023-03-19,a91b3fe8fb3af636c3c07f332f35fbb9,fanduel,player_assists_over_under,grayson allen,True,0.5,550,2023-03-20T02:00:01,Milwaukee Bucks,Toronto Raptors
+2023-03-19,a91b3fe8fb3af636c3c07f332f35fbb9,fanduel,player_assists_over_under,grayson allen,True,1.5,182,2023-03-20T00:45:01,Milwaukee Bucks,Toronto Raptors
+2023-03-19,a91b3fe8fb3af636c3c07f332f35fbb9,fanduel,player_assists_over_under,grayson allen,False,0.5,-1100,2023-03-20T02:00:01,Milwaukee Bucks,Toronto Raptors
+2023-03-19,a91b3fe8fb3af636c3c07f332f35fbb9,fanduel,player_assists_over_under,grayson allen,False,1.5,-250,2023-03-20T00:45:01,Milwaukee Bucks,Toronto Raptors
+2023-03-19,a91b3fe8fb3af636c3c07f332f35fbb9,fanduel,player_blocks_over_under,grayson allen,True,0.5,1000,2023-03-20T01:30:01,Milwaukee Bucks,Toronto Raptors
+2023-03-19,a91b3fe8fb3af636c3c07f332f35fbb9,fanduel,player_blocks_over_under,grayson allen,False,0.5,-100000,2023-03-20T02:00:01,Milwaukee Bucks,Toronto Raptors
+2023-03-19,a91b3fe8fb3af636c3c07f332f35fbb9,fanduel,player_points_over_under,grayson allen,True,2.5,-118,2023-03-20T02:00:01,Milwaukee Bucks,Toronto Raptors
+2023-03-19,a91b3fe8fb3af636c3c07f332f35fbb9,fanduel,player_points_over_under,grayson allen,True,6.5,-112,2023-03-20T01:15:02,Milwaukee Bucks,Toronto Raptors
+2023-03-19,a91b3fe8fb3af636c3c07f332f35fbb9,fanduel,player_points_over_under,grayson allen,True,7.5,-162,2023-03-20T00:45:01,Milwaukee Bucks,Toronto Raptors
+2023-03-19,a91b3fe8fb3af636c3c07f332f35fbb9,fanduel,player_points_over_under,grayson allen,True,8.5,100,2023-03-20T00:15:02,Milwaukee Bucks,Toronto Raptors
+2023-03-19,a91b3fe8fb3af636c3c07f332f35fbb9,fanduel,player_points_over_under,grayson allen,True,9.5,102,2023-03-20T00:00:02,Milwaukee Bucks,Toronto Raptors
+2023-03-19,a91b3fe8fb3af636c3c07f332f35fbb9,fanduel,player_points_over_under,grayson allen,False,4.5,-120,2023-03-20T01:45:01,Milwaukee Bucks,Toronto Raptors
+2023-03-19,a91b3fe8fb3af636c3c07f332f35fbb9,fanduel,player_points_over_under,grayson allen,False,6.5,-118,2023-03-20T01:15:02,Milwaukee Bucks,Toronto Raptors
+2023-03-19,a91b3fe8fb3af636c3c07f332f35fbb9,fanduel,player_points_over_under,grayson allen,False,7.5,122,2023-03-20T00:45:01,Milwaukee Bucks,Toronto Raptors
+2023-03-19,a91b3fe8fb3af636c3c07f332f35fbb9,fanduel,player_points_over_under,grayson allen,False,2.5,-114,2023-03-20T02:00:01,Milwaukee Bucks,Toronto Raptors
+2023-03-19,a91b3fe8fb3af636c3c07f332f35fbb9,fanduel,player_points_over_under,grayson allen,False,9.5,-124,2023-03-20T00:00:02,Milwaukee Bucks,Toronto Raptors
+2023-03-19,a91b3fe8fb3af636c3c07f332f35fbb9,fanduel,player_threes_over_under,grayson allen,False,2.5,-178,2023-03-20T00:00:02,Milwaukee Bucks,Toronto Raptors
+2023-03-19,a91b3fe8fb3af636c3c07f332f35fbb9,fanduel,player_threes_over_under,grayson allen,False,1.5,-158,2023-03-20T00:45:01,Milwaukee Bucks,Toronto Raptors
+2023-03-19,a91b3fe8fb3af636c3c07f332f35fbb9,fanduel,player_threes_over_under,grayson allen,False,0.5,-800,2023-03-20T02:00:01,Milwaukee Bucks,Toronto Raptors
+2023-03-19,a91b3fe8fb3af636c3c07f332f35fbb9,fanduel,player_threes_over_under,grayson allen,True,2.5,138,2023-03-20T00:00:02,Milwaukee Bucks,Toronto Raptors
+2023-03-19,a91b3fe8fb3af636c3c07f332f35fbb9,fanduel,player_points_over_under,grayson allen,False,8.5,-132,2023-03-20T00:15:02,Milwaukee Bucks,Toronto Raptors
+2023-03-19,a91b3fe8fb3af636c3c07f332f35fbb9,fanduel,player_threes_over_under,grayson allen,True,0.5,450,2023-03-20T02:00:01,Milwaukee Bucks,Toronto Raptors
+2023-03-19,a91b3fe8fb3af636c3c07f332f35fbb9,fanduel,player_steals_over_under,grayson allen,False,0.5,-4000,2023-03-20T02:00:01,Milwaukee Bucks,Toronto Raptors
+2023-03-19,a91b3fe8fb3af636c3c07f332f35fbb9,fanduel,player_threes_over_under,grayson allen,True,1.5,118,2023-03-20T00:45:01,Milwaukee Bucks,Toronto Raptors
+2023-03-19,a91b3fe8fb3af636c3c07f332f35fbb9,fanduel,player_steals_over_under,grayson allen,True,0.5,1000,2023-03-20T02:00:01,Milwaukee Bucks,Toronto Raptors
+2023-03-19,a91b3fe8fb3af636c3c07f332f35fbb9,fanduel,player_rebounds_over_under,grayson allen,False,2.5,-550,2023-03-20T02:00:01,Milwaukee Bucks,Toronto Raptors
+2023-03-19,a91b3fe8fb3af636c3c07f332f35fbb9,fanduel,player_rebounds_over_under,grayson allen,False,1.5,114,2023-03-20T01:45:01,Milwaukee Bucks,Toronto Raptors
+2023-03-19,a91b3fe8fb3af636c3c07f332f35fbb9,fanduel,player_rebounds_over_under,grayson allen,True,2.5,350,2023-03-20T02:00:01,Milwaukee Bucks,Toronto Raptors
+2023-03-19,a91b3fe8fb3af636c3c07f332f35fbb9,fanduel,player_rebounds_over_under,grayson allen,True,1.5,-152,2023-03-20T01:45:01,Milwaukee Bucks,Toronto Raptors
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_points_over_under,grayson allen,True,8.5,320,2023-03-23T02:00:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_points_over_under,grayson allen,False,8.5,-500,2023-03-23T02:00:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_points_over_under,grayson allen,True,12.5,-128,2023-03-23T01:15:02,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_points_over_under,grayson allen,True,11.5,102,2023-03-23T01:30:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_points_over_under,grayson allen,True,10.5,-102,2023-03-23T00:45:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_points_over_under,grayson allen,True,9.5,-118,2023-03-23T01:45:02,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_points_over_under,grayson allen,False,9.5,-112,2023-03-23T01:45:02,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_blocks_over_under,grayson allen,False,1.5,-100000,2023-03-23T02:00:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_points_over_under,grayson allen,True,13.5,-130,2023-03-23T01:00:02,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_blocks_over_under,grayson allen,True,1.5,1000,2023-03-23T01:45:02,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_blocks_over_under,grayson allen,True,0.5,520,2023-03-23T00:45:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_assists_over_under,grayson allen,False,1.5,-194,2023-03-23T00:45:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_assists_over_under,grayson allen,False,0.5,-7000,2023-03-23T02:00:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_assists_over_under,grayson allen,True,1.5,144,2023-03-23T00:45:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_assists_over_under,grayson allen,True,0.5,1000,2023-03-23T02:00:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_points_over_under,grayson allen,False,10.5,-130,2023-03-23T00:45:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_blocks_over_under,grayson allen,False,0.5,-1000,2023-03-23T00:45:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_points_over_under,grayson allen,False,11.5,-136,2023-03-23T01:30:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_rebounds_over_under,grayson allen,False,3.5,-3500,2023-03-23T02:00:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_points_over_under,grayson allen,False,13.5,-102,2023-03-23T01:00:02,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_points_over_under,grayson allen,False,12.5,-104,2023-03-23T01:15:02,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_threes_over_under,grayson allen,False,3.5,-270,2023-03-23T01:15:02,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_threes_over_under,grayson allen,False,2.5,-4000,2023-03-23T02:00:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_threes_over_under,grayson allen,True,3.5,194,2023-03-23T01:15:02,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_threes_over_under,grayson allen,True,2.5,1000,2023-03-23T02:00:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_steals_over_under,grayson allen,False,4.5,-50000,2023-03-23T02:00:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_steals_over_under,grayson allen,False,1.5,-114,2023-03-23T00:45:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_steals_over_under,grayson allen,True,4.5,1000,2023-03-23T02:00:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_steals_over_under,grayson allen,False,3.5,-300,2023-03-23T01:30:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_steals_over_under,grayson allen,True,1.5,-114,2023-03-23T00:45:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_rebounds_over_under,grayson allen,False,4.5,-154,2023-03-23T01:15:02,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_rebounds_over_under,grayson allen,False,2.5,110,2023-03-22T23:30:02,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_rebounds_over_under,grayson allen,True,4.5,116,2023-03-23T01:15:02,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_rebounds_over_under,grayson allen,True,3.5,920,2023-03-23T02:00:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_rebounds_over_under,grayson allen,True,2.5,-134,2023-03-22T23:30:02,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_steals_over_under,grayson allen,True,3.5,210,2023-03-23T01:30:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_points_over_under,grayson allen,True,21.5,100,2023-03-25T01:30:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_points_over_under,grayson allen,False,19.5,108,2023-03-25T01:15:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_points_over_under,grayson allen,False,20.5,-122,2023-03-25T01:45:02,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_points_over_under,grayson allen,False,18.5,-122,2023-03-25T02:15:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_points_over_under,grayson allen,False,10.5,-130,2023-03-24T23:45:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_points_over_under,grayson allen,False,9.5,106,2023-03-25T00:30:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_points_over_under,grayson allen,True,26.5,100,2023-03-25T02:30:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_points_over_under,grayson allen,True,25.5,490,2023-03-25T03:00:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_points_over_under,grayson allen,True,20.5,-108,2023-03-25T01:45:02,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_assists_over_under,grayson allen,False,1.5,-10000,2023-03-25T03:00:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_points_over_under,grayson allen,True,18.5,-110,2023-03-25T02:15:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_points_over_under,grayson allen,True,10.5,106,2023-03-24T23:45:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_points_over_under,grayson allen,True,9.5,-130,2023-03-25T00:30:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_blocks_over_under,grayson allen,False,0.5,-100000,2023-03-25T03:00:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_blocks_over_under,grayson allen,True,0.5,1000,2023-03-25T02:30:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_assists_over_under,grayson allen,False,2.5,-188,2023-03-25T01:45:02,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_points_over_under,grayson allen,False,21.5,-132,2023-03-25T01:30:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_assists_over_under,grayson allen,True,2.5,140,2023-03-25T01:45:02,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_points_over_under,grayson allen,True,19.5,-144,2023-03-25T01:15:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_points_over_under,grayson allen,False,25.5,-900,2023-03-25T03:00:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,b2b0d5a6998801918cabc1aa6e062c0c,fanduel,player_assists_over_under,grayson allen,False,0.5,194,2023-03-26T01:30:01,Denver Nuggets,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_rebounds_over_under,grayson allen,True,2.5,-134,2023-03-25T01:00:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_assists_over_under,grayson allen,True,1.5,1000,2023-03-25T03:00:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_threes_over_under,grayson allen,False,5.5,-7000,2023-03-25T03:00:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_threes_over_under,grayson allen,False,4.5,164,2023-03-25T02:15:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_threes_over_under,grayson allen,False,2.5,-164,2023-03-25T01:00:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_threes_over_under,grayson allen,True,5.5,1000,2023-03-25T03:00:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_threes_over_under,grayson allen,True,4.5,-225,2023-03-25T02:15:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_threes_over_under,grayson allen,True,2.5,128,2023-03-25T01:00:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_steals_over_under,grayson allen,False,2.5,-50000,2023-03-25T03:00:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_points_over_under,grayson allen,False,26.5,-132,2023-03-25T02:30:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_steals_over_under,grayson allen,False,1.5,-1000,2023-03-25T02:30:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_steals_over_under,grayson allen,True,2.5,1000,2023-03-25T03:00:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_steals_over_under,grayson allen,True,1.5,520,2023-03-25T02:30:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_steals_over_under,grayson allen,True,0.5,100,2023-03-25T01:45:02,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_rebounds_over_under,grayson allen,False,4.5,-5000,2023-03-25T03:00:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_rebounds_over_under,grayson allen,False,3.5,-192,2023-03-25T02:15:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_rebounds_over_under,grayson allen,False,2.5,110,2023-03-25T01:00:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_rebounds_over_under,grayson allen,True,4.5,1000,2023-03-25T03:00:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_rebounds_over_under,grayson allen,True,3.5,142,2023-03-25T02:15:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_steals_over_under,grayson allen,False,0.5,-132,2023-03-25T01:45:02,Utah Jazz,Milwaukee Bucks
+2023-03-25,b2b0d5a6998801918cabc1aa6e062c0c,fanduel,player_assists_over_under,grayson allen,False,1.5,-4000,2023-03-26T03:15:02,Denver Nuggets,Milwaukee Bucks
+2023-03-25,b2b0d5a6998801918cabc1aa6e062c0c,fanduel,player_points_over_under,grayson allen,False,12.5,-200,2023-03-26T02:45:01,Denver Nuggets,Milwaukee Bucks
+2023-03-25,b2b0d5a6998801918cabc1aa6e062c0c,fanduel,player_points_over_under,grayson allen,False,13.5,-290,2023-03-26T03:15:02,Denver Nuggets,Milwaukee Bucks
+2023-03-25,b2b0d5a6998801918cabc1aa6e062c0c,fanduel,player_rebounds_over_under,grayson allen,True,3.5,-114,2023-03-26T01:45:01,Denver Nuggets,Milwaukee Bucks
+2023-03-25,b2b0d5a6998801918cabc1aa6e062c0c,fanduel,player_rebounds_over_under,grayson allen,True,2.5,116,2023-03-26T01:15:01,Denver Nuggets,Milwaukee Bucks
+2023-03-25,b2b0d5a6998801918cabc1aa6e062c0c,fanduel,player_rebounds_over_under,grayson allen,True,1.5,-188,2023-03-26T01:30:01,Denver Nuggets,Milwaukee Bucks
+2023-03-25,b2b0d5a6998801918cabc1aa6e062c0c,fanduel,player_points_over_under,grayson allen,False,14.5,-102,2023-03-26T03:00:01,Denver Nuggets,Milwaukee Bucks
+2023-03-25,b2b0d5a6998801918cabc1aa6e062c0c,fanduel,player_points_over_under,grayson allen,False,10.5,-154,2023-03-26T01:30:01,Denver Nuggets,Milwaukee Bucks
+2023-03-25,b2b0d5a6998801918cabc1aa6e062c0c,fanduel,player_points_over_under,grayson allen,False,9.5,-114,2023-03-26T01:00:01,Denver Nuggets,Milwaukee Bucks
+2023-03-25,b2b0d5a6998801918cabc1aa6e062c0c,fanduel,player_points_over_under,grayson allen,False,8.5,-122,2023-03-26T01:15:01,Denver Nuggets,Milwaukee Bucks
+2023-03-25,b2b0d5a6998801918cabc1aa6e062c0c,fanduel,player_blocks_over_under,grayson allen,True,0.5,430,2023-03-26T01:30:01,Denver Nuggets,Milwaukee Bucks
+2023-03-25,b2b0d5a6998801918cabc1aa6e062c0c,fanduel,player_points_over_under,grayson allen,True,14.5,-130,2023-03-26T03:00:01,Denver Nuggets,Milwaukee Bucks
+2023-03-25,b2b0d5a6998801918cabc1aa6e062c0c,fanduel,player_points_over_under,grayson allen,True,12.5,148,2023-03-26T02:45:01,Denver Nuggets,Milwaukee Bucks
+2023-03-25,b2b0d5a6998801918cabc1aa6e062c0c,fanduel,player_points_over_under,grayson allen,True,10.5,116,2023-03-26T01:30:01,Denver Nuggets,Milwaukee Bucks
+2023-03-25,b2b0d5a6998801918cabc1aa6e062c0c,fanduel,player_points_over_under,grayson allen,True,9.5,-106,2023-03-26T01:00:01,Denver Nuggets,Milwaukee Bucks
+2023-03-25,b2b0d5a6998801918cabc1aa6e062c0c,fanduel,player_points_over_under,grayson allen,True,8.5,-108,2023-03-26T01:15:01,Denver Nuggets,Milwaukee Bucks
+2023-03-25,b2b0d5a6998801918cabc1aa6e062c0c,fanduel,player_blocks_over_under,grayson allen,False,1.5,-100000,2023-03-26T03:15:02,Denver Nuggets,Milwaukee Bucks
+2023-03-25,b2b0d5a6998801918cabc1aa6e062c0c,fanduel,player_blocks_over_under,grayson allen,False,0.5,-750,2023-03-26T01:30:01,Denver Nuggets,Milwaukee Bucks
+2023-03-25,b2b0d5a6998801918cabc1aa6e062c0c,fanduel,player_blocks_over_under,grayson allen,True,1.5,1000,2023-03-26T02:45:01,Denver Nuggets,Milwaukee Bucks
+2023-03-25,b2b0d5a6998801918cabc1aa6e062c0c,fanduel,player_points_over_under,grayson allen,True,13.5,205,2023-03-26T03:15:02,Denver Nuggets,Milwaukee Bucks
+2023-03-25,b2b0d5a6998801918cabc1aa6e062c0c,fanduel,player_rebounds_over_under,grayson allen,False,1.5,140,2023-03-26T01:30:01,Denver Nuggets,Milwaukee Bucks
+2023-03-25,b2b0d5a6998801918cabc1aa6e062c0c,fanduel,player_rebounds_over_under,grayson allen,True,4.5,640,2023-03-26T03:15:02,Denver Nuggets,Milwaukee Bucks
+2023-03-25,b2b0d5a6998801918cabc1aa6e062c0c,fanduel,player_rebounds_over_under,grayson allen,False,3.5,-114,2023-03-26T01:45:01,Denver Nuggets,Milwaukee Bucks
+2023-03-25,b2b0d5a6998801918cabc1aa6e062c0c,fanduel,player_assists_over_under,grayson allen,True,0.5,-270,2023-03-26T01:30:01,Denver Nuggets,Milwaukee Bucks
+2023-03-25,b2b0d5a6998801918cabc1aa6e062c0c,fanduel,player_assists_over_under,grayson allen,True,1.5,1000,2023-03-26T03:15:02,Denver Nuggets,Milwaukee Bucks
+2023-03-25,b2b0d5a6998801918cabc1aa6e062c0c,fanduel,player_threes_over_under,grayson allen,False,3.5,-2200,2023-03-26T03:15:02,Denver Nuggets,Milwaukee Bucks
+2023-03-25,b2b0d5a6998801918cabc1aa6e062c0c,fanduel,player_rebounds_over_under,grayson allen,False,2.5,-154,2023-03-26T01:15:01,Denver Nuggets,Milwaukee Bucks
+2023-03-25,b2b0d5a6998801918cabc1aa6e062c0c,fanduel,player_threes_over_under,grayson allen,False,1.5,122,2023-03-26T01:15:01,Denver Nuggets,Milwaukee Bucks
+2023-03-25,b2b0d5a6998801918cabc1aa6e062c0c,fanduel,player_threes_over_under,grayson allen,True,3.5,800,2023-03-26T03:15:02,Denver Nuggets,Milwaukee Bucks
+2023-03-25,b2b0d5a6998801918cabc1aa6e062c0c,fanduel,player_threes_over_under,grayson allen,False,2.5,-178,2023-03-26T02:45:01,Denver Nuggets,Milwaukee Bucks
+2023-03-25,b2b0d5a6998801918cabc1aa6e062c0c,fanduel,player_threes_over_under,grayson allen,True,1.5,-162,2023-03-26T01:15:01,Denver Nuggets,Milwaukee Bucks
+2023-03-25,b2b0d5a6998801918cabc1aa6e062c0c,fanduel,player_steals_over_under,grayson allen,False,0.5,-10000,2023-03-26T03:15:02,Denver Nuggets,Milwaukee Bucks
+2023-03-25,b2b0d5a6998801918cabc1aa6e062c0c,fanduel,player_steals_over_under,grayson allen,True,0.5,1000,2023-03-26T03:15:02,Denver Nuggets,Milwaukee Bucks
+2023-03-25,b2b0d5a6998801918cabc1aa6e062c0c,fanduel,player_rebounds_over_under,grayson allen,False,4.5,-1450,2023-03-26T03:15:02,Denver Nuggets,Milwaukee Bucks
+2023-03-25,b2b0d5a6998801918cabc1aa6e062c0c,fanduel,player_threes_over_under,grayson allen,True,2.5,132,2023-03-26T02:45:01,Denver Nuggets,Milwaukee Bucks
+2023-03-27,1c5cf3f6acfe3356b0318f6db29bf5ec,fanduel,player_rebounds_over_under,grayson allen,False,1.5,-300,2023-03-28T01:15:02,Detroit Pistons,Milwaukee Bucks
+2023-03-27,1c5cf3f6acfe3356b0318f6db29bf5ec,fanduel,player_rebounds_over_under,grayson allen,True,3.5,102,2023-03-27T22:15:01,Detroit Pistons,Milwaukee Bucks
+2023-03-27,1c5cf3f6acfe3356b0318f6db29bf5ec,fanduel,player_rebounds_over_under,grayson allen,True,2.5,154,2023-03-28T00:30:02,Detroit Pistons,Milwaukee Bucks
+2023-03-27,1c5cf3f6acfe3356b0318f6db29bf5ec,fanduel,player_rebounds_over_under,grayson allen,True,1.5,210,2023-03-28T01:15:02,Detroit Pistons,Milwaukee Bucks
+2023-03-27,1c5cf3f6acfe3356b0318f6db29bf5ec,fanduel,player_points_over_under,grayson allen,False,12.5,-132,2023-03-27T23:45:01,Detroit Pistons,Milwaukee Bucks
+2023-03-27,1c5cf3f6acfe3356b0318f6db29bf5ec,fanduel,player_points_over_under,grayson allen,False,10.5,-162,2023-03-28T00:45:01,Detroit Pistons,Milwaukee Bucks
+2023-03-27,1c5cf3f6acfe3356b0318f6db29bf5ec,fanduel,player_points_over_under,grayson allen,False,9.5,-118,2023-03-28T01:00:01,Detroit Pistons,Milwaukee Bucks
+2023-03-27,1c5cf3f6acfe3356b0318f6db29bf5ec,fanduel,player_rebounds_over_under,grayson allen,False,2.5,-210,2023-03-28T00:30:02,Detroit Pistons,Milwaukee Bucks
+2023-03-27,1c5cf3f6acfe3356b0318f6db29bf5ec,fanduel,player_steals_over_under,grayson allen,False,0.5,-230,2023-03-28T00:15:01,Detroit Pistons,Milwaukee Bucks
+2023-03-27,1c5cf3f6acfe3356b0318f6db29bf5ec,fanduel,player_steals_over_under,grayson allen,True,0.5,168,2023-03-28T00:15:01,Detroit Pistons,Milwaukee Bucks
+2023-03-27,1c5cf3f6acfe3356b0318f6db29bf5ec,fanduel,player_points_over_under,grayson allen,False,8.5,-245,2023-03-28T01:15:02,Detroit Pistons,Milwaukee Bucks
+2023-03-27,1c5cf3f6acfe3356b0318f6db29bf5ec,fanduel,player_steals_over_under,grayson allen,True,1.5,800,2023-03-28T01:15:02,Detroit Pistons,Milwaukee Bucks
+2023-03-27,1c5cf3f6acfe3356b0318f6db29bf5ec,fanduel,player_threes_over_under,grayson allen,False,2.5,-490,2023-03-28T01:15:02,Detroit Pistons,Milwaukee Bucks
+2023-03-27,1c5cf3f6acfe3356b0318f6db29bf5ec,fanduel,player_threes_over_under,grayson allen,False,1.5,124,2023-03-28T00:30:02,Detroit Pistons,Milwaukee Bucks
+2023-03-27,1c5cf3f6acfe3356b0318f6db29bf5ec,fanduel,player_threes_over_under,grayson allen,True,2.5,320,2023-03-28T01:15:02,Detroit Pistons,Milwaukee Bucks
+2023-03-27,1c5cf3f6acfe3356b0318f6db29bf5ec,fanduel,player_threes_over_under,grayson allen,True,1.5,-166,2023-03-28T00:30:02,Detroit Pistons,Milwaukee Bucks
+2023-03-27,1c5cf3f6acfe3356b0318f6db29bf5ec,fanduel,player_steals_over_under,grayson allen,False,1.5,-2200,2023-03-28T01:15:02,Detroit Pistons,Milwaukee Bucks
+2023-03-27,1c5cf3f6acfe3356b0318f6db29bf5ec,fanduel,player_rebounds_over_under,grayson allen,False,3.5,-124,2023-03-27T22:15:01,Detroit Pistons,Milwaukee Bucks
+2023-03-27,1c5cf3f6acfe3356b0318f6db29bf5ec,fanduel,player_points_over_under,grayson allen,True,12.5,100,2023-03-27T23:45:01,Detroit Pistons,Milwaukee Bucks
+2023-03-27,1c5cf3f6acfe3356b0318f6db29bf5ec,fanduel,player_points_over_under,grayson allen,True,10.5,122,2023-03-28T00:45:01,Detroit Pistons,Milwaukee Bucks
+2023-03-27,1c5cf3f6acfe3356b0318f6db29bf5ec,fanduel,player_points_over_under,grayson allen,True,9.5,-114,2023-03-28T01:00:01,Detroit Pistons,Milwaukee Bucks
+2023-03-27,1c5cf3f6acfe3356b0318f6db29bf5ec,fanduel,player_assists_over_under,grayson allen,True,2.5,-130,2023-03-28T00:45:01,Detroit Pistons,Milwaukee Bucks
+2023-03-27,1c5cf3f6acfe3356b0318f6db29bf5ec,fanduel,player_assists_over_under,grayson allen,True,5.5,108,2023-03-28T01:00:01,Detroit Pistons,Milwaukee Bucks
+2023-03-27,1c5cf3f6acfe3356b0318f6db29bf5ec,fanduel,player_assists_over_under,grayson allen,True,6.5,280,2023-03-28T01:15:02,Detroit Pistons,Milwaukee Bucks
+2023-03-27,1c5cf3f6acfe3356b0318f6db29bf5ec,fanduel,player_assists_over_under,grayson allen,False,2.5,-102,2023-03-28T00:45:01,Detroit Pistons,Milwaukee Bucks
+2023-03-27,1c5cf3f6acfe3356b0318f6db29bf5ec,fanduel,player_assists_over_under,grayson allen,False,3.5,-188,2023-03-27T23:15:01,Detroit Pistons,Milwaukee Bucks
+2023-03-27,1c5cf3f6acfe3356b0318f6db29bf5ec,fanduel,player_assists_over_under,grayson allen,True,3.5,140,2023-03-27T23:15:01,Detroit Pistons,Milwaukee Bucks
+2023-03-27,1c5cf3f6acfe3356b0318f6db29bf5ec,fanduel,player_assists_over_under,grayson allen,False,6.5,-420,2023-03-28T01:15:02,Detroit Pistons,Milwaukee Bucks
+2023-03-27,1c5cf3f6acfe3356b0318f6db29bf5ec,fanduel,player_blocks_over_under,grayson allen,True,0.5,1000,2023-03-28T01:15:02,Detroit Pistons,Milwaukee Bucks
+2023-03-27,1c5cf3f6acfe3356b0318f6db29bf5ec,fanduel,player_blocks_over_under,grayson allen,False,0.5,-10000,2023-03-28T01:15:02,Detroit Pistons,Milwaukee Bucks
+2023-03-27,1c5cf3f6acfe3356b0318f6db29bf5ec,fanduel,player_points_over_under,grayson allen,True,8.5,178,2023-03-28T01:15:02,Detroit Pistons,Milwaukee Bucks
+2023-03-27,1c5cf3f6acfe3356b0318f6db29bf5ec,fanduel,player_assists_over_under,grayson allen,False,5.5,-144,2023-03-28T01:00:01,Detroit Pistons,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,grayson allen,True,5.5,112,2023-03-30T00:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,grayson allen,False,3.5,108,2023-03-30T01:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,grayson allen,False,2.5,110,2023-03-30T01:00:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,grayson allen,True,11.5,104,2023-03-29T21:45:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,grayson allen,True,10.5,-122,2023-03-29T23:00:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,grayson allen,True,9.5,-120,2023-03-29T23:15:02,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,grayson allen,True,8.5,108,2023-03-29T23:30:02,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,grayson allen,True,7.5,-102,2023-03-29T23:45:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,grayson allen,True,3.5,-144,2023-03-30T01:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_assists_over_under,grayson allen,False,1.5,-260,2023-03-30T00:00:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_blocks_over_under,grayson allen,False,0.5,-50000,2023-03-30T01:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_blocks_over_under,grayson allen,True,0.5,1000,2023-03-30T01:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_assists_over_under,grayson allen,False,3.5,-900,2023-03-30T01:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_assists_over_under,grayson allen,False,2.5,-144,2023-03-30T00:45:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,grayson allen,False,5.5,-148,2023-03-30T00:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_assists_over_under,grayson allen,False,0.5,174,2023-03-30T00:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_assists_over_under,grayson allen,True,3.5,490,2023-03-30T01:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_assists_over_under,grayson allen,True,2.5,108,2023-03-30T00:45:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,grayson allen,True,2.5,-146,2023-03-30T01:00:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,grayson allen,False,7.5,-130,2023-03-29T23:45:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_rebounds_over_under,grayson allen,True,2.5,320,2023-03-30T01:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,grayson allen,False,9.5,-110,2023-03-29T23:15:02,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_threes_over_under,grayson allen,False,1.5,-240,2023-03-30T00:00:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_threes_over_under,grayson allen,False,0.5,-900,2023-03-30T01:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_threes_over_under,grayson allen,True,2.5,138,2023-03-29T23:00:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_threes_over_under,grayson allen,True,1.5,174,2023-03-30T00:00:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_threes_over_under,grayson allen,True,0.5,490,2023-03-30T01:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_steals_over_under,grayson allen,False,2.5,-3500,2023-03-30T01:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_steals_over_under,grayson allen,False,1.5,-490,2023-03-30T01:00:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_steals_over_under,grayson allen,False,0.5,-215,2023-03-30T00:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_steals_over_under,grayson allen,True,2.5,920,2023-03-30T01:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_steals_over_under,grayson allen,True,1.5,320,2023-03-30T01:00:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_steals_over_under,grayson allen,True,0.5,158,2023-03-30T00:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_rebounds_over_under,grayson allen,False,3.5,-210,2023-03-29T23:45:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_rebounds_over_under,grayson allen,False,2.5,-500,2023-03-30T01:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_rebounds_over_under,grayson allen,False,1.5,-138,2023-03-30T00:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_rebounds_over_under,grayson allen,True,3.5,154,2023-03-29T23:45:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_assists_over_under,grayson allen,True,1.5,188,2023-03-30T00:00:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_rebounds_over_under,grayson allen,True,1.5,104,2023-03-30T00:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,grayson allen,False,11.5,-128,2023-03-29T21:45:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,grayson allen,False,10.5,100,2023-03-29T23:00:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,grayson allen,False,8.5,-144,2023-03-29T23:30:02,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_threes_over_under,grayson allen,False,2.5,-178,2023-03-29T23:00:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_assists_over_under,grayson allen,True,0.5,-240,2023-03-30T00:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-30,b9f73afe76d00f8ab4df32b24700e6e3,fanduel,player_points_over_under,grayson allen,False,5.5,-144,2023-03-31T00:15:01,Milwaukee Bucks,Boston Celtics
+2023-03-30,b9f73afe76d00f8ab4df32b24700e6e3,fanduel,player_threes_over_under,grayson allen,False,0.5,118,2023-03-31T00:30:01,Milwaukee Bucks,Boston Celtics
+2023-03-30,b9f73afe76d00f8ab4df32b24700e6e3,fanduel,player_threes_over_under,grayson allen,True,1.5,1000,2023-03-31T01:30:01,Milwaukee Bucks,Boston Celtics
+2023-03-30,b9f73afe76d00f8ab4df32b24700e6e3,fanduel,player_threes_over_under,grayson allen,True,0.5,-158,2023-03-31T00:30:01,Milwaukee Bucks,Boston Celtics
+2023-03-30,b9f73afe76d00f8ab4df32b24700e6e3,fanduel,player_steals_over_under,grayson allen,False,1.5,-50000,2023-03-31T01:30:01,Milwaukee Bucks,Boston Celtics
+2023-03-30,b9f73afe76d00f8ab4df32b24700e6e3,fanduel,player_steals_over_under,grayson allen,True,1.5,1000,2023-03-31T01:30:01,Milwaukee Bucks,Boston Celtics
+2023-03-30,b9f73afe76d00f8ab4df32b24700e6e3,fanduel,player_rebounds_over_under,grayson allen,False,2.5,-138,2023-03-31T00:15:01,Milwaukee Bucks,Boston Celtics
+2023-03-30,b9f73afe76d00f8ab4df32b24700e6e3,fanduel,player_rebounds_over_under,grayson allen,False,1.5,-3000,2023-03-31T01:30:01,Milwaukee Bucks,Boston Celtics
+2023-03-30,b9f73afe76d00f8ab4df32b24700e6e3,fanduel,player_rebounds_over_under,grayson allen,True,2.5,104,2023-03-31T00:15:01,Milwaukee Bucks,Boston Celtics
+2023-03-30,b9f73afe76d00f8ab4df32b24700e6e3,fanduel,player_rebounds_over_under,grayson allen,True,1.5,880,2023-03-31T01:30:01,Milwaukee Bucks,Boston Celtics
+2023-03-30,b9f73afe76d00f8ab4df32b24700e6e3,fanduel,player_points_over_under,grayson allen,False,9.5,-128,2023-03-30T22:15:01,Milwaukee Bucks,Boston Celtics
+2023-03-30,b9f73afe76d00f8ab4df32b24700e6e3,fanduel,player_points_over_under,grayson allen,False,8.5,-108,2023-03-30T23:30:01,Milwaukee Bucks,Boston Celtics
+2023-03-30,b9f73afe76d00f8ab4df32b24700e6e3,fanduel,player_points_over_under,grayson allen,False,7.5,-148,2023-03-30T23:45:02,Milwaukee Bucks,Boston Celtics
+2023-03-30,b9f73afe76d00f8ab4df32b24700e6e3,fanduel,player_points_over_under,grayson allen,False,6.5,-102,2023-03-31T01:15:01,Milwaukee Bucks,Boston Celtics
+2023-03-30,b9f73afe76d00f8ab4df32b24700e6e3,fanduel,player_threes_over_under,grayson allen,False,1.5,-4000,2023-03-31T01:30:01,Milwaukee Bucks,Boston Celtics
+2023-03-30,b9f73afe76d00f8ab4df32b24700e6e3,fanduel,player_assists_over_under,grayson allen,True,0.5,1000,2023-03-31T01:30:01,Milwaukee Bucks,Boston Celtics
+2023-03-30,b9f73afe76d00f8ab4df32b24700e6e3,fanduel,player_points_over_under,grayson allen,False,3.5,-440,2023-03-31T01:30:01,Milwaukee Bucks,Boston Celtics
+2023-03-30,b9f73afe76d00f8ab4df32b24700e6e3,fanduel,player_points_over_under,grayson allen,True,9.5,104,2023-03-30T22:15:01,Milwaukee Bucks,Boston Celtics
+2023-03-30,b9f73afe76d00f8ab4df32b24700e6e3,fanduel,player_points_over_under,grayson allen,True,8.5,-118,2023-03-30T23:30:01,Milwaukee Bucks,Boston Celtics
+2023-03-30,b9f73afe76d00f8ab4df32b24700e6e3,fanduel,player_points_over_under,grayson allen,True,7.5,112,2023-03-30T23:45:02,Milwaukee Bucks,Boston Celtics
+2023-03-30,b9f73afe76d00f8ab4df32b24700e6e3,fanduel,player_points_over_under,grayson allen,True,6.5,-130,2023-03-31T01:15:01,Milwaukee Bucks,Boston Celtics
+2023-03-30,b9f73afe76d00f8ab4df32b24700e6e3,fanduel,player_points_over_under,grayson allen,True,5.5,108,2023-03-31T00:15:01,Milwaukee Bucks,Boston Celtics
+2023-03-30,b9f73afe76d00f8ab4df32b24700e6e3,fanduel,player_points_over_under,grayson allen,True,4.5,-110,2023-03-31T01:00:01,Milwaukee Bucks,Boston Celtics
+2023-03-30,b9f73afe76d00f8ab4df32b24700e6e3,fanduel,player_points_over_under,grayson allen,True,3.5,290,2023-03-31T01:30:01,Milwaukee Bucks,Boston Celtics
+2023-03-30,b9f73afe76d00f8ab4df32b24700e6e3,fanduel,player_blocks_over_under,grayson allen,False,0.5,-100000,2023-03-31T01:30:01,Milwaukee Bucks,Boston Celtics
+2023-03-30,b9f73afe76d00f8ab4df32b24700e6e3,fanduel,player_blocks_over_under,grayson allen,True,0.5,1000,2023-03-31T01:00:01,Milwaukee Bucks,Boston Celtics
+2023-03-30,b9f73afe76d00f8ab4df32b24700e6e3,fanduel,player_assists_over_under,grayson allen,False,1.5,-240,2023-03-30T23:45:02,Milwaukee Bucks,Boston Celtics
+2023-03-30,b9f73afe76d00f8ab4df32b24700e6e3,fanduel,player_assists_over_under,grayson allen,False,0.5,-7000,2023-03-31T01:30:01,Milwaukee Bucks,Boston Celtics
+2023-03-30,b9f73afe76d00f8ab4df32b24700e6e3,fanduel,player_assists_over_under,grayson allen,True,1.5,174,2023-03-30T23:45:02,Milwaukee Bucks,Boston Celtics
+2023-03-30,b9f73afe76d00f8ab4df32b24700e6e3,fanduel,player_points_over_under,grayson allen,False,4.5,-120,2023-03-31T01:00:01,Milwaukee Bucks,Boston Celtics
+2023-04-02,08041b82ae06db4fd68a3e0702be8ce7,fanduel,player_assists_over_under,grayson allen,True,1.5,270,2023-04-03T01:36:01,Milwaukee Bucks,Philadelphia 76ers
+2023-04-02,08041b82ae06db4fd68a3e0702be8ce7,fanduel,player_assists_over_under,grayson allen,True,0.5,-235,2023-04-03T00:44:01,Milwaukee Bucks,Philadelphia 76ers
+2023-04-02,08041b82ae06db4fd68a3e0702be8ce7,fanduel,player_rebounds_over_under,grayson allen,True,2.5,144,2023-04-03T01:08:01,Milwaukee Bucks,Philadelphia 76ers
+2023-04-02,08041b82ae06db4fd68a3e0702be8ce7,fanduel,player_threes_over_under,grayson allen,False,0.5,-290,2023-04-03T01:40:01,Milwaukee Bucks,Philadelphia 76ers
+2023-04-02,08041b82ae06db4fd68a3e0702be8ce7,fanduel,player_threes_over_under,grayson allen,True,1.5,188,2023-04-03T00:56:01,Milwaukee Bucks,Philadelphia 76ers
+2023-04-02,08041b82ae06db4fd68a3e0702be8ce7,fanduel,player_threes_over_under,grayson allen,True,0.5,205,2023-04-03T01:40:01,Milwaukee Bucks,Philadelphia 76ers
+2023-04-02,08041b82ae06db4fd68a3e0702be8ce7,fanduel,player_steals_over_under,grayson allen,False,0.5,-900,2023-04-03T01:40:01,Milwaukee Bucks,Philadelphia 76ers
+2023-04-02,08041b82ae06db4fd68a3e0702be8ce7,fanduel,player_steals_over_under,grayson allen,True,0.5,490,2023-04-03T01:40:01,Milwaukee Bucks,Philadelphia 76ers
+2023-04-02,08041b82ae06db4fd68a3e0702be8ce7,fanduel,player_rebounds_over_under,grayson allen,False,5.5,-230,2023-04-03T01:24:01,Milwaukee Bucks,Philadelphia 76ers
+2023-04-02,08041b82ae06db4fd68a3e0702be8ce7,fanduel,player_rebounds_over_under,grayson allen,False,4.5,-215,2023-04-03T01:36:01,Milwaukee Bucks,Philadelphia 76ers
+2023-04-02,08041b82ae06db4fd68a3e0702be8ce7,fanduel,player_rebounds_over_under,grayson allen,False,2.5,-194,2023-04-03T01:08:01,Milwaukee Bucks,Philadelphia 76ers
+2023-04-02,08041b82ae06db4fd68a3e0702be8ce7,fanduel,player_rebounds_over_under,grayson allen,True,5.5,168,2023-04-03T01:24:01,Milwaukee Bucks,Philadelphia 76ers
+2023-04-02,08041b82ae06db4fd68a3e0702be8ce7,fanduel,player_rebounds_over_under,grayson allen,True,4.5,158,2023-04-03T01:36:01,Milwaukee Bucks,Philadelphia 76ers
+2023-04-02,08041b82ae06db4fd68a3e0702be8ce7,fanduel,player_points_over_under,grayson allen,False,8.5,-152,2023-04-03T00:40:02,Milwaukee Bucks,Philadelphia 76ers
+2023-04-02,08041b82ae06db4fd68a3e0702be8ce7,fanduel,player_points_over_under,grayson allen,False,7.5,-154,2023-04-03T00:46:01,Milwaukee Bucks,Philadelphia 76ers
+2023-04-02,08041b82ae06db4fd68a3e0702be8ce7,fanduel,player_threes_over_under,grayson allen,False,1.5,-260,2023-04-03T00:56:01,Milwaukee Bucks,Philadelphia 76ers
+2023-04-02,08041b82ae06db4fd68a3e0702be8ce7,fanduel,player_points_over_under,grayson allen,False,6.5,-174,2023-04-03T01:24:01,Milwaukee Bucks,Philadelphia 76ers
+2023-04-02,08041b82ae06db4fd68a3e0702be8ce7,fanduel,player_points_over_under,grayson allen,False,4.5,118,2023-04-03T01:32:01,Milwaukee Bucks,Philadelphia 76ers
+2023-04-02,08041b82ae06db4fd68a3e0702be8ce7,fanduel,player_points_over_under,grayson allen,False,3.5,-138,2023-04-03T01:38:01,Milwaukee Bucks,Philadelphia 76ers
+2023-04-02,08041b82ae06db4fd68a3e0702be8ce7,fanduel,player_points_over_under,grayson allen,True,8.5,116,2023-04-03T00:40:02,Milwaukee Bucks,Philadelphia 76ers
+2023-04-02,08041b82ae06db4fd68a3e0702be8ce7,fanduel,player_points_over_under,grayson allen,True,7.5,116,2023-04-03T00:46:01,Milwaukee Bucks,Philadelphia 76ers
+2023-04-02,08041b82ae06db4fd68a3e0702be8ce7,fanduel,player_points_over_under,grayson allen,True,6.5,130,2023-04-03T01:24:01,Milwaukee Bucks,Philadelphia 76ers
+2023-04-02,08041b82ae06db4fd68a3e0702be8ce7,fanduel,player_points_over_under,grayson allen,True,5.5,-102,2023-04-03T01:30:02,Milwaukee Bucks,Philadelphia 76ers
+2023-04-02,08041b82ae06db4fd68a3e0702be8ce7,fanduel,player_points_over_under,grayson allen,True,4.5,-158,2023-04-03T01:32:01,Milwaukee Bucks,Philadelphia 76ers
+2023-04-02,08041b82ae06db4fd68a3e0702be8ce7,fanduel,player_points_over_under,grayson allen,True,3.5,104,2023-04-03T01:38:01,Milwaukee Bucks,Philadelphia 76ers
+2023-04-02,08041b82ae06db4fd68a3e0702be8ce7,fanduel,player_blocks_over_under,grayson allen,False,0.5,-7000,2023-04-03T01:34:01,Milwaukee Bucks,Philadelphia 76ers
+2023-04-02,08041b82ae06db4fd68a3e0702be8ce7,fanduel,player_blocks_over_under,grayson allen,True,0.5,1000,2023-04-03T01:34:01,Milwaukee Bucks,Philadelphia 76ers
+2023-04-02,08041b82ae06db4fd68a3e0702be8ce7,fanduel,player_assists_over_under,grayson allen,False,1.5,-400,2023-04-03T01:36:01,Milwaukee Bucks,Philadelphia 76ers
+2023-04-02,08041b82ae06db4fd68a3e0702be8ce7,fanduel,player_assists_over_under,grayson allen,False,0.5,172,2023-04-03T00:44:01,Milwaukee Bucks,Philadelphia 76ers
+2023-04-02,08041b82ae06db4fd68a3e0702be8ce7,fanduel,player_points_over_under,grayson allen,False,5.5,-130,2023-04-03T01:30:02,Milwaukee Bucks,Philadelphia 76ers
+2023-04-16,d465dd20f839778144825a9f15d801b6,barstool,player_points_over_under,grayson allen,True,6.5,-250,2023-04-16T21:45:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,betmgm,player_points_over_under,grayson allen,False,8.5,-120,2023-04-15T17:00:02,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,betmgm,player_threes_over_under,grayson allen,True,1.5,-190,2023-04-15T17:00:02,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,barstool,player_threes_over_under,grayson allen,True,2.5,175,2023-04-16T21:45:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,barstool,player_points_over_under,grayson allen,True,7.5,-180,2023-04-16T21:45:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,draftkings,player_points_over_under,grayson allen,False,10.5,-130,2023-04-17T00:00:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,draftkings,player_points_over_under,grayson allen,False,8.5,-145,2023-04-16T22:15:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,barstool,player_points_over_under,grayson allen,True,8.5,-114,2023-04-16T21:45:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,barstool,player_points_over_under,grayson allen,True,9.5,123,2023-04-16T21:45:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,caesars,player_steals_over_under,grayson allen,True,0.5,-137,2023-04-15T17:00:02,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,caesars,player_steals_over_under,grayson allen,False,0.5,100,2023-04-15T17:00:02,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,betmgm,player_steals_over_under,grayson allen,True,0.5,-145,2023-04-15T17:00:02,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,betmgm,player_steals_over_under,grayson allen,False,0.5,110,2023-04-15T17:00:02,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,fanduel,player_threes_over_under,grayson allen,True,0.5,-162,2023-04-16T23:15:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,fanduel,player_threes_over_under,grayson allen,True,1.5,168,2023-04-17T00:00:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,draftkings,player_steals_over_under,grayson allen,False,0.5,-800,2023-04-17T00:00:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,fanduel,player_threes_over_under,grayson allen,False,0.5,122,2023-04-16T23:15:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,draftkings,player_threes_over_under,grayson allen,True,0.5,-160,2023-04-16T23:15:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,draftkings,player_threes_over_under,grayson allen,True,1.5,165,2023-04-17T00:00:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,draftkings,player_threes_over_under,grayson allen,False,0.5,120,2023-04-16T23:15:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,draftkings,player_threes_over_under,grayson allen,False,1.5,-225,2023-04-17T00:00:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,caesars,player_threes_over_under,grayson allen,True,1.5,-174,2023-04-15T17:00:02,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,caesars,player_threes_over_under,grayson allen,False,1.5,126,2023-04-15T17:00:02,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,fanduel,player_threes_over_under,grayson allen,False,1.5,-230,2023-04-17T00:00:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,draftkings,player_steals_over_under,grayson allen,True,0.5,450,2023-04-17T00:00:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,fanduel,player_steals_over_under,grayson allen,False,0.5,-800,2023-04-17T00:00:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,fanduel,player_steals_over_under,grayson allen,True,0.5,450,2023-04-17T00:00:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,barstool,player_points_over_under,grayson allen,True,10.5,160,2023-04-16T21:45:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,barstool,player_points_over_under,grayson allen,True,11.5,215,2023-04-16T21:15:02,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,fanduel,player_rebounds_over_under,grayson allen,True,1.5,-154,2023-04-16T23:45:02,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,fanduel,player_rebounds_over_under,grayson allen,True,2.5,116,2023-04-17T00:00:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,fanduel,player_rebounds_over_under,grayson allen,False,1.5,116,2023-04-16T23:45:02,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,fanduel,player_rebounds_over_under,grayson allen,False,2.5,-154,2023-04-17T00:00:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,draftkings,player_rebounds_over_under,grayson allen,True,1.5,-145,2023-04-16T23:45:02,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,draftkings,player_rebounds_over_under,grayson allen,True,2.5,120,2023-04-17T00:00:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,draftkings,player_rebounds_over_under,grayson allen,False,1.5,110,2023-04-16T23:45:02,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,draftkings,player_rebounds_over_under,grayson allen,False,2.5,-160,2023-04-17T00:00:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,caesars,player_rebounds_over_under,grayson allen,True,2.5,-125,2023-04-15T17:00:02,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,caesars,player_rebounds_over_under,grayson allen,False,2.5,-109,2023-04-15T17:00:02,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,betmgm,player_rebounds_over_under,grayson allen,True,2.5,-125,2023-04-15T17:00:02,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,betmgm,player_rebounds_over_under,grayson allen,False,2.5,-105,2023-04-15T17:00:02,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,barstool,player_threes_over_under,grayson allen,True,1.5,-182,2023-04-16T21:45:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,betmgm,player_threes_over_under,grayson allen,False,1.5,140,2023-04-15T17:00:02,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,barstool,player_rebounds_over_under,grayson allen,True,2.5,-134,2023-04-16T21:45:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,draftkings,player_points_over_under,grayson allen,False,9.5,-160,2023-04-16T23:45:02,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,draftkings,player_points_over_under,grayson allen,True,8.5,110,2023-04-16T22:15:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,betmgm,player_blocks_over_under,grayson allen,False,0.5,-600,2023-04-15T17:00:02,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,fanduel,player_points_over_under,grayson allen,True,6.5,116,2023-04-16T23:00:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,fanduel,player_points_over_under,grayson allen,True,7.5,124,2023-04-16T23:15:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,fanduel,player_points_over_under,grayson allen,True,8.5,110,2023-04-16T22:15:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,fanduel,player_points_over_under,grayson allen,True,9.5,116,2023-04-16T23:45:02,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,fanduel,player_points_over_under,grayson allen,False,6.5,-154,2023-04-16T23:00:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,fanduel,player_points_over_under,grayson allen,False,7.5,-166,2023-04-16T23:15:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,fanduel,player_points_over_under,grayson allen,False,8.5,-146,2023-04-16T22:15:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,fanduel,player_points_over_under,grayson allen,False,9.5,-154,2023-04-16T23:45:02,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,fanduel,player_points_over_under,grayson allen,False,10.5,-118,2023-04-17T00:00:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,draftkings,player_points_over_under,grayson allen,True,6.5,115,2023-04-16T23:00:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,draftkings,player_points_over_under,grayson allen,True,7.5,120,2023-04-16T23:15:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,draftkings,player_points_over_under,grayson allen,True,9.5,120,2023-04-16T23:45:02,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,draftkings,player_points_over_under,grayson allen,True,10.5,-105,2023-04-17T00:00:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,draftkings,player_points_over_under,grayson allen,False,6.5,-155,2023-04-16T23:00:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,draftkings,player_points_over_under,grayson allen,False,7.5,-160,2023-04-16T23:15:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,caesars,player_points_over_under,grayson allen,True,8.5,-113,2023-04-15T17:00:02,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,caesars,player_points_over_under,grayson allen,False,8.5,-121,2023-04-15T17:00:02,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,betmgm,player_points_over_under,grayson allen,True,8.5,-110,2023-04-15T17:00:02,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,betmgm,player_blocks_over_under,grayson allen,True,0.5,360,2023-04-15T17:00:02,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,caesars,player_blocks_over_under,grayson allen,False,0.5,-554,2023-04-15T17:00:02,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,fanduel,player_points_over_under,grayson allen,True,10.5,-112,2023-04-17T00:00:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,draftkings,player_blocks_over_under,grayson allen,False,0.5,-520,2023-04-15T17:00:02,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,fanduel,player_assists_over_under,grayson allen,True,0.5,-104,2023-04-16T23:15:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,fanduel,player_assists_over_under,grayson allen,True,1.5,152,2023-04-16T23:45:02,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,fanduel,player_assists_over_under,grayson allen,True,3.5,225,2023-04-17T00:00:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,fanduel,player_assists_over_under,grayson allen,False,0.5,-128,2023-04-16T23:15:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,caesars,player_blocks_over_under,grayson allen,True,0.5,334,2023-04-15T17:00:02,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,fanduel,player_assists_over_under,grayson allen,False,3.5,-320,2023-04-17T00:00:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,draftkings,player_assists_over_under,grayson allen,True,0.5,-105,2023-04-16T23:15:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,draftkings,player_assists_over_under,grayson allen,True,1.5,140,2023-04-16T23:45:02,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,draftkings,player_assists_over_under,grayson allen,True,3.5,220,2023-04-17T00:00:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,draftkings,player_assists_over_under,grayson allen,False,0.5,-125,2023-04-16T23:15:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,fanduel,player_assists_over_under,grayson allen,False,1.5,-205,2023-04-16T23:45:02,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,draftkings,player_assists_over_under,grayson allen,False,3.5,-310,2023-04-17T00:00:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,caesars,player_assists_over_under,grayson allen,True,1.5,-101,2023-04-15T17:00:02,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,caesars,player_assists_over_under,grayson allen,False,1.5,-135,2023-04-15T17:00:02,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,betmgm,player_assists_over_under,grayson allen,True,1.5,100,2023-04-15T17:00:02,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,betmgm,player_assists_over_under,grayson allen,False,1.5,-130,2023-04-15T17:00:02,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,fanduel,player_blocks_over_under,grayson allen,True,0.5,1000,2023-04-16T23:45:02,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,fanduel,player_blocks_over_under,grayson allen,False,0.5,-7000,2023-04-17T00:00:01,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,draftkings,player_assists_over_under,grayson allen,False,1.5,-190,2023-04-16T23:45:02,Milwaukee Bucks,Miami Heat
+2023-04-16,d465dd20f839778144825a9f15d801b6,draftkings,player_blocks_over_under,grayson allen,True,0.5,380,2023-04-15T17:00:02,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,barstool,player_assists_over_under,grayson allen,True,2.5,125,2023-04-20T01:00:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,fanduel,player_blocks_over_under,grayson allen,True,0.5,1000,2023-04-20T02:30:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,fanduel,player_blocks_over_under,grayson allen,False,0.5,-10000,2023-04-20T03:00:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,draftkings,player_blocks_over_under,grayson allen,True,0.5,320,2023-04-19T23:45:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,draftkings,player_blocks_over_under,grayson allen,False,0.5,-425,2023-04-19T23:45:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,caesars,player_blocks_over_under,grayson allen,True,0.5,323,2023-04-18T00:00:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,fanduel,player_points_over_under,grayson allen,True,8.5,-122,2023-04-20T02:15:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,betmgm,player_blocks_over_under,grayson allen,True,0.5,300,2023-04-19T23:45:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,betmgm,player_blocks_over_under,grayson allen,False,0.5,-450,2023-04-19T23:45:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,fanduel,player_points_over_under,grayson allen,True,9.5,-120,2023-04-19T23:15:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,fanduel,player_points_over_under,grayson allen,True,10.5,-130,2023-04-19T23:45:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,barstool,player_assists_over_under,grayson allen,True,1.5,-265,2023-04-20T01:00:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,fanduel,player_points_over_under,grayson allen,True,11.5,-118,2023-04-20T01:45:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,caesars,player_blocks_over_under,grayson allen,False,0.5,-529,2023-04-18T00:00:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,betmgm,player_assists_over_under,grayson allen,False,2.5,-185,2023-04-19T23:45:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,betmgm,player_threes_over_under,grayson allen,False,2.5,-185,2023-04-19T23:45:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,betmgm,player_assists_over_under,grayson allen,True,2.5,135,2023-04-19T23:45:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,betmgm,player_assists_over_under,grayson allen,True,1.5,-150,2023-04-19T18:15:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,caesars,player_assists_over_under,grayson allen,False,1.5,104,2023-04-18T00:00:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,caesars,player_assists_over_under,grayson allen,True,1.5,-142,2023-04-18T00:00:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,draftkings,player_assists_over_under,grayson allen,False,2.5,-190,2023-04-19T23:45:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,draftkings,player_assists_over_under,grayson allen,False,1.5,-300,2023-04-20T03:00:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,draftkings,player_assists_over_under,grayson allen,False,0.5,105,2023-04-20T02:15:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,draftkings,player_assists_over_under,grayson allen,True,1.5,215,2023-04-20T03:00:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,draftkings,player_assists_over_under,grayson allen,True,0.5,-140,2023-04-20T02:15:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,fanduel,player_assists_over_under,grayson allen,False,1.5,-350,2023-04-20T03:00:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,fanduel,player_assists_over_under,grayson allen,False,0.5,106,2023-04-20T02:15:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,fanduel,player_assists_over_under,grayson allen,True,1.5,240,2023-04-20T03:00:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,fanduel,player_assists_over_under,grayson allen,True,0.5,-140,2023-04-20T02:15:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,fanduel,player_points_over_under,grayson allen,True,15.5,122,2023-04-20T03:00:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,betmgm,player_assists_over_under,grayson allen,False,1.5,110,2023-04-19T20:00:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,fanduel,player_points_over_under,grayson allen,False,8.5,-108,2023-04-20T02:15:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,fanduel,player_points_over_under,grayson allen,False,9.5,-102,2023-04-19T23:15:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,fanduel,player_points_over_under,grayson allen,False,10.5,106,2023-04-19T23:45:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,draftkings,player_steals_over_under,grayson allen,True,0.5,550,2023-04-20T02:45:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,fanduel,player_steals_over_under,grayson allen,False,0.5,-1400,2023-04-20T03:00:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,fanduel,player_steals_over_under,grayson allen,True,0.5,630,2023-04-20T03:00:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,barstool,player_threes_over_under,grayson allen,True,2.5,123,2023-04-20T01:00:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,barstool,player_rebounds_over_under,grayson allen,True,2.5,-220,2023-04-20T01:00:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,betmgm,player_rebounds_over_under,grayson allen,False,3.5,-140,2023-04-19T23:45:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,betmgm,player_rebounds_over_under,grayson allen,False,2.5,135,2023-04-19T18:15:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,betmgm,player_rebounds_over_under,grayson allen,True,3.5,105,2023-04-19T23:45:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,betmgm,player_rebounds_over_under,grayson allen,True,2.5,-185,2023-04-19T18:15:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,caesars,player_rebounds_over_under,grayson allen,False,2.5,-104,2023-04-18T00:00:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,caesars,player_rebounds_over_under,grayson allen,True,2.5,-131,2023-04-18T00:00:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,draftkings,player_rebounds_over_under,grayson allen,False,3.5,-135,2023-04-19T23:45:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,draftkings,player_rebounds_over_under,grayson allen,False,2.5,-165,2023-04-20T03:00:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,draftkings,player_rebounds_over_under,grayson allen,False,1.5,-165,2023-04-20T02:45:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,draftkings,player_rebounds_over_under,grayson allen,False,0.5,-135,2023-04-20T02:30:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,draftkings,player_steals_over_under,grayson allen,False,0.5,-1100,2023-04-20T02:45:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,caesars,player_steals_over_under,grayson allen,True,0.5,-142,2023-04-18T00:00:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,caesars,player_steals_over_under,grayson allen,False,0.5,104,2023-04-18T00:00:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,betmgm,player_steals_over_under,grayson allen,True,0.5,-155,2023-04-19T23:45:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,betmgm,player_threes_over_under,grayson allen,True,2.5,135,2023-04-19T23:45:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,caesars,player_threes_over_under,grayson allen,False,2.5,-199,2023-04-18T00:00:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,caesars,player_threes_over_under,grayson allen,True,2.5,143,2023-04-18T00:00:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,draftkings,player_threes_over_under,grayson allen,False,4.5,-290,2023-04-20T02:45:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,draftkings,player_threes_over_under,grayson allen,False,2.5,-160,2023-04-20T01:45:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,draftkings,player_threes_over_under,grayson allen,False,1.5,105,2023-04-20T02:15:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,draftkings,player_threes_over_under,grayson allen,True,4.5,205,2023-04-20T02:45:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,draftkings,player_rebounds_over_under,grayson allen,True,3.5,105,2023-04-19T23:45:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,draftkings,player_threes_over_under,grayson allen,True,2.5,120,2023-04-20T01:45:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,fanduel,player_threes_over_under,grayson allen,False,4.5,-350,2023-04-20T03:00:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,fanduel,player_threes_over_under,grayson allen,False,2.5,-166,2023-04-20T01:45:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,fanduel,player_threes_over_under,grayson allen,False,1.5,108,2023-04-20T02:15:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,fanduel,player_threes_over_under,grayson allen,True,4.5,240,2023-04-20T03:00:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,fanduel,player_threes_over_under,grayson allen,True,2.5,126,2023-04-20T01:45:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,fanduel,player_threes_over_under,grayson allen,True,1.5,-144,2023-04-20T02:15:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,betmgm,player_steals_over_under,grayson allen,False,0.5,115,2023-04-19T23:45:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,draftkings,player_threes_over_under,grayson allen,True,1.5,-140,2023-04-20T02:15:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,barstool,player_threes_over_under,grayson allen,True,1.5,-275,2023-04-20T01:00:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,draftkings,player_rebounds_over_under,grayson allen,True,2.5,125,2023-04-20T03:00:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,draftkings,player_rebounds_over_under,grayson allen,True,0.5,100,2023-04-20T02:30:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,betmgm,player_points_over_under,grayson allen,True,10.5,-120,2023-04-19T13:30:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,caesars,player_points_over_under,grayson allen,False,9.5,-115,2023-04-18T00:00:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,caesars,player_points_over_under,grayson allen,True,9.5,-119,2023-04-18T00:00:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,draftkings,player_points_over_under,grayson allen,False,15.5,-125,2023-04-20T03:00:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,draftkings,player_points_over_under,grayson allen,False,11.5,-110,2023-04-20T01:45:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,draftkings,player_points_over_under,grayson allen,False,10.5,115,2023-04-20T01:30:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,draftkings,player_points_over_under,grayson allen,False,9.5,100,2023-04-19T18:15:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,draftkings,player_points_over_under,grayson allen,False,8.5,-110,2023-04-20T02:15:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,draftkings,player_points_over_under,grayson allen,True,15.5,-105,2023-04-20T03:00:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,draftkings,player_points_over_under,grayson allen,True,11.5,-120,2023-04-20T01:45:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,draftkings,player_points_over_under,grayson allen,True,10.5,-155,2023-04-20T01:30:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,draftkings,player_points_over_under,grayson allen,True,9.5,-130,2023-04-19T18:15:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,draftkings,player_points_over_under,grayson allen,True,8.5,-120,2023-04-20T02:15:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,fanduel,player_points_over_under,grayson allen,False,15.5,-162,2023-04-20T03:00:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,fanduel,player_points_over_under,grayson allen,False,11.5,-112,2023-04-20T01:45:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,betmgm,player_points_over_under,grayson allen,True,11.5,-105,2023-04-19T23:45:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,betmgm,player_points_over_under,grayson allen,True,9.5,-125,2023-04-19T23:00:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,betmgm,player_points_over_under,grayson allen,False,10.5,-110,2023-04-19T13:30:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,betmgm,player_points_over_under,grayson allen,False,11.5,-130,2023-04-19T23:45:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,fanduel,player_rebounds_over_under,grayson allen,False,3.5,-140,2023-04-20T01:00:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,fanduel,player_rebounds_over_under,grayson allen,False,2.5,-210,2023-04-20T01:45:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,fanduel,player_rebounds_over_under,grayson allen,False,1.5,-205,2023-04-20T03:00:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,fanduel,player_rebounds_over_under,grayson allen,False,0.5,-132,2023-04-20T02:30:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,fanduel,player_rebounds_over_under,grayson allen,True,3.5,114,2023-04-20T01:00:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,fanduel,player_rebounds_over_under,grayson allen,True,2.5,154,2023-04-20T01:45:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,fanduel,player_rebounds_over_under,grayson allen,True,1.5,152,2023-04-20T03:00:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,draftkings,player_rebounds_over_under,grayson allen,True,1.5,125,2023-04-20T02:45:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,fanduel,player_rebounds_over_under,grayson allen,True,0.5,100,2023-04-20T02:30:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,barstool,player_points_over_under,grayson allen,True,12.5,130,2023-04-20T01:00:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,barstool,player_points_over_under,grayson allen,True,11.5,100,2023-04-20T01:00:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,barstool,player_points_over_under,grayson allen,True,10.5,-141,2023-04-20T01:00:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,barstool,player_points_over_under,grayson allen,True,9.5,-205,2023-04-20T01:00:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,barstool,player_points_over_under,grayson allen,True,8.5,-305,2023-04-20T00:45:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,barstool,player_points_over_under,grayson allen,True,7.5,-345,2023-04-19T22:00:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,betmgm,player_points_over_under,grayson allen,False,9.5,-105,2023-04-19T18:15:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,barstool,player_points_over_under,grayson allen,True,13.5,175,2023-04-20T01:00:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,barstool,player_rebounds_over_under,grayson allen,True,3.5,123,2023-04-20T01:00:01,Milwaukee Bucks,Miami Heat
+2023-04-19,4f63b96152e37200168cf20285fd4aa7,draftkings,player_assists_over_under,grayson allen,True,2.5,155,2023-04-19T23:45:01,Milwaukee Bucks,Miami Heat
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,barstool,player_rebounds_over_under,grayson allen,True,3.5,128,2023-04-22T23:30:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,fanduel,player_points_over_under,grayson allen,False,9.5,-106,2023-04-22T21:45:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,fanduel,player_points_over_under,grayson allen,False,11.5,-136,2023-04-23T00:45:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,fanduel,player_points_over_under,grayson allen,False,12.5,-108,2023-04-23T00:30:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,fanduel,player_points_over_under,grayson allen,False,14.5,-192,2023-04-23T01:30:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,fanduel,player_points_over_under,grayson allen,False,15.5,-138,2023-04-23T01:45:02,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,draftkings,player_points_over_under,grayson allen,True,8.5,-110,2023-04-23T00:15:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,draftkings,player_points_over_under,grayson allen,True,9.5,-110,2023-04-20T22:30:02,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,draftkings,player_points_over_under,grayson allen,True,10.5,-125,2023-04-22T23:45:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,draftkings,player_points_over_under,grayson allen,True,11.5,100,2023-04-23T01:00:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,draftkings,player_points_over_under,grayson allen,True,12.5,-115,2023-04-23T00:30:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,draftkings,player_points_over_under,grayson allen,True,14.5,135,2023-04-23T01:30:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,draftkings,player_points_over_under,grayson allen,True,15.5,105,2023-04-23T01:45:02,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,draftkings,player_points_over_under,grayson allen,False,8.5,-120,2023-04-23T00:15:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,draftkings,player_points_over_under,grayson allen,False,9.5,-120,2023-04-20T22:30:02,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,draftkings,player_points_over_under,grayson allen,False,10.5,-110,2023-04-22T23:45:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,draftkings,player_points_over_under,grayson allen,False,11.5,-130,2023-04-23T01:00:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,draftkings,player_points_over_under,grayson allen,False,12.5,-115,2023-04-23T00:30:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,draftkings,player_points_over_under,grayson allen,False,14.5,-185,2023-04-23T01:30:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,draftkings,player_points_over_under,grayson allen,False,15.5,-135,2023-04-23T01:45:02,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,fanduel,player_points_over_under,grayson allen,False,8.5,-128,2023-04-23T00:15:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,betmgm,player_points_over_under,grayson allen,True,10.5,-130,2023-04-22T22:15:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,fanduel,player_points_over_under,grayson allen,True,14.5,142,2023-04-23T01:30:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,fanduel,player_points_over_under,grayson allen,True,11.5,102,2023-04-23T00:45:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,barstool,player_rebounds_over_under,grayson allen,True,2.5,-150,2023-04-22T22:45:02,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,fanduel,player_assists_over_under,grayson allen,True,2.5,265,2023-04-23T01:45:02,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,fanduel,player_assists_over_under,grayson allen,False,2.5,-390,2023-04-23T01:45:02,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,draftkings,player_assists_over_under,grayson allen,True,1.5,-175,2023-04-22T23:45:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,draftkings,player_assists_over_under,grayson allen,True,2.5,245,2023-04-23T01:45:02,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,draftkings,player_assists_over_under,grayson allen,True,3.5,165,2023-04-23T00:30:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,draftkings,player_assists_over_under,grayson allen,False,1.5,130,2023-04-22T23:45:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,draftkings,player_assists_over_under,grayson allen,False,2.5,-350,2023-04-23T01:45:02,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,draftkings,player_assists_over_under,grayson allen,False,3.5,-225,2023-04-23T00:30:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,betmgm,player_assists_over_under,grayson allen,True,1.5,-175,2023-04-22T22:15:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,betmgm,player_assists_over_under,grayson allen,False,1.5,130,2023-04-22T22:15:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,fanduel,player_blocks_over_under,grayson allen,True,0.5,1000,2023-04-23T01:30:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,fanduel,player_blocks_over_under,grayson allen,False,0.5,-10000,2023-04-23T01:45:02,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,draftkings,player_blocks_over_under,grayson allen,True,0.5,350,2023-04-20T22:30:02,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,draftkings,player_blocks_over_under,grayson allen,False,0.5,-475,2023-04-20T22:30:02,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,betmgm,player_blocks_over_under,grayson allen,True,0.5,333,2023-04-22T04:15:02,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,betmgm,player_blocks_over_under,grayson allen,False,0.5,-550,2023-04-22T04:15:02,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,fanduel,player_points_over_under,grayson allen,True,8.5,-104,2023-04-23T00:15:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,fanduel,player_points_over_under,grayson allen,True,9.5,-114,2023-04-22T21:45:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,fanduel,player_points_over_under,grayson allen,True,12.5,-122,2023-04-23T00:30:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,betmgm,player_points_over_under,grayson allen,True,9.5,-110,2023-04-22T04:15:02,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,fanduel,player_points_over_under,grayson allen,True,15.5,104,2023-04-23T01:45:02,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,betmgm,player_points_over_under,grayson allen,False,9.5,-120,2023-04-22T04:15:02,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,draftkings,player_threes_over_under,grayson allen,False,2.5,185,2023-04-23T01:00:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,draftkings,player_threes_over_under,grayson allen,False,1.5,100,2023-04-23T00:15:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,draftkings,player_threes_over_under,grayson allen,True,4.5,220,2023-04-23T01:45:02,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,draftkings,player_threes_over_under,grayson allen,True,3.5,-105,2023-04-23T01:15:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,draftkings,player_threes_over_under,grayson allen,True,2.5,-255,2023-04-23T01:00:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,draftkings,player_threes_over_under,grayson allen,True,1.5,-130,2023-04-23T00:15:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,fanduel,player_threes_over_under,grayson allen,False,4.5,-330,2023-04-23T01:45:02,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,fanduel,player_threes_over_under,grayson allen,False,3.5,-128,2023-04-23T01:30:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,fanduel,player_threes_over_under,grayson allen,False,2.5,188,2023-04-23T00:45:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,fanduel,player_threes_over_under,grayson allen,True,4.5,230,2023-04-23T01:45:02,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,fanduel,player_threes_over_under,grayson allen,True,3.5,-104,2023-04-23T01:30:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,fanduel,player_threes_over_under,grayson allen,True,2.5,-260,2023-04-23T00:45:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,fanduel,player_threes_over_under,grayson allen,True,1.5,-130,2023-04-23T00:15:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,betmgm,player_steals_over_under,grayson allen,False,0.5,105,2023-04-22T22:15:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,betmgm,player_steals_over_under,grayson allen,True,0.5,-140,2023-04-22T22:15:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,draftkings,player_steals_over_under,grayson allen,False,0.5,-1400,2023-04-23T01:45:02,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,draftkings,player_steals_over_under,grayson allen,True,0.5,650,2023-04-23T01:45:02,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,fanduel,player_steals_over_under,grayson allen,False,0.5,-1450,2023-04-23T01:45:02,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,fanduel,player_steals_over_under,grayson allen,True,0.5,640,2023-04-23T01:45:02,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,draftkings,player_threes_over_under,grayson allen,False,3.5,-125,2023-04-23T01:15:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,draftkings,player_threes_over_under,grayson allen,False,4.5,-310,2023-04-23T01:45:02,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,fanduel,player_threes_over_under,grayson allen,False,1.5,-102,2023-04-23T00:15:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,betmgm,player_threes_over_under,grayson allen,False,2.5,-185,2023-04-22T22:15:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,barstool,player_points_over_under,grayson allen,True,9.5,-108,2023-04-22T20:30:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,betmgm,player_threes_over_under,grayson allen,True,2.5,135,2023-04-22T22:15:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,barstool,player_points_over_under,grayson allen,True,10.5,-113,2023-04-22T16:00:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,barstool,player_points_over_under,grayson allen,True,11.5,-103,2023-04-22T23:30:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,fanduel,player_rebounds_over_under,grayson allen,True,2.5,-158,2023-04-22T22:15:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,fanduel,player_rebounds_over_under,grayson allen,True,3.5,158,2023-04-23T01:45:02,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,fanduel,player_rebounds_over_under,grayson allen,True,4.5,100,2023-04-23T00:45:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,fanduel,player_rebounds_over_under,grayson allen,False,2.5,128,2023-04-22T22:15:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,fanduel,player_rebounds_over_under,grayson allen,False,3.5,-215,2023-04-23T01:45:02,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,fanduel,player_rebounds_over_under,grayson allen,False,4.5,-132,2023-04-23T00:45:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,betmgm,player_points_over_under,grayson allen,False,10.5,100,2023-04-22T22:15:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,barstool,player_threes_over_under,grayson allen,True,2.5,123,2023-04-22T23:15:02,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,draftkings,player_rebounds_over_under,grayson allen,True,3.5,155,2023-04-23T01:45:02,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,draftkings,player_rebounds_over_under,grayson allen,True,4.5,100,2023-04-23T00:45:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,draftkings,player_rebounds_over_under,grayson allen,False,2.5,135,2023-04-22T23:45:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,draftkings,player_rebounds_over_under,grayson allen,False,3.5,-205,2023-04-23T01:45:02,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,draftkings,player_rebounds_over_under,grayson allen,False,4.5,-130,2023-04-23T00:45:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,betmgm,player_rebounds_over_under,grayson allen,True,2.5,-185,2023-04-22T22:15:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,betmgm,player_rebounds_over_under,grayson allen,False,2.5,135,2023-04-22T22:15:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,barstool,player_threes_over_under,grayson allen,True,1.5,-150,2023-04-22T15:15:01,Miami Heat,Milwaukee Bucks
+2023-04-22,e34bf4d9fed158be10fe5ef0ce5ed894,draftkings,player_rebounds_over_under,grayson allen,True,2.5,-185,2023-04-22T23:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,barstool,player_points_over_under,grayson allen,True,12.5,175,2023-04-24T22:00:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,barstool,player_points_over_under,grayson allen,True,13.5,210,2023-04-24T16:15:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,barstool,player_points_over_under,grayson allen,True,14.5,170,2023-04-24T13:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,fanduel,player_rebounds_over_under,grayson allen,True,3.5,102,2023-04-24T12:15:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,fanduel,player_rebounds_over_under,grayson allen,True,0.5,350,2023-04-25T01:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,fanduel,player_rebounds_over_under,grayson allen,True,1.5,118,2023-04-25T00:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,barstool,player_points_over_under,grayson allen,True,11.5,175,2023-04-24T23:30:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,fanduel,player_rebounds_over_under,grayson allen,True,2.5,140,2023-04-25T00:00:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,barstool,player_points_over_under,grayson allen,True,15.5,205,2023-04-24T13:15:02,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,barstool,player_points_over_under,grayson allen,True,10.5,123,2023-04-24T23:15:02,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,betmgm,player_points_over_under,grayson allen,False,11.5,-135,2023-04-24T13:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,barstool,player_points_over_under,grayson allen,True,8.5,-150,2023-04-24T23:15:02,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,barstool,player_points_over_under,grayson allen,True,7.5,-245,2023-04-24T23:00:02,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,barstool,player_points_over_under,grayson allen,True,6.5,-315,2023-04-24T22:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,betmgm,player_points_over_under,grayson allen,False,9.5,-105,2023-04-24T22:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,betmgm,player_points_over_under,grayson allen,False,10.5,-135,2023-04-24T15:15:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,betmgm,player_points_over_under,grayson allen,True,9.5,-130,2023-04-24T22:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,betmgm,player_points_over_under,grayson allen,True,11.5,100,2023-04-24T13:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,betmgm,player_points_over_under,grayson allen,True,10.5,100,2023-04-24T15:15:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,draftkings,player_points_over_under,grayson allen,False,12.5,-120,2023-04-25T00:00:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,barstool,player_points_over_under,grayson allen,True,9.5,100,2023-04-24T23:30:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,draftkings,player_points_over_under,grayson allen,False,13.5,-130,2023-04-24T23:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,betmgm,player_steals_over_under,grayson allen,True,0.5,-120,2023-04-24T13:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,fanduel,player_rebounds_over_under,grayson allen,False,2.5,-188,2023-04-25T00:00:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,fanduel,player_threes_over_under,grayson allen,True,2.5,450,2023-04-25T01:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,fanduel,player_threes_over_under,grayson allen,True,1.5,-102,2023-04-25T01:15:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,draftkings,player_points_over_under,grayson allen,False,11.5,-110,2023-04-24T13:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,draftkings,player_steals_over_under,grayson allen,False,2.5,-800,2023-04-25T01:30:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,draftkings,player_steals_over_under,grayson allen,False,0.5,-105,2023-04-24T23:00:02,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,draftkings,player_steals_over_under,grayson allen,True,2.5,450,2023-04-25T01:30:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,draftkings,player_steals_over_under,grayson allen,True,0.5,-125,2023-04-24T23:00:02,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,fanduel,player_steals_over_under,grayson allen,False,2.5,-5000,2023-04-25T01:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,fanduel,player_steals_over_under,grayson allen,True,2.5,1000,2023-04-25T01:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,barstool,player_rebounds_over_under,grayson allen,True,3.5,114,2023-04-24T13:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,fanduel,player_rebounds_over_under,grayson allen,False,1.5,-158,2023-04-25T00:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,barstool,player_rebounds_over_under,grayson allen,True,2.5,-129,2023-04-24T23:00:02,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,betmgm,player_rebounds_over_under,grayson allen,True,2.5,-150,2023-04-24T15:15:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,draftkings,player_rebounds_over_under,grayson allen,False,2.5,-180,2023-04-25T00:00:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,draftkings,player_rebounds_over_under,grayson allen,False,1.5,-150,2023-04-25T00:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,draftkings,player_rebounds_over_under,grayson allen,False,0.5,-1000,2023-04-25T01:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,draftkings,player_rebounds_over_under,grayson allen,True,2.5,135,2023-04-25T00:00:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,draftkings,player_rebounds_over_under,grayson allen,True,1.5,115,2023-04-25T00:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,draftkings,player_rebounds_over_under,grayson allen,True,0.5,500,2023-04-25T01:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,pinnacle,player_rebounds_over_under,grayson allen,False,2.5,115,2023-04-24T23:35:02,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,pinnacle,player_rebounds_over_under,grayson allen,True,2.5,-154,2023-04-24T23:35:02,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,fanduel,player_rebounds_over_under,grayson allen,False,3.5,-130,2023-04-24T12:15:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,betmgm,player_rebounds_over_under,grayson allen,False,2.5,115,2023-04-24T15:15:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,draftkings,player_points_over_under,grayson allen,False,10.5,-175,2023-04-25T01:30:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,fanduel,player_points_over_under,grayson allen,False,8.5,-106,2023-04-25T01:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,draftkings,player_points_over_under,grayson allen,False,8.5,-175,2023-04-25T01:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,betmgm,player_blocks_over_under,grayson allen,False,0.5,-650,2023-04-24T13:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,betmgm,player_blocks_over_under,grayson allen,True,0.5,400,2023-04-24T13:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,draftkings,player_blocks_over_under,grayson allen,False,0.5,-585,2023-04-24T13:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,draftkings,player_blocks_over_under,grayson allen,True,0.5,420,2023-04-24T13:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,fanduel,player_blocks_over_under,grayson allen,False,0.5,-100000,2023-04-25T01:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,fanduel,player_blocks_over_under,grayson allen,True,0.5,1000,2023-04-25T01:15:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,barstool,player_assists_over_under,grayson allen,True,2.5,160,2023-04-24T15:15:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,barstool,player_assists_over_under,grayson allen,True,1.5,-205,2023-04-24T15:15:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,betmgm,player_assists_over_under,grayson allen,False,1.5,-110,2023-04-24T22:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,betmgm,player_assists_over_under,grayson allen,True,1.5,-125,2023-04-24T22:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,fanduel,player_points_over_under,grayson allen,True,7.5,-125,2023-04-25T01:15:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,draftkings,player_assists_over_under,grayson allen,False,1.5,-185,2023-04-25T00:00:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,draftkings,player_assists_over_under,grayson allen,True,1.5,140,2023-04-25T00:00:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,draftkings,player_assists_over_under,grayson allen,True,0.5,800,2023-04-25T01:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,pinnacle,player_assists_over_under,grayson allen,False,1.5,-102,2023-04-24T23:35:02,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,pinnacle,player_assists_over_under,grayson allen,True,1.5,-129,2023-04-24T23:35:02,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,fanduel,player_assists_over_under,grayson allen,False,2.5,-180,2023-04-24T14:30:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,fanduel,player_assists_over_under,grayson allen,False,1.5,-194,2023-04-25T00:00:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,fanduel,player_assists_over_under,grayson allen,False,0.5,-1200,2023-04-25T01:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,fanduel,player_assists_over_under,grayson allen,True,2.5,152,2023-04-24T15:30:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,fanduel,player_assists_over_under,grayson allen,True,1.5,144,2023-04-25T00:00:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,fanduel,player_assists_over_under,grayson allen,True,0.5,580,2023-04-25T01:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,draftkings,player_assists_over_under,grayson allen,False,0.5,-2500,2023-04-25T01:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,draftkings,player_points_over_under,grayson allen,False,9.5,105,2023-04-25T00:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,fanduel,player_points_over_under,grayson allen,True,8.5,-125,2023-04-25T01:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,fanduel,player_points_over_under,grayson allen,True,10.5,118,2023-04-25T01:30:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,draftkings,player_points_over_under,grayson allen,False,7.5,-110,2023-04-25T01:15:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,draftkings,player_points_over_under,grayson allen,True,13.5,-105,2023-04-24T23:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,draftkings,player_points_over_under,grayson allen,True,12.5,-110,2023-04-25T00:00:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,draftkings,player_points_over_under,grayson allen,True,11.5,-120,2023-04-24T13:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,draftkings,player_points_over_under,grayson allen,True,10.5,130,2023-04-25T01:30:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,draftkings,player_points_over_under,grayson allen,True,9.5,-140,2023-04-25T00:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,draftkings,player_points_over_under,grayson allen,True,8.5,130,2023-04-25T01:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,draftkings,player_points_over_under,grayson allen,True,7.5,-125,2023-04-25T01:15:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,pinnacle,player_points_over_under,grayson allen,False,11.5,-144,2023-04-24T13:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,pinnacle,player_points_over_under,grayson allen,False,10.5,-126,2023-04-24T16:00:02,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,fanduel,player_points_over_under,grayson allen,True,9.5,-138,2023-04-25T00:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,pinnacle,player_points_over_under,grayson allen,False,9.5,-120,2023-04-24T23:35:02,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,pinnacle,player_points_over_under,grayson allen,True,10.5,-104,2023-04-24T16:00:02,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,pinnacle,player_points_over_under,grayson allen,True,9.5,-109,2023-04-24T23:35:02,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,fanduel,player_points_over_under,grayson allen,False,12.5,-125,2023-04-25T00:00:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,fanduel,player_points_over_under,grayson allen,False,11.5,-128,2023-04-24T14:30:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,fanduel,player_points_over_under,grayson allen,False,10.5,-158,2023-04-25T01:30:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,fanduel,player_points_over_under,grayson allen,False,9.5,104,2023-04-25T00:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,fanduel,player_threes_over_under,grayson allen,False,1.5,-130,2023-04-25T01:15:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,fanduel,player_points_over_under,grayson allen,False,7.5,-106,2023-04-25T01:15:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,fanduel,player_points_over_under,grayson allen,True,12.5,-106,2023-04-25T00:00:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,fanduel,player_points_over_under,grayson allen,True,11.5,100,2023-04-24T14:30:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,pinnacle,player_points_over_under,grayson allen,True,11.5,109,2023-04-24T13:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,fanduel,player_threes_over_under,grayson allen,False,2.5,-800,2023-04-25T01:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,fanduel,player_rebounds_over_under,grayson allen,False,0.5,-550,2023-04-25T01:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,pinnacle,player_threes_over_under,grayson allen,False,2.5,-182,2023-04-24T23:35:02,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,pinnacle,player_threes_over_under,grayson allen,True,2.5,133,2023-04-24T23:35:02,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,barstool,player_threes_over_under,grayson allen,True,2.5,110,2023-04-24T22:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,barstool,player_threes_over_under,grayson allen,True,1.5,-305,2023-04-24T23:00:02,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,betmgm,player_threes_over_under,grayson allen,False,2.5,-175,2023-04-24T22:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,betmgm,player_steals_over_under,grayson allen,False,0.5,-115,2023-04-24T13:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,draftkings,player_threes_over_under,grayson allen,False,2.5,-1400,2023-04-25T01:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,draftkings,player_threes_over_under,grayson allen,False,1.5,-130,2023-04-25T01:15:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,draftkings,player_threes_over_under,grayson allen,True,2.5,650,2023-04-25T01:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,betmgm,player_threes_over_under,grayson allen,True,2.5,130,2023-04-24T22:45:01,Miami Heat,Milwaukee Bucks
+2023-04-24,a67920528c9a62f2950307e5cf2501f7,draftkings,player_threes_over_under,grayson allen,True,1.5,100,2023-04-25T01:15:01,Miami Heat,Milwaukee Bucks
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,draftkings,player_rebounds_over_under,grayson allen,False,2.5,-110,2023-04-25T15:30:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,draftkings,player_rebounds_over_under,grayson allen,True,4.5,900,2023-04-27T04:00:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,draftkings,player_rebounds_over_under,grayson allen,True,3.5,-105,2023-04-27T02:30:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,draftkings,player_rebounds_over_under,grayson allen,True,2.5,-120,2023-04-25T15:30:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,pinnacle,player_rebounds_over_under,grayson allen,False,5.5,-166,2023-04-25T14:54:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,pinnacle,player_rebounds_over_under,grayson allen,False,2.5,-112,2023-04-25T15:45:02,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,pinnacle,player_rebounds_over_under,grayson allen,True,5.5,123,2023-04-25T14:54:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,pinnacle,player_rebounds_over_under,grayson allen,True,2.5,-118,2023-04-25T15:45:02,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,fanduel,player_rebounds_over_under,grayson allen,False,4.5,-3500,2023-04-27T04:00:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,fanduel,player_rebounds_over_under,grayson allen,True,4.5,920,2023-04-27T04:00:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,fanduel,player_rebounds_over_under,grayson allen,False,2.5,106,2023-04-27T01:30:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,draftkings,player_rebounds_over_under,grayson allen,False,3.5,-130,2023-04-27T02:30:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,fanduel,player_rebounds_over_under,grayson allen,True,3.5,102,2023-04-27T02:30:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,fanduel,player_rebounds_over_under,grayson allen,True,2.5,-130,2023-04-27T01:30:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,barstool,player_points_over_under,grayson allen,True,12.5,170,2023-04-27T01:30:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,barstool,player_points_over_under,grayson allen,True,11.5,130,2023-04-27T01:30:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,barstool,player_points_over_under,grayson allen,True,10.5,-106,2023-04-27T01:30:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,barstool,player_points_over_under,grayson allen,True,9.5,-141,2023-04-27T01:30:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,barstool,player_points_over_under,grayson allen,True,8.5,-210,2023-04-27T01:30:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,fanduel,player_rebounds_over_under,grayson allen,False,3.5,-136,2023-04-27T02:30:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,draftkings,player_rebounds_over_under,grayson allen,False,4.5,-3000,2023-04-27T04:00:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,barstool,player_rebounds_over_under,grayson allen,True,2.5,-130,2023-04-27T01:30:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,betmgm,player_rebounds_over_under,grayson allen,False,2.5,-110,2023-04-26T02:45:02,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,barstool,player_threes_over_under,grayson allen,True,2.5,128,2023-04-27T01:30:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,betmgm,player_threes_over_under,grayson allen,False,2.5,-150,2023-04-26T02:45:02,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,betmgm,player_threes_over_under,grayson allen,True,2.5,110,2023-04-26T02:45:02,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,draftkings,player_threes_over_under,grayson allen,False,2.5,-4000,2023-04-27T04:00:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,draftkings,player_threes_over_under,grayson allen,False,1.5,115,2023-04-27T03:15:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,draftkings,player_threes_over_under,grayson allen,True,2.5,1000,2023-04-27T04:00:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,draftkings,player_threes_over_under,grayson allen,True,1.5,-155,2023-04-27T03:15:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,pinnacle,player_threes_over_under,grayson allen,False,2.5,-165,2023-04-26T21:45:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,pinnacle,player_threes_over_under,grayson allen,True,2.5,123,2023-04-26T21:45:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,betmgm,player_rebounds_over_under,grayson allen,True,2.5,-120,2023-04-26T02:45:02,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,fanduel,player_threes_over_under,grayson allen,False,2.5,-4000,2023-04-27T04:00:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,fanduel,player_threes_over_under,grayson allen,True,2.5,1000,2023-04-27T04:00:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,fanduel,player_threes_over_under,grayson allen,True,1.5,-158,2023-04-27T03:15:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,betmgm,player_steals_over_under,grayson allen,False,0.5,110,2023-04-26T02:45:02,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,betmgm,player_steals_over_under,grayson allen,True,0.5,-145,2023-04-26T02:45:02,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,draftkings,player_steals_over_under,grayson allen,False,0.5,-750,2023-04-27T03:45:02,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,draftkings,player_steals_over_under,grayson allen,True,0.5,450,2023-04-27T03:45:02,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,fanduel,player_steals_over_under,grayson allen,False,0.5,-50000,2023-04-27T04:00:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,fanduel,player_steals_over_under,grayson allen,True,0.5,1000,2023-04-27T04:00:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,barstool,player_points_over_under,grayson allen,True,7.5,-360,2023-04-27T01:30:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,fanduel,player_threes_over_under,grayson allen,False,1.5,118,2023-04-27T03:15:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,betmgm,player_points_over_under,grayson allen,False,10.5,-130,2023-04-26T02:45:02,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,barstool,player_threes_over_under,grayson allen,True,1.5,-250,2023-04-26T22:45:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,draftkings,player_points_over_under,grayson allen,False,11.5,100,2023-04-27T01:45:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,fanduel,player_blocks_over_under,grayson allen,False,0.5,-100000,2023-04-27T04:00:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,fanduel,player_blocks_over_under,grayson allen,True,0.5,1000,2023-04-27T03:15:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,betmgm,player_assists_over_under,grayson allen,False,1.5,-110,2023-04-26T02:45:02,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,betmgm,player_assists_over_under,grayson allen,True,1.5,-120,2023-04-26T02:45:02,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,draftkings,player_assists_over_under,grayson allen,False,3.5,-295,2023-04-27T03:45:02,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,draftkings,player_assists_over_under,grayson allen,False,2.5,120,2023-04-27T03:00:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,draftkings,player_assists_over_under,grayson allen,False,1.5,-245,2023-04-27T02:15:02,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,draftkings,player_assists_over_under,grayson allen,True,3.5,210,2023-04-27T03:45:02,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,draftkings,player_assists_over_under,grayson allen,True,2.5,-160,2023-04-27T03:00:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,draftkings,player_blocks_over_under,grayson allen,True,0.5,470,2023-04-25T22:45:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,draftkings,player_assists_over_under,grayson allen,True,1.5,180,2023-04-27T02:15:02,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,pinnacle,player_assists_over_under,grayson allen,False,1.5,-112,2023-04-25T15:45:02,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,pinnacle,player_assists_over_under,grayson allen,True,3.5,135,2023-04-25T14:54:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,pinnacle,player_assists_over_under,grayson allen,True,1.5,-118,2023-04-25T15:45:02,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,fanduel,player_assists_over_under,grayson allen,False,3.5,-7000,2023-04-27T04:00:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,fanduel,player_assists_over_under,grayson allen,False,2.5,120,2023-04-27T03:00:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,fanduel,player_assists_over_under,grayson allen,False,1.5,-245,2023-04-27T02:15:02,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,fanduel,player_assists_over_under,grayson allen,True,3.5,1000,2023-04-27T04:00:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,fanduel,player_assists_over_under,grayson allen,True,2.5,-160,2023-04-27T03:00:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,betmgm,player_points_over_under,grayson allen,True,10.5,100,2023-04-26T02:45:02,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,pinnacle,player_assists_over_under,grayson allen,False,3.5,-185,2023-04-25T14:54:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,draftkings,player_blocks_over_under,grayson allen,False,0.5,-690,2023-04-25T22:45:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,fanduel,player_assists_over_under,grayson allen,True,1.5,178,2023-04-27T02:15:02,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,betmgm,player_blocks_over_under,grayson allen,False,0.5,-750,2023-04-26T02:45:02,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,betmgm,player_blocks_over_under,grayson allen,True,0.5,450,2023-04-26T02:45:02,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,draftkings,player_points_over_under,grayson allen,False,10.5,-105,2023-04-27T03:30:02,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,draftkings,player_points_over_under,grayson allen,False,9.5,135,2023-04-27T03:45:02,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,draftkings,player_points_over_under,grayson allen,False,8.5,-425,2023-04-27T04:00:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,draftkings,player_points_over_under,grayson allen,False,7.5,-140,2023-04-27T03:15:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,draftkings,player_points_over_under,grayson allen,True,11.5,-135,2023-04-27T01:45:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,draftkings,player_points_over_under,grayson allen,True,10.5,-125,2023-04-27T03:30:02,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,draftkings,player_points_over_under,grayson allen,True,8.5,280,2023-04-27T04:00:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,draftkings,player_points_over_under,grayson allen,True,7.5,105,2023-04-27T03:15:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,pinnacle,player_points_over_under,grayson allen,False,10.5,-141,2023-04-27T01:00:02,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,draftkings,player_points_over_under,grayson allen,True,9.5,-185,2023-04-27T03:45:02,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,fanduel,player_points_over_under,grayson allen,False,11.5,102,2023-04-27T01:45:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,fanduel,player_points_over_under,grayson allen,True,7.5,102,2023-04-27T03:15:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,pinnacle,player_points_over_under,grayson allen,True,10.5,106,2023-04-27T01:00:02,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,fanduel,player_points_over_under,grayson allen,True,9.5,-188,2023-04-27T03:45:02,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,fanduel,player_points_over_under,grayson allen,True,10.5,-128,2023-04-27T03:30:02,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,fanduel,player_points_over_under,grayson allen,True,11.5,-136,2023-04-27T01:45:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,fanduel,player_points_over_under,grayson allen,True,8.5,280,2023-04-27T04:00:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,fanduel,player_points_over_under,grayson allen,False,8.5,-420,2023-04-27T04:00:01,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,fanduel,player_points_over_under,grayson allen,False,9.5,140,2023-04-27T03:45:02,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,fanduel,player_points_over_under,grayson allen,False,10.5,-104,2023-04-27T03:30:02,Milwaukee Bucks,Miami Heat
+2023-04-26,3c106414e87474b18b6e5c978b1123a7,fanduel,player_points_over_under,grayson allen,False,7.5,-136,2023-04-27T03:15:01,Milwaukee Bucks,Miami Heat
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,grayson allen,False,7.5,-128,2023-10-25T02:25:06,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,grayson allen,False,0.5,-1000,2023-10-25T04:40:06,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,grayson allen,False,1.5,106,2023-10-25T04:00:58,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,grayson allen,False,2.5,-162,2023-10-25T03:50:20,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,grayson allen,False,3.5,-150,2023-10-25T03:35:42,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,grayson allen,False,4.5,-106,2023-10-25T03:11:11,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,grayson allen,False,5.5,-142,2023-10-25T03:05:42,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,grayson allen,False,6.5,-138,2023-10-25T02:50:27,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,grayson allen,False,8.5,108,2023-10-24T23:46:20,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,grayson allen,True,1.5,-125,2023-10-25T03:55:08,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,grayson allen,False,10.5,-128,2023-10-25T00:45:35,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,pinnacle,player_points_over_under,grayson allen,True,9.5,111,2023-10-25T02:10:06,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,pinnacle,player_points_over_under,grayson allen,False,9.5,-146,2023-10-25T02:10:06,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,grayson allen,True,7.5,-205,2023-10-25T02:15:25,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,grayson allen,True,8.5,-140,2023-10-25T02:15:25,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,grayson allen,True,10.5,135,2023-10-25T02:15:25,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,grayson allen,True,11.5,185,2023-10-25T02:15:25,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,grayson allen,True,0.5,1200,2023-10-25T04:40:06,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,grayson allen,True,10.5,104,2023-10-25T00:45:35,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,grayson allen,True,2.5,-105,2023-10-25T03:50:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,grayson allen,False,9.5,-120,2023-10-25T02:15:31,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,grayson allen,True,9.5,-106,2023-10-25T02:15:31,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_blocks_over_under,grayson allen,True,0.5,425,2023-10-24T21:45:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,grayson allen,True,7.5,100,2023-10-25T02:25:06,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_assists_over_under,grayson allen,True,1.5,130,2023-10-25T02:15:25,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,grayson allen,True,3.5,125,2023-10-25T03:35:35,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_assists_over_under,grayson allen,True,2.5,750,2023-10-25T04:35:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_assists_over_under,grayson allen,False,1.5,-165,2023-10-25T02:15:25,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_assists_over_under,grayson allen,False,2.5,-2000,2023-10-25T04:35:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_assists_over_under,grayson allen,True,0.5,-290,2023-10-24T21:45:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_assists_over_under,grayson allen,True,1.5,150,2023-10-24T21:45:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_assists_over_under,grayson allen,True,2.5,400,2023-10-24T21:45:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_assists_over_under,grayson allen,False,0.5,200,2023-10-24T21:45:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_assists_over_under,grayson allen,False,1.5,-215,2023-10-24T21:45:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_assists_over_under,grayson allen,False,2.5,-800,2023-10-24T21:45:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_blocks_over_under,grayson allen,True,0.5,450,2023-10-25T02:15:25,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_blocks_over_under,grayson allen,False,0.5,-650,2023-10-25T02:15:25,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_blocks_over_under,grayson allen,False,0.5,-700,2023-10-24T21:45:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,grayson allen,True,0.5,180,2023-10-25T04:30:08,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,grayson allen,True,1.5,-136,2023-10-25T04:00:58,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,grayson allen,True,2.5,126,2023-10-25T03:50:20,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,grayson allen,True,3.5,118,2023-10-25T03:35:42,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,grayson allen,True,4.5,-120,2023-10-25T03:11:11,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,grayson allen,True,5.5,112,2023-10-25T03:05:42,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,grayson allen,True,6.5,108,2023-10-25T02:50:27,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,grayson allen,True,8.5,-132,2023-10-24T23:46:20,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,grayson allen,True,4.5,-110,2023-10-25T03:10:23,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betrivers,player_points_over_under,grayson allen,True,6.5,-114,2023-10-25T02:50:09,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,grayson allen,True,7.5,100,2023-10-25T02:45:12,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_rebounds_over_under,grayson allen,True,3.5,200,2023-10-24T21:45:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_rebounds_over_under,grayson allen,True,4.5,400,2023-10-24T20:20:47,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_rebounds_over_under,grayson allen,False,1.5,230,2023-10-24T21:45:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_rebounds_over_under,grayson allen,False,2.5,-115,2023-10-24T21:45:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_rebounds_over_under,grayson allen,False,3.5,-290,2023-10-24T21:45:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_rebounds_over_under,grayson allen,False,4.5,-700,2023-10-24T20:20:47,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_steals_over_under,grayson allen,True,0.5,-110,2023-10-25T02:15:25,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_steals_over_under,grayson allen,False,0.5,-115,2023-10-25T02:15:25,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_steals_over_under,grayson allen,True,0.5,-120,2023-10-24T21:45:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_steals_over_under,grayson allen,False,0.5,-110,2023-10-24T21:45:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,pinnacle,player_threes_over_under,grayson allen,True,1.5,-191,2023-10-25T02:10:06,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,pinnacle,player_threes_over_under,grayson allen,False,1.5,139,2023-10-25T02:10:06,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_threes_over_under,grayson allen,True,0.5,475,2023-10-25T04:35:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_threes_over_under,grayson allen,True,1.5,165,2023-10-25T03:10:23,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_threes_over_under,grayson allen,False,0.5,-800,2023-10-25T04:35:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_threes_over_under,grayson allen,False,1.5,-225,2023-10-25T03:10:23,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_threes_over_under,grayson allen,True,1.5,-195,2023-10-24T21:45:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_threes_over_under,grayson allen,True,2.5,160,2023-10-24T21:45:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_threes_over_under,grayson allen,True,3.5,450,2023-10-24T21:45:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_threes_over_under,grayson allen,False,1.5,140,2023-10-24T21:45:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_threes_over_under,grayson allen,False,3.5,-800,2023-10-24T21:45:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_rebounds_over_under,grayson allen,True,2.5,-115,2023-10-24T21:45:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,grayson allen,True,5.5,100,2023-10-25T03:10:23,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_rebounds_over_under,grayson allen,True,1.5,-350,2023-10-24T21:45:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_rebounds_over_under,grayson allen,True,2.5,-110,2023-10-25T02:15:25,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,grayson allen,True,8.5,-110,2023-10-25T02:20:05,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,grayson allen,True,9.5,-110,2023-10-25T02:15:25,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,grayson allen,False,7.5,160,2023-10-25T02:15:25,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,grayson allen,False,8.5,110,2023-10-25T02:15:25,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,grayson allen,False,10.5,-175,2023-10-25T02:15:25,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,grayson allen,False,11.5,-240,2023-10-25T02:15:25,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,grayson allen,False,0.5,-10000,2023-10-25T04:40:06,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,grayson allen,False,1.5,-105,2023-10-25T03:55:08,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,grayson allen,False,2.5,-125,2023-10-25T03:50:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,grayson allen,False,3.5,-165,2023-10-25T03:35:35,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,grayson allen,False,4.5,-120,2023-10-25T03:10:23,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,grayson allen,False,5.5,-130,2023-10-25T03:10:23,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,grayson allen,False,7.5,-130,2023-10-25T02:45:12,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,grayson allen,False,8.5,-120,2023-10-25T02:20:05,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,grayson allen,False,9.5,-120,2023-10-25T02:15:25,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_points_over_under,grayson allen,True,8.5,-140,2023-10-24T21:45:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_points_over_under,grayson allen,True,9.5,-105,2023-10-24T21:45:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_points_over_under,grayson allen,True,10.5,125,2023-10-24T21:45:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_points_over_under,grayson allen,False,8.5,110,2023-10-24T21:45:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_points_over_under,grayson allen,False,9.5,-125,2023-10-24T21:45:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_points_over_under,grayson allen,False,10.5,-175,2023-10-24T21:45:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_rebounds_over_under,grayson allen,False,2.5,-115,2023-10-25T02:15:25,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_threes_over_under,grayson allen,False,2.5,-220,2023-10-24T21:45:04,Golden State Warriors,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_assists_over_under,grayson allen,True,1.5,106,2023-10-27T02:20:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_threes_over_under,grayson allen,False,2.5,-165,2023-10-27T04:05:57,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_points_over_under,grayson allen,False,7.5,-158,2023-10-27T04:15:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_points_over_under,grayson allen,False,8.5,-138,2023-10-27T04:00:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_points_over_under,grayson allen,False,9.5,-164,2023-10-27T03:45:35,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_points_over_under,grayson allen,False,10.5,-130,2023-10-27T02:50:14,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,pinnacle,player_points_over_under,grayson allen,True,10.5,-107,2023-10-27T02:00:06,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,pinnacle,player_points_over_under,grayson allen,False,10.5,-123,2023-10-27T02:00:06,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,grayson allen,True,8.5,-210,2023-10-27T02:20:20,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,grayson allen,True,9.5,-150,2023-10-27T02:20:20,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,grayson allen,True,11.5,120,2023-10-27T02:20:20,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,grayson allen,True,12.5,160,2023-10-27T02:20:20,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,grayson allen,True,6.5,1000,2023-10-27T04:45:17,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_points_over_under,grayson allen,True,10.5,102,2023-10-27T02:50:14,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,grayson allen,True,7.5,-110,2023-10-27T03:40:56,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,grayson allen,True,9.5,120,2023-10-27T03:45:17,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,grayson allen,True,10.5,-105,2023-10-27T02:50:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,grayson allen,True,11.5,105,2023-10-27T02:35:48,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,grayson allen,False,8.5,160,2023-10-27T02:20:20,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,grayson allen,False,9.5,115,2023-10-27T02:20:20,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,grayson allen,False,11.5,-155,2023-10-27T02:20:20,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,grayson allen,False,12.5,-210,2023-10-27T02:20:20,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,grayson allen,False,6.5,-6000,2023-10-27T04:45:17,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,grayson allen,False,7.5,-120,2023-10-27T03:40:56,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,grayson allen,False,8.5,-145,2023-10-27T04:15:31,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,grayson allen,False,9.5,-155,2023-10-27T03:45:17,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,grayson allen,True,8.5,110,2023-10-27T04:15:31,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,grayson allen,False,10.5,-130,2023-10-27T02:50:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_points_over_under,grayson allen,True,9.5,128,2023-10-27T03:45:35,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_points_over_under,grayson allen,True,7.5,124,2023-10-27T04:15:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_assists_over_under,grayson allen,True,2.5,-200,2023-10-27T03:05:06,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_assists_over_under,grayson allen,True,3.5,-108,2023-10-27T03:35:43,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_assists_over_under,grayson allen,True,4.5,1000,2023-10-27T04:40:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_assists_over_under,grayson allen,False,1.5,-140,2023-10-27T02:20:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_assists_over_under,grayson allen,False,2.5,148,2023-10-27T03:05:06,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_assists_over_under,grayson allen,False,3.5,-122,2023-10-27T03:35:43,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_assists_over_under,grayson allen,False,4.5,-20000,2023-10-27T04:40:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_assists_over_under,grayson allen,True,1.5,105,2023-10-27T02:20:20,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_assists_over_under,grayson allen,True,2.5,-170,2023-10-27T03:10:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_assists_over_under,grayson allen,True,3.5,-115,2023-10-27T03:35:31,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_assists_over_under,grayson allen,True,4.5,600,2023-10-27T04:35:13,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_points_over_under,grayson allen,True,8.5,108,2023-10-27T04:00:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_assists_over_under,grayson allen,False,1.5,-140,2023-10-27T02:20:20,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_assists_over_under,grayson allen,False,3.5,-115,2023-10-27T03:35:31,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_assists_over_under,grayson allen,False,4.5,-1200,2023-10-27T04:35:13,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_assists_over_under,grayson allen,True,1.5,-140,2023-10-27T02:25:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_assists_over_under,grayson allen,True,3.5,150,2023-10-27T02:46:21,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_assists_over_under,grayson allen,False,1.5,110,2023-10-27T02:25:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_assists_over_under,grayson allen,False,3.5,-225,2023-10-27T02:46:21,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_blocks_over_under,grayson allen,True,0.5,1000,2023-10-27T03:45:35,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_blocks_over_under,grayson allen,False,0.5,-100000,2023-10-27T04:40:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_blocks_over_under,grayson allen,True,0.5,390,2023-10-27T02:20:20,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_blocks_over_under,grayson allen,False,0.5,-550,2023-10-27T02:20:20,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_blocks_over_under,grayson allen,True,0.5,340,2023-10-27T02:25:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_assists_over_under,grayson allen,False,2.5,130,2023-10-27T03:10:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,grayson allen,False,11.5,-135,2023-10-27T02:35:48,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_blocks_over_under,grayson allen,False,0.5,-575,2023-10-27T02:25:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_points_over_under,grayson allen,True,8.5,-110,2023-10-27T04:05:57,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_rebounds_over_under,grayson allen,True,3.5,-140,2023-10-27T03:11:35,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_rebounds_over_under,grayson allen,True,4.5,140,2023-10-27T03:40:29,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_rebounds_over_under,grayson allen,False,2.5,-130,2023-10-27T02:30:06,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_rebounds_over_under,grayson allen,False,3.5,100,2023-10-27T03:11:35,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_rebounds_over_under,grayson allen,False,4.5,-200,2023-10-27T03:40:29,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_steals_over_under,grayson allen,True,0.5,1000,2023-10-27T04:35:11,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_steals_over_under,grayson allen,False,0.5,-100000,2023-10-27T04:40:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_steals_over_under,grayson allen,True,0.5,1000,2023-10-27T04:35:13,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_steals_over_under,grayson allen,False,0.5,-5000,2023-10-27T04:35:13,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_steals_over_under,grayson allen,True,0.5,260,2023-10-27T03:51:15,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_steals_over_under,grayson allen,False,0.5,-425,2023-10-27T03:51:15,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_rebounds_over_under,grayson allen,True,2.5,-110,2023-10-27T02:30:06,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_threes_over_under,grayson allen,True,2.5,194,2023-10-27T04:15:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_threes_over_under,grayson allen,False,2.5,-270,2023-10-27T04:15:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,pinnacle,player_threes_over_under,grayson allen,True,2.5,112,2023-10-26T18:30:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,pinnacle,player_threes_over_under,grayson allen,False,2.5,-150,2023-10-26T18:30:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_threes_over_under,grayson allen,True,1.5,-200,2023-10-27T03:40:56,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_threes_over_under,grayson allen,True,2.5,1100,2023-10-27T04:40:13,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_threes_over_under,grayson allen,False,1.5,150,2023-10-27T03:40:56,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_threes_over_under,grayson allen,False,2.5,-8000,2023-10-27T04:40:13,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_threes_over_under,grayson allen,True,1.5,-215,2023-10-27T03:40:29,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_threes_over_under,grayson allen,True,2.5,115,2023-10-27T04:05:57,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_threes_over_under,grayson allen,False,1.5,145,2023-10-27T03:40:29,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_points_over_under,grayson allen,True,7.5,-115,2023-10-27T03:40:29,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_threes_over_under,grayson allen,False,1.5,200,2023-10-27T03:40:35,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_rebounds_over_under,grayson allen,False,6.5,-525,2023-10-27T04:35:13,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_threes_over_under,grayson allen,True,1.5,-280,2023-10-27T03:40:35,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_rebounds_over_under,grayson allen,False,4.5,145,2023-10-27T03:40:56,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_points_over_under,grayson allen,True,9.5,115,2023-10-27T03:45:06,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_rebounds_over_under,grayson allen,False,5.5,135,2023-10-27T03:45:17,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_points_over_under,grayson allen,True,10.5,-120,2023-10-27T02:46:21,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_points_over_under,grayson allen,True,11.5,-105,2023-10-27T02:35:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_points_over_under,grayson allen,False,7.5,-125,2023-10-27T03:40:29,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_points_over_under,grayson allen,False,8.5,-130,2023-10-27T04:05:57,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_points_over_under,grayson allen,False,9.5,-165,2023-10-27T03:45:06,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_points_over_under,grayson allen,False,10.5,-120,2023-10-27T02:46:21,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_rebounds_over_under,grayson allen,True,2.5,-106,2023-10-27T02:30:50,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_rebounds_over_under,grayson allen,True,3.5,-138,2023-10-27T03:11:15,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_rebounds_over_under,grayson allen,True,4.5,-200,2023-10-27T03:40:35,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_rebounds_over_under,grayson allen,True,5.5,-172,2023-10-27T03:45:35,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_rebounds_over_under,grayson allen,True,6.5,1000,2023-10-27T04:40:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_points_over_under,grayson allen,False,11.5,-135,2023-10-27T02:35:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_rebounds_over_under,grayson allen,False,2.5,-125,2023-10-27T02:30:50,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_rebounds_over_under,grayson allen,False,3.5,100,2023-10-27T03:10:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_rebounds_over_under,grayson allen,False,2.5,-125,2023-10-27T02:30:59,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_rebounds_over_under,grayson allen,True,6.5,340,2023-10-27T04:35:13,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_rebounds_over_under,grayson allen,True,5.5,-185,2023-10-27T03:45:17,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_rebounds_over_under,grayson allen,True,3.5,-135,2023-10-27T03:10:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_rebounds_over_under,grayson allen,True,4.5,-195,2023-10-27T03:40:56,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_rebounds_over_under,grayson allen,False,6.5,-20000,2023-10-27T04:40:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_rebounds_over_under,grayson allen,False,5.5,128,2023-10-27T03:45:35,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_rebounds_over_under,grayson allen,False,4.5,148,2023-10-27T03:40:35,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_rebounds_over_under,grayson allen,False,3.5,104,2023-10-27T03:11:15,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_rebounds_over_under,grayson allen,True,2.5,-105,2023-10-27T02:30:59,Los Angeles Lakers,Phoenix Suns
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_rebounds_over_under,grayson allen,False,2.5,128,2023-10-29T03:35:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_rebounds_over_under,grayson allen,True,3.5,160,2023-10-29T03:30:09,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_rebounds_over_under,grayson allen,False,3.5,-240,2023-10-29T03:35:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_rebounds_over_under,grayson allen,False,4.5,-100000,2023-10-29T04:20:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_rebounds_over_under,grayson allen,True,2.5,-165,2023-10-29T03:35:26,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_rebounds_over_under,grayson allen,True,4.5,330,2023-10-29T04:15:10,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_rebounds_over_under,grayson allen,True,2.5,-120,2023-10-29T03:00:37,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_rebounds_over_under,grayson allen,False,3.5,-220,2023-10-29T03:30:09,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_rebounds_over_under,grayson allen,False,4.5,-500,2023-10-29T04:15:10,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_rebounds_over_under,grayson allen,False,2.5,-120,2023-10-29T03:00:37,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_rebounds_over_under,grayson allen,True,3.5,145,2023-10-29T03:31:05,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_rebounds_over_under,grayson allen,True,4.5,1000,2023-10-29T04:20:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_rebounds_over_under,grayson allen,False,2.5,125,2023-10-29T03:35:26,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_rebounds_over_under,grayson allen,True,3.5,174,2023-10-29T03:35:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_points_over_under,grayson allen,True,6.5,105,2023-10-29T03:41:00,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,betrivers,player_points_over_under,grayson allen,True,9.5,-110,2023-10-29T02:15:24,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_points_over_under,grayson allen,False,11.5,-130,2023-10-29T02:40:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_points_over_under,grayson allen,False,10.5,-130,2023-10-29T01:50:12,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_points_over_under,grayson allen,False,9.5,-135,2023-10-29T02:55:05,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_points_over_under,grayson allen,False,8.5,-140,2023-10-29T03:10:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_points_over_under,grayson allen,False,6.5,-150,2023-10-29T03:41:00,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_points_over_under,grayson allen,True,11.5,-110,2023-10-29T02:40:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_points_over_under,grayson allen,True,10.5,100,2023-10-29T01:50:12,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_points_over_under,grayson allen,True,9.5,-105,2023-10-29T02:55:05,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_points_over_under,grayson allen,True,8.5,100,2023-10-29T03:10:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,grayson allen,False,19.5,-135,2023-10-29T04:05:26,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_rebounds_over_under,grayson allen,False,3.5,-215,2023-10-29T03:31:05,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,grayson allen,False,18.5,-115,2023-10-29T03:50:50,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_rebounds_over_under,grayson allen,True,2.5,-172,2023-10-29T03:35:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,betrivers,player_rebounds_over_under,grayson allen,True,2.5,-165,2023-10-29T02:15:24,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_threes_over_under,grayson allen,False,3.5,-525,2023-10-29T04:15:10,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_steals_over_under,grayson allen,True,1.5,158,2023-10-29T03:00:09,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,grayson allen,False,17.5,-270,2023-10-29T04:15:10,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_threes_over_under,grayson allen,False,1.5,115,2023-10-29T03:41:00,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_threes_over_under,grayson allen,True,2.5,150,2023-10-29T03:10:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_threes_over_under,grayson allen,True,1.5,-165,2023-10-29T03:41:00,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_threes_over_under,grayson allen,False,2.5,-205,2023-10-29T03:00:06,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_threes_over_under,grayson allen,False,1.5,-110,2023-10-29T03:35:26,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_threes_over_under,grayson allen,True,3.5,330,2023-10-29T04:15:10,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_threes_over_under,grayson allen,True,2.5,150,2023-10-29T03:00:06,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_threes_over_under,grayson allen,True,1.5,-120,2023-10-29T03:35:26,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,pinnacle,player_threes_over_under,grayson allen,False,2.5,-159,2023-10-28T21:30:09,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,pinnacle,player_threes_over_under,grayson allen,True,2.5,118,2023-10-28T21:30:09,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_threes_over_under,grayson allen,False,2.5,-166,2023-10-29T02:15:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_threes_over_under,grayson allen,False,1.5,-140,2023-10-29T02:50:49,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_threes_over_under,grayson allen,True,2.5,124,2023-10-29T02:15:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_threes_over_under,grayson allen,True,1.5,106,2023-10-29T02:50:49,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_steals_over_under,grayson allen,False,1.5,-190,2023-10-29T03:00:37,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_steals_over_under,grayson allen,False,0.5,-325,2023-10-29T03:41:00,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_steals_over_under,grayson allen,True,1.5,135,2023-10-29T03:00:37,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_steals_over_under,grayson allen,True,0.5,210,2023-10-29T03:41:00,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_steals_over_under,grayson allen,False,2.5,-3500,2023-10-29T04:15:10,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_steals_over_under,grayson allen,False,1.5,-195,2023-10-29T02:55:10,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_steals_over_under,grayson allen,False,0.5,-295,2023-10-29T03:35:26,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_steals_over_under,grayson allen,True,2.5,900,2023-10-29T04:15:10,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_steals_over_under,grayson allen,True,1.5,145,2023-10-29T02:55:10,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_steals_over_under,grayson allen,True,0.5,210,2023-10-29T03:35:26,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_steals_over_under,grayson allen,False,2.5,-100000,2023-10-29T04:20:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_steals_over_under,grayson allen,False,1.5,-215,2023-10-29T03:00:09,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_steals_over_under,grayson allen,False,0.5,-330,2023-10-29T03:35:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_steals_over_under,grayson allen,True,2.5,1000,2023-10-29T04:20:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_steals_over_under,grayson allen,True,0.5,230,2023-10-29T03:35:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,grayson allen,False,16.5,105,2023-10-29T03:45:31,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_assists_over_under,grayson allen,True,3.5,360,2023-10-29T04:15:10,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,grayson allen,False,10.5,-130,2023-10-29T02:45:07,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_points_over_under,grayson allen,False,7.5,-138,2023-10-29T02:45:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_points_over_under,grayson allen,False,6.5,-125,2023-10-29T02:50:49,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_points_over_under,grayson allen,True,10.5,-104,2023-10-29T02:15:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_points_over_under,grayson allen,True,9.5,-130,2023-10-29T00:30:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_points_over_under,grayson allen,True,8.5,108,2023-10-29T02:25:31,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_points_over_under,grayson allen,True,7.5,108,2023-10-29T02:45:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_points_over_under,grayson allen,True,6.5,-102,2023-10-29T02:50:49,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_blocks_over_under,grayson allen,False,1.5,-20000,2023-10-28T16:35:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_blocks_over_under,grayson allen,False,0.5,-475,2023-10-29T02:15:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_blocks_over_under,grayson allen,True,1.5,2600,2023-10-28T16:35:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_blocks_over_under,grayson allen,True,0.5,290,2023-10-29T02:15:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_blocks_over_under,grayson allen,False,0.5,-425,2023-10-29T02:15:05,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_blocks_over_under,grayson allen,True,0.5,310,2023-10-29T02:15:05,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_blocks_over_under,grayson allen,False,0.5,-100000,2023-10-29T04:20:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_blocks_over_under,grayson allen,True,0.5,1000,2023-10-29T03:40:19,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_assists_over_under,grayson allen,False,2.5,-185,2023-10-29T03:00:37,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_assists_over_under,grayson allen,True,2.5,130,2023-10-29T03:00:37,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_assists_over_under,grayson allen,False,3.5,-575,2023-10-29T04:15:10,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_assists_over_under,grayson allen,False,2.5,-185,2023-10-29T04:05:26,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_assists_over_under,grayson allen,False,1.5,-225,2023-10-29T03:50:50,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_threes_over_under,grayson allen,False,2.5,-225,2023-10-29T03:10:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_assists_over_under,grayson allen,True,2.5,135,2023-10-29T04:05:26,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_assists_over_under,grayson allen,True,1.5,165,2023-10-29T03:50:50,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_assists_over_under,grayson allen,False,3.5,-100000,2023-10-29T04:20:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_assists_over_under,grayson allen,False,2.5,-178,2023-10-29T04:05:05,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_assists_over_under,grayson allen,False,1.5,-220,2023-10-29T03:50:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_assists_over_under,grayson allen,True,3.5,1000,2023-10-29T04:20:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_assists_over_under,grayson allen,True,2.5,132,2023-10-29T04:05:05,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_assists_over_under,grayson allen,True,1.5,162,2023-10-29T03:50:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_points_over_under,grayson allen,False,8.5,-138,2023-10-29T02:25:31,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,grayson allen,False,11.5,-125,2023-10-29T02:36:19,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_points_over_under,grayson allen,False,9.5,102,2023-10-29T02:15:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,pinnacle,player_points_over_under,grayson allen,True,9.5,-129,2023-10-28T18:30:30,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,grayson allen,False,9.5,-105,2023-10-29T03:35:26,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,grayson allen,False,8.5,-130,2023-10-29T03:00:06,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,grayson allen,False,7.5,-115,2023-10-29T03:05:25,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,grayson allen,False,6.5,-120,2023-10-29T03:35:26,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,grayson allen,False,12.5,-235,2023-10-29T01:52:22,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,grayson allen,False,11.5,-180,2023-10-29T02:15:05,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,grayson allen,False,10.5,-130,2023-10-29T02:15:05,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,grayson allen,False,9.5,105,2023-10-29T01:52:22,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,grayson allen,False,8.5,135,2023-10-29T02:15:05,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,grayson allen,False,7.5,200,2023-10-29T02:15:05,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,grayson allen,True,19.5,105,2023-10-29T04:05:26,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,grayson allen,True,18.5,-115,2023-10-29T03:50:50,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,grayson allen,True,17.5,195,2023-10-29T04:15:10,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,grayson allen,True,16.5,-140,2023-10-29T03:45:31,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,grayson allen,True,11.5,-105,2023-10-29T02:36:19,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,grayson allen,True,10.5,100,2023-10-29T01:52:22,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,grayson allen,True,9.5,-130,2023-10-29T03:35:26,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,grayson allen,True,8.5,100,2023-10-29T03:00:06,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,grayson allen,True,7.5,-115,2023-10-29T03:05:25,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,grayson allen,True,6.5,-110,2023-10-29T03:35:26,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,grayson allen,True,12.5,180,2023-10-29T01:52:22,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,grayson allen,True,11.5,140,2023-10-29T02:15:05,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,grayson allen,True,10.5,100,2023-10-29T02:15:05,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,grayson allen,True,9.5,-135,2023-10-29T01:52:22,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,grayson allen,True,8.5,-175,2023-10-29T02:15:05,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,grayson allen,True,7.5,-265,2023-10-29T02:15:05,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,pinnacle,player_points_over_under,grayson allen,False,10.5,-107,2023-10-28T21:30:09,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,pinnacle,player_points_over_under,grayson allen,False,9.5,-102,2023-10-28T18:30:30,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,pinnacle,player_points_over_under,grayson allen,True,10.5,-124,2023-10-28T21:30:09,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_points_over_under,grayson allen,False,10.5,-118,2023-10-29T02:15:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,betrivers,player_threes_over_under,grayson allen,True,2.5,125,2023-10-29T02:15:24,Phoenix Suns,Utah Jazz

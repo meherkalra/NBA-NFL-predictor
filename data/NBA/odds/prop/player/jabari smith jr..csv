@@ -1,0 +1,435 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,barstool,player_threes_over_under,jabari smith jr.,True,1.5,-127,2023-04-09T15:15:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,barstool,player_rebounds_over_under,jabari smith jr.,True,8.5,-114,2023-04-09T17:00:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,barstool,player_points_over_under,jabari smith jr.,True,15.5,-125,2023-04-09T17:00:01,Washington Wizards,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_assists_over_under,jabari smith jr.,True,0.5,102,2023-10-26T00:15:19,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_rebounds_over_under,jabari smith jr.,True,7.5,100,2023-10-25T23:36:00,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_rebounds_over_under,jabari smith jr.,True,8.5,120,2023-10-25T11:10:14,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_rebounds_over_under,jabari smith jr.,False,3.5,120,2023-10-26T00:35:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_rebounds_over_under,jabari smith jr.,False,4.5,110,2023-10-26T00:40:39,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_rebounds_over_under,jabari smith jr.,False,5.5,-135,2023-10-26T00:10:24,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_rebounds_over_under,jabari smith jr.,False,6.5,-165,2023-10-26T00:05:14,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_rebounds_over_under,jabari smith jr.,False,7.5,-140,2023-10-25T23:36:00,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_rebounds_over_under,jabari smith jr.,False,8.5,-160,2023-10-25T11:10:14,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betrivers,player_rebounds_over_under,jabari smith jr.,True,6.5,-245,2023-10-25T23:01:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betrivers,player_rebounds_over_under,jabari smith jr.,True,8.5,143,2023-10-25T23:01:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_rebounds_over_under,jabari smith jr.,True,6.5,115,2023-10-26T00:05:14,Orlando Magic,Houston Rockets
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_steals_over_under,jabari smith jr.,True,0.5,-115,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_steals_over_under,jabari smith jr.,False,0.5,-110,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_steals_over_under,jabari smith jr.,True,0.5,118,2023-10-25T23:35:32,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_steals_over_under,jabari smith jr.,True,1.0,1000,2023-10-26T01:15:31,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_steals_over_under,jabari smith jr.,True,1.5,1000,2023-10-26T01:05:14,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_steals_over_under,jabari smith jr.,False,0.5,-158,2023-10-25T23:35:32,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_steals_over_under,jabari smith jr.,False,1.0,1000,2023-10-26T01:15:31,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betrivers,player_rebounds_over_under,jabari smith jr.,True,7.5,-125,2023-10-25T23:01:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_rebounds_over_under,jabari smith jr.,True,5.5,-105,2023-10-26T00:10:24,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_rebounds_over_under,jabari smith jr.,True,3.5,-170,2023-10-26T00:35:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_steals_over_under,jabari smith jr.,False,1.5,-4500,2023-10-26T01:10:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_rebounds_over_under,jabari smith jr.,True,7.5,102,2023-10-25T23:35:32,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_rebounds_over_under,jabari smith jr.,False,3.5,130,2023-10-26T01:00:15,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_rebounds_over_under,jabari smith jr.,False,4.5,-136,2023-10-26T00:50:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_rebounds_over_under,jabari smith jr.,False,5.0,1000,2023-10-26T01:15:31,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_rebounds_over_under,jabari smith jr.,False,5.5,-136,2023-10-26T01:10:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_rebounds_over_under,jabari smith jr.,False,7.5,-136,2023-10-25T23:35:32,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,pinnacle,player_rebounds_over_under,jabari smith jr.,True,7.5,-121,2023-10-25T14:31:19,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,pinnacle,player_rebounds_over_under,jabari smith jr.,False,7.5,-109,2023-10-25T14:31:19,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_rebounds_over_under,jabari smith jr.,True,4.5,-160,2023-10-26T00:40:39,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_rebounds_over_under,jabari smith jr.,True,3.5,-165,2023-10-26T01:00:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_rebounds_over_under,jabari smith jr.,True,5.5,-120,2023-10-26T01:16:01,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_rebounds_over_under,jabari smith jr.,True,7.5,100,2023-10-25T23:35:38,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_rebounds_over_under,jabari smith jr.,True,8.5,110,2023-10-24T18:36:42,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_rebounds_over_under,jabari smith jr.,False,3.5,120,2023-10-26T01:00:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_rebounds_over_under,jabari smith jr.,False,4.5,-130,2023-10-26T00:50:08,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_rebounds_over_under,jabari smith jr.,False,5.5,-110,2023-10-26T01:16:01,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_rebounds_over_under,jabari smith jr.,False,7.5,-135,2023-10-25T23:35:38,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_rebounds_over_under,jabari smith jr.,False,8.5,-140,2023-10-24T18:36:42,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_rebounds_over_under,jabari smith jr.,True,4.5,100,2023-10-26T00:50:08,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_steals_over_under,jabari smith jr.,True,0.5,115,2023-10-25T23:35:38,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_steals_over_under,jabari smith jr.,False,0.5,-155,2023-10-25T23:35:38,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_rebounds_over_under,jabari smith jr.,True,5.5,102,2023-10-26T01:10:04,Orlando Magic,Houston Rockets
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_blocks_over_under,jabari smith jr.,True,1.5,275,2023-10-24T18:00:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_blocks_over_under,jabari smith jr.,False,0.5,125,2023-10-23T18:15:54,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_blocks_over_under,jabari smith jr.,False,1.5,-400,2023-10-24T18:00:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,jabari smith jr.,True,11.5,-215,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,jabari smith jr.,True,12.5,-155,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,jabari smith jr.,True,14.5,110,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,jabari smith jr.,True,15.5,145,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,jabari smith jr.,False,11.5,165,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_blocks_over_under,jabari smith jr.,True,0.5,-165,2023-10-23T18:15:54,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,jabari smith jr.,False,12.5,120,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,jabari smith jr.,False,15.5,-190,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_rebounds_over_under,jabari smith jr.,True,7.5,-135,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_rebounds_over_under,jabari smith jr.,False,7.5,105,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_rebounds_over_under,jabari smith jr.,True,7.5,-140,2023-10-24T18:00:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_rebounds_over_under,jabari smith jr.,False,7.5,110,2023-10-24T18:00:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,betrivers,player_rebounds_over_under,jabari smith jr.,True,7.5,-120,2023-10-24T18:00:16,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_steals_over_under,jabari smith jr.,True,0.5,-115,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_steals_over_under,jabari smith jr.,False,0.5,-110,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,jabari smith jr.,False,14.5,-145,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_blocks_over_under,jabari smith jr.,False,0.5,125,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_blocks_over_under,jabari smith jr.,True,0.5,-160,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_threes_over_under,jabari smith jr.,False,2.5,-500,2023-10-25T11:10:14,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_steals_over_under,jabari smith jr.,False,1.5,-5000,2023-10-26T01:16:01,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_steals_over_under,jabari smith jr.,True,0.5,110,2023-10-25T23:36:00,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_steals_over_under,jabari smith jr.,True,1.5,250,2023-10-26T00:35:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_steals_over_under,jabari smith jr.,False,0.5,-160,2023-10-25T23:36:00,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_steals_over_under,jabari smith jr.,False,1.5,-400,2023-10-26T00:35:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_threes_over_under,jabari smith jr.,True,0.5,-235,2023-10-25T23:40:05,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_threes_over_under,jabari smith jr.,True,1.5,178,2023-10-25T23:35:32,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_threes_over_under,jabari smith jr.,False,0.5,172,2023-10-25T23:40:05,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_threes_over_under,jabari smith jr.,False,1.5,-245,2023-10-25T23:35:32,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,pinnacle,player_threes_over_under,jabari smith jr.,True,1.5,115,2023-10-25T14:31:19,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,pinnacle,player_threes_over_under,jabari smith jr.,False,1.5,-154,2023-10-25T14:31:19,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_threes_over_under,jabari smith jr.,True,0.5,500,2023-10-26T01:16:01,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_threes_over_under,jabari smith jr.,True,1.5,160,2023-10-25T23:35:38,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_threes_over_under,jabari smith jr.,False,0.5,-900,2023-10-26T01:16:01,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_threes_over_under,jabari smith jr.,False,1.5,-215,2023-10-25T23:35:38,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_threes_over_under,jabari smith jr.,True,0.5,105,2023-10-26T00:40:39,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_threes_over_under,jabari smith jr.,True,2.5,325,2023-10-25T11:10:14,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_threes_over_under,jabari smith jr.,False,0.5,-150,2023-10-26T00:40:39,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_threes_over_under,jabari smith jr.,False,1.5,-240,2023-10-25T23:36:00,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_steals_over_under,jabari smith jr.,True,1.5,1000,2023-10-26T01:16:01,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_rebounds_over_under,jabari smith jr.,True,5.0,1000,2023-10-26T01:15:31,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_threes_over_under,jabari smith jr.,True,1.5,160,2023-10-25T23:36:00,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_rebounds_over_under,jabari smith jr.,True,3.5,-174,2023-10-26T01:00:15,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_blocks_over_under,jabari smith jr.,False,0.5,125,2023-10-25T23:20:08,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_blocks_over_under,jabari smith jr.,False,1.5,-115,2023-10-25T23:35:38,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_blocks_over_under,jabari smith jr.,True,0.5,190,2023-10-26T00:40:39,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_blocks_over_under,jabari smith jr.,True,1.5,-115,2023-10-25T23:36:00,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_blocks_over_under,jabari smith jr.,False,0.5,-290,2023-10-26T00:40:39,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_blocks_over_under,jabari smith jr.,False,1.5,-125,2023-10-25T23:36:00,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betrivers,player_blocks_over_under,jabari smith jr.,True,0.5,-182,2023-10-25T23:01:07,Orlando Magic,Houston Rockets
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,jabari smith jr.,True,11.5,-215,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,jabari smith jr.,True,12.5,-155,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,jabari smith jr.,True,14.5,110,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,jabari smith jr.,True,15.5,145,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,jabari smith jr.,False,11.5,165,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,jabari smith jr.,False,12.5,120,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,jabari smith jr.,False,14.5,-145,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,jabari smith jr.,False,15.5,-190,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,pinnacle,player_points_over_under,jabari smith jr.,True,13.5,-102,2023-10-25T14:31:19,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,pinnacle,player_points_over_under,jabari smith jr.,False,13.5,-129,2023-10-25T14:31:19,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,jabari smith jr.,True,11.5,-190,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,jabari smith jr.,True,12.5,-140,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_blocks_over_under,jabari smith jr.,True,1.5,-115,2023-10-25T23:35:38,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,jabari smith jr.,True,14.5,125,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_blocks_over_under,jabari smith jr.,True,0.5,-165,2023-10-25T23:20:08,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_blocks_over_under,jabari smith jr.,False,0.5,-3000,2023-10-26T01:10:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_rebounds_over_under,jabari smith jr.,True,4.5,102,2023-10-26T00:50:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_assists_over_under,jabari smith jr.,True,1.0,1000,2023-10-26T01:15:31,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_assists_over_under,jabari smith jr.,True,1.5,550,2023-10-26T01:10:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_assists_over_under,jabari smith jr.,False,0.5,-136,2023-10-26T00:15:19,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_assists_over_under,jabari smith jr.,False,1.0,1000,2023-10-26T01:15:31,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_assists_over_under,jabari smith jr.,False,1.5,-1100,2023-10-26T01:10:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_assists_over_under,jabari smith jr.,True,0.5,105,2023-10-26T00:15:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_assists_over_under,jabari smith jr.,True,1.5,475,2023-10-26T01:16:01,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_assists_over_under,jabari smith jr.,False,0.5,-140,2023-10-26T00:10:25,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_assists_over_under,jabari smith jr.,False,1.5,-900,2023-10-26T01:16:01,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_assists_over_under,jabari smith jr.,True,0.5,-320,2023-10-25T11:10:14,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_assists_over_under,jabari smith jr.,True,1.5,130,2023-10-25T23:20:09,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_assists_over_under,jabari smith jr.,True,2.5,450,2023-10-25T11:10:14,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_assists_over_under,jabari smith jr.,False,0.5,225,2023-10-25T11:10:14,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_assists_over_under,jabari smith jr.,False,1.5,-185,2023-10-25T23:20:09,Orlando Magic,Houston Rockets
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_blocks_over_under,jabari smith jr.,True,0.5,-160,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_blocks_over_under,jabari smith jr.,False,0.5,125,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_blocks_over_under,jabari smith jr.,True,0.5,880,2023-10-26T01:10:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_blocks_over_under,jabari smith jr.,True,1.5,-112,2023-10-25T23:35:32,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_blocks_over_under,jabari smith jr.,False,1.5,-118,2023-10-25T23:35:32,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,jabari smith jr.,True,15.5,165,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_assists_over_under,jabari smith jr.,False,2.5,-700,2023-10-25T11:10:14,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,jabari smith jr.,True,6.5,-135,2023-10-26T00:56:12,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_points_over_under,jabari smith jr.,True,11.5,-115,2023-10-25T23:55:05,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_points_over_under,jabari smith jr.,True,12.5,-125,2023-10-25T23:36:00,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_points_over_under,jabari smith jr.,True,13.5,-110,2023-10-25T23:25:12,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_points_over_under,jabari smith jr.,True,14.5,115,2023-10-25T11:10:14,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_points_over_under,jabari smith jr.,False,8.5,-120,2023-10-26T00:30:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_points_over_under,jabari smith jr.,False,9.5,-105,2023-10-26T00:40:39,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_points_over_under,jabari smith jr.,False,10.5,-125,2023-10-26T00:10:24,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_points_over_under,jabari smith jr.,False,11.5,-125,2023-10-25T23:55:05,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_points_over_under,jabari smith jr.,False,12.5,-115,2023-10-25T23:36:00,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_points_over_under,jabari smith jr.,False,13.5,-130,2023-10-25T23:25:12,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betrivers,player_points_over_under,jabari smith jr.,True,11.5,-250,2023-10-25T23:01:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betrivers,player_points_over_under,jabari smith jr.,True,12.5,-175,2023-10-25T23:01:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betrivers,player_points_over_under,jabari smith jr.,True,13.5,-122,2023-10-25T23:01:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betrivers,player_points_over_under,jabari smith jr.,True,14.5,110,2023-10-25T23:01:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betrivers,player_points_over_under,jabari smith jr.,True,15.5,145,2023-10-25T23:01:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betrivers,player_points_over_under,jabari smith jr.,True,16.5,195,2023-10-25T23:01:07,Orlando Magic,Houston Rockets
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_rebounds_over_under,jabari smith jr.,True,7.5,-135,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,jabari smith jr.,True,5.5,-105,2023-10-26T01:00:04,Orlando Magic,Houston Rockets
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_rebounds_over_under,jabari smith jr.,False,7.5,105,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_points_over_under,jabari smith jr.,True,10.5,-115,2023-10-26T00:10:24,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_points_over_under,jabari smith jr.,True,9.5,-135,2023-10-26T00:40:39,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_points_over_under,jabari smith jr.,False,14.5,-155,2023-10-25T11:10:14,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,jabari smith jr.,False,13.5,-125,2023-10-25T23:26:00,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,jabari smith jr.,True,8.5,-115,2023-10-26T00:30:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,jabari smith jr.,True,7.5,115,2023-10-26T01:16:01,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_points_over_under,jabari smith jr.,True,8.5,-120,2023-10-26T00:30:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,jabari smith jr.,True,9.5,-130,2023-10-26T00:41:24,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,jabari smith jr.,True,10.5,-105,2023-10-26T00:10:25,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,jabari smith jr.,True,11.5,-110,2023-10-26T00:00:19,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,jabari smith jr.,True,12.5,100,2023-10-25T23:45:08,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,jabari smith jr.,False,11.5,145,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,jabari smith jr.,False,12.5,110,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,jabari smith jr.,False,14.5,-160,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,jabari smith jr.,True,13.5,-105,2023-10-25T23:26:00,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,jabari smith jr.,False,5.5,-125,2023-10-26T01:00:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,jabari smith jr.,False,6.5,100,2023-10-26T00:56:12,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,jabari smith jr.,False,7.5,-150,2023-10-26T01:16:01,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,jabari smith jr.,False,12.5,-135,2023-10-25T23:45:08,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,jabari smith jr.,False,11.5,-120,2023-10-26T00:00:19,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,jabari smith jr.,False,8.5,-115,2023-10-26T00:30:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,jabari smith jr.,False,9.5,-105,2023-10-26T00:41:24,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,jabari smith jr.,False,15.5,-215,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,jabari smith jr.,False,10.5,-125,2023-10-26T00:10:25,Orlando Magic,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jabari smith jr.,True,13.5,1100,2023-10-28T02:45:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jabari smith jr.,True,12.5,-125,2023-10-28T02:10:08,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jabari smith jr.,True,11.5,105,2023-10-28T01:21:17,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jabari smith jr.,True,10.5,110,2023-10-28T01:55:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jabari smith jr.,True,14.5,120,2023-10-28T00:11:20,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jabari smith jr.,True,15.5,160,2023-10-28T00:11:20,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jabari smith jr.,True,12.5,-145,2023-10-28T00:11:20,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,pinnacle,player_points_over_under,jabari smith jr.,True,13.5,-114,2023-10-26T21:36:58,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,pinnacle,player_points_over_under,jabari smith jr.,False,13.5,-116,2023-10-26T21:36:58,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jabari smith jr.,True,14.5,-110,2023-10-28T02:30:42,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jabari smith jr.,True,11.5,-195,2023-10-28T00:11:20,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jabari smith jr.,True,9.5,-150,2023-10-28T01:55:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jabari smith jr.,False,11.5,150,2023-10-28T00:11:20,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jabari smith jr.,False,14.5,-120,2023-10-28T02:30:42,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jabari smith jr.,False,14.5,-155,2023-10-28T00:11:20,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jabari smith jr.,False,15.5,-210,2023-10-28T00:11:20,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jabari smith jr.,False,9.5,110,2023-10-28T01:55:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jabari smith jr.,False,10.5,-150,2023-10-28T01:55:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jabari smith jr.,False,11.5,-135,2023-10-28T01:21:17,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jabari smith jr.,False,12.5,-105,2023-10-28T02:10:08,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jabari smith jr.,False,13.5,-8000,2023-10-28T02:45:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,jabari smith jr.,True,9.5,-125,2023-10-28T01:01:17,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,jabari smith jr.,True,10.5,100,2023-10-28T01:50:23,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,jabari smith jr.,True,11.5,100,2023-10-28T01:26:14,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betrivers,player_blocks_over_under,jabari smith jr.,True,0.5,-162,2023-10-28T00:11:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,jabari smith jr.,True,13.5,-110,2023-10-28T00:10:20,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,jabari smith jr.,True,12.5,100,2023-10-28T01:35:06,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jabari smith jr.,False,12.5,110,2023-10-28T00:11:20,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_blocks_over_under,jabari smith jr.,False,0.5,-325,2023-10-28T01:35:06,San Antonio Spurs,Houston Rockets
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_threes_over_under,jabari smith jr.,True,2.5,125,2023-10-30T00:55:37,Houston Rockets,Golden State Warriors
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_blocks_over_under,jabari smith jr.,False,0.5,-5000,2023-10-28T02:40:07,San Antonio Spurs,Houston Rockets
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_steals_over_under,jabari smith jr.,False,1.5,-300,2023-10-30T00:30:04,Houston Rockets,Golden State Warriors
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,jabari smith jr.,False,9.5,-115,2023-10-28T01:01:17,San Antonio Spurs,Houston Rockets
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,betrivers,player_steals_over_under,jabari smith jr.,True,0.5,-134,2023-10-29T23:00:43,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,pinnacle,player_threes_over_under,jabari smith jr.,True,1.5,-114,2023-10-29T22:10:05,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,pinnacle,player_threes_over_under,jabari smith jr.,False,1.5,-116,2023-10-29T22:10:05,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_threes_over_under,jabari smith jr.,True,1.5,135,2023-10-30T00:35:22,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_threes_over_under,jabari smith jr.,True,2.5,450,2023-10-30T01:25:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_threes_over_under,jabari smith jr.,False,1.5,-180,2023-10-30T00:35:22,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_threes_over_under,jabari smith jr.,False,2.5,-800,2023-10-30T01:25:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_threes_over_under,jabari smith jr.,True,1.5,125,2023-10-30T00:35:23,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_threes_over_under,jabari smith jr.,False,1.5,-180,2023-10-30T00:35:23,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_threes_over_under,jabari smith jr.,False,2.5,-180,2023-10-30T00:55:37,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,betrivers,player_threes_over_under,jabari smith jr.,True,1.5,100,2023-10-29T23:00:43,Houston Rockets,Golden State Warriors
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_blocks_over_under,jabari smith jr.,True,0.5,210,2023-10-28T01:35:06,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_assists_over_under,jabari smith jr.,True,0.5,1000,2023-10-28T02:45:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_assists_over_under,jabari smith jr.,False,0.5,-50000,2023-10-28T02:45:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_assists_over_under,jabari smith jr.,False,1.5,-245,2023-10-28T00:20:16,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_assists_over_under,jabari smith jr.,True,0.5,750,2023-10-28T02:40:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_assists_over_under,jabari smith jr.,True,1.5,170,2023-10-28T00:20:14,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_assists_over_under,jabari smith jr.,False,0.5,-1800,2023-10-28T02:40:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_assists_over_under,jabari smith jr.,False,1.5,-235,2023-10-28T00:20:14,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_assists_over_under,jabari smith jr.,True,0.5,-325,2023-10-27T21:06:30,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_assists_over_under,jabari smith jr.,True,1.5,130,2023-10-28T00:20:10,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_assists_over_under,jabari smith jr.,False,0.5,220,2023-10-27T21:06:30,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_assists_over_under,jabari smith jr.,False,1.5,-185,2023-10-28T00:20:10,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_blocks_over_under,jabari smith jr.,True,0.5,1000,2023-10-28T02:35:47,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_blocks_over_under,jabari smith jr.,False,0.5,-100000,2023-10-28T02:45:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_blocks_over_under,jabari smith jr.,True,0.5,1000,2023-10-28T02:36:09,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_assists_over_under,jabari smith jr.,True,1.5,178,2023-10-28T00:20:16,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,jabari smith jr.,False,10.5,-140,2023-10-28T01:50:23,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_steals_over_under,jabari smith jr.,False,0.5,-150,2023-10-28T00:30:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,jabari smith jr.,False,12.5,-140,2023-10-28T01:35:06,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_rebounds_over_under,jabari smith jr.,False,9.5,-135,2023-10-28T01:05:18,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betrivers,player_rebounds_over_under,jabari smith jr.,True,6.5,-225,2023-10-28T00:11:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betrivers,player_rebounds_over_under,jabari smith jr.,True,7.5,-115,2023-10-28T00:11:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betrivers,player_rebounds_over_under,jabari smith jr.,True,8.5,155,2023-10-28T00:11:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_steals_over_under,jabari smith jr.,True,0.5,102,2023-10-28T00:30:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_steals_over_under,jabari smith jr.,True,1.5,1000,2023-10-28T02:35:47,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_steals_over_under,jabari smith jr.,False,0.5,-136,2023-10-28T00:30:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_steals_over_under,jabari smith jr.,False,1.5,-100000,2023-10-28T02:45:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_steals_over_under,jabari smith jr.,True,0.5,110,2023-10-28T00:30:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_steals_over_under,jabari smith jr.,True,1.5,1200,2023-10-28T02:36:09,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_steals_over_under,jabari smith jr.,False,1.5,-20000,2023-10-28T02:40:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_steals_over_under,jabari smith jr.,True,0.5,-115,2023-10-28T00:26:52,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_steals_over_under,jabari smith jr.,True,1.5,270,2023-10-28T01:35:06,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_rebounds_over_under,jabari smith jr.,False,8.5,-115,2023-10-28T01:26:14,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_steals_over_under,jabari smith jr.,False,0.5,-125,2023-10-28T00:26:52,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betrivers,player_steals_over_under,jabari smith jr.,True,0.5,-127,2023-10-28T00:11:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,pinnacle,player_threes_over_under,jabari smith jr.,True,1.5,130,2023-10-26T21:36:58,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,pinnacle,player_threes_over_under,jabari smith jr.,False,1.5,-176,2023-10-26T21:36:58,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_threes_over_under,jabari smith jr.,True,0.5,-105,2023-10-28T01:25:08,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_threes_over_under,jabari smith jr.,True,1.5,350,2023-10-28T01:55:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_threes_over_under,jabari smith jr.,True,2.5,700,2023-10-28T02:40:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_threes_over_under,jabari smith jr.,False,0.5,-125,2023-10-28T01:25:08,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_threes_over_under,jabari smith jr.,False,1.5,-550,2023-10-28T01:55:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_threes_over_under,jabari smith jr.,False,2.5,-1600,2023-10-28T02:40:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_threes_over_under,jabari smith jr.,True,0.5,-110,2023-10-28T01:26:14,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_threes_over_under,jabari smith jr.,True,1.5,130,2023-10-28T01:30:28,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_threes_over_under,jabari smith jr.,False,0.5,-130,2023-10-28T01:26:14,San Antonio Spurs,Houston Rockets
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_steals_over_under,jabari smith jr.,False,0.5,105,2023-10-29T23:15:03,Houston Rockets,Golden State Warriors
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_steals_over_under,jabari smith jr.,False,1.5,-450,2023-10-28T01:35:06,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,jabari smith jr.,False,11.5,-140,2023-10-28T01:26:14,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_rebounds_over_under,jabari smith jr.,False,7.5,-180,2023-10-28T02:10:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_rebounds_over_under,jabari smith jr.,True,9.5,-105,2023-10-28T01:05:18,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,jabari smith jr.,False,13.5,-120,2023-10-28T00:10:20,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betrivers,player_points_over_under,jabari smith jr.,True,10.5,-286,2023-10-28T00:11:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betrivers,player_points_over_under,jabari smith jr.,True,11.5,-190,2023-10-28T00:11:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betrivers,player_points_over_under,jabari smith jr.,True,12.5,-130,2023-10-28T00:11:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betrivers,player_points_over_under,jabari smith jr.,True,13.5,104,2023-10-28T00:11:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betrivers,player_points_over_under,jabari smith jr.,True,14.5,138,2023-10-28T00:11:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betrivers,player_points_over_under,jabari smith jr.,True,15.5,180,2023-10-28T00:11:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_rebounds_over_under,jabari smith jr.,True,6.5,-144,2023-10-28T01:57:13,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_rebounds_over_under,jabari smith jr.,True,7.5,-240,2023-10-28T02:10:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_rebounds_over_under,jabari smith jr.,True,8.5,124,2023-10-28T02:40:04,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_rebounds_over_under,jabari smith jr.,True,9.5,630,2023-10-28T02:45:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_rebounds_over_under,jabari smith jr.,False,6.5,108,2023-10-28T01:57:13,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_rebounds_over_under,jabari smith jr.,False,7.5,174,2023-10-28T02:10:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_rebounds_over_under,jabari smith jr.,False,6.5,-110,2023-10-28T01:50:23,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_rebounds_over_under,jabari smith jr.,False,8.5,-166,2023-10-28T02:40:04,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,pinnacle,player_rebounds_over_under,jabari smith jr.,True,7.5,-119,2023-10-26T21:36:58,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,pinnacle,player_rebounds_over_under,jabari smith jr.,False,7.5,-112,2023-10-26T21:36:58,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_rebounds_over_under,jabari smith jr.,True,6.5,140,2023-10-28T01:55:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_rebounds_over_under,jabari smith jr.,True,7.5,-230,2023-10-28T02:10:08,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_rebounds_over_under,jabari smith jr.,True,8.5,120,2023-10-28T02:40:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_rebounds_over_under,jabari smith jr.,True,9.5,600,2023-10-28T02:45:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_rebounds_over_under,jabari smith jr.,False,6.5,-185,2023-10-28T01:55:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_rebounds_over_under,jabari smith jr.,False,7.5,170,2023-10-28T02:10:08,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_rebounds_over_under,jabari smith jr.,False,8.5,-160,2023-10-28T02:40:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_rebounds_over_under,jabari smith jr.,False,9.5,-1200,2023-10-28T02:45:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_rebounds_over_under,jabari smith jr.,True,6.5,-130,2023-10-28T01:50:23,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_rebounds_over_under,jabari smith jr.,True,7.5,125,2023-10-28T02:10:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_rebounds_over_under,jabari smith jr.,True,8.5,-125,2023-10-28T01:26:14,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_rebounds_over_under,jabari smith jr.,False,9.5,-1400,2023-10-28T02:45:15,San Antonio Spurs,Houston Rockets
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_steals_over_under,jabari smith jr.,True,1.5,200,2023-10-30T00:30:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,jabari smith jr.,True,12.5,-150,2023-10-29T23:15:13,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_steals_over_under,jabari smith jr.,False,2.5,-10000,2023-10-30T01:25:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,pinnacle,player_points_over_under,jabari smith jr.,False,13.5,108,2023-10-29T22:10:05,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,jabari smith jr.,True,11.5,-195,2023-10-29T23:15:13,Houston Rockets,Golden State Warriors
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_threes_over_under,jabari smith jr.,False,1.5,-185,2023-10-28T01:30:28,San Antonio Spurs,Houston Rockets
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,jabari smith jr.,True,14.5,120,2023-10-29T23:15:13,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,jabari smith jr.,True,15.5,155,2023-10-29T23:15:13,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,jabari smith jr.,True,8.5,-140,2023-10-30T00:35:22,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,jabari smith jr.,True,10.5,-105,2023-10-30T00:30:43,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,jabari smith jr.,True,11.5,-135,2023-10-30T00:40:44,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,jabari smith jr.,True,12.5,220,2023-10-30T01:20:32,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,jabari smith jr.,True,13.5,105,2023-10-30T01:00:35,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,jabari smith jr.,True,14.5,750,2023-10-30T01:30:40,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,jabari smith jr.,True,15.5,-105,2023-10-29T23:20:17,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,jabari smith jr.,True,16.5,-120,2023-10-29T23:35:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,jabari smith jr.,True,17.5,-105,2023-10-29T23:25:24,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,jabari smith jr.,False,11.5,150,2023-10-29T23:15:13,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,jabari smith jr.,False,12.5,115,2023-10-29T23:15:13,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,jabari smith jr.,False,14.5,-155,2023-10-29T23:15:13,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,jabari smith jr.,False,15.5,-205,2023-10-29T23:15:13,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,jabari smith jr.,False,8.5,105,2023-10-30T00:35:22,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,jabari smith jr.,False,10.5,-130,2023-10-30T00:30:43,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,jabari smith jr.,False,11.5,105,2023-10-30T00:40:44,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,jabari smith jr.,False,12.5,-310,2023-10-30T01:20:32,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,jabari smith jr.,False,13.5,-140,2023-10-30T01:00:35,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,jabari smith jr.,False,14.5,-2000,2023-10-30T01:30:40,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,jabari smith jr.,False,15.5,-130,2023-10-29T23:20:17,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,jabari smith jr.,False,16.5,-110,2023-10-29T23:35:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,jabari smith jr.,False,17.5,-125,2023-10-29T23:25:24,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,pinnacle,player_points_over_under,jabari smith jr.,True,13.5,-143,2023-10-29T22:10:05,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,betrivers,player_blocks_over_under,jabari smith jr.,True,0.5,-107,2023-10-29T23:00:43,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_blocks_over_under,jabari smith jr.,False,1.5,-650,2023-10-29T05:25:32,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_blocks_over_under,jabari smith jr.,False,0.5,-375,2023-10-30T00:30:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_assists_over_under,jabari smith jr.,True,1.5,-225,2023-10-29T23:25:10,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_assists_over_under,jabari smith jr.,True,2.5,-118,2023-10-30T00:00:23,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_assists_over_under,jabari smith jr.,True,3.5,235,2023-10-30T00:50:07,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_assists_over_under,jabari smith jr.,True,4.5,270,2023-10-30T00:55:14,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_assists_over_under,jabari smith jr.,True,5.5,1000,2023-10-30T01:30:23,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_assists_over_under,jabari smith jr.,False,1.5,164,2023-10-29T23:25:10,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_assists_over_under,jabari smith jr.,False,2.5,-112,2023-10-30T00:00:23,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_assists_over_under,jabari smith jr.,False,3.5,-340,2023-10-30T00:50:07,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_assists_over_under,jabari smith jr.,False,4.5,-400,2023-10-30T00:55:14,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_assists_over_under,jabari smith jr.,False,5.5,-50000,2023-10-30T01:30:23,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_assists_over_under,jabari smith jr.,True,1.5,-215,2023-10-29T23:25:24,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_assists_over_under,jabari smith jr.,True,2.5,-115,2023-10-30T00:01:37,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_assists_over_under,jabari smith jr.,True,3.5,235,2023-10-30T00:50:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,jabari smith jr.,True,8.5,-140,2023-10-30T00:35:23,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_assists_over_under,jabari smith jr.,True,4.5,260,2023-10-30T00:55:05,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_assists_over_under,jabari smith jr.,False,1.5,160,2023-10-29T23:20:17,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_assists_over_under,jabari smith jr.,False,2.5,-115,2023-10-30T00:01:37,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_assists_over_under,jabari smith jr.,False,3.5,-330,2023-10-30T00:50:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_assists_over_under,jabari smith jr.,False,4.5,-380,2023-10-30T00:55:05,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_assists_over_under,jabari smith jr.,False,5.5,-2500,2023-10-30T01:25:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_assists_over_under,jabari smith jr.,True,1.5,165,2023-10-29T23:15:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_assists_over_under,jabari smith jr.,False,1.5,-225,2023-10-29T23:15:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_blocks_over_under,jabari smith jr.,True,0.5,1000,2023-10-30T01:20:36,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_blocks_over_under,jabari smith jr.,False,0.5,-100000,2023-10-30T01:30:23,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_blocks_over_under,jabari smith jr.,True,0.5,1200,2023-10-30T01:25:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_blocks_over_under,jabari smith jr.,False,0.5,-10000,2023-10-30T01:25:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_blocks_over_under,jabari smith jr.,True,0.5,235,2023-10-30T00:30:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_blocks_over_under,jabari smith jr.,True,1.5,375,2023-10-29T05:25:32,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_assists_over_under,jabari smith jr.,True,5.5,800,2023-10-30T01:25:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,jabari smith jr.,True,10.5,-110,2023-10-30T00:30:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,jabari smith jr.,True,11.5,-140,2023-10-30T00:40:22,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,jabari smith jr.,True,12.5,-130,2023-10-30T00:05:05,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_rebounds_over_under,jabari smith jr.,True,8.5,600,2023-10-30T01:30:40,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_rebounds_over_under,jabari smith jr.,True,9.5,-125,2023-10-30T01:05:12,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_rebounds_over_under,jabari smith jr.,True,10.5,125,2023-10-30T01:00:35,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_rebounds_over_under,jabari smith jr.,False,7.5,-105,2023-10-30T00:20:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_rebounds_over_under,jabari smith jr.,False,8.5,-1200,2023-10-30T01:30:40,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_rebounds_over_under,jabari smith jr.,False,9.5,-105,2023-10-30T01:05:12,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_rebounds_over_under,jabari smith jr.,False,10.5,-170,2023-10-30T01:00:35,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_rebounds_over_under,jabari smith jr.,True,7.5,-125,2023-10-30T00:25:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_rebounds_over_under,jabari smith jr.,True,8.5,-105,2023-10-30T00:10:06,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_rebounds_over_under,jabari smith jr.,True,9.5,-130,2023-10-30T01:05:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_rebounds_over_under,jabari smith jr.,True,10.5,120,2023-10-30T01:00:07,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_rebounds_over_under,jabari smith jr.,False,7.5,-115,2023-10-30T00:25:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_rebounds_over_under,jabari smith jr.,False,8.5,-135,2023-10-30T00:10:06,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_rebounds_over_under,jabari smith jr.,True,7.5,-125,2023-10-30T00:20:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_rebounds_over_under,jabari smith jr.,False,9.5,-110,2023-10-30T01:05:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,betrivers,player_rebounds_over_under,jabari smith jr.,True,6.5,-225,2023-10-29T22:56:12,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,betrivers,player_rebounds_over_under,jabari smith jr.,True,7.5,-190,2023-10-29T23:00:43,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,betrivers,player_rebounds_over_under,jabari smith jr.,True,8.5,-105,2023-10-29T23:00:43,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,betrivers,player_rebounds_over_under,jabari smith jr.,True,9.5,170,2023-10-29T23:00:43,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_steals_over_under,jabari smith jr.,True,1.5,400,2023-10-30T00:55:14,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_steals_over_under,jabari smith jr.,True,2.5,1000,2023-10-30T01:20:36,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_steals_over_under,jabari smith jr.,False,1.5,-670,2023-10-30T00:55:14,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_steals_over_under,jabari smith jr.,False,2.5,-100000,2023-10-30T01:30:23,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_steals_over_under,jabari smith jr.,True,0.5,-135,2023-10-29T23:20:17,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_steals_over_under,jabari smith jr.,True,1.5,390,2023-10-30T00:55:05,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_steals_over_under,jabari smith jr.,True,2.5,1200,2023-10-30T01:25:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_steals_over_under,jabari smith jr.,False,0.5,100,2023-10-29T23:20:17,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_steals_over_under,jabari smith jr.,False,1.5,-650,2023-10-30T00:55:05,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_rebounds_over_under,jabari smith jr.,False,10.5,-170,2023-10-30T01:00:07,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_steals_over_under,jabari smith jr.,True,0.5,-135,2023-10-29T23:15:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,pinnacle,player_rebounds_over_under,jabari smith jr.,False,8.5,-145,2023-10-29T22:03:26,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,pinnacle,player_rebounds_over_under,jabari smith jr.,True,8.5,109,2023-10-29T22:03:26,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,jabari smith jr.,True,13.5,100,2023-10-30T01:00:07,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,jabari smith jr.,True,14.5,100,2023-10-30T01:05:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,jabari smith jr.,True,16.5,-125,2023-10-29T23:35:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,jabari smith jr.,True,17.5,-105,2023-10-29T23:25:11,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,jabari smith jr.,False,8.5,100,2023-10-30T00:35:23,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,jabari smith jr.,False,10.5,-130,2023-10-30T00:30:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,jabari smith jr.,False,11.5,100,2023-10-30T00:40:22,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,jabari smith jr.,False,12.5,-110,2023-10-30T00:05:05,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,jabari smith jr.,False,13.5,-140,2023-10-30T01:00:07,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,jabari smith jr.,False,14.5,-140,2023-10-30T01:05:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,jabari smith jr.,False,16.5,-115,2023-10-29T23:35:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,jabari smith jr.,False,17.5,-135,2023-10-29T23:25:11,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,betrivers,player_points_over_under,jabari smith jr.,True,10.5,-345,2023-10-29T23:00:43,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,pinnacle,player_rebounds_over_under,jabari smith jr.,False,7.5,111,2023-10-29T22:10:05,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,betrivers,player_points_over_under,jabari smith jr.,True,11.5,-230,2023-10-29T23:00:43,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,betrivers,player_points_over_under,jabari smith jr.,True,13.5,-113,2023-10-29T23:00:43,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,betrivers,player_points_over_under,jabari smith jr.,True,14.5,118,2023-10-29T23:00:43,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,betrivers,player_points_over_under,jabari smith jr.,True,15.5,155,2023-10-29T23:00:43,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,betrivers,player_points_over_under,jabari smith jr.,True,16.5,205,2023-10-29T23:00:43,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_rebounds_over_under,jabari smith jr.,True,7.5,-130,2023-10-30T00:20:33,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_rebounds_over_under,jabari smith jr.,True,8.5,580,2023-10-30T01:30:23,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_rebounds_over_under,jabari smith jr.,True,9.5,154,2023-10-30T01:10:31,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_rebounds_over_under,jabari smith jr.,True,10.5,130,2023-10-30T01:00:14,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_rebounds_over_under,jabari smith jr.,False,7.5,-102,2023-10-30T00:20:33,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_rebounds_over_under,jabari smith jr.,False,8.5,-1200,2023-10-30T01:30:23,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_rebounds_over_under,jabari smith jr.,False,9.5,-210,2023-10-30T01:10:31,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_rebounds_over_under,jabari smith jr.,False,10.5,-174,2023-10-30T01:00:14,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,pinnacle,player_rebounds_over_under,jabari smith jr.,True,7.5,-148,2023-10-29T22:10:05,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,betrivers,player_points_over_under,jabari smith jr.,True,12.5,-155,2023-10-29T23:00:43,Houston Rockets,Golden State Warriors
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betrivers,player_threes_over_under,jabari smith jr.,True,1.5,155,2023-10-28T00:00:10,San Antonio Spurs,Houston Rockets

@@ -1,0 +1,374 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_points_over_under,kevin knox,True,18.5,-130,2023-03-30T02:15:01,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_threes_over_under,kevin knox,True,1.5,174,2023-03-30T03:15:02,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_threes_over_under,kevin knox,True,0.5,188,2023-03-30T04:00:02,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_steals_over_under,kevin knox,False,1.5,-900,2023-03-30T04:00:02,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_steals_over_under,kevin knox,False,0.5,-112,2023-03-30T02:45:02,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_steals_over_under,kevin knox,True,1.5,490,2023-03-30T04:00:02,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_steals_over_under,kevin knox,True,0.5,-118,2023-03-30T02:45:02,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_rebounds_over_under,kevin knox,False,5.5,-142,2023-03-30T02:00:01,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_rebounds_over_under,kevin knox,True,5.5,116,2023-03-30T02:00:01,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_rebounds_over_under,kevin knox,False,9.5,-166,2023-03-30T02:30:01,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_rebounds_over_under,kevin knox,False,8.5,134,2023-03-30T04:00:02,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_rebounds_over_under,kevin knox,False,7.5,132,2023-03-30T03:30:01,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_rebounds_over_under,kevin knox,True,9.5,124,2023-03-30T02:30:01,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_rebounds_over_under,kevin knox,True,8.5,-180,2023-03-30T04:00:02,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_rebounds_over_under,kevin knox,True,7.5,-178,2023-03-30T03:30:01,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_points_over_under,kevin knox,False,15.5,-110,2023-03-30T01:45:01,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_points_over_under,kevin knox,True,15.5,-110,2023-03-30T01:45:01,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_points_over_under,kevin knox,False,21.5,-106,2023-03-30T02:45:02,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_assists_over_under,kevin knox,True,0.5,-260,2023-03-30T02:30:01,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_assists_over_under,kevin knox,True,1.5,450,2023-03-30T04:00:02,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_assists_over_under,kevin knox,False,0.5,188,2023-03-30T02:30:01,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_assists_over_under,kevin knox,False,1.5,-800,2023-03-30T04:00:02,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_blocks_over_under,kevin knox,True,0.5,920,2023-03-30T04:00:02,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_blocks_over_under,kevin knox,False,0.5,-3500,2023-03-30T04:00:02,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_threes_over_under,kevin knox,False,0.5,-260,2023-03-30T04:00:02,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_points_over_under,kevin knox,True,14.5,-138,2023-03-30T04:00:02,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_points_over_under,kevin knox,True,19.5,-104,2023-03-30T03:15:02,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_points_over_under,kevin knox,True,21.5,-125,2023-03-30T02:45:02,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_points_over_under,kevin knox,False,14.5,104,2023-03-30T04:00:02,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_points_over_under,kevin knox,False,16.5,-154,2023-03-30T03:30:01,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_points_over_under,kevin knox,False,18.5,-102,2023-03-30T02:15:01,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_points_over_under,kevin knox,False,19.5,-128,2023-03-30T03:15:02,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_points_over_under,kevin knox,True,16.5,116,2023-03-30T03:30:01,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_threes_over_under,kevin knox,False,1.5,-240,2023-03-30T03:15:02,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_rebounds_over_under,kevin knox,False,4.5,-150,2023-04-01T02:10:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_rebounds_over_under,kevin knox,False,3.5,112,2023-04-01T02:06:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_points_over_under,kevin knox,True,11.5,-115,2023-04-01T02:10:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_rebounds_over_under,kevin knox,True,4.5,122,2023-04-01T02:10:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_rebounds_over_under,kevin knox,True,3.5,-138,2023-04-01T02:06:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_points_over_under,kevin knox,False,11.5,-105,2023-04-01T02:10:01,Portland Trail Blazers,Sacramento Kings
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_points_over_under,kevin knox,True,11.5,-112,2023-04-02T19:24:02,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_points_over_under,kevin knox,False,11.5,-108,2023-04-02T19:24:02,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_rebounds_over_under,kevin knox,False,4.5,-114,2023-04-02T19:26:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_rebounds_over_under,kevin knox,True,4.5,-106,2023-04-02T19:26:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,fanduel,player_rebounds_over_under,kevin knox,True,3.5,-148,2023-04-05T00:54:01,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,fanduel,player_rebounds_over_under,kevin knox,False,5.5,122,2023-04-05T01:15:01,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_points_over_under,kevin knox,False,16.5,-120,2023-04-04T23:42:03,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_points_over_under,kevin knox,False,14.5,-140,2023-04-05T01:15:01,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,fanduel,player_rebounds_over_under,kevin knox,True,5.5,-162,2023-04-05T01:15:01,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,fanduel,player_rebounds_over_under,kevin knox,True,6.5,240,2023-04-05T02:00:02,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,fanduel,player_rebounds_over_under,kevin knox,True,7.5,108,2023-04-05T01:45:02,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,fanduel,player_rebounds_over_under,kevin knox,True,8.5,146,2023-04-05T01:30:01,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,fanduel,player_rebounds_over_under,kevin knox,False,3.5,112,2023-04-05T00:54:01,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,fanduel,player_rebounds_over_under,kevin knox,False,4.5,-178,2023-04-05T00:42:01,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,fanduel,player_rebounds_over_under,kevin knox,True,4.5,132,2023-04-05T00:42:01,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,fanduel,player_rebounds_over_under,kevin knox,False,6.5,-350,2023-04-05T02:00:02,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,fanduel,player_rebounds_over_under,kevin knox,False,5.5,-102,2023-04-05T00:06:01,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,fanduel,player_rebounds_over_under,kevin knox,False,8.5,-198,2023-04-05T01:30:01,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,fanduel,player_rebounds_over_under,kevin knox,True,5.5,-120,2023-04-05T00:06:01,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_points_over_under,kevin knox,False,12.5,-140,2023-04-05T00:30:01,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_rebounds_over_under,kevin knox,True,4.5,110,2023-04-05T00:30:01,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_rebounds_over_under,kevin knox,True,5.5,-165,2023-04-05T01:15:01,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_rebounds_over_under,kevin knox,True,6.5,300,2023-04-05T02:00:02,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_rebounds_over_under,kevin knox,True,7.5,115,2023-04-05T01:45:02,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_rebounds_over_under,kevin knox,False,4.5,-145,2023-04-05T00:30:01,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_rebounds_over_under,kevin knox,False,5.5,120,2023-04-05T01:15:01,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_rebounds_over_under,kevin knox,False,6.5,-450,2023-04-05T02:00:02,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_rebounds_over_under,kevin knox,False,7.5,-155,2023-04-05T01:45:02,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,fanduel,player_rebounds_over_under,kevin knox,False,7.5,-144,2023-04-05T01:45:02,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_points_over_under,kevin knox,False,11.5,-130,2023-04-05T01:30:01,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_points_over_under,kevin knox,False,9.5,115,2023-04-05T01:45:02,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_points_over_under,kevin knox,False,6.5,-115,2023-04-05T02:00:02,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,fanduel,player_points_over_under,kevin knox,True,10.5,132,2023-04-05T01:45:02,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,fanduel,player_points_over_under,kevin knox,True,6.5,-182,2023-04-05T02:00:02,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_blocks_over_under,kevin knox,False,0.5,-1600,2023-04-05T01:45:02,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_blocks_over_under,kevin knox,True,0.5,700,2023-04-05T01:45:02,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,fanduel,player_blocks_over_under,kevin knox,False,0.5,-50000,2023-04-05T02:00:02,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,fanduel,player_blocks_over_under,kevin knox,True,0.5,1000,2023-04-05T02:00:02,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,fanduel,player_points_over_under,kevin knox,True,11.5,-158,2023-04-05T01:30:01,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_assists_over_under,kevin knox,False,1.5,-150,2023-04-05T00:30:01,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_assists_over_under,kevin knox,True,1.5,115,2023-04-05T00:30:01,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_assists_over_under,kevin knox,True,0.5,800,2023-04-05T02:00:02,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,fanduel,player_assists_over_under,kevin knox,False,1.5,-250,2023-04-05T01:00:01,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,fanduel,player_assists_over_under,kevin knox,False,0.5,-2000,2023-04-05T02:00:02,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,fanduel,player_assists_over_under,kevin knox,True,1.5,182,2023-04-05T01:00:01,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,fanduel,player_assists_over_under,kevin knox,True,0.5,750,2023-04-05T02:00:02,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_assists_over_under,kevin knox,False,0.5,-2500,2023-04-05T02:00:02,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,fanduel,player_points_over_under,kevin knox,True,12.5,-118,2023-04-05T01:00:01,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,fanduel,player_points_over_under,kevin knox,True,14.5,108,2023-04-05T01:15:01,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,fanduel,player_points_over_under,kevin knox,True,15.5,-122,2023-04-05T00:12:01,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_points_over_under,kevin knox,True,16.5,-110,2023-04-04T23:42:03,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_points_over_under,kevin knox,True,14.5,105,2023-04-05T01:15:01,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_points_over_under,kevin knox,True,12.5,105,2023-04-05T00:30:01,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_points_over_under,kevin knox,True,11.5,100,2023-04-05T01:30:01,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_points_over_under,kevin knox,True,9.5,-155,2023-04-05T01:45:02,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_points_over_under,kevin knox,True,6.5,-115,2023-04-05T02:00:02,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,fanduel,player_points_over_under,kevin knox,False,16.5,-122,2023-04-05T00:06:01,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,fanduel,player_points_over_under,kevin knox,True,16.5,100,2023-04-05T00:06:01,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,fanduel,player_points_over_under,kevin knox,False,15.5,-106,2023-04-05T00:12:01,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,fanduel,player_points_over_under,kevin knox,False,14.5,-144,2023-04-05T01:15:01,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,fanduel,player_points_over_under,kevin knox,False,13.5,-108,2023-04-05T00:18:01,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,fanduel,player_points_over_under,kevin knox,False,12.5,-112,2023-04-05T01:00:01,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,fanduel,player_points_over_under,kevin knox,False,11.5,118,2023-04-05T01:30:01,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,fanduel,player_points_over_under,kevin knox,False,10.5,-178,2023-04-05T01:45:02,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,fanduel,player_points_over_under,kevin knox,False,6.5,136,2023-04-05T02:00:02,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,fanduel,player_steals_over_under,kevin knox,False,0.5,-4000,2023-04-05T02:00:02,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_steals_over_under,kevin knox,True,0.5,1100,2023-04-05T02:00:02,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,fanduel,player_steals_over_under,kevin knox,True,0.5,1000,2023-04-05T02:00:02,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,fanduel,player_threes_over_under,kevin knox,True,1.5,640,2023-04-05T02:00:02,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,fanduel,player_threes_over_under,kevin knox,False,1.5,-1450,2023-04-05T02:00:02,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,fanduel,player_threes_over_under,kevin knox,True,1.5,-192,2023-04-05T00:06:01,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,fanduel,player_threes_over_under,kevin knox,False,1.5,148,2023-04-05T00:06:01,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_threes_over_under,kevin knox,True,1.5,750,2023-04-05T02:00:02,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_threes_over_under,kevin knox,False,1.5,-2000,2023-04-05T02:00:02,Memphis Grizzlies,Portland Trail Blazers
+2023-04-04,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_steals_over_under,kevin knox,False,0.5,-8000,2023-04-05T02:00:02,Memphis Grizzlies,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_points_over_under,kevin knox,True,19.5,-108,2023-04-07T02:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_points_over_under,kevin knox,True,18.5,-140,2023-04-07T01:30:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_points_over_under,kevin knox,True,16.5,-138,2023-04-07T01:45:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_blocks_over_under,kevin knox,False,0.5,-3000,2023-04-07T02:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_blocks_over_under,kevin knox,True,0.5,900,2023-04-07T02:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_assists_over_under,kevin knox,False,1.5,-900,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_blocks_over_under,kevin knox,True,0.5,1000,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_points_over_under,kevin knox,True,20.5,-104,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_assists_over_under,kevin knox,False,0.5,-120,2023-04-07T01:45:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_assists_over_under,kevin knox,True,0.5,-110,2023-04-07T01:45:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_blocks_over_under,kevin knox,False,0.5,-7000,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_points_over_under,kevin knox,False,16.5,104,2023-04-07T01:45:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_points_over_under,kevin knox,False,20.5,-128,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_points_over_under,kevin knox,False,19.5,-122,2023-04-07T02:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_assists_over_under,kevin knox,False,1.5,-900,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_points_over_under,kevin knox,True,16.5,-102,2023-04-07T00:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_points_over_under,kevin knox,False,16.5,-120,2023-04-07T00:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_points_over_under,kevin knox,True,15.5,-105,2023-04-06T23:45:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_points_over_under,kevin knox,True,16.5,-120,2023-04-07T01:45:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_points_over_under,kevin knox,True,18.5,-140,2023-04-07T01:30:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_points_over_under,kevin knox,True,19.5,-110,2023-04-07T02:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_points_over_under,kevin knox,True,20.5,110,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_points_over_under,kevin knox,False,15.5,-125,2023-04-06T23:45:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_points_over_under,kevin knox,False,16.5,-110,2023-04-07T01:45:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_points_over_under,kevin knox,False,18.5,105,2023-04-07T01:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_points_over_under,kevin knox,False,19.5,-120,2023-04-07T02:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_points_over_under,kevin knox,False,18.5,106,2023-04-07T01:30:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_assists_over_under,kevin knox,False,0.5,-114,2023-04-07T01:45:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_assists_over_under,kevin knox,True,1.5,475,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_assists_over_under,kevin knox,True,0.5,-114,2023-04-07T01:45:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_rebounds_over_under,kevin knox,True,3.5,132,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_threes_over_under,kevin knox,False,3.5,-550,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_threes_over_under,kevin knox,False,2.5,140,2023-04-07T01:45:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_threes_over_under,kevin knox,False,1.5,130,2023-04-07T00:30:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_threes_over_under,kevin knox,True,3.5,350,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_threes_over_under,kevin knox,True,2.5,-185,2023-04-07T01:45:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_assists_over_under,kevin knox,True,1.5,490,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_threes_over_under,kevin knox,False,3.5,-500,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_threes_over_under,kevin knox,False,2.5,152,2023-04-07T01:45:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_threes_over_under,kevin knox,False,1.5,132,2023-04-07T00:30:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_threes_over_under,kevin knox,True,3.5,320,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_threes_over_under,kevin knox,True,2.5,-205,2023-04-07T01:45:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_threes_over_under,kevin knox,True,1.5,-178,2023-04-07T00:30:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_threes_over_under,kevin knox,True,1.5,-170,2023-04-07T00:30:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_steals_over_under,kevin knox,True,0.5,750,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_steals_over_under,kevin knox,False,0.5,-2000,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_rebounds_over_under,kevin knox,True,5.5,140,2023-04-07T01:45:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_rebounds_over_under,kevin knox,False,3.5,-178,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_rebounds_over_under,kevin knox,False,5.5,-188,2023-04-07T01:45:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_rebounds_over_under,kevin knox,True,3.5,140,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_rebounds_over_under,kevin knox,True,4.5,-140,2023-04-06T23:45:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_points_over_under,kevin knox,False,20.5,-150,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_rebounds_over_under,kevin knox,False,3.5,-190,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_rebounds_over_under,kevin knox,False,4.5,110,2023-04-06T23:45:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_rebounds_over_under,kevin knox,False,5.5,-200,2023-04-07T01:45:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_steals_over_under,kevin knox,True,0.5,800,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_steals_over_under,kevin knox,False,0.5,-2200,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_rebounds_over_under,kevin knox,True,5.5,145,2023-04-07T01:45:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_threes_over_under,kevin knox,True,1.5,-192,2023-04-08T20:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_threes_over_under,kevin knox,False,1.5,148,2023-04-08T20:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_threes_over_under,kevin knox,True,1.5,-250,2023-04-08T21:15:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_threes_over_under,kevin knox,True,2.5,-145,2023-04-08T21:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_threes_over_under,kevin knox,True,4.5,160,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_threes_over_under,kevin knox,False,4.5,-220,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_threes_over_under,kevin knox,False,2.5,110,2023-04-08T21:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_threes_over_under,kevin knox,True,1.5,-199,2023-04-08T18:45:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_threes_over_under,kevin knox,False,1.5,143,2023-04-08T18:45:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,betmgm,player_threes_over_under,kevin knox,True,1.5,-200,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_threes_over_under,kevin knox,False,4.5,-290,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_threes_over_under,kevin knox,False,1.5,180,2023-04-08T21:15:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,betmgm,player_threes_over_under,kevin knox,False,1.5,150,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_threes_over_under,kevin knox,False,2.5,114,2023-04-08T21:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_threes_over_under,kevin knox,True,4.5,205,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_points_over_under,kevin knox,True,18.5,-148,2023-04-08T21:15:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_points_over_under,kevin knox,True,21.5,-132,2023-04-08T21:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_points_over_under,kevin knox,False,13.5,-130,2023-04-08T20:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_points_over_under,kevin knox,False,15.5,-130,2023-04-08T20:45:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_points_over_under,kevin knox,False,16.5,-128,2023-04-08T20:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_points_over_under,kevin knox,False,17.5,-102,2023-04-08T21:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_points_over_under,kevin knox,False,18.5,112,2023-04-08T21:15:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_points_over_under,kevin knox,False,21.5,100,2023-04-08T21:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_points_over_under,kevin knox,True,15.5,-102,2023-04-08T20:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_points_over_under,kevin knox,False,15.5,-120,2023-04-08T20:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,kevin knox,True,13.5,100,2023-04-08T20:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,kevin knox,True,15.5,-105,2023-04-08T20:45:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,kevin knox,True,16.5,100,2023-04-08T20:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,kevin knox,True,17.5,110,2023-04-08T21:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,kevin knox,True,18.5,-150,2023-04-08T21:15:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,kevin knox,True,21.5,-130,2023-04-08T21:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,kevin knox,True,29.5,-165,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,kevin knox,True,30.5,-105,2023-04-08T21:45:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,kevin knox,False,13.5,-130,2023-04-08T20:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_points_over_under,kevin knox,True,17.5,-130,2023-04-08T21:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_points_over_under,kevin knox,True,15.5,-102,2023-04-08T20:45:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_points_over_under,kevin knox,True,13.5,-102,2023-04-08T20:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,betmgm,player_blocks_over_under,kevin knox,False,0.5,-350,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_threes_over_under,kevin knox,False,1.5,188,2023-04-08T21:15:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_assists_over_under,kevin knox,True,0.5,310,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_assists_over_under,kevin knox,True,1.5,152,2023-04-08T20:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_assists_over_under,kevin knox,False,0.5,-470,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_assists_over_under,kevin knox,False,1.5,-205,2023-04-08T20:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_assists_over_under,kevin knox,True,0.5,245,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_assists_over_under,kevin knox,True,1.5,145,2023-04-08T20:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_assists_over_under,kevin knox,False,0.5,-350,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_assists_over_under,kevin knox,False,1.5,-195,2023-04-08T20:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,kevin knox,False,15.5,-125,2023-04-08T20:45:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_assists_over_under,kevin knox,True,1.5,108,2023-04-08T18:45:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,betmgm,player_assists_over_under,kevin knox,True,1.5,110,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,betmgm,player_assists_over_under,kevin knox,False,1.5,-145,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_blocks_over_under,kevin knox,True,0.5,1000,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_blocks_over_under,kevin knox,False,0.5,-5000,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_blocks_over_under,kevin knox,True,0.5,1000,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_blocks_over_under,kevin knox,False,0.5,-5000,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_blocks_over_under,kevin knox,True,0.5,213,2023-04-08T18:45:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_blocks_over_under,kevin knox,False,0.5,-314,2023-04-08T18:45:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,betmgm,player_blocks_over_under,kevin knox,True,0.5,225,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_assists_over_under,kevin knox,False,1.5,-148,2023-04-08T18:45:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,kevin knox,False,16.5,-135,2023-04-08T20:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_points_over_under,kevin knox,True,16.5,-104,2023-04-08T20:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,kevin knox,False,18.5,115,2023-04-08T21:15:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_rebounds_over_under,kevin knox,True,10.5,175,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_rebounds_over_under,kevin knox,False,5.5,110,2023-04-08T20:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_rebounds_over_under,kevin knox,False,7.5,105,2023-04-08T20:45:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_rebounds_over_under,kevin knox,False,8.5,125,2023-04-08T21:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_rebounds_over_under,kevin knox,False,9.5,-180,2023-04-08T21:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_rebounds_over_under,kevin knox,False,10.5,-240,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_rebounds_over_under,kevin knox,True,5.5,-117,2023-04-08T18:45:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_rebounds_over_under,kevin knox,False,5.5,-117,2023-04-08T18:45:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,betmgm,player_rebounds_over_under,kevin knox,True,5.5,-120,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_rebounds_over_under,kevin knox,True,9.5,135,2023-04-08T21:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,betmgm,player_rebounds_over_under,kevin knox,False,5.5,-110,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_steals_over_under,kevin knox,False,0.5,-1100,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_steals_over_under,kevin knox,True,0.5,450,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_steals_over_under,kevin knox,False,0.5,-800,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_steals_over_under,kevin knox,True,0.5,-145,2023-04-08T18:45:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_steals_over_under,kevin knox,False,0.5,106,2023-04-08T18:45:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,betmgm,player_steals_over_under,kevin knox,True,0.5,-145,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,betmgm,player_steals_over_under,kevin knox,False,0.5,110,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_threes_over_under,kevin knox,True,1.5,-260,2023-04-08T21:15:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,kevin knox,False,17.5,-145,2023-04-08T21:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_steals_over_under,kevin knox,True,0.5,550,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_rebounds_over_under,kevin knox,True,8.5,-170,2023-04-08T21:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_threes_over_under,kevin knox,True,2.5,-152,2023-04-08T21:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,kevin knox,False,21.5,100,2023-04-08T21:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_rebounds_over_under,kevin knox,True,7.5,-140,2023-04-08T20:45:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,kevin knox,False,29.5,125,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,kevin knox,False,30.5,-125,2023-04-08T21:45:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_points_over_under,kevin knox,True,15.5,-111,2023-04-08T18:45:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_points_over_under,kevin knox,False,15.5,-123,2023-04-08T18:45:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,betmgm,player_points_over_under,kevin knox,True,15.5,-110,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_rebounds_over_under,kevin knox,True,5.5,-152,2023-04-08T20:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_rebounds_over_under,kevin knox,True,7.5,-140,2023-04-08T20:45:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_rebounds_over_under,kevin knox,True,8.5,122,2023-04-08T21:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,betmgm,player_points_over_under,kevin knox,False,15.5,-120,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_rebounds_over_under,kevin knox,True,10.5,132,2023-04-08T21:45:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_rebounds_over_under,kevin knox,False,5.5,114,2023-04-08T20:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_rebounds_over_under,kevin knox,False,7.5,106,2023-04-08T20:45:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_rebounds_over_under,kevin knox,True,5.5,-150,2023-04-08T20:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_rebounds_over_under,kevin knox,False,8.5,-162,2023-04-08T21:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_rebounds_over_under,kevin knox,False,9.5,158,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_rebounds_over_under,kevin knox,False,10.5,-178,2023-04-08T21:45:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_rebounds_over_under,kevin knox,True,5.5,-106,2023-04-08T20:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_rebounds_over_under,kevin knox,False,5.5,-114,2023-04-08T20:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_rebounds_over_under,kevin knox,True,9.5,-215,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_points_over_under,kevin knox,True,12.5,-110,2023-04-09T20:45:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_points_over_under,kevin knox,True,11.5,105,2023-04-09T21:00:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_points_over_under,kevin knox,True,9.5,160,2023-04-09T21:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_points_over_under,kevin knox,False,13.5,-138,2023-04-09T20:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_points_over_under,kevin knox,False,16.5,-125,2023-04-09T20:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_points_over_under,kevin knox,False,14.5,-188,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_points_over_under,kevin knox,True,13.5,100,2023-04-09T20:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_points_over_under,kevin knox,False,18.5,-138,2023-04-09T19:45:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_points_over_under,kevin knox,True,14.5,135,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,caesars,player_points_over_under,kevin knox,True,18.5,-109,2023-04-09T18:45:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_points_over_under,kevin knox,True,18.5,105,2023-04-09T19:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_points_over_under,kevin knox,False,9.5,-215,2023-04-09T21:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_points_over_under,kevin knox,False,11.5,-140,2023-04-09T21:00:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_points_over_under,kevin knox,False,12.5,-120,2023-04-09T20:45:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_points_over_under,kevin knox,False,13.5,-135,2023-04-09T20:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_points_over_under,kevin knox,False,14.5,-180,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_points_over_under,kevin knox,False,16.5,-130,2023-04-09T20:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_points_over_under,kevin knox,False,18.5,-135,2023-04-09T19:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_points_over_under,kevin knox,False,12.5,108,2023-04-09T20:45:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,caesars,player_points_over_under,kevin knox,True,17.5,-109,2023-04-09T19:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_points_over_under,kevin knox,True,16.5,-105,2023-04-09T20:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_points_over_under,kevin knox,False,11.5,-125,2023-04-09T21:00:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_blocks_over_under,kevin knox,False,0.5,-2500,2023-04-09T21:00:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_points_over_under,kevin knox,True,18.5,104,2023-04-09T19:45:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_assists_over_under,kevin knox,True,1.5,520,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_assists_over_under,kevin knox,False,0.5,178,2023-04-09T20:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_assists_over_under,kevin knox,False,1.5,-1000,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_assists_over_under,kevin knox,True,0.5,-235,2023-04-09T20:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_assists_over_under,kevin knox,True,1.5,475,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_assists_over_under,kevin knox,False,0.5,170,2023-04-09T20:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_assists_over_under,kevin knox,False,1.5,-900,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,caesars,player_assists_over_under,kevin knox,True,1.5,-184,2023-04-09T18:45:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,caesars,player_assists_over_under,kevin knox,False,1.5,133,2023-04-09T18:45:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_points_over_under,kevin knox,False,9.5,-225,2023-04-09T21:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_blocks_over_under,kevin knox,True,0.5,1000,2023-04-09T21:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_blocks_over_under,kevin knox,True,0.5,800,2023-04-09T21:00:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,caesars,player_blocks_over_under,kevin knox,True,0.5,165,2023-04-09T18:45:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,caesars,player_blocks_over_under,kevin knox,False,0.5,-234,2023-04-09T18:45:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_points_over_under,kevin knox,True,9.5,164,2023-04-09T21:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_points_over_under,kevin knox,True,11.5,-106,2023-04-09T21:00:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_points_over_under,kevin knox,True,12.5,-144,2023-04-09T20:45:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_points_over_under,kevin knox,True,13.5,104,2023-04-09T20:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_points_over_under,kevin knox,True,14.5,140,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_points_over_under,kevin knox,True,16.5,-106,2023-04-09T20:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_blocks_over_under,kevin knox,False,0.5,-10000,2023-04-09T21:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,caesars,player_points_over_under,kevin knox,False,17.5,-125,2023-04-09T19:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,caesars,player_threes_over_under,kevin knox,True,2.5,118,2023-04-09T19:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_rebounds_over_under,kevin knox,True,0.5,134,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,caesars,player_rebounds_over_under,kevin knox,False,6.5,-117,2023-04-09T19:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_steals_over_under,kevin knox,True,0.5,-118,2023-04-09T20:00:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_steals_over_under,kevin knox,True,1.5,920,2023-04-09T21:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_steals_over_under,kevin knox,False,0.5,-114,2023-04-09T20:00:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_steals_over_under,kevin knox,False,1.5,-3500,2023-04-09T21:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_steals_over_under,kevin knox,True,0.5,-105,2023-04-09T20:00:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_steals_over_under,kevin knox,True,1.5,900,2023-04-09T21:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_steals_over_under,kevin knox,False,0.5,-125,2023-04-09T20:00:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_steals_over_under,kevin knox,False,1.5,-3000,2023-04-09T21:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,caesars,player_rebounds_over_under,kevin knox,True,6.5,-117,2023-04-09T19:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,caesars,player_steals_over_under,kevin knox,True,0.5,-199,2023-04-09T18:45:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_threes_over_under,kevin knox,True,1.5,410,2023-04-09T21:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_threes_over_under,kevin knox,True,2.5,400,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_threes_over_under,kevin knox,False,1.5,-700,2023-04-09T21:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_threes_over_under,kevin knox,False,2.5,-670,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_threes_over_under,kevin knox,True,1.5,400,2023-04-09T21:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_threes_over_under,kevin knox,True,2.5,390,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_threes_over_under,kevin knox,False,1.5,-700,2023-04-09T21:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_threes_over_under,kevin knox,False,2.5,-650,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,caesars,player_threes_over_under,kevin knox,False,2.5,-163,2023-04-09T19:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,caesars,player_steals_over_under,kevin knox,False,0.5,143,2023-04-09T18:45:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,caesars,player_points_over_under,kevin knox,False,18.5,-125,2023-04-09T18:45:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_rebounds_over_under,kevin knox,False,6.5,100,2023-04-09T19:45:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_rebounds_over_under,kevin knox,False,3.5,-125,2023-04-09T20:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_rebounds_over_under,kevin knox,True,1.5,140,2023-04-09T21:00:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_rebounds_over_under,kevin knox,True,2.5,140,2023-04-09T20:45:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_rebounds_over_under,kevin knox,True,3.5,-108,2023-04-09T20:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_rebounds_over_under,kevin knox,True,4.5,-136,2023-04-09T20:00:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_rebounds_over_under,kevin knox,True,6.5,-136,2023-04-09T19:45:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_rebounds_over_under,kevin knox,False,0.5,-182,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_rebounds_over_under,kevin knox,False,1.5,-188,2023-04-09T21:00:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_rebounds_over_under,kevin knox,False,2.5,-188,2023-04-09T20:45:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_rebounds_over_under,kevin knox,False,3.5,-122,2023-04-09T20:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_rebounds_over_under,kevin knox,False,4.5,-125,2023-04-09T20:00:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_rebounds_over_under,kevin knox,False,4.5,102,2023-04-09T20:00:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_rebounds_over_under,kevin knox,True,0.5,130,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_rebounds_over_under,kevin knox,True,1.5,145,2023-04-09T21:00:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_rebounds_over_under,kevin knox,True,2.5,110,2023-04-09T20:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_rebounds_over_under,kevin knox,True,3.5,-105,2023-04-09T20:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_rebounds_over_under,kevin knox,True,4.5,-105,2023-04-09T20:00:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_rebounds_over_under,kevin knox,True,6.5,-130,2023-04-09T19:45:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_rebounds_over_under,kevin knox,False,0.5,-175,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_rebounds_over_under,kevin knox,False,1.5,-195,2023-04-09T21:00:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_rebounds_over_under,kevin knox,False,2.5,-150,2023-04-09T20:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_rebounds_over_under,kevin knox,False,6.5,102,2023-04-09T19:45:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_assists_over_under,kevin knox,True,0.5,-245,2023-04-09T20:15:01,Portland Trail Blazers,Golden State Warriors

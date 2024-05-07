@@ -1,0 +1,253 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,zeke nnaji,False,6.5,108,2023-04-01T04:24:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_rebounds_over_under,zeke nnaji,True,1.5,102,2023-04-01T04:18:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_rebounds_over_under,zeke nnaji,True,2.5,142,2023-04-01T04:30:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_rebounds_over_under,zeke nnaji,True,3.5,178,2023-04-01T04:24:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_rebounds_over_under,zeke nnaji,True,4.5,146,2023-04-01T04:42:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_rebounds_over_under,zeke nnaji,False,1.5,-136,2023-04-01T04:18:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_rebounds_over_under,zeke nnaji,False,2.5,-192,2023-04-01T04:30:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_rebounds_over_under,zeke nnaji,False,3.5,-245,2023-04-01T04:24:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,zeke nnaji,False,9.5,106,2023-04-01T04:42:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_rebounds_over_under,zeke nnaji,False,4.5,-198,2023-04-01T04:42:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_steals_over_under,zeke nnaji,True,1.5,920,2023-04-01T04:42:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_steals_over_under,zeke nnaji,False,0.5,-166,2023-04-01T03:02:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_steals_over_under,zeke nnaji,False,1.5,-3500,2023-04-01T04:42:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_threes_over_under,zeke nnaji,True,0.5,280,2023-04-01T04:16:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_threes_over_under,zeke nnaji,True,1.5,920,2023-04-01T04:42:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_threes_over_under,zeke nnaji,False,0.5,-420,2023-04-01T04:16:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_threes_over_under,zeke nnaji,False,1.5,-3500,2023-04-01T04:42:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_steals_over_under,zeke nnaji,True,0.5,126,2023-04-01T03:02:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,zeke nnaji,False,5.5,-154,2023-04-01T04:18:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,zeke nnaji,False,7.5,182,2023-04-01T04:26:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_blocks_over_under,zeke nnaji,True,0.5,1000,2023-04-01T04:28:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,zeke nnaji,False,4.5,-152,2023-04-01T03:14:02,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,zeke nnaji,False,3.5,-136,2023-04-01T04:14:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,zeke nnaji,False,2.5,104,2023-04-01T04:16:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,zeke nnaji,True,9.5,-140,2023-04-01T04:42:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,zeke nnaji,True,7.5,-250,2023-04-01T04:26:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,zeke nnaji,True,6.5,-144,2023-04-01T04:24:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,zeke nnaji,True,5.5,116,2023-04-01T04:18:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,zeke nnaji,True,4.5,114,2023-04-01T03:14:02,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,zeke nnaji,True,3.5,102,2023-04-01T04:14:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,zeke nnaji,True,2.5,-138,2023-04-01T04:16:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_blocks_over_under,zeke nnaji,False,1.5,-250,2023-04-01T03:04:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_assists_over_under,zeke nnaji,True,0.5,800,2023-04-01T04:42:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_assists_over_under,zeke nnaji,False,0.5,-2200,2023-04-01T04:42:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_blocks_over_under,zeke nnaji,False,0.5,-5000,2023-04-01T04:34:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_blocks_over_under,zeke nnaji,True,1.5,182,2023-04-01T03:04:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_steals_over_under,zeke nnaji,True,0.5,105,2023-04-07T01:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_threes_over_under,zeke nnaji,False,0.5,-110,2023-04-07T01:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_blocks_over_under,zeke nnaji,True,0.5,140,2023-04-07T01:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_blocks_over_under,zeke nnaji,False,0.5,-175,2023-04-07T01:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_points_over_under,zeke nnaji,True,8.5,-102,2023-04-07T01:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_points_over_under,zeke nnaji,False,8.5,-120,2023-04-07T01:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_points_over_under,zeke nnaji,True,8.5,100,2023-04-07T01:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_points_over_under,zeke nnaji,False,8.5,-130,2023-04-07T01:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_threes_over_under,zeke nnaji,True,0.5,-120,2023-04-07T01:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_rebounds_over_under,zeke nnaji,False,5.5,-138,2023-04-07T02:00:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_rebounds_over_under,zeke nnaji,True,5.5,120,2023-04-07T01:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_rebounds_over_under,zeke nnaji,False,5.5,-150,2023-04-07T01:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_steals_over_under,zeke nnaji,False,0.5,-135,2023-04-07T01:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_rebounds_over_under,zeke nnaji,True,5.5,112,2023-04-07T02:00:01,Phoenix Suns,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_rebounds_over_under,zeke nnaji,False,4.5,-120,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_rebounds_over_under,zeke nnaji,True,4.5,-115,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_steals_over_under,zeke nnaji,True,0.5,135,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_rebounds_over_under,zeke nnaji,False,4.5,-119,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_threes_over_under,zeke nnaji,False,0.5,-150,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_threes_over_under,zeke nnaji,True,0.5,116,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_rebounds_over_under,zeke nnaji,True,4.5,-110,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_points_over_under,zeke nnaji,False,6.5,100,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_points_over_under,zeke nnaji,True,6.5,-130,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_blocks_over_under,zeke nnaji,False,0.5,-180,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_blocks_over_under,zeke nnaji,True,0.5,145,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_threes_over_under,zeke nnaji,False,0.5,-160,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_steals_over_under,zeke nnaji,False,0.5,-165,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_threes_over_under,zeke nnaji,True,0.5,120,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_rebounds_over_under,zeke nnaji,False,4.5,-105,2023-04-09T19:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_rebounds_over_under,zeke nnaji,False,5.5,-105,2023-04-09T21:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_rebounds_over_under,zeke nnaji,False,6.5,-145,2023-04-09T20:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_rebounds_over_under,zeke nnaji,False,7.5,135,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,caesars,player_rebounds_over_under,zeke nnaji,True,4.5,-131,2023-04-09T19:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_rebounds_over_under,zeke nnaji,True,4.5,-125,2023-04-09T19:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,caesars,player_rebounds_over_under,zeke nnaji,False,4.5,-104,2023-04-09T19:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_rebounds_over_under,zeke nnaji,True,7.5,-186,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_rebounds_over_under,zeke nnaji,False,5.5,-104,2023-04-09T21:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_rebounds_over_under,zeke nnaji,False,6.5,-152,2023-04-09T20:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_rebounds_over_under,zeke nnaji,True,7.5,-185,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_rebounds_over_under,zeke nnaji,True,6.5,110,2023-04-09T20:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_rebounds_over_under,zeke nnaji,False,7.5,138,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_rebounds_over_under,zeke nnaji,True,5.5,-125,2023-04-09T21:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_steals_over_under,zeke nnaji,True,1.5,640,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_threes_over_under,zeke nnaji,False,1.5,-120,2023-04-09T20:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_steals_over_under,zeke nnaji,True,0.5,115,2023-04-09T19:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,caesars,player_threes_over_under,zeke nnaji,False,0.5,126,2023-04-09T19:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,caesars,player_threes_over_under,zeke nnaji,True,0.5,-174,2023-04-09T19:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_threes_over_under,zeke nnaji,False,2.5,-700,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_rebounds_over_under,zeke nnaji,True,6.5,114,2023-04-09T20:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_threes_over_under,zeke nnaji,False,0.5,140,2023-04-09T19:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_threes_over_under,zeke nnaji,True,2.5,400,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_steals_over_under,zeke nnaji,False,1.5,-1450,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_threes_over_under,zeke nnaji,True,0.5,-175,2023-04-09T19:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_threes_over_under,zeke nnaji,False,1.5,-128,2023-04-09T20:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_threes_over_under,zeke nnaji,True,2.5,410,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_threes_over_under,zeke nnaji,True,1.5,-104,2023-04-09T20:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_steals_over_under,zeke nnaji,False,1.5,-1400,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_steals_over_under,zeke nnaji,False,0.5,-145,2023-04-09T19:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_steals_over_under,zeke nnaji,True,1.5,650,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_threes_over_under,zeke nnaji,False,2.5,-700,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_rebounds_over_under,zeke nnaji,True,5.5,-128,2023-04-09T21:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_threes_over_under,zeke nnaji,True,1.5,-110,2023-04-09T20:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,caesars,player_points_over_under,zeke nnaji,True,8.5,-137,2023-04-09T19:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,caesars,player_points_over_under,zeke nnaji,False,8.5,100,2023-04-09T19:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_assists_over_under,zeke nnaji,True,0.5,550,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_assists_over_under,zeke nnaji,False,0.5,-1100,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_blocks_over_under,zeke nnaji,True,0.5,750,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_blocks_over_under,zeke nnaji,False,0.5,-2000,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_blocks_over_under,zeke nnaji,True,0.5,700,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_blocks_over_under,zeke nnaji,False,0.5,-1600,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_points_over_under,zeke nnaji,True,11.5,112,2023-04-09T20:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_points_over_under,zeke nnaji,True,13.5,130,2023-04-09T21:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_points_over_under,zeke nnaji,True,14.5,-146,2023-04-09T21:00:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_points_over_under,zeke nnaji,True,15.5,-125,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_points_over_under,zeke nnaji,False,11.5,-148,2023-04-09T20:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_points_over_under,zeke nnaji,True,13.5,125,2023-04-09T21:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_points_over_under,zeke nnaji,False,14.5,110,2023-04-09T21:00:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_points_over_under,zeke nnaji,False,15.5,-106,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_points_over_under,zeke nnaji,True,8.5,-135,2023-04-09T19:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_points_over_under,zeke nnaji,True,11.5,105,2023-04-09T20:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_points_over_under,zeke nnaji,True,14.5,-130,2023-04-09T21:00:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_points_over_under,zeke nnaji,True,15.5,-125,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_points_over_under,zeke nnaji,False,8.5,105,2023-04-09T19:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_points_over_under,zeke nnaji,False,11.5,-140,2023-04-09T20:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_points_over_under,zeke nnaji,False,13.5,-170,2023-04-09T21:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_points_over_under,zeke nnaji,False,14.5,100,2023-04-09T21:00:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_points_over_under,zeke nnaji,False,15.5,-105,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_points_over_under,zeke nnaji,False,13.5,-174,2023-04-09T21:15:01,Denver Nuggets,Sacramento Kings
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_rebounds_over_under,zeke nnaji,True,3.5,120,2023-10-29T21:35:57,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_rebounds_over_under,zeke nnaji,True,2.5,-115,2023-10-29T21:30:06,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_rebounds_over_under,zeke nnaji,True,1.5,-190,2023-10-29T21:25:02,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_rebounds_over_under,zeke nnaji,False,3.5,-125,2023-10-29T21:35:24,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_rebounds_over_under,zeke nnaji,True,2.5,-120,2023-10-29T21:30:05,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_rebounds_over_under,zeke nnaji,False,1.5,146,2023-10-29T21:25:03,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_rebounds_over_under,zeke nnaji,True,3.5,-106,2023-10-29T21:35:24,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_rebounds_over_under,zeke nnaji,False,1.5,140,2023-10-29T21:25:02,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_rebounds_over_under,zeke nnaji,True,1.5,-198,2023-10-29T21:25:03,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_rebounds_over_under,zeke nnaji,False,2.5,-110,2023-10-29T21:30:05,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_rebounds_over_under,zeke nnaji,False,2.5,-115,2023-10-29T21:30:06,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_rebounds_over_under,zeke nnaji,False,2.5,-185,2023-10-29T21:05:28,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_rebounds_over_under,zeke nnaji,True,1.5,-185,2023-10-29T21:11:11,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_rebounds_over_under,zeke nnaji,True,2.5,130,2023-10-29T21:05:28,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_rebounds_over_under,zeke nnaji,False,1.5,130,2023-10-29T21:11:11,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_points_over_under,zeke nnaji,False,3.5,-130,2023-10-29T20:15:26,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_steals_over_under,zeke nnaji,True,0.5,800,2023-10-29T21:35:24,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_steals_over_under,zeke nnaji,False,0.5,-2200,2023-10-29T21:35:24,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_steals_over_under,zeke nnaji,True,0.5,750,2023-10-29T21:35:57,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_steals_over_under,zeke nnaji,False,0.5,-2000,2023-10-29T21:35:57,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_steals_over_under,zeke nnaji,True,0.5,260,2023-10-29T20:20:05,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_steals_over_under,zeke nnaji,False,0.5,-425,2023-10-29T20:20:05,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_threes_over_under,zeke nnaji,True,0.5,190,2023-10-29T19:45:11,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_threes_over_under,zeke nnaji,False,0.5,-250,2023-10-29T19:45:11,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_rebounds_over_under,zeke nnaji,False,3.5,-160,2023-10-29T21:35:57,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_points_over_under,zeke nnaji,False,2.5,-130,2023-10-29T20:20:05,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_points_over_under,zeke nnaji,False,1.5,110,2023-10-29T21:25:02,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_points_over_under,zeke nnaji,True,2.5,-110,2023-10-29T20:20:05,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_assists_over_under,zeke nnaji,True,0.5,550,2023-10-29T21:30:05,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_assists_over_under,zeke nnaji,True,1.5,680,2023-10-29T21:35:24,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_assists_over_under,zeke nnaji,False,0.5,-1100,2023-10-29T21:30:05,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_assists_over_under,zeke nnaji,False,1.5,-1600,2023-10-29T21:35:24,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_blocks_over_under,zeke nnaji,True,0.5,880,2023-10-29T21:35:24,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_blocks_over_under,zeke nnaji,True,1.5,300,2023-10-29T20:20:23,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_blocks_over_under,zeke nnaji,False,0.5,-3000,2023-10-29T21:35:24,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_blocks_over_under,zeke nnaji,False,1.5,-450,2023-10-29T20:20:23,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_blocks_over_under,zeke nnaji,True,0.5,900,2023-10-29T21:35:57,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_blocks_over_under,zeke nnaji,True,1.5,270,2023-10-29T20:20:11,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_blocks_over_under,zeke nnaji,False,0.5,-3500,2023-10-29T21:35:57,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_points_over_under,zeke nnaji,True,3.5,-110,2023-10-29T20:15:26,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_blocks_over_under,zeke nnaji,False,1.5,-390,2023-10-29T20:20:11,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_blocks_over_under,zeke nnaji,True,1.5,270,2023-10-29T20:20:05,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_blocks_over_under,zeke nnaji,False,0.5,-325,2023-10-29T20:00:29,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_points_over_under,zeke nnaji,True,0.5,130,2023-10-29T21:35:57,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_points_over_under,zeke nnaji,True,1.5,-145,2023-10-29T21:25:02,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_points_over_under,zeke nnaji,True,2.5,130,2023-10-29T21:15:07,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_points_over_under,zeke nnaji,True,3.5,-105,2023-10-29T20:00:07,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_points_over_under,zeke nnaji,True,4.5,-105,2023-10-29T20:05:32,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_points_over_under,zeke nnaji,False,0.5,-170,2023-10-29T21:35:57,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_points_over_under,zeke nnaji,False,2.5,-175,2023-10-29T21:15:07,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_points_over_under,zeke nnaji,False,3.5,-125,2023-10-29T20:00:07,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_points_over_under,zeke nnaji,False,4.5,-130,2023-10-29T20:05:32,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_blocks_over_under,zeke nnaji,True,0.5,210,2023-10-29T20:00:29,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_blocks_over_under,zeke nnaji,False,1.5,-450,2023-10-29T20:20:05,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_assists_over_under,zeke nnaji,True,0.5,1000,2023-10-28T01:10:28,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_threes_over_under,zeke nnaji,False,0.5,-375,2023-10-27T23:15:15,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,zeke nnaji,True,3.5,-120,2023-10-28T00:35:21,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,zeke nnaji,True,4.5,-115,2023-10-28T00:55:11,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,zeke nnaji,True,5.5,140,2023-10-28T01:00:31,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,zeke nnaji,True,7.5,1100,2023-10-28T01:10:13,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,zeke nnaji,False,0.5,-210,2023-10-27T23:31:10,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,zeke nnaji,False,2.5,-210,2023-10-28T00:45:24,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,zeke nnaji,True,2.5,155,2023-10-28T00:45:24,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,zeke nnaji,False,3.5,-110,2023-10-28T00:35:21,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,zeke nnaji,False,5.5,-190,2023-10-28T01:00:31,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,zeke nnaji,False,7.5,-8000,2023-10-28T01:10:13,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,betmgm,player_points_over_under,zeke nnaji,True,3.5,-105,2023-10-27T17:45:04,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,betmgm,player_points_over_under,zeke nnaji,False,3.5,-125,2023-10-27T16:30:51,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_points_over_under,zeke nnaji,True,2.5,100,2023-10-27T23:31:57,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_points_over_under,zeke nnaji,True,3.5,-110,2023-10-27T23:15:15,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,zeke nnaji,False,4.5,-115,2023-10-28T00:55:11,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,zeke nnaji,True,0.5,155,2023-10-27T23:31:10,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_blocks_over_under,zeke nnaji,False,0.5,-475,2023-10-27T23:20:30,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_blocks_over_under,zeke nnaji,True,0.5,280,2023-10-27T23:20:30,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_assists_over_under,zeke nnaji,False,0.5,-100000,2023-10-28T01:16:02,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_blocks_over_under,zeke nnaji,True,0.5,240,2023-10-27T23:32:21,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_blocks_over_under,zeke nnaji,True,1.5,880,2023-10-28T00:45:21,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_blocks_over_under,zeke nnaji,True,2.5,1000,2023-10-28T01:10:28,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_blocks_over_under,zeke nnaji,False,0.5,-350,2023-10-27T23:32:21,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_blocks_over_under,zeke nnaji,False,1.5,-3000,2023-10-28T00:45:21,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_blocks_over_under,zeke nnaji,False,2.5,-100000,2023-10-28T01:10:28,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_blocks_over_under,zeke nnaji,True,0.5,650,2023-10-27T23:31:10,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_blocks_over_under,zeke nnaji,True,1.5,750,2023-10-28T00:45:24,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_blocks_over_under,zeke nnaji,True,2.5,850,2023-10-28T01:05:06,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_blocks_over_under,zeke nnaji,False,0.5,-1400,2023-10-27T23:31:10,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_blocks_over_under,zeke nnaji,False,1.5,-2000,2023-10-28T00:45:24,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_blocks_over_under,zeke nnaji,False,2.5,-2500,2023-10-28T01:00:31,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,betmgm,player_blocks_over_under,zeke nnaji,True,0.5,300,2023-10-27T17:45:04,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,betmgm,player_blocks_over_under,zeke nnaji,False,0.5,-450,2023-10-27T16:30:51,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_points_over_under,zeke nnaji,True,4.5,-135,2023-10-27T23:55:13,Memphis Grizzlies,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_threes_over_under,zeke nnaji,True,0.5,185,2023-10-29T19:45:07,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_points_over_under,zeke nnaji,False,2.5,-140,2023-10-27T23:31:57,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_points_over_under,zeke nnaji,False,4.5,-105,2023-10-27T23:55:13,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_steals_over_under,zeke nnaji,False,1.5,-100000,2023-10-28T01:16:02,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_steals_over_under,zeke nnaji,True,0.5,650,2023-10-28T00:45:24,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_steals_over_under,zeke nnaji,True,1.5,700,2023-10-28T01:00:31,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_steals_over_under,zeke nnaji,False,0.5,-1600,2023-10-28T00:45:24,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_steals_over_under,zeke nnaji,False,1.5,-1800,2023-10-28T01:00:31,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,betmgm,player_steals_over_under,zeke nnaji,True,0.5,240,2023-10-27T16:25:19,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_steals_over_under,zeke nnaji,False,0.5,-3000,2023-10-28T00:45:21,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,betmgm,player_steals_over_under,zeke nnaji,False,0.5,-350,2023-10-27T16:25:19,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_steals_over_under,zeke nnaji,False,0.5,-375,2023-10-27T23:55:13,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_threes_over_under,zeke nnaji,True,0.5,275,2023-10-27T23:15:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_threes_over_under,zeke nnaji,False,0.5,-370,2023-10-27T23:15:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,betmgm,player_threes_over_under,zeke nnaji,True,0.5,260,2023-10-27T17:45:04,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,betmgm,player_threes_over_under,zeke nnaji,False,0.5,-375,2023-10-27T17:45:04,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_threes_over_under,zeke nnaji,True,0.5,240,2023-10-27T23:15:15,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_steals_over_under,zeke nnaji,True,0.5,235,2023-10-27T23:55:13,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_steals_over_under,zeke nnaji,True,1.5,1000,2023-10-28T01:10:28,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_steals_over_under,zeke nnaji,True,0.5,880,2023-10-28T00:45:21,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_rebounds_over_under,zeke nnaji,False,1.5,-135,2023-10-27T23:31:57,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_rebounds_over_under,zeke nnaji,True,0.5,1000,2023-10-28T01:10:28,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_rebounds_over_under,zeke nnaji,True,1.5,112,2023-10-28T00:15:18,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_rebounds_over_under,zeke nnaji,True,2.5,-114,2023-10-27T23:35:46,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_rebounds_over_under,zeke nnaji,False,0.5,-100000,2023-10-28T01:25:23,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_rebounds_over_under,zeke nnaji,False,1.5,-148,2023-10-28T00:15:18,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_rebounds_over_under,zeke nnaji,False,2.5,-114,2023-10-27T23:35:46,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_rebounds_over_under,zeke nnaji,True,0.5,1100,2023-10-28T01:10:13,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_rebounds_over_under,zeke nnaji,True,1.5,125,2023-10-28T01:00:31,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_rebounds_over_under,zeke nnaji,True,2.5,-110,2023-10-27T23:35:17,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_rebounds_over_under,zeke nnaji,False,0.5,-10000,2023-10-28T01:10:13,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_rebounds_over_under,zeke nnaji,False,1.5,-170,2023-10-28T01:00:31,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_rebounds_over_under,zeke nnaji,False,2.5,-125,2023-10-27T23:35:17,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,betmgm,player_rebounds_over_under,zeke nnaji,True,1.5,-135,2023-10-27T17:45:04,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,betmgm,player_rebounds_over_under,zeke nnaji,False,1.5,100,2023-10-27T17:45:04,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_rebounds_over_under,zeke nnaji,True,1.5,-105,2023-10-27T23:31:57,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_points_over_under,zeke nnaji,False,3.5,-120,2023-10-27T23:15:15,Memphis Grizzlies,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_threes_over_under,zeke nnaji,False,0.5,-275,2023-10-29T19:45:07,Oklahoma City Thunder,Denver Nuggets

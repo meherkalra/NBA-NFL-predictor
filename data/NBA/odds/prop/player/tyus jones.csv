@@ -1,0 +1,1159 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-20,976374cabbe81585f0d8f27bc10b67e5,fanduel,player_assists_over_under,tyus jones,False,4.5,-205,2023-03-21T02:15:01,Memphis Grizzlies,Dallas Mavericks
+2023-03-20,976374cabbe81585f0d8f27bc10b67e5,fanduel,player_points_over_under,tyus jones,True,18.5,-182,2023-03-21T02:00:01,Memphis Grizzlies,Dallas Mavericks
+2023-03-20,976374cabbe81585f0d8f27bc10b67e5,fanduel,player_points_over_under,tyus jones,True,17.5,-158,2023-03-21T01:45:01,Memphis Grizzlies,Dallas Mavericks
+2023-03-20,976374cabbe81585f0d8f27bc10b67e5,fanduel,player_points_over_under,tyus jones,True,16.5,-166,2023-03-21T02:15:01,Memphis Grizzlies,Dallas Mavericks
+2023-03-20,976374cabbe81585f0d8f27bc10b67e5,fanduel,player_points_over_under,tyus jones,True,15.5,106,2023-03-21T00:30:02,Memphis Grizzlies,Dallas Mavericks
+2023-03-20,976374cabbe81585f0d8f27bc10b67e5,fanduel,player_points_over_under,tyus jones,True,14.5,-108,2023-03-21T00:45:01,Memphis Grizzlies,Dallas Mavericks
+2023-03-20,976374cabbe81585f0d8f27bc10b67e5,fanduel,player_points_over_under,tyus jones,True,13.5,-112,2023-03-21T00:15:02,Memphis Grizzlies,Dallas Mavericks
+2023-03-20,976374cabbe81585f0d8f27bc10b67e5,fanduel,player_blocks_over_under,tyus jones,False,0.5,-100000,2023-03-21T02:15:01,Memphis Grizzlies,Dallas Mavericks
+2023-03-20,976374cabbe81585f0d8f27bc10b67e5,fanduel,player_points_over_under,tyus jones,True,20.5,102,2023-03-21T01:30:01,Memphis Grizzlies,Dallas Mavericks
+2023-03-20,976374cabbe81585f0d8f27bc10b67e5,fanduel,player_blocks_over_under,tyus jones,True,0.5,1000,2023-03-21T01:45:01,Memphis Grizzlies,Dallas Mavericks
+2023-03-20,976374cabbe81585f0d8f27bc10b67e5,fanduel,player_assists_over_under,tyus jones,False,6.5,106,2023-03-21T00:15:02,Memphis Grizzlies,Dallas Mavericks
+2023-03-20,976374cabbe81585f0d8f27bc10b67e5,fanduel,player_assists_over_under,tyus jones,False,5.5,-130,2023-03-21T00:45:01,Memphis Grizzlies,Dallas Mavericks
+2023-03-20,976374cabbe81585f0d8f27bc10b67e5,fanduel,player_assists_over_under,tyus jones,False,3.5,-210,2023-03-21T01:45:01,Memphis Grizzlies,Dallas Mavericks
+2023-03-20,976374cabbe81585f0d8f27bc10b67e5,fanduel,player_assists_over_under,tyus jones,True,7.5,-120,2023-03-21T00:00:02,Memphis Grizzlies,Dallas Mavericks
+2023-03-20,976374cabbe81585f0d8f27bc10b67e5,fanduel,player_assists_over_under,tyus jones,True,6.5,-140,2023-03-21T00:15:02,Memphis Grizzlies,Dallas Mavericks
+2023-03-20,976374cabbe81585f0d8f27bc10b67e5,fanduel,player_points_over_under,tyus jones,False,14.5,-122,2023-03-21T00:45:01,Memphis Grizzlies,Dallas Mavericks
+2023-03-20,976374cabbe81585f0d8f27bc10b67e5,fanduel,player_assists_over_under,tyus jones,True,5.5,-102,2023-03-21T00:45:01,Memphis Grizzlies,Dallas Mavericks
+2023-03-20,976374cabbe81585f0d8f27bc10b67e5,fanduel,player_assists_over_under,tyus jones,False,7.5,-102,2023-03-21T00:00:02,Memphis Grizzlies,Dallas Mavericks
+2023-03-20,976374cabbe81585f0d8f27bc10b67e5,fanduel,player_assists_over_under,tyus jones,True,4.5,152,2023-03-21T02:15:01,Memphis Grizzlies,Dallas Mavericks
+2023-03-20,976374cabbe81585f0d8f27bc10b67e5,fanduel,player_threes_over_under,tyus jones,False,2.5,-1450,2023-03-21T02:15:01,Memphis Grizzlies,Dallas Mavericks
+2023-03-20,976374cabbe81585f0d8f27bc10b67e5,fanduel,player_threes_over_under,tyus jones,True,2.5,640,2023-03-21T02:15:01,Memphis Grizzlies,Dallas Mavericks
+2023-03-20,976374cabbe81585f0d8f27bc10b67e5,fanduel,player_points_over_under,tyus jones,False,15.5,-140,2023-03-21T00:30:02,Memphis Grizzlies,Dallas Mavericks
+2023-03-20,976374cabbe81585f0d8f27bc10b67e5,fanduel,player_points_over_under,tyus jones,False,16.5,124,2023-03-21T02:15:01,Memphis Grizzlies,Dallas Mavericks
+2023-03-20,976374cabbe81585f0d8f27bc10b67e5,fanduel,player_points_over_under,tyus jones,False,17.5,118,2023-03-21T01:45:01,Memphis Grizzlies,Dallas Mavericks
+2023-03-20,976374cabbe81585f0d8f27bc10b67e5,fanduel,player_points_over_under,tyus jones,False,18.5,136,2023-03-21T02:00:01,Memphis Grizzlies,Dallas Mavericks
+2023-03-20,976374cabbe81585f0d8f27bc10b67e5,fanduel,player_points_over_under,tyus jones,False,20.5,-136,2023-03-21T01:30:01,Memphis Grizzlies,Dallas Mavericks
+2023-03-20,976374cabbe81585f0d8f27bc10b67e5,fanduel,player_rebounds_over_under,tyus jones,True,1.5,320,2023-03-21T02:15:01,Memphis Grizzlies,Dallas Mavericks
+2023-03-20,976374cabbe81585f0d8f27bc10b67e5,fanduel,player_rebounds_over_under,tyus jones,True,2.5,-118,2023-03-21T01:30:01,Memphis Grizzlies,Dallas Mavericks
+2023-03-20,976374cabbe81585f0d8f27bc10b67e5,fanduel,player_threes_over_under,tyus jones,False,1.5,140,2023-03-21T01:15:02,Memphis Grizzlies,Dallas Mavericks
+2023-03-20,976374cabbe81585f0d8f27bc10b67e5,fanduel,player_rebounds_over_under,tyus jones,True,3.5,112,2023-03-21T00:15:02,Memphis Grizzlies,Dallas Mavericks
+2023-03-20,976374cabbe81585f0d8f27bc10b67e5,fanduel,player_rebounds_over_under,tyus jones,False,2.5,-112,2023-03-21T01:30:01,Memphis Grizzlies,Dallas Mavericks
+2023-03-20,976374cabbe81585f0d8f27bc10b67e5,fanduel,player_rebounds_over_under,tyus jones,False,3.5,-148,2023-03-21T00:15:02,Memphis Grizzlies,Dallas Mavericks
+2023-03-20,976374cabbe81585f0d8f27bc10b67e5,fanduel,player_steals_over_under,tyus jones,True,0.5,-130,2023-03-21T01:15:02,Memphis Grizzlies,Dallas Mavericks
+2023-03-20,976374cabbe81585f0d8f27bc10b67e5,fanduel,player_steals_over_under,tyus jones,True,1.5,800,2023-03-21T02:15:01,Memphis Grizzlies,Dallas Mavericks
+2023-03-20,976374cabbe81585f0d8f27bc10b67e5,fanduel,player_steals_over_under,tyus jones,False,0.5,-102,2023-03-21T01:15:02,Memphis Grizzlies,Dallas Mavericks
+2023-03-20,976374cabbe81585f0d8f27bc10b67e5,fanduel,player_steals_over_under,tyus jones,False,1.5,-2200,2023-03-21T02:15:01,Memphis Grizzlies,Dallas Mavericks
+2023-03-20,976374cabbe81585f0d8f27bc10b67e5,fanduel,player_threes_over_under,tyus jones,True,1.5,-188,2023-03-21T01:15:02,Memphis Grizzlies,Dallas Mavericks
+2023-03-20,976374cabbe81585f0d8f27bc10b67e5,fanduel,player_rebounds_over_under,tyus jones,False,1.5,-500,2023-03-21T02:15:01,Memphis Grizzlies,Dallas Mavericks
+2023-03-20,976374cabbe81585f0d8f27bc10b67e5,fanduel,player_assists_over_under,tyus jones,True,3.5,154,2023-03-21T01:45:01,Memphis Grizzlies,Dallas Mavericks
+2023-03-20,976374cabbe81585f0d8f27bc10b67e5,fanduel,player_points_over_under,tyus jones,False,13.5,-118,2023-03-21T00:15:02,Memphis Grizzlies,Dallas Mavericks
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_steals_over_under,tyus jones,False,1.5,-240,2023-03-23T00:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_points_over_under,tyus jones,True,13.5,100,2023-03-22T23:45:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_points_over_under,tyus jones,True,15.5,-144,2023-03-23T01:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_points_over_under,tyus jones,True,16.5,-112,2023-03-23T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_points_over_under,tyus jones,True,17.5,120,2023-03-23T01:45:02,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_points_over_under,tyus jones,True,18.5,114,2023-03-23T00:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_points_over_under,tyus jones,False,12.5,100,2023-03-23T00:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_points_over_under,tyus jones,False,13.5,-122,2023-03-22T23:45:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_points_over_under,tyus jones,False,15.5,108,2023-03-23T01:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_points_over_under,tyus jones,False,16.5,-118,2023-03-23T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_points_over_under,tyus jones,False,17.5,-160,2023-03-23T01:45:02,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_points_over_under,tyus jones,False,18.5,-152,2023-03-23T00:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_rebounds_over_under,tyus jones,True,2.5,-250,2023-03-23T01:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_rebounds_over_under,tyus jones,True,3.5,110,2023-03-23T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_rebounds_over_under,tyus jones,True,4.5,134,2023-03-23T00:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_rebounds_over_under,tyus jones,False,2.5,182,2023-03-23T01:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_points_over_under,tyus jones,True,12.5,-122,2023-03-23T00:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_blocks_over_under,tyus jones,False,0.5,-10000,2023-03-23T01:45:02,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_rebounds_over_under,tyus jones,False,3.5,-146,2023-03-23T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_assists_over_under,tyus jones,False,9.5,-136,2023-03-23T01:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_threes_over_under,tyus jones,True,1.5,-260,2023-03-23T01:00:02,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_threes_over_under,tyus jones,True,2.5,-130,2023-03-23T01:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_threes_over_under,tyus jones,True,3.5,182,2023-03-23T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_threes_over_under,tyus jones,False,1.5,188,2023-03-23T01:00:02,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_threes_over_under,tyus jones,False,2.5,-102,2023-03-23T01:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_threes_over_under,tyus jones,False,3.5,-250,2023-03-23T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_steals_over_under,tyus jones,True,1.5,174,2023-03-23T00:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_blocks_over_under,tyus jones,True,0.5,1000,2023-03-23T01:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_steals_over_under,tyus jones,True,0.5,240,2023-03-23T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_assists_over_under,tyus jones,True,6.5,112,2023-03-23T00:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_assists_over_under,tyus jones,True,7.5,-120,2023-03-23T00:45:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_assists_over_under,tyus jones,True,8.5,140,2023-03-23T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_assists_over_under,tyus jones,True,9.5,102,2023-03-23T01:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_assists_over_under,tyus jones,False,6.5,-138,2023-03-23T00:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_assists_over_under,tyus jones,False,7.5,-110,2023-03-23T00:45:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_assists_over_under,tyus jones,False,8.5,-188,2023-03-23T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_rebounds_over_under,tyus jones,False,4.5,-180,2023-03-23T00:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_steals_over_under,tyus jones,False,0.5,-350,2023-03-23T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_assists_over_under,tyus jones,True,6.5,132,2023-03-25T00:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_assists_over_under,tyus jones,True,4.5,-120,2023-03-25T01:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_assists_over_under,tyus jones,True,5.5,-154,2023-03-25T01:15:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_assists_over_under,tyus jones,True,8.5,174,2023-03-25T01:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_assists_over_under,tyus jones,False,4.5,-110,2023-03-25T01:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_threes_over_under,tyus jones,False,3.5,-10000,2023-03-25T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_threes_over_under,tyus jones,False,2.5,-245,2023-03-25T00:45:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_threes_over_under,tyus jones,False,1.5,-128,2023-03-25T00:15:02,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_threes_over_under,tyus jones,True,3.5,1000,2023-03-25T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_threes_over_under,tyus jones,True,2.5,178,2023-03-25T00:45:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_threes_over_under,tyus jones,True,1.5,-104,2023-03-25T00:15:02,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_steals_over_under,tyus jones,False,1.5,-215,2023-03-25T00:15:02,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_steals_over_under,tyus jones,False,0.5,-50000,2023-03-25T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_steals_over_under,tyus jones,True,1.5,158,2023-03-25T00:15:02,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_assists_over_under,tyus jones,True,9.5,800,2023-03-25T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_rebounds_over_under,tyus jones,False,2.5,-138,2023-03-25T01:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_rebounds_over_under,tyus jones,True,3.5,1000,2023-03-25T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_rebounds_over_under,tyus jones,True,2.5,104,2023-03-25T01:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_points_over_under,tyus jones,False,14.5,-118,2023-03-25T01:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_steals_over_under,tyus jones,True,0.5,1000,2023-03-25T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_points_over_under,tyus jones,False,11.5,-700,2023-03-25T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_assists_over_under,tyus jones,False,5.5,116,2023-03-25T01:15:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_points_over_under,tyus jones,False,12.5,-270,2023-03-25T01:45:02,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_assists_over_under,tyus jones,False,8.5,-240,2023-03-25T01:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_assists_over_under,tyus jones,False,9.5,-2200,2023-03-25T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_blocks_over_under,tyus jones,True,0.5,1000,2023-03-25T01:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_assists_over_under,tyus jones,False,6.5,-178,2023-03-25T00:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_points_over_under,tyus jones,True,10.5,-136,2023-03-25T00:45:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_points_over_under,tyus jones,True,11.5,410,2023-03-25T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_points_over_under,tyus jones,True,12.5,194,2023-03-25T01:45:02,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_points_over_under,tyus jones,True,14.5,-114,2023-03-25T01:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_points_over_under,tyus jones,False,10.5,102,2023-03-25T00:45:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_blocks_over_under,tyus jones,False,0.5,-100000,2023-03-25T01:45:02,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_rebounds_over_under,tyus jones,False,3.5,-7000,2023-03-25T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-26,c86d3a6c5974f5fd63ec5a6876da980b,fanduel,player_points_over_under,tyus jones,False,9.5,-118,2023-03-26T21:30:02,Atlanta Hawks,Memphis Grizzlies
+2023-03-26,c86d3a6c5974f5fd63ec5a6876da980b,fanduel,player_points_over_under,tyus jones,True,9.5,-104,2023-03-26T21:30:02,Atlanta Hawks,Memphis Grizzlies
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_blocks_over_under,tyus jones,True,0.5,1000,2023-03-29T01:00:01,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_assists_over_under,tyus jones,False,11.5,-178,2023-03-29T01:15:01,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_assists_over_under,tyus jones,False,10.5,118,2023-03-29T00:45:01,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_assists_over_under,tyus jones,True,8.5,-108,2023-03-29T00:15:01,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_assists_over_under,tyus jones,True,9.5,108,2023-03-29T02:00:02,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_assists_over_under,tyus jones,True,10.5,-158,2023-03-29T00:45:01,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_assists_over_under,tyus jones,True,11.5,132,2023-03-29T01:15:01,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_points_over_under,tyus jones,True,9.5,-125,2023-03-29T02:00:02,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_threes_over_under,tyus jones,False,2.5,-194,2023-03-29T00:00:02,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_threes_over_under,tyus jones,False,1.5,-158,2023-03-29T00:45:01,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_threes_over_under,tyus jones,False,0.5,-290,2023-03-29T02:00:02,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_threes_over_under,tyus jones,True,2.5,150,2023-03-29T00:00:02,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_threes_over_under,tyus jones,True,1.5,118,2023-03-29T00:45:01,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_threes_over_under,tyus jones,True,0.5,205,2023-03-29T02:00:02,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_steals_over_under,tyus jones,False,1.5,-440,2023-03-29T02:00:02,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_steals_over_under,tyus jones,False,0.5,-108,2023-03-29T01:15:01,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_steals_over_under,tyus jones,True,1.5,290,2023-03-29T02:00:02,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_steals_over_under,tyus jones,True,0.5,-122,2023-03-29T01:15:01,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_rebounds_over_under,tyus jones,False,4.5,-125,2023-03-29T02:00:02,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_rebounds_over_under,tyus jones,False,3.5,106,2023-03-29T01:30:02,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_rebounds_over_under,tyus jones,False,2.5,104,2023-03-29T01:15:01,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_rebounds_over_under,tyus jones,True,4.5,-106,2023-03-29T02:00:02,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_rebounds_over_under,tyus jones,True,3.5,-140,2023-03-29T01:30:02,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_rebounds_over_under,tyus jones,True,2.5,-138,2023-03-29T01:15:01,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_assists_over_under,tyus jones,False,9.5,-144,2023-03-29T02:00:02,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_points_over_under,tyus jones,False,14.5,100,2023-03-29T00:00:02,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_points_over_under,tyus jones,False,13.5,-114,2023-03-29T00:15:01,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_points_over_under,tyus jones,False,10.5,-144,2023-03-29T01:45:01,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_points_over_under,tyus jones,False,9.5,-106,2023-03-29T02:00:02,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_points_over_under,tyus jones,True,15.5,100,2023-03-28T19:15:02,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_points_over_under,tyus jones,True,14.5,-122,2023-03-29T00:00:02,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_points_over_under,tyus jones,True,13.5,-114,2023-03-29T00:15:01,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_points_over_under,tyus jones,True,10.5,108,2023-03-29T01:45:01,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_assists_over_under,tyus jones,False,8.5,-122,2023-03-29T00:15:01,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_blocks_over_under,tyus jones,False,0.5,-50000,2023-03-29T02:00:02,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_points_over_under,tyus jones,False,15.5,-122,2023-03-28T19:15:02,Memphis Grizzlies,Orlando Magic
+2023-03-31,548b2146893eb689ffaa67764de7c95e,fanduel,player_assists_over_under,tyus jones,True,3.5,-134,2023-04-01T00:02:01,Memphis Grizzlies,LA Clippers
+2023-03-31,548b2146893eb689ffaa67764de7c95e,fanduel,player_points_over_under,tyus jones,True,7.5,-120,2023-04-01T00:04:01,Memphis Grizzlies,LA Clippers
+2023-03-31,548b2146893eb689ffaa67764de7c95e,fanduel,player_assists_over_under,tyus jones,False,3.5,110,2023-04-01T00:02:01,Memphis Grizzlies,LA Clippers
+2023-03-31,548b2146893eb689ffaa67764de7c95e,fanduel,player_rebounds_over_under,tyus jones,True,2.5,138,2023-04-01T00:08:01,Memphis Grizzlies,LA Clippers
+2023-03-31,548b2146893eb689ffaa67764de7c95e,fanduel,player_rebounds_over_under,tyus jones,False,2.5,-170,2023-04-01T00:08:01,Memphis Grizzlies,LA Clippers
+2023-03-31,548b2146893eb689ffaa67764de7c95e,fanduel,player_points_over_under,tyus jones,False,7.5,-102,2023-04-01T00:04:01,Memphis Grizzlies,LA Clippers
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_threes_over_under,tyus jones,True,1.5,390,2023-04-06T02:15:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_threes_over_under,tyus jones,True,2.5,135,2023-04-06T00:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_threes_over_under,tyus jones,False,1.5,-650,2023-04-06T02:15:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_threes_over_under,tyus jones,False,2.5,-180,2023-04-06T00:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_steals_over_under,tyus jones,False,3.5,-1100,2023-04-06T02:15:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_steals_over_under,tyus jones,False,2.5,-330,2023-04-06T01:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_threes_over_under,tyus jones,False,1.5,-670,2023-04-06T02:15:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_steals_over_under,tyus jones,False,1.5,140,2023-04-06T00:30:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_steals_over_under,tyus jones,True,3.5,550,2023-04-06T02:15:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_steals_over_under,tyus jones,True,2.5,230,2023-04-06T01:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_steals_over_under,tyus jones,True,1.5,-190,2023-04-06T00:30:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_steals_over_under,tyus jones,False,3.5,-1200,2023-04-06T02:15:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_threes_over_under,tyus jones,False,2.5,-182,2023-04-06T00:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_steals_over_under,tyus jones,False,2.5,-330,2023-04-06T01:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_steals_over_under,tyus jones,False,1.5,-260,2023-04-06T00:15:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_steals_over_under,tyus jones,True,3.5,580,2023-04-06T02:15:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_steals_over_under,tyus jones,True,2.5,230,2023-04-06T01:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_steals_over_under,tyus jones,True,1.5,188,2023-04-06T00:15:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_steals_over_under,tyus jones,True,0.5,-198,2023-04-06T00:30:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_rebounds_over_under,tyus jones,False,7.5,-300,2023-04-06T02:15:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_rebounds_over_under,tyus jones,False,4.5,-115,2023-04-06T02:00:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_rebounds_over_under,tyus jones,False,3.5,-150,2023-04-06T00:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_rebounds_over_under,tyus jones,False,2.5,135,2023-04-06T00:15:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_rebounds_over_under,tyus jones,True,7.5,215,2023-04-06T02:15:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_rebounds_over_under,tyus jones,True,5.5,130,2023-04-06T01:30:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_rebounds_over_under,tyus jones,True,4.5,-115,2023-04-06T02:00:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_assists_over_under,tyus jones,False,4.5,-125,2023-04-04T23:38:37,Memphis Grizzlies,Portland Trail Blazers
+2023-04-05,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_assists_over_under,tyus jones,True,4.5,-105,2023-04-04T23:38:37,Memphis Grizzlies,Portland Trail Blazers
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_steals_over_under,tyus jones,False,0.5,146,2023-04-06T00:30:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_rebounds_over_under,tyus jones,False,5.5,-175,2023-04-06T01:30:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_rebounds_over_under,tyus jones,True,2.5,-185,2023-04-06T00:15:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_rebounds_over_under,tyus jones,False,7.5,-310,2023-04-06T02:15:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_blocks_over_under,tyus jones,False,0.5,-5000,2023-04-06T01:00:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_blocks_over_under,tyus jones,False,1.5,-100000,2023-04-06T02:15:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_blocks_over_under,tyus jones,True,0.5,750,2023-04-05T18:30:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_blocks_over_under,tyus jones,False,0.5,-1300,2023-04-05T18:30:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_points_over_under,tyus jones,True,11.5,-136,2023-04-06T02:00:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_points_over_under,tyus jones,True,12.5,-102,2023-04-06T01:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_points_over_under,tyus jones,True,13.5,-136,2023-04-06T01:15:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_points_over_under,tyus jones,True,14.5,134,2023-04-06T02:15:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_points_over_under,tyus jones,False,11.5,102,2023-04-06T02:00:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_points_over_under,tyus jones,False,12.5,-130,2023-04-06T01:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_points_over_under,tyus jones,False,13.5,102,2023-04-06T01:15:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_points_over_under,tyus jones,False,14.5,-180,2023-04-06T02:15:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_points_over_under,tyus jones,True,11.5,-135,2023-04-06T02:00:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_points_over_under,tyus jones,True,12.5,-110,2023-04-06T01:30:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_points_over_under,tyus jones,True,13.5,-135,2023-04-06T01:15:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_points_over_under,tyus jones,True,14.5,130,2023-04-06T02:15:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_points_over_under,tyus jones,True,15.5,-105,2023-04-06T00:30:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_rebounds_over_under,tyus jones,False,5.5,-180,2023-04-06T01:30:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_rebounds_over_under,tyus jones,False,4.5,-114,2023-04-06T02:00:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_rebounds_over_under,tyus jones,False,3.5,-154,2023-04-06T00:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_rebounds_over_under,tyus jones,False,2.5,142,2023-04-06T00:15:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_rebounds_over_under,tyus jones,True,7.5,220,2023-04-06T02:15:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_rebounds_over_under,tyus jones,True,5.5,134,2023-04-06T01:30:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_blocks_over_under,tyus jones,True,1.5,1000,2023-04-06T01:30:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_rebounds_over_under,tyus jones,True,4.5,-118,2023-04-06T02:00:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_rebounds_over_under,tyus jones,True,2.5,-192,2023-04-06T00:15:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_points_over_under,tyus jones,False,15.5,-130,2023-04-06T00:30:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_points_over_under,tyus jones,False,14.5,-175,2023-04-06T02:15:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_points_over_under,tyus jones,False,13.5,105,2023-04-06T01:15:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_points_over_under,tyus jones,False,12.5,-120,2023-04-06T01:30:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_points_over_under,tyus jones,False,11.5,100,2023-04-06T02:00:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_rebounds_over_under,tyus jones,True,3.5,116,2023-04-06T00:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_rebounds_over_under,tyus jones,True,3.5,110,2023-04-06T00:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_threes_over_under,tyus jones,True,1.5,400,2023-04-06T02:15:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_assists_over_under,tyus jones,True,8.5,120,2023-04-06T02:00:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_assists_over_under,tyus jones,False,9.5,-112,2023-04-06T02:15:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_assists_over_under,tyus jones,True,6.5,-140,2023-04-06T01:30:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_assists_over_under,tyus jones,True,7.5,-140,2023-04-06T01:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_assists_over_under,tyus jones,False,6.5,104,2023-04-06T01:30:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_assists_over_under,tyus jones,True,9.5,-120,2023-04-06T02:15:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_assists_over_under,tyus jones,False,6.5,105,2023-04-06T01:30:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_assists_over_under,tyus jones,False,7.5,105,2023-04-06T01:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_assists_over_under,tyus jones,False,8.5,-155,2023-04-06T02:00:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_assists_over_under,tyus jones,False,9.5,-110,2023-04-06T02:15:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_blocks_over_under,tyus jones,True,0.5,1000,2023-04-06T01:00:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_assists_over_under,tyus jones,True,9.5,-118,2023-04-06T02:15:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_assists_over_under,tyus jones,True,8.5,120,2023-04-06T02:00:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_assists_over_under,tyus jones,True,7.5,-138,2023-04-06T01:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_assists_over_under,tyus jones,True,6.5,-138,2023-04-06T01:30:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_threes_over_under,tyus jones,False,1.5,-155,2023-04-04T23:38:37,Memphis Grizzlies,Portland Trail Blazers
+2023-04-05,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_threes_over_under,tyus jones,True,1.5,125,2023-04-04T23:38:37,Memphis Grizzlies,Portland Trail Blazers
+2023-04-05,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_steals_over_under,tyus jones,False,0.5,140,2023-04-04T23:38:37,Memphis Grizzlies,Portland Trail Blazers
+2023-04-05,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_steals_over_under,tyus jones,True,0.5,-175,2023-04-04T23:38:37,Memphis Grizzlies,Portland Trail Blazers
+2023-04-05,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_rebounds_over_under,tyus jones,False,2.5,-165,2023-04-04T23:38:37,Memphis Grizzlies,Portland Trail Blazers
+2023-04-05,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_rebounds_over_under,tyus jones,True,2.5,135,2023-04-04T23:38:37,Memphis Grizzlies,Portland Trail Blazers
+2023-04-05,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_points_over_under,tyus jones,False,9.5,-130,2023-04-04T23:38:37,Memphis Grizzlies,Portland Trail Blazers
+2023-04-05,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_points_over_under,tyus jones,True,9.5,100,2023-04-04T23:38:37,Memphis Grizzlies,Portland Trail Blazers
+2023-04-05,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_blocks_over_under,tyus jones,False,0.5,-1300,2023-04-04T23:38:37,Memphis Grizzlies,Portland Trail Blazers
+2023-04-05,4d7bd48250bad97ceb3433a2f5893f95,draftkings,player_blocks_over_under,tyus jones,True,0.5,750,2023-04-04T23:38:37,Memphis Grizzlies,Portland Trail Blazers
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_threes_over_under,tyus jones,True,2.5,136,2023-04-06T00:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_assists_over_under,tyus jones,False,8.5,-160,2023-04-06T02:00:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_assists_over_under,tyus jones,False,7.5,104,2023-04-06T01:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-07,ee92b290096b2652848204c00a2354df,draftkings,player_points_over_under,tyus jones,True,8.5,100,2023-04-07T23:45:02,Milwaukee Bucks,Memphis Grizzlies
+2023-04-07,ee92b290096b2652848204c00a2354df,draftkings,player_assists_over_under,tyus jones,True,3.5,-160,2023-04-08T00:00:01,Milwaukee Bucks,Memphis Grizzlies
+2023-04-07,ee92b290096b2652848204c00a2354df,draftkings,player_points_over_under,tyus jones,False,8.5,-130,2023-04-07T23:45:02,Milwaukee Bucks,Memphis Grizzlies
+2023-04-07,ee92b290096b2652848204c00a2354df,caesars,player_points_over_under,tyus jones,True,8.5,-103,2023-04-07T23:45:02,Milwaukee Bucks,Memphis Grizzlies
+2023-04-07,ee92b290096b2652848204c00a2354df,caesars,player_points_over_under,tyus jones,False,8.5,-133,2023-04-07T23:45:02,Milwaukee Bucks,Memphis Grizzlies
+2023-04-07,ee92b290096b2652848204c00a2354df,draftkings,player_rebounds_over_under,tyus jones,True,2.5,125,2023-04-07T23:45:02,Milwaukee Bucks,Memphis Grizzlies
+2023-04-07,ee92b290096b2652848204c00a2354df,draftkings,player_blocks_over_under,tyus jones,True,0.5,750,2023-04-07T23:45:02,Milwaukee Bucks,Memphis Grizzlies
+2023-04-07,ee92b290096b2652848204c00a2354df,draftkings,player_steals_over_under,tyus jones,True,0.5,-140,2023-04-07T23:45:02,Milwaukee Bucks,Memphis Grizzlies
+2023-04-07,ee92b290096b2652848204c00a2354df,draftkings,player_blocks_over_under,tyus jones,False,0.5,-1300,2023-04-07T23:45:02,Milwaukee Bucks,Memphis Grizzlies
+2023-04-07,ee92b290096b2652848204c00a2354df,draftkings,player_steals_over_under,tyus jones,False,0.5,110,2023-04-07T23:45:02,Milwaukee Bucks,Memphis Grizzlies
+2023-04-07,ee92b290096b2652848204c00a2354df,draftkings,player_threes_over_under,tyus jones,False,0.5,185,2023-04-07T23:45:02,Milwaukee Bucks,Memphis Grizzlies
+2023-04-07,ee92b290096b2652848204c00a2354df,caesars,player_threes_over_under,tyus jones,True,0.5,-234,2023-04-07T23:45:02,Milwaukee Bucks,Memphis Grizzlies
+2023-04-07,ee92b290096b2652848204c00a2354df,caesars,player_threes_over_under,tyus jones,False,0.5,165,2023-04-07T23:45:02,Milwaukee Bucks,Memphis Grizzlies
+2023-04-07,ee92b290096b2652848204c00a2354df,caesars,player_assists_over_under,tyus jones,False,3.5,114,2023-04-07T23:45:02,Milwaukee Bucks,Memphis Grizzlies
+2023-04-07,ee92b290096b2652848204c00a2354df,caesars,player_assists_over_under,tyus jones,True,3.5,-157,2023-04-07T23:45:02,Milwaukee Bucks,Memphis Grizzlies
+2023-04-07,ee92b290096b2652848204c00a2354df,draftkings,player_assists_over_under,tyus jones,False,3.5,130,2023-04-08T00:00:01,Milwaukee Bucks,Memphis Grizzlies
+2023-04-07,ee92b290096b2652848204c00a2354df,draftkings,player_threes_over_under,tyus jones,True,0.5,-230,2023-04-07T23:45:02,Milwaukee Bucks,Memphis Grizzlies
+2023-04-07,ee92b290096b2652848204c00a2354df,draftkings,player_rebounds_over_under,tyus jones,False,2.5,-155,2023-04-07T23:45:02,Milwaukee Bucks,Memphis Grizzlies
+2023-04-16,b00e76392164297c63f9aaaf35194821,draftkings,player_threes_over_under,tyus jones,False,0.5,-165,2023-04-16T20:45:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,fanduel,player_assists_over_under,tyus jones,True,3.5,146,2023-04-16T20:15:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,fanduel,player_steals_over_under,tyus jones,True,0.5,146,2023-04-16T20:00:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,betmgm,player_rebounds_over_under,tyus jones,False,2.5,-190,2023-04-14T20:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,betmgm,player_rebounds_over_under,tyus jones,True,2.5,140,2023-04-16T17:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,draftkings,player_rebounds_over_under,tyus jones,False,3.5,-240,2023-04-16T20:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,draftkings,player_rebounds_over_under,tyus jones,False,2.5,-195,2023-04-16T21:15:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,draftkings,player_rebounds_over_under,tyus jones,False,1.5,135,2023-04-16T19:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,draftkings,player_rebounds_over_under,tyus jones,True,3.5,175,2023-04-16T20:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,fanduel,player_steals_over_under,tyus jones,True,1.5,520,2023-04-16T21:15:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,draftkings,player_rebounds_over_under,tyus jones,True,2.5,145,2023-04-16T21:15:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,fanduel,player_rebounds_over_under,tyus jones,False,3.5,-250,2023-04-16T20:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,fanduel,player_rebounds_over_under,tyus jones,False,2.5,-205,2023-04-16T21:15:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,fanduel,player_rebounds_over_under,tyus jones,False,1.5,140,2023-04-16T19:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,fanduel,player_rebounds_over_under,tyus jones,True,3.5,182,2023-04-16T20:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,fanduel,player_rebounds_over_under,tyus jones,True,2.5,152,2023-04-16T21:15:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,fanduel,player_rebounds_over_under,tyus jones,True,1.5,-188,2023-04-16T19:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,betmgm,player_points_over_under,tyus jones,False,6.5,-105,2023-04-14T20:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,fanduel,player_assists_over_under,tyus jones,True,2.5,-154,2023-04-16T21:15:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,betmgm,player_points_over_under,tyus jones,True,6.5,-130,2023-04-14T20:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,fanduel,player_steals_over_under,tyus jones,False,0.5,-198,2023-04-16T20:00:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,draftkings,player_steals_over_under,tyus jones,True,0.5,140,2023-04-16T20:00:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,betmgm,player_threes_over_under,tyus jones,False,0.5,180,2023-04-14T20:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,betmgm,player_threes_over_under,tyus jones,True,0.5,-250,2023-04-14T20:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,caesars,player_threes_over_under,tyus jones,False,0.5,172,2023-04-14T20:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,caesars,player_threes_over_under,tyus jones,True,0.5,-244,2023-04-14T20:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,draftkings,player_threes_over_under,tyus jones,False,1.5,-475,2023-04-16T21:15:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,draftkings,player_threes_over_under,tyus jones,True,1.5,310,2023-04-16T21:15:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,draftkings,player_threes_over_under,tyus jones,True,0.5,125,2023-04-16T20:45:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,fanduel,player_steals_over_under,tyus jones,False,1.5,-1000,2023-04-16T21:15:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,fanduel,player_threes_over_under,tyus jones,False,1.5,-490,2023-04-16T21:15:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,fanduel,player_threes_over_under,tyus jones,True,1.5,320,2023-04-16T21:15:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,fanduel,player_threes_over_under,tyus jones,True,0.5,124,2023-04-16T20:45:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,betmgm,player_steals_over_under,tyus jones,False,0.5,-110,2023-04-14T20:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,betmgm,player_steals_over_under,tyus jones,True,0.5,-120,2023-04-14T20:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,draftkings,player_steals_over_under,tyus jones,False,1.5,-900,2023-04-16T21:15:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,draftkings,player_steals_over_under,tyus jones,False,0.5,-190,2023-04-16T20:00:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,draftkings,player_steals_over_under,tyus jones,True,1.5,475,2023-04-16T21:15:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,fanduel,player_threes_over_under,tyus jones,False,0.5,-166,2023-04-16T20:45:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,draftkings,player_points_over_under,tyus jones,False,10.5,-170,2023-04-16T21:15:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,draftkings,player_rebounds_over_under,tyus jones,True,1.5,-185,2023-04-16T19:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,draftkings,player_points_over_under,tyus jones,False,8.5,-140,2023-04-16T20:00:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,fanduel,player_blocks_over_under,tyus jones,False,0.5,-50000,2023-04-16T21:15:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,fanduel,player_blocks_over_under,tyus jones,True,0.5,1000,2023-04-16T19:45:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,betmgm,player_assists_over_under,tyus jones,False,3.5,105,2023-04-14T20:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,betmgm,player_assists_over_under,tyus jones,True,3.5,-145,2023-04-14T20:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,caesars,player_assists_over_under,tyus jones,False,3.5,100,2023-04-14T20:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,caesars,player_assists_over_under,tyus jones,True,3.5,-137,2023-04-14T20:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,draftkings,player_assists_over_under,tyus jones,False,4.5,-175,2023-04-16T19:45:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,draftkings,player_blocks_over_under,tyus jones,True,0.5,675,2023-04-15T22:45:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,draftkings,player_points_over_under,tyus jones,False,9.5,-180,2023-04-16T21:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,draftkings,player_assists_over_under,tyus jones,True,4.5,130,2023-04-16T19:45:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,draftkings,player_assists_over_under,tyus jones,True,3.5,140,2023-04-16T20:15:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,draftkings,player_assists_over_under,tyus jones,True,2.5,-150,2023-04-16T21:15:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,fanduel,player_assists_over_under,tyus jones,False,4.5,-188,2023-04-16T19:45:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,fanduel,player_assists_over_under,tyus jones,False,3.5,-198,2023-04-16T20:15:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,fanduel,player_assists_over_under,tyus jones,False,2.5,116,2023-04-16T21:15:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,fanduel,player_assists_over_under,tyus jones,True,4.5,140,2023-04-16T19:45:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,draftkings,player_assists_over_under,tyus jones,False,2.5,115,2023-04-16T21:15:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,draftkings,player_blocks_over_under,tyus jones,False,0.5,-1100,2023-04-15T22:45:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,draftkings,player_assists_over_under,tyus jones,False,3.5,-190,2023-04-16T20:15:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,betmgm,player_blocks_over_under,tyus jones,False,0.5,-1400,2023-04-15T22:45:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,betmgm,player_blocks_over_under,tyus jones,True,0.5,625,2023-04-15T22:45:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,draftkings,player_points_over_under,tyus jones,False,6.5,120,2023-04-16T20:45:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,draftkings,player_points_over_under,tyus jones,True,10.5,130,2023-04-16T21:15:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,draftkings,player_points_over_under,tyus jones,True,9.5,135,2023-04-16T21:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,draftkings,player_points_over_under,tyus jones,True,8.5,105,2023-04-16T20:00:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,draftkings,player_points_over_under,tyus jones,True,7.5,-105,2023-04-16T20:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,draftkings,player_points_over_under,tyus jones,True,6.5,-155,2023-04-16T20:45:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,draftkings,player_points_over_under,tyus jones,False,7.5,-125,2023-04-16T20:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,fanduel,player_points_over_under,tyus jones,False,10.5,-178,2023-04-16T21:15:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,fanduel,player_points_over_under,tyus jones,False,8.5,-144,2023-04-16T20:00:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,fanduel,player_points_over_under,tyus jones,False,7.5,-132,2023-04-16T20:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,fanduel,player_points_over_under,tyus jones,False,6.5,134,2023-04-16T20:45:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,fanduel,player_points_over_under,tyus jones,True,10.5,132,2023-04-16T21:15:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,fanduel,player_points_over_under,tyus jones,True,9.5,112,2023-04-16T21:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,fanduel,player_points_over_under,tyus jones,True,8.5,108,2023-04-16T20:00:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,fanduel,player_points_over_under,tyus jones,True,7.5,100,2023-04-16T20:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,fanduel,player_points_over_under,tyus jones,True,6.5,-180,2023-04-16T20:45:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,fanduel,player_points_over_under,tyus jones,False,9.5,-148,2023-04-16T21:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,betmgm,player_steals_over_under,tyus jones,False,1.5,-145,2023-04-19T23:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,betmgm,player_steals_over_under,tyus jones,True,1.5,110,2023-04-19T23:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_steals_over_under,tyus jones,False,2.5,-250,2023-04-20T00:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_steals_over_under,tyus jones,False,2.5,-250,2023-04-20T00:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_steals_over_under,tyus jones,True,1.5,500,2023-04-20T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_threes_over_under,tyus jones,True,0.5,400,2023-04-20T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_steals_over_under,tyus jones,False,1.5,-1000,2023-04-20T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_threes_over_under,tyus jones,True,1.5,162,2023-04-20T00:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,barstool,player_threes_over_under,tyus jones,True,1.5,-182,2023-04-19T23:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_threes_over_under,tyus jones,False,1.5,-220,2023-04-20T00:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_threes_over_under,tyus jones,True,0.5,390,2023-04-20T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_threes_over_under,tyus jones,True,1.5,150,2023-04-20T00:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_threes_over_under,tyus jones,False,0.5,-650,2023-04-20T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_threes_over_under,tyus jones,False,1.5,-200,2023-04-20T00:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,betmgm,player_threes_over_under,tyus jones,True,1.5,-175,2023-04-19T22:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,betmgm,player_threes_over_under,tyus jones,False,1.5,130,2023-04-19T22:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,barstool,player_threes_over_under,tyus jones,True,2.5,180,2023-04-19T23:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_steals_over_under,tyus jones,False,1.5,-1100,2023-04-20T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_threes_over_under,tyus jones,False,0.5,-670,2023-04-20T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_steals_over_under,tyus jones,True,2.5,182,2023-04-20T00:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_steals_over_under,tyus jones,True,2.5,180,2023-04-20T00:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,barstool,player_rebounds_over_under,tyus jones,True,4.5,125,2023-04-19T23:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_points_over_under,tyus jones,False,15.5,-136,2023-04-20T00:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_points_over_under,tyus jones,False,14.5,-102,2023-04-20T00:15:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_points_over_under,tyus jones,False,13.5,-122,2023-04-20T00:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_points_over_under,tyus jones,False,12.5,104,2023-04-19T23:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_points_over_under,tyus jones,False,11.5,104,2023-04-20T01:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_points_over_under,tyus jones,False,10.5,136,2023-04-20T01:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_points_over_under,tyus jones,False,9.5,-174,2023-04-20T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_points_over_under,tyus jones,True,9.5,120,2023-04-20T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_points_over_under,tyus jones,True,15.5,102,2023-04-20T00:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_points_over_under,tyus jones,True,13.5,-108,2023-04-20T00:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_points_over_under,tyus jones,True,12.5,-138,2023-04-19T23:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_points_over_under,tyus jones,True,11.5,-138,2023-04-20T01:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_points_over_under,tyus jones,True,10.5,-182,2023-04-20T01:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_points_over_under,tyus jones,True,9.5,130,2023-04-20T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,betmgm,player_blocks_over_under,tyus jones,False,0.5,-800,2023-04-19T22:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,betmgm,player_blocks_over_under,tyus jones,True,0.5,475,2023-04-19T22:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_points_over_under,tyus jones,True,14.5,-130,2023-04-20T00:15:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_blocks_over_under,tyus jones,False,0.5,-750,2023-04-19T22:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_points_over_under,tyus jones,True,10.5,-180,2023-04-20T01:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_points_over_under,tyus jones,True,12.5,-140,2023-04-19T23:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_steals_over_under,tyus jones,True,1.5,550,2023-04-20T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,barstool,player_points_over_under,tyus jones,True,12.5,-245,2023-04-19T23:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,barstool,player_points_over_under,tyus jones,True,11.5,-375,2023-04-19T23:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,betmgm,player_points_over_under,tyus jones,False,14.5,100,2023-04-19T22:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,betmgm,player_points_over_under,tyus jones,True,15.5,100,2023-04-19T23:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,betmgm,player_points_over_under,tyus jones,True,14.5,-130,2023-04-19T22:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_points_over_under,tyus jones,False,15.5,-135,2023-04-20T00:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_points_over_under,tyus jones,True,11.5,-160,2023-04-20T01:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_points_over_under,tyus jones,False,14.5,-105,2023-04-20T00:15:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_points_over_under,tyus jones,False,12.5,105,2023-04-19T23:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_points_over_under,tyus jones,False,11.5,120,2023-04-20T01:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_points_over_under,tyus jones,False,10.5,135,2023-04-20T01:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_points_over_under,tyus jones,False,9.5,-160,2023-04-20T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_points_over_under,tyus jones,True,15.5,100,2023-04-20T00:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_points_over_under,tyus jones,True,14.5,-125,2023-04-20T00:15:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_points_over_under,tyus jones,True,13.5,-110,2023-04-20T00:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_points_over_under,tyus jones,False,13.5,-125,2023-04-20T00:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_blocks_over_under,tyus jones,True,0.5,500,2023-04-19T22:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,betmgm,player_points_over_under,tyus jones,False,15.5,-130,2023-04-19T23:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_blocks_over_under,tyus jones,True,0.5,1000,2023-04-20T01:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,barstool,player_points_over_under,tyus jones,True,17.5,175,2023-04-19T23:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_rebounds_over_under,tyus jones,True,4.5,-168,2023-04-20T01:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_rebounds_over_under,tyus jones,True,5.5,182,2023-04-20T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_rebounds_over_under,tyus jones,True,6.5,120,2023-04-20T00:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_rebounds_over_under,tyus jones,False,4.5,126,2023-04-20T01:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_rebounds_over_under,tyus jones,False,5.5,-250,2023-04-20T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_rebounds_over_under,tyus jones,False,6.5,-160,2023-04-20T00:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,barstool,player_points_over_under,tyus jones,True,16.5,135,2023-04-19T23:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_rebounds_over_under,tyus jones,True,4.5,-165,2023-04-20T01:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_rebounds_over_under,tyus jones,True,6.5,125,2023-04-20T00:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_rebounds_over_under,tyus jones,False,4.5,125,2023-04-20T01:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_rebounds_over_under,tyus jones,False,5.5,-235,2023-04-20T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_rebounds_over_under,tyus jones,False,6.5,-165,2023-04-20T00:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,barstool,player_rebounds_over_under,tyus jones,True,3.5,-182,2023-04-19T23:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,betmgm,player_rebounds_over_under,tyus jones,False,4.5,-160,2023-04-19T23:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_blocks_over_under,tyus jones,False,0.5,-100000,2023-04-20T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_rebounds_over_under,tyus jones,True,5.5,170,2023-04-20T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,barstool,player_points_over_under,tyus jones,True,15.5,107,2023-04-19T23:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,betmgm,player_rebounds_over_under,tyus jones,True,4.5,120,2023-04-19T23:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,barstool,player_points_over_under,tyus jones,True,13.5,-175,2023-04-19T23:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,barstool,player_points_over_under,tyus jones,True,14.5,-124,2023-04-19T23:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,barstool,player_assists_over_under,tyus jones,True,9.5,163,2023-04-19T23:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,barstool,player_assists_over_under,tyus jones,True,7.5,-200,2023-04-19T23:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,betmgm,player_assists_over_under,tyus jones,False,8.5,-115,2023-04-19T23:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,betmgm,player_assists_over_under,tyus jones,True,8.5,-115,2023-04-19T23:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_assists_over_under,tyus jones,False,9.5,-110,2023-04-20T01:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_assists_over_under,tyus jones,False,8.5,110,2023-04-20T01:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_assists_over_under,tyus jones,False,7.5,120,2023-04-20T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,barstool,player_assists_over_under,tyus jones,True,8.5,-108,2023-04-19T23:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_assists_over_under,tyus jones,True,8.5,-145,2023-04-20T01:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_assists_over_under,tyus jones,True,7.5,-160,2023-04-20T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_assists_over_under,tyus jones,False,9.5,-125,2023-04-20T01:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_assists_over_under,tyus jones,False,8.5,118,2023-04-20T01:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_assists_over_under,tyus jones,False,7.5,118,2023-04-20T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_assists_over_under,tyus jones,True,9.5,-106,2023-04-20T01:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_assists_over_under,tyus jones,True,8.5,-158,2023-04-20T01:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_assists_over_under,tyus jones,True,9.5,-120,2023-04-20T01:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,fanduel,player_assists_over_under,tyus jones,True,7.5,-158,2023-04-20T01:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,fanduel,player_points_over_under,tyus jones,True,7.5,-118,2023-04-23T02:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,fanduel,player_points_over_under,tyus jones,True,8.5,106,2023-04-23T01:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,fanduel,player_points_over_under,tyus jones,False,1.5,-138,2023-04-23T04:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,fanduel,player_points_over_under,tyus jones,False,2.5,128,2023-04-23T04:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,fanduel,player_points_over_under,tyus jones,False,3.5,100,2023-04-23T04:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,fanduel,player_points_over_under,tyus jones,False,4.5,-140,2023-04-23T03:45:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_points_over_under,tyus jones,True,1.5,105,2023-04-23T04:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,fanduel,player_points_over_under,tyus jones,False,7.5,-104,2023-04-23T02:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,fanduel,player_points_over_under,tyus jones,False,8.5,-130,2023-04-23T01:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_points_over_under,tyus jones,True,2.5,-125,2023-04-23T04:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_points_over_under,tyus jones,True,3.5,100,2023-04-23T04:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_points_over_under,tyus jones,True,4.5,100,2023-04-23T03:45:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_points_over_under,tyus jones,True,6.5,115,2023-04-23T02:45:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_points_over_under,tyus jones,False,1.5,-140,2023-04-23T04:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,fanduel,player_points_over_under,tyus jones,False,5.5,116,2023-04-23T02:45:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_points_over_under,tyus jones,True,8.5,115,2023-04-23T01:45:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_blocks_over_under,tyus jones,False,0.5,-1300,2023-04-23T01:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,fanduel,player_points_over_under,tyus jones,True,4.5,106,2023-04-23T03:45:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_assists_over_under,tyus jones,True,3.5,-140,2023-04-23T04:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_assists_over_under,tyus jones,True,4.5,130,2023-04-23T01:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_assists_over_under,tyus jones,False,2.5,-165,2023-04-23T04:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_assists_over_under,tyus jones,False,3.5,105,2023-04-23T04:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_assists_over_under,tyus jones,False,4.5,-160,2023-04-23T01:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,betmgm,player_assists_over_under,tyus jones,True,4.5,125,2023-04-23T01:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,betmgm,player_assists_over_under,tyus jones,False,4.5,-165,2023-04-23T01:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,fanduel,player_blocks_over_under,tyus jones,True,0.5,1000,2023-04-23T03:00:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,fanduel,player_blocks_over_under,tyus jones,False,0.5,-50000,2023-04-23T04:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_blocks_over_under,tyus jones,True,0.5,750,2023-04-23T01:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,betmgm,player_blocks_over_under,tyus jones,True,0.5,675,2023-04-23T01:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,betmgm,player_blocks_over_under,tyus jones,False,0.5,-1600,2023-04-23T01:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,fanduel,player_points_over_under,tyus jones,True,1.5,104,2023-04-23T04:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,fanduel,player_points_over_under,tyus jones,True,2.5,-172,2023-04-23T04:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,fanduel,player_points_over_under,tyus jones,True,3.5,-132,2023-04-23T04:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,fanduel,player_points_over_under,tyus jones,True,5.5,-154,2023-04-23T02:45:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_points_over_under,tyus jones,False,3.5,-130,2023-04-23T04:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_rebounds_over_under,tyus jones,False,4.5,-190,2023-04-23T04:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_points_over_under,tyus jones,False,6.5,-150,2023-04-23T02:45:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_steals_over_under,tyus jones,True,0.5,450,2023-04-23T04:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_steals_over_under,tyus jones,False,0.5,-800,2023-04-23T04:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,betmgm,player_steals_over_under,tyus jones,True,0.5,-155,2023-04-23T01:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,betmgm,player_steals_over_under,tyus jones,False,0.5,115,2023-04-23T01:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,fanduel,player_threes_over_under,tyus jones,True,0.5,320,2023-04-23T04:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,fanduel,player_threes_over_under,tyus jones,True,1.5,180,2023-04-23T02:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,fanduel,player_threes_over_under,tyus jones,False,0.5,-490,2023-04-23T04:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,fanduel,player_threes_over_under,tyus jones,False,1.5,-235,2023-04-23T02:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_threes_over_under,tyus jones,True,0.5,310,2023-04-23T04:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_threes_over_under,tyus jones,True,1.5,160,2023-04-23T01:45:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_threes_over_under,tyus jones,False,0.5,-475,2023-04-23T04:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_threes_over_under,tyus jones,False,1.5,-195,2023-04-23T01:45:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,betmgm,player_threes_over_under,tyus jones,True,1.5,155,2023-04-23T01:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,betmgm,player_threes_over_under,tyus jones,False,1.5,-210,2023-04-23T01:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_assists_over_under,tyus jones,True,2.5,125,2023-04-23T04:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,fanduel,player_steals_over_under,tyus jones,False,0.5,-900,2023-04-23T04:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_points_over_under,tyus jones,False,4.5,-130,2023-04-23T03:45:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,fanduel,player_steals_over_under,tyus jones,True,0.5,490,2023-04-23T04:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_rebounds_over_under,tyus jones,False,3.5,120,2023-04-23T04:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_points_over_under,tyus jones,False,8.5,-145,2023-04-23T01:45:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,betmgm,player_points_over_under,tyus jones,True,8.5,-105,2023-04-23T01:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,betmgm,player_points_over_under,tyus jones,False,8.5,-130,2023-04-23T01:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,fanduel,player_rebounds_over_under,tyus jones,True,1.5,-158,2023-04-23T02:45:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,fanduel,player_rebounds_over_under,tyus jones,True,3.5,-198,2023-04-23T04:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,fanduel,player_rebounds_over_under,tyus jones,True,4.5,142,2023-04-23T04:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,fanduel,player_rebounds_over_under,tyus jones,False,1.5,118,2023-04-23T02:45:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,fanduel,player_rebounds_over_under,tyus jones,False,3.5,146,2023-04-23T04:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,fanduel,player_rebounds_over_under,tyus jones,False,4.5,-192,2023-04-23T04:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_rebounds_over_under,tyus jones,True,1.5,-165,2023-04-23T02:45:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_rebounds_over_under,tyus jones,True,2.5,-105,2023-04-23T01:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_rebounds_over_under,tyus jones,True,3.5,-160,2023-04-23T04:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_rebounds_over_under,tyus jones,True,4.5,140,2023-04-23T04:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_rebounds_over_under,tyus jones,False,1.5,125,2023-04-23T02:45:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_rebounds_over_under,tyus jones,False,2.5,-125,2023-04-23T01:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,betmgm,player_rebounds_over_under,tyus jones,False,2.5,-125,2023-04-23T01:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,fanduel,player_assists_over_under,tyus jones,False,3.5,108,2023-04-23T04:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_points_over_under,tyus jones,False,2.5,-105,2023-04-23T04:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,fanduel,player_assists_over_under,tyus jones,True,3.5,-144,2023-04-23T04:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,fanduel,player_assists_over_under,tyus jones,False,2.5,-136,2023-04-23T04:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,betmgm,player_rebounds_over_under,tyus jones,True,2.5,-105,2023-04-23T01:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,fanduel,player_assists_over_under,tyus jones,True,2.5,102,2023-04-23T04:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,barstool,player_assists_over_under,tyus jones,True,3.5,-120,2023-04-25T02:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,fanduel,player_points_over_under,tyus jones,False,4.5,-182,2023-04-25T03:45:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,fanduel,player_points_over_under,tyus jones,False,5.5,-144,2023-04-25T03:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,fanduel,player_points_over_under,tyus jones,False,6.5,-158,2023-04-25T03:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,fanduel,player_points_over_under,tyus jones,False,7.5,-154,2023-04-25T02:45:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,fanduel,player_points_over_under,tyus jones,False,8.5,-122,2023-04-24T14:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,pinnacle,player_points_over_under,tyus jones,True,6.5,-120,2023-04-23T19:45:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,pinnacle,player_points_over_under,tyus jones,True,7.5,102,2023-04-25T01:10:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,pinnacle,player_points_over_under,tyus jones,False,6.5,-110,2023-04-23T19:45:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,pinnacle,player_points_over_under,tyus jones,False,7.5,-136,2023-04-25T01:10:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,draftkings,player_points_over_under,tyus jones,True,2.5,450,2023-04-25T04:30:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,draftkings,player_points_over_under,tyus jones,True,3.5,-105,2023-04-25T04:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,draftkings,player_points_over_under,tyus jones,True,4.5,140,2023-04-25T03:45:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,fanduel,player_points_over_under,tyus jones,False,3.5,-220,2023-04-25T04:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,draftkings,player_points_over_under,tyus jones,True,5.5,105,2023-04-25T03:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,draftkings,player_points_over_under,tyus jones,True,7.5,110,2023-04-25T02:45:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,draftkings,player_points_over_under,tyus jones,False,2.5,-800,2023-04-25T04:30:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,draftkings,player_points_over_under,tyus jones,False,3.5,-125,2023-04-25T04:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,draftkings,player_points_over_under,tyus jones,False,4.5,-185,2023-04-25T03:45:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,draftkings,player_points_over_under,tyus jones,False,5.5,-140,2023-04-25T03:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,draftkings,player_points_over_under,tyus jones,False,6.5,-155,2023-04-25T03:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,draftkings,player_points_over_under,tyus jones,False,7.5,-150,2023-04-25T02:45:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,betmgm,player_points_over_under,tyus jones,True,7.5,100,2023-04-24T14:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,betmgm,player_points_over_under,tyus jones,False,7.5,-135,2023-04-24T14:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,barstool,player_points_over_under,tyus jones,True,6.5,-240,2023-04-24T13:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,barstool,player_points_over_under,tyus jones,True,7.5,-113,2023-04-25T02:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,barstool,player_points_over_under,tyus jones,True,8.5,128,2023-04-25T02:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,barstool,player_points_over_under,tyus jones,True,9.5,133,2023-04-24T13:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,draftkings,player_points_over_under,tyus jones,True,6.5,115,2023-04-25T03:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,fanduel,player_points_over_under,tyus jones,False,2.5,-900,2023-04-25T04:30:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,fanduel,player_points_over_under,tyus jones,True,8.5,-104,2023-04-24T14:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,fanduel,player_points_over_under,tyus jones,True,7.5,116,2023-04-25T02:45:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,fanduel,player_assists_over_under,tyus jones,True,2.5,880,2023-04-25T04:30:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,fanduel,player_assists_over_under,tyus jones,True,3.5,194,2023-04-25T03:45:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,fanduel,player_assists_over_under,tyus jones,True,4.5,154,2023-04-25T03:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,fanduel,player_assists_over_under,tyus jones,False,2.5,-3000,2023-04-25T04:30:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,fanduel,player_assists_over_under,tyus jones,False,3.5,-270,2023-04-25T03:45:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,fanduel,player_assists_over_under,tyus jones,False,4.5,-215,2023-04-25T03:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,pinnacle,player_assists_over_under,tyus jones,True,3.5,-107,2023-04-25T01:20:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,pinnacle,player_assists_over_under,tyus jones,False,3.5,-124,2023-04-25T01:20:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,draftkings,player_assists_over_under,tyus jones,True,2.5,800,2023-04-25T04:30:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,draftkings,player_assists_over_under,tyus jones,True,3.5,160,2023-04-25T03:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,draftkings,player_assists_over_under,tyus jones,True,4.5,150,2023-04-25T03:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,draftkings,player_assists_over_under,tyus jones,False,2.5,-2500,2023-04-25T04:30:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,draftkings,player_assists_over_under,tyus jones,False,3.5,-215,2023-04-25T03:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,barstool,player_points_over_under,tyus jones,True,10.5,185,2023-04-24T13:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,draftkings,player_assists_over_under,tyus jones,False,4.5,-205,2023-04-25T03:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,betmgm,player_assists_over_under,tyus jones,False,3.5,-135,2023-04-24T14:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,barstool,player_assists_over_under,tyus jones,True,5.5,195,2023-04-24T12:45:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,fanduel,player_blocks_over_under,tyus jones,True,0.5,1000,2023-04-25T02:45:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,fanduel,player_blocks_over_under,tyus jones,False,0.5,-100000,2023-04-25T04:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,draftkings,player_blocks_over_under,tyus jones,True,0.5,900,2023-04-24T14:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,draftkings,player_blocks_over_under,tyus jones,False,0.5,-1700,2023-04-24T14:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,betmgm,player_blocks_over_under,tyus jones,True,0.5,800,2023-04-24T14:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,betmgm,player_blocks_over_under,tyus jones,False,0.5,-2500,2023-04-24T14:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,fanduel,player_points_over_under,tyus jones,True,2.5,490,2023-04-25T04:30:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,fanduel,player_points_over_under,tyus jones,True,3.5,162,2023-04-25T04:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,fanduel,player_points_over_under,tyus jones,True,4.5,136,2023-04-25T03:45:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,fanduel,player_points_over_under,tyus jones,True,5.5,108,2023-04-25T03:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,fanduel,player_points_over_under,tyus jones,True,6.5,118,2023-04-25T03:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,betmgm,player_assists_over_under,tyus jones,True,3.5,100,2023-04-24T14:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,fanduel,player_rebounds_over_under,tyus jones,True,1.5,1000,2023-04-25T04:30:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,barstool,player_assists_over_under,tyus jones,True,4.5,-110,2023-04-24T13:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,fanduel,player_rebounds_over_under,tyus jones,True,3.5,-118,2023-04-24T12:45:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,fanduel,player_threes_over_under,tyus jones,True,1.5,186,2023-04-25T02:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,fanduel,player_threes_over_under,tyus jones,False,0.5,-10000,2023-04-25T04:30:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,fanduel,player_threes_over_under,tyus jones,False,1.5,-245,2023-04-25T02:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,pinnacle,player_threes_over_under,tyus jones,True,1.5,187,2023-04-24T14:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,pinnacle,player_threes_over_under,tyus jones,False,0.5,186,2023-04-24T14:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,pinnacle,player_threes_over_under,tyus jones,False,1.5,-274,2023-04-24T14:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,draftkings,player_threes_over_under,tyus jones,True,0.5,450,2023-04-25T04:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,draftkings,player_threes_over_under,tyus jones,True,1.5,190,2023-04-24T14:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,draftkings,player_threes_over_under,tyus jones,False,0.5,-800,2023-04-25T04:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,draftkings,player_threes_over_under,tyus jones,False,1.5,-235,2023-04-24T14:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,betmgm,player_threes_over_under,tyus jones,True,1.5,180,2023-04-24T14:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,betmgm,player_threes_over_under,tyus jones,False,1.5,-250,2023-04-24T14:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,barstool,player_threes_over_under,tyus jones,True,0.5,-315,2023-04-24T14:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,barstool,player_threes_over_under,tyus jones,True,1.5,150,2023-04-25T01:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,fanduel,player_rebounds_over_under,tyus jones,True,2.5,136,2023-04-25T03:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,fanduel,player_threes_over_under,tyus jones,True,0.5,1000,2023-04-25T04:30:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,betmgm,player_steals_over_under,tyus jones,False,0.5,-110,2023-04-24T14:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,pinnacle,player_threes_over_under,tyus jones,True,0.5,-273,2023-04-24T14:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,draftkings,player_steals_over_under,tyus jones,False,0.5,-1600,2023-04-25T04:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,fanduel,player_rebounds_over_under,tyus jones,False,1.5,-5000,2023-04-25T04:30:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,fanduel,player_rebounds_over_under,tyus jones,False,2.5,-182,2023-04-25T03:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,betmgm,player_steals_over_under,tyus jones,True,0.5,-120,2023-04-24T14:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,pinnacle,player_rebounds_over_under,tyus jones,True,1.5,-197,2023-04-23T19:45:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,pinnacle,player_rebounds_over_under,tyus jones,True,2.5,141,2023-04-24T14:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,pinnacle,player_rebounds_over_under,tyus jones,False,1.5,143,2023-04-23T19:45:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,pinnacle,player_rebounds_over_under,tyus jones,False,2.5,-194,2023-04-24T14:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,draftkings,player_rebounds_over_under,tyus jones,True,1.5,1100,2023-04-25T04:30:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,fanduel,player_rebounds_over_under,tyus jones,False,3.5,-108,2023-04-24T12:45:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,draftkings,player_rebounds_over_under,tyus jones,False,1.5,-8000,2023-04-25T04:30:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,draftkings,player_rebounds_over_under,tyus jones,False,2.5,-175,2023-04-25T03:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,betmgm,player_rebounds_over_under,tyus jones,True,2.5,140,2023-04-24T14:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,betmgm,player_rebounds_over_under,tyus jones,False,2.5,-190,2023-04-24T14:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,fanduel,player_steals_over_under,tyus jones,True,0.5,1000,2023-04-25T04:30:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,fanduel,player_steals_over_under,tyus jones,False,0.5,-50000,2023-04-25T04:30:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,draftkings,player_steals_over_under,tyus jones,True,0.5,700,2023-04-25T04:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,draftkings,player_rebounds_over_under,tyus jones,True,2.5,135,2023-04-25T03:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,pinnacle,player_rebounds_over_under,tyus jones,False,1.5,-109,2023-04-26T16:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,betmgm,player_rebounds_over_under,tyus jones,True,1.5,-155,2023-04-26T15:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,betmgm,player_rebounds_over_under,tyus jones,False,1.5,115,2023-04-26T15:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,draftkings,player_steals_over_under,tyus jones,True,0.5,105,2023-04-26T15:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,draftkings,player_steals_over_under,tyus jones,False,0.5,-135,2023-04-26T15:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,pinnacle,player_threes_over_under,tyus jones,False,0.5,104,2023-04-26T16:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,betmgm,player_steals_over_under,tyus jones,False,0.5,-140,2023-04-26T15:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,pinnacle,player_threes_over_under,tyus jones,True,0.5,-141,2023-04-26T16:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,draftkings,player_threes_over_under,tyus jones,True,0.5,-155,2023-04-26T17:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,draftkings,player_threes_over_under,tyus jones,False,0.5,125,2023-04-26T17:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,pinnacle,player_rebounds_over_under,tyus jones,True,1.5,-122,2023-04-26T16:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,betmgm,player_steals_over_under,tyus jones,True,0.5,105,2023-04-26T15:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,betmgm,player_points_over_under,tyus jones,False,5.5,-105,2023-04-26T15:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,betmgm,player_threes_over_under,tyus jones,True,0.5,-175,2023-04-26T15:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,pinnacle,player_points_over_under,tyus jones,False,5.5,-135,2023-04-26T16:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,pinnacle,player_assists_over_under,tyus jones,True,2.5,-143,2023-04-26T22:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,betmgm,player_points_over_under,tyus jones,True,5.5,-125,2023-04-26T15:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,draftkings,player_assists_over_under,tyus jones,True,2.5,-155,2023-04-26T15:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,draftkings,player_assists_over_under,tyus jones,False,2.5,125,2023-04-26T15:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,betmgm,player_assists_over_under,tyus jones,True,2.5,-160,2023-04-26T15:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,betmgm,player_assists_over_under,tyus jones,False,2.5,125,2023-04-26T15:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,pinnacle,player_assists_over_under,tyus jones,False,2.5,106,2023-04-26T22:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,draftkings,player_blocks_over_under,tyus jones,False,0.5,-1700,2023-04-26T15:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,betmgm,player_blocks_over_under,tyus jones,True,0.5,800,2023-04-26T15:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,betmgm,player_blocks_over_under,tyus jones,False,0.5,-2500,2023-04-26T15:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,betmgm,player_threes_over_under,tyus jones,False,0.5,130,2023-04-26T15:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,pinnacle,player_points_over_under,tyus jones,True,5.5,102,2023-04-26T16:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,draftkings,player_blocks_over_under,tyus jones,True,0.5,900,2023-04-26T15:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,betmgm,player_rebounds_over_under,tyus jones,True,1.5,-165,2023-04-29T01:45:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,fanduel,player_steals_over_under,tyus jones,False,1.5,-188,2023-04-29T03:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,fanduel,player_steals_over_under,tyus jones,False,0.5,-106,2023-04-29T03:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,fanduel,player_steals_over_under,tyus jones,True,4.5,550,2023-04-29T05:00:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,fanduel,player_steals_over_under,tyus jones,True,3.5,132,2023-04-29T04:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,fanduel,player_steals_over_under,tyus jones,True,1.5,140,2023-04-29T03:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,fanduel,player_steals_over_under,tyus jones,True,0.5,-125,2023-04-29T03:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,betmgm,player_rebounds_over_under,tyus jones,False,1.5,125,2023-04-29T01:45:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,draftkings,player_rebounds_over_under,tyus jones,False,4.5,-300,2023-04-29T05:00:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,draftkings,player_rebounds_over_under,tyus jones,True,2.5,-245,2023-04-29T04:00:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,draftkings,player_rebounds_over_under,tyus jones,False,2.5,180,2023-04-29T03:45:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,draftkings,player_rebounds_over_under,tyus jones,False,1.5,120,2023-04-29T03:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,draftkings,player_rebounds_over_under,tyus jones,True,4.5,215,2023-04-29T05:00:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,draftkings,player_rebounds_over_under,tyus jones,True,3.5,170,2023-04-29T04:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,fanduel,player_steals_over_under,tyus jones,False,3.5,-178,2023-04-29T04:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,draftkings,player_rebounds_over_under,tyus jones,True,1.5,-160,2023-04-29T03:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,pinnacle,player_rebounds_over_under,tyus jones,False,1.5,129,2023-04-29T01:45:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,pinnacle,player_rebounds_over_under,tyus jones,True,1.5,-176,2023-04-29T01:45:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,fanduel,player_rebounds_over_under,tyus jones,False,4.5,-290,2023-04-29T05:00:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,draftkings,player_rebounds_over_under,tyus jones,False,3.5,-230,2023-04-29T04:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,fanduel,player_steals_over_under,tyus jones,False,4.5,-1100,2023-04-29T05:00:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,draftkings,player_steals_over_under,tyus jones,False,1.5,-180,2023-04-29T03:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,draftkings,player_steals_over_under,tyus jones,True,1.5,135,2023-04-29T03:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,betmgm,player_threes_over_under,tyus jones,False,1.5,-225,2023-04-29T01:45:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,betmgm,player_threes_over_under,tyus jones,True,1.5,170,2023-04-29T01:45:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,draftkings,player_threes_over_under,tyus jones,False,1.5,-550,2023-04-29T05:00:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,draftkings,player_threes_over_under,tyus jones,True,1.5,350,2023-04-29T05:00:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,pinnacle,player_threes_over_under,tyus jones,False,1.5,-248,2023-04-29T01:45:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,pinnacle,player_threes_over_under,tyus jones,False,0.5,131,2023-04-28T14:05:51,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,pinnacle,player_threes_over_under,tyus jones,True,1.5,173,2023-04-29T01:45:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,pinnacle,player_threes_over_under,tyus jones,True,0.5,-179,2023-04-28T14:05:51,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,fanduel,player_threes_over_under,tyus jones,False,1.5,-550,2023-04-29T05:00:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,draftkings,player_steals_over_under,tyus jones,True,0.5,-125,2023-04-29T03:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,fanduel,player_threes_over_under,tyus jones,False,0.5,146,2023-04-29T01:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,fanduel,player_threes_over_under,tyus jones,True,0.5,-188,2023-04-29T01:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,betmgm,player_steals_over_under,tyus jones,False,0.5,-105,2023-04-29T01:45:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,betmgm,player_steals_over_under,tyus jones,True,0.5,-130,2023-04-29T01:45:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,draftkings,player_steals_over_under,tyus jones,False,4.5,-1100,2023-04-29T05:00:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,draftkings,player_steals_over_under,tyus jones,False,3.5,-170,2023-04-29T04:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,fanduel,player_rebounds_over_under,tyus jones,False,3.5,-235,2023-04-29T04:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,draftkings,player_steals_over_under,tyus jones,False,0.5,-110,2023-04-29T03:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,draftkings,player_steals_over_under,tyus jones,True,4.5,550,2023-04-29T05:00:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,draftkings,player_steals_over_under,tyus jones,True,3.5,130,2023-04-29T04:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,fanduel,player_threes_over_under,tyus jones,True,1.5,350,2023-04-29T05:00:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,fanduel,player_rebounds_over_under,tyus jones,False,2.5,188,2023-04-29T03:45:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,betmgm,player_points_over_under,tyus jones,False,6.5,-110,2023-04-29T02:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,fanduel,player_rebounds_over_under,tyus jones,True,4.5,205,2023-04-29T05:00:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,fanduel,player_points_over_under,tyus jones,True,4.5,174,2023-04-29T05:00:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,betmgm,player_blocks_over_under,tyus jones,False,0.5,-5000,2023-04-29T01:45:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,betmgm,player_blocks_over_under,tyus jones,True,0.5,950,2023-04-29T01:45:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,draftkings,player_blocks_over_under,tyus jones,False,0.5,-2500,2023-04-29T01:45:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,draftkings,player_blocks_over_under,tyus jones,True,0.5,1100,2023-04-29T01:45:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,fanduel,player_blocks_over_under,tyus jones,True,0.5,1000,2023-04-29T03:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,betmgm,player_assists_over_under,tyus jones,False,3.5,-145,2023-04-29T01:45:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,betmgm,player_assists_over_under,tyus jones,True,3.5,110,2023-04-29T01:45:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,draftkings,player_assists_over_under,tyus jones,False,3.5,-145,2023-04-29T05:00:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,fanduel,player_points_over_under,tyus jones,True,5.5,102,2023-04-28T22:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,draftkings,player_assists_over_under,tyus jones,False,2.5,135,2023-04-29T04:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,draftkings,player_assists_over_under,tyus jones,True,2.5,-185,2023-04-29T04:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,pinnacle,player_assists_over_under,tyus jones,False,3.5,-147,2023-04-29T01:45:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,pinnacle,player_assists_over_under,tyus jones,False,2.5,-115,2023-04-28T14:05:51,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,pinnacle,player_assists_over_under,tyus jones,True,3.5,110,2023-04-29T01:45:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,pinnacle,player_assists_over_under,tyus jones,True,2.5,-115,2023-04-28T14:05:51,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,fanduel,player_assists_over_under,tyus jones,False,3.5,-136,2023-04-29T05:00:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,fanduel,player_assists_over_under,tyus jones,False,2.5,144,2023-04-29T04:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,fanduel,player_assists_over_under,tyus jones,True,3.5,102,2023-04-29T05:00:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,fanduel,player_assists_over_under,tyus jones,True,2.5,-194,2023-04-29T04:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,draftkings,player_assists_over_under,tyus jones,True,3.5,110,2023-04-29T05:00:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,fanduel,player_rebounds_over_under,tyus jones,False,1.5,122,2023-04-29T03:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,fanduel,player_points_over_under,tyus jones,True,6.5,-162,2023-04-29T04:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,fanduel,player_points_over_under,tyus jones,False,4.5,-240,2023-04-29T05:00:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,fanduel,player_rebounds_over_under,tyus jones,True,3.5,174,2023-04-29T04:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,fanduel,player_rebounds_over_under,tyus jones,True,2.5,-260,2023-04-29T03:45:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,fanduel,player_rebounds_over_under,tyus jones,True,1.5,-162,2023-04-29T03:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,barstool,player_points_over_under,tyus jones,True,5.5,-112,2023-04-29T02:00:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,betmgm,player_points_over_under,tyus jones,True,6.5,-120,2023-04-29T02:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,draftkings,player_points_over_under,tyus jones,False,7.5,-125,2023-04-29T04:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,draftkings,player_points_over_under,tyus jones,False,6.5,115,2023-04-29T04:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,draftkings,player_points_over_under,tyus jones,False,4.5,-180,2023-04-29T04:45:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,draftkings,player_points_over_under,tyus jones,False,3.5,185,2023-04-29T05:00:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,fanduel,player_points_over_under,tyus jones,True,7.5,-106,2023-04-29T04:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,draftkings,player_points_over_under,tyus jones,True,7.5,-105,2023-04-29T04:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,draftkings,player_points_over_under,tyus jones,True,4.5,135,2023-04-29T04:45:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,draftkings,player_points_over_under,tyus jones,True,3.5,-255,2023-04-29T05:00:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,pinnacle,player_points_over_under,tyus jones,False,6.5,-129,2023-04-29T02:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,pinnacle,player_points_over_under,tyus jones,False,5.5,-121,2023-04-28T14:05:51,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,pinnacle,player_points_over_under,tyus jones,True,6.5,-101,2023-04-29T02:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,pinnacle,player_points_over_under,tyus jones,True,5.5,-109,2023-04-28T14:05:51,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,fanduel,player_points_over_under,tyus jones,False,7.5,-125,2023-04-29T04:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,fanduel,player_points_over_under,tyus jones,False,6.5,122,2023-04-29T04:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,fanduel,player_points_over_under,tyus jones,False,5.5,-124,2023-04-28T22:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,draftkings,player_points_over_under,tyus jones,True,6.5,-155,2023-04-29T04:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,fanduel,player_blocks_over_under,tyus jones,False,0.5,-100000,2023-04-29T04:45:02,Los Angeles Lakers,Memphis Grizzlies
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_assists_over_under,tyus jones,True,7.5,-140,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_threes_over_under,tyus jones,True,1.5,-160,2023-10-24T17:36:30,Denver Nuggets,Los Angeles Lakers
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,tyus jones,True,21.5,-105,2023-10-26T00:10:25,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,tyus jones,True,22.5,-105,2023-10-26T00:00:19,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,tyus jones,True,23.5,-105,2023-10-25T23:45:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,tyus jones,False,10.5,185,2023-10-25T23:15:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,tyus jones,False,11.5,140,2023-10-25T23:15:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,tyus jones,False,12.5,110,2023-10-25T21:35:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,tyus jones,True,20.5,-105,2023-10-26T00:50:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,tyus jones,False,13.5,-130,2023-10-25T23:15:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,tyus jones,False,15.5,-210,2023-10-25T21:35:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,tyus jones,False,12.5,-105,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,tyus jones,False,13.5,-130,2023-10-25T21:35:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,tyus jones,False,14.5,-130,2023-10-25T23:35:38,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,tyus jones,False,16.5,-3000,2023-10-26T01:16:01,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,tyus jones,False,17.5,100,2023-10-26T00:45:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,tyus jones,False,14.5,-175,2023-10-25T23:15:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,tyus jones,False,18.5,-120,2023-10-26T00:41:24,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,tyus jones,True,19.5,-115,2023-10-26T00:41:24,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,tyus jones,True,17.5,-130,2023-10-26T00:45:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,tyus jones,False,22.5,-140,2023-10-25T23:55:05,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,pinnacle,player_points_over_under,tyus jones,True,12.5,-133,2023-10-25T21:30:15,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,pinnacle,player_points_over_under,tyus jones,True,13.5,-101,2023-10-25T21:25:29,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,pinnacle,player_points_over_under,tyus jones,False,12.5,101,2023-10-25T21:30:15,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,pinnacle,player_points_over_under,tyus jones,False,13.5,-132,2023-10-25T21:25:29,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,tyus jones,True,10.5,-245,2023-10-25T23:15:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,tyus jones,True,18.5,-110,2023-10-26T00:41:24,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,tyus jones,True,11.5,-180,2023-10-25T23:15:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,tyus jones,True,13.5,100,2023-10-25T23:15:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,tyus jones,True,14.5,135,2023-10-25T23:15:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,tyus jones,True,15.5,160,2023-10-25T21:35:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,tyus jones,True,13.5,100,2023-10-25T21:35:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,tyus jones,True,14.5,-105,2023-10-25T23:35:38,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,tyus jones,True,16.5,850,2023-10-26T01:16:01,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,tyus jones,True,12.5,-145,2023-10-25T21:35:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,tyus jones,False,21.5,-106,2023-10-26T00:00:34,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,tyus jones,False,19.5,-115,2023-10-26T00:41:24,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,tyus jones,False,21.5,-125,2023-10-26T00:10:25,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,tyus jones,False,20.5,-135,2023-10-26T00:55:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,tyus jones,False,22.5,-135,2023-10-26T00:05:14,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betrivers,player_points_over_under,tyus jones,True,10.5,-278,2023-10-25T23:15:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betrivers,player_points_over_under,tyus jones,True,11.5,-186,2023-10-25T23:15:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betrivers,player_points_over_under,tyus jones,True,12.5,-130,2023-10-25T23:15:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betrivers,player_points_over_under,tyus jones,True,13.5,104,2023-10-25T23:15:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,tyus jones,False,19.5,-120,2023-10-26T00:40:39,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betrivers,player_points_over_under,tyus jones,True,14.5,135,2023-10-25T23:15:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betrivers,player_points_over_under,tyus jones,True,16.5,195,2023-10-25T22:15:18,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_rebounds_over_under,tyus jones,True,2.5,-154,2023-10-25T23:45:17,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_rebounds_over_under,tyus jones,True,3.5,1000,2023-10-26T01:10:14,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_rebounds_over_under,tyus jones,True,4.5,178,2023-10-26T00:50:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_rebounds_over_under,tyus jones,True,5.5,134,2023-10-25T23:55:05,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_rebounds_over_under,tyus jones,False,2.5,116,2023-10-25T23:45:17,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betrivers,player_points_over_under,tyus jones,True,15.5,180,2023-10-25T23:15:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,tyus jones,False,20.5,-125,2023-10-26T00:50:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,tyus jones,False,18.5,-115,2023-10-26T00:35:07,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,tyus jones,False,13.5,-110,2023-10-25T23:36:00,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,tyus jones,False,22.5,-125,2023-10-26T00:00:19,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,tyus jones,False,23.5,-125,2023-10-25T23:45:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_points_over_under,tyus jones,True,12.5,-130,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_points_over_under,tyus jones,True,13.5,100,2023-10-25T22:41:22,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_points_over_under,tyus jones,False,12.5,-105,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_points_over_under,tyus jones,False,13.5,-130,2023-10-25T22:41:22,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,tyus jones,False,14.5,-135,2023-10-25T23:25:12,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,tyus jones,True,12.5,-115,2023-10-25T23:20:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,tyus jones,True,14.5,-105,2023-10-25T23:25:12,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,tyus jones,True,18.5,-125,2023-10-26T00:35:07,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,tyus jones,True,19.5,-120,2023-10-26T00:40:39,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,tyus jones,True,20.5,-105,2023-10-26T00:55:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,tyus jones,True,22.5,-105,2023-10-26T00:05:14,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,tyus jones,False,12.5,-125,2023-10-25T23:20:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,tyus jones,True,13.5,-130,2023-10-25T23:36:00,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,tyus jones,False,20.5,-142,2023-10-26T00:10:24,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,tyus jones,False,19.5,-146,2023-10-26T01:00:20,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,tyus jones,False,18.5,-130,2023-10-26T01:05:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_assists_over_under,tyus jones,False,7.5,-130,2023-10-26T00:41:24,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_assists_over_under,tyus jones,False,8.5,-155,2023-10-26T00:50:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_assists_over_under,tyus jones,False,9.5,-160,2023-10-26T00:25:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_assists_over_under,tyus jones,True,7.5,-120,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_assists_over_under,tyus jones,True,8.5,110,2023-10-25T19:05:07,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_assists_over_under,tyus jones,False,7.5,-110,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_assists_over_under,tyus jones,False,6.5,-2500,2023-10-26T01:16:01,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_assists_over_under,tyus jones,False,8.5,-145,2023-10-25T19:05:07,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_assists_over_under,tyus jones,True,7.5,-160,2023-10-26T00:40:39,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_assists_over_under,tyus jones,True,8.5,115,2023-10-26T00:55:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_assists_over_under,tyus jones,True,9.5,115,2023-10-26T00:25:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_assists_over_under,tyus jones,False,6.5,-105,2023-10-25T23:36:00,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_assists_over_under,tyus jones,False,7.5,110,2023-10-26T00:40:39,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_assists_over_under,tyus jones,False,8.5,-165,2023-10-26T00:55:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_assists_over_under,tyus jones,True,6.5,-135,2023-10-25T23:36:00,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_assists_over_under,tyus jones,False,9.5,-165,2023-10-26T00:25:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_assists_over_under,tyus jones,True,9.5,120,2023-10-26T00:25:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_assists_over_under,tyus jones,True,7.5,100,2023-10-26T00:41:24,Indiana Pacers,Washington Wizards
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_assists_over_under,tyus jones,False,7.5,110,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_assists_over_under,tyus jones,True,6.5,880,2023-10-26T01:15:30,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_assists_over_under,tyus jones,True,7.5,104,2023-10-26T00:41:16,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_assists_over_under,tyus jones,True,8.5,116,2023-10-26T00:55:12,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_assists_over_under,tyus jones,True,9.5,120,2023-10-26T00:25:17,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_assists_over_under,tyus jones,False,6.5,-3000,2023-10-26T01:15:30,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_assists_over_under,tyus jones,True,8.5,115,2023-10-26T00:50:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_assists_over_under,tyus jones,False,7.5,-138,2023-10-26T00:41:16,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_assists_over_under,tyus jones,False,9.5,-160,2023-10-26T00:25:17,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,pinnacle,player_assists_over_under,tyus jones,True,7.5,120,2023-10-25T21:30:15,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,pinnacle,player_assists_over_under,tyus jones,True,8.5,118,2023-10-25T21:20:07,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,pinnacle,player_assists_over_under,tyus jones,False,7.5,-162,2023-10-25T21:30:15,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,pinnacle,player_assists_over_under,tyus jones,False,8.5,-159,2023-10-25T21:20:07,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_assists_over_under,tyus jones,True,6.5,850,2023-10-26T01:16:01,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_assists_over_under,tyus jones,False,8.5,-154,2023-10-26T00:55:12,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betrivers,player_assists_over_under,tyus jones,True,6.5,-162,2023-10-25T23:15:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betrivers,player_assists_over_under,tyus jones,True,7.5,118,2023-10-25T23:15:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betrivers,player_assists_over_under,tyus jones,True,8.5,195,2023-10-25T22:15:18,Indiana Pacers,Washington Wizards
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,tyus jones,False,14.5,-165,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,tyus jones,False,15.5,-215,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,tyus jones,False,13.5,-125,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,tyus jones,True,12.5,-111,2023-10-25T23:20:12,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,tyus jones,True,13.5,-102,2023-10-25T23:40:05,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,tyus jones,True,14.5,-102,2023-10-25T23:30:14,Indiana Pacers,Washington Wizards
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,tyus jones,False,12.5,110,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,tyus jones,True,18.5,102,2023-10-26T01:05:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,tyus jones,True,20.5,112,2023-10-26T00:10:24,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,tyus jones,True,21.5,-120,2023-10-26T00:00:34,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,tyus jones,True,22.5,110,2023-10-25T23:55:05,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,tyus jones,False,12.5,-115,2023-10-25T23:20:12,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,tyus jones,False,13.5,-125,2023-10-25T23:40:05,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,tyus jones,False,14.5,-125,2023-10-25T23:30:14,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,tyus jones,True,19.5,114,2023-10-26T01:00:20,Indiana Pacers,Washington Wizards
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,tyus jones,False,11.5,145,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,tyus jones,True,13.5,100,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,tyus jones,True,15.5,165,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_blocks_over_under,tyus jones,True,0.5,475,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_blocks_over_under,tyus jones,False,0.5,-650,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_blocks_over_under,tyus jones,True,0.5,880,2023-10-26T00:10:24,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_blocks_over_under,tyus jones,True,1.5,1000,2023-10-26T00:25:17,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_blocks_over_under,tyus jones,False,0.5,-3000,2023-10-26T00:10:24,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_blocks_over_under,tyus jones,False,1.5,-100000,2023-10-26T01:05:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_blocks_over_under,tyus jones,True,0.5,475,2023-10-25T23:15:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_blocks_over_under,tyus jones,False,0.5,-700,2023-10-25T23:15:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_blocks_over_under,tyus jones,True,0.5,425,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_blocks_over_under,tyus jones,False,0.5,-750,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_blocks_over_under,tyus jones,True,0.5,400,2023-10-25T23:16:13,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_blocks_over_under,tyus jones,False,0.5,-700,2023-10-25T23:16:13,Indiana Pacers,Washington Wizards
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,tyus jones,True,11.5,-190,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,tyus jones,True,12.5,-140,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,tyus jones,True,14.5,125,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_rebounds_over_under,tyus jones,False,3.5,-8000,2023-10-26T01:15:30,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_rebounds_over_under,tyus jones,False,4.5,-245,2023-10-26T00:50:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,tyus jones,True,12.5,-130,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_rebounds_over_under,tyus jones,True,2.5,-150,2023-10-25T23:41:13,Indiana Pacers,Washington Wizards
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_assists_over_under,tyus jones,True,8.5,115,2023-10-23T21:05:11,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_assists_over_under,tyus jones,True,7.5,-140,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betrivers,player_threes_over_under,tyus jones,True,2.5,170,2023-10-25T23:15:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betrivers,player_threes_over_under,tyus jones,True,1.5,-190,2023-10-25T23:15:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_threes_over_under,tyus jones,False,3.5,-215,2023-10-26T00:05:14,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_threes_over_under,tyus jones,False,2.5,-125,2023-10-26T00:55:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_threes_over_under,tyus jones,False,1.5,105,2023-10-25T23:40:13,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_threes_over_under,tyus jones,True,3.5,145,2023-10-26T00:05:14,Indiana Pacers,Washington Wizards
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_assists_over_under,tyus jones,False,7.5,110,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_threes_over_under,tyus jones,True,2.5,-115,2023-10-26T00:55:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_threes_over_under,tyus jones,False,1.5,120,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_threes_over_under,tyus jones,True,1.5,-160,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_threes_over_under,tyus jones,False,3.5,-245,2023-10-26T00:10:25,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_threes_over_under,tyus jones,False,2.5,-20000,2023-10-26T01:10:27,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_threes_over_under,tyus jones,False,1.5,115,2023-10-25T23:41:13,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_threes_over_under,tyus jones,True,3.5,180,2023-10-26T00:10:25,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_threes_over_under,tyus jones,True,2.5,1200,2023-10-26T01:10:27,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_threes_over_under,tyus jones,True,1.5,-155,2023-10-25T23:41:13,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_threes_over_under,tyus jones,True,1.5,-150,2023-10-25T23:40:13,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,pinnacle,player_threes_over_under,tyus jones,False,1.5,127,2023-10-25T21:30:15,Indiana Pacers,Washington Wizards
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_assists_over_under,tyus jones,False,8.5,-145,2023-10-23T21:05:11,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_assists_over_under,tyus jones,True,8.5,115,2023-10-23T21:05:25,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_steals_over_under,tyus jones,False,1.5,-190,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_steals_over_under,tyus jones,True,1.5,145,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,tyus jones,False,13.5,-130,2023-10-24T18:00:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,tyus jones,True,13.5,100,2023-10-24T18:00:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,tyus jones,False,13.5,-125,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,tyus jones,False,15.5,-215,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,tyus jones,False,14.5,-165,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,tyus jones,False,12.5,110,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_assists_over_under,tyus jones,True,7.5,-145,2023-10-24T18:00:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,tyus jones,False,11.5,145,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,tyus jones,True,15.5,165,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_rebounds_over_under,tyus jones,False,5.5,-180,2023-10-25T23:55:05,Indiana Pacers,Washington Wizards
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,tyus jones,True,12.5,-140,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,tyus jones,True,11.5,-190,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_blocks_over_under,tyus jones,False,0.5,-650,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_blocks_over_under,tyus jones,True,0.5,475,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_assists_over_under,tyus jones,False,8.5,-150,2023-10-23T21:05:25,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_assists_over_under,tyus jones,False,7.5,110,2023-10-24T18:00:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,tyus jones,True,13.5,100,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,pinnacle,player_threes_over_under,tyus jones,True,1.5,-172,2023-10-25T21:30:15,Indiana Pacers,Washington Wizards
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,tyus jones,True,14.5,125,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_threes_over_under,tyus jones,False,2.5,112,2023-10-26T00:35:09,Indiana Pacers,Washington Wizards
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_steals_over_under,tyus jones,True,1.5,145,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betrivers,player_rebounds_over_under,tyus jones,True,3.5,108,2023-10-25T23:15:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betrivers,player_rebounds_over_under,tyus jones,True,2.5,-245,2023-10-25T23:15:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_rebounds_over_under,tyus jones,False,4.5,-225,2023-10-26T00:35:07,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_rebounds_over_under,tyus jones,False,3.5,-170,2023-10-25T23:40:13,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_rebounds_over_under,tyus jones,False,2.5,110,2023-10-25T23:45:46,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_rebounds_over_under,tyus jones,True,4.5,150,2023-10-26T00:35:07,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_rebounds_over_under,tyus jones,True,3.5,120,2023-10-25T23:40:13,Indiana Pacers,Washington Wizards
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_steals_over_under,tyus jones,False,1.5,-190,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_rebounds_over_under,tyus jones,True,2.5,-160,2023-10-25T23:45:46,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_threes_over_under,tyus jones,False,3.5,-230,2023-10-26T00:00:34,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_rebounds_over_under,tyus jones,True,3.5,100,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_rebounds_over_under,tyus jones,False,5.5,-185,2023-10-25T23:55:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_rebounds_over_under,tyus jones,False,4.5,-215,2023-10-26T00:30:07,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_rebounds_over_under,tyus jones,False,3.5,-4000,2023-10-26T01:10:27,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_rebounds_over_under,tyus jones,False,2.5,115,2023-10-25T23:41:13,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_rebounds_over_under,tyus jones,True,5.5,140,2023-10-25T23:55:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_rebounds_over_under,tyus jones,True,4.5,160,2023-10-26T00:30:07,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_rebounds_over_under,tyus jones,False,3.5,-135,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_steals_over_under,tyus jones,True,1.5,1000,2023-10-26T01:10:14,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_steals_over_under,tyus jones,True,2.5,162,2023-10-25T23:20:12,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_steals_over_under,tyus jones,False,1.5,-100000,2023-10-26T01:15:30,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_threes_over_under,tyus jones,False,1.5,-166,2023-10-25T23:40:05,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_threes_over_under,tyus jones,True,3.5,168,2023-10-26T00:00:34,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_threes_over_under,tyus jones,True,2.5,-148,2023-10-26T00:35:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_threes_over_under,tyus jones,True,1.5,-138,2023-10-25T23:40:05,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betrivers,player_steals_over_under,tyus jones,True,1.5,143,2023-10-25T23:15:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_steals_over_under,tyus jones,False,2.5,-250,2023-10-25T23:40:13,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_steals_over_under,tyus jones,False,1.5,-260,2023-10-26T00:55:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_steals_over_under,tyus jones,False,0.5,210,2023-10-25T18:56:23,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_steals_over_under,tyus jones,True,2.5,165,2023-10-25T23:40:13,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_steals_over_under,tyus jones,True,1.5,170,2023-10-26T00:55:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_steals_over_under,tyus jones,True,0.5,-300,2023-10-25T18:56:23,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_steals_over_under,tyus jones,False,1.5,-200,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_steals_over_under,tyus jones,True,1.5,145,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_steals_over_under,tyus jones,False,2.5,-215,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_steals_over_under,tyus jones,False,1.5,-1200,2023-10-26T01:05:18,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_steals_over_under,tyus jones,True,2.5,160,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_steals_over_under,tyus jones,True,1.5,550,2023-10-26T01:05:18,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_steals_over_under,tyus jones,False,2.5,-220,2023-10-25T23:20:12,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_rebounds_over_under,tyus jones,True,3.5,1000,2023-10-26T01:10:27,Indiana Pacers,Washington Wizards
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_points_over_under,tyus jones,True,16.5,-115,2023-10-28T23:35:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_points_over_under,tyus jones,True,15.5,-105,2023-10-28T23:55:04,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,tyus jones,False,11.5,-140,2023-10-29T00:35:09,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_points_over_under,tyus jones,True,13.5,100,2023-10-29T00:17:01,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,pinnacle,player_points_over_under,tyus jones,True,13.5,-112,2023-10-28T18:05:09,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,pinnacle,player_points_over_under,tyus jones,False,13.5,-118,2023-10-28T18:05:09,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,tyus jones,True,11.5,-195,2023-10-28T23:16:01,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,tyus jones,True,12.5,-150,2023-10-28T23:16:01,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,tyus jones,True,14.5,120,2023-10-28T23:16:01,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,tyus jones,True,15.5,160,2023-10-28T23:16:01,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,tyus jones,True,9.5,-110,2023-10-29T00:41:00,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,tyus jones,True,11.5,105,2023-10-29T00:35:09,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,tyus jones,True,13.5,100,2023-10-29T00:16:47,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,tyus jones,True,14.5,550,2023-10-29T01:30:07,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,tyus jones,True,15.5,-170,2023-10-29T01:15:29,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_points_over_under,tyus jones,True,14.5,-130,2023-10-29T00:00:54,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,tyus jones,True,16.5,105,2023-10-29T01:00:07,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,tyus jones,False,12.5,115,2023-10-28T23:16:01,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,tyus jones,False,14.5,-155,2023-10-28T23:16:01,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,tyus jones,False,15.5,-205,2023-10-28T23:16:01,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,tyus jones,False,9.5,-120,2023-10-29T00:41:00,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_points_over_under,tyus jones,False,11.5,-120,2023-10-29T00:40:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,tyus jones,False,13.5,-135,2023-10-29T00:16:47,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,tyus jones,False,14.5,-1000,2023-10-29T01:30:07,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,tyus jones,False,15.5,125,2023-10-29T01:15:29,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,tyus jones,False,16.5,-140,2023-10-29T01:00:07,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_points_over_under,tyus jones,True,11.5,-120,2023-10-29T00:40:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_points_over_under,tyus jones,True,12.5,-105,2023-10-28T23:25:04,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,tyus jones,False,11.5,150,2023-10-28T23:16:01,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_points_over_under,tyus jones,False,12.5,-135,2023-10-28T23:25:04,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,betrivers,player_points_over_under,tyus jones,True,15.5,140,2023-10-28T17:06:39,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_points_over_under,tyus jones,False,14.5,-110,2023-10-29T00:00:54,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_steals_over_under,tyus jones,True,1.5,280,2023-10-29T00:55:18,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_steals_over_under,tyus jones,True,2.5,900,2023-10-29T01:25:35,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_steals_over_under,tyus jones,False,1.5,-425,2023-10-29T00:55:18,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_steals_over_under,tyus jones,False,2.5,-3500,2023-10-29T01:25:35,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_steals_over_under,tyus jones,True,1.5,100,2023-10-29T00:40:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_steals_over_under,tyus jones,False,1.5,-140,2023-10-29T00:40:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,betrivers,player_steals_over_under,tyus jones,True,1.5,132,2023-10-28T17:06:39,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_threes_over_under,tyus jones,True,1.5,-148,2023-10-28T23:15:15,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_threes_over_under,tyus jones,False,1.5,116,2023-10-28T23:15:15,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,pinnacle,player_threes_over_under,tyus jones,True,1.5,-160,2023-10-28T18:05:09,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,pinnacle,player_threes_over_under,tyus jones,False,1.5,119,2023-10-28T18:05:09,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_threes_over_under,tyus jones,True,1.5,-160,2023-10-28T23:22:02,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_threes_over_under,tyus jones,True,2.5,-145,2023-10-29T00:35:09,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_threes_over_under,tyus jones,True,3.5,165,2023-10-29T00:05:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_threes_over_under,tyus jones,True,4.5,900,2023-10-29T01:25:35,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_threes_over_under,tyus jones,False,1.5,120,2023-10-28T23:22:02,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_threes_over_under,tyus jones,False,2.5,110,2023-10-29T00:35:09,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_threes_over_under,tyus jones,False,3.5,-230,2023-10-29T00:05:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_threes_over_under,tyus jones,False,4.5,-3000,2023-10-29T01:25:35,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_threes_over_under,tyus jones,True,1.5,-135,2023-10-28T23:25:04,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_threes_over_under,tyus jones,True,2.5,-165,2023-10-29T00:40:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_threes_over_under,tyus jones,True,3.5,165,2023-10-29T00:05:06,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_threes_over_under,tyus jones,False,1.5,-105,2023-10-28T23:25:04,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_threes_over_under,tyus jones,False,2.5,115,2023-10-29T00:40:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_threes_over_under,tyus jones,False,3.5,-250,2023-10-29T00:05:06,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_steals_over_under,tyus jones,False,2.5,-20000,2023-10-29T01:30:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_points_over_under,tyus jones,False,13.5,-140,2023-10-29T00:17:01,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_steals_over_under,tyus jones,False,1.5,-440,2023-10-29T00:55:03,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_steals_over_under,tyus jones,True,1.5,290,2023-10-29T00:55:03,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_points_over_under,tyus jones,False,15.5,-135,2023-10-28T23:55:04,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_points_over_under,tyus jones,False,16.5,-125,2023-10-28T23:35:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,betrivers,player_points_over_under,tyus jones,True,11.5,-250,2023-10-28T17:06:39,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,betrivers,player_points_over_under,tyus jones,True,12.5,-175,2023-10-28T17:06:39,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,betrivers,player_points_over_under,tyus jones,True,13.5,-124,2023-10-28T17:06:39,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,betrivers,player_points_over_under,tyus jones,True,14.5,108,2023-10-28T17:06:39,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_points_over_under,tyus jones,False,13.5,-104,2023-10-28T23:15:15,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,betrivers,player_points_over_under,tyus jones,True,16.5,185,2023-10-28T17:06:39,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,tyus jones,True,2.5,920,2023-10-29T01:30:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,tyus jones,True,3.5,142,2023-10-29T00:35:13,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,tyus jones,True,4.5,118,2023-10-29T00:01:37,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,tyus jones,False,2.5,-3500,2023-10-29T01:30:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,tyus jones,False,3.5,-192,2023-10-29T00:35:13,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,tyus jones,False,4.5,-158,2023-10-29T00:01:37,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,tyus jones,True,2.5,900,2023-10-29T01:30:07,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,tyus jones,True,3.5,135,2023-10-29T00:35:09,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,tyus jones,True,4.5,145,2023-10-29T00:05:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,tyus jones,False,2.5,-3500,2023-10-29T01:30:07,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,tyus jones,False,3.5,-185,2023-10-29T00:35:09,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,tyus jones,False,4.5,-195,2023-10-29T00:05:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_rebounds_over_under,tyus jones,True,3.5,105,2023-10-29T00:40:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_rebounds_over_under,tyus jones,True,4.5,120,2023-10-29T00:00:54,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_rebounds_over_under,tyus jones,False,3.5,-150,2023-10-29T00:40:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_rebounds_over_under,tyus jones,False,4.5,-170,2023-10-29T00:00:54,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,betrivers,player_rebounds_over_under,tyus jones,True,3.5,-104,2023-10-28T17:06:39,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_steals_over_under,tyus jones,True,2.5,1000,2023-10-29T01:30:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_points_over_under,tyus jones,True,13.5,-118,2023-10-28T23:15:15,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_assists_over_under,tyus jones,True,6.5,-150,2023-10-29T00:41:00,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_blocks_over_under,tyus jones,True,0.5,300,2023-10-28T23:20:59,Washington Wizards,Memphis Grizzlies
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,tyus jones,True,10.5,-205,2023-10-30T05:00:30,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,tyus jones,True,11.5,-150,2023-10-30T05:00:30,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,tyus jones,True,12.5,-140,2023-10-29T23:40:08,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,tyus jones,True,13.5,120,2023-10-30T05:00:30,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,tyus jones,True,14.5,160,2023-10-30T05:00:30,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,tyus jones,True,15.5,160,2023-10-29T23:40:08,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,tyus jones,True,12.5,-105,2023-10-30T05:00:30,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,tyus jones,True,13.5,100,2023-10-29T23:40:08,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,pinnacle,player_points_over_under,tyus jones,False,12.5,-106,2023-10-29T23:40:30,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,tyus jones,False,10.5,160,2023-10-30T05:00:30,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,tyus jones,False,12.5,110,2023-10-29T23:40:08,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,tyus jones,False,13.5,-155,2023-10-30T05:00:30,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,tyus jones,False,14.5,-205,2023-10-30T05:00:30,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,tyus jones,False,15.5,-210,2023-10-29T23:40:08,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,tyus jones,False,12.5,-125,2023-10-30T06:00:12,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,tyus jones,False,13.5,-130,2023-10-29T23:40:08,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,barstool,player_points_over_under,tyus jones,True,12.5,-105,2023-10-30T05:00:27,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,barstool,player_points_over_under,tyus jones,False,12.5,-125,2023-10-30T05:00:27,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,tyus jones,False,11.5,115,2023-10-30T05:00:30,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,pinnacle,player_points_over_under,tyus jones,True,12.5,-125,2023-10-29T23:40:30,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,fanduel,player_points_over_under,tyus jones,False,12.5,-128,2023-10-30T05:30:22,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,fanduel,player_points_over_under,tyus jones,False,11.5,102,2023-10-30T04:00:05,Washington Wizards,Boston Celtics
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,betrivers,player_threes_over_under,tyus jones,True,1.5,-143,2023-10-28T17:06:39,Washington Wizards,Memphis Grizzlies
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,fanduel,player_assists_over_under,tyus jones,True,6.5,-122,2023-10-30T05:20:23,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,fanduel,player_assists_over_under,tyus jones,True,7.5,120,2023-10-30T03:25:24,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,fanduel,player_assists_over_under,tyus jones,False,6.5,-104,2023-10-30T05:20:23,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,fanduel,player_assists_over_under,tyus jones,False,7.5,-154,2023-10-30T03:25:24,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,pinnacle,player_assists_over_under,tyus jones,True,6.5,-127,2023-10-29T23:40:30,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,pinnacle,player_assists_over_under,tyus jones,True,7.5,102,2023-10-29T23:40:30,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,pinnacle,player_assists_over_under,tyus jones,False,6.5,-104,2023-10-29T23:40:30,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,pinnacle,player_assists_over_under,tyus jones,False,7.5,-135,2023-10-29T23:40:30,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_assists_over_under,tyus jones,True,6.5,-130,2023-10-30T04:35:33,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_assists_over_under,tyus jones,True,7.5,100,2023-10-29T19:20:18,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_assists_over_under,tyus jones,False,6.5,100,2023-10-30T06:00:12,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_assists_over_under,tyus jones,False,7.5,-130,2023-10-29T19:20:18,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,barstool,player_assists_over_under,tyus jones,True,6.5,-130,2023-10-30T05:20:44,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,barstool,player_assists_over_under,tyus jones,False,6.5,100,2023-10-30T05:20:44,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_blocks_over_under,tyus jones,True,0.5,425,2023-10-30T03:25:42,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_blocks_over_under,tyus jones,False,0.5,-600,2023-10-30T02:20:22,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,fanduel,player_points_over_under,tyus jones,True,11.5,-130,2023-10-30T04:00:05,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,fanduel,player_points_over_under,tyus jones,True,12.5,100,2023-10-30T05:30:22,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,fanduel,player_rebounds_over_under,tyus jones,True,2.5,-172,2023-10-30T05:30:22,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,fanduel,player_rebounds_over_under,tyus jones,True,3.5,130,2023-10-30T04:00:05,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,fanduel,player_rebounds_over_under,tyus jones,False,2.5,134,2023-10-30T05:30:22,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,fanduel,player_rebounds_over_under,tyus jones,False,3.5,-166,2023-10-30T04:00:05,Washington Wizards,Boston Celtics
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,pinnacle,player_assists_over_under,tyus jones,False,7.5,-161,2023-10-28T18:05:09,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_assists_over_under,tyus jones,True,7.5,280,2023-10-29T01:25:35,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_assists_over_under,tyus jones,True,8.5,125,2023-10-29T00:50:26,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_assists_over_under,tyus jones,True,9.5,125,2023-10-29T01:00:07,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_assists_over_under,tyus jones,False,6.5,115,2023-10-29T00:41:00,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_assists_over_under,tyus jones,False,7.5,-425,2023-10-29T01:25:35,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_assists_over_under,tyus jones,False,8.5,-170,2023-10-29T00:50:26,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_assists_over_under,tyus jones,False,9.5,-170,2023-10-29T01:00:07,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_assists_over_under,tyus jones,True,6.5,115,2023-10-29T00:05:06,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_assists_over_under,tyus jones,True,7.5,-160,2023-10-29T00:40:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_assists_over_under,tyus jones,False,6.5,-165,2023-10-29T00:05:06,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_assists_over_under,tyus jones,False,7.5,110,2023-10-29T00:40:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,betrivers,player_assists_over_under,tyus jones,True,6.5,-177,2023-10-28T17:06:39,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,betrivers,player_assists_over_under,tyus jones,True,7.5,-120,2023-10-28T17:06:39,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,betrivers,player_assists_over_under,tyus jones,True,8.5,123,2023-10-28T17:06:39,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_blocks_over_under,tyus jones,True,0.5,1000,2023-10-29T00:40:11,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_blocks_over_under,tyus jones,False,0.5,-100000,2023-10-29T01:25:31,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_blocks_over_under,tyus jones,True,0.5,340,2023-10-28T23:16:01,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_blocks_over_under,tyus jones,False,0.5,-475,2023-10-28T23:16:01,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,pinnacle,player_assists_over_under,tyus jones,True,7.5,120,2023-10-28T18:05:09,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_blocks_over_under,tyus jones,False,0.5,-500,2023-10-28T23:20:59,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_assists_over_under,tyus jones,False,9.5,-166,2023-10-29T01:00:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_assists_over_under,tyus jones,False,7.5,-8000,2023-10-29T01:30:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_rebounds_over_under,tyus jones,True,3.5,115,2023-10-30T04:30:34,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_rebounds_over_under,tyus jones,False,3.5,-145,2023-10-30T06:00:12,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,barstool,player_rebounds_over_under,tyus jones,True,3.5,105,2023-10-30T05:20:44,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,barstool,player_rebounds_over_under,tyus jones,False,3.5,-135,2023-10-30T05:20:44,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_steals_over_under,tyus jones,True,1.5,135,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_steals_over_under,tyus jones,False,1.5,-170,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,fanduel,player_threes_over_under,tyus jones,True,1.5,-158,2023-10-30T04:00:05,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,fanduel,player_threes_over_under,tyus jones,False,1.5,124,2023-10-30T03:25:24,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,pinnacle,player_threes_over_under,tyus jones,True,1.5,-164,2023-10-29T23:40:30,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,pinnacle,player_threes_over_under,tyus jones,False,1.5,122,2023-10-29T23:40:30,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_threes_over_under,tyus jones,True,1.5,-160,2023-10-30T06:00:12,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_threes_over_under,tyus jones,False,1.5,125,2023-10-30T06:00:12,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,barstool,player_threes_over_under,tyus jones,True,1.5,-165,2023-10-30T05:00:27,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,barstool,player_threes_over_under,tyus jones,False,1.5,125,2023-10-30T05:00:27,Washington Wizards,Boston Celtics
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_assists_over_under,tyus jones,True,6.5,130,2023-10-29T00:55:03,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_assists_over_under,tyus jones,True,7.5,1000,2023-10-29T01:30:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_assists_over_under,tyus jones,True,8.5,130,2023-10-29T00:50:46,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_assists_over_under,tyus jones,True,9.5,124,2023-10-29T01:00:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_assists_over_under,tyus jones,False,6.5,-174,2023-10-29T00:55:03,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_assists_over_under,tyus jones,False,8.5,-174,2023-10-29T00:50:46,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,betrivers,player_threes_over_under,tyus jones,True,2.5,225,2023-10-28T12:06:10,Washington Wizards,Memphis Grizzlies

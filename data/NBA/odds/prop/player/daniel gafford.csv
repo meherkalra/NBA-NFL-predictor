@@ -1,0 +1,778 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_blocks_over_under,daniel gafford,True,1.5,164,2023-03-22T00:30:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,daniel gafford,False,8.5,-106,2023-03-21T23:00:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,daniel gafford,True,15.5,110,2023-03-22T00:00:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,daniel gafford,True,14.5,-132,2023-03-22T00:30:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,daniel gafford,True,13.5,-178,2023-03-22T00:45:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,daniel gafford,True,12.5,168,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,daniel gafford,True,11.5,-130,2023-03-21T23:45:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,daniel gafford,True,10.5,-118,2023-03-21T23:30:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,daniel gafford,True,9.5,-106,2023-03-21T23:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,daniel gafford,True,8.5,-114,2023-03-21T23:00:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_blocks_over_under,daniel gafford,False,2.5,-3500,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_blocks_over_under,daniel gafford,False,1.5,-225,2023-03-22T00:30:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_blocks_over_under,daniel gafford,True,2.5,920,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_blocks_over_under,daniel gafford,True,0.5,-125,2023-03-22T00:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_assists_over_under,daniel gafford,False,1.5,-230,2023-03-21T23:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_assists_over_under,daniel gafford,False,0.5,-3500,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_assists_over_under,daniel gafford,True,1.5,168,2023-03-21T23:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_assists_over_under,daniel gafford,True,0.5,920,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,daniel gafford,False,9.5,-125,2023-03-21T23:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,daniel gafford,False,10.5,-112,2023-03-21T23:30:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_blocks_over_under,daniel gafford,False,0.5,-106,2023-03-22T00:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,daniel gafford,False,12.5,-230,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,daniel gafford,False,11.5,-102,2023-03-21T23:45:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_threes_over_under,daniel gafford,False,0.5,-100000,2023-03-21T23:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_threes_over_under,daniel gafford,True,0.5,1000,2023-03-21T23:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_steals_over_under,daniel gafford,False,1.5,-10000,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_steals_over_under,daniel gafford,False,0.5,-245,2023-03-22T00:00:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_steals_over_under,daniel gafford,True,0.5,178,2023-03-22T00:00:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_rebounds_over_under,daniel gafford,False,6.5,-130,2023-03-21T22:45:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_rebounds_over_under,daniel gafford,False,5.5,-162,2023-03-22T00:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_steals_over_under,daniel gafford,True,1.5,1000,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_rebounds_over_under,daniel gafford,False,3.5,-360,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_rebounds_over_under,daniel gafford,True,6.5,106,2023-03-21T22:45:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_rebounds_over_under,daniel gafford,True,5.5,122,2023-03-22T00:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_rebounds_over_under,daniel gafford,True,4.5,126,2023-03-22T00:45:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_rebounds_over_under,daniel gafford,True,3.5,250,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,daniel gafford,False,15.5,-146,2023-03-22T00:00:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,daniel gafford,False,14.5,100,2023-03-22T00:30:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_rebounds_over_under,daniel gafford,False,4.5,-168,2023-03-22T00:45:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,daniel gafford,False,13.5,132,2023-03-22T00:45:02,Orlando Magic,Washington Wizards
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,daniel gafford,False,6.5,-136,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,daniel gafford,False,7.5,-162,2023-03-23T00:45:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,daniel gafford,False,8.5,-136,2023-03-23T00:30:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,daniel gafford,False,9.5,-124,2023-03-22T20:00:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,daniel gafford,False,10.5,-112,2023-03-22T23:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_rebounds_over_under,daniel gafford,False,3.5,114,2023-03-23T00:45:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_rebounds_over_under,daniel gafford,True,4.5,122,2023-03-23T00:30:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_rebounds_over_under,daniel gafford,True,5.5,205,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,daniel gafford,True,10.5,-108,2023-03-22T23:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_rebounds_over_under,daniel gafford,False,4.5,-162,2023-03-23T00:30:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_rebounds_over_under,daniel gafford,False,5.5,-290,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_rebounds_over_under,daniel gafford,True,3.5,-152,2023-03-23T00:45:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,daniel gafford,True,9.5,102,2023-03-22T20:00:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_assists_over_under,daniel gafford,False,0.5,-2200,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,daniel gafford,True,7.5,122,2023-03-23T00:45:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,daniel gafford,True,6.5,102,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_blocks_over_under,daniel gafford,False,1.5,-3000,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_blocks_over_under,daniel gafford,False,0.5,148,2023-03-22T23:45:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_blocks_over_under,daniel gafford,True,1.5,880,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_blocks_over_under,daniel gafford,True,0.5,-200,2023-03-22T23:45:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_assists_over_under,daniel gafford,False,1.5,-194,2023-03-22T23:15:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_assists_over_under,daniel gafford,True,1.5,144,2023-03-22T23:15:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_assists_over_under,daniel gafford,True,0.5,800,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_threes_over_under,daniel gafford,True,0.5,1000,2023-03-22T23:15:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_threes_over_under,daniel gafford,False,0.5,-100000,2023-03-22T23:15:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_steals_over_under,daniel gafford,True,0.5,1000,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,daniel gafford,True,8.5,102,2023-03-23T00:30:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_steals_over_under,daniel gafford,False,0.5,-7000,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_assists_over_under,daniel gafford,True,0.5,-230,2023-03-24T23:45:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_assists_over_under,daniel gafford,True,1.5,450,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_threes_over_under,daniel gafford,False,0.5,-100000,2023-03-24T23:15:02,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_rebounds_over_under,daniel gafford,True,2.5,-144,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_steals_over_under,daniel gafford,False,0.5,-3500,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,daniel gafford,False,8.5,-178,2023-03-25T00:30:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,daniel gafford,False,7.5,-102,2023-03-25T00:45:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_threes_over_under,daniel gafford,True,0.5,1000,2023-03-24T23:15:02,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,daniel gafford,True,11.5,-115,2023-03-24T22:45:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,daniel gafford,True,10.5,154,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,daniel gafford,True,9.5,110,2023-03-24T23:30:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,daniel gafford,True,8.5,132,2023-03-25T00:30:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,daniel gafford,True,7.5,-130,2023-03-25T00:45:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,daniel gafford,True,6.5,-108,2023-03-25T00:15:02,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_blocks_over_under,daniel gafford,False,1.5,-800,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_blocks_over_under,daniel gafford,False,0.5,-290,2023-03-25T00:45:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_blocks_over_under,daniel gafford,True,1.5,450,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_blocks_over_under,daniel gafford,True,0.5,205,2023-03-25T00:45:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_assists_over_under,daniel gafford,False,1.5,-800,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_assists_over_under,daniel gafford,False,0.5,168,2023-03-24T23:45:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,daniel gafford,False,9.5,-146,2023-03-24T23:30:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,daniel gafford,False,10.5,-210,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,daniel gafford,False,6.5,-122,2023-03-25T00:15:02,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_rebounds_over_under,daniel gafford,False,6.5,100,2023-03-24T23:00:02,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_rebounds_over_under,daniel gafford,True,3.5,-125,2023-03-25T00:45:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_rebounds_over_under,daniel gafford,True,4.5,-136,2023-03-24T23:45:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_rebounds_over_under,daniel gafford,True,5.5,100,2023-03-24T23:30:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_rebounds_over_under,daniel gafford,True,6.5,-122,2023-03-24T23:00:02,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_rebounds_over_under,daniel gafford,False,2.5,108,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_rebounds_over_under,daniel gafford,False,3.5,-106,2023-03-25T00:45:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_rebounds_over_under,daniel gafford,False,4.5,102,2023-03-24T23:45:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_rebounds_over_under,daniel gafford,False,5.5,-132,2023-03-24T23:30:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_steals_over_under,daniel gafford,True,0.5,920,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,daniel gafford,False,11.5,-105,2023-03-24T22:45:01,Washington Wizards,San Antonio Spurs
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_threes_over_under,daniel gafford,False,0.5,-100000,2023-03-26T22:15:02,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_rebounds_over_under,daniel gafford,True,6.5,-136,2023-03-26T22:30:02,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_assists_over_under,daniel gafford,True,2.5,164,2023-03-26T23:30:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_assists_over_under,daniel gafford,True,0.5,-122,2023-03-26T23:15:02,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_assists_over_under,daniel gafford,True,1.5,168,2023-03-26T22:30:02,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_threes_over_under,daniel gafford,True,0.5,1000,2023-03-26T22:15:02,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_points_over_under,daniel gafford,False,10.5,118,2023-03-27T00:00:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_steals_over_under,daniel gafford,False,0.5,-7000,2023-03-27T00:00:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_rebounds_over_under,daniel gafford,True,8.5,128,2023-03-27T00:00:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_rebounds_over_under,daniel gafford,False,9.5,-174,2023-03-26T23:00:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_rebounds_over_under,daniel gafford,False,8.5,-172,2023-03-27T00:00:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_rebounds_over_under,daniel gafford,False,7.5,122,2023-03-26T22:45:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_rebounds_over_under,daniel gafford,True,7.5,-162,2023-03-26T22:45:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_rebounds_over_under,daniel gafford,True,9.5,130,2023-03-26T23:00:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_rebounds_over_under,daniel gafford,False,5.5,-154,2023-03-26T22:15:02,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_rebounds_over_under,daniel gafford,False,6.5,102,2023-03-26T22:30:02,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_steals_over_under,daniel gafford,True,0.5,1000,2023-03-27T00:00:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_assists_over_under,daniel gafford,True,3.5,580,2023-03-27T00:00:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_rebounds_over_under,daniel gafford,True,5.5,116,2023-03-26T22:15:02,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_assists_over_under,daniel gafford,False,1.5,-230,2023-03-26T22:30:02,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_assists_over_under,daniel gafford,False,2.5,-225,2023-03-26T23:30:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_assists_over_under,daniel gafford,False,3.5,-1200,2023-03-27T00:00:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_points_over_under,daniel gafford,False,9.5,-118,2023-03-26T23:45:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_blocks_over_under,daniel gafford,True,3.5,182,2023-03-26T22:30:02,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_points_over_under,daniel gafford,False,8.5,104,2023-03-26T22:15:02,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_assists_over_under,daniel gafford,False,0.5,-108,2023-03-26T23:15:02,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_blocks_over_under,daniel gafford,True,1.5,580,2023-03-27T00:00:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_points_over_under,daniel gafford,True,10.5,-158,2023-03-27T00:00:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_points_over_under,daniel gafford,True,9.5,-112,2023-03-26T23:45:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_points_over_under,daniel gafford,True,8.5,-138,2023-03-26T22:15:02,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_blocks_over_under,daniel gafford,False,3.5,-250,2023-03-26T22:30:02,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_blocks_over_under,daniel gafford,False,1.5,-1200,2023-03-27T00:00:01,Toronto Raptors,Washington Wizards
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,daniel gafford,False,19.5,-160,2023-04-01T01:12:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,daniel gafford,False,20.5,-188,2023-04-01T01:04:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_rebounds_over_under,daniel gafford,True,7.5,152,2023-04-01T00:56:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_rebounds_over_under,daniel gafford,True,9.5,114,2023-04-01T00:00:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,daniel gafford,False,18.5,-130,2023-04-01T00:54:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_rebounds_over_under,daniel gafford,True,10.5,-158,2023-04-01T01:12:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_rebounds_over_under,daniel gafford,True,11.5,188,2023-04-01T01:06:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_rebounds_over_under,daniel gafford,False,7.5,-205,2023-04-01T00:56:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_rebounds_over_under,daniel gafford,False,9.5,-152,2023-04-01T00:00:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_rebounds_over_under,daniel gafford,False,10.5,118,2023-04-01T01:12:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_rebounds_over_under,daniel gafford,False,11.5,-260,2023-04-01T01:06:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_steals_over_under,daniel gafford,True,1.5,920,2023-04-01T01:10:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_steals_over_under,daniel gafford,False,1.5,-3500,2023-04-01T01:10:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_rebounds_over_under,daniel gafford,True,8.5,-270,2023-04-01T00:58:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,daniel gafford,False,17.5,-188,2023-04-01T00:56:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,daniel gafford,False,15.5,-114,2023-04-01T00:20:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_threes_over_under,daniel gafford,True,0.5,1000,2023-03-31T23:12:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_assists_over_under,daniel gafford,True,0.5,174,2023-04-01T00:52:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_assists_over_under,daniel gafford,True,1.5,410,2023-04-01T01:10:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_assists_over_under,daniel gafford,False,0.5,-240,2023-04-01T00:52:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_assists_over_under,daniel gafford,False,1.5,-700,2023-04-01T01:10:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_blocks_over_under,daniel gafford,True,0.5,128,2023-04-01T00:52:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_blocks_over_under,daniel gafford,True,1.5,240,2023-04-01T01:06:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_blocks_over_under,daniel gafford,True,2.5,320,2023-04-01T01:10:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_blocks_over_under,daniel gafford,False,0.5,-172,2023-04-01T00:52:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_blocks_over_under,daniel gafford,False,1.5,-350,2023-04-01T01:06:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_blocks_over_under,daniel gafford,False,2.5,-500,2023-04-01T01:10:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,daniel gafford,False,16.5,-136,2023-04-01T00:18:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,daniel gafford,True,12.5,-154,2023-03-31T23:48:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,daniel gafford,True,14.5,-130,2023-04-01T00:22:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,daniel gafford,True,15.5,-114,2023-04-01T00:20:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,daniel gafford,True,16.5,102,2023-04-01T00:18:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,daniel gafford,True,17.5,140,2023-04-01T00:56:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,daniel gafford,True,18.5,-102,2023-04-01T00:54:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,daniel gafford,True,19.5,120,2023-04-01T01:12:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,daniel gafford,True,20.5,140,2023-04-01T01:04:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,daniel gafford,False,12.5,116,2023-03-31T23:48:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,daniel gafford,False,13.5,-152,2023-04-01T00:52:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,daniel gafford,False,14.5,-102,2023-04-01T00:22:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,daniel gafford,True,13.5,114,2023-04-01T00:52:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_threes_over_under,daniel gafford,False,0.5,-100000,2023-03-31T23:12:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_rebounds_over_under,daniel gafford,False,8.5,194,2023-04-01T00:58:01,Washington Wizards,Orlando Magic
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_points_over_under,daniel gafford,True,7.5,140,2023-04-02T23:34:02,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_points_over_under,daniel gafford,False,4.5,-3000,2023-04-03T00:08:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_points_over_under,daniel gafford,True,11.5,110,2023-04-02T22:24:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_points_over_under,daniel gafford,True,10.5,118,2023-04-02T22:36:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_points_over_under,daniel gafford,True,9.5,102,2023-04-02T23:18:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_points_over_under,daniel gafford,True,8.5,120,2023-04-02T23:22:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_points_over_under,daniel gafford,True,6.5,124,2023-04-02T23:48:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_points_over_under,daniel gafford,True,5.5,188,2023-04-02T23:56:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_points_over_under,daniel gafford,False,5.5,-260,2023-04-02T23:56:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_points_over_under,daniel gafford,True,4.5,880,2023-04-03T00:08:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_blocks_over_under,daniel gafford,False,1.5,-50000,2023-04-03T00:04:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_blocks_over_under,daniel gafford,True,2.5,194,2023-04-02T22:50:02,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_assists_over_under,daniel gafford,True,0.5,1000,2023-04-03T00:04:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_assists_over_under,daniel gafford,True,1.5,182,2023-04-02T22:34:02,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_assists_over_under,daniel gafford,False,0.5,-100000,2023-04-03T00:08:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_assists_over_under,daniel gafford,False,1.5,-250,2023-04-02T22:34:02,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_blocks_over_under,daniel gafford,True,1.5,1000,2023-04-03T00:04:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_blocks_over_under,daniel gafford,False,2.5,-100000,2023-04-03T00:08:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_points_over_under,daniel gafford,False,6.5,-166,2023-04-02T23:48:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_points_over_under,daniel gafford,True,12.5,104,2023-04-02T22:16:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_points_over_under,daniel gafford,False,8.5,-160,2023-04-02T23:22:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_threes_over_under,daniel gafford,False,0.5,-100000,2023-04-02T22:14:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_threes_over_under,daniel gafford,True,0.5,1000,2023-04-02T22:14:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_steals_over_under,daniel gafford,False,0.5,-100000,2023-04-03T00:04:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_steals_over_under,daniel gafford,True,0.5,1000,2023-04-02T23:54:02,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_rebounds_over_under,daniel gafford,False,9.5,-210,2023-04-02T23:30:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_rebounds_over_under,daniel gafford,False,8.5,-158,2023-04-02T23:48:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_points_over_under,daniel gafford,False,7.5,-188,2023-04-02T23:34:02,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_rebounds_over_under,daniel gafford,False,6.5,102,2023-04-02T22:42:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_rebounds_over_under,daniel gafford,True,9.5,154,2023-04-02T23:30:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_rebounds_over_under,daniel gafford,False,7.5,-5000,2023-04-03T00:08:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_rebounds_over_under,daniel gafford,True,7.5,1000,2023-04-03T00:08:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_rebounds_over_under,daniel gafford,True,6.5,-136,2023-04-02T22:42:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_points_over_under,daniel gafford,False,12.5,-138,2023-04-02T22:16:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_points_over_under,daniel gafford,False,11.5,-146,2023-04-02T22:24:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_points_over_under,daniel gafford,False,10.5,-158,2023-04-02T22:36:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_points_over_under,daniel gafford,False,9.5,-136,2023-04-02T23:18:01,New York Knicks,Washington Wizards
+2023-04-02,44f43b80489b0faa072eff31d001a8b6,fanduel,player_rebounds_over_under,daniel gafford,True,8.5,118,2023-04-02T23:48:01,New York Knicks,Washington Wizards
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,draftkings,player_rebounds_over_under,daniel gafford,True,6.5,-150,2023-04-05T00:36:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,draftkings,player_rebounds_over_under,daniel gafford,True,7.5,450,2023-04-05T01:15:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,draftkings,player_rebounds_over_under,daniel gafford,True,8.5,170,2023-04-05T01:00:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,draftkings,player_rebounds_over_under,daniel gafford,False,7.5,-105,2023-04-04T19:51:15,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,draftkings,player_rebounds_over_under,daniel gafford,False,6.5,115,2023-04-05T00:36:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,draftkings,player_rebounds_over_under,daniel gafford,False,7.5,-800,2023-04-05T01:15:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,draftkings,player_rebounds_over_under,daniel gafford,False,8.5,-230,2023-04-05T01:00:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,fanduel,player_points_over_under,daniel gafford,True,12.5,-110,2023-04-04T23:42:03,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,fanduel,player_steals_over_under,daniel gafford,False,0.5,-100000,2023-04-05T01:15:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,draftkings,player_steals_over_under,daniel gafford,True,0.5,-105,2023-04-04T22:40:45,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,draftkings,player_steals_over_under,daniel gafford,True,0.5,650,2023-04-05T01:00:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,draftkings,player_steals_over_under,daniel gafford,False,0.5,-125,2023-04-04T22:40:45,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,draftkings,player_steals_over_under,daniel gafford,False,0.5,-1400,2023-04-05T01:00:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,fanduel,player_threes_over_under,daniel gafford,True,0.5,1000,2023-04-04T23:18:02,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,fanduel,player_threes_over_under,daniel gafford,False,0.5,-100000,2023-04-04T23:18:02,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,draftkings,player_rebounds_over_under,daniel gafford,True,7.5,-125,2023-04-04T19:51:15,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,fanduel,player_steals_over_under,daniel gafford,True,0.5,1000,2023-04-05T01:15:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,fanduel,player_rebounds_over_under,daniel gafford,False,9.5,-140,2023-04-05T00:06:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,fanduel,player_rebounds_over_under,daniel gafford,False,5.5,174,2023-04-05T00:42:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,fanduel,player_rebounds_over_under,daniel gafford,False,6.5,128,2023-04-05T00:36:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,fanduel,player_points_over_under,daniel gafford,True,17.5,130,2023-04-05T00:54:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,fanduel,player_points_over_under,daniel gafford,True,16.5,-154,2023-04-05T01:00:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,fanduel,player_points_over_under,daniel gafford,True,15.5,320,2023-04-05T01:15:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,fanduel,player_points_over_under,daniel gafford,True,14.5,-138,2023-04-05T00:30:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,fanduel,player_assists_over_under,daniel gafford,True,1.5,-225,2023-04-05T00:00:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,fanduel,player_assists_over_under,daniel gafford,True,2.5,1000,2023-04-05T01:15:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,fanduel,player_assists_over_under,daniel gafford,False,1.5,164,2023-04-05T00:00:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,fanduel,player_assists_over_under,daniel gafford,False,2.5,-7000,2023-04-05T01:15:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,draftkings,player_assists_over_under,daniel gafford,True,1.5,105,2023-04-04T23:14:32,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,draftkings,player_assists_over_under,daniel gafford,True,2.5,275,2023-04-05T01:00:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,draftkings,player_assists_over_under,daniel gafford,False,1.5,-135,2023-04-04T23:14:32,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,draftkings,player_assists_over_under,daniel gafford,False,2.5,-400,2023-04-05T01:00:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,fanduel,player_blocks_over_under,daniel gafford,True,0.5,1000,2023-04-05T01:15:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,fanduel,player_blocks_over_under,daniel gafford,False,0.5,-10000,2023-04-05T01:15:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,draftkings,player_blocks_over_under,daniel gafford,True,0.5,340,2023-04-05T01:00:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,draftkings,player_blocks_over_under,daniel gafford,True,1.5,155,2023-04-04T23:14:32,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,draftkings,player_blocks_over_under,daniel gafford,True,1.5,135,2023-04-04T22:40:45,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,draftkings,player_blocks_over_under,daniel gafford,False,0.5,-525,2023-04-05T01:00:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,draftkings,player_blocks_over_under,daniel gafford,False,1.5,-210,2023-04-04T23:14:32,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,draftkings,player_blocks_over_under,daniel gafford,False,1.5,-165,2023-04-04T22:40:45,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,fanduel,player_points_over_under,daniel gafford,True,11.5,116,2023-04-05T00:00:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,fanduel,player_points_over_under,daniel gafford,False,11.5,-152,2023-04-05T00:00:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,fanduel,player_points_over_under,daniel gafford,False,12.5,-120,2023-04-04T23:42:03,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,fanduel,player_points_over_under,daniel gafford,False,14.5,104,2023-04-05T00:30:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,fanduel,player_points_over_under,daniel gafford,False,15.5,-490,2023-04-05T01:15:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,fanduel,player_points_over_under,daniel gafford,True,13.5,-168,2023-04-05T00:36:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,fanduel,player_rebounds_over_under,daniel gafford,True,9.5,106,2023-04-05T00:06:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,fanduel,player_rebounds_over_under,daniel gafford,True,8.5,168,2023-04-05T01:00:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,fanduel,player_rebounds_over_under,daniel gafford,True,7.5,490,2023-04-05T01:15:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,fanduel,player_rebounds_over_under,daniel gafford,True,6.5,-172,2023-04-05T00:36:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,fanduel,player_rebounds_over_under,daniel gafford,True,5.5,-245,2023-04-05T00:42:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,draftkings,player_points_over_under,daniel gafford,False,16.5,110,2023-04-05T01:00:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,draftkings,player_points_over_under,daniel gafford,False,15.5,-475,2023-04-05T01:15:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,draftkings,player_points_over_under,daniel gafford,False,14.5,-105,2023-04-05T00:30:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,draftkings,player_points_over_under,daniel gafford,False,13.5,110,2023-04-05T00:36:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,fanduel,player_rebounds_over_under,daniel gafford,False,7.5,-900,2023-04-05T01:15:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,draftkings,player_points_over_under,daniel gafford,False,12.5,-135,2023-04-04T23:42:03,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,draftkings,player_points_over_under,daniel gafford,False,11.5,100,2023-04-04T22:40:45,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,draftkings,player_points_over_under,daniel gafford,True,16.5,-145,2023-04-05T01:00:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,draftkings,player_points_over_under,daniel gafford,True,15.5,310,2023-04-05T01:15:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,draftkings,player_points_over_under,daniel gafford,True,14.5,-125,2023-04-05T00:30:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,draftkings,player_points_over_under,daniel gafford,True,13.5,-145,2023-04-05T00:36:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,draftkings,player_points_over_under,daniel gafford,True,12.5,100,2023-04-04T23:42:03,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,draftkings,player_points_over_under,daniel gafford,True,10.5,-110,2023-04-04T23:14:32,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,draftkings,player_points_over_under,daniel gafford,True,11.5,-130,2023-04-04T22:40:45,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,fanduel,player_points_over_under,daniel gafford,False,17.5,-174,2023-04-05T00:54:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,fanduel,player_points_over_under,daniel gafford,False,16.5,116,2023-04-05T01:00:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,draftkings,player_points_over_under,daniel gafford,False,10.5,-120,2023-04-04T23:14:32,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,fanduel,player_rebounds_over_under,daniel gafford,False,8.5,-230,2023-04-05T01:00:01,Washington Wizards,Milwaukee Bucks
+2023-04-04,eac734c02814ecdd7d6b099a9b451f34,fanduel,player_points_over_under,daniel gafford,False,13.5,126,2023-04-05T00:36:01,Washington Wizards,Milwaukee Bucks
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_steals_over_under,daniel gafford,False,1.5,-8000,2023-04-06T01:30:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_points_over_under,daniel gafford,True,14.5,-120,2023-04-06T00:30:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_points_over_under,daniel gafford,True,13.5,-120,2023-04-06T00:15:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_points_over_under,daniel gafford,True,11.5,-115,2023-04-05T18:30:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_points_over_under,daniel gafford,False,25.5,-1000,2023-04-06T01:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_points_over_under,daniel gafford,False,19.5,104,2023-04-06T01:00:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_points_over_under,daniel gafford,False,15.5,-138,2023-04-06T00:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_points_over_under,daniel gafford,False,14.5,-112,2023-04-06T00:30:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_points_over_under,daniel gafford,False,13.5,-108,2023-04-06T00:15:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_points_over_under,daniel gafford,False,11.5,-118,2023-04-05T23:30:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_points_over_under,daniel gafford,True,25.5,520,2023-04-06T01:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_points_over_under,daniel gafford,True,19.5,-138,2023-04-06T01:00:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_points_over_under,daniel gafford,True,15.5,104,2023-04-06T00:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_points_over_under,daniel gafford,True,14.5,-118,2023-04-06T00:30:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_points_over_under,daniel gafford,True,13.5,-122,2023-04-06T00:15:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_points_over_under,daniel gafford,True,11.5,-104,2023-04-05T23:30:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_blocks_over_under,daniel gafford,False,2.5,-1000,2023-04-06T01:30:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_blocks_over_under,daniel gafford,False,1.5,100,2023-04-06T00:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_steals_over_under,daniel gafford,False,0.5,-650,2023-04-06T01:00:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_assists_over_under,daniel gafford,True,0.5,-158,2023-04-06T00:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_assists_over_under,daniel gafford,True,1.5,1000,2023-04-06T01:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_assists_over_under,daniel gafford,False,0.5,118,2023-04-06T00:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_assists_over_under,daniel gafford,False,1.5,-50000,2023-04-06T01:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_assists_over_under,daniel gafford,True,0.5,-155,2023-04-06T00:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_points_over_under,daniel gafford,True,15.5,100,2023-04-06T00:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_assists_over_under,daniel gafford,True,1.5,475,2023-04-06T01:30:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_blocks_over_under,daniel gafford,True,1.5,-136,2023-04-06T00:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_blocks_over_under,daniel gafford,True,2.5,1000,2023-04-06T01:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_blocks_over_under,daniel gafford,False,1.5,102,2023-04-06T00:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_blocks_over_under,daniel gafford,False,2.5,-50000,2023-04-06T01:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_blocks_over_under,daniel gafford,True,1.5,-135,2023-04-06T00:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_blocks_over_under,daniel gafford,True,2.5,500,2023-04-06T01:30:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_assists_over_under,daniel gafford,False,1.5,-900,2023-04-06T01:30:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_points_over_under,daniel gafford,True,19.5,-110,2023-04-06T01:00:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_assists_over_under,daniel gafford,False,0.5,115,2023-04-06T00:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_points_over_under,daniel gafford,True,27.5,115,2023-04-06T01:15:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_threes_over_under,daniel gafford,True,0.5,1000,2023-04-06T00:00:02,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_points_over_under,daniel gafford,True,25.5,475,2023-04-06T01:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_threes_over_under,daniel gafford,False,0.5,-100000,2023-04-06T00:00:02,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_steals_over_under,daniel gafford,True,1.5,1100,2023-04-06T01:30:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_steals_over_under,daniel gafford,True,0.5,390,2023-04-06T01:00:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_steals_over_under,daniel gafford,False,0.5,-650,2023-04-06T01:00:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_steals_over_under,daniel gafford,True,1.5,1000,2023-04-06T01:30:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_steals_over_under,daniel gafford,True,0.5,390,2023-04-06T01:00:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_rebounds_over_under,daniel gafford,False,11.5,-135,2023-04-06T01:15:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_rebounds_over_under,daniel gafford,False,10.5,-1600,2023-04-06T01:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_rebounds_over_under,daniel gafford,False,8.5,-120,2023-04-06T00:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_rebounds_over_under,daniel gafford,False,7.5,120,2023-04-06T00:15:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_rebounds_over_under,daniel gafford,True,11.5,100,2023-04-06T01:15:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_rebounds_over_under,daniel gafford,True,10.5,700,2023-04-06T01:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_rebounds_over_under,daniel gafford,True,8.5,-110,2023-04-06T00:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_steals_over_under,daniel gafford,False,1.5,-100000,2023-04-06T01:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_rebounds_over_under,daniel gafford,False,11.5,-138,2023-04-06T01:15:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_rebounds_over_under,daniel gafford,True,7.5,-160,2023-04-06T00:15:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_points_over_under,daniel gafford,False,11.5,-115,2023-04-05T18:30:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_points_over_under,daniel gafford,False,14.5,-110,2023-04-06T00:30:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_points_over_under,daniel gafford,False,13.5,-110,2023-04-06T00:15:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_points_over_under,daniel gafford,False,19.5,-120,2023-04-06T01:00:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_points_over_under,daniel gafford,False,25.5,-900,2023-04-06T01:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_points_over_under,daniel gafford,False,27.5,-150,2023-04-06T01:15:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_points_over_under,daniel gafford,False,15.5,-135,2023-04-06T00:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_rebounds_over_under,daniel gafford,True,8.5,-106,2023-04-06T00:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_rebounds_over_under,daniel gafford,True,10.5,750,2023-04-06T01:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_rebounds_over_under,daniel gafford,True,11.5,104,2023-04-06T01:15:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_rebounds_over_under,daniel gafford,False,7.5,-140,2023-04-06T00:30:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_rebounds_over_under,daniel gafford,False,8.5,-125,2023-04-06T00:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_rebounds_over_under,daniel gafford,False,10.5,-2000,2023-04-06T01:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_rebounds_over_under,daniel gafford,True,7.5,106,2023-04-06T00:30:01,Atlanta Hawks,Washington Wizards
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,fanduel,player_rebounds_over_under,daniel gafford,True,8.5,410,2023-04-08T01:15:02,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,fanduel,player_rebounds_over_under,daniel gafford,True,7.5,-104,2023-04-07T23:45:02,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,betmgm,player_points_over_under,daniel gafford,False,12.5,100,2023-04-07T18:20:05,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,betmgm,player_points_over_under,daniel gafford,True,12.5,-135,2023-04-07T23:00:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,caesars,player_points_over_under,daniel gafford,False,12.5,-106,2023-04-07T21:30:02,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,caesars,player_points_over_under,daniel gafford,True,12.5,-129,2023-04-07T21:30:02,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,draftkings,player_points_over_under,daniel gafford,False,27.5,-140,2023-04-08T00:30:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,draftkings,player_points_over_under,daniel gafford,False,25.5,-155,2023-04-08T00:45:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,draftkings,player_points_over_under,daniel gafford,False,23.5,-115,2023-04-08T01:00:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,draftkings,player_points_over_under,daniel gafford,True,27.5,105,2023-04-08T00:30:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,draftkings,player_points_over_under,daniel gafford,False,21.5,-105,2023-04-07T23:30:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,draftkings,player_points_over_under,daniel gafford,False,20.5,100,2023-04-07T23:45:02,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,draftkings,player_points_over_under,daniel gafford,False,13.5,-110,2023-04-07T23:15:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,draftkings,player_points_over_under,daniel gafford,False,12.5,115,2023-04-07T22:52:29,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,draftkings,player_points_over_under,daniel gafford,False,11.5,-125,2023-04-07T15:00:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,draftkings,player_points_over_under,daniel gafford,True,25.5,115,2023-04-08T00:45:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,draftkings,player_points_over_under,daniel gafford,True,23.5,-115,2023-04-08T01:00:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,draftkings,player_points_over_under,daniel gafford,True,22.5,195,2023-04-08T01:15:02,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,draftkings,player_points_over_under,daniel gafford,True,21.5,-130,2023-04-07T23:30:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,draftkings,player_points_over_under,daniel gafford,True,20.5,-135,2023-04-07T23:45:02,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,fanduel,player_rebounds_over_under,daniel gafford,True,9.5,-130,2023-04-08T00:45:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,draftkings,player_points_over_under,daniel gafford,False,22.5,-270,2023-04-08T01:15:02,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,fanduel,player_rebounds_over_under,daniel gafford,False,7.5,-128,2023-04-07T23:45:02,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,fanduel,player_steals_over_under,daniel gafford,True,0.5,1000,2023-04-08T01:15:02,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,fanduel,player_rebounds_over_under,daniel gafford,False,9.5,-102,2023-04-08T00:45:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,fanduel,player_threes_over_under,daniel gafford,False,0.5,-100000,2023-04-07T23:15:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,fanduel,player_threes_over_under,daniel gafford,True,0.5,1000,2023-04-07T23:15:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,betmgm,player_steals_over_under,daniel gafford,False,0.5,-150,2023-04-07T18:20:05,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,betmgm,player_steals_over_under,daniel gafford,True,0.5,110,2023-04-07T22:45:02,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,caesars,player_steals_over_under,daniel gafford,False,0.5,-145,2023-04-07T20:12:09,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,caesars,player_steals_over_under,daniel gafford,True,0.5,106,2023-04-07T20:12:09,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,draftkings,player_steals_over_under,daniel gafford,False,0.5,-3000,2023-04-08T01:00:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,draftkings,player_steals_over_under,daniel gafford,True,0.5,900,2023-04-08T01:00:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,fanduel,player_steals_over_under,daniel gafford,False,0.5,-100000,2023-04-08T01:15:02,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,draftkings,player_points_over_under,daniel gafford,True,13.5,-120,2023-04-07T23:15:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,fanduel,player_rebounds_over_under,daniel gafford,False,8.5,-700,2023-04-08T01:15:02,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,betmgm,player_rebounds_over_under,daniel gafford,False,7.5,100,2023-04-07T22:45:02,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,caesars,player_rebounds_over_under,daniel gafford,False,7.5,-121,2023-04-07T22:30:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,caesars,player_rebounds_over_under,daniel gafford,True,7.5,-113,2023-04-07T22:30:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,draftkings,player_rebounds_over_under,daniel gafford,False,9.5,110,2023-04-08T00:45:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,draftkings,player_rebounds_over_under,daniel gafford,False,8.5,-600,2023-04-08T01:15:02,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,draftkings,player_rebounds_over_under,daniel gafford,False,7.5,-125,2023-04-07T23:45:02,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,draftkings,player_rebounds_over_under,daniel gafford,False,6.5,115,2023-04-07T23:15:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,draftkings,player_rebounds_over_under,daniel gafford,True,9.5,-145,2023-04-08T00:45:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,draftkings,player_rebounds_over_under,daniel gafford,True,8.5,370,2023-04-08T01:15:02,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,draftkings,player_rebounds_over_under,daniel gafford,True,7.5,-110,2023-04-07T23:45:02,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,draftkings,player_rebounds_over_under,daniel gafford,True,6.5,-155,2023-04-07T23:15:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,betmgm,player_rebounds_over_under,daniel gafford,True,7.5,-135,2023-04-07T22:45:02,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,draftkings,player_points_over_under,daniel gafford,True,12.5,-145,2023-04-07T22:52:29,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,fanduel,player_points_over_under,daniel gafford,True,20.5,-138,2023-04-07T23:45:02,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,fanduel,player_points_over_under,daniel gafford,False,27.5,-140,2023-04-08T00:30:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,fanduel,player_blocks_over_under,daniel gafford,True,1.5,1000,2023-04-08T01:15:02,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,fanduel,player_blocks_over_under,daniel gafford,True,0.5,-240,2023-04-07T23:45:02,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,betmgm,player_assists_over_under,daniel gafford,False,1.5,-110,2023-04-07T18:20:05,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,betmgm,player_assists_over_under,daniel gafford,True,1.5,-120,2023-04-07T18:20:05,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,caesars,player_assists_over_under,daniel gafford,True,1.5,-109,2023-04-07T20:12:09,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,draftkings,player_assists_over_under,daniel gafford,False,4.5,-600,2023-04-08T01:00:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,draftkings,player_assists_over_under,daniel gafford,False,3.5,-125,2023-04-08T00:30:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,draftkings,player_assists_over_under,daniel gafford,False,2.5,130,2023-04-08T00:00:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,draftkings,player_assists_over_under,daniel gafford,False,1.5,-135,2023-04-07T23:15:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,draftkings,player_assists_over_under,daniel gafford,True,4.5,370,2023-04-08T01:00:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,draftkings,player_assists_over_under,daniel gafford,True,3.5,-105,2023-04-08T00:30:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,draftkings,player_assists_over_under,daniel gafford,True,2.5,-175,2023-04-08T00:00:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,draftkings,player_assists_over_under,daniel gafford,True,1.5,105,2023-04-07T23:15:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,fanduel,player_assists_over_under,daniel gafford,False,4.5,-7000,2023-04-08T01:15:02,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,fanduel,player_assists_over_under,daniel gafford,False,3.5,-128,2023-04-08T00:30:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,fanduel,player_assists_over_under,daniel gafford,False,2.5,134,2023-04-08T00:00:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,fanduel,player_assists_over_under,daniel gafford,False,1.5,-132,2023-04-07T23:15:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,fanduel,player_assists_over_under,daniel gafford,True,4.5,1000,2023-04-08T01:15:02,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,fanduel,player_assists_over_under,daniel gafford,True,3.5,-104,2023-04-08T00:30:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,fanduel,player_assists_over_under,daniel gafford,True,2.5,-180,2023-04-08T00:00:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,fanduel,player_assists_over_under,daniel gafford,True,1.5,100,2023-04-07T23:15:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,fanduel,player_blocks_over_under,daniel gafford,False,0.5,174,2023-04-07T23:45:02,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,fanduel,player_blocks_over_under,daniel gafford,False,1.5,-10000,2023-04-08T01:15:02,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,draftkings,player_blocks_over_under,daniel gafford,True,0.5,-230,2023-04-07T23:45:02,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,draftkings,player_blocks_over_under,daniel gafford,True,1.5,400,2023-04-08T01:00:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,fanduel,player_points_over_under,daniel gafford,False,25.5,-188,2023-04-08T00:45:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,fanduel,player_points_over_under,daniel gafford,False,23.5,-114,2023-04-08T01:00:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,fanduel,player_points_over_under,daniel gafford,False,22.5,-330,2023-04-08T01:15:02,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,fanduel,player_points_over_under,daniel gafford,False,21.5,-102,2023-04-07T23:30:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,fanduel,player_points_over_under,daniel gafford,False,20.5,104,2023-04-07T23:45:02,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,fanduel,player_points_over_under,daniel gafford,False,13.5,102,2023-04-07T23:15:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,fanduel,player_points_over_under,daniel gafford,False,12.5,-105,2023-04-07T23:00:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,fanduel,player_points_over_under,daniel gafford,False,11.5,-110,2023-04-07T17:45:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,fanduel,player_points_over_under,daniel gafford,True,27.5,106,2023-04-08T00:30:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,fanduel,player_points_over_under,daniel gafford,True,25.5,140,2023-04-08T00:45:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,draftkings,player_points_over_under,daniel gafford,True,11.5,-105,2023-04-07T15:00:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,fanduel,player_points_over_under,daniel gafford,True,23.5,-114,2023-04-08T01:00:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,fanduel,player_points_over_under,daniel gafford,True,21.5,-130,2023-04-07T23:30:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,fanduel,player_points_over_under,daniel gafford,True,13.5,-136,2023-04-07T23:15:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,fanduel,player_points_over_under,daniel gafford,True,12.5,-115,2023-04-07T23:00:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,fanduel,player_points_over_under,daniel gafford,True,11.5,-110,2023-04-07T17:45:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,betmgm,player_blocks_over_under,daniel gafford,False,1.5,-145,2023-04-07T22:45:02,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,betmgm,player_blocks_over_under,daniel gafford,True,1.5,105,2023-04-07T18:20:05,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,caesars,player_blocks_over_under,daniel gafford,False,1.5,-137,2023-04-07T20:12:09,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,caesars,player_blocks_over_under,daniel gafford,True,1.5,100,2023-04-07T20:12:09,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,draftkings,player_blocks_over_under,daniel gafford,False,1.5,-700,2023-04-08T01:00:01,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,draftkings,player_blocks_over_under,daniel gafford,False,0.5,170,2023-04-07T23:45:02,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,fanduel,player_points_over_under,daniel gafford,True,22.5,230,2023-04-08T01:15:02,Washington Wizards,Miami Heat
+2023-04-07,0c4cc1ea3bd6a5aca5ee3a9212f7611e,caesars,player_assists_over_under,daniel gafford,False,1.5,-125,2023-04-07T20:12:09,Washington Wizards,Miami Heat
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_assists_over_under,daniel gafford,True,0.5,1000,2023-10-26T01:15:30,Indiana Pacers,Washington Wizards
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_steals_over_under,daniel gafford,False,0.5,-160,2023-10-23T13:40:32,Denver Nuggets,Los Angeles Lakers
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,daniel gafford,False,8.5,165,2023-10-25T23:15:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,daniel gafford,False,7.5,200,2023-10-24T22:55:07,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,daniel gafford,True,12.5,-110,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,daniel gafford,True,10.5,-115,2023-10-25T23:26:00,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,daniel gafford,True,9.5,-110,2023-10-25T23:41:13,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,daniel gafford,True,8.5,-120,2023-10-25T23:41:13,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,daniel gafford,True,7.5,-115,2023-10-26T01:10:27,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,daniel gafford,True,6.5,1200,2023-10-26T01:16:01,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,daniel gafford,True,5.5,100,2023-10-26T00:30:07,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,daniel gafford,True,4.5,115,2023-10-26T01:00:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,daniel gafford,True,3.5,-135,2023-10-26T00:35:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,daniel gafford,True,12.5,165,2023-10-25T23:15:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,daniel gafford,True,11.5,125,2023-10-25T23:15:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,daniel gafford,True,10.5,110,2023-10-24T22:55:07,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,daniel gafford,True,9.5,-155,2023-10-25T23:15:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,daniel gafford,True,8.5,-215,2023-10-25T23:15:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,daniel gafford,True,7.5,-265,2023-10-24T22:55:07,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,pinnacle,player_points_over_under,daniel gafford,False,10.5,-111,2023-10-25T21:30:15,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,pinnacle,player_points_over_under,daniel gafford,True,10.5,-119,2023-10-25T21:30:15,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,daniel gafford,False,12.5,-108,2023-10-25T23:20:12,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,daniel gafford,False,11.5,102,2023-10-25T23:25:19,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,daniel gafford,False,10.5,-125,2023-10-25T23:35:46,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,daniel gafford,False,8.5,-118,2023-10-26T00:00:34,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,daniel gafford,False,9.5,120,2023-10-25T23:15:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,daniel gafford,False,10.5,-145,2023-10-24T22:55:07,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,daniel gafford,False,11.5,-160,2023-10-25T23:15:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,daniel gafford,False,12.5,-215,2023-10-25T23:15:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betrivers,player_points_over_under,daniel gafford,True,10.5,-132,2023-10-25T23:15:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betrivers,player_points_over_under,daniel gafford,True,9.5,-230,2023-10-25T23:15:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betrivers,player_points_over_under,daniel gafford,True,8.5,-335,2023-10-25T23:15:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,daniel gafford,False,12.5,-135,2023-10-25T23:20:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,daniel gafford,False,10.5,-125,2023-10-25T23:25:12,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,daniel gafford,False,9.5,-125,2023-10-25T23:40:13,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,daniel gafford,False,8.5,-115,2023-10-25T23:45:46,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,daniel gafford,False,7.5,-120,2023-10-26T00:05:14,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,daniel gafford,True,12.5,-105,2023-10-25T23:20:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,daniel gafford,True,10.5,-115,2023-10-25T23:25:12,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,daniel gafford,True,9.5,-115,2023-10-25T23:40:13,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,daniel gafford,False,7.5,-148,2023-10-26T00:25:17,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,daniel gafford,True,8.5,-125,2023-10-25T23:45:46,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_points_over_under,daniel gafford,False,10.5,-115,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_points_over_under,daniel gafford,True,10.5,-115,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,daniel gafford,False,12.5,-120,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,daniel gafford,False,10.5,-115,2023-10-25T23:26:00,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,daniel gafford,False,9.5,-120,2023-10-25T23:41:13,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,daniel gafford,False,8.5,-110,2023-10-25T23:41:13,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,daniel gafford,False,7.5,-115,2023-10-26T01:10:27,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,daniel gafford,False,6.5,-10000,2023-10-26T01:16:01,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,daniel gafford,False,5.5,-135,2023-10-26T00:30:07,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,daniel gafford,False,4.5,-150,2023-10-26T01:00:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,daniel gafford,False,3.5,105,2023-10-26T00:35:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,daniel gafford,True,7.5,-120,2023-10-26T00:05:14,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betrivers,player_points_over_under,daniel gafford,True,11.5,102,2023-10-25T23:15:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,daniel gafford,False,6.5,-146,2023-10-26T00:45:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,daniel gafford,True,12.5,-118,2023-10-25T23:20:12,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_blocks_over_under,daniel gafford,True,1.5,320,2023-10-26T00:10:25,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_blocks_over_under,daniel gafford,True,0.5,-180,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_blocks_over_under,daniel gafford,False,2.5,-100000,2023-10-26T01:15:30,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_blocks_over_under,daniel gafford,False,1.5,-490,2023-10-26T00:30:16,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_blocks_over_under,daniel gafford,False,0.5,150,2023-10-25T23:15:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_blocks_over_under,daniel gafford,True,2.5,1000,2023-10-26T01:15:30,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_blocks_over_under,daniel gafford,True,1.5,320,2023-10-26T00:05:10,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_blocks_over_under,daniel gafford,True,0.5,-194,2023-10-25T23:15:06,Indiana Pacers,Washington Wizards
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_blocks_over_under,daniel gafford,False,0.5,145,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_blocks_over_under,daniel gafford,True,0.5,-185,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_assists_over_under,daniel gafford,False,1.5,-200,2023-10-25T23:20:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_assists_over_under,daniel gafford,False,0.5,200,2023-10-25T23:16:13,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_assists_over_under,daniel gafford,True,1.5,140,2023-10-25T23:20:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_assists_over_under,daniel gafford,True,0.5,-290,2023-10-25T23:16:13,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_assists_over_under,daniel gafford,False,1.5,-190,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_assists_over_under,daniel gafford,True,1.5,140,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_assists_over_under,daniel gafford,False,1.5,-190,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_assists_over_under,daniel gafford,False,0.5,-350,2023-10-26T01:10:27,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_assists_over_under,daniel gafford,True,1.5,140,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_assists_over_under,daniel gafford,True,0.5,240,2023-10-26T01:10:27,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_assists_over_under,daniel gafford,False,1.5,-205,2023-10-25T23:20:12,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_assists_over_under,daniel gafford,False,0.5,-50000,2023-10-26T01:15:30,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_assists_over_under,daniel gafford,True,1.5,152,2023-10-25T23:20:12,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_blocks_over_under,daniel gafford,True,2.5,600,2023-10-26T01:10:27,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_blocks_over_under,daniel gafford,False,0.5,135,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_blocks_over_under,daniel gafford,False,1.5,-500,2023-10-26T00:10:25,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_blocks_over_under,daniel gafford,False,2.5,-1200,2023-10-26T01:10:27,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,daniel gafford,True,11.5,-130,2023-10-25T23:25:19,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,daniel gafford,True,10.5,-102,2023-10-25T23:35:46,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,daniel gafford,True,9.5,100,2023-10-25T23:45:17,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,daniel gafford,True,8.5,-108,2023-10-26T00:00:34,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,daniel gafford,True,7.5,118,2023-10-26T00:25:17,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,daniel gafford,True,6.5,114,2023-10-26T00:45:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,daniel gafford,True,5.5,128,2023-10-26T01:00:20,Indiana Pacers,Washington Wizards
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,daniel gafford,False,10.5,-130,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,daniel gafford,False,12.5,-250,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,daniel gafford,False,11.5,-180,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,daniel gafford,False,9.5,110,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,daniel gafford,False,5.5,-164,2023-10-26T01:00:20,Indiana Pacers,Washington Wizards
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,daniel gafford,False,8.5,155,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,daniel gafford,True,12.5,190,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,daniel gafford,True,11.5,140,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,daniel gafford,True,9.5,-140,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,daniel gafford,True,8.5,-200,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betrivers,player_blocks_over_under,daniel gafford,True,0.5,-177,2023-10-25T23:15:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_blocks_over_under,daniel gafford,False,1.5,-150,2023-10-26T00:05:14,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_blocks_over_under,daniel gafford,False,0.5,140,2023-10-25T23:16:13,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_blocks_over_under,daniel gafford,True,1.5,105,2023-10-26T00:05:14,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_blocks_over_under,daniel gafford,True,0.5,-195,2023-10-25T23:16:13,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_blocks_over_under,daniel gafford,False,0.5,140,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_blocks_over_under,daniel gafford,True,0.5,-190,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,daniel gafford,True,10.5,100,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betrivers,player_points_over_under,daniel gafford,True,12.5,148,2023-10-25T23:15:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,daniel gafford,False,9.5,-128,2023-10-25T23:45:17,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_rebounds_over_under,daniel gafford,True,4.5,300,2023-10-26T00:55:12,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_steals_over_under,daniel gafford,False,0.5,-155,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_steals_over_under,daniel gafford,True,0.5,220,2023-10-26T00:05:14,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_steals_over_under,daniel gafford,False,0.5,-350,2023-10-26T00:05:14,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_threes_over_under,daniel gafford,True,0.5,1000,2023-10-25T23:15:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_threes_over_under,daniel gafford,False,0.5,-100000,2023-10-25T23:15:06,Indiana Pacers,Washington Wizards
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_assists_over_under,daniel gafford,True,0.5,-260,2023-10-24T18:00:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_assists_over_under,daniel gafford,True,1.5,150,2023-10-23T16:10:09,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_assists_over_under,daniel gafford,False,0.5,190,2023-10-24T18:00:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_assists_over_under,daniel gafford,False,1.5,-200,2023-10-23T16:10:09,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_blocks_over_under,daniel gafford,True,0.5,-185,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_blocks_over_under,daniel gafford,False,0.5,145,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_blocks_over_under,daniel gafford,True,0.5,-200,2023-10-23T16:10:09,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_blocks_over_under,daniel gafford,True,1.5,225,2023-10-24T18:00:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_blocks_over_under,daniel gafford,False,0.5,150,2023-10-23T16:10:09,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_blocks_over_under,daniel gafford,False,1.5,-320,2023-10-24T18:00:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,daniel gafford,True,8.5,-200,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,daniel gafford,True,9.5,-140,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_steals_over_under,daniel gafford,True,0.5,120,2023-10-23T13:40:32,Denver Nuggets,Los Angeles Lakers
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betrivers,player_points_over_under,daniel gafford,True,13.5,195,2023-10-25T23:15:09,Indiana Pacers,Washington Wizards
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_steals_over_under,daniel gafford,True,0.5,130,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,daniel gafford,False,10.5,-135,2023-10-24T18:00:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,daniel gafford,True,10.5,105,2023-10-24T18:00:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,daniel gafford,False,10.5,-130,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_steals_over_under,daniel gafford,True,0.5,115,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,daniel gafford,False,9.5,100,2023-10-23T21:56:17,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,daniel gafford,False,11.5,-180,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,daniel gafford,False,9.5,110,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,daniel gafford,False,8.5,155,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,daniel gafford,True,10.5,100,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,daniel gafford,True,12.5,190,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,daniel gafford,True,11.5,140,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,daniel gafford,False,12.5,-250,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_steals_over_under,daniel gafford,False,0.5,-5000,2023-10-26T01:10:27,Indiana Pacers,Washington Wizards
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_steals_over_under,daniel gafford,False,0.5,-165,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_steals_over_under,daniel gafford,False,0.5,-100000,2023-10-26T01:15:30,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_rebounds_over_under,daniel gafford,False,6.5,-140,2023-10-25T23:50:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_rebounds_over_under,daniel gafford,False,5.5,-125,2023-10-26T00:05:14,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_rebounds_over_under,daniel gafford,True,7.5,100,2023-10-25T23:25:12,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_rebounds_over_under,daniel gafford,True,5.5,-115,2023-10-26T00:05:14,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_rebounds_over_under,daniel gafford,False,6.5,-125,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_rebounds_over_under,daniel gafford,True,6.5,-105,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_rebounds_over_under,daniel gafford,False,7.5,-135,2023-10-25T23:26:00,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_rebounds_over_under,daniel gafford,False,6.5,-130,2023-10-25T23:51:11,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_rebounds_over_under,daniel gafford,False,5.5,-20000,2023-10-26T01:16:01,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_rebounds_over_under,daniel gafford,False,4.5,-120,2023-10-26T01:00:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_rebounds_over_under,daniel gafford,True,7.5,100,2023-10-25T23:26:00,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_rebounds_over_under,daniel gafford,False,7.5,-140,2023-10-25T23:25:12,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_rebounds_over_under,daniel gafford,True,6.5,100,2023-10-25T23:51:11,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_rebounds_over_under,daniel gafford,True,4.5,-110,2023-10-26T01:00:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,pinnacle,player_rebounds_over_under,daniel gafford,False,6.5,-111,2023-10-25T21:30:15,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,pinnacle,player_rebounds_over_under,daniel gafford,True,6.5,-118,2023-10-25T21:30:15,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_rebounds_over_under,daniel gafford,False,7.5,-136,2023-10-25T23:25:19,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_rebounds_over_under,daniel gafford,False,6.5,-132,2023-10-25T23:55:05,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_rebounds_over_under,daniel gafford,False,5.5,-7000,2023-10-26T01:15:30,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_rebounds_over_under,daniel gafford,False,4.5,-450,2023-10-26T00:55:12,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_rebounds_over_under,daniel gafford,True,7.5,102,2023-10-25T23:25:19,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_rebounds_over_under,daniel gafford,True,6.5,100,2023-10-25T23:55:05,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_rebounds_over_under,daniel gafford,True,5.5,1000,2023-10-26T01:15:30,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_steals_over_under,daniel gafford,True,0.5,1000,2023-10-26T01:10:27,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_rebounds_over_under,daniel gafford,True,5.5,1200,2023-10-26T01:16:01,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betrivers,player_rebounds_over_under,daniel gafford,True,5.5,-200,2023-10-25T23:15:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_rebounds_over_under,daniel gafford,True,6.5,100,2023-10-25T23:50:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betrivers,player_rebounds_over_under,daniel gafford,True,6.5,-103,2023-10-25T23:15:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betrivers,player_rebounds_over_under,daniel gafford,True,7.5,104,2023-10-25T22:10:47,Indiana Pacers,Washington Wizards
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_steals_over_under,daniel gafford,True,0.5,130,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_steals_over_under,daniel gafford,False,0.5,-165,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_steals_over_under,daniel gafford,True,0.5,1000,2023-10-26T00:41:16,Indiana Pacers,Washington Wizards
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,daniel gafford,True,7.5,145,2023-10-29T00:45:50,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_points_over_under,daniel gafford,True,9.5,-115,2023-10-28T23:20:59,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_points_over_under,daniel gafford,False,7.5,100,2023-10-29T00:05:06,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_points_over_under,daniel gafford,False,8.5,-150,2023-10-28T23:50:13,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_points_over_under,daniel gafford,False,9.5,-115,2023-10-28T23:20:59,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,betrivers,player_points_over_under,daniel gafford,True,7.5,-315,2023-10-28T17:06:39,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,betrivers,player_points_over_under,daniel gafford,True,9.5,-122,2023-10-28T17:06:39,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_points_over_under,daniel gafford,True,8.5,105,2023-10-28T23:50:13,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,betrivers,player_points_over_under,daniel gafford,True,10.5,132,2023-10-28T17:06:39,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,betrivers,player_points_over_under,daniel gafford,True,11.5,170,2023-10-28T17:06:39,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,daniel gafford,True,4.5,-162,2023-10-29T00:55:03,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_steals_over_under,daniel gafford,False,0.5,-6000,2023-10-29T01:20:11,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,betrivers,player_points_over_under,daniel gafford,True,8.5,-162,2023-10-28T17:06:39,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_points_over_under,daniel gafford,True,7.5,-140,2023-10-29T00:05:06,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,daniel gafford,False,11.5,-150,2023-10-29T01:15:29,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,daniel gafford,False,10.5,-550,2023-10-29T01:25:35,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,daniel gafford,True,8.5,240,2023-10-29T01:05:14,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,daniel gafford,True,9.5,-115,2023-10-28T23:22:02,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,daniel gafford,True,10.5,340,2023-10-29T01:25:35,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,daniel gafford,True,11.5,115,2023-10-29T01:15:29,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,daniel gafford,False,7.5,180,2023-10-28T23:16:01,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,daniel gafford,False,8.5,130,2023-10-28T23:16:01,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,daniel gafford,False,10.5,-150,2023-10-28T23:16:01,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,daniel gafford,False,11.5,-215,2023-10-28T23:16:01,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,daniel gafford,False,2.5,-155,2023-10-29T00:21:57,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,daniel gafford,False,3.5,-105,2023-10-29T00:55:18,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,daniel gafford,False,4.5,-140,2023-10-29T00:41:00,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,daniel gafford,False,5.5,105,2023-10-29T00:35:09,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,daniel gafford,False,7.5,-390,2023-10-29T01:10:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,daniel gafford,False,8.5,-340,2023-10-29T01:05:14,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,daniel gafford,False,9.5,-115,2023-10-28T23:22:02,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_steals_over_under,daniel gafford,True,0.5,1000,2023-10-29T01:20:11,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,daniel gafford,True,8.5,225,2023-10-29T01:10:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_steals_over_under,daniel gafford,False,0.5,-100000,2023-10-29T01:30:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,betrivers,player_rebounds_over_under,daniel gafford,True,6.5,140,2023-10-28T17:06:39,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,daniel gafford,True,8.5,230,2023-10-29T01:10:50,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,daniel gafford,True,9.5,-130,2023-10-29T01:15:09,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,daniel gafford,True,11.5,1000,2023-10-29T01:30:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,daniel gafford,False,4.5,122,2023-10-29T00:55:03,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,daniel gafford,False,5.5,-114,2023-10-29T00:40:11,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,daniel gafford,False,6.5,122,2023-10-29T00:50:46,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,daniel gafford,False,7.5,-210,2023-10-29T00:45:12,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,daniel gafford,False,8.5,-330,2023-10-29T01:10:50,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,daniel gafford,False,9.5,-102,2023-10-29T01:15:09,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,daniel gafford,False,11.5,-10000,2023-10-29T01:30:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,pinnacle,player_rebounds_over_under,daniel gafford,True,5.5,-145,2023-10-28T18:05:09,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,pinnacle,player_rebounds_over_under,daniel gafford,False,5.5,109,2023-10-28T18:05:09,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,daniel gafford,True,4.5,110,2023-10-29T00:16:47,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,daniel gafford,True,5.5,-115,2023-10-29T00:41:00,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,daniel gafford,True,6.5,-160,2023-10-29T00:50:26,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,daniel gafford,True,7.5,154,2023-10-29T00:45:12,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,daniel gafford,True,6.5,-162,2023-10-29T00:50:46,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,daniel gafford,True,5.5,-114,2023-10-29T00:40:11,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,daniel gafford,True,9.5,-125,2023-10-29T01:15:29,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,betrivers,player_rebounds_over_under,daniel gafford,True,5.5,-137,2023-10-28T17:06:39,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_rebounds_over_under,daniel gafford,False,7.5,100,2023-10-29T00:05:06,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_rebounds_over_under,daniel gafford,False,6.5,-105,2023-10-29T00:00:54,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_rebounds_over_under,daniel gafford,False,5.5,115,2023-10-28T23:20:59,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_rebounds_over_under,daniel gafford,True,7.5,-140,2023-10-29T00:05:06,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_rebounds_over_under,daniel gafford,True,6.5,-135,2023-10-29T00:00:54,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_rebounds_over_under,daniel gafford,True,5.5,-150,2023-10-28T23:20:59,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_steals_over_under,daniel gafford,True,0.5,1000,2023-10-29T01:20:59,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,daniel gafford,False,11.5,-360,2023-10-29T01:25:35,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,daniel gafford,False,8.5,-320,2023-10-29T01:10:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,daniel gafford,False,7.5,-200,2023-10-29T00:45:50,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,daniel gafford,True,7.5,265,2023-10-29T01:10:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,daniel gafford,False,6.5,120,2023-10-29T00:50:26,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,daniel gafford,False,5.5,-115,2023-10-29T00:41:00,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,daniel gafford,False,4.5,-145,2023-10-29T00:16:47,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,daniel gafford,True,11.5,250,2023-10-29T01:25:35,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,daniel gafford,False,9.5,-105,2023-10-29T01:15:29,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,daniel gafford,True,5.5,-140,2023-10-29T00:35:09,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_blocks_over_under,daniel gafford,False,1.5,130,2023-10-28T23:25:12,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,daniel gafford,True,3.5,-125,2023-10-29T00:55:18,Washington Wizards,Memphis Grizzlies
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,daniel gafford,False,7.5,215,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,daniel gafford,False,8.5,150,2023-10-30T04:30:34,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,daniel gafford,False,9.5,105,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,daniel gafford,False,10.5,-130,2023-10-30T06:00:12,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,daniel gafford,False,11.5,-175,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,daniel gafford,False,12.5,-250,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,daniel gafford,True,10.5,105,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,daniel gafford,False,9.5,105,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,barstool,player_points_over_under,daniel gafford,True,9.5,-140,2023-10-30T05:20:44,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,barstool,player_points_over_under,daniel gafford,True,10.5,105,2023-10-30T05:20:44,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,barstool,player_points_over_under,daniel gafford,False,9.5,110,2023-10-30T05:20:44,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,barstool,player_points_over_under,daniel gafford,False,10.5,-135,2023-10-30T05:20:44,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,fanduel,player_rebounds_over_under,daniel gafford,True,6.5,-125,2023-10-30T04:40:04,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,fanduel,player_rebounds_over_under,daniel gafford,False,6.5,-102,2023-10-30T04:40:04,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,daniel gafford,False,10.5,-135,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,daniel gafford,True,9.5,-135,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,daniel gafford,True,12.5,190,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,daniel gafford,True,11.5,135,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,barstool,player_assists_over_under,daniel gafford,True,1.5,165,2023-10-30T05:00:27,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,barstool,player_assists_over_under,daniel gafford,False,1.5,-225,2023-10-30T05:00:27,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_blocks_over_under,daniel gafford,True,0.5,-225,2023-10-30T01:50:06,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_blocks_over_under,daniel gafford,True,1.5,165,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_blocks_over_under,daniel gafford,False,0.5,175,2023-10-30T01:50:06,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_blocks_over_under,daniel gafford,False,1.5,-215,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,fanduel,player_points_over_under,daniel gafford,True,9.5,-111,2023-10-30T05:30:22,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,fanduel,player_points_over_under,daniel gafford,False,9.5,-115,2023-10-30T05:30:22,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,pinnacle,player_points_over_under,daniel gafford,True,9.5,-128,2023-10-29T23:40:30,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,pinnacle,player_points_over_under,daniel gafford,False,9.5,-103,2023-10-29T23:40:30,Washington Wizards,Boston Celtics
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_steals_over_under,daniel gafford,True,0.5,170,2023-10-29T00:05:06,Washington Wizards,Memphis Grizzlies
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,daniel gafford,True,7.5,-280,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,daniel gafford,True,8.5,-190,2023-10-30T04:30:34,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,daniel gafford,True,9.5,-135,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,daniel gafford,True,10.5,100,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,pinnacle,player_rebounds_over_under,daniel gafford,True,6.5,-105,2023-10-29T23:40:30,Washington Wizards,Boston Celtics
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,daniel gafford,True,4.5,105,2023-10-29T00:41:00,Washington Wizards,Memphis Grizzlies
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,pinnacle,player_rebounds_over_under,daniel gafford,False,6.5,-126,2023-10-29T23:40:30,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_rebounds_over_under,daniel gafford,False,6.5,-120,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_blocks_over_under,daniel gafford,False,0.5,140,2023-10-28T23:25:12,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_blocks_over_under,daniel gafford,False,2.5,-20000,2023-10-29T01:25:35,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_blocks_over_under,daniel gafford,True,1.5,150,2023-10-28T23:20:59,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_blocks_over_under,daniel gafford,False,1.5,-215,2023-10-28T23:20:59,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,betrivers,player_blocks_over_under,daniel gafford,True,1.5,163,2023-10-28T17:06:39,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_points_over_under,daniel gafford,True,9.5,-120,2023-10-28T23:15:15,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_blocks_over_under,daniel gafford,True,2.5,1200,2023-10-29T01:25:35,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_points_over_under,daniel gafford,False,9.5,-102,2023-10-28T23:15:15,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,pinnacle,player_points_over_under,daniel gafford,False,9.5,-113,2023-10-28T18:05:09,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,daniel gafford,True,7.5,-235,2023-10-28T23:16:01,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,daniel gafford,True,8.5,-165,2023-10-28T23:16:01,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,daniel gafford,True,10.5,115,2023-10-28T23:16:01,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,daniel gafford,True,11.5,165,2023-10-28T23:16:01,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,daniel gafford,True,2.5,115,2023-10-29T00:21:57,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,pinnacle,player_points_over_under,daniel gafford,True,9.5,-117,2023-10-28T18:05:09,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_blocks_over_under,daniel gafford,True,1.5,-175,2023-10-28T23:25:12,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_blocks_over_under,daniel gafford,True,0.5,-190,2023-10-28T23:25:12,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_blocks_over_under,daniel gafford,False,2.5,-100000,2023-10-29T01:30:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,barstool,player_rebounds_over_under,daniel gafford,True,6.5,-105,2023-10-30T05:20:44,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,barstool,player_rebounds_over_under,daniel gafford,False,6.5,-125,2023-10-30T05:20:44,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_steals_over_under,daniel gafford,True,0.5,105,2023-10-30T04:30:34,Washington Wizards,Boston Celtics
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_steals_over_under,daniel gafford,False,0.5,-135,2023-10-30T04:30:34,Washington Wizards,Boston Celtics
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_assists_over_under,daniel gafford,True,0.5,1000,2023-10-29T01:25:31,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_assists_over_under,daniel gafford,False,0.5,-100000,2023-10-29T01:30:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_assists_over_under,daniel gafford,True,0.5,650,2023-10-29T01:20:11,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_assists_over_under,daniel gafford,True,1.5,145,2023-10-28T23:22:02,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_assists_over_under,daniel gafford,False,0.5,-1400,2023-10-29T01:20:11,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_assists_over_under,daniel gafford,False,1.5,-200,2023-10-28T23:22:02,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_assists_over_under,daniel gafford,True,1.5,145,2023-10-28T23:20:59,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_assists_over_under,daniel gafford,False,1.5,-200,2023-10-28T23:20:59,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_blocks_over_under,daniel gafford,True,1.5,-198,2023-10-28T23:27:04,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_blocks_over_under,daniel gafford,True,2.5,1000,2023-10-29T01:25:31,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_blocks_over_under,daniel gafford,False,1.5,146,2023-10-28T23:27:04,Washington Wizards,Memphis Grizzlies
+2023-10-28,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_rebounds_over_under,daniel gafford,True,6.5,-105,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_steals_over_under,daniel gafford,False,0.5,-260,2023-10-29T00:05:06,Washington Wizards,Memphis Grizzlies

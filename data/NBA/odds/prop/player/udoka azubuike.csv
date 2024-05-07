@@ -1,0 +1,227 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_rebounds_over_under,udoka azubuike,True,4.5,116,2023-04-05T01:45:02,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_points_over_under,udoka azubuike,False,8.5,-130,2023-04-04T23:42:03,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_rebounds_over_under,udoka azubuike,True,5.5,-205,2023-04-05T03:15:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_rebounds_over_under,udoka azubuike,True,6.5,194,2023-04-05T03:00:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_rebounds_over_under,udoka azubuike,True,7.5,-130,2023-04-05T02:30:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_rebounds_over_under,udoka azubuike,False,4.5,-154,2023-04-05T01:45:02,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_rebounds_over_under,udoka azubuike,False,5.5,152,2023-04-05T03:15:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_rebounds_over_under,udoka azubuike,False,6.5,-270,2023-04-05T03:00:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_points_over_under,udoka azubuike,True,8.5,100,2023-04-04T23:42:03,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_rebounds_over_under,udoka azubuike,False,7.5,-102,2023-04-05T02:30:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_rebounds_over_under,udoka azubuike,False,7.5,-145,2023-04-05T01:00:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_steals_over_under,udoka azubuike,True,0.5,1000,2023-04-05T03:15:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_steals_over_under,udoka azubuike,False,0.5,-4000,2023-04-05T03:15:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_steals_over_under,udoka azubuike,True,0.5,165,2023-04-04T23:42:03,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_steals_over_under,udoka azubuike,False,0.5,-205,2023-04-04T23:42:03,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_threes_over_under,udoka azubuike,True,0.5,1000,2023-04-05T01:15:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_threes_over_under,udoka azubuike,False,0.5,-100000,2023-04-05T01:15:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_rebounds_over_under,udoka azubuike,True,7.5,115,2023-04-05T01:00:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_points_over_under,udoka azubuike,False,6.5,-118,2023-04-05T01:15:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_points_over_under,udoka azubuike,False,8.5,-128,2023-04-05T01:00:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_points_over_under,udoka azubuike,True,2.5,-250,2023-04-05T03:15:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_blocks_over_under,udoka azubuike,True,1.5,410,2023-04-05T03:15:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_blocks_over_under,udoka azubuike,False,0.5,-550,2023-04-05T03:00:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_blocks_over_under,udoka azubuike,False,1.5,-700,2023-04-05T03:15:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_blocks_over_under,udoka azubuike,True,1.5,140,2023-04-05T01:00:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_blocks_over_under,udoka azubuike,False,1.5,-175,2023-04-05T01:00:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_points_over_under,udoka azubuike,False,5.5,110,2023-04-05T01:30:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_points_over_under,udoka azubuike,True,3.5,154,2023-04-05T03:00:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_points_over_under,udoka azubuike,True,4.5,148,2023-04-05T02:45:02,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_points_over_under,udoka azubuike,True,5.5,-146,2023-04-05T01:30:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_points_over_under,udoka azubuike,True,6.5,-112,2023-04-05T01:15:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_points_over_under,udoka azubuike,True,8.5,104,2023-04-05T01:00:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_points_over_under,udoka azubuike,False,2.5,182,2023-04-05T03:15:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_assists_over_under,udoka azubuike,True,0.5,880,2023-04-05T03:15:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_points_over_under,udoka azubuike,False,3.5,-210,2023-04-05T03:00:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_points_over_under,udoka azubuike,False,4.5,-200,2023-04-05T02:45:02,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_blocks_over_under,udoka azubuike,True,0.5,350,2023-04-05T03:00:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_assists_over_under,udoka azubuike,False,0.5,-3000,2023-04-05T03:15:01,Utah Jazz,Los Angeles Lakers
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_blocks_over_under,udoka azubuike,False,2.5,-220,2023-04-07T01:15:02,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_blocks_over_under,udoka azubuike,True,1.5,205,2023-04-07T03:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_blocks_over_under,udoka azubuike,False,1.5,-260,2023-04-07T03:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_threes_over_under,udoka azubuike,False,0.5,-100000,2023-04-07T01:15:02,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_blocks_over_under,udoka azubuike,True,1.5,188,2023-04-07T03:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_assists_over_under,udoka azubuike,False,0.5,-900,2023-04-07T03:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_blocks_over_under,udoka azubuike,True,2.5,155,2023-04-07T01:15:02,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_blocks_over_under,udoka azubuike,True,2.5,162,2023-04-07T01:15:02,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_blocks_over_under,udoka azubuike,False,1.5,-290,2023-04-07T03:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_assists_over_under,udoka azubuike,True,0.5,490,2023-04-07T03:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_points_over_under,udoka azubuike,True,8.5,104,2023-04-07T02:15:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_rebounds_over_under,udoka azubuike,True,9.5,132,2023-04-07T02:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_rebounds_over_under,udoka azubuike,True,10.5,116,2023-04-07T01:45:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_rebounds_over_under,udoka azubuike,False,6.5,-120,2023-04-07T02:45:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_rebounds_over_under,udoka azubuike,False,7.5,118,2023-04-07T03:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_rebounds_over_under,udoka azubuike,False,8.5,-110,2023-04-07T02:15:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_rebounds_over_under,udoka azubuike,False,9.5,-178,2023-04-07T02:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_blocks_over_under,udoka azubuike,False,2.5,-210,2023-04-07T01:15:02,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_rebounds_over_under,udoka azubuike,True,6.5,-110,2023-04-07T02:45:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_rebounds_over_under,udoka azubuike,True,7.5,-125,2023-04-07T03:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_rebounds_over_under,udoka azubuike,True,8.5,-120,2023-04-07T02:15:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_rebounds_over_under,udoka azubuike,True,9.5,120,2023-04-07T02:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_rebounds_over_under,udoka azubuike,True,10.5,110,2023-04-07T01:45:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_rebounds_over_under,udoka azubuike,False,6.5,-120,2023-04-07T02:45:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_rebounds_over_under,udoka azubuike,False,7.5,-105,2023-04-07T03:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_rebounds_over_under,udoka azubuike,False,8.5,-110,2023-04-07T02:15:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_rebounds_over_under,udoka azubuike,False,9.5,-155,2023-04-07T02:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_rebounds_over_under,udoka azubuike,False,10.5,-145,2023-04-07T01:45:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_steals_over_under,udoka azubuike,True,0.5,880,2023-04-07T03:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_steals_over_under,udoka azubuike,False,0.5,-3000,2023-04-07T03:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_steals_over_under,udoka azubuike,True,0.5,800,2023-04-07T03:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_steals_over_under,udoka azubuike,False,0.5,-2500,2023-04-07T03:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_rebounds_over_under,udoka azubuike,True,8.5,-120,2023-04-07T02:15:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_rebounds_over_under,udoka azubuike,True,7.5,-158,2023-04-07T03:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_rebounds_over_under,udoka azubuike,False,10.5,-154,2023-04-07T01:45:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_points_over_under,udoka azubuike,False,13.5,120,2023-04-07T02:45:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_points_over_under,udoka azubuike,True,9.5,104,2023-04-07T01:15:02,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_points_over_under,udoka azubuike,True,10.5,110,2023-04-07T01:45:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_rebounds_over_under,udoka azubuike,True,6.5,-110,2023-04-07T02:45:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_points_over_under,udoka azubuike,True,13.5,-172,2023-04-07T02:45:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_points_over_under,udoka azubuike,True,14.5,134,2023-04-07T03:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_points_over_under,udoka azubuike,False,8.5,-138,2023-04-07T02:15:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_points_over_under,udoka azubuike,False,9.5,-138,2023-04-07T01:15:02,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_points_over_under,udoka azubuike,False,10.5,-146,2023-04-07T01:45:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_points_over_under,udoka azubuike,False,12.5,138,2023-04-07T02:30:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_points_over_under,udoka azubuike,False,13.5,128,2023-04-07T02:45:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_points_over_under,udoka azubuike,True,12.5,-186,2023-04-07T02:30:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_points_over_under,udoka azubuike,True,8.5,100,2023-04-07T02:15:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_points_over_under,udoka azubuike,False,14.5,-180,2023-04-07T03:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_points_over_under,udoka azubuike,False,12.5,135,2023-04-07T02:30:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_points_over_under,udoka azubuike,False,11.5,-140,2023-04-07T01:15:02,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_points_over_under,udoka azubuike,False,10.5,-140,2023-04-07T01:45:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_points_over_under,udoka azubuike,False,8.5,-135,2023-04-07T02:15:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_threes_over_under,udoka azubuike,True,0.5,1000,2023-04-07T01:15:02,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_points_over_under,udoka azubuike,True,12.5,-180,2023-04-07T02:30:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_points_over_under,udoka azubuike,True,11.5,105,2023-04-07T01:15:02,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_points_over_under,udoka azubuike,True,10.5,105,2023-04-07T01:45:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_points_over_under,udoka azubuike,True,13.5,-160,2023-04-07T02:45:01,Utah Jazz,Oklahoma City Thunder
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_rebounds_over_under,udoka azubuike,False,7.5,105,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_rebounds_over_under,udoka azubuike,False,8.5,115,2023-04-08T20:00:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_rebounds_over_under,udoka azubuike,False,9.5,-110,2023-04-08T20:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_rebounds_over_under,udoka azubuike,False,10.5,-245,2023-04-08T21:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_rebounds_over_under,udoka azubuike,False,11.5,-215,2023-04-08T21:45:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_rebounds_over_under,udoka azubuike,False,12.5,-150,2023-04-08T21:00:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_rebounds_over_under,udoka azubuike,True,7.5,-137,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_steals_over_under,udoka azubuike,True,0.5,1000,2023-04-08T21:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_steals_over_under,udoka azubuike,False,0.5,-4000,2023-04-08T21:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_steals_over_under,udoka azubuike,True,0.5,1000,2023-04-08T21:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_steals_over_under,udoka azubuike,False,0.5,-5000,2023-04-08T21:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_steals_over_under,udoka azubuike,False,0.5,-234,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_threes_over_under,udoka azubuike,True,0.5,1000,2023-04-08T19:45:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_threes_over_under,udoka azubuike,False,0.5,-100000,2023-04-08T19:45:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_rebounds_over_under,udoka azubuike,True,12.5,115,2023-04-08T21:00:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_rebounds_over_under,udoka azubuike,False,7.5,100,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_steals_over_under,udoka azubuike,True,0.5,165,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_rebounds_over_under,udoka azubuike,True,11.5,160,2023-04-08T21:45:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_rebounds_over_under,udoka azubuike,True,9.5,-125,2023-04-08T20:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_points_over_under,udoka azubuike,False,8.5,-132,2023-04-08T21:15:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_points_over_under,udoka azubuike,False,7.5,-154,2023-04-08T21:45:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_points_over_under,udoka azubuike,True,9.5,-160,2023-04-08T21:00:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_points_over_under,udoka azubuike,True,8.5,100,2023-04-08T21:15:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_points_over_under,udoka azubuike,True,7.5,116,2023-04-08T21:45:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_blocks_over_under,udoka azubuike,False,1.5,-174,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_blocks_over_under,udoka azubuike,True,1.5,126,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_blocks_over_under,udoka azubuike,False,1.5,-550,2023-04-08T21:45:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_blocks_over_under,udoka azubuike,False,0.5,105,2023-04-08T20:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_blocks_over_under,udoka azubuike,True,1.5,350,2023-04-08T21:45:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_blocks_over_under,udoka azubuike,True,0.5,-140,2023-04-08T20:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_blocks_over_under,udoka azubuike,False,1.5,-600,2023-04-08T21:45:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_blocks_over_under,udoka azubuike,False,0.5,108,2023-04-08T20:45:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_blocks_over_under,udoka azubuike,True,0.5,-144,2023-04-08T20:45:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_assists_over_under,udoka azubuike,False,0.5,100,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_assists_over_under,udoka azubuike,True,0.5,-137,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_assists_over_under,udoka azubuike,False,1.5,-1400,2023-04-08T21:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_assists_over_under,udoka azubuike,False,0.5,-215,2023-04-08T20:45:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_assists_over_under,udoka azubuike,True,1.5,630,2023-04-08T21:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_assists_over_under,udoka azubuike,True,0.5,158,2023-04-08T20:45:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_rebounds_over_under,udoka azubuike,True,10.5,180,2023-04-08T21:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_points_over_under,udoka azubuike,False,9.5,120,2023-04-08T21:00:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_points_over_under,udoka azubuike,True,7.5,110,2023-04-08T21:45:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_blocks_over_under,udoka azubuike,True,1.5,370,2023-04-08T21:45:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_points_over_under,udoka azubuike,True,9.5,-155,2023-04-08T21:00:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_rebounds_over_under,udoka azubuike,True,8.5,-155,2023-04-08T20:00:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_points_over_under,udoka azubuike,True,8.5,100,2023-04-08T21:15:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_rebounds_over_under,udoka azubuike,True,7.5,-135,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_rebounds_over_under,udoka azubuike,False,12.5,-154,2023-04-08T21:00:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_rebounds_over_under,udoka azubuike,False,11.5,-230,2023-04-08T21:45:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_rebounds_over_under,udoka azubuike,False,9.5,-106,2023-04-08T20:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_rebounds_over_under,udoka azubuike,False,8.5,120,2023-04-08T20:00:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_rebounds_over_under,udoka azubuike,False,7.5,116,2023-04-08T19:45:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_rebounds_over_under,udoka azubuike,True,12.5,116,2023-04-08T21:00:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_rebounds_over_under,udoka azubuike,True,11.5,168,2023-04-08T21:45:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_rebounds_over_under,udoka azubuike,False,10.5,-225,2023-04-08T21:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_rebounds_over_under,udoka azubuike,True,9.5,-125,2023-04-08T20:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_rebounds_over_under,udoka azubuike,True,8.5,-160,2023-04-08T20:00:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_rebounds_over_under,udoka azubuike,True,7.5,-154,2023-04-08T19:45:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_points_over_under,udoka azubuike,False,9.5,-117,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_points_over_under,udoka azubuike,True,9.5,-117,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_points_over_under,udoka azubuike,False,10.5,-140,2023-04-08T19:45:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_points_over_under,udoka azubuike,False,9.5,115,2023-04-08T21:00:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_points_over_under,udoka azubuike,False,8.5,-130,2023-04-08T21:15:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_rebounds_over_under,udoka azubuike,True,10.5,164,2023-04-08T21:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_points_over_under,udoka azubuike,True,10.5,105,2023-04-08T19:45:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_points_over_under,udoka azubuike,False,7.5,-150,2023-04-08T21:45:02,Utah Jazz,Denver Nuggets
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_points_over_under,udoka azubuike,True,13.5,-144,2023-04-09T21:15:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_points_over_under,udoka azubuike,True,14.5,128,2023-04-09T21:00:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_points_over_under,udoka azubuike,False,5.5,-160,2023-04-09T20:15:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_points_over_under,udoka azubuike,False,6.5,-148,2023-04-09T19:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_points_over_under,udoka azubuike,False,11.5,102,2023-04-09T20:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_points_over_under,udoka azubuike,True,5.5,-120,2023-04-09T20:00:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_points_over_under,udoka azubuike,False,13.5,108,2023-04-09T21:15:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_points_over_under,udoka azubuike,False,14.5,-172,2023-04-09T21:00:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_points_over_under,udoka azubuike,True,6.5,110,2023-04-09T19:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_points_over_under,udoka azubuike,True,7.5,115,2023-04-09T20:15:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_points_over_under,udoka azubuike,True,12.5,122,2023-04-09T21:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_points_over_under,udoka azubuike,True,11.5,-135,2023-04-09T20:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_points_over_under,udoka azubuike,False,12.5,-162,2023-04-09T21:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_points_over_under,udoka azubuike,True,11.5,-136,2023-04-09T20:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_blocks_over_under,udoka azubuike,True,1.5,920,2023-04-09T21:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_points_over_under,udoka azubuike,True,5.5,120,2023-04-09T20:15:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,caesars,player_blocks_over_under,udoka azubuike,False,0.5,120,2023-04-09T19:15:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,caesars,player_blocks_over_under,udoka azubuike,True,0.5,-166,2023-04-09T19:15:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_blocks_over_under,udoka azubuike,False,1.5,-3000,2023-04-09T21:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_blocks_over_under,udoka azubuike,False,0.5,-180,2023-04-09T20:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_blocks_over_under,udoka azubuike,True,1.5,900,2023-04-09T21:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_blocks_over_under,udoka azubuike,True,0.5,135,2023-04-09T20:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_blocks_over_under,udoka azubuike,False,1.5,-3500,2023-04-09T21:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_blocks_over_under,udoka azubuike,False,0.5,-192,2023-04-09T20:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_blocks_over_under,udoka azubuike,True,0.5,142,2023-04-09T20:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,caesars,player_assists_over_under,udoka azubuike,False,0.5,-166,2023-04-09T19:15:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,caesars,player_assists_over_under,udoka azubuike,True,0.5,120,2023-04-09T19:15:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_assists_over_under,udoka azubuike,False,0.5,-7000,2023-04-09T21:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_points_over_under,udoka azubuike,True,12.5,120,2023-04-09T21:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_points_over_under,udoka azubuike,True,6.5,112,2023-04-09T19:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_points_over_under,udoka azubuike,True,13.5,-140,2023-04-09T21:15:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,caesars,player_rebounds_over_under,udoka azubuike,False,6.5,-135,2023-04-09T19:15:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_points_over_under,udoka azubuike,False,5.5,-110,2023-04-09T20:00:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_threes_over_under,udoka azubuike,False,0.5,-100000,2023-04-09T19:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_threes_over_under,udoka azubuike,True,0.5,1000,2023-04-09T19:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,caesars,player_steals_over_under,udoka azubuike,False,0.5,-234,2023-04-09T19:15:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,caesars,player_steals_over_under,udoka azubuike,True,0.5,165,2023-04-09T19:15:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_steals_over_under,udoka azubuike,False,0.5,-1400,2023-04-09T21:15:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_steals_over_under,udoka azubuike,True,0.5,650,2023-04-09T21:15:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_steals_over_under,udoka azubuike,False,0.5,-10000,2023-04-09T21:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_steals_over_under,udoka azubuike,True,0.5,1000,2023-04-09T21:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,caesars,player_rebounds_over_under,udoka azubuike,True,6.5,-101,2023-04-09T19:15:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_rebounds_over_under,udoka azubuike,False,6.5,-140,2023-04-09T20:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_rebounds_over_under,udoka azubuike,False,5.5,-120,2023-04-09T21:15:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_rebounds_over_under,udoka azubuike,False,4.5,-185,2023-04-09T21:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_rebounds_over_under,udoka azubuike,True,6.5,105,2023-04-09T20:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_rebounds_over_under,udoka azubuike,True,5.5,-110,2023-04-09T21:15:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_rebounds_over_under,udoka azubuike,True,4.5,140,2023-04-09T21:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_rebounds_over_under,udoka azubuike,False,6.5,-146,2023-04-09T20:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_rebounds_over_under,udoka azubuike,False,5.5,-122,2023-04-09T21:15:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_rebounds_over_under,udoka azubuike,False,4.5,-192,2023-04-09T21:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_rebounds_over_under,udoka azubuike,True,6.5,110,2023-04-09T20:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_rebounds_over_under,udoka azubuike,True,5.5,-108,2023-04-09T21:15:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_rebounds_over_under,udoka azubuike,True,4.5,142,2023-04-09T21:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,caesars,player_points_over_under,udoka azubuike,False,7.5,-137,2023-04-09T19:15:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,caesars,player_points_over_under,udoka azubuike,True,7.5,100,2023-04-09T19:15:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_points_over_under,udoka azubuike,False,14.5,-175,2023-04-09T21:00:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_points_over_under,udoka azubuike,False,13.5,105,2023-04-09T21:15:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_points_over_under,udoka azubuike,False,12.5,-160,2023-04-09T21:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_points_over_under,udoka azubuike,False,11.5,100,2023-04-09T20:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_points_over_under,udoka azubuike,False,7.5,-155,2023-04-09T20:15:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_points_over_under,udoka azubuike,False,6.5,-145,2023-04-09T19:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_points_over_under,udoka azubuike,True,14.5,130,2023-04-09T21:00:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_assists_over_under,udoka azubuike,True,0.5,1000,2023-04-09T21:30:02,Los Angeles Lakers,Utah Jazz

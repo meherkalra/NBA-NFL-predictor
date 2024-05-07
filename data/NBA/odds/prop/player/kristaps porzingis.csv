@@ -1,0 +1,722 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_threes_over_under,kristaps porzingis,False,3.5,-800,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,kristaps porzingis,True,32.5,-146,2023-03-22T01:00:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,kristaps porzingis,True,29.5,-125,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,kristaps porzingis,True,26.5,118,2023-03-22T00:45:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,kristaps porzingis,True,24.5,-105,2023-03-21T22:15:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,kristaps porzingis,True,23.5,-108,2023-03-22T00:30:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,kristaps porzingis,True,21.5,-122,2023-03-21T23:30:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_blocks_over_under,kristaps porzingis,False,2.5,-1400,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_blocks_over_under,kristaps porzingis,False,1.5,-146,2023-03-21T23:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,kristaps porzingis,False,21.5,-108,2023-03-21T23:30:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_blocks_over_under,kristaps porzingis,True,3.5,178,2023-03-21T23:45:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_blocks_over_under,kristaps porzingis,True,1.5,110,2023-03-21T23:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_assists_over_under,kristaps porzingis,False,2.5,-600,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_assists_over_under,kristaps porzingis,False,1.5,-138,2023-03-22T01:00:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_assists_over_under,kristaps porzingis,False,0.5,102,2023-03-22T00:45:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_assists_over_under,kristaps porzingis,True,2.5,370,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_assists_over_under,kristaps porzingis,True,1.5,104,2023-03-22T01:00:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_assists_over_under,kristaps porzingis,True,0.5,-136,2023-03-22T00:45:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_threes_over_under,kristaps porzingis,False,2.5,-136,2023-03-22T00:45:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_blocks_over_under,kristaps porzingis,True,2.5,630,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,kristaps porzingis,False,23.5,-122,2023-03-22T00:30:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_blocks_over_under,kristaps porzingis,False,3.5,-245,2023-03-21T23:45:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,kristaps porzingis,False,26.5,-158,2023-03-22T00:45:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_threes_over_under,kristaps porzingis,False,1.5,-114,2023-03-21T23:45:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,kristaps porzingis,False,24.5,-115,2023-03-21T22:15:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_threes_over_under,kristaps porzingis,True,2.5,102,2023-03-22T00:45:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_threes_over_under,kristaps porzingis,True,1.5,-114,2023-03-21T23:45:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_steals_over_under,kristaps porzingis,False,1.5,-3500,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_steals_over_under,kristaps porzingis,False,0.5,-188,2023-03-22T00:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_steals_over_under,kristaps porzingis,True,1.5,920,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_steals_over_under,kristaps porzingis,True,0.5,140,2023-03-22T00:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_rebounds_over_under,kristaps porzingis,False,9.5,-162,2023-03-21T23:45:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_threes_over_under,kristaps porzingis,True,3.5,450,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_rebounds_over_under,kristaps porzingis,False,7.5,106,2023-03-22T01:00:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_rebounds_over_under,kristaps porzingis,False,8.5,-178,2023-03-22T00:45:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,kristaps porzingis,False,32.5,110,2023-03-22T01:00:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_rebounds_over_under,kristaps porzingis,True,6.5,102,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_rebounds_over_under,kristaps porzingis,True,7.5,-140,2023-03-22T01:00:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,kristaps porzingis,False,29.5,-106,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_rebounds_over_under,kristaps porzingis,True,9.5,122,2023-03-21T23:45:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_rebounds_over_under,kristaps porzingis,False,6.5,-136,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_rebounds_over_under,kristaps porzingis,True,8.5,132,2023-03-22T00:45:02,Orlando Magic,Washington Wizards
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,kristaps porzingis,False,23.5,-115,2023-03-22T17:15:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,kristaps porzingis,True,24.5,-178,2023-03-23T00:45:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,kristaps porzingis,True,31.5,-114,2023-03-22T23:30:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,kristaps porzingis,True,29.5,-110,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,kristaps porzingis,True,28.5,-108,2023-03-22T23:45:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,kristaps porzingis,True,26.5,-136,2023-03-23T00:00:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,kristaps porzingis,True,25.5,-128,2023-03-23T00:15:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,kristaps porzingis,True,23.5,-105,2023-03-22T17:15:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_blocks_over_under,kristaps porzingis,True,0.5,280,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_blocks_over_under,kristaps porzingis,False,0.5,-420,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_blocks_over_under,kristaps porzingis,True,1.5,126,2023-03-22T23:15:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_assists_over_under,kristaps porzingis,False,3.5,-182,2023-03-22T23:30:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_assists_over_under,kristaps porzingis,False,2.5,-166,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_assists_over_under,kristaps porzingis,True,3.5,136,2023-03-22T23:30:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_assists_over_under,kristaps porzingis,True,2.5,124,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,kristaps porzingis,False,24.5,132,2023-03-23T00:45:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_blocks_over_under,kristaps porzingis,False,1.5,-168,2023-03-22T23:15:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,kristaps porzingis,False,25.5,-104,2023-03-23T00:15:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,kristaps porzingis,False,28.5,-122,2023-03-22T23:45:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_threes_over_under,kristaps porzingis,False,2.5,-210,2023-03-22T23:45:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_threes_over_under,kristaps porzingis,False,1.5,-240,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_threes_over_under,kristaps porzingis,True,2.5,154,2023-03-22T23:45:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_threes_over_under,kristaps porzingis,True,1.5,174,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_steals_over_under,kristaps porzingis,False,0.5,-900,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,kristaps porzingis,False,26.5,102,2023-03-23T00:00:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_rebounds_over_under,kristaps porzingis,False,7.5,-115,2023-03-22T23:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_rebounds_over_under,kristaps porzingis,False,6.5,102,2023-03-22T23:15:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_rebounds_over_under,kristaps porzingis,False,5.5,-136,2023-03-23T00:30:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_steals_over_under,kristaps porzingis,True,0.5,490,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_rebounds_over_under,kristaps porzingis,False,3.5,-188,2023-03-23T00:15:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_rebounds_over_under,kristaps porzingis,True,7.5,-105,2023-03-22T23:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_rebounds_over_under,kristaps porzingis,True,6.5,-136,2023-03-22T23:15:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_rebounds_over_under,kristaps porzingis,True,5.5,102,2023-03-23T00:30:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_rebounds_over_under,kristaps porzingis,True,4.5,152,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_rebounds_over_under,kristaps porzingis,True,3.5,140,2023-03-23T00:15:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,kristaps porzingis,False,31.5,-114,2023-03-22T23:30:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,kristaps porzingis,False,29.5,-122,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_rebounds_over_under,kristaps porzingis,False,4.5,-205,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_rebounds_over_under,kristaps porzingis,True,11.5,118,2023-03-25T00:45:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_rebounds_over_under,kristaps porzingis,True,10.5,162,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_rebounds_over_under,kristaps porzingis,True,9.5,-120,2023-03-24T23:15:02,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,kristaps porzingis,False,30.5,-110,2023-03-25T00:45:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_rebounds_over_under,kristaps porzingis,True,7.5,-142,2023-03-24T20:45:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,kristaps porzingis,False,31.5,-110,2023-03-24T23:30:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_rebounds_over_under,kristaps porzingis,True,8.5,-112,2023-03-24T23:00:02,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_rebounds_over_under,kristaps porzingis,True,12.5,116,2023-03-25T00:30:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_threes_over_under,kristaps porzingis,True,2.5,194,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_rebounds_over_under,kristaps porzingis,False,8.5,-108,2023-03-24T23:00:02,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_rebounds_over_under,kristaps porzingis,False,9.5,-110,2023-03-24T23:15:02,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_rebounds_over_under,kristaps porzingis,False,10.5,-220,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_rebounds_over_under,kristaps porzingis,False,11.5,-158,2023-03-25T00:45:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_rebounds_over_under,kristaps porzingis,False,12.5,-154,2023-03-25T00:30:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_steals_over_under,kristaps porzingis,True,0.5,550,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_steals_over_under,kristaps porzingis,False,0.5,-1100,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,kristaps porzingis,False,29.5,-102,2023-03-25T00:30:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_rebounds_over_under,kristaps porzingis,False,7.5,116,2023-03-24T20:45:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,kristaps porzingis,False,28.5,102,2023-03-25T00:15:02,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_blocks_over_under,kristaps porzingis,False,2.5,182,2023-03-24T23:45:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,kristaps porzingis,False,26.5,124,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_assists_over_under,kristaps porzingis,True,3.5,-114,2023-03-24T23:30:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_assists_over_under,kristaps porzingis,True,4.5,140,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_assists_over_under,kristaps porzingis,True,5.5,130,2023-03-24T23:45:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_assists_over_under,kristaps porzingis,False,3.5,-114,2023-03-24T23:30:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_assists_over_under,kristaps porzingis,False,4.5,-188,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_assists_over_under,kristaps porzingis,False,5.5,-174,2023-03-24T23:45:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_blocks_over_under,kristaps porzingis,True,2.5,-250,2023-03-24T23:45:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,kristaps porzingis,False,27.5,-104,2023-03-24T22:45:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_blocks_over_under,kristaps porzingis,True,3.5,-102,2023-03-25T00:30:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_blocks_over_under,kristaps porzingis,False,4.5,-490,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,kristaps porzingis,True,26.5,-166,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,kristaps porzingis,True,27.5,-118,2023-03-24T22:45:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,kristaps porzingis,True,28.5,-136,2023-03-25T00:15:02,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,kristaps porzingis,True,29.5,-130,2023-03-25T00:30:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,kristaps porzingis,True,30.5,-120,2023-03-25T00:45:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,kristaps porzingis,True,31.5,-120,2023-03-24T23:30:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_blocks_over_under,kristaps porzingis,True,4.5,320,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_threes_over_under,kristaps porzingis,False,2.5,-270,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_blocks_over_under,kristaps porzingis,False,3.5,-130,2023-03-25T00:30:01,Washington Wizards,San Antonio Spurs
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_assists_over_under,kristaps porzingis,True,1.5,110,2023-03-27T00:00:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_points_over_under,kristaps porzingis,True,30.5,-104,2023-03-26T23:30:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_points_over_under,kristaps porzingis,False,22.5,-114,2023-03-26T22:15:02,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_points_over_under,kristaps porzingis,False,23.5,-132,2023-03-26T23:15:02,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_points_over_under,kristaps porzingis,False,24.5,-144,2023-03-26T22:45:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_points_over_under,kristaps porzingis,False,28.5,-166,2023-03-27T00:00:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_points_over_under,kristaps porzingis,False,29.5,124,2023-03-26T23:45:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_points_over_under,kristaps porzingis,False,30.5,-128,2023-03-26T23:30:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_rebounds_over_under,kristaps porzingis,True,6.5,140,2023-03-27T00:00:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_rebounds_over_under,kristaps porzingis,True,7.5,-120,2023-03-26T23:30:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_rebounds_over_under,kristaps porzingis,True,8.5,-112,2023-03-26T23:15:02,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_rebounds_over_under,kristaps porzingis,True,9.5,110,2023-03-26T23:00:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_points_over_under,kristaps porzingis,True,29.5,-166,2023-03-26T23:45:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_rebounds_over_under,kristaps porzingis,False,6.5,-188,2023-03-27T00:00:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_rebounds_over_under,kristaps porzingis,False,8.5,-118,2023-03-26T23:15:02,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_rebounds_over_under,kristaps porzingis,False,9.5,-146,2023-03-26T23:00:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_steals_over_under,kristaps porzingis,True,1.5,100,2023-03-26T22:15:02,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_steals_over_under,kristaps porzingis,True,2.5,630,2023-03-27T00:00:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_steals_over_under,kristaps porzingis,False,1.5,-132,2023-03-26T22:15:02,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_steals_over_under,kristaps porzingis,False,2.5,-1400,2023-03-27T00:00:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_threes_over_under,kristaps porzingis,True,1.5,-210,2023-03-26T23:15:02,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_threes_over_under,kristaps porzingis,True,2.5,182,2023-03-26T23:00:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_threes_over_under,kristaps porzingis,True,4.5,198,2023-03-27T00:00:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_threes_over_under,kristaps porzingis,False,1.5,154,2023-03-26T23:15:02,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_threes_over_under,kristaps porzingis,False,2.5,-250,2023-03-26T23:00:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_rebounds_over_under,kristaps porzingis,False,7.5,-110,2023-03-26T23:30:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_points_over_under,kristaps porzingis,True,28.5,124,2023-03-27T00:00:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_points_over_under,kristaps porzingis,False,25.5,-112,2023-03-26T23:00:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_points_over_under,kristaps porzingis,True,24.5,108,2023-03-26T22:45:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_points_over_under,kristaps porzingis,True,25.5,-118,2023-03-26T23:00:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_threes_over_under,kristaps porzingis,False,4.5,-275,2023-03-27T00:00:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_assists_over_under,kristaps porzingis,True,3.5,114,2023-03-26T22:00:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_assists_over_under,kristaps porzingis,False,1.5,-146,2023-03-27T00:00:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_assists_over_under,kristaps porzingis,False,2.5,-250,2023-03-26T23:30:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_assists_over_under,kristaps porzingis,False,3.5,-140,2023-03-26T22:00:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_assists_over_under,kristaps porzingis,True,2.5,182,2023-03-26T23:30:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_blocks_over_under,kristaps porzingis,True,1.5,188,2023-03-26T22:45:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_blocks_over_under,kristaps porzingis,False,0.5,-390,2023-03-27T00:00:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_blocks_over_under,kristaps porzingis,False,1.5,-250,2023-03-26T22:45:01,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_points_over_under,kristaps porzingis,True,22.5,-114,2023-03-26T22:15:02,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_points_over_under,kristaps porzingis,True,23.5,100,2023-03-26T23:15:02,Toronto Raptors,Washington Wizards
+2023-03-26,b4ddab339c65931ef0fbb3260c6375a4,fanduel,player_blocks_over_under,kristaps porzingis,True,0.5,265,2023-03-27T00:00:01,Toronto Raptors,Washington Wizards
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_points_over_under,kristaps porzingis,True,26.5,-136,2023-03-28T23:15:02,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_points_over_under,kristaps porzingis,True,28.5,-128,2023-03-29T00:45:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_points_over_under,kristaps porzingis,True,29.5,140,2023-03-29T01:00:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_points_over_under,kristaps porzingis,True,33.5,-114,2023-03-29T00:30:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_points_over_under,kristaps porzingis,False,25.5,-114,2023-03-28T23:00:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_points_over_under,kristaps porzingis,False,28.5,-104,2023-03-29T00:45:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_points_over_under,kristaps porzingis,False,29.5,-188,2023-03-29T01:00:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_points_over_under,kristaps porzingis,False,33.5,-114,2023-03-29T00:30:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_rebounds_over_under,kristaps porzingis,True,7.5,-130,2023-03-28T20:15:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_points_over_under,kristaps porzingis,True,34.5,106,2023-03-29T00:15:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_points_over_under,kristaps porzingis,False,34.5,-140,2023-03-29T00:15:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_assists_over_under,kristaps porzingis,False,2.5,118,2023-03-28T23:45:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_assists_over_under,kristaps porzingis,True,3.5,118,2023-03-29T00:00:02,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_assists_over_under,kristaps porzingis,True,4.5,152,2023-03-29T00:15:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_assists_over_under,kristaps porzingis,True,5.5,-130,2023-03-29T00:30:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_assists_over_under,kristaps porzingis,True,6.5,310,2023-03-29T01:00:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_assists_over_under,kristaps porzingis,False,3.5,-158,2023-03-29T00:00:02,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_assists_over_under,kristaps porzingis,False,4.5,-205,2023-03-29T00:15:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_points_over_under,kristaps porzingis,True,25.5,-106,2023-03-28T23:00:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_assists_over_under,kristaps porzingis,False,5.5,-102,2023-03-29T00:30:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_assists_over_under,kristaps porzingis,False,6.5,-470,2023-03-29T01:00:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_blocks_over_under,kristaps porzingis,True,1.5,580,2023-03-29T01:00:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_blocks_over_under,kristaps porzingis,False,1.5,-1200,2023-03-29T01:00:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_rebounds_over_under,kristaps porzingis,True,8.5,104,2023-03-28T23:15:02,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_assists_over_under,kristaps porzingis,True,2.5,-158,2023-03-28T23:45:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_rebounds_over_under,kristaps porzingis,True,10.5,118,2023-03-29T00:45:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_points_over_under,kristaps porzingis,False,26.5,102,2023-03-28T23:15:02,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_rebounds_over_under,kristaps porzingis,False,7.5,106,2023-03-28T20:15:01,Washington Wizards,Boston Celtics
+2023-03-28,e5e549c2915bd7542fbc8445764976e1,fanduel,player_threes_over_under,kristaps porzingis,True,2.5,110,2023-03-31T22:24:01,Washington Wizards,Orlando Magic
+2023-03-28,e5e549c2915bd7542fbc8445764976e1,fanduel,player_threes_over_under,kristaps porzingis,False,2.5,-140,2023-03-31T22:24:01,Washington Wizards,Orlando Magic
+2023-03-28,e5e549c2915bd7542fbc8445764976e1,fanduel,player_rebounds_over_under,kristaps porzingis,False,8.5,-132,2023-03-31T22:06:01,Washington Wizards,Orlando Magic
+2023-03-28,e5e549c2915bd7542fbc8445764976e1,fanduel,player_rebounds_over_under,kristaps porzingis,False,7.5,114,2023-03-31T22:28:01,Washington Wizards,Orlando Magic
+2023-03-28,e5e549c2915bd7542fbc8445764976e1,fanduel,player_rebounds_over_under,kristaps porzingis,True,8.5,108,2023-03-31T22:06:01,Washington Wizards,Orlando Magic
+2023-03-28,e5e549c2915bd7542fbc8445764976e1,fanduel,player_rebounds_over_under,kristaps porzingis,True,7.5,-140,2023-03-31T22:28:01,Washington Wizards,Orlando Magic
+2023-03-28,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,kristaps porzingis,False,26.5,-115,2023-03-31T21:46:01,Washington Wizards,Orlando Magic
+2023-03-28,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,kristaps porzingis,False,25.5,-115,2023-03-31T22:28:01,Washington Wizards,Orlando Magic
+2023-03-28,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,kristaps porzingis,False,24.5,-104,2023-03-31T22:12:01,Washington Wizards,Orlando Magic
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_rebounds_over_under,kristaps porzingis,True,11.5,-122,2023-03-29T01:00:01,Washington Wizards,Boston Celtics
+2023-03-28,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,kristaps porzingis,True,25.5,-105,2023-03-31T22:28:01,Washington Wizards,Orlando Magic
+2023-03-28,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,kristaps porzingis,True,24.5,-118,2023-03-31T22:12:01,Washington Wizards,Orlando Magic
+2023-03-28,e5e549c2915bd7542fbc8445764976e1,fanduel,player_assists_over_under,kristaps porzingis,False,2.5,126,2023-03-31T22:28:01,Washington Wizards,Orlando Magic
+2023-03-28,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,kristaps porzingis,True,26.5,-105,2023-03-31T21:46:01,Washington Wizards,Orlando Magic
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_rebounds_over_under,kristaps porzingis,False,10.5,-158,2023-03-29T00:45:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_threes_over_under,kristaps porzingis,False,3.5,-650,2023-03-29T01:00:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_threes_over_under,kristaps porzingis,False,2.5,162,2023-03-29T00:15:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_threes_over_under,kristaps porzingis,False,1.5,-146,2023-03-28T23:45:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_threes_over_under,kristaps porzingis,True,3.5,390,2023-03-29T01:00:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_threes_over_under,kristaps porzingis,True,2.5,-220,2023-03-29T00:15:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_threes_over_under,kristaps porzingis,True,1.5,110,2023-03-28T23:45:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_rebounds_over_under,kristaps porzingis,False,8.5,-138,2023-03-28T23:15:02,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_steals_over_under,kristaps porzingis,False,0.5,-3500,2023-03-29T01:00:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_steals_over_under,kristaps porzingis,True,0.5,920,2023-03-29T01:00:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_rebounds_over_under,kristaps porzingis,False,11.5,-108,2023-03-29T01:00:01,Washington Wizards,Boston Celtics
+2023-03-28,e5e549c2915bd7542fbc8445764976e1,fanduel,player_assists_over_under,kristaps porzingis,True,2.5,-154,2023-03-31T22:28:01,Washington Wizards,Orlando Magic
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_rebounds_over_under,kristaps porzingis,False,7.5,-130,2023-10-26T01:20:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_rebounds_over_under,kristaps porzingis,False,6.5,150,2023-10-26T01:30:47,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_rebounds_over_under,kristaps porzingis,True,8.5,100,2023-10-26T00:16:01,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_rebounds_over_under,kristaps porzingis,True,7.5,-110,2023-10-26T01:20:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_rebounds_over_under,kristaps porzingis,False,7.5,-220,2023-10-26T01:45:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,betmgm,player_rebounds_over_under,kristaps porzingis,False,7.5,-115,2023-10-25T23:15:06,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,betmgm,player_rebounds_over_under,kristaps porzingis,True,7.5,-115,2023-10-25T23:15:06,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_rebounds_over_under,kristaps porzingis,False,8.5,-800,2023-10-26T01:50:43,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_rebounds_over_under,kristaps porzingis,False,6.5,125,2023-10-26T01:35:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_rebounds_over_under,kristaps porzingis,True,6.5,-225,2023-10-26T01:30:47,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_rebounds_over_under,kristaps porzingis,False,8.5,-140,2023-10-26T00:16:01,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_steals_over_under,kristaps porzingis,True,0.5,260,2023-10-26T01:00:29,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,betrivers,player_rebounds_over_under,kristaps porzingis,True,7.5,-122,2023-10-25T23:01:07,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,betrivers,player_rebounds_over_under,kristaps porzingis,True,8.5,148,2023-10-25T23:01:07,New York Knicks,Boston Celtics
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_steals_over_under,kristaps porzingis,True,0.5,-115,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_steals_over_under,kristaps porzingis,False,0.5,-110,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_steals_over_under,kristaps porzingis,True,0.5,1000,2023-10-26T01:45:06,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_steals_over_under,kristaps porzingis,False,0.5,-100000,2023-10-26T01:51:01,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_steals_over_under,kristaps porzingis,True,0.5,950,2023-10-26T01:40:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_steals_over_under,kristaps porzingis,False,0.5,-4000,2023-10-26T01:40:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,betmgm,player_steals_over_under,kristaps porzingis,True,0.5,-120,2023-10-25T23:15:06,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,betmgm,player_steals_over_under,kristaps porzingis,False,0.5,-110,2023-10-25T23:15:06,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_steals_over_under,kristaps porzingis,False,0.5,-425,2023-10-26T01:00:29,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_threes_over_under,kristaps porzingis,True,1.5,-112,2023-10-25T23:30:14,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,betrivers,player_rebounds_over_under,kristaps porzingis,True,6.5,-235,2023-10-25T23:01:07,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_rebounds_over_under,kristaps porzingis,True,7.5,160,2023-10-26T01:45:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,betrivers,player_points_over_under,kristaps porzingis,True,18.5,-113,2023-10-25T23:01:07,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,pinnacle,player_rebounds_over_under,kristaps porzingis,False,7.5,-114,2023-10-25T15:00:08,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_threes_over_under,kristaps porzingis,True,2.5,124,2023-10-25T23:35:46,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_points_over_under,kristaps porzingis,True,24.5,-115,2023-10-26T00:35:07,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_points_over_under,kristaps porzingis,True,27.5,-110,2023-10-26T00:10:24,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_points_over_under,kristaps porzingis,True,29.5,-110,2023-10-25T23:45:46,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_points_over_under,kristaps porzingis,False,17.5,-115,2023-10-25T23:20:09,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_points_over_under,kristaps porzingis,False,18.5,-115,2023-10-25T23:16:13,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_points_over_under,kristaps porzingis,False,19.5,-135,2023-10-25T11:10:14,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_points_over_under,kristaps porzingis,False,21.5,100,2023-10-26T01:20:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_points_over_under,kristaps porzingis,False,23.5,-140,2023-10-26T01:35:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_points_over_under,kristaps porzingis,False,24.5,-125,2023-10-26T00:35:07,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_points_over_under,kristaps porzingis,False,27.5,-130,2023-10-26T00:10:24,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_points_over_under,kristaps porzingis,False,29.5,-130,2023-10-25T23:45:46,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,betrivers,player_points_over_under,kristaps porzingis,True,15.5,-286,2023-10-25T23:01:07,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,betrivers,player_points_over_under,kristaps porzingis,True,16.5,-200,2023-10-25T23:01:07,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,betrivers,player_points_over_under,kristaps porzingis,True,17.5,-148,2023-10-25T23:01:07,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,betrivers,player_points_over_under,kristaps porzingis,True,19.5,114,2023-10-25T23:01:07,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,betrivers,player_points_over_under,kristaps porzingis,True,20.5,143,2023-10-25T23:01:07,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,betrivers,player_points_over_under,kristaps porzingis,True,21.5,180,2023-10-25T23:01:07,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_rebounds_over_under,kristaps porzingis,True,6.5,-154,2023-10-26T01:35:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_rebounds_over_under,kristaps porzingis,True,7.5,-112,2023-10-26T01:40:09,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_rebounds_over_under,kristaps porzingis,True,8.5,1000,2023-10-26T01:51:01,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_rebounds_over_under,kristaps porzingis,False,6.5,116,2023-10-26T01:35:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_rebounds_over_under,kristaps porzingis,False,7.5,-118,2023-10-26T01:40:09,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_rebounds_over_under,kristaps porzingis,False,8.5,-50000,2023-10-26T01:51:01,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,pinnacle,player_rebounds_over_under,kristaps porzingis,True,7.5,-116,2023-10-25T15:00:08,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_rebounds_over_under,kristaps porzingis,True,6.5,-165,2023-10-26T01:35:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_threes_over_under,kristaps porzingis,True,3.5,250,2023-10-26T01:20:04,New York Knicks,Boston Celtics
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,kristaps porzingis,False,19.5,-140,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_threes_over_under,kristaps porzingis,False,1.5,-118,2023-10-25T23:30:14,New York Knicks,Boston Celtics
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_assists_over_under,kristaps porzingis,True,2.5,-105,2023-10-24T13:15:07,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_assists_over_under,kristaps porzingis,False,2.5,-115,2023-10-22T14:00:30,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_assists_over_under,kristaps porzingis,True,2.5,-110,2023-10-24T03:00:15,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_assists_over_under,kristaps porzingis,True,3.5,225,2023-10-24T18:00:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_assists_over_under,kristaps porzingis,False,2.5,-120,2023-10-24T03:00:15,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_assists_over_under,kristaps porzingis,False,3.5,-320,2023-10-24T18:00:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,betrivers,player_assists_over_under,kristaps porzingis,True,2.5,105,2023-10-24T18:00:16,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_blocks_over_under,kristaps porzingis,True,1.5,140,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_blocks_over_under,kristaps porzingis,False,1.5,-180,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,kristaps porzingis,True,16.5,-200,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,kristaps porzingis,True,17.5,-155,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,kristaps porzingis,True,19.5,110,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,kristaps porzingis,True,20.5,130,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,kristaps porzingis,False,16.5,155,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,kristaps porzingis,False,17.5,120,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,kristaps porzingis,False,20.5,-170,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,betrivers,player_points_over_under,kristaps porzingis,True,18.5,-114,2023-10-24T18:00:16,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,betrivers,player_rebounds_over_under,kristaps porzingis,True,7.5,-115,2023-10-24T18:00:16,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_steals_over_under,kristaps porzingis,True,0.5,-115,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_steals_over_under,kristaps porzingis,False,0.5,-110,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_threes_over_under,kristaps porzingis,True,1.5,-160,2023-10-22T21:00:04,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_threes_over_under,kristaps porzingis,True,1.5,-160,2023-10-24T18:00:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_threes_over_under,kristaps porzingis,False,1.5,120,2023-10-24T18:00:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,betrivers,player_threes_over_under,kristaps porzingis,True,1.5,-182,2023-10-24T18:00:16,Denver Nuggets,Los Angeles Lakers
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_points_over_under,kristaps porzingis,True,23.5,100,2023-10-26T01:35:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,betrivers,player_threes_over_under,kristaps porzingis,True,2.5,180,2023-10-25T23:01:07,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,betrivers,player_threes_over_under,kristaps porzingis,True,1.5,-177,2023-10-25T23:01:07,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_threes_over_under,kristaps porzingis,False,4.5,-215,2023-10-26T00:10:24,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_threes_over_under,kristaps porzingis,False,3.5,-120,2023-10-26T01:00:29,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_threes_over_under,kristaps porzingis,False,2.5,-154,2023-10-25T23:35:46,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_threes_over_under,kristaps porzingis,False,3.5,-360,2023-10-26T01:20:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_threes_over_under,kristaps porzingis,False,4.5,-1100,2023-10-26T01:40:09,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_threes_over_under,kristaps porzingis,False,5.5,-5000,2023-10-26T01:51:01,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,pinnacle,player_threes_over_under,kristaps porzingis,True,1.5,-173,2023-10-25T17:35:22,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,pinnacle,player_threes_over_under,kristaps porzingis,False,1.5,129,2023-10-25T17:35:22,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_threes_over_under,kristaps porzingis,True,1.5,105,2023-10-25T23:26:00,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_threes_over_under,kristaps porzingis,True,2.5,110,2023-10-25T23:41:13,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_threes_over_under,kristaps porzingis,True,3.5,195,2023-10-26T01:20:27,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_threes_over_under,kristaps porzingis,True,4.5,450,2023-10-26T01:40:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_threes_over_under,kristaps porzingis,True,5.5,750,2023-10-26T01:45:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_threes_over_under,kristaps porzingis,False,1.5,-140,2023-10-25T23:26:00,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_threes_over_under,kristaps porzingis,True,4.5,550,2023-10-26T01:40:09,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_threes_over_under,kristaps porzingis,False,2.5,-150,2023-10-25T23:41:13,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_threes_over_under,kristaps porzingis,False,4.5,-750,2023-10-26T01:40:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_threes_over_under,kristaps porzingis,False,5.5,-2000,2023-10-26T01:45:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,betmgm,player_threes_over_under,kristaps porzingis,True,1.5,-145,2023-10-25T23:15:06,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,betmgm,player_threes_over_under,kristaps porzingis,False,1.5,110,2023-10-25T23:15:06,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_threes_over_under,kristaps porzingis,True,0.5,-700,2023-10-25T11:10:14,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_threes_over_under,kristaps porzingis,True,1.5,-135,2023-10-25T23:20:09,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_threes_over_under,kristaps porzingis,True,2.5,190,2023-10-25T11:10:14,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_threes_over_under,kristaps porzingis,True,3.5,-120,2023-10-26T01:00:29,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_threes_over_under,kristaps porzingis,True,4.5,145,2023-10-26T00:10:24,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_threes_over_under,kristaps porzingis,False,0.5,450,2023-10-25T11:10:14,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_threes_over_under,kristaps porzingis,False,1.5,-105,2023-10-25T23:20:09,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_threes_over_under,kristaps porzingis,False,2.5,-260,2023-10-25T11:10:14,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_threes_over_under,kristaps porzingis,False,3.5,-270,2023-10-26T01:20:27,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_points_over_under,kristaps porzingis,True,21.5,-140,2023-10-26T01:20:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_rebounds_over_under,kristaps porzingis,True,8.5,475,2023-10-26T01:50:43,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_points_over_under,kristaps porzingis,True,18.5,-115,2023-10-25T23:16:13,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_assists_over_under,kristaps porzingis,False,2.5,-240,2023-10-26T00:35:09,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_assists_over_under,kristaps porzingis,False,1.5,-200,2023-10-26T00:30:16,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_assists_over_under,kristaps porzingis,False,0.5,-100000,2023-10-26T01:51:01,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_assists_over_under,kristaps porzingis,True,2.5,174,2023-10-26T00:35:09,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_assists_over_under,kristaps porzingis,True,1.5,148,2023-10-26T00:30:16,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_assists_over_under,kristaps porzingis,True,0.5,1000,2023-10-26T01:51:01,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_points_over_under,kristaps porzingis,True,19.5,105,2023-10-25T11:10:14,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_blocks_over_under,kristaps porzingis,False,3.5,-140,2023-10-26T00:41:24,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_blocks_over_under,kristaps porzingis,False,4.5,-3000,2023-10-26T01:45:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,betmgm,player_blocks_over_under,kristaps porzingis,True,1.5,135,2023-10-25T23:15:06,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,betmgm,player_blocks_over_under,kristaps porzingis,False,1.5,-185,2023-10-25T23:15:06,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_blocks_over_under,kristaps porzingis,True,0.5,-260,2023-10-25T23:40:13,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_blocks_over_under,kristaps porzingis,True,1.5,-180,2023-10-26T00:10:24,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_assists_over_under,kristaps porzingis,True,0.5,600,2023-10-26T01:45:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_blocks_over_under,kristaps porzingis,True,3.5,100,2023-10-26T00:40:39,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_blocks_over_under,kristaps porzingis,False,0.5,170,2023-10-25T23:40:13,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_blocks_over_under,kristaps porzingis,False,1.5,125,2023-10-26T00:10:24,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_blocks_over_under,kristaps porzingis,False,3.5,-140,2023-10-26T00:40:39,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_blocks_over_under,kristaps porzingis,False,4.5,-165,2023-10-26T01:00:29,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,betrivers,player_blocks_over_under,kristaps porzingis,True,1.5,165,2023-10-25T23:01:07,New York Knicks,Boston Celtics
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,kristaps porzingis,True,16.5,-200,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,kristaps porzingis,True,17.5,-155,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,kristaps porzingis,True,19.5,110,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,kristaps porzingis,True,20.5,130,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,kristaps porzingis,False,16.5,155,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,kristaps porzingis,False,17.5,120,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,kristaps porzingis,False,20.5,-170,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_points_over_under,kristaps porzingis,True,17.5,-113,2023-10-25T23:20:12,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_blocks_over_under,kristaps porzingis,True,4.5,115,2023-10-26T01:00:29,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_assists_over_under,kristaps porzingis,True,1.5,170,2023-10-26T00:41:24,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_assists_over_under,kristaps porzingis,True,2.5,130,2023-10-25T23:30:05,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_assists_over_under,kristaps porzingis,False,0.5,-1400,2023-10-26T01:45:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_blocks_over_under,kristaps porzingis,False,1.5,120,2023-10-26T00:10:25,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_blocks_over_under,kristaps porzingis,False,0.5,185,2023-10-25T23:41:13,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_blocks_over_under,kristaps porzingis,True,4.5,850,2023-10-26T01:45:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_blocks_over_under,kristaps porzingis,True,3.5,105,2023-10-26T00:41:24,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_blocks_over_under,kristaps porzingis,True,1.5,-160,2023-10-26T00:10:25,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_blocks_over_under,kristaps porzingis,True,0.5,-260,2023-10-25T23:41:13,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_blocks_over_under,kristaps porzingis,False,4.5,-100000,2023-10-26T01:51:01,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_blocks_over_under,kristaps porzingis,False,3.5,-102,2023-10-26T00:30:16,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_blocks_over_under,kristaps porzingis,False,2.5,-210,2023-10-25T23:15:06,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_blocks_over_under,kristaps porzingis,False,1.5,124,2023-10-26T00:10:24,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_blocks_over_under,kristaps porzingis,False,0.5,182,2023-10-25T23:25:19,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_blocks_over_under,kristaps porzingis,True,4.5,1000,2023-10-26T01:51:01,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_blocks_over_under,kristaps porzingis,True,3.5,-130,2023-10-26T00:30:16,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_blocks_over_under,kristaps porzingis,True,2.5,154,2023-10-25T23:15:06,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_blocks_over_under,kristaps porzingis,True,1.5,-166,2023-10-26T00:10:24,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_blocks_over_under,kristaps porzingis,True,0.5,-250,2023-10-25T23:25:19,New York Knicks,Boston Celtics
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_blocks_over_under,kristaps porzingis,False,1.5,-180,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_blocks_over_under,kristaps porzingis,True,1.5,140,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,betrivers,player_assists_over_under,kristaps porzingis,True,2.5,108,2023-10-25T23:01:07,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_assists_over_under,kristaps porzingis,False,3.5,-300,2023-10-25T11:10:14,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_assists_over_under,kristaps porzingis,False,2.5,-140,2023-10-25T23:20:09,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_assists_over_under,kristaps porzingis,False,1.5,-240,2023-10-26T00:40:39,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_assists_over_under,kristaps porzingis,True,3.5,210,2023-10-25T11:10:14,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_assists_over_under,kristaps porzingis,True,2.5,100,2023-10-25T23:20:09,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_assists_over_under,kristaps porzingis,True,1.5,160,2023-10-26T00:40:39,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,betmgm,player_assists_over_under,kristaps porzingis,False,2.5,-120,2023-10-25T23:15:06,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,betmgm,player_assists_over_under,kristaps porzingis,True,2.5,-110,2023-10-25T23:15:06,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_assists_over_under,kristaps porzingis,False,2.5,-175,2023-10-25T23:30:05,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_assists_over_under,kristaps porzingis,False,1.5,-235,2023-10-26T00:41:24,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_points_over_under,kristaps porzingis,True,18.5,100,2023-10-25T23:15:06,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_points_over_under,kristaps porzingis,True,19.5,-108,2023-10-25T23:30:14,New York Knicks,Boston Celtics
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,kristaps porzingis,False,19.5,-140,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_points_over_under,kristaps porzingis,True,21.5,104,2023-10-26T01:20:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_points_over_under,kristaps porzingis,True,23.5,100,2023-10-26T01:40:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_points_over_under,kristaps porzingis,True,20.5,-132,2023-10-26T01:20:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_points_over_under,kristaps porzingis,True,25.5,-120,2023-10-26T00:10:25,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_points_over_under,kristaps porzingis,True,26.5,-115,2023-10-26T01:40:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_points_over_under,kristaps porzingis,True,27.5,-125,2023-10-26T00:06:16,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_points_over_under,kristaps porzingis,True,28.5,115,2023-10-26T01:45:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_points_over_under,kristaps porzingis,True,30.5,205,2023-10-26T01:50:43,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_points_over_under,kristaps porzingis,False,16.5,145,2023-10-25T23:10:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_points_over_under,kristaps porzingis,False,17.5,110,2023-10-25T23:10:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_points_over_under,kristaps porzingis,False,18.5,100,2023-10-25T16:05:31,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_points_over_under,kristaps porzingis,False,19.5,-145,2023-10-25T23:10:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_points_over_under,kristaps porzingis,False,20.5,-200,2023-10-25T23:10:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_points_over_under,kristaps porzingis,False,21.5,-215,2023-10-25T16:05:31,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_points_over_under,kristaps porzingis,False,17.5,-110,2023-10-25T23:26:00,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_points_over_under,kristaps porzingis,True,22.5,100,2023-10-26T01:10:27,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_points_over_under,kristaps porzingis,False,18.5,-125,2023-10-25T23:20:08,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_points_over_under,kristaps porzingis,False,21.5,-140,2023-10-26T01:20:27,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_points_over_under,kristaps porzingis,False,22.5,-130,2023-10-26T01:10:27,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_points_over_under,kristaps porzingis,False,23.5,-135,2023-10-26T01:40:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_points_over_under,kristaps porzingis,False,24.5,-115,2023-10-26T00:35:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_points_over_under,kristaps porzingis,False,25.5,-110,2023-10-26T00:10:25,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_points_over_under,kristaps porzingis,False,26.5,-115,2023-10-26T01:40:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_points_over_under,kristaps porzingis,False,27.5,-105,2023-10-26T00:06:16,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_points_over_under,kristaps porzingis,False,28.5,-150,2023-10-26T01:45:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_points_over_under,kristaps porzingis,False,30.5,-290,2023-10-26T01:50:43,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,betmgm,player_points_over_under,kristaps porzingis,True,18.5,-115,2023-10-25T23:15:06,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,betmgm,player_points_over_under,kristaps porzingis,True,19.5,-105,2023-10-25T16:10:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,betmgm,player_points_over_under,kristaps porzingis,False,18.5,-115,2023-10-25T23:15:06,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,betmgm,player_points_over_under,kristaps porzingis,False,19.5,-130,2023-10-25T16:10:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,barstool,player_points_over_under,kristaps porzingis,True,17.5,-125,2023-10-25T23:20:09,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_points_over_under,kristaps porzingis,False,19.5,-115,2023-10-26T01:00:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_points_over_under,kristaps porzingis,True,21.5,105,2023-10-26T01:20:27,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_points_over_under,kristaps porzingis,True,24.5,-115,2023-10-26T00:35:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_points_over_under,kristaps porzingis,True,18.5,-110,2023-10-25T23:20:08,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_points_over_under,kristaps porzingis,True,22.5,106,2023-10-26T01:35:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_points_over_under,kristaps porzingis,True,23.5,126,2023-10-26T01:25:13,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_points_over_under,kristaps porzingis,True,24.5,164,2023-10-26T01:40:09,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_points_over_under,kristaps porzingis,True,26.5,-113,2023-10-26T00:10:24,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_points_over_under,kristaps porzingis,True,27.5,-104,2023-10-26T00:05:10,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_points_over_under,kristaps porzingis,True,28.5,-125,2023-10-26T01:45:06,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_points_over_under,kristaps porzingis,True,30.5,285,2023-10-26T01:51:01,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_points_over_under,kristaps porzingis,False,17.5,-113,2023-10-25T23:20:12,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_points_over_under,kristaps porzingis,False,18.5,-122,2023-10-25T23:15:06,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_points_over_under,kristaps porzingis,False,19.5,-120,2023-10-25T23:30:14,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_points_over_under,kristaps porzingis,True,19.5,-115,2023-10-26T01:00:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_points_over_under,kristaps porzingis,False,21.5,-132,2023-10-26T01:20:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_points_over_under,kristaps porzingis,False,22.5,-136,2023-10-26T01:35:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_points_over_under,kristaps porzingis,False,23.5,-162,2023-10-26T01:25:13,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_points_over_under,kristaps porzingis,False,20.5,104,2023-10-26T01:20:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_points_over_under,kristaps porzingis,False,26.5,-113,2023-10-26T00:10:24,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_points_over_under,kristaps porzingis,False,27.5,-122,2023-10-26T00:05:10,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_points_over_under,kristaps porzingis,False,28.5,-102,2023-10-26T01:45:06,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_points_over_under,kristaps porzingis,False,30.5,-400,2023-10-26T01:51:01,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,pinnacle,player_points_over_under,kristaps porzingis,True,19.5,107,2023-10-25T15:00:08,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,pinnacle,player_points_over_under,kristaps porzingis,False,19.5,-142,2023-10-25T15:00:08,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_points_over_under,kristaps porzingis,True,16.5,-185,2023-10-25T23:10:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_points_over_under,kristaps porzingis,True,17.5,-140,2023-10-25T23:10:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_points_over_under,kristaps porzingis,True,18.5,-130,2023-10-25T16:05:31,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_points_over_under,kristaps porzingis,True,19.5,110,2023-10-25T23:10:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,player_points_over_under,kristaps porzingis,False,24.5,-215,2023-10-26T01:40:09,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_points_over_under,kristaps porzingis,True,20.5,155,2023-10-25T23:10:04,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_points_over_under,kristaps porzingis,True,21.5,165,2023-10-25T16:05:31,New York Knicks,Boston Celtics
+2023-10-25,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,player_points_over_under,kristaps porzingis,True,17.5,-120,2023-10-25T23:26:00,New York Knicks,Boston Celtics
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_points_over_under,kristaps porzingis,False,18.5,135,2023-10-27T23:52:31,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_points_over_under,kristaps porzingis,False,19.5,105,2023-10-27T23:52:31,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_points_over_under,kristaps porzingis,False,17.5,160,2023-10-27T23:20:30,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_points_over_under,kristaps porzingis,True,23.5,100,2023-10-28T01:10:13,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_points_over_under,kristaps porzingis,False,20.5,-130,2023-10-27T23:20:30,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_points_over_under,kristaps porzingis,True,21.5,105,2023-10-28T01:25:08,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_points_over_under,kristaps porzingis,True,20.5,-105,2023-10-28T01:45:09,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_points_over_under,kristaps porzingis,True,19.5,-140,2023-10-28T01:35:05,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_points_over_under,kristaps porzingis,True,22.5,-105,2023-10-28T01:21:17,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_points_over_under,kristaps porzingis,False,21.5,-150,2023-10-27T23:52:31,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_rebounds_over_under,kristaps porzingis,False,7.5,-186,2023-10-28T01:10:28,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_points_over_under,kristaps porzingis,False,13.5,-105,2023-10-28T00:20:14,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,betrivers,player_points_over_under,kristaps porzingis,True,17.5,-225,2023-10-27T23:45:07,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,betrivers,player_points_over_under,kristaps porzingis,True,18.5,-165,2023-10-27T23:45:07,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,betrivers,player_points_over_under,kristaps porzingis,True,19.5,-124,2023-10-27T23:45:07,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,betrivers,player_points_over_under,kristaps porzingis,True,20.5,104,2023-10-27T23:45:07,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,betrivers,player_points_over_under,kristaps porzingis,True,21.5,128,2023-10-27T23:45:07,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,betrivers,player_points_over_under,kristaps porzingis,True,22.5,160,2023-10-27T23:45:07,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,betrivers,player_points_over_under,kristaps porzingis,True,23.5,200,2023-10-27T23:45:07,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_rebounds_over_under,kristaps porzingis,True,5.5,100,2023-10-28T01:35:06,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_rebounds_over_under,kristaps porzingis,True,6.5,-130,2023-10-28T01:45:10,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_rebounds_over_under,kristaps porzingis,True,7.5,136,2023-10-28T01:10:28,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,betrivers,player_points_over_under,kristaps porzingis,True,16.5,-315,2023-10-27T23:45:07,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_rebounds_over_under,kristaps porzingis,True,8.5,-130,2023-10-27T23:55:13,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_rebounds_over_under,kristaps porzingis,True,9.5,116,2023-10-28T01:50:05,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_rebounds_over_under,kristaps porzingis,False,5.5,-132,2023-10-28T01:35:06,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_rebounds_over_under,kristaps porzingis,False,6.5,-102,2023-10-28T01:45:10,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_points_over_under,kristaps porzingis,True,18.5,-130,2023-10-28T01:50:23,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_rebounds_over_under,kristaps porzingis,False,8.5,-102,2023-10-27T23:55:13,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_rebounds_over_under,kristaps porzingis,False,9.0,1000,2023-10-28T01:55:23,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_rebounds_over_under,kristaps porzingis,False,9.5,-154,2023-10-28T01:50:05,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,pinnacle,player_rebounds_over_under,kristaps porzingis,True,7.5,-148,2023-10-27T23:20:42,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,pinnacle,player_rebounds_over_under,kristaps porzingis,True,8.5,107,2023-10-27T23:05:13,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,pinnacle,player_rebounds_over_under,kristaps porzingis,False,7.5,111,2023-10-27T23:20:42,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_rebounds_over_under,kristaps porzingis,True,9.0,1000,2023-10-28T01:55:23,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_points_over_under,kristaps porzingis,False,21.5,-135,2023-10-28T01:26:14,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_points_over_under,kristaps porzingis,False,20.5,-140,2023-10-28T01:45:56,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_points_over_under,kristaps porzingis,False,19.5,-125,2023-10-27T23:51:13,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_points_over_under,kristaps porzingis,False,14.5,-120,2023-10-28T00:26:03,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_points_over_under,kristaps porzingis,False,15.5,-120,2023-10-28T01:05:06,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_points_over_under,kristaps porzingis,False,16.5,-115,2023-10-28T00:40:14,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_points_over_under,kristaps porzingis,False,17.5,-110,2023-10-28T01:55:15,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_points_over_under,kristaps porzingis,False,18.5,-105,2023-10-28T01:50:23,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_points_over_under,kristaps porzingis,False,19.5,105,2023-10-28T01:35:05,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_points_over_under,kristaps porzingis,False,20.5,-130,2023-10-28T01:45:09,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_points_over_under,kristaps porzingis,False,21.5,-135,2023-10-28T01:25:08,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_points_over_under,kristaps porzingis,False,22.5,-130,2023-10-28T01:21:17,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_points_over_under,kristaps porzingis,False,23.5,-130,2023-10-28T01:10:13,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,betmgm,player_points_over_under,kristaps porzingis,True,20.5,-110,2023-10-27T16:35:15,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,betmgm,player_points_over_under,kristaps porzingis,False,20.5,-120,2023-10-27T16:35:15,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_points_over_under,kristaps porzingis,True,14.5,-110,2023-10-28T00:20:10,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_points_over_under,kristaps porzingis,True,15.5,-125,2023-10-28T01:05:18,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_points_over_under,kristaps porzingis,True,16.5,-135,2023-10-28T00:40:05,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_points_over_under,kristaps porzingis,True,18.5,-125,2023-10-27T23:55:13,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_points_over_under,kristaps porzingis,True,19.5,-115,2023-10-27T23:51:13,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_points_over_under,kristaps porzingis,True,20.5,100,2023-10-28T01:45:56,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_points_over_under,kristaps porzingis,True,21.5,-105,2023-10-28T01:26:14,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_points_over_under,kristaps porzingis,False,14.5,-130,2023-10-28T00:20:10,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_points_over_under,kristaps porzingis,False,15.5,-115,2023-10-28T01:05:18,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_points_over_under,kristaps porzingis,False,16.5,-105,2023-10-28T00:40:05,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_points_over_under,kristaps porzingis,False,18.5,-115,2023-10-27T23:55:13,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_points_over_under,kristaps porzingis,False,22.5,-190,2023-10-27T23:52:31,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_points_over_under,kristaps porzingis,True,17.5,-120,2023-10-28T01:55:15,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_points_over_under,kristaps porzingis,True,21.5,108,2023-10-28T01:25:23,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_points_over_under,kristaps porzingis,True,15.5,-125,2023-10-28T01:05:06,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_blocks_over_under,kristaps porzingis,True,1.5,200,2023-10-28T01:45:56,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_blocks_over_under,kristaps porzingis,True,0.5,160,2023-10-28T01:26:14,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,betmgm,player_blocks_over_under,kristaps porzingis,False,1.5,105,2023-10-27T16:45:28,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,betmgm,player_blocks_over_under,kristaps porzingis,True,1.5,-145,2023-10-27T16:35:15,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_blocks_over_under,kristaps porzingis,False,1.5,-1000,2023-10-28T01:55:15,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_blocks_over_under,kristaps porzingis,False,0.5,-340,2023-10-28T01:35:05,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_blocks_over_under,kristaps porzingis,True,1.5,500,2023-10-28T01:55:15,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_blocks_over_under,kristaps porzingis,True,0.5,240,2023-10-28T01:35:05,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_blocks_over_under,kristaps porzingis,False,1.5,-1200,2023-10-28T01:50:05,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_blocks_over_under,kristaps porzingis,False,1.0,1000,2023-10-28T01:55:23,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_blocks_over_under,kristaps porzingis,False,0.5,-360,2023-10-28T01:35:06,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_blocks_over_under,kristaps porzingis,True,1.5,580,2023-10-28T01:50:05,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_blocks_over_under,kristaps porzingis,True,1.0,1000,2023-10-28T01:55:23,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_blocks_over_under,kristaps porzingis,True,0.5,250,2023-10-28T01:35:06,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_assists_over_under,kristaps porzingis,False,1.5,-225,2023-10-28T00:35:20,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_assists_over_under,kristaps porzingis,True,1.5,150,2023-10-28T00:35:20,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,betmgm,player_assists_over_under,kristaps porzingis,False,1.5,130,2023-10-27T16:35:15,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,betmgm,player_assists_over_under,kristaps porzingis,True,1.5,-175,2023-10-27T15:30:04,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_assists_over_under,kristaps porzingis,False,1.5,-900,2023-10-28T01:55:15,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_assists_over_under,kristaps porzingis,False,0.5,180,2023-10-28T00:35:21,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_assists_over_under,kristaps porzingis,True,1.5,500,2023-10-28T01:55:15,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_assists_over_under,kristaps porzingis,True,0.5,-245,2023-10-28T00:35:21,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_assists_over_under,kristaps porzingis,False,2.5,-158,2023-10-28T00:25:30,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_assists_over_under,kristaps porzingis,False,1.5,-900,2023-10-28T01:50:05,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_assists_over_under,kristaps porzingis,False,1.0,1000,2023-10-28T01:55:23,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_assists_over_under,kristaps porzingis,False,0.5,188,2023-10-28T00:35:06,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_assists_over_under,kristaps porzingis,True,2.5,118,2023-10-28T00:25:30,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_assists_over_under,kristaps porzingis,True,1.5,490,2023-10-28T01:50:05,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_assists_over_under,kristaps porzingis,True,1.0,1000,2023-10-28T01:55:23,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_blocks_over_under,kristaps porzingis,False,0.5,-240,2023-10-28T01:26:14,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_points_over_under,kristaps porzingis,True,16.5,-115,2023-10-28T00:40:14,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_blocks_over_under,kristaps porzingis,False,1.5,-300,2023-10-28T01:45:56,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_points_over_under,kristaps porzingis,True,13.5,-118,2023-10-28T00:25:30,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_points_over_under,kristaps porzingis,True,14.5,-110,2023-10-28T00:26:03,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_points_over_under,kristaps porzingis,True,13.5,-125,2023-10-28T00:20:14,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_points_over_under,kristaps porzingis,True,22.5,145,2023-10-27T23:52:31,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_points_over_under,kristaps porzingis,True,21.5,120,2023-10-27T23:52:31,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_points_over_under,kristaps porzingis,True,20.5,100,2023-10-27T23:20:30,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_points_over_under,kristaps porzingis,True,19.5,-135,2023-10-27T23:52:31,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_points_over_under,kristaps porzingis,True,18.5,-175,2023-10-27T23:52:31,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_points_over_under,kristaps porzingis,True,17.5,-210,2023-10-27T23:20:30,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,pinnacle,player_points_over_under,kristaps porzingis,False,20.5,-146,2023-10-27T23:20:42,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,pinnacle,player_points_over_under,kristaps porzingis,False,19.5,-122,2023-10-27T22:40:52,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,pinnacle,player_points_over_under,kristaps porzingis,True,20.5,110,2023-10-27T23:20:42,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,pinnacle,player_points_over_under,kristaps porzingis,True,19.5,-108,2023-10-27T22:40:52,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_points_over_under,kristaps porzingis,False,22.5,108,2023-10-28T01:16:02,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_points_over_under,kristaps porzingis,False,21.5,-138,2023-10-28T01:25:23,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_points_over_under,kristaps porzingis,False,20.5,-146,2023-10-28T01:35:06,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_points_over_under,kristaps porzingis,False,19.5,-164,2023-10-28T01:50:05,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_points_over_under,kristaps porzingis,False,18.5,-125,2023-10-28T02:00:35,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_points_over_under,kristaps porzingis,False,16.5,-106,2023-10-28T00:05:10,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_points_over_under,kristaps porzingis,False,15.5,106,2023-10-28T00:40:34,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_points_over_under,kristaps porzingis,False,14.5,-122,2023-10-28T01:06:40,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_points_over_under,kristaps porzingis,False,13.5,-108,2023-10-28T00:25:30,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_points_over_under,kristaps porzingis,True,22.5,-138,2023-10-28T01:16:02,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,pinnacle,player_rebounds_over_under,kristaps porzingis,False,8.5,-142,2023-10-27T23:05:13,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_points_over_under,kristaps porzingis,True,20.5,114,2023-10-28T01:35:06,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_points_over_under,kristaps porzingis,True,19.5,128,2023-10-28T01:50:05,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_points_over_under,kristaps porzingis,True,18.5,-102,2023-10-28T02:00:35,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_points_over_under,kristaps porzingis,True,16.5,-120,2023-10-28T00:05:10,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_points_over_under,kristaps porzingis,True,15.5,-136,2023-10-28T00:40:34,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_points_over_under,kristaps porzingis,True,14.5,-104,2023-10-28T01:06:40,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,betrivers,player_blocks_over_under,kristaps porzingis,True,1.5,-139,2023-10-27T23:45:07,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_rebounds_over_under,kristaps porzingis,True,5.5,100,2023-10-28T01:35:05,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_threes_over_under,kristaps porzingis,True,1.5,-170,2023-10-28T01:10:07,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_rebounds_over_under,kristaps porzingis,True,7.5,110,2023-10-28T00:40:14,Boston Celtics,Miami Heat
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,barstool,player_points_over_under,kristaps porzingis,False,19.5,-105,2023-10-30T05:20:44,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,fanduel,player_rebounds_over_under,kristaps porzingis,True,8.5,-104,2023-10-30T04:20:21,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,fanduel,player_rebounds_over_under,kristaps porzingis,False,8.5,-122,2023-10-30T04:40:04,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,pinnacle,player_rebounds_over_under,kristaps porzingis,True,8.5,-114,2023-10-29T23:40:30,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,pinnacle,player_rebounds_over_under,kristaps porzingis,False,8.5,-116,2023-10-29T23:40:30,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_rebounds_over_under,kristaps porzingis,True,8.5,-110,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_rebounds_over_under,kristaps porzingis,False,8.5,-115,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,barstool,player_rebounds_over_under,kristaps porzingis,True,8.5,-115,2023-10-30T05:20:44,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,barstool,player_rebounds_over_under,kristaps porzingis,False,8.5,-115,2023-10-30T05:20:44,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_steals_over_under,kristaps porzingis,True,0.5,-170,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_steals_over_under,kristaps porzingis,False,0.5,130,2023-10-30T05:55:37,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,fanduel,player_threes_over_under,kristaps porzingis,True,1.5,-188,2023-10-30T05:25:05,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,fanduel,player_threes_over_under,kristaps porzingis,True,2.5,158,2023-10-30T05:30:22,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,fanduel,player_threes_over_under,kristaps porzingis,False,1.5,146,2023-10-30T05:25:05,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,fanduel,player_threes_over_under,kristaps porzingis,False,2.5,-205,2023-10-30T05:30:22,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,pinnacle,player_threes_over_under,kristaps porzingis,True,1.5,-203,2023-10-29T23:40:30,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,pinnacle,player_threes_over_under,kristaps porzingis,True,2.5,148,2023-10-29T23:40:30,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,pinnacle,player_threes_over_under,kristaps porzingis,False,1.5,147,2023-10-29T23:40:30,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,pinnacle,player_threes_over_under,kristaps porzingis,False,2.5,-205,2023-10-29T23:40:30,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_threes_over_under,kristaps porzingis,True,1.5,-190,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_threes_over_under,kristaps porzingis,True,2.5,145,2023-10-30T05:30:04,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_threes_over_under,kristaps porzingis,False,1.5,150,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_threes_over_under,kristaps porzingis,False,2.5,-185,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,barstool,player_threes_over_under,kristaps porzingis,True,1.5,-200,2023-10-30T05:20:44,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,barstool,player_threes_over_under,kristaps porzingis,True,2.5,140,2023-10-30T05:20:44,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,barstool,player_threes_over_under,kristaps porzingis,False,1.5,145,2023-10-30T05:20:44,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,barstool,player_threes_over_under,kristaps porzingis,False,2.5,-195,2023-10-30T05:20:44,Washington Wizards,Boston Celtics
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,betrivers,player_threes_over_under,kristaps porzingis,True,2.5,120,2023-10-27T23:45:07,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,betrivers,player_threes_over_under,kristaps porzingis,True,1.5,-275,2023-10-27T23:45:07,Boston Celtics,Miami Heat
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,barstool,player_points_over_under,kristaps porzingis,True,19.5,-125,2023-10-30T05:20:44,Washington Wizards,Boston Celtics
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_threes_over_under,kristaps porzingis,False,2.5,-185,2023-10-28T01:45:56,Boston Celtics,Miami Heat
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,kristaps porzingis,False,20.5,-125,2023-10-30T04:30:34,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,kristaps porzingis,False,22.5,-200,2023-10-30T04:30:34,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,fanduel,player_assists_over_under,kristaps porzingis,True,2.5,144,2023-10-30T04:20:21,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,fanduel,player_assists_over_under,kristaps porzingis,False,2.5,-186,2023-10-30T04:20:21,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_assists_over_under,kristaps porzingis,True,2.5,145,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_assists_over_under,kristaps porzingis,False,2.5,-185,2023-10-30T05:20:32,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,barstool,player_assists_over_under,kristaps porzingis,True,1.5,-200,2023-10-30T05:20:44,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,barstool,player_assists_over_under,kristaps porzingis,True,2.5,140,2023-10-30T05:20:44,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,barstool,player_assists_over_under,kristaps porzingis,False,1.5,145,2023-10-30T05:20:44,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,barstool,player_assists_over_under,kristaps porzingis,False,2.5,-195,2023-10-30T05:20:44,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_blocks_over_under,kristaps porzingis,True,1.5,115,2023-10-30T02:55:46,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_blocks_over_under,kristaps porzingis,False,1.5,-150,2023-10-30T06:00:12,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,fanduel,player_points_over_under,kristaps porzingis,True,19.5,-115,2023-10-30T05:30:22,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,fanduel,player_points_over_under,kristaps porzingis,False,19.5,-111,2023-10-30T05:30:22,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,pinnacle,player_points_over_under,kristaps porzingis,True,19.5,-122,2023-10-29T23:40:30,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,pinnacle,player_points_over_under,kristaps porzingis,True,20.5,-110,2023-10-29T23:40:30,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,pinnacle,player_points_over_under,kristaps porzingis,False,19.5,-109,2023-10-29T23:40:30,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,pinnacle,player_points_over_under,kristaps porzingis,False,20.5,-121,2023-10-29T23:40:30,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,kristaps porzingis,True,17.5,-195,2023-10-30T04:30:34,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,kristaps porzingis,True,18.5,-150,2023-10-30T04:30:34,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,kristaps porzingis,True,19.5,-130,2023-10-30T04:30:34,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,kristaps porzingis,True,20.5,110,2023-10-30T04:30:34,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,kristaps porzingis,True,21.5,135,2023-10-30T04:30:34,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,kristaps porzingis,True,22.5,155,2023-10-30T04:30:34,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,kristaps porzingis,True,19.5,-120,2023-10-30T04:30:34,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,kristaps porzingis,True,20.5,100,2023-10-30T04:30:34,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,kristaps porzingis,False,17.5,150,2023-10-30T04:30:34,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,kristaps porzingis,False,18.5,120,2023-10-30T04:30:34,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,kristaps porzingis,False,19.5,100,2023-10-30T04:30:34,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,kristaps porzingis,False,20.5,-140,2023-10-30T04:30:34,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,kristaps porzingis,False,21.5,-175,2023-10-30T04:30:34,Washington Wizards,Boston Celtics
+2023-10-27,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,player_points_over_under,kristaps porzingis,False,19.5,-105,2023-10-30T06:00:12,Washington Wizards,Boston Celtics
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_rebounds_over_under,kristaps porzingis,True,6.5,-140,2023-10-28T01:45:09,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_threes_over_under,kristaps porzingis,False,1.5,120,2023-10-28T01:10:07,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_threes_over_under,kristaps porzingis,True,2.5,130,2023-10-28T01:45:56,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_steals_over_under,kristaps porzingis,False,3.0,1000,2023-10-28T01:55:23,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_steals_over_under,kristaps porzingis,False,2.5,-800,2023-10-28T01:25:23,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_steals_over_under,kristaps porzingis,False,1.5,-250,2023-10-28T00:50:08,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_steals_over_under,kristaps porzingis,False,0.5,-225,2023-10-28T00:35:06,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_steals_over_under,kristaps porzingis,True,3.5,1000,2023-10-28T01:50:05,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_steals_over_under,kristaps porzingis,True,3.0,1000,2023-10-28T01:55:23,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_steals_over_under,kristaps porzingis,True,2.5,450,2023-10-28T01:25:23,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_steals_over_under,kristaps porzingis,True,1.5,182,2023-10-28T00:50:08,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_steals_over_under,kristaps porzingis,True,0.5,164,2023-10-28T00:35:06,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,betrivers,player_rebounds_over_under,kristaps porzingis,True,8.5,133,2023-10-27T23:45:07,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,betrivers,player_rebounds_over_under,kristaps porzingis,True,7.5,-134,2023-10-27T23:45:07,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,betrivers,player_rebounds_over_under,kristaps porzingis,True,6.5,-240,2023-10-27T18:40:08,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_rebounds_over_under,kristaps porzingis,False,8.5,-105,2023-10-27T23:55:13,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_rebounds_over_under,kristaps porzingis,False,7.5,-170,2023-10-28T01:10:07,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_rebounds_over_under,kristaps porzingis,False,6.5,-105,2023-10-28T01:45:56,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_rebounds_over_under,kristaps porzingis,False,5.5,130,2023-10-28T01:26:14,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_rebounds_over_under,kristaps porzingis,True,8.5,-135,2023-10-27T23:55:13,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_rebounds_over_under,kristaps porzingis,True,7.5,120,2023-10-28T01:10:07,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_rebounds_over_under,kristaps porzingis,True,6.5,-135,2023-10-28T01:45:56,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_rebounds_over_under,kristaps porzingis,True,5.5,-185,2023-10-28T01:26:14,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,betmgm,player_rebounds_over_under,kristaps porzingis,False,7.5,110,2023-10-27T15:30:04,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,betmgm,player_rebounds_over_under,kristaps porzingis,True,7.5,-145,2023-10-27T12:55:05,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_rebounds_over_under,kristaps porzingis,False,9.5,-145,2023-10-28T01:50:23,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_rebounds_over_under,kristaps porzingis,False,8.5,-140,2023-10-27T23:20:30,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_rebounds_over_under,kristaps porzingis,False,7.5,-145,2023-10-28T00:40:14,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_rebounds_over_under,kristaps porzingis,False,6.5,105,2023-10-28T01:45:09,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_rebounds_over_under,kristaps porzingis,False,5.5,-130,2023-10-28T01:35:05,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_rebounds_over_under,kristaps porzingis,True,9.5,110,2023-10-28T01:50:23,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_rebounds_over_under,kristaps porzingis,True,8.5,110,2023-10-27T23:20:30,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_steals_over_under,kristaps porzingis,False,3.5,-4500,2023-10-28T01:50:05,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_threes_over_under,kristaps porzingis,False,0.5,160,2023-10-28T01:05:18,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_steals_over_under,kristaps porzingis,True,0.5,160,2023-10-28T00:35:21,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_steals_over_under,kristaps porzingis,True,2.5,425,2023-10-28T01:25:08,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_threes_over_under,kristaps porzingis,True,0.5,-240,2023-10-28T01:05:18,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,betmgm,player_threes_over_under,kristaps porzingis,False,2.5,-140,2023-10-27T16:35:15,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,betmgm,player_threes_over_under,kristaps porzingis,True,2.5,105,2023-10-27T16:35:15,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_threes_over_under,kristaps porzingis,False,2.5,-700,2023-10-28T01:55:15,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_threes_over_under,kristaps porzingis,False,1.5,125,2023-10-28T01:10:13,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_threes_over_under,kristaps porzingis,False,0.5,175,2023-10-28T01:05:06,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_threes_over_under,kristaps porzingis,True,2.5,425,2023-10-28T01:55:15,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_threes_over_under,kristaps porzingis,True,1.5,-165,2023-10-28T01:10:13,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_threes_over_under,kristaps porzingis,True,0.5,-240,2023-10-28T01:05:06,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,pinnacle,player_threes_over_under,kristaps porzingis,False,2.5,-162,2023-10-27T23:20:42,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,pinnacle,player_threes_over_under,kristaps porzingis,True,2.5,121,2023-10-27T23:20:42,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_threes_over_under,kristaps porzingis,False,2.5,-1000,2023-10-28T02:00:35,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_threes_over_under,kristaps porzingis,False,1.5,128,2023-10-28T01:10:28,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_threes_over_under,kristaps porzingis,False,0.5,172,2023-10-28T01:06:40,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_threes_over_under,kristaps porzingis,True,2.5,520,2023-10-28T02:00:35,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_threes_over_under,kristaps porzingis,True,1.5,-172,2023-10-28T01:10:28,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_threes_over_under,kristaps porzingis,True,0.5,-235,2023-10-28T01:06:40,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,betrivers,player_steals_over_under,kristaps porzingis,True,0.5,-137,2023-10-27T23:45:07,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_steals_over_under,kristaps porzingis,False,1.5,-250,2023-10-28T00:50:05,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_steals_over_under,kristaps porzingis,False,0.5,-190,2023-10-28T00:35:20,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_steals_over_under,kristaps porzingis,True,1.5,165,2023-10-28T00:50:05,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,barstool,player_steals_over_under,kristaps porzingis,True,0.5,135,2023-10-28T00:35:20,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,betmgm,player_steals_over_under,kristaps porzingis,False,0.5,100,2023-10-27T12:55:05,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,betmgm,player_steals_over_under,kristaps porzingis,True,0.5,-130,2023-10-27T16:45:28,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_steals_over_under,kristaps porzingis,False,3.5,-4000,2023-10-28T01:55:15,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_steals_over_under,kristaps porzingis,False,2.5,-750,2023-10-28T01:25:08,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_steals_over_under,kristaps porzingis,False,1.5,-255,2023-10-28T00:51:24,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_steals_over_under,kristaps porzingis,False,0.5,-215,2023-10-28T00:35:21,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_steals_over_under,kristaps porzingis,True,3.5,950,2023-10-28T01:55:15,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,draftkings,player_steals_over_under,kristaps porzingis,True,1.5,185,2023-10-28T00:51:24,Boston Celtics,Miami Heat
+2023-10-27,2837480dec215a9c39bcc7a8873280e2,fanduel,player_assists_over_under,kristaps porzingis,True,0.5,-260,2023-10-28T00:35:06,Boston Celtics,Miami Heat

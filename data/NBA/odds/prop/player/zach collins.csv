@@ -1,0 +1,743 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_assists_over_under,zach collins,False,3.5,100,2023-03-23T00:45:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_assists_over_under,zach collins,True,1.5,450,2023-03-23T02:00:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_assists_over_under,zach collins,True,2.5,-112,2023-03-23T01:15:02,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_assists_over_under,zach collins,True,3.5,-132,2023-03-23T00:45:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_assists_over_under,zach collins,False,1.5,-800,2023-03-23T02:00:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_assists_over_under,zach collins,False,2.5,-118,2023-03-23T01:15:02,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_blocks_over_under,zach collins,True,1.5,1000,2023-03-23T02:00:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_blocks_over_under,zach collins,False,1.5,-10000,2023-03-23T02:00:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_points_over_under,zach collins,True,10.5,110,2023-03-23T01:45:02,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_points_over_under,zach collins,True,12.5,-104,2023-03-23T02:00:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_points_over_under,zach collins,True,14.5,-104,2023-03-23T00:45:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_points_over_under,zach collins,True,15.5,-114,2023-03-23T00:30:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_points_over_under,zach collins,False,10.5,-146,2023-03-23T01:45:02,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_points_over_under,zach collins,False,12.5,-128,2023-03-23T02:00:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_points_over_under,zach collins,True,13.5,108,2023-03-23T01:00:02,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_points_over_under,zach collins,False,14.5,-128,2023-03-23T00:45:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_threes_over_under,zach collins,False,2.5,-245,2023-03-23T00:30:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_threes_over_under,zach collins,False,1.5,-3500,2023-03-23T02:00:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_threes_over_under,zach collins,True,2.5,178,2023-03-23T00:30:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_points_over_under,zach collins,False,13.5,-144,2023-03-23T01:00:02,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_steals_over_under,zach collins,False,1.5,-7000,2023-03-23T02:00:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_steals_over_under,zach collins,True,1.5,1000,2023-03-23T02:00:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_threes_over_under,zach collins,True,1.5,920,2023-03-23T02:00:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_rebounds_over_under,zach collins,False,6.5,-106,2023-03-23T01:45:02,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_rebounds_over_under,zach collins,True,7.5,280,2023-03-23T02:00:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_rebounds_over_under,zach collins,True,6.5,-125,2023-03-23T01:45:02,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_points_over_under,zach collins,False,15.5,-114,2023-03-23T00:30:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-22,f6e96a0ab2043164bd6053627d4f723f,fanduel,player_rebounds_over_under,zach collins,False,7.5,-420,2023-03-23T02:00:01,Milwaukee Bucks,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_points_over_under,zach collins,False,13.5,-104,2023-03-26T20:30:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_points_over_under,zach collins,True,19.5,-114,2023-03-26T22:45:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_points_over_under,zach collins,True,25.5,102,2023-03-26T23:15:02,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_points_over_under,zach collins,True,24.5,-130,2023-03-26T23:00:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_points_over_under,zach collins,True,23.5,118,2023-03-26T23:30:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_points_over_under,zach collins,True,22.5,128,2023-03-26T23:45:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_points_over_under,zach collins,True,21.5,320,2023-03-27T00:00:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_points_over_under,zach collins,True,20.5,108,2023-03-26T22:30:02,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_points_over_under,zach collins,True,16.5,100,2023-03-26T22:15:02,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_points_over_under,zach collins,True,13.5,-118,2023-03-26T20:30:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_blocks_over_under,zach collins,False,0.5,-100000,2023-03-27T00:00:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_blocks_over_under,zach collins,True,0.5,1000,2023-03-27T00:00:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_assists_over_under,zach collins,False,4.5,-5000,2023-03-27T00:00:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_assists_over_under,zach collins,False,3.5,-132,2023-03-26T23:45:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_assists_over_under,zach collins,False,2.5,110,2023-03-26T22:00:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_assists_over_under,zach collins,True,4.5,1000,2023-03-27T00:00:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_assists_over_under,zach collins,True,3.5,100,2023-03-26T23:45:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_points_over_under,zach collins,False,14.5,-110,2023-03-26T22:00:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_points_over_under,zach collins,True,14.5,-110,2023-03-26T22:00:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_points_over_under,zach collins,False,16.5,-132,2023-03-26T22:15:02,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_rebounds_over_under,zach collins,True,7.5,580,2023-03-27T00:00:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_threes_over_under,zach collins,False,1.5,122,2023-03-26T22:45:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_points_over_under,zach collins,False,21.5,-490,2023-03-27T00:00:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_points_over_under,zach collins,False,22.5,-172,2023-03-26T23:45:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_points_over_under,zach collins,False,23.5,-158,2023-03-26T23:30:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_points_over_under,zach collins,False,24.5,-102,2023-03-26T23:00:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_points_over_under,zach collins,False,25.5,-136,2023-03-26T23:15:02,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_assists_over_under,zach collins,True,2.5,-134,2023-03-26T22:00:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_rebounds_over_under,zach collins,True,8.5,-118,2023-03-26T23:00:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_rebounds_over_under,zach collins,True,9.5,120,2023-03-26T22:30:02,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_rebounds_over_under,zach collins,False,7.5,-1200,2023-03-27T00:00:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_rebounds_over_under,zach collins,False,8.5,-112,2023-03-26T23:00:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_rebounds_over_under,zach collins,False,9.5,-160,2023-03-26T22:30:02,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_steals_over_under,zach collins,True,0.5,1000,2023-03-27T00:00:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_steals_over_under,zach collins,False,0.5,-100000,2023-03-27T00:00:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_threes_over_under,zach collins,True,0.5,-210,2023-03-26T22:15:02,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_threes_over_under,zach collins,True,1.5,-162,2023-03-26T22:45:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_threes_over_under,zach collins,True,2.5,1000,2023-03-27T00:00:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_threes_over_under,zach collins,False,0.5,154,2023-03-26T22:15:02,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_threes_over_under,zach collins,False,2.5,-50000,2023-03-27T00:00:01,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_points_over_under,zach collins,False,20.5,-144,2023-03-26T22:30:02,Boston Celtics,San Antonio Spurs
+2023-03-26,77abb723225302e45ed1ccd901a0a913,fanduel,player_points_over_under,zach collins,False,19.5,-114,2023-03-26T22:45:01,Boston Celtics,San Antonio Spurs
+2023-03-29,43056536e1f256a358f25f71b7340b14,fanduel,player_rebounds_over_under,zach collins,True,7.5,188,2023-03-30T02:00:01,San Antonio Spurs,Utah Jazz
+2023-03-29,43056536e1f256a358f25f71b7340b14,fanduel,player_assists_over_under,zach collins,True,3.5,-104,2023-03-30T00:15:01,San Antonio Spurs,Utah Jazz
+2023-03-29,43056536e1f256a358f25f71b7340b14,fanduel,player_assists_over_under,zach collins,True,4.5,140,2023-03-30T02:00:01,San Antonio Spurs,Utah Jazz
+2023-03-29,43056536e1f256a358f25f71b7340b14,fanduel,player_assists_over_under,zach collins,False,3.5,-128,2023-03-30T00:15:01,San Antonio Spurs,Utah Jazz
+2023-03-29,43056536e1f256a358f25f71b7340b14,fanduel,player_assists_over_under,zach collins,False,4.5,-188,2023-03-30T02:00:01,San Antonio Spurs,Utah Jazz
+2023-03-29,43056536e1f256a358f25f71b7340b14,fanduel,player_blocks_over_under,zach collins,True,0.5,-186,2023-03-30T00:15:01,San Antonio Spurs,Utah Jazz
+2023-03-29,43056536e1f256a358f25f71b7340b14,fanduel,player_blocks_over_under,zach collins,True,1.5,580,2023-03-30T02:00:01,San Antonio Spurs,Utah Jazz
+2023-03-29,43056536e1f256a358f25f71b7340b14,fanduel,player_blocks_over_under,zach collins,False,0.5,136,2023-03-30T00:15:01,San Antonio Spurs,Utah Jazz
+2023-03-29,43056536e1f256a358f25f71b7340b14,fanduel,player_blocks_over_under,zach collins,False,1.5,-1200,2023-03-30T02:00:01,San Antonio Spurs,Utah Jazz
+2023-03-29,43056536e1f256a358f25f71b7340b14,fanduel,player_points_over_under,zach collins,True,12.5,134,2023-03-30T02:00:01,San Antonio Spurs,Utah Jazz
+2023-03-29,43056536e1f256a358f25f71b7340b14,fanduel,player_points_over_under,zach collins,True,17.5,-102,2023-03-29T16:45:01,San Antonio Spurs,Utah Jazz
+2023-03-29,43056536e1f256a358f25f71b7340b14,fanduel,player_points_over_under,zach collins,False,12.5,-180,2023-03-30T02:00:01,San Antonio Spurs,Utah Jazz
+2023-03-29,43056536e1f256a358f25f71b7340b14,fanduel,player_points_over_under,zach collins,True,16.5,-102,2023-03-30T00:15:01,San Antonio Spurs,Utah Jazz
+2023-03-29,43056536e1f256a358f25f71b7340b14,fanduel,player_points_over_under,zach collins,False,17.5,-125,2023-03-29T16:45:01,San Antonio Spurs,Utah Jazz
+2023-03-29,43056536e1f256a358f25f71b7340b14,fanduel,player_threes_over_under,zach collins,False,0.5,-700,2023-03-30T02:00:01,San Antonio Spurs,Utah Jazz
+2023-03-29,43056536e1f256a358f25f71b7340b14,fanduel,player_threes_over_under,zach collins,True,1.5,154,2023-03-30T00:15:01,San Antonio Spurs,Utah Jazz
+2023-03-29,43056536e1f256a358f25f71b7340b14,fanduel,player_threes_over_under,zach collins,True,0.5,410,2023-03-30T02:00:01,San Antonio Spurs,Utah Jazz
+2023-03-29,43056536e1f256a358f25f71b7340b14,fanduel,player_points_over_under,zach collins,False,16.5,-130,2023-03-30T00:15:01,San Antonio Spurs,Utah Jazz
+2023-03-29,43056536e1f256a358f25f71b7340b14,fanduel,player_steals_over_under,zach collins,False,0.5,122,2023-03-30T00:15:01,San Antonio Spurs,Utah Jazz
+2023-03-29,43056536e1f256a358f25f71b7340b14,fanduel,player_steals_over_under,zach collins,False,1.5,-1400,2023-03-30T02:00:01,San Antonio Spurs,Utah Jazz
+2023-03-29,43056536e1f256a358f25f71b7340b14,fanduel,player_steals_over_under,zach collins,True,0.5,-162,2023-03-30T00:15:01,San Antonio Spurs,Utah Jazz
+2023-03-29,43056536e1f256a358f25f71b7340b14,fanduel,player_rebounds_over_under,zach collins,False,8.5,-160,2023-03-30T01:45:01,San Antonio Spurs,Utah Jazz
+2023-03-29,43056536e1f256a358f25f71b7340b14,fanduel,player_rebounds_over_under,zach collins,False,7.5,-260,2023-03-30T02:00:01,San Antonio Spurs,Utah Jazz
+2023-03-29,43056536e1f256a358f25f71b7340b14,fanduel,player_rebounds_over_under,zach collins,True,8.5,120,2023-03-30T01:45:01,San Antonio Spurs,Utah Jazz
+2023-03-29,43056536e1f256a358f25f71b7340b14,fanduel,player_steals_over_under,zach collins,True,1.5,630,2023-03-30T02:00:01,San Antonio Spurs,Utah Jazz
+2023-03-29,43056536e1f256a358f25f71b7340b14,fanduel,player_threes_over_under,zach collins,False,1.5,-210,2023-03-30T00:15:01,San Antonio Spurs,Utah Jazz
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_assists_over_under,zach collins,False,3.5,-1400,2023-04-03T00:22:02,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_assists_over_under,zach collins,True,2.5,-158,2023-04-02T23:58:01,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_assists_over_under,zach collins,True,3.5,630,2023-04-03T00:22:02,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_assists_over_under,zach collins,True,4.5,148,2023-04-02T22:58:02,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_assists_over_under,zach collins,False,2.5,118,2023-04-02T23:58:01,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_assists_over_under,zach collins,False,4.5,-200,2023-04-02T22:58:02,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_blocks_over_under,zach collins,True,1.5,1000,2023-04-03T00:12:01,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_threes_over_under,zach collins,False,2.5,-5000,2023-04-03T00:22:02,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_threes_over_under,zach collins,False,1.5,136,2023-04-02T22:56:01,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_threes_over_under,zach collins,True,2.5,1000,2023-04-03T00:22:02,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_threes_over_under,zach collins,True,1.5,-182,2023-04-02T22:56:01,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_steals_over_under,zach collins,False,0.5,-10000,2023-04-03T00:22:02,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_steals_over_under,zach collins,True,0.5,1000,2023-04-03T00:22:02,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_rebounds_over_under,zach collins,False,8.5,-138,2023-04-02T22:58:02,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_rebounds_over_under,zach collins,False,7.5,-188,2023-04-02T23:14:01,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_rebounds_over_under,zach collins,False,6.5,-490,2023-04-03T00:22:02,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_rebounds_over_under,zach collins,False,5.5,-144,2023-04-03T00:08:01,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_rebounds_over_under,zach collins,True,8.5,104,2023-04-02T22:58:02,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_rebounds_over_under,zach collins,True,7.5,140,2023-04-02T23:14:01,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_rebounds_over_under,zach collins,True,6.5,320,2023-04-03T00:22:02,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_blocks_over_under,zach collins,True,0.5,450,2023-04-02T23:32:01,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_rebounds_over_under,zach collins,True,5.5,108,2023-04-03T00:08:01,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_points_over_under,zach collins,False,17.5,-144,2023-04-03T00:02:02,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_points_over_under,zach collins,False,16.5,-172,2023-04-03T00:22:02,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_points_over_under,zach collins,False,15.5,-138,2023-04-03T00:12:01,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_points_over_under,zach collins,False,14.5,116,2023-04-02T23:14:01,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_points_over_under,zach collins,False,13.5,-122,2023-04-02T22:52:02,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_points_over_under,zach collins,True,18.5,124,2023-04-02T23:56:01,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_points_over_under,zach collins,True,17.5,108,2023-04-03T00:02:02,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_points_over_under,zach collins,True,16.5,128,2023-04-03T00:22:02,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_points_over_under,zach collins,True,15.5,104,2023-04-03T00:12:01,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_points_over_under,zach collins,True,14.5,-154,2023-04-02T23:14:01,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_points_over_under,zach collins,True,13.5,-108,2023-04-02T22:52:02,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_blocks_over_under,zach collins,False,1.5,-50000,2023-04-03T00:22:02,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_blocks_over_under,zach collins,False,0.5,-800,2023-04-02T23:32:01,Sacramento Kings,San Antonio Spurs
+2023-04-02,bb80b155885884bccb5c83d23715920d,fanduel,player_points_over_under,zach collins,False,18.5,-166,2023-04-02T23:56:01,Sacramento Kings,San Antonio Spurs
+2023-04-06,f3d23a6d32ce474b6b259ed24abaf9a8,fanduel,player_assists_over_under,zach collins,True,3.5,-110,2023-04-08T18:00:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-06,f3d23a6d32ce474b6b259ed24abaf9a8,fanduel,player_assists_over_under,zach collins,False,3.5,-110,2023-04-08T18:00:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-06,f3d23a6d32ce474b6b259ed24abaf9a8,caesars,player_assists_over_under,zach collins,False,3.5,-129,2023-04-08T16:00:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-06,f3d23a6d32ce474b6b259ed24abaf9a8,caesars,player_assists_over_under,zach collins,True,3.5,-106,2023-04-08T16:00:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-06,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_assists_over_under,zach collins,False,3.5,-125,2023-04-08T15:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-06,f3d23a6d32ce474b6b259ed24abaf9a8,betmgm,player_points_over_under,zach collins,True,16.5,-105,2023-04-08T16:30:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-06,f3d23a6d32ce474b6b259ed24abaf9a8,caesars,player_points_over_under,zach collins,False,16.5,-125,2023-04-08T16:00:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-06,f3d23a6d32ce474b6b259ed24abaf9a8,caesars,player_points_over_under,zach collins,True,16.5,-109,2023-04-08T16:00:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-06,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_points_over_under,zach collins,False,16.5,-125,2023-04-08T15:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-06,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_points_over_under,zach collins,True,16.5,-105,2023-04-08T15:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-06,f3d23a6d32ce474b6b259ed24abaf9a8,fanduel,player_points_over_under,zach collins,False,16.5,-118,2023-04-08T18:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-06,f3d23a6d32ce474b6b259ed24abaf9a8,fanduel,player_rebounds_over_under,zach collins,True,6.5,-134,2023-04-08T18:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-06,f3d23a6d32ce474b6b259ed24abaf9a8,fanduel,player_points_over_under,zach collins,True,16.5,-104,2023-04-08T18:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-06,f3d23a6d32ce474b6b259ed24abaf9a8,betmgm,player_blocks_over_under,zach collins,True,0.5,-135,2023-04-08T16:30:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-06,f3d23a6d32ce474b6b259ed24abaf9a8,caesars,player_blocks_over_under,zach collins,False,0.5,-101,2023-04-08T16:00:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-06,f3d23a6d32ce474b6b259ed24abaf9a8,caesars,player_blocks_over_under,zach collins,True,0.5,-135,2023-04-08T16:00:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-06,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_blocks_over_under,zach collins,False,0.5,100,2023-04-08T15:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-06,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_blocks_over_under,zach collins,True,0.5,-130,2023-04-08T15:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-06,f3d23a6d32ce474b6b259ed24abaf9a8,betmgm,player_assists_over_under,zach collins,False,3.5,-130,2023-04-08T16:30:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-06,f3d23a6d32ce474b6b259ed24abaf9a8,betmgm,player_assists_over_under,zach collins,True,3.5,-105,2023-04-08T16:30:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-06,f3d23a6d32ce474b6b259ed24abaf9a8,betmgm,player_blocks_over_under,zach collins,False,0.5,100,2023-04-08T16:30:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-06,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_assists_over_under,zach collins,True,3.5,-105,2023-04-08T15:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-06,f3d23a6d32ce474b6b259ed24abaf9a8,fanduel,player_rebounds_over_under,zach collins,False,6.5,110,2023-04-08T18:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-06,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_rebounds_over_under,zach collins,False,6.5,105,2023-04-08T15:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-06,f3d23a6d32ce474b6b259ed24abaf9a8,betmgm,player_threes_over_under,zach collins,False,1.5,-150,2023-04-08T16:30:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-06,f3d23a6d32ce474b6b259ed24abaf9a8,betmgm,player_threes_over_under,zach collins,True,1.5,110,2023-04-08T16:30:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-06,f3d23a6d32ce474b6b259ed24abaf9a8,caesars,player_threes_over_under,zach collins,False,1.5,-148,2023-04-08T16:00:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-06,f3d23a6d32ce474b6b259ed24abaf9a8,caesars,player_threes_over_under,zach collins,True,1.5,108,2023-04-08T16:00:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-06,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_threes_over_under,zach collins,False,1.5,-145,2023-04-08T15:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-06,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_threes_over_under,zach collins,True,1.5,115,2023-04-08T15:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-06,f3d23a6d32ce474b6b259ed24abaf9a8,betmgm,player_steals_over_under,zach collins,False,0.5,135,2023-04-08T16:30:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-06,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_rebounds_over_under,zach collins,True,6.5,-135,2023-04-08T15:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-06,f3d23a6d32ce474b6b259ed24abaf9a8,betmgm,player_steals_over_under,zach collins,True,0.5,-175,2023-04-08T16:30:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-06,f3d23a6d32ce474b6b259ed24abaf9a8,caesars,player_steals_over_under,zach collins,True,0.5,-184,2023-04-08T16:00:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-06,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_steals_over_under,zach collins,False,0.5,140,2023-04-08T15:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-06,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,player_steals_over_under,zach collins,True,0.5,-175,2023-04-08T15:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-06,f3d23a6d32ce474b6b259ed24abaf9a8,betmgm,player_rebounds_over_under,zach collins,False,6.5,105,2023-04-08T16:30:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-06,f3d23a6d32ce474b6b259ed24abaf9a8,betmgm,player_rebounds_over_under,zach collins,True,6.5,-145,2023-04-08T18:45:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-06,f3d23a6d32ce474b6b259ed24abaf9a8,caesars,player_rebounds_over_under,zach collins,False,6.5,-104,2023-04-08T16:00:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-06,f3d23a6d32ce474b6b259ed24abaf9a8,caesars,player_rebounds_over_under,zach collins,True,6.5,-131,2023-04-08T16:00:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-06,f3d23a6d32ce474b6b259ed24abaf9a8,caesars,player_steals_over_under,zach collins,False,0.5,133,2023-04-08T16:00:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-06,f3d23a6d32ce474b6b259ed24abaf9a8,betmgm,player_points_over_under,zach collins,False,16.5,-125,2023-04-08T16:30:01,San Antonio Spurs,Minnesota Timberwolves
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_blocks_over_under,zach collins,False,1.5,-800,2023-04-07T02:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_assists_over_under,zach collins,True,3.5,270,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_rebounds_over_under,zach collins,False,8.5,-188,2023-04-07T01:45:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_rebounds_over_under,zach collins,False,7.5,-136,2023-04-07T02:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_rebounds_over_under,zach collins,False,6.5,-112,2023-04-07T01:15:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_rebounds_over_under,zach collins,False,5.5,-130,2023-04-07T01:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_rebounds_over_under,zach collins,True,10.5,-106,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_rebounds_over_under,zach collins,True,8.5,140,2023-04-07T01:45:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_rebounds_over_under,zach collins,True,7.5,102,2023-04-07T02:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_rebounds_over_under,zach collins,True,6.5,-118,2023-04-07T01:15:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_rebounds_over_under,zach collins,False,10.5,-125,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_rebounds_over_under,zach collins,True,5.5,-102,2023-04-07T01:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_points_over_under,zach collins,False,23.5,-120,2023-04-07T01:45:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_points_over_under,zach collins,False,22.5,-210,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_points_over_under,zach collins,False,19.5,-120,2023-04-07T01:15:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_points_over_under,zach collins,False,17.5,-120,2023-04-07T00:30:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_points_over_under,zach collins,False,16.5,-115,2023-04-06T23:30:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_assists_over_under,zach collins,True,2.5,-178,2023-04-07T00:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_points_over_under,zach collins,False,14.5,-145,2023-04-07T01:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_points_over_under,zach collins,True,24.5,110,2023-04-07T01:30:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_points_over_under,zach collins,False,24.5,-145,2023-04-07T01:30:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_rebounds_over_under,zach collins,True,5.5,100,2023-04-07T01:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_rebounds_over_under,zach collins,True,6.5,-115,2023-04-07T01:15:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_rebounds_over_under,zach collins,True,7.5,-105,2023-04-07T02:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_threes_over_under,zach collins,False,1.5,-1600,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_threes_over_under,zach collins,False,0.5,-110,2023-04-07T01:15:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_threes_over_under,zach collins,True,1.5,600,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_threes_over_under,zach collins,True,0.5,-120,2023-04-07T01:15:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_threes_over_under,zach collins,False,1.5,-1200,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_threes_over_under,zach collins,False,0.5,-112,2023-04-07T01:15:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_threes_over_under,zach collins,True,1.5,580,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_threes_over_under,zach collins,True,0.5,-118,2023-04-07T01:15:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_steals_over_under,zach collins,False,0.5,-3000,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_steals_over_under,zach collins,True,0.5,900,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_steals_over_under,zach collins,False,0.5,-3000,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_steals_over_under,zach collins,True,0.5,880,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_rebounds_over_under,zach collins,False,10.5,-135,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_rebounds_over_under,zach collins,False,8.5,-180,2023-04-07T01:45:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_rebounds_over_under,zach collins,False,7.5,-125,2023-04-07T01:30:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_rebounds_over_under,zach collins,False,6.5,-115,2023-04-07T01:15:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_rebounds_over_under,zach collins,False,5.5,-130,2023-04-07T01:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_rebounds_over_under,zach collins,True,10.5,100,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_rebounds_over_under,zach collins,True,8.5,135,2023-04-07T01:45:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_points_over_under,zach collins,True,23.5,-110,2023-04-07T01:45:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_points_over_under,zach collins,True,22.5,155,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_points_over_under,zach collins,False,15.5,-105,2023-04-07T00:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_points_over_under,zach collins,True,17.5,-110,2023-04-07T00:30:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_blocks_over_under,zach collins,True,3.5,900,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_blocks_over_under,zach collins,True,1.5,425,2023-04-07T02:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_blocks_over_under,zach collins,True,0.5,-140,2023-04-07T00:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_points_over_under,zach collins,True,19.5,-110,2023-04-07T01:15:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_blocks_over_under,zach collins,False,0.5,106,2023-04-07T00:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_blocks_over_under,zach collins,True,2.5,920,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_blocks_over_under,zach collins,True,1.5,450,2023-04-07T02:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_blocks_over_under,zach collins,True,0.5,-140,2023-04-07T00:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_blocks_over_under,zach collins,False,0.5,105,2023-04-07T00:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_assists_over_under,zach collins,False,4.5,-135,2023-04-07T01:15:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_assists_over_under,zach collins,False,2.5,125,2023-04-07T00:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_assists_over_under,zach collins,True,4.5,100,2023-04-07T01:15:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_assists_over_under,zach collins,True,3.5,285,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_assists_over_under,zach collins,True,2.5,-170,2023-04-07T00:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_assists_over_under,zach collins,False,4.5,-136,2023-04-07T01:15:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_assists_over_under,zach collins,False,3.5,-400,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_assists_over_under,zach collins,False,2.5,132,2023-04-07T00:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_assists_over_under,zach collins,True,4.5,102,2023-04-07T01:15:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_assists_over_under,zach collins,False,3.5,-425,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_blocks_over_under,zach collins,False,1.5,-750,2023-04-07T02:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_blocks_over_under,zach collins,False,2.5,-3500,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_points_over_under,zach collins,True,14.5,108,2023-04-07T01:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_points_over_under,zach collins,True,16.5,-115,2023-04-06T23:30:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_points_over_under,zach collins,True,15.5,-125,2023-04-07T00:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_points_over_under,zach collins,True,14.5,110,2023-04-07T01:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_points_over_under,zach collins,False,24.5,-152,2023-04-07T01:30:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_blocks_over_under,zach collins,False,3.5,-3000,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_points_over_under,zach collins,False,22.5,-192,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_points_over_under,zach collins,False,19.5,-125,2023-04-07T01:15:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_points_over_under,zach collins,False,17.5,-130,2023-04-07T00:30:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_points_over_under,zach collins,False,16.5,-112,2023-04-07T00:45:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_points_over_under,zach collins,False,23.5,-122,2023-04-07T01:45:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_points_over_under,zach collins,False,14.5,-144,2023-04-07T01:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_points_over_under,zach collins,True,24.5,114,2023-04-07T01:30:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_points_over_under,zach collins,True,23.5,-108,2023-04-07T01:45:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_points_over_under,zach collins,True,22.5,142,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_points_over_under,zach collins,True,19.5,-106,2023-04-07T01:15:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_points_over_under,zach collins,True,17.5,-102,2023-04-07T00:30:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_points_over_under,zach collins,True,16.5,-118,2023-04-07T00:45:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_points_over_under,zach collins,True,15.5,-132,2023-04-07T00:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_points_over_under,zach collins,False,15.5,100,2023-04-07T00:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,zach collins,True,13.5,105,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,zach collins,True,12.5,-125,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,zach collins,False,10.5,185,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,zach collins,False,13.5,-135,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_rebounds_over_under,zach collins,False,7.5,105,2023-10-24T02:00:09,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,zach collins,True,12.5,-132,2023-10-24T18:00:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,zach collins,False,12.5,105,2023-10-24T18:00:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_rebounds_over_under,zach collins,True,7.5,-132,2023-10-24T02:00:09,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,zach collins,True,10.5,-240,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,zach collins,False,12.5,100,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_blocks_over_under,zach collins,False,0.5,-125,2023-10-24T10:55:27,Denver Nuggets,Los Angeles Lakers
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_assists_over_under,zach collins,True,2.5,-104,2023-10-26T03:50:05,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_points_over_under,zach collins,False,11.5,-108,2023-10-26T02:45:28,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,betrivers,player_points_over_under,zach collins,True,14.5,138,2023-10-26T01:30:43,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,betrivers,player_points_over_under,zach collins,True,13.5,102,2023-10-26T01:30:43,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,betrivers,player_points_over_under,zach collins,True,12.5,-132,2023-10-26T01:30:43,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,betrivers,player_points_over_under,zach collins,True,11.5,-200,2023-10-26T01:30:43,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,betrivers,player_points_over_under,zach collins,True,10.5,-295,2023-10-26T01:30:43,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_points_over_under,zach collins,False,16.5,-165,2023-10-26T04:00:53,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_points_over_under,zach collins,False,15.5,-130,2023-10-26T03:20:10,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_points_over_under,zach collins,False,14.5,-140,2023-10-26T03:10:06,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_points_over_under,zach collins,False,13.5,-105,2023-10-26T03:00:05,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_points_over_under,zach collins,False,12.5,-120,2023-10-26T02:40:26,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_points_over_under,zach collins,False,11.5,135,2023-10-25T11:10:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_points_over_under,zach collins,True,16.5,115,2023-10-26T04:00:53,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_points_over_under,zach collins,True,15.5,-110,2023-10-26T03:20:10,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_points_over_under,zach collins,True,14.5,100,2023-10-26T03:10:06,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_points_over_under,zach collins,True,13.5,-135,2023-10-26T03:00:05,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_points_over_under,zach collins,True,12.5,-120,2023-10-26T02:40:26,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_points_over_under,zach collins,True,11.5,-175,2023-10-25T11:10:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,zach collins,False,12.5,105,2023-10-25T16:25:11,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,zach collins,False,13.5,-130,2023-10-26T01:30:07,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,zach collins,False,14.5,-180,2023-10-26T01:30:07,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,zach collins,False,15.5,-225,2023-10-25T16:25:11,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,zach collins,False,11.5,-125,2023-10-26T02:40:13,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,zach collins,False,12.5,-115,2023-10-26T02:40:13,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,betrivers,player_points_over_under,zach collins,True,15.5,180,2023-10-26T01:30:43,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,zach collins,False,13.5,-110,2023-10-26T02:50:45,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,zach collins,False,15.5,-110,2023-10-26T04:05:27,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,zach collins,False,16.5,-155,2023-10-26T04:00:10,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,betmgm,player_points_over_under,zach collins,True,12.5,-125,2023-10-26T02:00:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,betmgm,player_points_over_under,zach collins,True,13.5,-105,2023-10-25T16:30:36,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,betmgm,player_points_over_under,zach collins,False,12.5,-105,2023-10-26T02:00:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,betmgm,player_points_over_under,zach collins,False,13.5,-130,2023-10-25T16:30:36,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,zach collins,False,14.5,-220,2023-10-26T04:10:44,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,zach collins,False,11.5,140,2023-10-26T01:30:07,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,betrivers,player_points_over_under,zach collins,True,16.5,205,2023-10-25T20:45:13,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_rebounds_over_under,zach collins,True,3.5,126,2023-10-26T03:35:04,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_rebounds_over_under,zach collins,False,4.5,-105,2023-10-26T03:25:46,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_rebounds_over_under,zach collins,True,8.5,145,2023-10-25T11:10:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_rebounds_over_under,zach collins,True,7.5,-120,2023-10-26T02:00:20,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_rebounds_over_under,zach collins,True,6.5,130,2023-10-26T04:00:53,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_rebounds_over_under,zach collins,True,5.5,-110,2023-10-26T03:20:10,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_rebounds_over_under,zach collins,True,4.5,-135,2023-10-26T03:25:46,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,betmgm,player_rebounds_over_under,zach collins,False,7.5,-120,2023-10-26T02:00:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,betmgm,player_rebounds_over_under,zach collins,True,7.5,-110,2023-10-26T02:00:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_rebounds_over_under,zach collins,False,7.5,-115,2023-10-26T02:00:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_rebounds_over_under,zach collins,False,6.5,-185,2023-10-26T03:55:36,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_rebounds_over_under,zach collins,False,5.5,-205,2023-10-26T04:10:44,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_rebounds_over_under,zach collins,False,4.5,100,2023-10-26T03:25:05,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_rebounds_over_under,zach collins,False,3.5,-165,2023-10-26T03:35:04,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_rebounds_over_under,zach collins,False,2.5,110,2023-10-26T03:40:52,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_rebounds_over_under,zach collins,True,7.5,-115,2023-10-26T02:00:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_rebounds_over_under,zach collins,True,6.5,135,2023-10-26T03:55:36,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_rebounds_over_under,zach collins,True,4.5,-130,2023-10-26T03:25:05,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_rebounds_over_under,zach collins,True,4.5,-130,2023-10-26T03:25:11,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_rebounds_over_under,zach collins,True,5.5,114,2023-10-26T04:10:18,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_rebounds_over_under,zach collins,True,6.5,140,2023-10-26T04:00:11,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_rebounds_over_under,zach collins,True,7.5,-112,2023-10-26T01:55:08,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_rebounds_over_under,zach collins,False,2.5,116,2023-10-26T03:40:09,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_rebounds_over_under,zach collins,False,3.5,-166,2023-10-26T03:25:11,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_rebounds_over_under,zach collins,True,2.5,-154,2023-10-26T03:40:09,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_rebounds_over_under,zach collins,False,4.5,-102,2023-10-26T03:25:11,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_rebounds_over_under,zach collins,False,6.5,-192,2023-10-26T04:00:11,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_rebounds_over_under,zach collins,False,7.5,-108,2023-10-26T01:55:08,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,pinnacle,player_rebounds_over_under,zach collins,True,7.5,-117,2023-10-26T01:45:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,pinnacle,player_rebounds_over_under,zach collins,False,7.5,-113,2023-10-26T01:45:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_rebounds_over_under,zach collins,True,2.5,-150,2023-10-26T03:40:52,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_rebounds_over_under,zach collins,True,3.5,125,2023-10-26T03:35:04,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_rebounds_over_under,zach collins,False,5.5,-152,2023-10-26T04:10:18,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,zach collins,False,10.5,195,2023-10-26T01:30:07,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,zach collins,True,16.5,115,2023-10-26T04:00:10,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,zach collins,True,15.5,-120,2023-10-26T04:05:27,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_blocks_over_under,zach collins,True,2.5,1100,2023-10-26T04:10:44,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_blocks_over_under,zach collins,True,1.5,190,2023-10-26T02:40:13,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_blocks_over_under,zach collins,True,0.5,125,2023-10-26T02:31:10,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_blocks_over_under,zach collins,False,2.5,-3500,2023-10-26T04:10:18,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_blocks_over_under,zach collins,False,1.5,-270,2023-10-26T02:40:05,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_blocks_over_under,zach collins,False,0.5,-166,2023-10-26T02:30:04,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_blocks_over_under,zach collins,True,2.5,920,2023-10-26T04:10:18,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_blocks_over_under,zach collins,True,1.5,194,2023-10-26T02:40:05,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_blocks_over_under,zach collins,True,0.5,124,2023-10-26T02:30:04,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,betrivers,player_assists_over_under,zach collins,True,3.5,-110,2023-10-26T01:30:43,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_assists_over_under,zach collins,False,5.5,-500,2023-10-25T11:10:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_assists_over_under,zach collins,False,4.5,-190,2023-10-26T02:50:04,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_assists_over_under,zach collins,False,3.5,-215,2023-10-26T03:25:46,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_assists_over_under,zach collins,True,5.5,325,2023-10-25T11:10:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_assists_over_under,zach collins,True,4.5,135,2023-10-26T02:50:04,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_assists_over_under,zach collins,True,3.5,145,2023-10-26T03:25:46,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,betmgm,player_assists_over_under,zach collins,False,3.5,-110,2023-10-26T02:00:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_assists_over_under,zach collins,True,3.5,290,2023-10-26T04:10:18,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_assists_over_under,zach collins,True,4.5,144,2023-10-26T02:50:10,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_assists_over_under,zach collins,False,2.5,-128,2023-10-26T03:50:05,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_assists_over_under,zach collins,False,3.5,-440,2023-10-26T04:10:18,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_assists_over_under,zach collins,False,4.5,-194,2023-10-26T02:50:10,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,pinnacle,player_assists_over_under,zach collins,True,3.5,-125,2023-10-26T01:45:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_blocks_over_under,zach collins,False,0.5,-165,2023-10-26T02:31:10,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,pinnacle,player_assists_over_under,zach collins,False,3.5,-106,2023-10-26T01:45:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_assists_over_under,zach collins,True,3.5,310,2023-10-26T04:10:44,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_assists_over_under,zach collins,True,4.5,140,2023-10-26T02:50:45,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_assists_over_under,zach collins,False,2.5,-125,2023-10-26T03:51:04,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_assists_over_under,zach collins,False,3.5,-475,2023-10-26T04:10:44,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_assists_over_under,zach collins,False,4.5,-190,2023-10-26T02:50:45,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,betmgm,player_assists_over_under,zach collins,True,3.5,-120,2023-10-26T02:00:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_assists_over_under,zach collins,True,2.5,-105,2023-10-26T03:51:04,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_blocks_over_under,zach collins,False,1.5,-265,2023-10-26T02:40:13,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_blocks_over_under,zach collins,False,2.5,-8000,2023-10-26T04:10:44,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,betmgm,player_blocks_over_under,zach collins,True,0.5,-105,2023-10-26T02:00:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,pinnacle,player_points_over_under,zach collins,True,12.5,-121,2023-10-26T01:45:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,pinnacle,player_points_over_under,zach collins,True,13.5,-105,2023-10-24T18:35:04,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,pinnacle,player_points_over_under,zach collins,False,12.5,-110,2023-10-26T01:45:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,pinnacle,player_points_over_under,zach collins,False,13.5,-127,2023-10-24T18:35:04,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,zach collins,True,10.5,-255,2023-10-26T01:30:07,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,zach collins,True,11.5,-180,2023-10-26T01:30:07,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_points_over_under,zach collins,False,16.5,-164,2023-10-26T03:30:47,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,zach collins,True,12.5,-135,2023-10-25T16:25:11,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,zach collins,True,14.5,140,2023-10-26T01:30:07,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,zach collins,True,15.5,175,2023-10-25T16:25:11,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,zach collins,True,11.5,-105,2023-10-26T02:40:13,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,zach collins,True,12.5,-115,2023-10-26T02:40:13,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,zach collins,True,13.5,-120,2023-10-26T02:50:45,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,zach collins,True,14.5,160,2023-10-26T04:10:44,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,zach collins,True,13.5,100,2023-10-26T01:30:07,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_rebounds_over_under,zach collins,False,5.5,-130,2023-10-26T03:20:10,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_points_over_under,zach collins,False,15.5,-150,2023-10-26T03:55:17,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_points_over_under,zach collins,False,13.5,-108,2023-10-26T03:10:18,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,betmgm,player_blocks_over_under,zach collins,False,0.5,-125,2023-10-26T02:00:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_blocks_over_under,zach collins,True,0.5,125,2023-10-26T02:26:02,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_blocks_over_under,zach collins,True,1.5,150,2023-10-26T02:40:26,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_blocks_over_under,zach collins,True,2.5,260,2023-10-26T03:25:46,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_blocks_over_under,zach collins,False,0.5,-180,2023-10-26T02:26:02,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_blocks_over_under,zach collins,False,1.5,-225,2023-10-26T02:40:26,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_points_over_under,zach collins,False,14.5,104,2023-10-26T03:20:04,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_blocks_over_under,zach collins,False,2.5,-425,2023-10-26T03:25:46,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_points_over_under,zach collins,True,12.5,-115,2023-10-26T02:50:10,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_points_over_under,zach collins,True,13.5,-118,2023-10-26T03:10:18,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_points_over_under,zach collins,True,14.5,-132,2023-10-26T03:20:04,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_points_over_under,zach collins,True,15.5,118,2023-10-26T03:55:17,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_points_over_under,zach collins,True,16.5,128,2023-10-26T03:30:47,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_points_over_under,zach collins,False,12.5,-111,2023-10-26T02:50:10,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_points_over_under,zach collins,True,11.5,-118,2023-10-26T02:45:28,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_rebounds_over_under,zach collins,False,6.5,-185,2023-10-26T04:00:53,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_rebounds_over_under,zach collins,True,5.5,155,2023-10-26T04:10:44,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_rebounds_over_under,zach collins,False,8.5,-190,2023-10-25T11:10:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_rebounds_over_under,zach collins,False,7.5,-120,2023-10-26T02:00:20,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_threes_over_under,zach collins,False,1.5,-340,2023-10-25T11:10:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_threes_over_under,zach collins,False,0.5,-185,2023-10-26T02:55:28,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_threes_over_under,zach collins,True,1.5,235,2023-10-25T11:10:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_threes_over_under,zach collins,True,0.5,130,2023-10-26T02:55:28,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,betmgm,player_threes_over_under,zach collins,False,0.5,140,2023-10-26T02:00:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,betmgm,player_threes_over_under,zach collins,True,0.5,-190,2023-10-26T02:00:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_threes_over_under,zach collins,False,0.5,-1800,2023-10-26T04:10:44,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_threes_over_under,zach collins,False,1.5,-270,2023-10-26T02:00:09,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_threes_over_under,zach collins,False,0.5,-900,2023-10-26T03:55:17,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_threes_over_under,zach collins,True,1.5,194,2023-10-26T02:00:09,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_threes_over_under,zach collins,True,0.5,490,2023-10-26T03:55:17,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_steals_over_under,zach collins,False,1.5,-350,2023-10-26T03:25:46,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_steals_over_under,zach collins,False,0.5,-150,2023-10-26T02:26:02,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_threes_over_under,zach collins,True,0.5,700,2023-10-26T04:10:44,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_steals_over_under,zach collins,True,0.5,105,2023-10-26T02:26:02,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,betrivers,player_rebounds_over_under,zach collins,True,6.5,-240,2023-10-26T00:10:55,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_steals_over_under,zach collins,True,1.5,220,2023-10-26T03:25:46,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,betrivers,player_rebounds_over_under,zach collins,True,7.5,-141,2023-10-26T01:30:43,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,betrivers,player_rebounds_over_under,zach collins,True,8.5,125,2023-10-26T01:30:43,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_steals_over_under,zach collins,True,0.5,-108,2023-10-26T02:30:04,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_steals_over_under,zach collins,True,1.5,1000,2023-10-26T04:10:18,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_steals_over_under,zach collins,False,1.5,-4000,2023-10-26T04:10:18,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_steals_over_under,zach collins,False,0.5,-122,2023-10-26T02:30:04,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_steals_over_under,zach collins,True,1.5,650,2023-10-26T04:05:27,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_steals_over_under,zach collins,False,0.5,-120,2023-10-26T02:31:10,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_steals_over_under,zach collins,False,1.5,-1400,2023-10-26T04:05:27,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,betmgm,player_steals_over_under,zach collins,True,0.5,-110,2023-10-26T02:00:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,betmgm,player_steals_over_under,zach collins,False,0.5,-120,2023-10-26T02:00:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_steals_over_under,zach collins,True,0.5,-110,2023-10-26T02:31:10,San Antonio Spurs,Dallas Mavericks
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betmgm,player_steals_over_under,zach collins,True,0.5,-175,2023-10-27T16:45:28,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_steals_over_under,zach collins,True,1.5,-115,2023-10-28T00:50:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_steals_over_under,zach collins,False,4.5,-3500,2023-10-28T02:36:09,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betmgm,player_steals_over_under,zach collins,False,0.5,135,2023-10-27T17:15:04,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_steals_over_under,zach collins,True,0.5,-140,2023-10-28T00:26:52,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_steals_over_under,zach collins,True,2.5,270,2023-10-28T01:58:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_threes_over_under,zach collins,False,1.5,-260,2023-10-28T00:15:09,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_steals_over_under,zach collins,False,1.5,-125,2023-10-28T00:50:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_steals_over_under,zach collins,False,2.5,-450,2023-10-28T01:58:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_threes_over_under,zach collins,True,0.5,700,2023-10-28T02:10:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_threes_over_under,zach collins,True,1.5,188,2023-10-28T00:15:09,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_threes_over_under,zach collins,False,0.5,-10000,2023-10-28T02:45:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_steals_over_under,zach collins,False,3.5,-1200,2023-10-28T02:30:42,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_threes_over_under,zach collins,True,0.5,1200,2023-10-28T02:36:09,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_steals_over_under,zach collins,False,0.5,100,2023-10-28T00:26:52,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_steals_over_under,zach collins,False,2.5,-900,2023-10-28T02:05:04,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_steals_over_under,zach collins,True,3.5,640,2023-10-28T02:30:08,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_steals_over_under,zach collins,False,0.5,-110,2023-10-28T00:30:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_steals_over_under,zach collins,True,1.5,-108,2023-10-28T00:50:04,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_steals_over_under,zach collins,True,2.5,520,2023-10-28T02:05:21,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_threes_over_under,zach collins,False,0.5,-20000,2023-10-28T02:36:09,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_steals_over_under,zach collins,True,4.5,1000,2023-10-28T02:45:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_steals_over_under,zach collins,False,0.5,100,2023-10-28T00:30:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_steals_over_under,zach collins,False,1.5,-122,2023-10-28T00:50:04,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_steals_over_under,zach collins,False,1.5,-120,2023-10-28T00:51:24,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_steals_over_under,zach collins,False,2.5,-1000,2023-10-28T02:05:21,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_steals_over_under,zach collins,False,4.5,-100000,2023-10-28T02:45:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_steals_over_under,zach collins,True,0.5,-120,2023-10-28T00:30:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_steals_over_under,zach collins,True,1.5,-110,2023-10-28T00:51:24,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_steals_over_under,zach collins,True,2.5,475,2023-10-28T02:05:04,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_steals_over_under,zach collins,True,3.5,600,2023-10-28T02:30:42,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_steals_over_under,zach collins,True,4.5,900,2023-10-28T02:36:09,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_steals_over_under,zach collins,False,3.5,-1450,2023-10-28T02:30:08,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betmgm,player_threes_over_under,zach collins,True,0.5,-225,2023-10-27T13:00:08,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,zach collins,False,7.5,104,2023-10-28T02:40:04,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,zach collins,True,4.5,200,2023-10-28T02:15:46,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,zach collins,True,10.5,100,2023-10-28T00:55:16,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,zach collins,True,9.5,240,2023-10-28T02:45:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,zach collins,True,8.5,112,2023-10-28T01:25:19,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,zach collins,True,7.5,-132,2023-10-28T02:40:04,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,zach collins,True,6.5,152,2023-10-28T02:30:08,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,zach collins,True,5.5,128,2023-10-28T02:20:10,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,zach collins,True,4.5,-162,2023-10-28T02:15:04,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_blocks_over_under,zach collins,False,0.5,-400,2023-10-28T01:50:23,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_blocks_over_under,zach collins,True,0.5,250,2023-10-28T01:50:23,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betmgm,player_blocks_over_under,zach collins,False,0.5,115,2023-10-27T17:05:09,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betmgm,player_blocks_over_under,zach collins,True,0.5,-155,2023-10-27T16:45:28,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_blocks_over_under,zach collins,False,0.5,-2500,2023-10-28T02:40:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_blocks_over_under,zach collins,True,0.5,800,2023-10-28T02:40:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_blocks_over_under,zach collins,False,0.5,-100000,2023-10-28T02:45:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_blocks_over_under,zach collins,True,0.5,1000,2023-10-28T02:45:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,zach collins,True,11.5,100,2023-10-28T00:45:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betmgm,player_threes_over_under,zach collins,False,0.5,160,2023-10-27T17:05:09,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,zach collins,True,12.5,-106,2023-10-28T00:30:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,zach collins,False,4.5,126,2023-10-28T02:15:04,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,zach collins,True,15.5,155,2023-10-28T00:11:20,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,zach collins,True,14.5,115,2023-10-28T00:11:20,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,zach collins,True,12.5,-155,2023-10-28T00:11:20,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,zach collins,True,11.5,-220,2023-10-28T00:11:20,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,pinnacle,player_points_over_under,zach collins,False,13.5,-121,2023-10-26T21:30:57,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,pinnacle,player_points_over_under,zach collins,True,13.5,-110,2023-10-26T21:30:57,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,zach collins,False,13.5,-115,2023-10-28T00:15:09,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,zach collins,False,12.5,-120,2023-10-28T00:30:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,zach collins,False,11.5,-128,2023-10-28T00:45:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,zach collins,False,10.5,-128,2023-10-28T00:55:16,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,zach collins,False,9.5,-330,2023-10-28T02:45:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,zach collins,False,8.5,-142,2023-10-28T01:25:19,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_steals_over_under,zach collins,True,0.5,-132,2023-10-28T00:30:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,zach collins,False,6.5,-196,2023-10-28T02:30:08,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,zach collins,False,5.5,-164,2023-10-28T02:20:10,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,zach collins,True,13.5,-105,2023-10-28T00:15:09,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betrivers,player_rebounds_over_under,zach collins,True,9.5,180,2023-10-27T11:07:16,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_rebounds_over_under,zach collins,True,7.5,115,2023-10-28T02:05:04,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betrivers,player_rebounds_over_under,zach collins,True,7.5,-114,2023-10-28T00:11:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,zach collins,False,12.5,-125,2023-10-28T00:30:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,zach collins,False,13.5,-130,2023-10-28T00:15:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betmgm,player_points_over_under,zach collins,True,13.5,-110,2023-10-27T16:45:28,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betmgm,player_points_over_under,zach collins,False,13.5,-120,2023-10-27T16:45:28,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,zach collins,True,5.5,-105,2023-10-28T01:45:56,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,zach collins,True,7.5,-115,2023-10-28T01:58:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,zach collins,False,11.5,-130,2023-10-28T00:51:24,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,zach collins,True,8.5,-120,2023-10-28T01:26:14,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,zach collins,True,11.5,-105,2023-10-28T00:56:25,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,zach collins,True,12.5,-120,2023-10-28T00:20:10,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,zach collins,True,13.5,-120,2023-10-28T00:15:18,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,zach collins,True,18.5,260,2023-10-28T00:10:20,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,zach collins,True,19.5,350,2023-10-27T17:10:12,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,zach collins,False,5.5,-135,2023-10-28T01:45:56,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,zach collins,True,9.5,-110,2023-10-28T01:05:18,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,zach collins,False,10.5,-125,2023-10-28T01:00:31,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,zach collins,False,8.5,-110,2023-10-28T01:25:08,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,zach collins,False,7.5,-295,2023-10-28T02:36:09,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betrivers,player_assists_over_under,zach collins,True,3.5,100,2023-10-28T00:11:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,zach collins,True,6.5,140,2023-10-28T02:01:46,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,zach collins,True,7.5,210,2023-10-28T02:36:09,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,zach collins,True,8.5,-120,2023-10-28T01:25:08,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,zach collins,True,10.5,-105,2023-10-28T01:00:31,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,zach collins,True,11.5,-105,2023-10-28T00:51:24,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,zach collins,True,12.5,-105,2023-10-28T00:30:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,zach collins,True,13.5,100,2023-10-28T00:15:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,zach collins,False,11.5,170,2023-10-28T00:11:20,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,zach collins,False,12.5,120,2023-10-28T00:11:20,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,zach collins,False,14.5,-145,2023-10-28T00:11:20,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,zach collins,False,15.5,-200,2023-10-28T00:11:20,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,zach collins,False,4.5,-275,2023-10-28T02:15:46,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,zach collins,False,5.5,-145,2023-10-28T02:30:42,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,zach collins,False,6.5,-190,2023-10-28T02:01:46,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,zach collins,False,7.5,-125,2023-10-28T01:58:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,zach collins,False,8.5,-120,2023-10-28T01:26:14,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,zach collins,False,9.5,-130,2023-10-28T01:05:18,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,zach collins,False,11.5,-135,2023-10-28T00:56:25,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_rebounds_over_under,zach collins,True,5.5,-130,2023-10-28T01:05:06,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_rebounds_over_under,zach collins,True,6.5,105,2023-10-28T02:36:09,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_rebounds_over_under,zach collins,True,8.5,120,2023-10-28T01:55:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_rebounds_over_under,zach collins,False,5.5,100,2023-10-28T01:05:06,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_rebounds_over_under,zach collins,False,6.5,-140,2023-10-28T02:36:09,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,zach collins,True,5.5,110,2023-10-28T02:30:42,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_rebounds_over_under,zach collins,False,7.5,-155,2023-10-28T02:05:04,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_rebounds_over_under,zach collins,False,8.5,-160,2023-10-28T01:55:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betmgm,player_rebounds_over_under,zach collins,True,7.5,-115,2023-10-27T16:45:28,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betmgm,player_rebounds_over_under,zach collins,False,7.5,-115,2023-10-27T17:05:09,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_rebounds_over_under,zach collins,True,6.5,-150,2023-10-28T01:45:56,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_rebounds_over_under,zach collins,True,7.5,110,2023-10-28T02:10:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_rebounds_over_under,zach collins,False,6.5,105,2023-10-28T01:45:56,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_rebounds_over_under,zach collins,False,7.5,-160,2023-10-28T02:10:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betrivers,player_rebounds_over_under,zach collins,True,6.5,-205,2023-10-28T00:00:10,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,pinnacle,player_rebounds_over_under,zach collins,False,7.5,-110,2023-10-26T21:30:57,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betrivers,player_rebounds_over_under,zach collins,True,8.5,150,2023-10-28T00:11:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,pinnacle,player_rebounds_over_under,zach collins,True,7.5,-120,2023-10-26T21:30:57,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_rebounds_over_under,zach collins,False,7.5,-160,2023-10-28T02:05:21,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,zach collins,False,12.5,-120,2023-10-28T00:20:10,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,zach collins,False,13.5,-120,2023-10-28T00:15:18,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,zach collins,False,18.5,-425,2023-10-28T00:10:20,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,zach collins,False,19.5,-600,2023-10-27T17:10:12,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betrivers,player_points_over_under,zach collins,True,10.5,-360,2023-10-28T00:11:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betrivers,player_points_over_under,zach collins,True,11.5,-235,2023-10-28T00:11:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betrivers,player_points_over_under,zach collins,True,12.5,-157,2023-10-28T00:11:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betrivers,player_points_over_under,zach collins,True,13.5,-114,2023-10-28T00:00:10,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betrivers,player_points_over_under,zach collins,True,14.5,118,2023-10-28T00:11:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betrivers,player_points_over_under,zach collins,True,15.5,155,2023-10-28T00:11:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betrivers,player_points_over_under,zach collins,True,16.5,205,2023-10-28T00:11:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_rebounds_over_under,zach collins,True,6.5,1000,2023-10-28T02:45:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_rebounds_over_under,zach collins,True,7.5,120,2023-10-28T02:05:21,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_rebounds_over_under,zach collins,True,8.5,124,2023-10-28T01:57:13,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_rebounds_over_under,zach collins,False,6.5,-50000,2023-10-28T02:45:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_rebounds_over_under,zach collins,False,8.5,-166,2023-10-28T01:57:13,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_assists_over_under,zach collins,False,6.5,-185,2023-10-28T01:30:28,San Antonio Spurs,Houston Rockets
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_steals_over_under,zach collins,False,0.5,-240,2023-10-30T02:30:09,LA Clippers,San Antonio Spurs
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_assists_over_under,zach collins,False,4.5,120,2023-10-28T01:05:18,San Antonio Spurs,Houston Rockets
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,zach collins,False,8.5,-125,2023-10-30T02:45:05,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,zach collins,False,9.5,-310,2023-10-30T03:05:10,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,zach collins,False,10.5,-125,2023-10-30T01:30:40,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,zach collins,False,11.5,-125,2023-10-30T02:00:32,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,zach collins,False,12.5,-120,2023-10-30T01:15:26,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_points_over_under,zach collins,True,8.5,100,2023-10-30T02:30:09,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,zach collins,False,14.5,-215,2023-10-30T01:00:35,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_points_over_under,zach collins,True,9.5,-105,2023-10-30T02:25:48,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_points_over_under,zach collins,True,11.5,-110,2023-10-30T01:21:37,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_points_over_under,zach collins,True,12.5,-110,2023-10-30T01:15:37,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_points_over_under,zach collins,False,8.5,-140,2023-10-30T02:30:09,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_points_over_under,zach collins,False,9.5,-135,2023-10-30T02:25:48,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_points_over_under,zach collins,False,10.5,-130,2023-10-30T01:30:20,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_points_over_under,zach collins,False,11.5,-130,2023-10-30T01:21:37,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_points_over_under,zach collins,True,10.5,-110,2023-10-30T01:30:20,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,zach collins,False,13.5,-155,2023-10-30T01:00:35,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,zach collins,False,11.5,115,2023-10-30T01:00:35,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,zach collins,False,10.5,165,2023-10-30T01:00:35,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_points_over_under,zach collins,False,9.5,-128,2023-10-30T02:40:22,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_points_over_under,zach collins,False,10.5,-104,2023-10-30T02:55:05,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_points_over_under,zach collins,False,11.5,-104,2023-10-30T02:00:04,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_points_over_under,zach collins,False,12.5,-106,2023-10-30T01:15:21,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,pinnacle,player_points_over_under,zach collins,True,12.5,-115,2023-10-29T19:00:19,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,pinnacle,player_points_over_under,zach collins,False,12.5,-115,2023-10-29T19:00:19,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,zach collins,True,10.5,-215,2023-10-30T01:00:35,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,zach collins,True,11.5,-150,2023-10-30T01:00:35,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,zach collins,True,13.5,120,2023-10-30T01:00:35,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,zach collins,True,14.5,165,2023-10-30T01:00:35,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,zach collins,True,8.5,-105,2023-10-30T02:45:05,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,zach collins,True,9.5,220,2023-10-30T03:05:10,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,zach collins,True,10.5,-105,2023-10-30T01:30:40,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,zach collins,True,11.5,-105,2023-10-30T02:00:32,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,zach collins,True,12.5,-110,2023-10-30T01:15:26,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_points_over_under,zach collins,False,12.5,-120,2023-10-30T01:15:37,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_points_over_under,zach collins,False,8.5,-130,2023-10-30T02:51:09,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,betrivers,player_points_over_under,zach collins,True,10.5,-265,2023-10-30T01:15:33,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,betrivers,player_points_over_under,zach collins,True,12.5,-122,2023-10-30T01:15:33,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,betrivers,player_rebounds_over_under,zach collins,True,6.5,-141,2023-10-30T01:15:33,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,betrivers,player_rebounds_over_under,zach collins,True,7.5,128,2023-10-30T01:15:33,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_steals_over_under,zach collins,True,0.5,1000,2023-10-30T03:10:05,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_steals_over_under,zach collins,False,0.5,-100000,2023-10-30T03:10:05,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_steals_over_under,zach collins,True,0.5,950,2023-10-30T03:05:10,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_steals_over_under,zach collins,False,0.5,-4000,2023-10-30T03:05:10,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_rebounds_over_under,zach collins,False,7.5,-150,2023-10-30T02:30:09,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_threes_over_under,zach collins,False,0.5,-140,2023-10-30T01:55:42,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_threes_over_under,zach collins,False,1.5,-2500,2023-10-30T03:05:10,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_threes_over_under,zach collins,False,0.5,-575,2023-10-30T02:45:05,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_threes_over_under,zach collins,True,1.5,850,2023-10-30T03:05:10,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_threes_over_under,zach collins,True,0.5,360,2023-10-30T02:45:05,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_threes_over_under,zach collins,False,0.5,154,2023-10-30T00:20:33,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_threes_over_under,zach collins,True,0.5,-200,2023-10-30T00:20:33,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_threes_over_under,zach collins,True,0.5,100,2023-10-30T01:55:42,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_rebounds_over_under,zach collins,False,6.5,110,2023-10-30T02:25:48,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_rebounds_over_under,zach collins,True,7.5,105,2023-10-30T02:30:09,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_rebounds_over_under,zach collins,True,6.5,-160,2023-10-30T02:25:48,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,betrivers,player_points_over_under,zach collins,True,13.5,110,2023-10-30T01:15:33,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,betrivers,player_points_over_under,zach collins,True,14.5,148,2023-10-30T01:15:33,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,betrivers,player_points_over_under,zach collins,True,15.5,190,2023-10-30T01:15:33,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_rebounds_over_under,zach collins,True,6.5,1000,2023-10-30T03:10:05,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_rebounds_over_under,zach collins,True,7.5,116,2023-10-30T02:45:08,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_rebounds_over_under,zach collins,False,6.5,-100000,2023-10-30T03:15:05,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_rebounds_over_under,zach collins,False,7.5,-154,2023-10-30T02:45:08,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,pinnacle,player_rebounds_over_under,zach collins,True,6.5,-137,2023-10-29T22:03:26,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,pinnacle,player_rebounds_over_under,zach collins,False,6.5,103,2023-10-29T22:03:26,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_rebounds_over_under,zach collins,True,5.5,-150,2023-10-30T01:25:04,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_rebounds_over_under,zach collins,True,6.5,235,2023-10-30T03:05:10,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_rebounds_over_under,zach collins,True,7.5,120,2023-10-30T02:45:05,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_rebounds_over_under,zach collins,False,5.5,115,2023-10-30T01:25:04,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_rebounds_over_under,zach collins,False,6.5,-330,2023-10-30T03:05:10,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_rebounds_over_under,zach collins,False,7.5,-160,2023-10-30T02:45:05,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,betrivers,player_points_over_under,zach collins,True,11.5,-180,2023-10-30T01:15:33,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_points_over_under,zach collins,True,12.5,-114,2023-10-30T01:15:21,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_points_over_under,zach collins,True,11.5,-122,2023-10-30T02:00:04,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_points_over_under,zach collins,True,10.5,-122,2023-10-30T02:55:05,LA Clippers,San Antonio Spurs
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,pinnacle,player_assists_over_under,zach collins,False,3.5,-112,2023-10-26T21:30:57,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,pinnacle,player_assists_over_under,zach collins,True,3.5,-118,2023-10-26T21:30:57,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_assists_over_under,zach collins,False,8.5,-100000,2023-10-28T02:45:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_assists_over_under,zach collins,False,7.5,-144,2023-10-28T02:05:21,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_assists_over_under,zach collins,False,6.5,174,2023-10-28T01:45:33,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_assists_over_under,zach collins,False,5.5,106,2023-10-28T01:25:19,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_assists_over_under,zach collins,True,3.5,-140,2023-10-28T00:30:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_assists_over_under,zach collins,False,4.5,116,2023-10-28T01:00:34,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_assists_over_under,zach collins,False,2.5,134,2023-10-28T00:25:43,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_assists_over_under,zach collins,True,8.5,1000,2023-10-28T02:45:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_assists_over_under,zach collins,True,7.5,108,2023-10-28T02:05:21,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_assists_over_under,zach collins,True,6.5,-240,2023-10-28T01:45:33,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_assists_over_under,zach collins,True,5.5,-140,2023-10-28T01:25:19,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_assists_over_under,zach collins,True,4.5,-154,2023-10-28T01:00:34,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_assists_over_under,zach collins,False,3.5,106,2023-10-28T00:30:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_assists_over_under,zach collins,True,4.5,-155,2023-10-28T01:05:06,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_assists_over_under,zach collins,True,5.5,-130,2023-10-28T01:25:08,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_assists_over_under,zach collins,True,6.5,-175,2023-10-28T01:35:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_assists_over_under,zach collins,False,3.5,-170,2023-10-28T00:26:52,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_assists_over_under,zach collins,True,6.5,130,2023-10-28T01:30:28,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_assists_over_under,zach collins,True,5.5,-150,2023-10-28T01:26:14,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_assists_over_under,zach collins,True,4.5,-170,2023-10-28T01:05:18,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_assists_over_under,zach collins,True,3.5,120,2023-10-28T00:26:52,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betmgm,player_assists_over_under,zach collins,False,3.5,-110,2023-10-27T13:00:08,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betmgm,player_assists_over_under,zach collins,True,3.5,-120,2023-10-27T13:00:08,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_assists_over_under,zach collins,False,8.5,-700,2023-10-28T02:36:09,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_assists_over_under,zach collins,False,7.5,-135,2023-10-28T02:05:04,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_assists_over_under,zach collins,False,6.5,130,2023-10-28T01:35:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_assists_over_under,zach collins,False,5.5,100,2023-10-28T01:25:08,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_assists_over_under,zach collins,False,4.5,115,2023-10-28T01:05:06,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_assists_over_under,zach collins,False,3.5,105,2023-10-28T00:30:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_assists_over_under,zach collins,True,8.5,425,2023-10-28T02:36:09,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_assists_over_under,zach collins,True,7.5,100,2023-10-28T02:05:04,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_assists_over_under,zach collins,True,3.5,-140,2023-10-28T00:30:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_assists_over_under,zach collins,True,2.5,-180,2023-10-28T00:25:43,San Antonio Spurs,Houston Rockets
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_steals_over_under,zach collins,True,0.5,160,2023-10-30T02:30:09,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_assists_over_under,zach collins,True,3.5,-128,2023-10-30T02:45:08,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_assists_over_under,zach collins,False,4.5,-165,2023-10-30T02:30:09,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_assists_over_under,zach collins,False,5.5,-130,2023-10-30T01:55:42,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_assists_over_under,zach collins,False,6.5,-185,2023-10-30T01:25:28,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,betrivers,player_assists_over_under,zach collins,True,3.5,-132,2023-10-30T01:15:33,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_blocks_over_under,zach collins,True,0.5,1000,2023-10-30T03:10:05,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_blocks_over_under,zach collins,False,0.5,-100000,2023-10-30T03:10:05,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_blocks_over_under,zach collins,True,0.5,950,2023-10-30T03:05:10,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_blocks_over_under,zach collins,False,0.5,-4000,2023-10-30T03:05:10,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_blocks_over_under,zach collins,True,0.5,220,2023-10-30T02:30:09,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_blocks_over_under,zach collins,True,1.5,300,2023-10-30T01:15:37,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_blocks_over_under,zach collins,False,0.5,-350,2023-10-30T02:30:09,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_blocks_over_under,zach collins,False,1.5,-500,2023-10-30T01:15:37,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,betrivers,player_blocks_over_under,zach collins,True,0.5,-162,2023-10-30T01:15:33,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_points_over_under,zach collins,True,8.5,102,2023-10-30T02:51:09,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_points_over_under,zach collins,True,9.5,100,2023-10-30T02:40:22,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_assists_over_under,zach collins,False,3.5,100,2023-10-30T01:15:37,LA Clippers,San Antonio Spurs
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_assists_over_under,zach collins,False,5.5,105,2023-10-28T01:26:14,San Antonio Spurs,Houston Rockets
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_assists_over_under,zach collins,True,6.5,130,2023-10-30T01:25:28,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_assists_over_under,zach collins,True,4.5,115,2023-10-30T02:30:09,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_assists_over_under,zach collins,True,4.5,1000,2023-10-30T03:10:05,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_assists_over_under,zach collins,True,5.5,-114,2023-10-30T01:55:08,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_assists_over_under,zach collins,False,3.5,-104,2023-10-30T02:45:08,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_assists_over_under,zach collins,False,4.5,-100000,2023-10-30T03:15:05,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_assists_over_under,zach collins,False,5.5,-114,2023-10-30T01:55:08,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,pinnacle,player_assists_over_under,zach collins,True,3.5,-127,2023-10-29T19:00:19,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,pinnacle,player_assists_over_under,zach collins,False,3.5,-104,2023-10-29T19:00:19,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_assists_over_under,zach collins,True,3.5,-115,2023-10-30T02:45:05,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_assists_over_under,zach collins,True,4.5,300,2023-10-30T03:05:10,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_assists_over_under,zach collins,True,5.5,-110,2023-10-30T01:55:03,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_assists_over_under,zach collins,False,3.5,-115,2023-10-30T02:45:05,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_assists_over_under,zach collins,False,4.5,-475,2023-10-30T03:05:10,LA Clippers,San Antonio Spurs
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_threes_over_under,zach collins,True,0.5,125,2023-10-28T01:26:14,San Antonio Spurs,Houston Rockets
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_assists_over_under,zach collins,False,5.5,-120,2023-10-30T01:55:03,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_assists_over_under,zach collins,True,3.5,-130,2023-10-30T01:15:37,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_assists_over_under,zach collins,True,5.5,-110,2023-10-30T01:55:42,LA Clippers,San Antonio Spurs
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_threes_over_under,zach collins,False,0.5,-180,2023-10-28T01:26:14,San Antonio Spurs,Houston Rockets

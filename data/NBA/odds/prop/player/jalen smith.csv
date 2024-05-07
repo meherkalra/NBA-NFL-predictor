@@ -1,0 +1,203 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_threes_over_under,jalen smith,False,0.5,-3500,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_assists_over_under,jalen smith,True,1.5,800,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_assists_over_under,jalen smith,False,1.5,-2200,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_blocks_over_under,jalen smith,True,1.5,750,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_blocks_over_under,jalen smith,False,1.5,-2000,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,jalen smith,True,8.5,136,2023-03-21T01:00:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,jalen smith,True,9.5,-128,2023-03-20T22:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,jalen smith,True,10.5,-220,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,jalen smith,True,11.5,104,2023-03-21T00:30:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,jalen smith,True,12.5,104,2023-03-20T23:45:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,jalen smith,False,9.5,104,2023-03-20T22:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,jalen smith,False,10.5,162,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,jalen smith,False,8.5,-182,2023-03-21T01:00:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,jalen smith,False,12.5,-138,2023-03-20T23:45:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_steals_over_under,jalen smith,False,0.5,-10000,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_steals_over_under,jalen smith,True,0.5,1000,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,jalen smith,False,11.5,-138,2023-03-21T00:30:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_rebounds_over_under,jalen smith,False,6.5,-105,2023-03-20T23:00:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_rebounds_over_under,jalen smith,False,5.5,-114,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_rebounds_over_under,jalen smith,False,7.5,-118,2023-03-20T23:45:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_rebounds_over_under,jalen smith,True,7.5,-114,2023-03-20T23:45:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_rebounds_over_under,jalen smith,True,6.5,-115,2023-03-20T23:00:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_rebounds_over_under,jalen smith,True,5.5,-118,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_rebounds_over_under,jalen smith,True,4.5,104,2023-03-21T01:00:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_rebounds_over_under,jalen smith,False,4.5,-138,2023-03-21T01:00:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_threes_over_under,jalen smith,True,0.5,920,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_rebounds_over_under,jalen smith,False,5.5,-115,2023-03-22T23:30:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_rebounds_over_under,jalen smith,True,5.5,-105,2023-03-22T23:30:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_points_over_under,jalen smith,False,9.5,-122,2023-03-22T23:30:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_points_over_under,jalen smith,True,9.5,100,2023-03-22T23:30:02,Toronto Raptors,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_points_over_under,jalen smith,False,9.5,106,2023-03-25T21:00:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_points_over_under,jalen smith,False,8.5,-106,2023-03-25T20:45:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_points_over_under,jalen smith,True,8.5,-114,2023-03-25T20:45:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_points_over_under,jalen smith,True,9.5,-130,2023-03-25T21:00:01,Atlanta Hawks,Indiana Pacers
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_steals_over_under,jalen smith,False,0.5,-100000,2023-03-28T01:15:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_threes_over_under,jalen smith,False,1.5,-50000,2023-03-28T01:15:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_threes_over_under,jalen smith,True,1.5,1000,2023-03-28T01:15:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_assists_over_under,jalen smith,True,0.5,1000,2023-03-28T01:15:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_assists_over_under,jalen smith,True,1.5,174,2023-03-27T23:15:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_assists_over_under,jalen smith,False,0.5,-50000,2023-03-28T01:15:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_assists_over_under,jalen smith,False,1.5,-240,2023-03-27T23:15:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_blocks_over_under,jalen smith,True,0.5,1000,2023-03-28T01:00:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_blocks_over_under,jalen smith,False,0.5,-100000,2023-03-28T01:15:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,jalen smith,True,10.5,-158,2023-03-28T00:00:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,jalen smith,True,11.5,450,2023-03-28T01:15:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,jalen smith,True,12.5,-120,2023-03-27T23:00:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_threes_over_under,jalen smith,True,0.5,132,2023-03-28T00:15:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,jalen smith,True,13.5,154,2023-03-28T00:45:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,jalen smith,False,11.5,-800,2023-03-28T01:15:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,jalen smith,False,12.5,-102,2023-03-27T23:00:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,jalen smith,False,13.5,-210,2023-03-28T00:45:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_rebounds_over_under,jalen smith,True,6.5,750,2023-03-28T01:15:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_rebounds_over_under,jalen smith,True,7.5,154,2023-03-28T00:45:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_rebounds_over_under,jalen smith,True,8.5,-132,2023-03-28T00:30:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_rebounds_over_under,jalen smith,True,9.5,126,2023-03-28T00:00:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_rebounds_over_under,jalen smith,False,6.5,-2000,2023-03-28T01:15:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_rebounds_over_under,jalen smith,False,7.5,-210,2023-03-28T00:45:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_rebounds_over_under,jalen smith,False,8.5,100,2023-03-28T00:30:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_rebounds_over_under,jalen smith,False,9.5,-168,2023-03-28T00:00:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_steals_over_under,jalen smith,True,0.5,1000,2023-03-28T01:00:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,jalen smith,False,10.5,118,2023-03-28T00:00:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_threes_over_under,jalen smith,False,0.5,-178,2023-03-28T00:15:01,Indiana Pacers,Dallas Mavericks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,jalen smith,True,10.5,-128,2023-03-29T23:00:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,jalen smith,False,10.5,104,2023-03-29T23:00:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_rebounds_over_under,jalen smith,True,6.5,112,2023-03-29T23:00:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_rebounds_over_under,jalen smith,False,6.5,-138,2023-03-29T23:00:01,Indiana Pacers,Milwaukee Bucks
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_rebounds_over_under,jalen smith,False,14.5,142,2023-04-01T01:26:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_rebounds_over_under,jalen smith,True,11.5,-144,2023-04-01T00:14:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_rebounds_over_under,jalen smith,True,10.5,116,2023-03-31T23:44:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_rebounds_over_under,jalen smith,True,9.5,112,2023-03-31T23:42:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_rebounds_over_under,jalen smith,True,8.5,102,2023-03-31T23:18:02,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_rebounds_over_under,jalen smith,True,7.5,116,2023-03-31T23:14:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_rebounds_over_under,jalen smith,True,6.5,-132,2023-03-31T23:16:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,jalen smith,False,16.5,110,2023-04-01T00:56:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,jalen smith,False,14.5,-154,2023-03-31T23:58:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_rebounds_over_under,jalen smith,True,12.5,114,2023-04-01T00:02:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,jalen smith,False,13.5,-188,2023-04-01T01:20:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,jalen smith,False,12.5,-146,2023-04-01T01:26:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,jalen smith,False,11.5,-125,2023-03-31T23:16:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,jalen smith,True,16.5,-146,2023-04-01T00:56:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,jalen smith,True,15.5,-112,2023-03-31T23:48:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,jalen smith,True,14.5,116,2023-03-31T23:58:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,jalen smith,False,15.5,-118,2023-03-31T23:48:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_rebounds_over_under,jalen smith,True,13.5,-230,2023-04-01T01:24:02,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_rebounds_over_under,jalen smith,True,15.5,-125,2023-04-01T00:54:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,jalen smith,True,13.5,140,2023-04-01T01:20:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_threes_over_under,jalen smith,False,1.5,-1200,2023-04-01T01:26:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_threes_over_under,jalen smith,False,0.5,144,2023-03-31T23:16:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_threes_over_under,jalen smith,True,1.5,580,2023-04-01T01:26:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_threes_over_under,jalen smith,True,0.5,-194,2023-03-31T23:16:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_steals_over_under,jalen smith,False,0.5,-7000,2023-04-01T01:26:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_steals_over_under,jalen smith,True,0.5,1000,2023-04-01T01:12:02,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_rebounds_over_under,jalen smith,False,15.5,-106,2023-04-01T00:54:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_rebounds_over_under,jalen smith,False,13.5,168,2023-04-01T01:24:02,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_rebounds_over_under,jalen smith,False,12.5,-152,2023-04-01T00:02:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_rebounds_over_under,jalen smith,False,11.5,108,2023-04-01T00:14:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_rebounds_over_under,jalen smith,False,10.5,-154,2023-03-31T23:44:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_rebounds_over_under,jalen smith,False,9.5,-148,2023-03-31T23:42:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_rebounds_over_under,jalen smith,False,8.5,-136,2023-03-31T23:18:02,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_rebounds_over_under,jalen smith,False,7.5,-154,2023-03-31T23:14:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_rebounds_over_under,jalen smith,False,6.5,100,2023-03-31T23:16:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_rebounds_over_under,jalen smith,True,14.5,-192,2023-04-01T01:26:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,jalen smith,True,12.5,110,2023-04-01T01:26:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_blocks_over_under,jalen smith,False,0.5,-600,2023-04-01T01:12:02,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_blocks_over_under,jalen smith,False,1.5,-1100,2023-04-01T01:26:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_assists_over_under,jalen smith,True,0.5,-114,2023-04-01T00:14:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_assists_over_under,jalen smith,True,1.5,450,2023-04-01T01:26:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_assists_over_under,jalen smith,False,0.5,-114,2023-04-01T00:14:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,jalen smith,True,11.5,-106,2023-03-31T23:16:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_blocks_over_under,jalen smith,True,0.5,370,2023-04-01T01:12:02,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_blocks_over_under,jalen smith,True,1.5,550,2023-04-01T01:26:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_assists_over_under,jalen smith,False,1.5,-800,2023-04-01T01:26:01,Indiana Pacers,Oklahoma City Thunder
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_rebounds_over_under,jalen smith,False,6.5,-106,2023-04-03T00:08:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_rebounds_over_under,jalen smith,True,6.5,-114,2023-04-03T00:08:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,jalen smith,False,10.5,-122,2023-04-03T00:08:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,jalen smith,True,10.5,100,2023-04-03T00:08:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_points_over_under,jalen smith,False,11.5,108,2023-04-05T23:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_points_over_under,jalen smith,True,16.5,116,2023-04-06T00:45:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_points_over_under,jalen smith,True,18.5,124,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_points_over_under,jalen smith,False,10.5,-125,2023-04-05T23:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_points_over_under,jalen smith,False,13.5,-136,2023-04-06T00:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_points_over_under,jalen smith,False,18.5,-166,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_points_over_under,jalen smith,False,15.5,-106,2023-04-06T01:00:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_points_over_under,jalen smith,False,16.5,-154,2023-04-06T00:45:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_points_over_under,jalen smith,True,15.5,-125,2023-04-06T01:00:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,jalen smith,True,10.5,-110,2023-04-05T23:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,jalen smith,True,11.5,-140,2023-04-05T23:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,jalen smith,True,13.5,100,2023-04-06T00:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,jalen smith,True,14.5,110,2023-04-06T00:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,jalen smith,True,15.5,-125,2023-04-06T01:00:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_points_over_under,jalen smith,False,14.5,-148,2023-04-06T00:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_points_over_under,jalen smith,True,14.5,112,2023-04-06T00:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_blocks_over_under,jalen smith,False,2.5,-1600,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_points_over_under,jalen smith,True,11.5,-144,2023-04-05T23:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_rebounds_over_under,jalen smith,True,6.5,-165,2023-04-05T23:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_rebounds_over_under,jalen smith,True,7.5,-145,2023-04-05T23:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_rebounds_over_under,jalen smith,False,2.5,160,2023-04-06T01:00:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_assists_over_under,jalen smith,True,0.5,450,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_assists_over_under,jalen smith,True,1.5,174,2023-04-05T23:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_assists_over_under,jalen smith,False,0.5,-800,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_assists_over_under,jalen smith,False,1.5,-240,2023-04-05T23:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_assists_over_under,jalen smith,True,0.5,550,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_assists_over_under,jalen smith,True,1.5,165,2023-04-05T23:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_points_over_under,jalen smith,True,13.5,102,2023-04-06T00:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_assists_over_under,jalen smith,False,0.5,-1100,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_blocks_over_under,jalen smith,True,0.5,152,2023-04-06T00:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_blocks_over_under,jalen smith,True,2.5,580,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_blocks_over_under,jalen smith,False,0.5,-205,2023-04-06T00:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_blocks_over_under,jalen smith,False,2.5,-1200,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_blocks_over_under,jalen smith,True,0.5,145,2023-04-06T00:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_blocks_over_under,jalen smith,True,2.5,700,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_blocks_over_under,jalen smith,False,0.5,-195,2023-04-06T00:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,jalen smith,True,16.5,110,2023-04-06T00:45:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_points_over_under,jalen smith,True,10.5,-106,2023-04-05T23:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_assists_over_under,jalen smith,False,1.5,-225,2023-04-05T23:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,jalen smith,True,17.5,-245,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,jalen smith,False,14.5,-145,2023-04-06T00:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,jalen smith,False,11.5,105,2023-04-05T23:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_steals_over_under,jalen smith,True,0.5,1000,2023-04-06T01:00:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_steals_over_under,jalen smith,False,0.5,-5000,2023-04-06T01:00:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_threes_over_under,jalen smith,True,0.5,182,2023-04-06T00:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_threes_over_under,jalen smith,True,1.5,520,2023-04-06T01:00:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_threes_over_under,jalen smith,True,2.5,580,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_threes_over_under,jalen smith,False,0.5,-250,2023-04-06T00:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_threes_over_under,jalen smith,False,1.5,-1000,2023-04-06T01:00:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_threes_over_under,jalen smith,False,2.5,-1200,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_threes_over_under,jalen smith,True,0.5,170,2023-04-06T00:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_threes_over_under,jalen smith,True,1.5,475,2023-04-06T01:00:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_threes_over_under,jalen smith,True,2.5,700,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_threes_over_under,jalen smith,False,0.5,-235,2023-04-06T00:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_threes_over_under,jalen smith,False,1.5,-900,2023-04-06T01:00:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_threes_over_under,jalen smith,False,2.5,-1600,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_rebounds_over_under,jalen smith,True,3.5,-110,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_rebounds_over_under,jalen smith,True,2.5,-215,2023-04-06T01:00:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_rebounds_over_under,jalen smith,False,7.5,116,2023-04-05T23:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_rebounds_over_under,jalen smith,False,6.5,124,2023-04-05T23:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_rebounds_over_under,jalen smith,False,5.5,-180,2023-04-06T00:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_steals_over_under,jalen smith,False,1.5,-5000,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,jalen smith,False,10.5,-120,2023-04-05T23:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_steals_over_under,jalen smith,False,0.5,-4000,2023-04-06T01:00:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_steals_over_under,jalen smith,True,1.5,1000,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,jalen smith,False,13.5,-130,2023-04-06T00:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,jalen smith,False,15.5,-110,2023-04-06T01:00:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,jalen smith,False,16.5,-150,2023-04-06T00:45:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,jalen smith,False,17.5,175,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_rebounds_over_under,jalen smith,True,2.5,-225,2023-04-06T01:00:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_rebounds_over_under,jalen smith,True,3.5,-166,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_rebounds_over_under,jalen smith,True,4.5,-120,2023-04-06T00:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_rebounds_over_under,jalen smith,True,5.5,134,2023-04-06T00:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_rebounds_over_under,jalen smith,True,6.5,-166,2023-04-05T23:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_rebounds_over_under,jalen smith,True,7.5,-154,2023-04-05T23:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_rebounds_over_under,jalen smith,False,2.5,164,2023-04-06T01:00:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_rebounds_over_under,jalen smith,False,3.5,124,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_rebounds_over_under,jalen smith,False,4.5,-110,2023-04-06T00:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_rebounds_over_under,jalen smith,False,3.5,-120,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_rebounds_over_under,jalen smith,False,4.5,-105,2023-04-06T00:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_rebounds_over_under,jalen smith,False,5.5,-175,2023-04-06T00:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_rebounds_over_under,jalen smith,False,6.5,120,2023-04-05T23:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_rebounds_over_under,jalen smith,False,7.5,110,2023-04-05T23:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_steals_over_under,jalen smith,True,0.5,1000,2023-04-06T01:00:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_rebounds_over_under,jalen smith,True,4.5,-125,2023-04-06T00:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_rebounds_over_under,jalen smith,True,5.5,130,2023-04-06T00:15:01,Indiana Pacers,New York Knicks

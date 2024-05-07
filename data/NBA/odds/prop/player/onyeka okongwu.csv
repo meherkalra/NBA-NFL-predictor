@@ -1,0 +1,1070 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-21,a1b9ce0fce5e09325a6d815ae5a02233,fanduel,player_assists_over_under,onyeka okongwu,True,1.5,1000,2023-03-22T01:45:01,Atlanta Hawks,Detroit Pistons
+2023-03-21,a1b9ce0fce5e09325a6d815ae5a02233,fanduel,player_steals_over_under,onyeka okongwu,False,0.5,-670,2023-03-22T01:30:02,Atlanta Hawks,Detroit Pistons
+2023-03-21,a1b9ce0fce5e09325a6d815ae5a02233,fanduel,player_steals_over_under,onyeka okongwu,True,1.5,1000,2023-03-22T01:45:01,Atlanta Hawks,Detroit Pistons
+2023-03-21,a1b9ce0fce5e09325a6d815ae5a02233,fanduel,player_steals_over_under,onyeka okongwu,True,0.5,400,2023-03-22T01:30:02,Atlanta Hawks,Detroit Pistons
+2023-03-21,a1b9ce0fce5e09325a6d815ae5a02233,fanduel,player_rebounds_over_under,onyeka okongwu,False,7.5,114,2023-03-22T01:15:01,Atlanta Hawks,Detroit Pistons
+2023-03-21,a1b9ce0fce5e09325a6d815ae5a02233,fanduel,player_rebounds_over_under,onyeka okongwu,True,8.5,280,2023-03-22T01:45:01,Atlanta Hawks,Detroit Pistons
+2023-03-21,a1b9ce0fce5e09325a6d815ae5a02233,fanduel,player_rebounds_over_under,onyeka okongwu,True,7.5,-152,2023-03-22T01:15:01,Atlanta Hawks,Detroit Pistons
+2023-03-21,a1b9ce0fce5e09325a6d815ae5a02233,fanduel,player_points_over_under,onyeka okongwu,False,10.5,-115,2023-03-21T23:15:01,Atlanta Hawks,Detroit Pistons
+2023-03-21,a1b9ce0fce5e09325a6d815ae5a02233,fanduel,player_points_over_under,onyeka okongwu,False,9.5,-138,2023-03-22T00:00:01,Atlanta Hawks,Detroit Pistons
+2023-03-21,a1b9ce0fce5e09325a6d815ae5a02233,fanduel,player_points_over_under,onyeka okongwu,False,8.5,-160,2023-03-22T01:00:02,Atlanta Hawks,Detroit Pistons
+2023-03-21,a1b9ce0fce5e09325a6d815ae5a02233,fanduel,player_points_over_under,onyeka okongwu,False,7.5,-300,2023-03-22T01:45:01,Atlanta Hawks,Detroit Pistons
+2023-03-21,a1b9ce0fce5e09325a6d815ae5a02233,fanduel,player_points_over_under,onyeka okongwu,False,6.5,152,2023-03-22T01:30:02,Atlanta Hawks,Detroit Pistons
+2023-03-21,a1b9ce0fce5e09325a6d815ae5a02233,fanduel,player_points_over_under,onyeka okongwu,True,10.5,-105,2023-03-21T23:15:01,Atlanta Hawks,Detroit Pistons
+2023-03-21,a1b9ce0fce5e09325a6d815ae5a02233,fanduel,player_points_over_under,onyeka okongwu,True,9.5,104,2023-03-22T00:00:01,Atlanta Hawks,Detroit Pistons
+2023-03-21,a1b9ce0fce5e09325a6d815ae5a02233,fanduel,player_points_over_under,onyeka okongwu,True,8.5,120,2023-03-22T01:00:02,Atlanta Hawks,Detroit Pistons
+2023-03-21,a1b9ce0fce5e09325a6d815ae5a02233,fanduel,player_points_over_under,onyeka okongwu,True,7.5,210,2023-03-22T01:45:01,Atlanta Hawks,Detroit Pistons
+2023-03-21,a1b9ce0fce5e09325a6d815ae5a02233,fanduel,player_points_over_under,onyeka okongwu,True,6.5,-205,2023-03-22T01:30:02,Atlanta Hawks,Detroit Pistons
+2023-03-21,a1b9ce0fce5e09325a6d815ae5a02233,fanduel,player_blocks_over_under,onyeka okongwu,False,3.5,-7000,2023-03-22T01:45:01,Atlanta Hawks,Detroit Pistons
+2023-03-21,a1b9ce0fce5e09325a6d815ae5a02233,fanduel,player_blocks_over_under,onyeka okongwu,False,1.5,-225,2023-03-22T01:15:01,Atlanta Hawks,Detroit Pistons
+2023-03-21,a1b9ce0fce5e09325a6d815ae5a02233,fanduel,player_blocks_over_under,onyeka okongwu,False,0.5,194,2023-03-21T23:45:01,Atlanta Hawks,Detroit Pistons
+2023-03-21,a1b9ce0fce5e09325a6d815ae5a02233,fanduel,player_blocks_over_under,onyeka okongwu,True,3.5,1000,2023-03-22T01:45:01,Atlanta Hawks,Detroit Pistons
+2023-03-21,a1b9ce0fce5e09325a6d815ae5a02233,fanduel,player_blocks_over_under,onyeka okongwu,True,1.5,164,2023-03-22T01:15:01,Atlanta Hawks,Detroit Pistons
+2023-03-21,a1b9ce0fce5e09325a6d815ae5a02233,fanduel,player_blocks_over_under,onyeka okongwu,True,0.5,-270,2023-03-21T23:45:01,Atlanta Hawks,Detroit Pistons
+2023-03-21,a1b9ce0fce5e09325a6d815ae5a02233,fanduel,player_assists_over_under,onyeka okongwu,False,1.5,-7000,2023-03-22T01:45:01,Atlanta Hawks,Detroit Pistons
+2023-03-21,a1b9ce0fce5e09325a6d815ae5a02233,fanduel,player_assists_over_under,onyeka okongwu,False,0.5,178,2023-03-22T00:00:01,Atlanta Hawks,Detroit Pistons
+2023-03-21,a1b9ce0fce5e09325a6d815ae5a02233,fanduel,player_assists_over_under,onyeka okongwu,True,0.5,-245,2023-03-22T00:00:01,Atlanta Hawks,Detroit Pistons
+2023-03-21,a1b9ce0fce5e09325a6d815ae5a02233,fanduel,player_steals_over_under,onyeka okongwu,False,1.5,-10000,2023-03-22T01:45:01,Atlanta Hawks,Detroit Pistons
+2023-03-21,a1b9ce0fce5e09325a6d815ae5a02233,fanduel,player_threes_over_under,onyeka okongwu,True,0.5,1000,2023-03-21T23:45:01,Atlanta Hawks,Detroit Pistons
+2023-03-21,a1b9ce0fce5e09325a6d815ae5a02233,fanduel,player_rebounds_over_under,onyeka okongwu,False,8.5,-420,2023-03-22T01:45:01,Atlanta Hawks,Detroit Pistons
+2023-03-21,a1b9ce0fce5e09325a6d815ae5a02233,fanduel,player_threes_over_under,onyeka okongwu,False,0.5,-100000,2023-03-21T23:45:01,Atlanta Hawks,Detroit Pistons
+2023-03-22,f5a7269478af52df731f40b910673b5c,fanduel,player_points_over_under,onyeka okongwu,False,14.5,-245,2023-03-23T02:15:01,Minnesota Timberwolves,Atlanta Hawks
+2023-03-22,f5a7269478af52df731f40b910673b5c,fanduel,player_rebounds_over_under,onyeka okongwu,True,8.5,168,2023-03-23T02:00:01,Minnesota Timberwolves,Atlanta Hawks
+2023-03-22,f5a7269478af52df731f40b910673b5c,fanduel,player_rebounds_over_under,onyeka okongwu,False,6.5,-130,2023-03-23T01:30:01,Minnesota Timberwolves,Atlanta Hawks
+2023-03-22,f5a7269478af52df731f40b910673b5c,fanduel,player_rebounds_over_under,onyeka okongwu,False,7.5,-320,2023-03-23T02:15:01,Minnesota Timberwolves,Atlanta Hawks
+2023-03-22,f5a7269478af52df731f40b910673b5c,fanduel,player_rebounds_over_under,onyeka okongwu,False,8.5,-230,2023-03-23T02:00:01,Minnesota Timberwolves,Atlanta Hawks
+2023-03-22,f5a7269478af52df731f40b910673b5c,fanduel,player_steals_over_under,onyeka okongwu,True,0.5,1000,2023-03-23T02:15:01,Minnesota Timberwolves,Atlanta Hawks
+2023-03-22,f5a7269478af52df731f40b910673b5c,fanduel,player_steals_over_under,onyeka okongwu,False,0.5,-7000,2023-03-23T02:15:01,Minnesota Timberwolves,Atlanta Hawks
+2023-03-22,f5a7269478af52df731f40b910673b5c,fanduel,player_threes_over_under,onyeka okongwu,True,0.5,1000,2023-03-23T00:45:01,Minnesota Timberwolves,Atlanta Hawks
+2023-03-22,f5a7269478af52df731f40b910673b5c,fanduel,player_threes_over_under,onyeka okongwu,False,0.5,-100000,2023-03-23T00:45:01,Minnesota Timberwolves,Atlanta Hawks
+2023-03-22,f5a7269478af52df731f40b910673b5c,fanduel,player_points_over_under,onyeka okongwu,False,15.5,-138,2023-03-23T02:00:01,Minnesota Timberwolves,Atlanta Hawks
+2023-03-22,f5a7269478af52df731f40b910673b5c,fanduel,player_assists_over_under,onyeka okongwu,True,0.5,152,2023-03-23T01:30:01,Minnesota Timberwolves,Atlanta Hawks
+2023-03-22,f5a7269478af52df731f40b910673b5c,fanduel,player_assists_over_under,onyeka okongwu,True,1.5,1000,2023-03-23T02:15:01,Minnesota Timberwolves,Atlanta Hawks
+2023-03-22,f5a7269478af52df731f40b910673b5c,fanduel,player_assists_over_under,onyeka okongwu,False,0.5,-205,2023-03-23T01:30:01,Minnesota Timberwolves,Atlanta Hawks
+2023-03-22,f5a7269478af52df731f40b910673b5c,fanduel,player_rebounds_over_under,onyeka okongwu,True,6.5,-102,2023-03-23T01:30:01,Minnesota Timberwolves,Atlanta Hawks
+2023-03-22,f5a7269478af52df731f40b910673b5c,fanduel,player_blocks_over_under,onyeka okongwu,False,1.5,-275,2023-03-23T01:45:02,Minnesota Timberwolves,Atlanta Hawks
+2023-03-22,f5a7269478af52df731f40b910673b5c,fanduel,player_points_over_under,onyeka okongwu,False,11.5,-140,2023-03-23T01:30:01,Minnesota Timberwolves,Atlanta Hawks
+2023-03-22,f5a7269478af52df731f40b910673b5c,fanduel,player_points_over_under,onyeka okongwu,False,9.5,140,2023-03-23T01:45:02,Minnesota Timberwolves,Atlanta Hawks
+2023-03-22,f5a7269478af52df731f40b910673b5c,fanduel,player_blocks_over_under,onyeka okongwu,True,0.5,132,2023-03-23T01:30:01,Minnesota Timberwolves,Atlanta Hawks
+2023-03-22,f5a7269478af52df731f40b910673b5c,fanduel,player_blocks_over_under,onyeka okongwu,True,1.5,198,2023-03-23T01:45:02,Minnesota Timberwolves,Atlanta Hawks
+2023-03-22,f5a7269478af52df731f40b910673b5c,fanduel,player_blocks_over_under,onyeka okongwu,True,3.5,1000,2023-03-23T02:15:01,Minnesota Timberwolves,Atlanta Hawks
+2023-03-22,f5a7269478af52df731f40b910673b5c,fanduel,player_blocks_over_under,onyeka okongwu,False,0.5,-178,2023-03-23T01:30:01,Minnesota Timberwolves,Atlanta Hawks
+2023-03-22,f5a7269478af52df731f40b910673b5c,fanduel,player_points_over_under,onyeka okongwu,True,15.5,104,2023-03-23T02:00:01,Minnesota Timberwolves,Atlanta Hawks
+2023-03-22,f5a7269478af52df731f40b910673b5c,fanduel,player_rebounds_over_under,onyeka okongwu,True,7.5,225,2023-03-23T02:15:01,Minnesota Timberwolves,Atlanta Hawks
+2023-03-22,f5a7269478af52df731f40b910673b5c,fanduel,player_points_over_under,onyeka okongwu,True,14.5,178,2023-03-23T02:15:01,Minnesota Timberwolves,Atlanta Hawks
+2023-03-22,f5a7269478af52df731f40b910673b5c,fanduel,player_points_over_under,onyeka okongwu,True,11.5,106,2023-03-23T01:30:01,Minnesota Timberwolves,Atlanta Hawks
+2023-03-22,f5a7269478af52df731f40b910673b5c,fanduel,player_assists_over_under,onyeka okongwu,False,1.5,-7000,2023-03-23T02:15:01,Minnesota Timberwolves,Atlanta Hawks
+2023-03-22,f5a7269478af52df731f40b910673b5c,fanduel,player_points_over_under,onyeka okongwu,True,9.5,-188,2023-03-23T01:45:02,Minnesota Timberwolves,Atlanta Hawks
+2023-03-22,f5a7269478af52df731f40b910673b5c,fanduel,player_blocks_over_under,onyeka okongwu,False,3.5,-5000,2023-03-23T02:15:01,Minnesota Timberwolves,Atlanta Hawks
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_rebounds_over_under,onyeka okongwu,False,7.5,-140,2023-03-25T21:00:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_points_over_under,onyeka okongwu,False,10.5,-122,2023-03-25T20:45:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_rebounds_over_under,onyeka okongwu,True,7.5,112,2023-03-25T20:45:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_points_over_under,onyeka okongwu,True,10.5,100,2023-03-25T20:45:01,Atlanta Hawks,Indiana Pacers
+2023-03-26,c86d3a6c5974f5fd63ec5a6876da980b,fanduel,player_points_over_under,onyeka okongwu,False,9.5,-122,2023-03-26T21:30:02,Atlanta Hawks,Memphis Grizzlies
+2023-03-26,c86d3a6c5974f5fd63ec5a6876da980b,fanduel,player_points_over_under,onyeka okongwu,False,8.5,108,2023-03-26T22:00:01,Atlanta Hawks,Memphis Grizzlies
+2023-03-26,c86d3a6c5974f5fd63ec5a6876da980b,fanduel,player_points_over_under,onyeka okongwu,True,9.5,100,2023-03-26T21:30:02,Atlanta Hawks,Memphis Grizzlies
+2023-03-26,c86d3a6c5974f5fd63ec5a6876da980b,fanduel,player_points_over_under,onyeka okongwu,True,8.5,-132,2023-03-26T22:00:01,Atlanta Hawks,Memphis Grizzlies
+2023-03-26,c86d3a6c5974f5fd63ec5a6876da980b,fanduel,player_rebounds_over_under,onyeka okongwu,True,6.5,-124,2023-03-26T22:00:01,Atlanta Hawks,Memphis Grizzlies
+2023-03-26,c86d3a6c5974f5fd63ec5a6876da980b,fanduel,player_rebounds_over_under,onyeka okongwu,True,7.5,114,2023-03-26T21:15:01,Atlanta Hawks,Memphis Grizzlies
+2023-03-26,c86d3a6c5974f5fd63ec5a6876da980b,fanduel,player_rebounds_over_under,onyeka okongwu,False,7.5,-140,2023-03-26T21:15:01,Atlanta Hawks,Memphis Grizzlies
+2023-03-26,c86d3a6c5974f5fd63ec5a6876da980b,fanduel,player_rebounds_over_under,onyeka okongwu,False,6.5,102,2023-03-26T22:00:01,Atlanta Hawks,Memphis Grizzlies
+2023-03-28,55dac6ad75a878a288979833ef422c48,fanduel,player_rebounds_over_under,onyeka okongwu,False,7.5,-146,2023-03-28T17:15:01,Atlanta Hawks,Cleveland Cavaliers
+2023-03-28,55dac6ad75a878a288979833ef422c48,fanduel,player_rebounds_over_under,onyeka okongwu,False,6.5,104,2023-03-28T23:15:02,Atlanta Hawks,Cleveland Cavaliers
+2023-03-28,55dac6ad75a878a288979833ef422c48,fanduel,player_rebounds_over_under,onyeka okongwu,True,7.5,114,2023-03-28T17:15:01,Atlanta Hawks,Cleveland Cavaliers
+2023-03-28,55dac6ad75a878a288979833ef422c48,fanduel,player_rebounds_over_under,onyeka okongwu,True,6.5,-128,2023-03-28T23:15:02,Atlanta Hawks,Cleveland Cavaliers
+2023-03-28,55dac6ad75a878a288979833ef422c48,fanduel,player_points_over_under,onyeka okongwu,False,9.5,-130,2023-03-28T20:45:02,Atlanta Hawks,Cleveland Cavaliers
+2023-03-28,55dac6ad75a878a288979833ef422c48,fanduel,player_points_over_under,onyeka okongwu,False,8.5,106,2023-03-28T23:30:01,Atlanta Hawks,Cleveland Cavaliers
+2023-03-28,55dac6ad75a878a288979833ef422c48,fanduel,player_points_over_under,onyeka okongwu,True,9.5,106,2023-03-28T20:45:02,Atlanta Hawks,Cleveland Cavaliers
+2023-03-28,55dac6ad75a878a288979833ef422c48,fanduel,player_points_over_under,onyeka okongwu,True,8.5,-130,2023-03-28T23:30:01,Atlanta Hawks,Cleveland Cavaliers
+2023-03-31,9a32500dfc383b1fe0ef1ab29a3e5b65,fanduel,player_rebounds_over_under,onyeka okongwu,True,6.5,880,2023-04-01T01:42:01,Brooklyn Nets,Atlanta Hawks
+2023-03-31,9a32500dfc383b1fe0ef1ab29a3e5b65,fanduel,player_rebounds_over_under,onyeka okongwu,True,7.5,136,2023-04-01T01:26:01,Brooklyn Nets,Atlanta Hawks
+2023-03-31,9a32500dfc383b1fe0ef1ab29a3e5b65,fanduel,player_rebounds_over_under,onyeka okongwu,True,8.5,154,2023-04-01T01:14:01,Brooklyn Nets,Atlanta Hawks
+2023-03-31,9a32500dfc383b1fe0ef1ab29a3e5b65,fanduel,player_rebounds_over_under,onyeka okongwu,True,9.5,130,2023-04-01T00:22:01,Brooklyn Nets,Atlanta Hawks
+2023-03-31,9a32500dfc383b1fe0ef1ab29a3e5b65,fanduel,player_rebounds_over_under,onyeka okongwu,False,8.5,-210,2023-04-01T01:14:01,Brooklyn Nets,Atlanta Hawks
+2023-03-31,9a32500dfc383b1fe0ef1ab29a3e5b65,fanduel,player_rebounds_over_under,onyeka okongwu,False,7.5,-182,2023-04-01T01:26:01,Brooklyn Nets,Atlanta Hawks
+2023-03-31,9a32500dfc383b1fe0ef1ab29a3e5b65,fanduel,player_rebounds_over_under,onyeka okongwu,False,9.5,-174,2023-04-01T00:22:01,Brooklyn Nets,Atlanta Hawks
+2023-03-31,9a32500dfc383b1fe0ef1ab29a3e5b65,fanduel,player_steals_over_under,onyeka okongwu,True,0.5,1000,2023-04-01T01:32:01,Brooklyn Nets,Atlanta Hawks
+2023-03-31,9a32500dfc383b1fe0ef1ab29a3e5b65,fanduel,player_steals_over_under,onyeka okongwu,False,0.5,-100000,2023-04-01T01:38:01,Brooklyn Nets,Atlanta Hawks
+2023-03-31,9a32500dfc383b1fe0ef1ab29a3e5b65,fanduel,player_threes_over_under,onyeka okongwu,True,0.5,1000,2023-04-01T00:00:02,Brooklyn Nets,Atlanta Hawks
+2023-03-31,9a32500dfc383b1fe0ef1ab29a3e5b65,fanduel,player_threes_over_under,onyeka okongwu,False,0.5,-100000,2023-04-01T00:00:02,Brooklyn Nets,Atlanta Hawks
+2023-03-31,9a32500dfc383b1fe0ef1ab29a3e5b65,fanduel,player_rebounds_over_under,onyeka okongwu,False,6.5,-3000,2023-04-01T01:42:01,Brooklyn Nets,Atlanta Hawks
+2023-03-31,9a32500dfc383b1fe0ef1ab29a3e5b65,fanduel,player_points_over_under,onyeka okongwu,False,15.5,-104,2023-04-01T00:22:01,Brooklyn Nets,Atlanta Hawks
+2023-03-31,9a32500dfc383b1fe0ef1ab29a3e5b65,fanduel,player_points_over_under,onyeka okongwu,True,15.5,-128,2023-04-01T00:22:01,Brooklyn Nets,Atlanta Hawks
+2023-03-31,9a32500dfc383b1fe0ef1ab29a3e5b65,fanduel,player_points_over_under,onyeka okongwu,False,12.5,-1400,2023-04-01T01:42:01,Brooklyn Nets,Atlanta Hawks
+2023-03-31,9a32500dfc383b1fe0ef1ab29a3e5b65,fanduel,player_points_over_under,onyeka okongwu,True,14.5,130,2023-04-01T01:06:01,Brooklyn Nets,Atlanta Hawks
+2023-03-31,9a32500dfc383b1fe0ef1ab29a3e5b65,fanduel,player_points_over_under,onyeka okongwu,True,13.5,-154,2023-04-01T01:26:01,Brooklyn Nets,Atlanta Hawks
+2023-03-31,9a32500dfc383b1fe0ef1ab29a3e5b65,fanduel,player_points_over_under,onyeka okongwu,True,12.5,630,2023-04-01T01:42:01,Brooklyn Nets,Atlanta Hawks
+2023-03-31,9a32500dfc383b1fe0ef1ab29a3e5b65,fanduel,player_points_over_under,onyeka okongwu,True,11.5,116,2023-04-01T00:08:01,Brooklyn Nets,Atlanta Hawks
+2023-03-31,9a32500dfc383b1fe0ef1ab29a3e5b65,fanduel,player_points_over_under,onyeka okongwu,True,9.5,-152,2023-04-01T00:02:01,Brooklyn Nets,Atlanta Hawks
+2023-03-31,9a32500dfc383b1fe0ef1ab29a3e5b65,fanduel,player_points_over_under,onyeka okongwu,True,8.5,100,2023-04-01T00:00:02,Brooklyn Nets,Atlanta Hawks
+2023-03-31,9a32500dfc383b1fe0ef1ab29a3e5b65,fanduel,player_blocks_over_under,onyeka okongwu,False,1.5,-400,2023-04-01T01:18:01,Brooklyn Nets,Atlanta Hawks
+2023-03-31,9a32500dfc383b1fe0ef1ab29a3e5b65,fanduel,player_points_over_under,onyeka okongwu,False,14.5,-174,2023-04-01T01:06:01,Brooklyn Nets,Atlanta Hawks
+2023-03-31,9a32500dfc383b1fe0ef1ab29a3e5b65,fanduel,player_blocks_over_under,onyeka okongwu,False,0.5,-240,2023-04-01T01:06:01,Brooklyn Nets,Atlanta Hawks
+2023-03-31,9a32500dfc383b1fe0ef1ab29a3e5b65,fanduel,player_blocks_over_under,onyeka okongwu,True,1.5,270,2023-04-01T01:18:01,Brooklyn Nets,Atlanta Hawks
+2023-03-31,9a32500dfc383b1fe0ef1ab29a3e5b65,fanduel,player_blocks_over_under,onyeka okongwu,True,0.5,174,2023-04-01T01:06:01,Brooklyn Nets,Atlanta Hawks
+2023-03-31,9a32500dfc383b1fe0ef1ab29a3e5b65,fanduel,player_assists_over_under,onyeka okongwu,False,0.5,-100000,2023-04-01T01:40:01,Brooklyn Nets,Atlanta Hawks
+2023-03-31,9a32500dfc383b1fe0ef1ab29a3e5b65,fanduel,player_assists_over_under,onyeka okongwu,True,0.5,1000,2023-04-01T01:32:01,Brooklyn Nets,Atlanta Hawks
+2023-03-31,9a32500dfc383b1fe0ef1ab29a3e5b65,fanduel,player_points_over_under,onyeka okongwu,False,8.5,-132,2023-04-01T00:00:02,Brooklyn Nets,Atlanta Hawks
+2023-03-31,9a32500dfc383b1fe0ef1ab29a3e5b65,fanduel,player_points_over_under,onyeka okongwu,False,9.5,116,2023-04-01T00:02:01,Brooklyn Nets,Atlanta Hawks
+2023-03-31,9a32500dfc383b1fe0ef1ab29a3e5b65,fanduel,player_points_over_under,onyeka okongwu,False,11.5,-154,2023-04-01T00:08:01,Brooklyn Nets,Atlanta Hawks
+2023-03-31,9a32500dfc383b1fe0ef1ab29a3e5b65,fanduel,player_blocks_over_under,onyeka okongwu,True,2.5,1000,2023-04-01T01:32:01,Brooklyn Nets,Atlanta Hawks
+2023-03-31,9a32500dfc383b1fe0ef1ab29a3e5b65,fanduel,player_points_over_under,onyeka okongwu,False,13.5,116,2023-04-01T01:26:01,Brooklyn Nets,Atlanta Hawks
+2023-03-31,9a32500dfc383b1fe0ef1ab29a3e5b65,fanduel,player_blocks_over_under,onyeka okongwu,False,2.5,-100000,2023-04-01T01:40:01,Brooklyn Nets,Atlanta Hawks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_points_over_under,onyeka okongwu,True,9.5,104,2023-04-02T22:30:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_points_over_under,onyeka okongwu,True,14.5,520,2023-04-03T00:32:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_points_over_under,onyeka okongwu,True,15.5,100,2023-04-03T00:08:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_points_over_under,onyeka okongwu,False,7.5,106,2023-04-02T22:38:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_points_over_under,onyeka okongwu,False,8.5,-154,2023-04-02T22:34:02,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_points_over_under,onyeka okongwu,False,9.5,-138,2023-04-02T22:30:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_points_over_under,onyeka okongwu,False,10.5,-125,2023-04-02T22:40:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_points_over_under,onyeka okongwu,False,11.5,-125,2023-04-02T23:42:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_points_over_under,onyeka okongwu,False,12.5,106,2023-04-02T23:46:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_points_over_under,onyeka okongwu,False,13.5,-162,2023-04-02T23:26:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_points_over_under,onyeka okongwu,False,14.5,-1000,2023-04-03T00:32:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_points_over_under,onyeka okongwu,False,15.5,-132,2023-04-03T00:08:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_rebounds_over_under,onyeka okongwu,True,5.5,750,2023-04-03T00:32:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_rebounds_over_under,onyeka okongwu,True,6.5,194,2023-04-02T23:56:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_rebounds_over_under,onyeka okongwu,True,7.5,112,2023-04-02T23:42:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_rebounds_over_under,onyeka okongwu,True,8.5,102,2023-04-02T22:48:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_rebounds_over_under,onyeka okongwu,False,5.5,-2000,2023-04-03T00:32:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_rebounds_over_under,onyeka okongwu,False,6.5,-270,2023-04-02T23:56:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_rebounds_over_under,onyeka okongwu,False,7.5,-148,2023-04-02T23:42:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_rebounds_over_under,onyeka okongwu,False,8.5,-136,2023-04-02T22:48:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_steals_over_under,onyeka okongwu,True,0.5,1000,2023-04-03T00:10:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_steals_over_under,onyeka okongwu,False,0.5,-100000,2023-04-03T00:12:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_threes_over_under,onyeka okongwu,False,0.5,-100000,2023-04-02T22:24:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_points_over_under,onyeka okongwu,True,10.5,-106,2023-04-02T22:40:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_points_over_under,onyeka okongwu,True,13.5,122,2023-04-02T23:26:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_points_over_under,onyeka okongwu,True,12.5,-140,2023-04-02T23:46:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_threes_over_under,onyeka okongwu,True,0.5,1000,2023-04-02T22:24:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_blocks_over_under,onyeka okongwu,False,0.5,-215,2023-04-02T23:38:02,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_points_over_under,onyeka okongwu,True,7.5,-140,2023-04-02T22:38:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_blocks_over_under,onyeka okongwu,True,2.5,1000,2023-04-03T00:10:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_blocks_over_under,onyeka okongwu,True,1.5,400,2023-04-02T23:52:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_blocks_over_under,onyeka okongwu,True,0.5,158,2023-04-02T23:38:02,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_assists_over_under,onyeka okongwu,False,0.5,-100000,2023-04-03T00:16:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_assists_over_under,onyeka okongwu,True,0.5,1000,2023-04-03T00:10:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_points_over_under,onyeka okongwu,True,8.5,116,2023-04-02T22:34:02,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_blocks_over_under,onyeka okongwu,False,1.5,-670,2023-04-02T23:52:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_blocks_over_under,onyeka okongwu,False,2.5,-100000,2023-04-03T00:16:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_points_over_under,onyeka okongwu,True,11.5,-106,2023-04-02T23:42:01,Atlanta Hawks,Dallas Mavericks
+2023-04-05,833f2b022733f5fdb071352f7d0ea60b,draftkings,player_steals_over_under,onyeka okongwu,True,0.5,-105,2023-04-04T19:51:15,Chicago Bulls,Atlanta Hawks
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_rebounds_over_under,onyeka okongwu,False,8.5,105,2023-04-06T01:15:01,Atlanta Hawks,Washington Wizards
+2023-04-05,833f2b022733f5fdb071352f7d0ea60b,draftkings,player_steals_over_under,onyeka okongwu,False,0.5,-125,2023-04-04T19:51:15,Chicago Bulls,Atlanta Hawks
+2023-04-05,833f2b022733f5fdb071352f7d0ea60b,draftkings,player_steals_over_under,onyeka okongwu,False,0.5,-125,2023-04-04T23:14:32,Chicago Bulls,Atlanta Hawks
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_rebounds_over_under,onyeka okongwu,False,6.5,-600,2023-04-06T01:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_rebounds_over_under,onyeka okongwu,False,5.5,125,2023-04-06T00:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_rebounds_over_under,onyeka okongwu,True,9.5,-110,2023-04-06T01:00:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_rebounds_over_under,onyeka okongwu,True,8.5,-140,2023-04-06T01:15:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_rebounds_over_under,onyeka okongwu,True,6.5,370,2023-04-06T01:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_rebounds_over_under,onyeka okongwu,True,5.5,-170,2023-04-06T00:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_rebounds_over_under,onyeka okongwu,False,9.5,-120,2023-04-06T01:00:01,Atlanta Hawks,Washington Wizards
+2023-04-05,833f2b022733f5fdb071352f7d0ea60b,draftkings,player_steals_over_under,onyeka okongwu,True,0.5,-105,2023-04-04T23:14:32,Chicago Bulls,Atlanta Hawks
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_points_over_under,onyeka okongwu,False,8.5,110,2023-04-06T00:30:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_rebounds_over_under,onyeka okongwu,False,9.5,-118,2023-04-06T01:00:01,Atlanta Hawks,Washington Wizards
+2023-04-05,833f2b022733f5fdb071352f7d0ea60b,draftkings,player_points_over_under,onyeka okongwu,False,10.5,-120,2023-04-04T23:14:32,Chicago Bulls,Atlanta Hawks
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_threes_over_under,onyeka okongwu,False,0.5,-100000,2023-04-06T00:00:02,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_threes_over_under,onyeka okongwu,True,0.5,1000,2023-04-06T00:00:02,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_steals_over_under,onyeka okongwu,False,2.5,-2000,2023-04-06T01:30:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_steals_over_under,onyeka okongwu,False,1.5,-235,2023-04-06T01:00:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_steals_over_under,onyeka okongwu,False,0.5,-270,2023-04-06T00:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_steals_over_under,onyeka okongwu,True,0.5,198,2023-04-06T00:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_steals_over_under,onyeka okongwu,True,2.5,750,2023-04-06T01:30:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_steals_over_under,onyeka okongwu,True,0.5,195,2023-04-06T00:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_steals_over_under,onyeka okongwu,False,2.5,-50000,2023-04-06T01:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_steals_over_under,onyeka okongwu,False,1.5,-240,2023-04-06T01:00:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_steals_over_under,onyeka okongwu,False,0.5,-275,2023-04-06T00:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_steals_over_under,onyeka okongwu,True,2.5,1000,2023-04-06T01:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_steals_over_under,onyeka okongwu,True,1.5,174,2023-04-06T01:00:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_steals_over_under,onyeka okongwu,True,1.5,170,2023-04-06T01:00:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_rebounds_over_under,onyeka okongwu,False,8.5,124,2023-04-06T01:15:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_rebounds_over_under,onyeka okongwu,True,5.5,-178,2023-04-06T00:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_rebounds_over_under,onyeka okongwu,False,5.5,132,2023-04-06T00:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_points_over_under,onyeka okongwu,False,7.5,-135,2023-04-06T01:30:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_points_over_under,onyeka okongwu,False,6.5,-370,2023-04-06T01:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_points_over_under,onyeka okongwu,True,11.5,-105,2023-04-05T22:45:02,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_points_over_under,onyeka okongwu,True,10.5,125,2023-04-06T01:15:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_points_over_under,onyeka okongwu,True,9.5,110,2023-04-06T00:15:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_points_over_under,onyeka okongwu,True,8.5,-145,2023-04-06T00:30:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_points_over_under,onyeka okongwu,True,7.5,100,2023-04-06T01:30:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_points_over_under,onyeka okongwu,True,6.5,255,2023-04-06T01:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_points_over_under,onyeka okongwu,False,10.5,-138,2023-04-06T01:15:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_points_over_under,onyeka okongwu,False,9.5,-148,2023-04-06T00:15:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_points_over_under,onyeka okongwu,False,7.5,-138,2023-04-06T01:30:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_points_over_under,onyeka okongwu,False,6.5,-390,2023-04-06T01:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_points_over_under,onyeka okongwu,True,10.5,104,2023-04-06T01:15:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_points_over_under,onyeka okongwu,True,9.5,112,2023-04-06T00:15:01,Atlanta Hawks,Washington Wizards
+2023-04-05,833f2b022733f5fdb071352f7d0ea60b,draftkings,player_points_over_under,onyeka okongwu,False,10.5,-120,2023-04-04T19:51:15,Chicago Bulls,Atlanta Hawks
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_points_over_under,onyeka okongwu,False,9.5,-145,2023-04-06T00:15:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_points_over_under,onyeka okongwu,False,10.5,-165,2023-04-06T01:15:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_points_over_under,onyeka okongwu,False,11.5,-125,2023-04-05T22:45:02,Atlanta Hawks,Washington Wizards
+2023-04-05,833f2b022733f5fdb071352f7d0ea60b,fanduel,player_rebounds_over_under,onyeka okongwu,True,5.5,-140,2023-04-05T00:06:01,Chicago Bulls,Atlanta Hawks
+2023-04-05,833f2b022733f5fdb071352f7d0ea60b,fanduel,player_rebounds_over_under,onyeka okongwu,True,6.5,110,2023-04-04T21:54:01,Chicago Bulls,Atlanta Hawks
+2023-04-05,833f2b022733f5fdb071352f7d0ea60b,fanduel,player_rebounds_over_under,onyeka okongwu,False,5.5,112,2023-04-05T00:00:01,Chicago Bulls,Atlanta Hawks
+2023-04-05,833f2b022733f5fdb071352f7d0ea60b,fanduel,player_rebounds_over_under,onyeka okongwu,False,6.5,-134,2023-04-04T21:54:01,Chicago Bulls,Atlanta Hawks
+2023-04-05,833f2b022733f5fdb071352f7d0ea60b,draftkings,player_rebounds_over_under,onyeka okongwu,True,6.5,110,2023-04-04T22:40:45,Chicago Bulls,Atlanta Hawks
+2023-04-05,833f2b022733f5fdb071352f7d0ea60b,draftkings,player_rebounds_over_under,onyeka okongwu,True,6.5,110,2023-04-04T23:14:32,Chicago Bulls,Atlanta Hawks
+2023-04-05,833f2b022733f5fdb071352f7d0ea60b,draftkings,player_rebounds_over_under,onyeka okongwu,False,6.5,-140,2023-04-04T22:40:45,Chicago Bulls,Atlanta Hawks
+2023-04-05,833f2b022733f5fdb071352f7d0ea60b,draftkings,player_rebounds_over_under,onyeka okongwu,False,6.5,-140,2023-04-04T23:14:32,Chicago Bulls,Atlanta Hawks
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_rebounds_over_under,onyeka okongwu,True,6.5,390,2023-04-06T01:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_rebounds_over_under,onyeka okongwu,True,8.5,-166,2023-04-06T01:15:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_rebounds_over_under,onyeka okongwu,True,9.5,-112,2023-04-06T01:00:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_rebounds_over_under,onyeka okongwu,False,6.5,-650,2023-04-06T01:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,833f2b022733f5fdb071352f7d0ea60b,draftkings,player_points_over_under,onyeka okongwu,True,10.5,-110,2023-04-04T23:14:32,Chicago Bulls,Atlanta Hawks
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_assists_over_under,onyeka okongwu,True,2.5,-154,2023-04-06T00:00:02,Atlanta Hawks,Washington Wizards
+2023-04-05,833f2b022733f5fdb071352f7d0ea60b,fanduel,player_points_over_under,onyeka okongwu,False,10.5,-106,2023-04-05T00:06:01,Chicago Bulls,Atlanta Hawks
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_points_over_under,onyeka okongwu,True,7.5,104,2023-04-06T01:30:01,Atlanta Hawks,Washington Wizards
+2023-04-05,833f2b022733f5fdb071352f7d0ea60b,draftkings,player_points_over_under,onyeka okongwu,True,10.5,-110,2023-04-04T19:51:15,Chicago Bulls,Atlanta Hawks
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_assists_over_under,onyeka okongwu,True,3.5,1000,2023-04-06T01:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_assists_over_under,onyeka okongwu,False,2.5,116,2023-04-06T00:00:02,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_assists_over_under,onyeka okongwu,False,3.5,-50000,2023-04-06T01:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,833f2b022733f5fdb071352f7d0ea60b,draftkings,player_blocks_over_under,onyeka okongwu,True,1.5,190,2023-04-04T23:14:32,Chicago Bulls,Atlanta Hawks
+2023-04-05,833f2b022733f5fdb071352f7d0ea60b,draftkings,player_blocks_over_under,onyeka okongwu,True,1.5,190,2023-04-04T19:51:15,Chicago Bulls,Atlanta Hawks
+2023-04-05,833f2b022733f5fdb071352f7d0ea60b,draftkings,player_blocks_over_under,onyeka okongwu,False,1.5,-235,2023-04-04T23:14:32,Chicago Bulls,Atlanta Hawks
+2023-04-05,833f2b022733f5fdb071352f7d0ea60b,draftkings,player_blocks_over_under,onyeka okongwu,False,1.5,-235,2023-04-04T19:51:15,Chicago Bulls,Atlanta Hawks
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_points_over_under,onyeka okongwu,True,6.5,265,2023-04-06T01:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_blocks_over_under,onyeka okongwu,True,1.5,1000,2023-04-06T01:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_blocks_over_under,onyeka okongwu,False,0.5,-166,2023-04-06T01:15:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_blocks_over_under,onyeka okongwu,False,1.5,-10000,2023-04-06T01:45:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_blocks_over_under,onyeka okongwu,True,0.5,130,2023-04-06T01:15:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_blocks_over_under,onyeka okongwu,True,1.5,390,2023-04-06T01:30:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_blocks_over_under,onyeka okongwu,False,0.5,-175,2023-04-06T01:15:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,fanduel,player_blocks_over_under,onyeka okongwu,True,0.5,124,2023-04-06T01:15:01,Atlanta Hawks,Washington Wizards
+2023-04-05,6d6bd3e7848b2286aba793688df9de0e,draftkings,player_blocks_over_under,onyeka okongwu,False,1.5,-650,2023-04-06T01:30:01,Atlanta Hawks,Washington Wizards
+2023-04-05,833f2b022733f5fdb071352f7d0ea60b,fanduel,player_points_over_under,onyeka okongwu,True,10.5,-114,2023-04-05T00:06:01,Chicago Bulls,Atlanta Hawks
+2023-04-07,f261bda3a4aa9e0db7bc838d1dcc9157,draftkings,player_blocks_over_under,onyeka okongwu,True,1.5,155,2023-04-07T23:00:01,Atlanta Hawks,Philadelphia 76ers
+2023-04-07,f261bda3a4aa9e0db7bc838d1dcc9157,draftkings,player_blocks_over_under,onyeka okongwu,False,1.5,-190,2023-04-07T23:00:01,Atlanta Hawks,Philadelphia 76ers
+2023-04-07,f261bda3a4aa9e0db7bc838d1dcc9157,caesars,player_blocks_over_under,onyeka okongwu,True,1.5,139,2023-04-07T23:00:01,Atlanta Hawks,Philadelphia 76ers
+2023-04-07,f261bda3a4aa9e0db7bc838d1dcc9157,caesars,player_blocks_over_under,onyeka okongwu,False,1.5,-194,2023-04-07T23:00:01,Atlanta Hawks,Philadelphia 76ers
+2023-04-07,f261bda3a4aa9e0db7bc838d1dcc9157,draftkings,player_points_over_under,onyeka okongwu,True,10.5,-120,2023-04-07T23:00:01,Atlanta Hawks,Philadelphia 76ers
+2023-04-07,f261bda3a4aa9e0db7bc838d1dcc9157,draftkings,player_points_over_under,onyeka okongwu,False,10.5,-110,2023-04-07T23:00:01,Atlanta Hawks,Philadelphia 76ers
+2023-04-07,f261bda3a4aa9e0db7bc838d1dcc9157,caesars,player_points_over_under,onyeka okongwu,True,10.5,-119,2023-04-07T23:00:01,Atlanta Hawks,Philadelphia 76ers
+2023-04-07,f261bda3a4aa9e0db7bc838d1dcc9157,caesars,player_points_over_under,onyeka okongwu,False,10.5,-115,2023-04-07T23:00:01,Atlanta Hawks,Philadelphia 76ers
+2023-04-07,f261bda3a4aa9e0db7bc838d1dcc9157,draftkings,player_rebounds_over_under,onyeka okongwu,True,6.5,-120,2023-04-07T23:00:01,Atlanta Hawks,Philadelphia 76ers
+2023-04-07,f261bda3a4aa9e0db7bc838d1dcc9157,draftkings,player_rebounds_over_under,onyeka okongwu,False,6.5,-110,2023-04-07T23:00:01,Atlanta Hawks,Philadelphia 76ers
+2023-04-07,f261bda3a4aa9e0db7bc838d1dcc9157,caesars,player_rebounds_over_under,onyeka okongwu,True,6.5,-123,2023-04-07T23:00:01,Atlanta Hawks,Philadelphia 76ers
+2023-04-07,f261bda3a4aa9e0db7bc838d1dcc9157,caesars,player_rebounds_over_under,onyeka okongwu,False,6.5,-111,2023-04-07T23:00:01,Atlanta Hawks,Philadelphia 76ers
+2023-04-07,f261bda3a4aa9e0db7bc838d1dcc9157,draftkings,player_steals_over_under,onyeka okongwu,True,0.5,105,2023-04-07T23:00:01,Atlanta Hawks,Philadelphia 76ers
+2023-04-07,f261bda3a4aa9e0db7bc838d1dcc9157,draftkings,player_steals_over_under,onyeka okongwu,False,0.5,-135,2023-04-07T23:00:01,Atlanta Hawks,Philadelphia 76ers
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_steals_over_under,onyeka okongwu,True,0.5,-125,2023-04-09T15:45:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,betmgm,player_rebounds_over_under,onyeka okongwu,False,8.5,105,2023-04-09T14:30:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,betmgm,player_rebounds_over_under,onyeka okongwu,True,8.5,-145,2023-04-09T14:30:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,caesars,player_rebounds_over_under,onyeka okongwu,False,8.5,104,2023-04-09T13:45:02,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,caesars,player_rebounds_over_under,onyeka okongwu,True,8.5,-142,2023-04-09T13:45:02,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_rebounds_over_under,onyeka okongwu,False,8.5,110,2023-04-09T13:45:02,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_rebounds_over_under,onyeka okongwu,True,8.5,-140,2023-04-09T13:45:02,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,betmgm,player_points_over_under,onyeka okongwu,True,15.5,-105,2023-04-09T15:45:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,betmgm,player_points_over_under,onyeka okongwu,False,15.5,-125,2023-04-09T15:45:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,betmgm,player_assists_over_under,onyeka okongwu,True,1.5,115,2023-04-09T15:15:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,betmgm,player_assists_over_under,onyeka okongwu,False,1.5,-155,2023-04-09T15:15:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_blocks_over_under,onyeka okongwu,True,1.5,130,2023-04-09T15:45:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_blocks_over_under,onyeka okongwu,False,1.5,-160,2023-04-09T15:45:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,caesars,player_blocks_over_under,onyeka okongwu,True,1.5,120,2023-04-09T15:45:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,caesars,player_blocks_over_under,onyeka okongwu,False,1.5,-166,2023-04-09T15:45:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,betmgm,player_blocks_over_under,onyeka okongwu,True,1.5,125,2023-04-09T15:45:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,betmgm,player_blocks_over_under,onyeka okongwu,False,1.5,-165,2023-04-09T15:45:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,betmgm,player_steals_over_under,onyeka okongwu,False,0.5,-105,2023-04-09T15:45:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_steals_over_under,onyeka okongwu,False,0.5,-105,2023-04-09T15:45:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,betmgm,player_steals_over_under,onyeka okongwu,True,0.5,-130,2023-04-09T15:45:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,caesars,player_steals_over_under,onyeka okongwu,True,0.5,-121,2023-04-09T13:45:02,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_points_over_under,onyeka okongwu,True,14.5,-145,2023-04-09T15:00:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_points_over_under,onyeka okongwu,True,15.5,-125,2023-04-09T15:45:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_points_over_under,onyeka okongwu,False,14.5,115,2023-04-09T15:00:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,caesars,player_points_over_under,onyeka okongwu,True,14.5,-127,2023-04-09T13:45:02,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,caesars,player_points_over_under,onyeka okongwu,True,15.5,-103,2023-04-09T15:45:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,caesars,player_points_over_under,onyeka okongwu,False,15.5,-133,2023-04-09T15:45:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,betmgm,player_points_over_under,onyeka okongwu,True,14.5,-125,2023-04-09T15:15:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,betmgm,player_points_over_under,onyeka okongwu,False,14.5,-105,2023-04-09T15:15:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,caesars,player_steals_over_under,onyeka okongwu,False,0.5,-113,2023-04-09T13:45:02,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,player_points_over_under,onyeka okongwu,False,15.5,-105,2023-04-09T15:45:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,caesars,player_points_over_under,onyeka okongwu,False,14.5,-108,2023-04-09T13:45:02,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,caesars,player_assists_over_under,onyeka okongwu,True,1.5,110,2023-04-09T15:45:01,Boston Celtics,Atlanta Hawks
+2023-04-09,5cc5cee7a1b9f4d16a7d0dd273fdb56d,caesars,player_assists_over_under,onyeka okongwu,False,1.5,-151,2023-04-09T15:45:01,Boston Celtics,Atlanta Hawks
+2023-04-11,3a58414e72204789180939ddafe82f85,draftkings,player_rebounds_over_under,onyeka okongwu,True,4.5,500,2023-04-12T01:45:01,Miami Heat,Atlanta Hawks
+2023-04-11,3a58414e72204789180939ddafe82f85,draftkings,player_rebounds_over_under,onyeka okongwu,True,5.5,115,2023-04-12T00:00:01,Miami Heat,Atlanta Hawks
+2023-04-11,3a58414e72204789180939ddafe82f85,draftkings,player_rebounds_over_under,onyeka okongwu,False,3.5,130,2023-04-12T01:00:01,Miami Heat,Atlanta Hawks
+2023-04-11,3a58414e72204789180939ddafe82f85,draftkings,player_rebounds_over_under,onyeka okongwu,False,4.5,-1000,2023-04-12T01:45:01,Miami Heat,Atlanta Hawks
+2023-04-11,3a58414e72204789180939ddafe82f85,draftkings,player_rebounds_over_under,onyeka okongwu,False,5.5,-150,2023-04-12T00:00:01,Miami Heat,Atlanta Hawks
+2023-04-11,3a58414e72204789180939ddafe82f85,caesars,player_rebounds_over_under,onyeka okongwu,True,5.5,-139,2023-04-10T22:00:01,Miami Heat,Atlanta Hawks
+2023-04-11,3a58414e72204789180939ddafe82f85,caesars,player_rebounds_over_under,onyeka okongwu,False,5.5,102,2023-04-10T22:00:01,Miami Heat,Atlanta Hawks
+2023-04-11,3a58414e72204789180939ddafe82f85,betmgm,player_rebounds_over_under,onyeka okongwu,True,5.5,-145,2023-04-11T12:30:02,Miami Heat,Atlanta Hawks
+2023-04-11,3a58414e72204789180939ddafe82f85,betmgm,player_rebounds_over_under,onyeka okongwu,False,5.5,110,2023-04-11T12:30:02,Miami Heat,Atlanta Hawks
+2023-04-11,3a58414e72204789180939ddafe82f85,draftkings,player_steals_over_under,onyeka okongwu,True,0.5,1100,2023-04-12T01:30:01,Miami Heat,Atlanta Hawks
+2023-04-11,3a58414e72204789180939ddafe82f85,betmgm,player_assists_over_under,onyeka okongwu,True,0.5,110,2023-04-10T22:00:01,Miami Heat,Atlanta Hawks
+2023-04-11,3a58414e72204789180939ddafe82f85,betmgm,player_steals_over_under,onyeka okongwu,True,0.5,150,2023-04-10T22:00:01,Miami Heat,Atlanta Hawks
+2023-04-11,3a58414e72204789180939ddafe82f85,betmgm,player_steals_over_under,onyeka okongwu,False,0.5,-200,2023-04-10T22:00:01,Miami Heat,Atlanta Hawks
+2023-04-11,3a58414e72204789180939ddafe82f85,draftkings,player_rebounds_over_under,onyeka okongwu,True,3.5,-175,2023-04-12T01:00:01,Miami Heat,Atlanta Hawks
+2023-04-11,3a58414e72204789180939ddafe82f85,betmgm,player_points_over_under,onyeka okongwu,False,7.5,-120,2023-04-10T22:00:01,Miami Heat,Atlanta Hawks
+2023-04-11,3a58414e72204789180939ddafe82f85,betmgm,player_assists_over_under,onyeka okongwu,False,0.5,-150,2023-04-10T22:00:01,Miami Heat,Atlanta Hawks
+2023-04-11,3a58414e72204789180939ddafe82f85,draftkings,player_points_over_under,onyeka okongwu,False,14.5,-165,2023-04-12T00:45:01,Miami Heat,Atlanta Hawks
+2023-04-11,3a58414e72204789180939ddafe82f85,betmgm,player_points_over_under,onyeka okongwu,True,7.5,-110,2023-04-10T22:00:01,Miami Heat,Atlanta Hawks
+2023-04-11,3a58414e72204789180939ddafe82f85,draftkings,player_blocks_over_under,onyeka okongwu,True,0.5,160,2023-04-12T01:00:01,Miami Heat,Atlanta Hawks
+2023-04-11,3a58414e72204789180939ddafe82f85,draftkings,player_blocks_over_under,onyeka okongwu,True,3.5,215,2023-04-12T01:15:01,Miami Heat,Atlanta Hawks
+2023-04-11,3a58414e72204789180939ddafe82f85,draftkings,player_blocks_over_under,onyeka okongwu,True,4.5,700,2023-04-12T01:30:01,Miami Heat,Atlanta Hawks
+2023-04-11,3a58414e72204789180939ddafe82f85,draftkings,player_blocks_over_under,onyeka okongwu,False,0.5,-215,2023-04-12T01:00:01,Miami Heat,Atlanta Hawks
+2023-04-11,3a58414e72204789180939ddafe82f85,draftkings,player_blocks_over_under,onyeka okongwu,False,3.5,-300,2023-04-12T01:15:01,Miami Heat,Atlanta Hawks
+2023-04-11,3a58414e72204789180939ddafe82f85,draftkings,player_blocks_over_under,onyeka okongwu,False,4.5,-1600,2023-04-12T01:30:01,Miami Heat,Atlanta Hawks
+2023-04-11,3a58414e72204789180939ddafe82f85,betmgm,player_blocks_over_under,onyeka okongwu,True,0.5,-155,2023-04-10T22:00:01,Miami Heat,Atlanta Hawks
+2023-04-11,3a58414e72204789180939ddafe82f85,draftkings,player_steals_over_under,onyeka okongwu,False,0.5,-8000,2023-04-12T01:30:01,Miami Heat,Atlanta Hawks
+2023-04-11,3a58414e72204789180939ddafe82f85,draftkings,player_points_over_under,onyeka okongwu,True,7.5,105,2023-04-11T23:45:01,Miami Heat,Atlanta Hawks
+2023-04-11,3a58414e72204789180939ddafe82f85,draftkings,player_points_over_under,onyeka okongwu,True,12.5,425,2023-04-12T01:45:01,Miami Heat,Atlanta Hawks
+2023-04-11,3a58414e72204789180939ddafe82f85,draftkings,player_points_over_under,onyeka okongwu,True,13.5,-130,2023-04-12T01:00:01,Miami Heat,Atlanta Hawks
+2023-04-11,3a58414e72204789180939ddafe82f85,draftkings,player_points_over_under,onyeka okongwu,True,14.5,125,2023-04-12T00:45:01,Miami Heat,Atlanta Hawks
+2023-04-11,3a58414e72204789180939ddafe82f85,draftkings,player_points_over_under,onyeka okongwu,False,7.5,-135,2023-04-11T23:45:01,Miami Heat,Atlanta Hawks
+2023-04-11,3a58414e72204789180939ddafe82f85,draftkings,player_points_over_under,onyeka okongwu,False,12.5,-750,2023-04-12T01:45:01,Miami Heat,Atlanta Hawks
+2023-04-11,3a58414e72204789180939ddafe82f85,betmgm,player_blocks_over_under,onyeka okongwu,False,0.5,115,2023-04-10T22:00:01,Miami Heat,Atlanta Hawks
+2023-04-11,3a58414e72204789180939ddafe82f85,draftkings,player_points_over_under,onyeka okongwu,False,13.5,100,2023-04-12T01:00:01,Miami Heat,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,fanduel,player_points_over_under,onyeka okongwu,True,8.5,-108,2023-04-15T19:45:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,fanduel,player_points_over_under,onyeka okongwu,False,3.5,-350,2023-04-15T21:45:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,fanduel,player_points_over_under,onyeka okongwu,False,4.5,118,2023-04-15T21:30:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,fanduel,player_points_over_under,onyeka okongwu,False,5.5,-138,2023-04-15T21:00:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,fanduel,player_points_over_under,onyeka okongwu,False,6.5,108,2023-04-15T20:15:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,fanduel,player_points_over_under,onyeka okongwu,False,8.5,-122,2023-04-15T19:45:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,fanduel,player_points_over_under,onyeka okongwu,True,7.5,-132,2023-04-15T20:00:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,draftkings,player_points_over_under,onyeka okongwu,True,3.5,245,2023-04-15T21:45:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,draftkings,player_points_over_under,onyeka okongwu,True,4.5,-140,2023-04-15T21:30:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,draftkings,player_points_over_under,onyeka okongwu,True,5.5,100,2023-04-15T20:45:02,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,draftkings,player_points_over_under,onyeka okongwu,True,6.5,-135,2023-04-15T20:15:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,fanduel,player_points_over_under,onyeka okongwu,False,7.5,100,2023-04-15T20:00:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,fanduel,player_points_over_under,onyeka okongwu,True,6.5,-144,2023-04-15T20:15:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,fanduel,player_points_over_under,onyeka okongwu,True,3.5,240,2023-04-15T21:45:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,draftkings,player_points_over_under,onyeka okongwu,True,7.5,-125,2023-04-15T20:00:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,fanduel,player_points_over_under,onyeka okongwu,True,4.5,-158,2023-04-15T21:30:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,betmgm,player_blocks_over_under,onyeka okongwu,False,0.5,140,2023-04-12T21:15:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,betmgm,player_blocks_over_under,onyeka okongwu,True,0.5,-190,2023-04-12T21:15:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,draftkings,player_blocks_over_under,onyeka okongwu,False,0.5,-525,2023-04-15T21:30:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,draftkings,player_blocks_over_under,onyeka okongwu,True,0.5,340,2023-04-15T21:30:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,fanduel,player_blocks_over_under,onyeka okongwu,True,0.5,1000,2023-04-15T21:45:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,betmgm,player_assists_over_under,onyeka okongwu,False,0.5,-120,2023-04-12T21:15:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,betmgm,player_assists_over_under,onyeka okongwu,True,0.5,-110,2023-04-12T21:15:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,fanduel,player_assists_over_under,onyeka okongwu,False,0.5,-10000,2023-04-15T21:45:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,fanduel,player_assists_over_under,onyeka okongwu,True,0.5,1000,2023-04-15T21:45:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,draftkings,player_points_over_under,onyeka okongwu,False,3.5,-350,2023-04-15T21:45:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,fanduel,player_points_over_under,onyeka okongwu,True,5.5,104,2023-04-15T21:00:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,fanduel,player_blocks_over_under,onyeka okongwu,False,0.5,-7000,2023-04-15T21:45:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,draftkings,player_points_over_under,onyeka okongwu,True,8.5,-105,2023-04-15T19:45:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,draftkings,player_points_over_under,onyeka okongwu,False,8.5,-125,2023-04-15T19:45:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,fanduel,player_rebounds_over_under,onyeka okongwu,False,7.5,-130,2023-04-15T20:15:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,fanduel,player_rebounds_over_under,onyeka okongwu,False,6.5,-148,2023-04-15T20:45:02,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,fanduel,player_rebounds_over_under,onyeka okongwu,False,5.5,-490,2023-04-15T21:45:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,fanduel,player_rebounds_over_under,onyeka okongwu,False,4.5,-158,2023-04-15T21:30:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,fanduel,player_rebounds_over_under,onyeka okongwu,True,6.5,112,2023-04-15T20:45:02,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,fanduel,player_rebounds_over_under,onyeka okongwu,True,5.5,320,2023-04-15T21:45:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,fanduel,player_rebounds_over_under,onyeka okongwu,True,4.5,118,2023-04-15T21:30:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,betmgm,player_points_over_under,onyeka okongwu,False,8.5,-110,2023-04-12T21:15:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,betmgm,player_points_over_under,onyeka okongwu,True,8.5,-120,2023-04-12T21:15:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,caesars,player_points_over_under,onyeka okongwu,False,8.5,-103,2023-04-15T18:30:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,caesars,player_points_over_under,onyeka okongwu,True,8.5,-133,2023-04-15T18:30:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,draftkings,player_points_over_under,onyeka okongwu,False,7.5,-105,2023-04-15T20:00:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,draftkings,player_points_over_under,onyeka okongwu,False,6.5,100,2023-04-15T20:15:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,draftkings,player_points_over_under,onyeka okongwu,False,5.5,-135,2023-04-15T20:45:02,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,draftkings,player_points_over_under,onyeka okongwu,False,4.5,105,2023-04-15T21:30:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,draftkings,player_rebounds_over_under,onyeka okongwu,True,4.5,125,2023-04-15T21:30:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,draftkings,player_rebounds_over_under,onyeka okongwu,True,5.5,330,2023-04-15T21:45:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,fanduel,player_rebounds_over_under,onyeka okongwu,True,7.5,-102,2023-04-15T20:15:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,draftkings,player_rebounds_over_under,onyeka okongwu,True,7.5,100,2023-04-15T20:15:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,fanduel,player_threes_over_under,onyeka okongwu,False,0.5,-100000,2023-04-15T19:45:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,fanduel,player_threes_over_under,onyeka okongwu,True,0.5,1000,2023-04-15T19:45:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,betmgm,player_steals_over_under,onyeka okongwu,False,0.5,-185,2023-04-12T21:15:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,draftkings,player_rebounds_over_under,onyeka okongwu,True,6.5,110,2023-04-15T20:45:02,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,draftkings,player_steals_over_under,onyeka okongwu,False,0.5,-1400,2023-04-15T21:30:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,draftkings,player_steals_over_under,onyeka okongwu,True,0.5,650,2023-04-15T21:30:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,fanduel,player_steals_over_under,onyeka okongwu,False,0.5,-50000,2023-04-15T21:45:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,fanduel,player_steals_over_under,onyeka okongwu,True,0.5,1000,2023-04-15T21:45:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,betmgm,player_steals_over_under,onyeka okongwu,True,0.5,135,2023-04-12T21:15:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,betmgm,player_rebounds_over_under,onyeka okongwu,True,6.5,115,2023-04-15T17:30:02,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,caesars,player_rebounds_over_under,onyeka okongwu,False,6.5,-135,2023-04-15T18:30:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,caesars,player_rebounds_over_under,onyeka okongwu,True,6.5,-101,2023-04-15T18:30:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,draftkings,player_rebounds_over_under,onyeka okongwu,False,7.5,-135,2023-04-15T20:15:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,draftkings,player_rebounds_over_under,onyeka okongwu,False,6.5,-145,2023-04-15T20:45:02,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,draftkings,player_rebounds_over_under,onyeka okongwu,False,5.5,-500,2023-04-15T21:45:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,draftkings,player_rebounds_over_under,onyeka okongwu,False,4.5,-165,2023-04-15T21:30:01,Boston Celtics,Atlanta Hawks
+2023-04-15,d3d106026f392473419a1d39a7b39224,betmgm,player_rebounds_over_under,onyeka okongwu,False,6.5,-155,2023-04-15T17:30:02,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,fanduel,player_points_over_under,onyeka okongwu,True,6.5,-118,2023-04-18T23:45:02,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,fanduel,player_points_over_under,onyeka okongwu,True,7.5,126,2023-04-19T00:30:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,fanduel,player_points_over_under,onyeka okongwu,True,8.5,-158,2023-04-19T01:00:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,fanduel,player_points_over_under,onyeka okongwu,True,9.5,178,2023-04-19T00:45:02,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,fanduel,player_points_over_under,onyeka okongwu,False,6.5,-112,2023-04-18T23:45:02,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,fanduel,player_points_over_under,onyeka okongwu,False,7.5,-168,2023-04-19T00:30:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,draftkings,player_points_over_under,onyeka okongwu,True,7.5,-105,2023-04-19T00:30:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,fanduel,player_points_over_under,onyeka okongwu,False,9.5,-245,2023-04-19T00:45:02,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,draftkings,player_points_over_under,onyeka okongwu,True,6.5,-115,2023-04-18T23:45:02,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,draftkings,player_points_over_under,onyeka okongwu,True,8.5,-155,2023-04-19T01:00:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,draftkings,player_points_over_under,onyeka okongwu,True,9.5,175,2023-04-19T00:45:02,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,betmgm,player_blocks_over_under,onyeka okongwu,False,0.5,110,2023-04-17T15:45:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,fanduel,player_points_over_under,onyeka okongwu,False,8.5,118,2023-04-19T01:00:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,betmgm,player_blocks_over_under,onyeka okongwu,True,0.5,-150,2023-04-17T15:45:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,draftkings,player_blocks_over_under,onyeka okongwu,True,2.5,800,2023-04-19T01:00:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,draftkings,player_blocks_over_under,onyeka okongwu,False,1.5,-130,2023-04-18T23:30:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,draftkings,player_blocks_over_under,onyeka okongwu,False,0.5,105,2023-04-18T23:15:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,fanduel,player_rebounds_over_under,onyeka okongwu,True,8.5,-166,2023-04-19T00:45:02,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,draftkings,player_blocks_over_under,onyeka okongwu,True,1.5,-105,2023-04-18T23:30:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,draftkings,player_blocks_over_under,onyeka okongwu,True,0.5,-140,2023-04-18T18:00:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,fanduel,player_blocks_over_under,onyeka okongwu,False,2.5,-3000,2023-04-19T01:00:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,fanduel,player_blocks_over_under,onyeka okongwu,False,1.5,-132,2023-04-18T23:30:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,fanduel,player_blocks_over_under,onyeka okongwu,False,0.5,108,2023-04-18T23:15:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,fanduel,player_blocks_over_under,onyeka okongwu,True,2.5,880,2023-04-19T01:00:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,fanduel,player_blocks_over_under,onyeka okongwu,True,1.5,100,2023-04-18T23:30:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,fanduel,player_blocks_over_under,onyeka okongwu,True,0.5,-144,2023-04-18T23:15:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,betmgm,player_assists_over_under,onyeka okongwu,False,0.5,-125,2023-04-17T15:45:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,draftkings,player_points_over_under,onyeka okongwu,False,6.5,-115,2023-04-18T23:45:02,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,draftkings,player_blocks_over_under,onyeka okongwu,False,2.5,-2500,2023-04-19T01:00:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,draftkings,player_points_over_under,onyeka okongwu,False,7.5,-125,2023-04-19T00:30:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,draftkings,player_rebounds_over_under,onyeka okongwu,False,8.5,120,2023-04-19T00:45:02,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,draftkings,player_points_over_under,onyeka okongwu,False,9.5,-240,2023-04-19T00:45:02,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,fanduel,player_rebounds_over_under,onyeka okongwu,True,9.5,102,2023-04-19T01:00:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,fanduel,player_rebounds_over_under,onyeka okongwu,False,5.5,-158,2023-04-19T00:30:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,fanduel,player_rebounds_over_under,onyeka okongwu,False,6.5,-144,2023-04-18T23:45:02,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,fanduel,player_rebounds_over_under,onyeka okongwu,False,8.5,124,2023-04-19T00:45:02,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,fanduel,player_rebounds_over_under,onyeka okongwu,False,9.5,-136,2023-04-19T01:00:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,draftkings,player_rebounds_over_under,onyeka okongwu,True,5.5,-110,2023-04-19T00:30:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,draftkings,player_rebounds_over_under,onyeka okongwu,True,6.5,110,2023-04-18T23:45:02,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,draftkings,player_rebounds_over_under,onyeka okongwu,True,8.5,-160,2023-04-19T00:45:02,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,draftkings,player_rebounds_over_under,onyeka okongwu,True,9.5,100,2023-04-19T01:00:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,draftkings,player_rebounds_over_under,onyeka okongwu,False,5.5,-120,2023-04-19T00:30:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,draftkings,player_rebounds_over_under,onyeka okongwu,False,6.5,-150,2023-04-18T23:45:02,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,betmgm,player_assists_over_under,onyeka okongwu,True,0.5,-105,2023-04-17T15:45:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,draftkings,player_rebounds_over_under,onyeka okongwu,False,9.5,-135,2023-04-19T01:00:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,draftkings,player_points_over_under,onyeka okongwu,False,8.5,115,2023-04-19T01:00:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,caesars,player_rebounds_over_under,onyeka okongwu,True,5.5,-131,2023-04-17T15:45:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,betmgm,player_rebounds_over_under,onyeka okongwu,True,5.5,-130,2023-04-17T15:45:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,betmgm,player_rebounds_over_under,onyeka okongwu,False,5.5,100,2023-04-17T15:45:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,fanduel,player_steals_over_under,onyeka okongwu,True,0.5,1000,2023-04-19T01:00:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,fanduel,player_steals_over_under,onyeka okongwu,False,0.5,-5000,2023-04-19T01:00:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,draftkings,player_steals_over_under,onyeka okongwu,True,0.5,1100,2023-04-19T01:00:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,draftkings,player_steals_over_under,onyeka okongwu,False,0.5,-8000,2023-04-19T01:00:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,betmgm,player_steals_over_under,onyeka okongwu,True,0.5,140,2023-04-17T15:45:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,betmgm,player_steals_over_under,onyeka okongwu,False,0.5,-190,2023-04-17T15:45:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,fanduel,player_threes_over_under,onyeka okongwu,True,0.5,1000,2023-04-18T23:15:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,fanduel,player_threes_over_under,onyeka okongwu,False,0.5,-100000,2023-04-18T23:15:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,fanduel,player_rebounds_over_under,onyeka okongwu,True,5.5,118,2023-04-19T00:30:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,betmgm,player_points_over_under,onyeka okongwu,False,7.5,100,2023-04-17T15:45:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,betmgm,player_points_over_under,onyeka okongwu,True,7.5,-135,2023-04-17T15:45:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,caesars,player_rebounds_over_under,onyeka okongwu,False,5.5,-104,2023-04-17T15:45:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,fanduel,player_assists_over_under,onyeka okongwu,False,1.5,-3500,2023-04-19T01:00:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,fanduel,player_rebounds_over_under,onyeka okongwu,True,6.5,108,2023-04-18T23:45:02,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,fanduel,player_assists_over_under,onyeka okongwu,True,0.5,132,2023-04-18T23:30:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,fanduel,player_assists_over_under,onyeka okongwu,True,1.5,920,2023-04-19T01:00:01,Boston Celtics,Atlanta Hawks
+2023-04-18,200bb978f61f10d882c628276d8a12d4,fanduel,player_assists_over_under,onyeka okongwu,False,0.5,-178,2023-04-18T23:30:01,Boston Celtics,Atlanta Hawks
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,draftkings,player_blocks_over_under,onyeka okongwu,False,2.5,-750,2023-04-22T01:00:02,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,draftkings,player_points_over_under,onyeka okongwu,True,4.5,230,2023-04-22T01:15:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,draftkings,player_points_over_under,onyeka okongwu,True,5.5,-105,2023-04-22T01:00:02,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,draftkings,player_points_over_under,onyeka okongwu,True,6.5,105,2023-04-22T00:00:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,draftkings,player_points_over_under,onyeka okongwu,False,4.5,-330,2023-04-22T01:15:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,draftkings,player_points_over_under,onyeka okongwu,False,5.5,-125,2023-04-22T01:00:02,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,draftkings,player_points_over_under,onyeka okongwu,False,6.5,-140,2023-04-22T00:00:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,betmgm,player_points_over_under,onyeka okongwu,True,7.5,-135,2023-04-21T04:15:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,fanduel,player_points_over_under,onyeka okongwu,False,7.5,124,2023-04-21T23:45:02,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,betmgm,player_points_over_under,onyeka okongwu,False,7.5,100,2023-04-21T04:15:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,fanduel,player_rebounds_over_under,onyeka okongwu,True,2.5,168,2023-04-22T01:00:02,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,fanduel,player_rebounds_over_under,onyeka okongwu,True,3.5,118,2023-04-22T00:45:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,fanduel,player_rebounds_over_under,onyeka okongwu,True,4.5,-158,2023-04-22T01:15:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,draftkings,player_points_over_under,onyeka okongwu,False,7.5,-105,2023-04-21T23:45:02,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,fanduel,player_points_over_under,onyeka okongwu,False,6.5,-140,2023-04-22T00:00:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,fanduel,player_points_over_under,onyeka okongwu,False,4.5,178,2023-04-22T01:15:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,fanduel,player_rebounds_over_under,onyeka okongwu,True,5.5,-125,2023-04-21T23:45:02,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,fanduel,player_points_over_under,onyeka okongwu,True,7.5,-166,2023-04-21T23:45:02,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,fanduel,player_points_over_under,onyeka okongwu,True,6.5,106,2023-04-22T00:00:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,fanduel,player_points_over_under,onyeka okongwu,True,5.5,-102,2023-04-22T01:00:02,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,fanduel,player_points_over_under,onyeka okongwu,True,4.5,-245,2023-04-22T01:15:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,betmgm,player_blocks_over_under,onyeka okongwu,False,0.5,115,2023-04-21T04:15:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,betmgm,player_blocks_over_under,onyeka okongwu,True,0.5,-155,2023-04-21T04:15:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,draftkings,player_blocks_over_under,onyeka okongwu,False,1.5,-300,2023-04-22T00:45:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,draftkings,player_blocks_over_under,onyeka okongwu,False,0.5,115,2023-04-21T23:15:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,draftkings,player_blocks_over_under,onyeka okongwu,True,2.5,425,2023-04-22T01:00:02,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,draftkings,player_blocks_over_under,onyeka okongwu,True,1.5,215,2023-04-22T00:45:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,draftkings,player_blocks_over_under,onyeka okongwu,True,0.5,-155,2023-04-21T23:15:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,fanduel,player_blocks_over_under,onyeka okongwu,False,3.5,-1400,2023-04-22T01:15:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,fanduel,player_points_over_under,onyeka okongwu,False,5.5,-130,2023-04-22T01:00:02,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,fanduel,player_rebounds_over_under,onyeka okongwu,True,6.5,116,2023-04-21T22:45:02,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,fanduel,player_rebounds_over_under,onyeka okongwu,False,3.5,-158,2023-04-22T00:45:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,fanduel,player_blocks_over_under,onyeka okongwu,False,2.5,-800,2023-04-22T01:00:02,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,fanduel,player_threes_over_under,onyeka okongwu,False,0.5,-100000,2023-04-21T23:30:02,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,fanduel,player_threes_over_under,onyeka okongwu,True,0.5,1000,2023-04-21T23:30:02,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,betmgm,player_steals_over_under,onyeka okongwu,False,0.5,-210,2023-04-21T04:15:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,betmgm,player_steals_over_under,onyeka okongwu,True,0.5,150,2023-04-21T04:15:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,draftkings,player_steals_over_under,onyeka okongwu,False,1.5,-2000,2023-04-22T01:00:02,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,draftkings,player_steals_over_under,onyeka okongwu,False,0.5,-750,2023-04-22T00:45:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,draftkings,player_steals_over_under,onyeka okongwu,True,1.5,750,2023-04-22T01:00:02,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,draftkings,player_steals_over_under,onyeka okongwu,True,0.5,425,2023-04-22T00:45:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,fanduel,player_steals_over_under,onyeka okongwu,False,1.5,-2200,2023-04-22T01:00:02,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,fanduel,player_steals_over_under,onyeka okongwu,False,0.5,-4000,2023-04-22T01:15:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,fanduel,player_steals_over_under,onyeka okongwu,True,1.5,800,2023-04-22T01:00:02,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,fanduel,player_steals_over_under,onyeka okongwu,True,0.5,1000,2023-04-22T01:15:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,betmgm,player_rebounds_over_under,onyeka okongwu,False,6.5,-160,2023-04-21T22:15:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,betmgm,player_rebounds_over_under,onyeka okongwu,False,5.5,120,2023-04-21T16:30:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,betmgm,player_rebounds_over_under,onyeka okongwu,True,6.5,120,2023-04-21T22:15:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,betmgm,player_rebounds_over_under,onyeka okongwu,True,5.5,-160,2023-04-21T16:30:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,draftkings,player_rebounds_over_under,onyeka okongwu,False,6.5,120,2023-04-21T23:30:02,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,draftkings,player_rebounds_over_under,onyeka okongwu,False,5.5,-450,2023-04-22T01:15:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,draftkings,player_rebounds_over_under,onyeka okongwu,False,4.5,-180,2023-04-22T00:15:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,draftkings,player_rebounds_over_under,onyeka okongwu,False,3.5,-155,2023-04-22T00:45:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,draftkings,player_rebounds_over_under,onyeka okongwu,False,2.5,-215,2023-04-22T01:00:02,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,draftkings,player_rebounds_over_under,onyeka okongwu,True,6.5,-160,2023-04-21T23:30:02,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,draftkings,player_rebounds_over_under,onyeka okongwu,True,5.5,300,2023-04-22T01:15:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,draftkings,player_rebounds_over_under,onyeka okongwu,True,4.5,135,2023-04-22T00:15:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,draftkings,player_rebounds_over_under,onyeka okongwu,True,3.5,115,2023-04-22T00:45:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,draftkings,player_rebounds_over_under,onyeka okongwu,True,2.5,160,2023-04-22T01:00:02,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,fanduel,player_rebounds_over_under,onyeka okongwu,False,6.5,-142,2023-04-21T22:45:02,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,fanduel,player_rebounds_over_under,onyeka okongwu,False,5.5,-106,2023-04-21T23:45:02,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,fanduel,player_rebounds_over_under,onyeka okongwu,False,4.5,118,2023-04-22T01:15:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,fanduel,player_rebounds_over_under,onyeka okongwu,False,2.5,-230,2023-04-22T01:00:02,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,fanduel,player_blocks_over_under,onyeka okongwu,False,1.5,-320,2023-04-22T00:45:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,draftkings,player_points_over_under,onyeka okongwu,True,7.5,-125,2023-04-21T23:45:02,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,fanduel,player_blocks_over_under,onyeka okongwu,True,3.5,630,2023-04-22T01:15:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,fanduel,player_blocks_over_under,onyeka okongwu,False,0.5,118,2023-04-21T23:30:02,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,fanduel,player_assists_over_under,onyeka okongwu,True,0.5,550,2023-04-22T01:00:02,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,fanduel,player_assists_over_under,onyeka okongwu,True,1.5,800,2023-04-22T01:15:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,fanduel,player_assists_over_under,onyeka okongwu,False,1.5,-2200,2023-04-22T01:15:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,fanduel,player_assists_over_under,onyeka okongwu,False,0.5,-1100,2023-04-22T01:00:02,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,betmgm,player_assists_over_under,onyeka okongwu,False,0.5,-120,2023-04-21T04:15:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,fanduel,player_blocks_over_under,onyeka okongwu,True,0.5,-158,2023-04-21T23:30:02,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,fanduel,player_blocks_over_under,onyeka okongwu,True,1.5,225,2023-04-22T00:45:01,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,fanduel,player_blocks_over_under,onyeka okongwu,True,2.5,450,2023-04-22T01:00:02,Atlanta Hawks,Boston Celtics
+2023-04-21,1782284ec07bd4c4c6592b16aa4097e6,betmgm,player_assists_over_under,onyeka okongwu,True,0.5,-110,2023-04-21T04:15:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,draftkings,player_steals_over_under,onyeka okongwu,True,0.5,185,2023-04-22T20:45:02,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,betmgm,player_steals_over_under,onyeka okongwu,False,0.5,-250,2023-04-23T04:30:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,draftkings,player_steals_over_under,onyeka okongwu,True,1.5,900,2023-04-24T01:00:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,draftkings,player_steals_over_under,onyeka okongwu,False,0.5,-230,2023-04-22T20:45:02,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,draftkings,player_steals_over_under,onyeka okongwu,False,1.5,-3000,2023-04-24T01:00:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,betmgm,player_steals_over_under,onyeka okongwu,True,0.5,175,2023-04-23T04:30:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,fanduel,player_threes_over_under,onyeka okongwu,True,0.5,1000,2023-04-23T23:30:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,draftkings,player_rebounds_over_under,onyeka okongwu,True,6.5,115,2023-04-23T23:30:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,draftkings,player_rebounds_over_under,onyeka okongwu,False,5.5,125,2023-04-22T20:45:02,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,draftkings,player_rebounds_over_under,onyeka okongwu,False,4.5,-750,2023-04-24T01:15:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,draftkings,player_rebounds_over_under,onyeka okongwu,False,3.5,-165,2023-04-24T00:45:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,fanduel,player_steals_over_under,onyeka okongwu,False,1.5,-100000,2023-04-24T01:15:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,draftkings,player_rebounds_over_under,onyeka okongwu,True,5.5,-155,2023-04-22T20:45:02,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,draftkings,player_rebounds_over_under,onyeka okongwu,True,4.5,425,2023-04-24T01:15:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,fanduel,player_threes_over_under,onyeka okongwu,False,0.5,-100000,2023-04-23T23:30:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,fanduel,player_steals_over_under,onyeka okongwu,True,1.5,1000,2023-04-24T01:15:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,draftkings,player_blocks_over_under,onyeka okongwu,False,0.5,-700,2023-04-24T01:00:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,fanduel,player_points_over_under,onyeka okongwu,True,2.5,-152,2023-04-24T00:45:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,betmgm,player_rebounds_over_under,onyeka okongwu,False,5.5,120,2023-04-23T04:30:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,barstool,player_rebounds_over_under,onyeka okongwu,True,5.5,-143,2023-04-23T23:00:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,barstool,player_rebounds_over_under,onyeka okongwu,True,6.5,138,2023-04-23T23:00:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,fanduel,player_assists_over_under,onyeka okongwu,True,0.5,1000,2023-04-24T01:15:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,fanduel,player_assists_over_under,onyeka okongwu,False,0.5,-50000,2023-04-24T01:15:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,pinnacle,player_assists_over_under,onyeka okongwu,True,0.5,-132,2023-04-23T23:00:02,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,pinnacle,player_assists_over_under,onyeka okongwu,False,0.5,-100,2023-04-23T23:00:02,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,betmgm,player_assists_over_under,onyeka okongwu,True,0.5,-120,2023-04-23T04:30:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,betmgm,player_assists_over_under,onyeka okongwu,False,0.5,-115,2023-04-23T04:30:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,fanduel,player_blocks_over_under,onyeka okongwu,True,0.5,1000,2023-04-24T01:15:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,fanduel,player_blocks_over_under,onyeka okongwu,False,0.5,-10000,2023-04-24T01:15:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,draftkings,player_blocks_over_under,onyeka okongwu,True,0.5,400,2023-04-24T01:00:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,draftkings,player_rebounds_over_under,onyeka okongwu,True,3.5,125,2023-04-24T00:45:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,betmgm,player_blocks_over_under,onyeka okongwu,True,0.5,-200,2023-04-23T04:30:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,betmgm,player_blocks_over_under,onyeka okongwu,False,0.5,150,2023-04-23T04:30:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,fanduel,player_points_over_under,onyeka okongwu,True,3.5,-112,2023-04-24T00:30:02,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,pinnacle,player_rebounds_over_under,onyeka okongwu,False,5.5,121,2023-04-23T19:45:02,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,fanduel,player_rebounds_over_under,onyeka okongwu,False,3.5,-174,2023-04-24T00:45:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,fanduel,player_rebounds_over_under,onyeka okongwu,False,6.5,-158,2023-04-23T23:30:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,draftkings,player_points_over_under,onyeka okongwu,True,4.5,-110,2023-04-23T23:45:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,draftkings,player_points_over_under,onyeka okongwu,True,3.5,-115,2023-04-24T00:30:02,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,fanduel,player_points_over_under,onyeka okongwu,True,4.5,100,2023-04-23T23:45:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,draftkings,player_points_over_under,onyeka okongwu,True,2.5,-150,2023-04-24T00:45:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,pinnacle,player_points_over_under,onyeka okongwu,False,7.5,-116,2023-04-23T19:45:02,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,pinnacle,player_points_over_under,onyeka okongwu,True,7.5,-114,2023-04-23T19:45:02,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,draftkings,player_points_over_under,onyeka okongwu,True,6.5,340,2023-04-24T01:15:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,fanduel,player_points_over_under,onyeka okongwu,False,7.5,-152,2023-04-24T01:00:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,fanduel,player_points_over_under,onyeka okongwu,False,4.5,-132,2023-04-23T23:45:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,fanduel,player_points_over_under,onyeka okongwu,False,3.5,-118,2023-04-24T00:30:02,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,fanduel,player_points_over_under,onyeka okongwu,False,2.5,114,2023-04-24T00:45:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,fanduel,player_points_over_under,onyeka okongwu,True,7.5,114,2023-04-24T01:00:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,fanduel,player_points_over_under,onyeka okongwu,True,6.5,350,2023-04-24T01:15:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,draftkings,player_rebounds_over_under,onyeka okongwu,False,6.5,-155,2023-04-23T23:30:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,fanduel,player_points_over_under,onyeka okongwu,False,6.5,-550,2023-04-24T01:15:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,pinnacle,player_rebounds_over_under,onyeka okongwu,True,5.5,-163,2023-04-23T19:45:02,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,draftkings,player_points_over_under,onyeka okongwu,True,7.5,125,2023-04-24T01:00:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,draftkings,player_points_over_under,onyeka okongwu,False,3.5,-115,2023-04-24T00:30:02,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,fanduel,player_rebounds_over_under,onyeka okongwu,False,5.5,-250,2023-04-24T01:00:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,fanduel,player_rebounds_over_under,onyeka okongwu,False,4.5,-800,2023-04-24T01:15:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,fanduel,player_rebounds_over_under,onyeka okongwu,True,6.5,118,2023-04-23T23:30:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,fanduel,player_rebounds_over_under,onyeka okongwu,True,5.5,182,2023-04-24T01:00:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,fanduel,player_rebounds_over_under,onyeka okongwu,True,4.5,450,2023-04-24T01:15:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,fanduel,player_rebounds_over_under,onyeka okongwu,True,3.5,130,2023-04-24T00:45:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,draftkings,player_points_over_under,onyeka okongwu,False,2.5,115,2023-04-24T00:45:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,barstool,player_points_over_under,onyeka okongwu,True,9.5,170,2023-04-23T22:45:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,barstool,player_points_over_under,onyeka okongwu,True,7.5,-132,2023-04-23T22:45:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,barstool,player_points_over_under,onyeka okongwu,True,6.5,-186,2023-04-23T22:45:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,betmgm,player_points_over_under,onyeka okongwu,False,7.5,-105,2023-04-23T04:30:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,betmgm,player_points_over_under,onyeka okongwu,True,7.5,-125,2023-04-23T04:30:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,draftkings,player_points_over_under,onyeka okongwu,False,7.5,-170,2023-04-24T01:00:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,draftkings,player_points_over_under,onyeka okongwu,False,6.5,-525,2023-04-24T01:15:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,draftkings,player_points_over_under,onyeka okongwu,False,4.5,-120,2023-04-23T23:45:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,barstool,player_points_over_under,onyeka okongwu,True,8.5,128,2023-04-23T23:00:01,Atlanta Hawks,Boston Celtics
+2023-04-23,9f9732e7e846b2d4b935998d5da06261,betmgm,player_rebounds_over_under,onyeka okongwu,True,5.5,-160,2023-04-23T04:30:01,Atlanta Hawks,Boston Celtics
+2023-04-25,39db0481965b96c6166bbaca7a474651,draftkings,player_points_over_under,onyeka okongwu,False,6.5,105,2023-04-26T01:00:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,draftkings,player_points_over_under,onyeka okongwu,False,7.5,-155,2023-04-26T00:45:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_assists_over_under,onyeka okongwu,True,1.5,122,2023-04-26T00:00:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,draftkings,player_rebounds_over_under,onyeka okongwu,True,5.5,-175,2023-04-26T01:00:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,draftkings,player_rebounds_over_under,onyeka okongwu,True,6.5,110,2023-04-26T00:45:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,draftkings,player_rebounds_over_under,onyeka okongwu,True,7.5,120,2023-04-26T00:00:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,draftkings,player_rebounds_over_under,onyeka okongwu,False,4.5,-130,2023-04-26T01:30:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_assists_over_under,onyeka okongwu,True,0.5,-112,2023-04-25T23:45:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,draftkings,player_rebounds_over_under,onyeka okongwu,False,6.5,-150,2023-04-26T00:45:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,draftkings,player_rebounds_over_under,onyeka okongwu,False,7.5,-160,2023-04-26T00:00:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,draftkings,player_rebounds_over_under,onyeka okongwu,True,4.5,100,2023-04-26T01:30:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,betmgm,player_rebounds_over_under,onyeka okongwu,True,6.5,-105,2023-04-25T02:45:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,barstool,player_rebounds_over_under,onyeka okongwu,True,5.5,-200,2023-04-25T23:00:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,barstool,player_rebounds_over_under,onyeka okongwu,True,6.5,102,2023-04-25T23:30:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_steals_over_under,onyeka okongwu,True,0.5,1000,2023-04-26T01:30:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_steals_over_under,onyeka okongwu,False,0.5,-5000,2023-04-26T01:30:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,draftkings,player_steals_over_under,onyeka okongwu,True,0.5,1100,2023-04-26T01:30:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,draftkings,player_steals_over_under,onyeka okongwu,False,0.5,-8000,2023-04-26T01:30:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,betmgm,player_steals_over_under,onyeka okongwu,True,0.5,120,2023-04-25T02:45:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,betmgm,player_rebounds_over_under,onyeka okongwu,False,6.5,-125,2023-04-25T02:45:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,betmgm,player_steals_over_under,onyeka okongwu,False,0.5,-160,2023-04-25T02:45:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,pinnacle,player_rebounds_over_under,onyeka okongwu,False,6.5,-142,2023-04-25T15:45:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,pinnacle,player_rebounds_over_under,onyeka okongwu,True,6.5,107,2023-04-25T15:45:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,draftkings,player_points_over_under,onyeka okongwu,False,8.5,-155,2023-04-26T01:15:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,draftkings,player_points_over_under,onyeka okongwu,False,9.5,105,2023-04-26T01:30:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,betmgm,player_points_over_under,onyeka okongwu,True,8.5,-105,2023-04-25T02:45:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,betmgm,player_points_over_under,onyeka okongwu,False,8.5,-125,2023-04-25T02:45:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,barstool,player_points_over_under,onyeka okongwu,True,6.5,-195,2023-04-25T23:30:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,barstool,player_points_over_under,onyeka okongwu,True,7.5,-132,2023-04-25T23:30:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,barstool,player_points_over_under,onyeka okongwu,True,8.5,125,2023-04-25T23:30:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,pinnacle,player_rebounds_over_under,onyeka okongwu,False,5.5,-130,2023-04-24T14:45:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,barstool,player_points_over_under,onyeka okongwu,True,9.5,170,2023-04-25T23:30:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_rebounds_over_under,onyeka okongwu,True,4.5,102,2023-04-26T01:30:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_rebounds_over_under,onyeka okongwu,True,6.5,134,2023-04-26T01:00:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_rebounds_over_under,onyeka okongwu,True,8.5,124,2023-04-26T00:00:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_rebounds_over_under,onyeka okongwu,False,4.5,-136,2023-04-26T01:30:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_rebounds_over_under,onyeka okongwu,False,6.5,-180,2023-04-26T01:00:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_rebounds_over_under,onyeka okongwu,False,8.5,-166,2023-04-26T00:00:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,pinnacle,player_rebounds_over_under,onyeka okongwu,True,5.5,-102,2023-04-24T14:45:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,barstool,player_points_over_under,onyeka okongwu,True,10.5,205,2023-04-25T21:00:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_threes_over_under,onyeka okongwu,True,0.5,1000,2023-04-25T23:45:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,draftkings,player_rebounds_over_under,onyeka okongwu,False,5.5,130,2023-04-26T01:00:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_assists_over_under,onyeka okongwu,False,2.5,-670,2023-04-26T01:15:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,betmgm,player_blocks_over_under,onyeka okongwu,True,0.5,-155,2023-04-25T02:45:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,draftkings,player_blocks_over_under,onyeka okongwu,False,0.5,-2500,2023-04-26T01:30:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,draftkings,player_blocks_over_under,onyeka okongwu,True,0.5,800,2023-04-26T01:30:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_blocks_over_under,onyeka okongwu,False,0.5,-3000,2023-04-26T01:30:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_blocks_over_under,onyeka okongwu,True,0.5,880,2023-04-26T01:30:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,betmgm,player_assists_over_under,onyeka okongwu,True,0.5,-115,2023-04-25T02:45:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,pinnacle,player_assists_over_under,onyeka okongwu,False,3.5,-185,2023-04-24T14:30:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,pinnacle,player_assists_over_under,onyeka okongwu,False,0.5,-110,2023-04-25T15:45:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,pinnacle,player_assists_over_under,onyeka okongwu,True,3.5,135,2023-04-24T14:30:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,pinnacle,player_assists_over_under,onyeka okongwu,True,0.5,-121,2023-04-25T15:45:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_assists_over_under,onyeka okongwu,False,3.5,-3500,2023-04-26T01:30:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_assists_over_under,onyeka okongwu,False,1.5,-162,2023-04-26T00:00:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_assists_over_under,onyeka okongwu,False,0.5,-118,2023-04-25T23:45:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_assists_over_under,onyeka okongwu,True,3.5,920,2023-04-26T01:30:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_assists_over_under,onyeka okongwu,True,2.5,400,2023-04-26T01:15:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,betmgm,player_blocks_over_under,onyeka okongwu,False,0.5,115,2023-04-25T02:45:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_points_over_under,onyeka okongwu,True,6.5,-160,2023-04-26T01:00:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,betmgm,player_assists_over_under,onyeka okongwu,False,0.5,-115,2023-04-25T02:45:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_points_over_under,onyeka okongwu,True,8.5,116,2023-04-26T00:15:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_points_over_under,onyeka okongwu,True,7.5,-138,2023-04-26T01:30:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_threes_over_under,onyeka okongwu,False,0.5,-100000,2023-04-25T23:45:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_threes_over_under,onyeka okongwu,False,1.5,-100000,2023-04-26T00:00:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,draftkings,player_points_over_under,onyeka okongwu,True,9.5,-140,2023-04-26T01:30:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,draftkings,player_points_over_under,onyeka okongwu,True,8.5,120,2023-04-26T01:15:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,draftkings,player_points_over_under,onyeka okongwu,True,7.5,120,2023-04-26T00:45:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,draftkings,player_points_over_under,onyeka okongwu,True,6.5,-140,2023-04-26T01:00:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,pinnacle,player_points_over_under,onyeka okongwu,False,8.5,-136,2023-04-25T15:45:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_threes_over_under,onyeka okongwu,True,1.5,1000,2023-04-26T00:00:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,pinnacle,player_points_over_under,onyeka okongwu,True,8.5,103,2023-04-25T15:45:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,pinnacle,player_points_over_under,onyeka okongwu,True,7.5,-113,2023-04-24T14:45:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_points_over_under,onyeka okongwu,False,9.5,-128,2023-04-26T00:00:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_points_over_under,onyeka okongwu,False,8.5,-154,2023-04-26T00:15:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_points_over_under,onyeka okongwu,False,7.5,104,2023-04-26T01:30:02,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_points_over_under,onyeka okongwu,False,6.5,120,2023-04-26T01:00:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,fanduel,player_points_over_under,onyeka okongwu,True,9.5,-104,2023-04-26T00:00:01,Boston Celtics,Atlanta Hawks
+2023-04-25,39db0481965b96c6166bbaca7a474651,pinnacle,player_points_over_under,onyeka okongwu,False,7.5,-117,2023-04-24T14:45:01,Boston Celtics,Atlanta Hawks
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,draftkings,player_blocks_over_under,onyeka okongwu,True,2.5,650,2023-04-28T02:30:02,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,fanduel,player_blocks_over_under,onyeka okongwu,False,2.5,-1450,2023-04-28T02:30:02,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,fanduel,player_blocks_over_under,onyeka okongwu,False,0.5,-390,2023-04-28T02:15:01,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,fanduel,player_blocks_over_under,onyeka okongwu,True,2.5,640,2023-04-28T02:30:02,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,fanduel,player_blocks_over_under,onyeka okongwu,True,0.5,265,2023-04-28T02:15:01,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,betmgm,player_assists_over_under,onyeka okongwu,False,0.5,-105,2023-04-27T02:15:02,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,betmgm,player_assists_over_under,onyeka okongwu,True,0.5,-130,2023-04-27T02:15:02,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,fanduel,player_assists_over_under,onyeka okongwu,False,1.5,-290,2023-04-28T02:00:01,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,pinnacle,player_assists_over_under,onyeka okongwu,True,0.5,-130,2023-04-26T16:45:01,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,fanduel,player_assists_over_under,onyeka okongwu,False,2.5,-2000,2023-04-28T02:30:02,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,fanduel,player_assists_over_under,onyeka okongwu,False,0.5,-138,2023-04-28T01:00:01,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,fanduel,player_assists_over_under,onyeka okongwu,True,2.5,750,2023-04-28T02:30:02,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,fanduel,player_assists_over_under,onyeka okongwu,True,1.5,205,2023-04-28T02:00:01,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,fanduel,player_assists_over_under,onyeka okongwu,True,0.5,104,2023-04-28T01:00:01,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,draftkings,player_blocks_over_under,onyeka okongwu,False,0.5,-390,2023-04-28T02:15:01,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,pinnacle,player_assists_over_under,onyeka okongwu,False,0.5,-102,2023-04-26T16:45:01,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,draftkings,player_blocks_over_under,onyeka okongwu,False,2.5,-1400,2023-04-28T02:30:02,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,draftkings,player_blocks_over_under,onyeka okongwu,True,0.5,265,2023-04-28T02:15:01,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,betmgm,player_blocks_over_under,onyeka okongwu,False,0.5,115,2023-04-27T02:15:02,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,betmgm,player_blocks_over_under,onyeka okongwu,True,0.5,-155,2023-04-27T02:15:02,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,pinnacle,player_rebounds_over_under,onyeka okongwu,True,5.5,-114,2023-04-27T23:30:02,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,pinnacle,player_rebounds_over_under,onyeka okongwu,False,5.5,-116,2023-04-27T23:30:02,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,draftkings,player_rebounds_over_under,onyeka okongwu,True,5.5,-105,2023-04-27T23:45:01,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,draftkings,player_rebounds_over_under,onyeka okongwu,True,6.5,110,2023-04-28T01:00:01,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,draftkings,player_rebounds_over_under,onyeka okongwu,True,8.5,-105,2023-04-28T02:00:01,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,draftkings,player_rebounds_over_under,onyeka okongwu,True,10.5,-130,2023-04-28T02:15:01,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,draftkings,player_rebounds_over_under,onyeka okongwu,True,11.5,-110,2023-04-28T02:30:02,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,draftkings,player_rebounds_over_under,onyeka okongwu,False,5.5,-125,2023-04-27T23:45:01,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,draftkings,player_rebounds_over_under,onyeka okongwu,False,6.5,-145,2023-04-28T01:00:01,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,draftkings,player_rebounds_over_under,onyeka okongwu,False,8.5,-125,2023-04-28T02:00:01,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,draftkings,player_rebounds_over_under,onyeka okongwu,False,10.5,100,2023-04-28T02:15:01,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,draftkings,player_rebounds_over_under,onyeka okongwu,False,11.5,-120,2023-04-28T02:30:02,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,betmgm,player_rebounds_over_under,onyeka okongwu,True,5.5,110,2023-04-27T23:30:01,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,betmgm,player_rebounds_over_under,onyeka okongwu,False,5.5,-145,2023-04-27T23:30:01,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,barstool,player_rebounds_over_under,onyeka okongwu,True,4.5,-220,2023-04-28T00:30:01,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,barstool,player_rebounds_over_under,onyeka okongwu,True,5.5,100,2023-04-28T00:30:01,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,fanduel,player_steals_over_under,onyeka okongwu,True,0.5,1000,2023-04-28T02:30:02,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,fanduel,player_steals_over_under,onyeka okongwu,False,0.5,-4000,2023-04-28T02:30:02,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,draftkings,player_steals_over_under,onyeka okongwu,True,0.5,1000,2023-04-28T02:30:02,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,draftkings,player_steals_over_under,onyeka okongwu,False,0.5,-5000,2023-04-28T02:30:02,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,betmgm,player_steals_over_under,onyeka okongwu,True,0.5,145,2023-04-27T02:15:02,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,betmgm,player_steals_over_under,onyeka okongwu,False,0.5,-190,2023-04-27T02:15:02,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,fanduel,player_threes_over_under,onyeka okongwu,True,0.5,1000,2023-04-28T01:00:01,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,fanduel,player_threes_over_under,onyeka okongwu,False,0.5,-100000,2023-04-28T02:15:01,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,fanduel,player_rebounds_over_under,onyeka okongwu,False,9.5,102,2023-04-28T02:15:01,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,fanduel,player_rebounds_over_under,onyeka okongwu,False,8.5,-128,2023-04-28T02:00:01,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,fanduel,player_rebounds_over_under,onyeka okongwu,False,11.5,-118,2023-04-28T02:30:02,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,fanduel,player_rebounds_over_under,onyeka okongwu,True,11.5,-112,2023-04-28T02:30:02,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,fanduel,player_points_over_under,onyeka okongwu,True,6.5,-215,2023-04-28T02:30:02,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,fanduel,player_points_over_under,onyeka okongwu,True,7.5,-132,2023-04-28T02:00:01,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,fanduel,player_points_over_under,onyeka okongwu,True,8.5,-110,2023-04-28T02:15:01,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,fanduel,player_points_over_under,onyeka okongwu,False,6.5,158,2023-04-28T02:30:02,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,fanduel,player_points_over_under,onyeka okongwu,False,7.5,100,2023-04-28T02:00:01,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,fanduel,player_points_over_under,onyeka okongwu,False,8.5,-120,2023-04-28T02:15:01,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,pinnacle,player_points_over_under,onyeka okongwu,True,7.5,-130,2023-04-27T16:15:02,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,pinnacle,player_points_over_under,onyeka okongwu,False,7.5,-101,2023-04-27T16:15:02,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,fanduel,player_rebounds_over_under,onyeka okongwu,False,6.5,-154,2023-04-28T01:00:01,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,draftkings,player_points_over_under,onyeka okongwu,True,7.5,-135,2023-04-28T02:00:01,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,draftkings,player_points_over_under,onyeka okongwu,True,8.5,-110,2023-04-28T02:15:01,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,draftkings,player_points_over_under,onyeka okongwu,False,6.5,150,2023-04-28T02:30:02,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,draftkings,player_points_over_under,onyeka okongwu,True,6.5,-200,2023-04-28T02:30:02,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,draftkings,player_points_over_under,onyeka okongwu,False,8.5,-120,2023-04-28T02:15:01,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,betmgm,player_points_over_under,onyeka okongwu,True,7.5,-130,2023-04-27T02:15:02,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,betmgm,player_points_over_under,onyeka okongwu,False,7.5,100,2023-04-27T02:15:02,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,barstool,player_points_over_under,onyeka okongwu,True,6.5,-186,2023-04-28T00:30:01,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,barstool,player_points_over_under,onyeka okongwu,True,7.5,-132,2023-04-28T00:00:01,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,barstool,player_points_over_under,onyeka okongwu,True,8.5,130,2023-04-28T00:30:01,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,barstool,player_points_over_under,onyeka okongwu,True,9.5,175,2023-04-27T23:30:01,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,fanduel,player_rebounds_over_under,onyeka okongwu,True,6.5,116,2023-04-28T01:00:01,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,draftkings,player_points_over_under,onyeka okongwu,False,7.5,100,2023-04-28T02:00:01,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,fanduel,player_rebounds_over_under,onyeka okongwu,True,8.5,-104,2023-04-28T02:00:01,Atlanta Hawks,Boston Celtics
+2023-04-27,48ea5cf48ab1e937af8d7e4d268d1e1b,fanduel,player_rebounds_over_under,onyeka okongwu,True,9.5,-136,2023-04-28T02:15:01,Atlanta Hawks,Boston Celtics
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_assists_over_under,onyeka okongwu,False,1.5,-550,2023-10-26T00:55:12,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_assists_over_under,onyeka okongwu,False,0.5,-158,2023-10-25T23:50:08,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_assists_over_under,onyeka okongwu,True,2.5,1000,2023-10-26T01:10:14,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_assists_over_under,onyeka okongwu,False,2.5,-50000,2023-10-26T01:30:15,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_assists_over_under,onyeka okongwu,True,0.5,118,2023-10-25T23:50:08,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_threes_over_under,onyeka okongwu,True,0.5,1000,2023-10-25T23:45:17,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_assists_over_under,onyeka okongwu,True,1.5,350,2023-10-26T00:55:12,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_assists_over_under,onyeka okongwu,True,0.5,-145,2023-10-25T04:55:04,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_steals_over_under,onyeka okongwu,False,0.5,-325,2023-10-26T00:40:39,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betmgm,player_assists_over_under,onyeka okongwu,True,0.5,-155,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_rebounds_over_under,onyeka okongwu,True,6.5,114,2023-10-25T23:40:05,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_rebounds_over_under,onyeka okongwu,True,5.5,104,2023-10-26T00:55:12,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_rebounds_over_under,onyeka okongwu,True,4.5,800,2023-10-26T01:30:15,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_rebounds_over_under,onyeka okongwu,True,3.5,-166,2023-10-26T00:45:04,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_assists_over_under,onyeka okongwu,False,0.5,115,2023-10-25T04:55:04,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_points_over_under,onyeka okongwu,False,8.5,-120,2023-10-25T23:16:13,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_points_over_under,onyeka okongwu,False,7.5,100,2023-10-25T23:50:08,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_points_over_under,onyeka okongwu,False,6.5,-120,2023-10-26T00:00:05,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_points_over_under,onyeka okongwu,False,5.5,105,2023-10-26T00:40:39,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_points_over_under,onyeka okongwu,False,4.5,-180,2023-10-26T01:00:29,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_points_over_under,onyeka okongwu,True,9.5,135,2023-10-25T11:10:14,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_points_over_under,onyeka okongwu,True,8.5,-110,2023-10-25T23:16:13,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_points_over_under,onyeka okongwu,True,7.5,-140,2023-10-25T23:50:08,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_points_over_under,onyeka okongwu,True,6.5,-120,2023-10-26T00:00:05,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_points_over_under,onyeka okongwu,True,5.5,-150,2023-10-26T00:40:39,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_points_over_under,onyeka okongwu,True,4.5,125,2023-10-26T01:00:29,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betmgm,player_points_over_under,onyeka okongwu,False,8.5,-115,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,onyeka okongwu,False,6.5,160,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,onyeka okongwu,False,7.5,110,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,onyeka okongwu,False,8.5,-115,2023-10-25T22:55:14,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,onyeka okongwu,False,9.5,-190,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,onyeka okongwu,False,10.5,-260,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,onyeka okongwu,False,4.5,-125,2023-10-26T00:56:12,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_rebounds_over_under,onyeka okongwu,True,9.5,-125,2023-10-25T23:30:14,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,onyeka okongwu,False,5.5,150,2023-10-26T00:56:12,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,onyeka okongwu,False,7.5,-10000,2023-10-26T01:16:01,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,onyeka okongwu,False,8.5,-140,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,onyeka okongwu,False,10.5,-135,2023-10-25T23:30:05,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betmgm,player_points_over_under,onyeka okongwu,True,7.5,-145,2023-10-25T23:00:38,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betmgm,player_points_over_under,onyeka okongwu,True,8.5,-120,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betmgm,player_points_over_under,onyeka okongwu,False,7.5,110,2023-10-25T23:00:38,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,onyeka okongwu,False,6.5,115,2023-10-26T01:00:04,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,onyeka okongwu,True,10.5,100,2023-10-25T23:30:05,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_rebounds_over_under,onyeka okongwu,False,3.5,124,2023-10-26T00:45:04,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_rebounds_over_under,onyeka okongwu,False,5.5,-138,2023-10-26T00:55:12,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_steals_over_under,onyeka okongwu,True,0.5,210,2023-10-26T00:40:39,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betmgm,player_steals_over_under,onyeka okongwu,False,0.5,-140,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betmgm,player_steals_over_under,onyeka okongwu,True,0.5,105,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_steals_over_under,onyeka okongwu,False,0.5,-1400,2023-10-26T01:05:18,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_steals_over_under,onyeka okongwu,True,0.5,600,2023-10-26T01:05:18,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_steals_over_under,onyeka okongwu,False,0.5,-100000,2023-10-26T01:10:14,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_steals_over_under,onyeka okongwu,True,0.5,1000,2023-10-26T01:10:14,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_rebounds_over_under,onyeka okongwu,False,7.5,-175,2023-10-25T11:10:14,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_threes_over_under,onyeka okongwu,False,0.5,-10000,2023-10-26T00:00:34,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_rebounds_over_under,onyeka okongwu,False,5.5,-140,2023-10-26T00:55:09,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_rebounds_over_under,onyeka okongwu,False,4.5,-185,2023-10-26T01:05:04,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_rebounds_over_under,onyeka okongwu,True,7.5,135,2023-10-25T11:10:14,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_rebounds_over_under,onyeka okongwu,True,6.5,-125,2023-10-25T23:25:12,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_rebounds_over_under,onyeka okongwu,True,5.5,100,2023-10-26T00:55:09,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_rebounds_over_under,onyeka okongwu,True,4.5,130,2023-10-26T01:05:04,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betmgm,player_rebounds_over_under,onyeka okongwu,False,6.5,-105,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betmgm,player_rebounds_over_under,onyeka okongwu,True,6.5,-125,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_rebounds_over_under,onyeka okongwu,False,6.5,-152,2023-10-25T23:40:05,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_rebounds_over_under,onyeka okongwu,False,9.5,-106,2023-10-25T23:30:14,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,pinnacle,player_rebounds_over_under,onyeka okongwu,True,6.5,-133,2023-10-25T21:25:29,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,pinnacle,player_rebounds_over_under,onyeka okongwu,False,6.5,-100,2023-10-25T21:25:29,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_rebounds_over_under,onyeka okongwu,True,3.5,-165,2023-10-26T00:45:04,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_rebounds_over_under,onyeka okongwu,True,4.5,950,2023-10-26T01:16:01,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_rebounds_over_under,onyeka okongwu,False,4.5,-2200,2023-10-26T01:30:15,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_rebounds_over_under,onyeka okongwu,True,5.5,-105,2023-10-26T00:56:12,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_rebounds_over_under,onyeka okongwu,True,9.5,-130,2023-10-25T23:30:05,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_rebounds_over_under,onyeka okongwu,False,3.5,125,2023-10-26T00:45:04,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_rebounds_over_under,onyeka okongwu,False,4.5,-4000,2023-10-26T01:16:01,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_rebounds_over_under,onyeka okongwu,False,5.5,-125,2023-10-26T00:56:12,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_rebounds_over_under,onyeka okongwu,False,6.5,-150,2023-10-25T23:41:13,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_rebounds_over_under,onyeka okongwu,False,9.5,100,2023-10-25T23:30:05,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_rebounds_over_under,onyeka okongwu,True,6.5,110,2023-10-25T23:41:13,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,onyeka okongwu,True,8.5,105,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_points_over_under,onyeka okongwu,False,9.5,-175,2023-10-25T11:10:14,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,onyeka okongwu,True,6.5,-150,2023-10-26T01:00:04,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_points_over_under,onyeka okongwu,False,7.5,-178,2023-10-26T01:30:15,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_points_over_under,onyeka okongwu,False,6.5,-125,2023-10-26T01:00:20,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_points_over_under,onyeka okongwu,False,5.5,-154,2023-10-26T00:41:16,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_points_over_under,onyeka okongwu,False,4.5,-132,2023-10-26T00:50:04,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_points_over_under,onyeka okongwu,False,3.5,144,2023-10-26T00:55:12,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_points_over_under,onyeka okongwu,True,9.5,102,2023-10-25T21:50:09,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_points_over_under,onyeka okongwu,True,8.5,120,2023-10-26T01:05:04,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_points_over_under,onyeka okongwu,True,7.5,138,2023-10-26T01:30:15,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_points_over_under,onyeka okongwu,True,6.5,-102,2023-10-26T01:00:20,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_points_over_under,onyeka okongwu,True,5.5,120,2023-10-26T00:41:16,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_points_over_under,onyeka okongwu,True,4.5,104,2023-10-26T00:50:04,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_points_over_under,onyeka okongwu,True,3.5,-186,2023-10-26T00:55:12,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_blocks_over_under,onyeka okongwu,False,1.5,-200,2023-10-25T23:50:08,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_blocks_over_under,onyeka okongwu,False,0.5,-280,2023-10-26T01:05:04,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_blocks_over_under,onyeka okongwu,True,1.5,140,2023-10-25T23:50:08,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_blocks_over_under,onyeka okongwu,True,0.5,185,2023-10-26T01:05:04,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betmgm,player_blocks_over_under,onyeka okongwu,False,1.5,-120,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betmgm,player_assists_over_under,onyeka okongwu,False,0.5,120,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_assists_over_under,onyeka okongwu,True,0.5,-160,2023-10-25T23:16:13,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_assists_over_under,onyeka okongwu,True,1.5,300,2023-10-25T11:10:14,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_assists_over_under,onyeka okongwu,False,0.5,120,2023-10-25T23:16:13,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,onyeka okongwu,True,7.5,1100,2023-10-26T01:16:01,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_blocks_over_under,onyeka okongwu,True,0.5,1000,2023-10-26T01:10:14,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_points_over_under,onyeka okongwu,False,8.5,-154,2023-10-26T01:05:04,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_blocks_over_under,onyeka okongwu,True,1.5,154,2023-10-25T23:50:08,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_blocks_over_under,onyeka okongwu,False,1.5,-210,2023-10-25T23:50:08,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_blocks_over_under,onyeka okongwu,True,0.5,260,2023-10-26T01:05:18,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_blocks_over_under,onyeka okongwu,True,1.5,165,2023-10-25T23:51:11,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_blocks_over_under,onyeka okongwu,False,0.5,-380,2023-10-26T01:05:18,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_blocks_over_under,onyeka okongwu,False,1.5,-220,2023-10-25T23:51:11,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betmgm,player_blocks_over_under,onyeka okongwu,True,1.5,-110,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_blocks_over_under,onyeka okongwu,False,0.5,-50000,2023-10-26T01:30:15,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_points_over_under,onyeka okongwu,False,9.5,-124,2023-10-25T21:50:09,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_assists_over_under,onyeka okongwu,False,1.5,-450,2023-10-25T11:10:14,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,pinnacle,player_points_over_under,onyeka okongwu,True,8.5,104,2023-10-25T21:25:29,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,pinnacle,player_points_over_under,onyeka okongwu,True,7.5,-188,2023-10-25T21:25:29,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,onyeka okongwu,True,5.5,-200,2023-10-26T00:56:12,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,onyeka okongwu,True,4.5,-105,2023-10-26T00:56:12,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,onyeka okongwu,True,10.5,200,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,onyeka okongwu,True,9.5,150,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_rebounds_over_under,onyeka okongwu,False,6.5,-115,2023-10-25T23:25:12,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,onyeka okongwu,True,7.5,-140,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,onyeka okongwu,True,6.5,-210,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,pinnacle,player_points_over_under,onyeka okongwu,False,8.5,-138,2023-10-25T21:25:29,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,pinnacle,player_points_over_under,onyeka okongwu,False,7.5,140,2023-10-25T21:25:29,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,onyeka okongwu,True,8.5,-110,2023-10-25T22:55:14,Charlotte Hornets,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,barstool,player_points_over_under,onyeka okongwu,True,7.5,-160,2023-10-30T00:45:31,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,barstool,player_points_over_under,onyeka okongwu,True,8.5,120,2023-10-30T00:40:22,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,barstool,player_points_over_under,onyeka okongwu,True,9.5,-115,2023-10-30T00:50:10,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,barstool,player_points_over_under,onyeka okongwu,False,7.5,110,2023-10-30T00:45:31,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,barstool,player_points_over_under,onyeka okongwu,False,8.5,-170,2023-10-30T00:40:22,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,pinnacle,player_rebounds_over_under,onyeka okongwu,True,5.5,-148,2023-10-29T22:40:09,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_rebounds_over_under,onyeka okongwu,True,5.5,146,2023-10-30T01:05:13,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_rebounds_over_under,onyeka okongwu,True,6.5,-154,2023-10-30T01:10:31,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_rebounds_over_under,onyeka okongwu,True,7.5,1000,2023-10-30T01:20:36,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_rebounds_over_under,onyeka okongwu,False,5.5,-198,2023-10-30T01:05:13,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_rebounds_over_under,onyeka okongwu,False,6.5,116,2023-10-30T01:10:31,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_rebounds_over_under,onyeka okongwu,False,7.5,-100000,2023-10-30T01:20:36,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,onyeka okongwu,False,12.5,-160,2023-10-30T01:10:25,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,onyeka okongwu,False,11.5,-115,2023-10-30T01:05:12,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,onyeka okongwu,False,14.5,-230,2023-10-30T01:15:26,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,barstool,player_points_over_under,onyeka okongwu,False,9.5,-125,2023-10-30T00:50:10,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,pinnacle,player_rebounds_over_under,onyeka okongwu,False,5.5,111,2023-10-29T22:40:09,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_rebounds_over_under,onyeka okongwu,True,6.5,-120,2023-10-30T00:50:03,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_steals_over_under,onyeka okongwu,False,1.5,-2500,2023-10-30T01:15:26,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_steals_over_under,onyeka okongwu,False,0.5,-600,2023-10-30T00:55:05,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_steals_over_under,onyeka okongwu,True,1.5,850,2023-10-30T01:15:26,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_steals_over_under,onyeka okongwu,True,0.5,380,2023-10-30T00:55:05,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_steals_over_under,onyeka okongwu,False,1.5,-100000,2023-10-30T01:20:36,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_steals_over_under,onyeka okongwu,False,0.5,-490,2023-10-30T00:50:07,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_steals_over_under,onyeka okongwu,True,1.5,1000,2023-10-30T01:20:36,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_steals_over_under,onyeka okongwu,True,0.5,320,2023-10-30T00:50:07,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_rebounds_over_under,onyeka okongwu,True,5.5,130,2023-10-30T01:05:12,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,barstool,player_rebounds_over_under,onyeka okongwu,False,7.5,-125,2023-10-29T23:55:15,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,barstool,player_rebounds_over_under,onyeka okongwu,False,5.5,110,2023-10-30T00:15:21,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,barstool,player_rebounds_over_under,onyeka okongwu,True,7.5,-115,2023-10-29T23:55:15,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,barstool,player_rebounds_over_under,onyeka okongwu,True,6.5,-160,2023-10-30T00:50:10,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,barstool,player_rebounds_over_under,onyeka okongwu,True,5.5,-160,2023-10-30T00:15:21,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_rebounds_over_under,onyeka okongwu,False,7.5,-110,2023-10-30T01:15:26,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_rebounds_over_under,onyeka okongwu,False,6.5,-110,2023-10-30T00:50:03,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_rebounds_over_under,onyeka okongwu,False,5.5,-170,2023-10-30T01:05:12,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_rebounds_over_under,onyeka okongwu,True,7.5,-120,2023-10-30T01:15:26,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,barstool,player_rebounds_over_under,onyeka okongwu,False,6.5,110,2023-10-30T00:50:10,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,onyeka okongwu,False,10.5,-200,2023-10-30T00:55:05,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,onyeka okongwu,False,8.5,-120,2023-10-30T00:50:03,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,onyeka okongwu,False,7.5,115,2023-10-30T00:45:46,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_blocks_over_under,onyeka okongwu,False,1.5,-115,2023-10-30T00:50:03,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_blocks_over_under,onyeka okongwu,False,0.5,-550,2023-10-30T01:15:26,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_blocks_over_under,onyeka okongwu,True,1.5,-115,2023-10-30T00:50:03,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_blocks_over_under,onyeka okongwu,True,0.5,340,2023-10-30T01:15:26,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_blocks_over_under,onyeka okongwu,False,1.5,-110,2023-10-30T00:45:20,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_blocks_over_under,onyeka okongwu,False,0.5,-100000,2023-10-30T01:20:36,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_blocks_over_under,onyeka okongwu,True,1.5,-122,2023-10-30T00:45:20,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,barstool,player_blocks_over_under,onyeka okongwu,True,0.5,-135,2023-10-30T00:45:31,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_blocks_over_under,onyeka okongwu,True,0.5,1000,2023-10-30T01:20:36,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,barstool,player_assists_over_under,onyeka okongwu,True,0.5,-135,2023-10-29T23:15:03,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_assists_over_under,onyeka okongwu,False,2.5,-100000,2023-10-30T01:20:36,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_assists_over_under,onyeka okongwu,False,1.5,-350,2023-10-30T00:50:07,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_assists_over_under,onyeka okongwu,False,0.5,-178,2023-10-29T23:50:59,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_assists_over_under,onyeka okongwu,True,2.5,1000,2023-10-30T01:20:36,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_assists_over_under,onyeka okongwu,True,1.5,240,2023-10-30T00:50:07,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_assists_over_under,onyeka okongwu,True,0.5,132,2023-10-29T23:50:59,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,barstool,player_assists_over_under,onyeka okongwu,False,0.5,105,2023-10-29T23:15:03,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,onyeka okongwu,False,9.5,-120,2023-10-30T00:50:03,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,barstool,player_blocks_over_under,onyeka okongwu,True,1.5,160,2023-10-29T23:35:03,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,barstool,player_blocks_over_under,onyeka okongwu,False,1.5,-240,2023-10-29T23:35:03,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,onyeka okongwu,False,10.5,-310,2023-10-29T23:05:34,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,onyeka okongwu,False,9.5,-215,2023-10-29T23:05:34,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,onyeka okongwu,False,6.5,140,2023-10-29T23:05:34,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,onyeka okongwu,True,14.5,170,2023-10-30T01:15:26,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,onyeka okongwu,True,12.5,120,2023-10-30T01:10:25,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,onyeka okongwu,True,11.5,-115,2023-10-30T01:05:12,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,onyeka okongwu,True,10.5,150,2023-10-30T00:55:05,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,barstool,player_blocks_over_under,onyeka okongwu,False,0.5,-105,2023-10-30T00:45:31,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,onyeka okongwu,True,9.5,-110,2023-10-30T00:50:03,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,onyeka okongwu,True,7.5,-155,2023-10-30T00:45:46,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,onyeka okongwu,True,10.5,235,2023-10-29T23:05:34,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,onyeka okongwu,True,9.5,165,2023-10-29T23:05:34,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,onyeka okongwu,True,8.5,120,2023-10-29T23:05:34,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,onyeka okongwu,True,6.5,-180,2023-10-29T23:05:34,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,onyeka okongwu,False,7.5,-128,2023-10-29T23:20:42,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,onyeka okongwu,True,7.5,100,2023-10-29T23:20:42,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,onyeka okongwu,True,8.5,-110,2023-10-30T00:50:03,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,onyeka okongwu,False,8.5,-150,2023-10-29T23:05:34,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,fanduel,player_assists_over_under,onyeka okongwu,True,0.5,194,2023-10-28T01:10:28,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,barstool,player_steals_over_under,onyeka okongwu,False,0.5,-350,2023-10-28T00:26:52,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,fanduel,player_points_over_under,onyeka okongwu,True,9.5,-102,2023-10-28T00:20:26,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,fanduel,player_points_over_under,onyeka okongwu,False,4.5,168,2023-10-28T01:30:55,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,fanduel,player_points_over_under,onyeka okongwu,False,5.5,-150,2023-10-28T01:25:23,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,fanduel,player_points_over_under,onyeka okongwu,False,6.5,-440,2023-10-28T01:50:05,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,fanduel,player_points_over_under,onyeka okongwu,False,7.5,-164,2023-10-28T01:01:29,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,fanduel,player_points_over_under,onyeka okongwu,False,8.5,-158,2023-10-28T00:35:06,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,fanduel,player_points_over_under,onyeka okongwu,False,9.5,-125,2023-10-28T00:20:26,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_points_over_under,onyeka okongwu,True,6.5,-150,2023-10-27T23:40:15,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_points_over_under,onyeka okongwu,True,8.5,145,2023-10-27T23:40:15,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_points_over_under,onyeka okongwu,True,9.5,200,2023-10-27T23:40:15,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_points_over_under,onyeka okongwu,True,10.5,285,2023-10-27T23:40:15,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_points_over_under,onyeka okongwu,True,4.5,135,2023-10-28T01:30:54,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_points_over_under,onyeka okongwu,True,5.5,-115,2023-10-28T01:25:08,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_points_over_under,onyeka okongwu,True,6.5,1200,2023-10-28T01:45:09,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_points_over_under,onyeka okongwu,True,7.5,-115,2023-10-28T01:05:06,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_points_over_under,onyeka okongwu,True,8.5,125,2023-10-28T00:26:03,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_points_over_under,onyeka okongwu,True,9.5,-120,2023-10-28T00:15:15,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_points_over_under,onyeka okongwu,False,6.5,115,2023-10-27T23:40:15,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_points_over_under,onyeka okongwu,False,8.5,-185,2023-10-27T23:40:15,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_points_over_under,onyeka okongwu,False,9.5,-260,2023-10-27T23:40:15,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_points_over_under,onyeka okongwu,False,10.5,-390,2023-10-27T23:40:15,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_points_over_under,onyeka okongwu,False,4.5,-185,2023-10-28T01:30:54,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_points_over_under,onyeka okongwu,False,5.5,-115,2023-10-28T01:25:08,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_points_over_under,onyeka okongwu,False,6.5,-10000,2023-10-28T01:45:09,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_points_over_under,onyeka okongwu,False,7.5,-115,2023-10-28T01:05:06,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,fanduel,player_points_over_under,onyeka okongwu,True,8.5,124,2023-10-28T00:35:06,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,fanduel,player_points_over_under,onyeka okongwu,True,7.5,128,2023-10-28T01:01:29,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,fanduel,player_points_over_under,onyeka okongwu,True,6.5,310,2023-10-28T01:50:05,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,fanduel,player_points_over_under,onyeka okongwu,True,5.5,118,2023-10-28T01:25:23,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,fanduel,player_assists_over_under,onyeka okongwu,True,1.5,1000,2023-10-28T01:40:15,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,fanduel,player_assists_over_under,onyeka okongwu,False,0.5,-270,2023-10-28T01:10:28,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,fanduel,player_assists_over_under,onyeka okongwu,False,1.5,-100000,2023-10-28T01:45:10,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,betmgm,player_assists_over_under,onyeka okongwu,True,0.5,-160,2023-10-27T15:25:04,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,betmgm,player_assists_over_under,onyeka okongwu,False,0.5,120,2023-10-27T15:25:04,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,barstool,player_assists_over_under,onyeka okongwu,True,0.5,-160,2023-10-27T23:45:07,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,barstool,player_assists_over_under,onyeka okongwu,True,1.5,280,2023-10-27T21:32:16,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,barstool,player_assists_over_under,onyeka okongwu,False,0.5,120,2023-10-27T23:45:07,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,barstool,player_assists_over_under,onyeka okongwu,False,1.5,-450,2023-10-27T21:32:16,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,fanduel,player_blocks_over_under,onyeka okongwu,True,0.5,-215,2023-10-28T00:10:18,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,fanduel,player_blocks_over_under,onyeka okongwu,True,1.5,1000,2023-10-28T01:40:15,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,fanduel,player_blocks_over_under,onyeka okongwu,False,0.5,158,2023-10-28T00:10:18,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_points_over_under,onyeka okongwu,False,8.5,-170,2023-10-28T00:26:03,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,fanduel,player_blocks_over_under,onyeka okongwu,False,1.5,-100000,2023-10-28T01:50:05,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_blocks_over_under,onyeka okongwu,True,1.5,370,2023-10-28T01:35:05,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_blocks_over_under,onyeka okongwu,False,0.5,165,2023-10-28T00:11:20,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_blocks_over_under,onyeka okongwu,False,1.5,-600,2023-10-28T01:35:05,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,betmgm,player_blocks_over_under,onyeka okongwu,True,0.5,-250,2023-10-27T18:30:36,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,betmgm,player_blocks_over_under,onyeka okongwu,True,1.5,175,2023-10-27T18:30:36,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,betmgm,player_blocks_over_under,onyeka okongwu,False,0.5,175,2023-10-27T18:35:19,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,betmgm,player_blocks_over_under,onyeka okongwu,False,1.5,-250,2023-10-27T18:30:36,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,barstool,player_blocks_over_under,onyeka okongwu,True,0.5,-215,2023-10-28T00:10:20,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,barstool,player_blocks_over_under,onyeka okongwu,True,1.5,130,2023-10-28T01:20:04,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,barstool,player_blocks_over_under,onyeka okongwu,False,0.5,145,2023-10-28T00:10:20,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,barstool,player_blocks_over_under,onyeka okongwu,False,1.5,-185,2023-10-28T01:20:04,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,fanduel,player_points_over_under,onyeka okongwu,True,4.5,-220,2023-10-28T01:30:55,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_blocks_over_under,onyeka okongwu,True,0.5,-225,2023-10-28T00:11:20,Atlanta Hawks,New York Knicks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,barstool,player_steals_over_under,onyeka okongwu,True,0.5,260,2023-10-30T00:50:10,Milwaukee Bucks,Atlanta Hawks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_points_over_under,onyeka okongwu,False,9.5,-110,2023-10-28T00:15:15,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,betmgm,player_points_over_under,onyeka okongwu,False,7.5,-130,2023-10-27T16:40:59,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,barstool,player_rebounds_over_under,onyeka okongwu,True,2.5,-180,2023-10-28T01:20:04,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,barstool,player_rebounds_over_under,onyeka okongwu,True,3.5,-160,2023-10-28T00:40:05,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,barstool,player_rebounds_over_under,onyeka okongwu,True,4.5,100,2023-10-28T00:30:31,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,barstool,player_rebounds_over_under,onyeka okongwu,True,5.5,-135,2023-10-28T00:20:10,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,barstool,player_rebounds_over_under,onyeka okongwu,True,6.5,110,2023-10-27T23:55:13,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,barstool,player_rebounds_over_under,onyeka okongwu,False,2.5,125,2023-10-28T01:20:04,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,barstool,player_rebounds_over_under,onyeka okongwu,False,3.5,110,2023-10-28T00:40:05,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,barstool,player_rebounds_over_under,onyeka okongwu,False,4.5,-140,2023-10-28T00:30:31,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,barstool,player_rebounds_over_under,onyeka okongwu,False,5.5,-105,2023-10-28T00:20:10,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,barstool,player_rebounds_over_under,onyeka okongwu,False,6.5,-160,2023-10-27T23:55:13,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,fanduel,player_steals_over_under,onyeka okongwu,True,0.5,280,2023-10-28T00:25:30,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,fanduel,player_steals_over_under,onyeka okongwu,True,1.5,630,2023-10-28T01:25:23,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,fanduel,player_steals_over_under,onyeka okongwu,True,2.5,1000,2023-10-28T01:40:15,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,fanduel,player_steals_over_under,onyeka okongwu,False,0.5,-420,2023-10-28T00:25:30,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,fanduel,player_steals_over_under,onyeka okongwu,False,1.5,-1400,2023-10-28T01:25:23,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,fanduel,player_steals_over_under,onyeka okongwu,False,2.5,-100000,2023-10-28T01:40:15,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_steals_over_under,onyeka okongwu,True,0.5,270,2023-10-28T00:26:03,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_steals_over_under,onyeka okongwu,True,1.5,600,2023-10-28T01:25:08,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_steals_over_under,onyeka okongwu,True,2.5,900,2023-10-28T01:35:05,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_steals_over_under,onyeka okongwu,False,0.5,-400,2023-10-28T00:26:03,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_steals_over_under,onyeka okongwu,False,1.5,-1400,2023-10-28T01:25:08,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_steals_over_under,onyeka okongwu,False,2.5,-3000,2023-10-28T01:35:05,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,betmgm,player_steals_over_under,onyeka okongwu,True,0.5,130,2023-10-27T16:50:04,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,betmgm,player_steals_over_under,onyeka okongwu,False,0.5,-175,2023-10-27T16:50:04,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,barstool,player_steals_over_under,onyeka okongwu,True,0.5,220,2023-10-28T00:26:52,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,betmgm,player_rebounds_over_under,onyeka okongwu,False,6.5,-145,2023-10-27T18:30:36,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,betmgm,player_rebounds_over_under,onyeka okongwu,True,6.5,110,2023-10-27T16:35:15,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_rebounds_over_under,onyeka okongwu,False,6.5,-150,2023-10-27T23:56:24,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_rebounds_over_under,onyeka okongwu,False,5.5,-105,2023-10-28T00:20:14,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,barstool,player_points_over_under,onyeka okongwu,True,6.5,-110,2023-10-28T00:10:20,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,barstool,player_points_over_under,onyeka okongwu,True,7.5,-110,2023-10-28T00:40:05,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,barstool,player_points_over_under,onyeka okongwu,True,8.5,120,2023-10-28T00:26:52,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,barstool,player_points_over_under,onyeka okongwu,False,6.5,-130,2023-10-28T00:10:20,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,barstool,player_points_over_under,onyeka okongwu,False,7.5,-130,2023-10-28T00:40:05,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,barstool,player_points_over_under,onyeka okongwu,False,8.5,-170,2023-10-28T00:26:52,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,fanduel,player_rebounds_over_under,onyeka okongwu,True,2.5,1000,2023-10-28T01:50:05,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,fanduel,player_rebounds_over_under,onyeka okongwu,True,3.5,134,2023-10-28T01:20:20,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,fanduel,player_rebounds_over_under,onyeka okongwu,True,4.5,128,2023-10-28T01:01:29,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,fanduel,player_rebounds_over_under,onyeka okongwu,True,5.5,-106,2023-10-28T00:20:26,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,fanduel,player_rebounds_over_under,onyeka okongwu,True,6.5,118,2023-10-27T23:55:13,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,fanduel,player_rebounds_over_under,onyeka okongwu,False,2.5,-50000,2023-10-28T01:50:05,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,betmgm,player_points_over_under,onyeka okongwu,True,7.5,-105,2023-10-27T16:40:59,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,fanduel,player_rebounds_over_under,onyeka okongwu,False,3.5,-180,2023-10-28T01:20:20,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,fanduel,player_rebounds_over_under,onyeka okongwu,False,5.5,-125,2023-10-28T00:20:26,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,fanduel,player_rebounds_over_under,onyeka okongwu,False,6.5,-158,2023-10-27T23:55:13,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,pinnacle,player_rebounds_over_under,onyeka okongwu,True,6.5,134,2023-10-27T21:35:07,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,pinnacle,player_rebounds_over_under,onyeka okongwu,False,6.5,-182,2023-10-27T21:35:07,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_rebounds_over_under,onyeka okongwu,True,2.5,900,2023-10-28T01:45:09,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_rebounds_over_under,onyeka okongwu,True,3.5,130,2023-10-28T01:21:17,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_rebounds_over_under,onyeka okongwu,True,4.5,125,2023-10-28T01:05:06,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_rebounds_over_under,onyeka okongwu,True,5.5,-125,2023-10-28T00:20:14,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_rebounds_over_under,onyeka okongwu,True,6.5,115,2023-10-27T23:56:24,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_rebounds_over_under,onyeka okongwu,False,2.5,-3500,2023-10-28T01:45:09,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_rebounds_over_under,onyeka okongwu,False,3.5,-175,2023-10-28T01:21:17,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_rebounds_over_under,onyeka okongwu,False,4.5,-165,2023-10-28T01:05:06,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,fanduel,player_rebounds_over_under,onyeka okongwu,False,4.5,-172,2023-10-28T01:01:29,Atlanta Hawks,New York Knicks
+2023-10-27,b9d80173049b2a752e52672b1c3d46e7,barstool,player_steals_over_under,onyeka okongwu,False,0.5,-425,2023-10-30T00:50:10,Milwaukee Bucks,Atlanta Hawks

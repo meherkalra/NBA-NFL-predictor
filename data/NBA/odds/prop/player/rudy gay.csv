@@ -1,0 +1,5 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-20,3980a7a0eaf6d7cc9d0a2b73027acffa,fanduel,player_points_over_under,rudy gay,True,8.5,-122,2023-03-21T01:00:02,Utah Jazz,Sacramento Kings
+2023-03-20,3980a7a0eaf6d7cc9d0a2b73027acffa,fanduel,player_points_over_under,rudy gay,False,8.5,100,2023-03-21T01:00:02,Utah Jazz,Sacramento Kings
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,rudy gay,True,7.5,-105,2023-03-23T01:00:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,rudy gay,False,7.5,-115,2023-03-23T01:00:02,Utah Jazz,Portland Trail Blazers

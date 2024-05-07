@@ -1,0 +1,179 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-23,9d7f17f70aa4b18ec0c791b126462a42,fanduel,player_rebounds_over_under,ricky rubio,False,2.5,-120,2023-03-23T23:30:01,Brooklyn Nets,Cleveland Cavaliers
+2023-03-23,9d7f17f70aa4b18ec0c791b126462a42,fanduel,player_rebounds_over_under,ricky rubio,True,2.5,-102,2023-03-23T23:30:01,Brooklyn Nets,Cleveland Cavaliers
+2023-03-23,9d7f17f70aa4b18ec0c791b126462a42,fanduel,player_points_over_under,ricky rubio,False,6.5,-122,2023-03-23T23:30:01,Brooklyn Nets,Cleveland Cavaliers
+2023-03-23,9d7f17f70aa4b18ec0c791b126462a42,fanduel,player_points_over_under,ricky rubio,True,6.5,100,2023-03-23T23:30:01,Brooklyn Nets,Cleveland Cavaliers
+2023-03-23,9d7f17f70aa4b18ec0c791b126462a42,fanduel,player_assists_over_under,ricky rubio,False,3.5,-140,2023-03-23T23:30:01,Brooklyn Nets,Cleveland Cavaliers
+2023-03-23,9d7f17f70aa4b18ec0c791b126462a42,fanduel,player_assists_over_under,ricky rubio,True,3.5,114,2023-03-23T23:30:01,Brooklyn Nets,Cleveland Cavaliers
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_points_over_under,ricky rubio,False,6.5,-102,2023-03-26T22:00:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_rebounds_over_under,ricky rubio,False,2.5,-168,2023-03-26T22:00:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_rebounds_over_under,ricky rubio,True,2.5,136,2023-03-26T22:00:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_points_over_under,ricky rubio,True,6.5,-120,2023-03-26T22:00:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_assists_over_under,ricky rubio,False,3.5,-102,2023-03-26T22:00:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_assists_over_under,ricky rubio,True,3.5,-120,2023-03-26T22:00:01,Cleveland Cavaliers,Houston Rockets
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_points_over_under,ricky rubio,True,8.5,102,2023-04-06T23:30:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_points_over_under,ricky rubio,True,7.5,110,2023-04-07T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_assists_over_under,ricky rubio,True,6.5,-110,2023-04-07T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_points_over_under,ricky rubio,True,5.5,140,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_points_over_under,ricky rubio,True,11.5,-112,2023-04-06T23:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_points_over_under,ricky rubio,True,6.5,-110,2023-04-07T00:30:02,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_points_over_under,ricky rubio,False,5.5,-188,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_points_over_under,ricky rubio,True,6.5,110,2023-04-07T00:30:02,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_points_over_under,ricky rubio,False,7.5,-146,2023-04-07T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_points_over_under,ricky rubio,False,8.5,-136,2023-04-06T23:30:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_points_over_under,ricky rubio,False,11.5,-108,2023-04-06T23:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_points_over_under,ricky rubio,True,5.5,200,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_blocks_over_under,ricky rubio,False,0.5,-425,2023-04-06T21:45:02,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_points_over_under,ricky rubio,False,6.5,-120,2023-04-07T00:30:02,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_blocks_over_under,ricky rubio,True,0.5,320,2023-04-06T21:45:02,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_assists_over_under,ricky rubio,True,7.5,110,2023-04-06T23:15:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_blocks_over_under,ricky rubio,True,0.5,1000,2023-04-07T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_assists_over_under,ricky rubio,False,7.5,-150,2023-04-06T23:15:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_assists_over_under,ricky rubio,False,6.5,-120,2023-04-07T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_assists_over_under,ricky rubio,False,5.5,-500,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_assists_over_under,ricky rubio,False,4.5,-155,2023-04-06T23:45:02,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_points_over_under,ricky rubio,True,7.5,-105,2023-04-07T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_assists_over_under,ricky rubio,True,5.5,330,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_assists_over_under,ricky rubio,True,4.5,115,2023-04-06T23:45:02,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_assists_over_under,ricky rubio,False,7.5,-186,2023-04-07T00:30:02,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_assists_over_under,ricky rubio,False,6.5,-138,2023-04-07T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_assists_over_under,ricky rubio,False,5.5,-330,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_assists_over_under,ricky rubio,False,4.5,-140,2023-04-06T23:45:02,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_assists_over_under,ricky rubio,True,7.5,138,2023-04-07T00:30:02,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_assists_over_under,ricky rubio,True,6.5,104,2023-04-07T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_blocks_over_under,ricky rubio,False,0.5,-100000,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_points_over_under,ricky rubio,True,8.5,110,2023-04-06T23:30:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_rebounds_over_under,ricky rubio,True,1.5,-186,2023-04-06T23:45:02,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_points_over_under,ricky rubio,False,5.5,-280,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_threes_over_under,ricky rubio,False,1.5,-340,2023-04-07T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_threes_over_under,ricky rubio,False,0.5,-130,2023-04-07T00:15:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_threes_over_under,ricky rubio,True,1.5,235,2023-04-07T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_threes_over_under,ricky rubio,True,0.5,100,2023-04-07T00:15:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_threes_over_under,ricky rubio,False,1.5,-4000,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_threes_over_under,ricky rubio,False,0.5,-130,2023-04-07T00:15:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_threes_over_under,ricky rubio,True,1.5,1000,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_threes_over_under,ricky rubio,True,0.5,-102,2023-04-07T00:15:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_steals_over_under,ricky rubio,False,1.5,-350,2023-04-07T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_steals_over_under,ricky rubio,False,0.5,-135,2023-04-07T00:15:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_steals_over_under,ricky rubio,True,1.5,245,2023-04-07T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_steals_over_under,ricky rubio,True,0.5,100,2023-04-07T00:15:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_steals_over_under,ricky rubio,False,1.5,-4000,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_steals_over_under,ricky rubio,False,0.5,-132,2023-04-07T00:15:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_points_over_under,ricky rubio,True,11.5,-110,2023-04-06T23:15:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_steals_over_under,ricky rubio,True,1.5,1000,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_rebounds_over_under,ricky rubio,False,3.5,-155,2023-04-06T23:15:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_rebounds_over_under,ricky rubio,False,2.5,-1600,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_rebounds_over_under,ricky rubio,False,1.5,125,2023-04-06T23:45:02,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_rebounds_over_under,ricky rubio,True,3.5,115,2023-04-06T23:15:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_rebounds_over_under,ricky rubio,True,2.5,700,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_rebounds_over_under,ricky rubio,True,1.5,-170,2023-04-06T23:45:02,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_rebounds_over_under,ricky rubio,False,2.5,-1000,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_rebounds_over_under,ricky rubio,False,1.5,138,2023-04-06T23:45:02,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_rebounds_over_under,ricky rubio,True,2.5,520,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_assists_over_under,ricky rubio,True,5.5,230,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_points_over_under,ricky rubio,False,11.5,-120,2023-04-06T23:15:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_points_over_under,ricky rubio,False,8.5,-145,2023-04-06T23:30:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_points_over_under,ricky rubio,False,7.5,-125,2023-04-07T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_points_over_under,ricky rubio,False,6.5,-145,2023-04-07T00:30:02,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_steals_over_under,ricky rubio,True,0.5,100,2023-04-07T00:15:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_assists_over_under,ricky rubio,True,4.5,106,2023-04-06T23:45:02,Orlando Magic,Cleveland Cavaliers
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,fanduel,player_assists_over_under,ricky rubio,True,6.5,-154,2023-04-09T17:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,betmgm,player_threes_over_under,ricky rubio,True,1.5,175,2023-04-09T17:00:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,betmgm,player_blocks_over_under,ricky rubio,False,0.5,-375,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,fanduel,player_points_over_under,ricky rubio,True,8.5,-118,2023-04-09T17:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,fanduel,player_points_over_under,ricky rubio,True,9.5,-106,2023-04-09T17:00:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,fanduel,player_points_over_under,ricky rubio,False,8.5,-112,2023-04-09T17:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,fanduel,player_points_over_under,ricky rubio,False,9.5,-114,2023-04-09T17:00:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_points_over_under,ricky rubio,True,6.5,-140,2023-04-09T19:00:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_points_over_under,ricky rubio,True,7.5,-120,2023-04-09T17:30:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,betmgm,player_blocks_over_under,ricky rubio,True,0.5,260,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,betmgm,player_threes_over_under,ricky rubio,False,1.5,-250,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_points_over_under,ricky rubio,True,10.5,-135,2023-04-09T18:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_points_over_under,ricky rubio,True,11.5,120,2023-04-09T18:00:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_points_over_under,ricky rubio,False,6.5,105,2023-04-09T19:00:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_points_over_under,ricky rubio,False,7.5,-110,2023-04-09T17:30:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_points_over_under,ricky rubio,False,8.5,-190,2023-04-09T18:45:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_points_over_under,ricky rubio,False,9.5,-110,2023-04-09T16:00:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_points_over_under,ricky rubio,False,10.5,100,2023-04-09T18:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_points_over_under,ricky rubio,True,9.5,-120,2023-04-09T16:00:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_points_over_under,ricky rubio,False,11.5,-155,2023-04-09T18:00:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,caesars,player_blocks_over_under,ricky rubio,False,0.5,-374,2023-04-09T16:00:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_blocks_over_under,ricky rubio,False,0.5,-5000,2023-04-09T18:45:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,fanduel,player_assists_over_under,ricky rubio,False,6.5,116,2023-04-09T17:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_assists_over_under,ricky rubio,True,6.5,-150,2023-04-09T17:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_assists_over_under,ricky rubio,True,7.5,120,2023-04-09T19:00:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_assists_over_under,ricky rubio,True,8.5,100,2023-04-09T18:45:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_assists_over_under,ricky rubio,True,9.5,-120,2023-04-09T17:45:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_assists_over_under,ricky rubio,False,6.5,115,2023-04-09T17:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_assists_over_under,ricky rubio,False,7.5,-160,2023-04-09T19:00:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,caesars,player_blocks_over_under,ricky rubio,True,0.5,247,2023-04-09T16:00:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_assists_over_under,ricky rubio,False,8.5,-130,2023-04-09T18:45:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,caesars,player_assists_over_under,ricky rubio,True,6.5,-121,2023-04-09T16:00:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,caesars,player_assists_over_under,ricky rubio,False,6.5,-113,2023-04-09T16:00:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,betmgm,player_assists_over_under,ricky rubio,True,6.5,-125,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,betmgm,player_assists_over_under,ricky rubio,False,6.5,-105,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,fanduel,player_blocks_over_under,ricky rubio,True,0.5,1000,2023-04-09T18:45:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,fanduel,player_blocks_over_under,ricky rubio,False,0.5,-50000,2023-04-09T19:00:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_blocks_over_under,ricky rubio,True,0.5,1000,2023-04-09T18:45:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_assists_over_under,ricky rubio,False,9.5,-110,2023-04-09T17:45:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,caesars,player_points_over_under,ricky rubio,True,9.5,-125,2023-04-09T16:00:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_points_over_under,ricky rubio,True,8.5,140,2023-04-09T18:45:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,betmgm,player_points_over_under,ricky rubio,True,9.5,-120,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_steals_over_under,ricky rubio,True,1.5,150,2023-04-09T17:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_steals_over_under,ricky rubio,False,0.5,-1400,2023-04-09T19:00:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_steals_over_under,ricky rubio,False,1.5,-200,2023-04-09T17:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,caesars,player_steals_over_under,ricky rubio,True,1.5,118,2023-04-09T16:00:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,caesars,player_steals_over_under,ricky rubio,False,1.5,-163,2023-04-09T16:00:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,betmgm,player_steals_over_under,ricky rubio,True,1.5,120,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,betmgm,player_steals_over_under,ricky rubio,False,1.5,-160,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,caesars,player_points_over_under,ricky rubio,False,9.5,-109,2023-04-09T16:00:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,fanduel,player_threes_over_under,ricky rubio,False,0.5,-2000,2023-04-09T19:00:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_threes_over_under,ricky rubio,True,0.5,750,2023-04-09T19:00:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_threes_over_under,ricky rubio,True,1.5,190,2023-04-09T16:00:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_threes_over_under,ricky rubio,False,0.5,-2000,2023-04-09T19:00:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_threes_over_under,ricky rubio,False,1.5,-235,2023-04-09T16:00:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,caesars,player_threes_over_under,ricky rubio,True,1.5,178,2023-04-09T16:00:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,caesars,player_threes_over_under,ricky rubio,False,1.5,-254,2023-04-09T16:00:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_steals_over_under,ricky rubio,True,0.5,650,2023-04-09T19:00:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,fanduel,player_steals_over_under,ricky rubio,False,1.5,-215,2023-04-09T17:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,fanduel,player_threes_over_under,ricky rubio,True,0.5,750,2023-04-09T19:00:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,fanduel,player_steals_over_under,ricky rubio,True,1.5,158,2023-04-09T17:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,fanduel,player_steals_over_under,ricky rubio,False,0.5,188,2023-04-09T17:30:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,betmgm,player_points_over_under,ricky rubio,False,9.5,-110,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,fanduel,player_rebounds_over_under,ricky rubio,True,2.5,-210,2023-04-09T17:30:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,fanduel,player_rebounds_over_under,ricky rubio,False,2.5,154,2023-04-09T17:30:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_rebounds_over_under,ricky rubio,True,2.5,-195,2023-04-09T17:30:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_rebounds_over_under,ricky rubio,True,5.5,350,2023-04-09T19:00:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_rebounds_over_under,ricky rubio,True,6.5,135,2023-04-09T18:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_rebounds_over_under,ricky rubio,False,2.5,145,2023-04-09T17:30:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_rebounds_over_under,ricky rubio,True,4.5,-150,2023-04-09T17:45:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_rebounds_over_under,ricky rubio,False,4.5,110,2023-04-09T17:45:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_rebounds_over_under,ricky rubio,False,5.5,-550,2023-04-09T19:00:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_rebounds_over_under,ricky rubio,False,6.5,-180,2023-04-09T18:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,caesars,player_rebounds_over_under,ricky rubio,True,2.5,-117,2023-04-09T16:00:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,caesars,player_rebounds_over_under,ricky rubio,False,2.5,-117,2023-04-09T16:00:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,betmgm,player_rebounds_over_under,ricky rubio,True,2.5,-115,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,betmgm,player_rebounds_over_under,ricky rubio,False,2.5,-115,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,fanduel,player_steals_over_under,ricky rubio,True,0.5,-260,2023-04-09T17:30:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-15,ea2e7e477d82213434611896c5e2a525,draftkings,player_steals_over_under,ricky rubio,True,0.5,120,2023-04-15T21:15:01,Cleveland Cavaliers,New York Knicks
+2023-04-15,ea2e7e477d82213434611896c5e2a525,draftkings,player_steals_over_under,ricky rubio,False,0.5,-150,2023-04-15T21:15:01,Cleveland Cavaliers,New York Knicks
+2023-04-15,ea2e7e477d82213434611896c5e2a525,betmgm,player_steals_over_under,ricky rubio,True,0.5,120,2023-04-15T21:15:01,Cleveland Cavaliers,New York Knicks
+2023-04-15,ea2e7e477d82213434611896c5e2a525,betmgm,player_steals_over_under,ricky rubio,False,0.5,-160,2023-04-15T21:15:01,Cleveland Cavaliers,New York Knicks
+2023-04-15,ea2e7e477d82213434611896c5e2a525,caesars,player_threes_over_under,ricky rubio,True,0.5,136,2023-04-15T21:15:01,Cleveland Cavaliers,New York Knicks
+2023-04-15,ea2e7e477d82213434611896c5e2a525,draftkings,player_threes_over_under,ricky rubio,False,0.5,-185,2023-04-15T21:30:01,Cleveland Cavaliers,New York Knicks
+2023-04-15,ea2e7e477d82213434611896c5e2a525,caesars,player_threes_over_under,ricky rubio,False,0.5,-189,2023-04-15T21:15:01,Cleveland Cavaliers,New York Knicks
+2023-04-15,ea2e7e477d82213434611896c5e2a525,betmgm,player_rebounds_over_under,ricky rubio,False,1.5,-130,2023-04-15T21:15:01,Cleveland Cavaliers,New York Knicks
+2023-04-15,ea2e7e477d82213434611896c5e2a525,draftkings,player_threes_over_under,ricky rubio,True,0.5,150,2023-04-15T21:30:01,Cleveland Cavaliers,New York Knicks
+2023-04-15,ea2e7e477d82213434611896c5e2a525,betmgm,player_rebounds_over_under,ricky rubio,True,1.5,-105,2023-04-15T21:15:01,Cleveland Cavaliers,New York Knicks
+2023-04-15,ea2e7e477d82213434611896c5e2a525,draftkings,player_assists_over_under,ricky rubio,False,2.5,-150,2023-04-15T21:30:01,Cleveland Cavaliers,New York Knicks
+2023-04-15,ea2e7e477d82213434611896c5e2a525,betmgm,player_points_over_under,ricky rubio,True,4.5,-105,2023-04-15T21:15:01,Cleveland Cavaliers,New York Knicks
+2023-04-15,ea2e7e477d82213434611896c5e2a525,betmgm,player_blocks_over_under,ricky rubio,False,0.5,-750,2023-04-15T21:15:01,Cleveland Cavaliers,New York Knicks
+2023-04-15,ea2e7e477d82213434611896c5e2a525,betmgm,player_blocks_over_under,ricky rubio,True,0.5,450,2023-04-15T21:15:01,Cleveland Cavaliers,New York Knicks
+2023-04-15,ea2e7e477d82213434611896c5e2a525,draftkings,player_blocks_over_under,ricky rubio,False,0.5,-690,2023-04-15T21:15:01,Cleveland Cavaliers,New York Knicks
+2023-04-15,ea2e7e477d82213434611896c5e2a525,draftkings,player_blocks_over_under,ricky rubio,True,0.5,470,2023-04-15T21:15:01,Cleveland Cavaliers,New York Knicks
+2023-04-15,ea2e7e477d82213434611896c5e2a525,betmgm,player_assists_over_under,ricky rubio,False,2.5,-135,2023-04-15T21:30:01,Cleveland Cavaliers,New York Knicks
+2023-04-15,ea2e7e477d82213434611896c5e2a525,betmgm,player_assists_over_under,ricky rubio,True,2.5,100,2023-04-15T21:30:01,Cleveland Cavaliers,New York Knicks
+2023-04-15,ea2e7e477d82213434611896c5e2a525,draftkings,player_assists_over_under,ricky rubio,True,2.5,120,2023-04-15T21:30:01,Cleveland Cavaliers,New York Knicks
+2023-04-15,ea2e7e477d82213434611896c5e2a525,betmgm,player_threes_over_under,ricky rubio,True,0.5,135,2023-04-15T21:15:01,Cleveland Cavaliers,New York Knicks
+2023-04-15,ea2e7e477d82213434611896c5e2a525,betmgm,player_points_over_under,ricky rubio,False,4.5,-125,2023-04-15T21:15:01,Cleveland Cavaliers,New York Knicks
+2023-04-15,ea2e7e477d82213434611896c5e2a525,betmgm,player_threes_over_under,ricky rubio,False,0.5,-185,2023-04-15T21:15:01,Cleveland Cavaliers,New York Knicks

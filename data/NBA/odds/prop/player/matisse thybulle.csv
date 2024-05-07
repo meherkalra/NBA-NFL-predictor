@@ -1,0 +1,531 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_assists_over_under,matisse thybulle,False,1.5,-230,2023-03-20T01:15:02,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_assists_over_under,matisse thybulle,True,0.5,520,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_assists_over_under,matisse thybulle,True,1.5,168,2023-03-20T01:15:02,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_assists_over_under,matisse thybulle,False,0.5,-1000,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_blocks_over_under,matisse thybulle,True,0.5,920,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_blocks_over_under,matisse thybulle,False,0.5,-3500,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,matisse thybulle,True,3.5,-172,2023-03-20T02:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,matisse thybulle,True,4.5,-146,2023-03-20T01:45:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,matisse thybulle,True,5.5,102,2023-03-20T02:15:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,matisse thybulle,True,6.5,-158,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,matisse thybulle,True,8.5,154,2023-03-20T02:30:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,matisse thybulle,False,3.5,128,2023-03-20T02:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,matisse thybulle,False,4.5,110,2023-03-20T01:45:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,matisse thybulle,False,5.5,-136,2023-03-20T02:15:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,matisse thybulle,False,6.5,118,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,matisse thybulle,False,7.5,-128,2023-03-20T02:45:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,matisse thybulle,True,7.5,-104,2023-03-20T02:45:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_rebounds_over_under,matisse thybulle,True,1.5,122,2023-03-20T02:15:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_threes_over_under,matisse thybulle,False,1.5,-180,2023-03-20T01:15:02,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_threes_over_under,matisse thybulle,False,0.5,-900,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,matisse thybulle,False,8.5,-210,2023-03-20T02:30:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_threes_over_under,matisse thybulle,True,0.5,490,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_steals_over_under,matisse thybulle,False,1.5,-182,2023-03-20T01:15:02,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_steals_over_under,matisse thybulle,False,0.5,-900,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_steals_over_under,matisse thybulle,True,1.5,136,2023-03-20T01:15:02,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_threes_over_under,matisse thybulle,True,1.5,134,2023-03-20T01:15:02,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_rebounds_over_under,matisse thybulle,False,3.5,-310,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_rebounds_over_under,matisse thybulle,False,2.5,-210,2023-03-20T01:30:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_rebounds_over_under,matisse thybulle,False,1.5,-162,2023-03-20T02:15:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_rebounds_over_under,matisse thybulle,True,3.5,220,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_rebounds_over_under,matisse thybulle,True,2.5,154,2023-03-20T01:30:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_steals_over_under,matisse thybulle,True,0.5,490,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_rebounds_over_under,matisse thybulle,True,2.5,-162,2023-03-23T01:15:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_rebounds_over_under,matisse thybulle,True,4.5,580,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_rebounds_over_under,matisse thybulle,False,2.5,122,2023-03-23T01:15:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_rebounds_over_under,matisse thybulle,False,3.5,118,2023-03-23T02:45:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_rebounds_over_under,matisse thybulle,False,4.5,-1200,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_steals_over_under,matisse thybulle,False,1.5,-152,2023-03-23T02:30:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_steals_over_under,matisse thybulle,True,2.5,1000,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_steals_over_under,matisse thybulle,False,2.5,-4000,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_threes_over_under,matisse thybulle,True,0.5,-146,2023-03-23T02:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_threes_over_under,matisse thybulle,True,1.5,920,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,matisse thybulle,False,8.5,132,2023-03-23T02:30:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_steals_over_under,matisse thybulle,True,1.5,114,2023-03-23T02:30:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,matisse thybulle,False,7.5,-152,2023-03-23T03:00:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_assists_over_under,matisse thybulle,True,1.5,-104,2023-03-23T02:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,matisse thybulle,False,5.5,102,2023-03-23T02:00:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,matisse thybulle,True,8.5,-178,2023-03-23T02:30:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,matisse thybulle,True,7.5,114,2023-03-23T03:00:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,matisse thybulle,True,6.5,225,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,matisse thybulle,True,5.5,-136,2023-03-23T02:00:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_blocks_over_under,matisse thybulle,False,1.5,-50000,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_blocks_over_under,matisse thybulle,True,1.5,1000,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_assists_over_under,matisse thybulle,False,2.5,-4000,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_assists_over_under,matisse thybulle,False,1.5,-128,2023-03-23T02:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_assists_over_under,matisse thybulle,False,0.5,116,2023-03-23T02:00:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_assists_over_under,matisse thybulle,True,0.5,-154,2023-03-23T02:00:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_threes_over_under,matisse thybulle,False,0.5,110,2023-03-23T02:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,matisse thybulle,False,6.5,-320,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_threes_over_under,matisse thybulle,False,1.5,-3500,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_rebounds_over_under,matisse thybulle,True,3.5,-158,2023-03-23T02:45:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_assists_over_under,matisse thybulle,True,2.5,1000,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_threes_over_under,matisse thybulle,True,1.5,1000,2023-03-25T04:00:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_points_over_under,matisse thybulle,False,6.5,-178,2023-03-25T03:45:02,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_assists_over_under,matisse thybulle,True,1.5,1000,2023-03-25T04:00:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_points_over_under,matisse thybulle,False,5.5,-2000,2023-03-25T04:00:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_points_over_under,matisse thybulle,True,10.5,112,2023-03-25T02:30:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_points_over_under,matisse thybulle,True,9.5,-136,2023-03-25T02:45:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_points_over_under,matisse thybulle,True,8.5,-136,2023-03-25T02:15:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_points_over_under,matisse thybulle,True,7.5,-104,2023-03-25T03:00:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_points_over_under,matisse thybulle,True,6.5,132,2023-03-25T03:45:02,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_points_over_under,matisse thybulle,True,5.5,750,2023-03-25T04:00:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_blocks_over_under,matisse thybulle,False,0.5,-100000,2023-03-25T04:00:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_blocks_over_under,matisse thybulle,True,0.5,1000,2023-03-25T04:00:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_assists_over_under,matisse thybulle,False,2.5,-192,2023-03-25T02:45:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_assists_over_under,matisse thybulle,False,1.5,-50000,2023-03-25T04:00:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_points_over_under,matisse thybulle,False,7.5,-128,2023-03-25T03:00:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_points_over_under,matisse thybulle,False,8.5,102,2023-03-25T02:15:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_points_over_under,matisse thybulle,False,9.5,102,2023-03-25T02:45:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_threes_over_under,matisse thybulle,True,2.5,136,2023-03-25T02:45:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_steals_over_under,matisse thybulle,False,0.5,-144,2023-03-25T03:15:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_steals_over_under,matisse thybulle,True,1.5,1000,2023-03-25T04:00:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_steals_over_under,matisse thybulle,True,0.5,108,2023-03-25T03:15:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_rebounds_over_under,matisse thybulle,False,3.5,-138,2023-03-25T02:15:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_rebounds_over_under,matisse thybulle,False,2.5,-114,2023-03-25T02:45:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_threes_over_under,matisse thybulle,False,2.5,-182,2023-03-25T02:45:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_threes_over_under,matisse thybulle,False,1.5,-50000,2023-03-25T04:00:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_assists_over_under,matisse thybulle,True,2.5,142,2023-03-25T02:45:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_rebounds_over_under,matisse thybulle,False,1.5,-138,2023-03-25T03:15:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_rebounds_over_under,matisse thybulle,False,0.5,-7000,2023-03-25T04:00:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_rebounds_over_under,matisse thybulle,True,3.5,104,2023-03-25T02:15:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_rebounds_over_under,matisse thybulle,True,2.5,-114,2023-03-25T02:45:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_rebounds_over_under,matisse thybulle,True,1.5,104,2023-03-25T03:15:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_rebounds_over_under,matisse thybulle,True,0.5,1000,2023-03-25T04:00:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_points_over_under,matisse thybulle,False,10.5,-148,2023-03-25T02:30:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_steals_over_under,matisse thybulle,False,1.5,-100000,2023-03-25T04:00:01,Portland Trail Blazers,Chicago Bulls
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_points_over_under,matisse thybulle,True,7.5,116,2023-03-27T01:00:02,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_points_over_under,matisse thybulle,True,6.5,-154,2023-03-27T01:15:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_threes_over_under,matisse thybulle,False,1.5,-290,2023-03-27T01:15:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_blocks_over_under,matisse thybulle,False,0.5,-1400,2023-03-27T01:15:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_blocks_over_under,matisse thybulle,True,0.5,630,2023-03-27T01:15:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_assists_over_under,matisse thybulle,False,2.5,-188,2023-03-26T23:45:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_assists_over_under,matisse thybulle,False,1.5,-290,2023-03-27T01:15:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_assists_over_under,matisse thybulle,True,2.5,140,2023-03-26T23:45:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_assists_over_under,matisse thybulle,True,1.5,205,2023-03-27T01:15:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_points_over_under,matisse thybulle,True,8.5,-102,2023-03-26T22:45:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_points_over_under,matisse thybulle,True,9.5,106,2023-03-27T00:30:02,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_points_over_under,matisse thybulle,True,10.5,-104,2023-03-27T00:00:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_points_over_under,matisse thybulle,True,11.5,-158,2023-03-26T23:30:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_points_over_under,matisse thybulle,True,12.5,116,2023-03-26T23:45:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_points_over_under,matisse thybulle,False,6.5,116,2023-03-27T01:15:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_points_over_under,matisse thybulle,False,7.5,-154,2023-03-27T01:00:02,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_points_over_under,matisse thybulle,False,8.5,-120,2023-03-26T22:45:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_points_over_under,matisse thybulle,False,9.5,-140,2023-03-27T00:30:02,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_points_over_under,matisse thybulle,False,10.5,-128,2023-03-27T00:00:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_points_over_under,matisse thybulle,False,11.5,118,2023-03-26T23:30:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_points_over_under,matisse thybulle,False,12.5,-154,2023-03-26T23:45:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_rebounds_over_under,matisse thybulle,True,3.5,-125,2023-03-27T00:30:02,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_rebounds_over_under,matisse thybulle,True,4.5,-130,2023-03-27T01:15:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_rebounds_over_under,matisse thybulle,False,3.5,-106,2023-03-27T00:30:02,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_rebounds_over_under,matisse thybulle,False,4.5,-102,2023-03-27T01:15:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_steals_over_under,matisse thybulle,True,0.5,-144,2023-03-27T00:00:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_steals_over_under,matisse thybulle,True,1.5,210,2023-03-27T01:00:02,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_steals_over_under,matisse thybulle,True,2.5,280,2023-03-27T01:15:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_steals_over_under,matisse thybulle,False,0.5,108,2023-03-27T00:00:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_steals_over_under,matisse thybulle,False,1.5,-300,2023-03-27T01:00:02,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_steals_over_under,matisse thybulle,False,2.5,-420,2023-03-27T01:15:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_threes_over_under,matisse thybulle,True,1.5,205,2023-03-27T01:15:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_threes_over_under,matisse thybulle,False,2.5,-182,2023-03-26T23:45:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_threes_over_under,matisse thybulle,True,2.5,136,2023-03-26T23:45:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_points_over_under,matisse thybulle,False,6.5,-102,2023-03-28T02:45:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_threes_over_under,matisse thybulle,False,0.5,-5000,2023-03-28T04:00:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_assists_over_under,matisse thybulle,True,0.5,1000,2023-03-28T04:00:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_assists_over_under,matisse thybulle,True,1.5,144,2023-03-28T02:45:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_assists_over_under,matisse thybulle,False,0.5,-5000,2023-03-28T04:00:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_assists_over_under,matisse thybulle,False,1.5,-194,2023-03-28T02:45:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_blocks_over_under,matisse thybulle,True,0.5,390,2023-03-28T03:15:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_blocks_over_under,matisse thybulle,True,1.5,1000,2023-03-28T04:00:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_blocks_over_under,matisse thybulle,False,0.5,-650,2023-03-28T03:15:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_blocks_over_under,matisse thybulle,False,1.5,-50000,2023-03-28T04:00:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_points_over_under,matisse thybulle,True,2.5,154,2023-03-28T03:45:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_points_over_under,matisse thybulle,True,3.5,320,2023-03-28T04:00:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_points_over_under,matisse thybulle,True,6.5,-130,2023-03-28T02:45:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_points_over_under,matisse thybulle,True,7.5,104,2023-03-28T02:30:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_threes_over_under,matisse thybulle,False,1.5,-235,2023-03-28T02:45:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_points_over_under,matisse thybulle,False,2.5,-210,2023-03-28T03:45:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_points_over_under,matisse thybulle,True,8.5,116,2023-03-28T02:15:02,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_points_over_under,matisse thybulle,False,7.5,-138,2023-03-28T02:30:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_threes_over_under,matisse thybulle,True,1.5,172,2023-03-28T02:45:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_threes_over_under,matisse thybulle,True,0.5,1000,2023-03-28T04:00:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_steals_over_under,matisse thybulle,False,1.5,-192,2023-03-28T02:15:02,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_steals_over_under,matisse thybulle,False,0.5,-7000,2023-03-28T04:00:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_points_over_under,matisse thybulle,False,3.5,-490,2023-03-28T04:00:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_steals_over_under,matisse thybulle,True,0.5,1000,2023-03-28T04:00:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_steals_over_under,matisse thybulle,True,1.5,142,2023-03-28T02:15:02,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_rebounds_over_under,matisse thybulle,False,2.5,-154,2023-03-28T02:45:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_rebounds_over_under,matisse thybulle,False,1.5,-2000,2023-03-28T04:00:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_rebounds_over_under,matisse thybulle,True,3.5,112,2023-03-28T02:15:02,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_rebounds_over_under,matisse thybulle,True,2.5,116,2023-03-28T02:45:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_rebounds_over_under,matisse thybulle,True,1.5,750,2023-03-28T04:00:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_points_over_under,matisse thybulle,False,8.5,-154,2023-03-28T02:15:02,Portland Trail Blazers,New Orleans Pelicans
+2023-03-27,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_rebounds_over_under,matisse thybulle,False,3.5,-148,2023-03-28T02:15:02,Portland Trail Blazers,New Orleans Pelicans
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_threes_over_under,matisse thybulle,True,3.5,182,2023-03-30T03:00:02,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_threes_over_under,matisse thybulle,False,3.5,-250,2023-03-30T03:00:02,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_threes_over_under,matisse thybulle,False,2.5,-310,2023-03-30T04:00:02,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_threes_over_under,matisse thybulle,False,1.5,-104,2023-03-30T01:45:01,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_threes_over_under,matisse thybulle,True,2.5,220,2023-03-30T04:00:02,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_blocks_over_under,matisse thybulle,True,1.5,750,2023-03-30T04:00:02,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_steals_over_under,matisse thybulle,False,2.5,-440,2023-03-30T04:00:02,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_points_over_under,matisse thybulle,True,12.5,-122,2023-03-30T02:45:02,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_points_over_under,matisse thybulle,True,11.5,-104,2023-03-30T03:30:01,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_points_over_under,matisse thybulle,True,10.5,104,2023-03-30T03:45:01,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_points_over_under,matisse thybulle,True,9.5,-120,2023-03-30T04:00:02,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_points_over_under,matisse thybulle,True,8.5,-130,2023-03-30T01:00:01,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_points_over_under,matisse thybulle,True,7.5,-122,2023-03-30T00:45:01,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_points_over_under,matisse thybulle,True,13.5,-102,2023-03-30T03:15:02,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_blocks_over_under,matisse thybulle,False,0.5,-162,2023-03-30T02:15:01,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_assists_over_under,matisse thybulle,False,3.5,-250,2023-03-30T04:00:02,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_assists_over_under,matisse thybulle,False,2.5,-152,2023-03-30T03:45:01,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_assists_over_under,matisse thybulle,False,1.5,-210,2023-03-30T03:15:02,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_assists_over_under,matisse thybulle,True,3.5,182,2023-03-30T04:00:02,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_assists_over_under,matisse thybulle,True,2.5,114,2023-03-30T03:45:01,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_assists_over_under,matisse thybulle,True,1.5,154,2023-03-30T03:15:02,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_blocks_over_under,matisse thybulle,True,0.5,122,2023-03-30T02:15:01,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_points_over_under,matisse thybulle,False,7.5,100,2023-03-30T00:45:01,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_blocks_over_under,matisse thybulle,False,1.5,-2000,2023-03-30T04:00:02,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_points_over_under,matisse thybulle,False,9.5,-110,2023-03-30T04:00:02,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_points_over_under,matisse thybulle,False,8.5,106,2023-03-30T01:00:01,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_steals_over_under,matisse thybulle,False,1.5,-166,2023-03-30T03:30:01,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_steals_over_under,matisse thybulle,True,2.5,290,2023-03-30T04:00:02,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_steals_over_under,matisse thybulle,True,1.5,124,2023-03-30T03:30:01,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_rebounds_over_under,matisse thybulle,False,5.5,-146,2023-03-30T04:00:02,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_rebounds_over_under,matisse thybulle,False,4.5,124,2023-03-30T03:45:01,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_rebounds_over_under,matisse thybulle,False,3.5,-182,2023-03-30T02:15:01,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_rebounds_over_under,matisse thybulle,False,2.5,130,2023-03-30T00:45:01,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_threes_over_under,matisse thybulle,True,1.5,-122,2023-03-30T01:45:01,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_rebounds_over_under,matisse thybulle,True,4.5,-166,2023-03-30T03:45:01,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_rebounds_over_under,matisse thybulle,True,3.5,136,2023-03-30T02:15:01,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_rebounds_over_under,matisse thybulle,True,2.5,-160,2023-03-30T00:45:01,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_points_over_under,matisse thybulle,False,13.5,-130,2023-03-30T03:15:02,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_points_over_under,matisse thybulle,False,12.5,-108,2023-03-30T02:45:02,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_points_over_under,matisse thybulle,False,11.5,-128,2023-03-30T03:30:01,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_points_over_under,matisse thybulle,False,10.5,-138,2023-03-30T03:45:01,Portland Trail Blazers,Sacramento Kings
+2023-03-29,c480dabad04835efc8323abb6bcc365b,fanduel,player_rebounds_over_under,matisse thybulle,True,5.5,110,2023-03-30T04:00:02,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_points_over_under,matisse thybulle,False,11.5,-160,2023-04-01T02:38:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_points_over_under,matisse thybulle,False,12.5,-158,2023-04-01T02:20:02,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_rebounds_over_under,matisse thybulle,True,1.5,-210,2023-04-01T03:30:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_rebounds_over_under,matisse thybulle,True,2.5,1000,2023-04-01T04:12:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_rebounds_over_under,matisse thybulle,True,3.5,154,2023-04-01T02:54:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_rebounds_over_under,matisse thybulle,True,4.5,140,2023-04-01T02:14:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_rebounds_over_under,matisse thybulle,False,1.5,154,2023-04-01T03:30:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_rebounds_over_under,matisse thybulle,False,2.5,-100000,2023-04-01T04:12:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_steals_over_under,matisse thybulle,False,0.5,-114,2023-04-01T03:06:02,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_rebounds_over_under,matisse thybulle,False,4.5,-188,2023-04-01T02:14:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_steals_over_under,matisse thybulle,True,0.5,-114,2023-04-01T03:06:02,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_steals_over_under,matisse thybulle,True,1.5,1000,2023-04-01T04:10:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_steals_over_under,matisse thybulle,False,1.5,-100000,2023-04-01T04:12:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_threes_over_under,matisse thybulle,True,1.5,142,2023-04-01T03:32:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_threes_over_under,matisse thybulle,True,2.5,1000,2023-04-01T04:10:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_threes_over_under,matisse thybulle,False,1.5,-192,2023-04-01T03:32:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_rebounds_over_under,matisse thybulle,False,3.5,-210,2023-04-01T02:54:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_threes_over_under,matisse thybulle,False,2.5,-100000,2023-04-01T04:12:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_points_over_under,matisse thybulle,False,9.5,-210,2023-04-01T04:04:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_points_over_under,matisse thybulle,False,8.5,-50000,2023-04-01T04:12:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_assists_over_under,matisse thybulle,True,0.5,-225,2023-04-01T03:06:02,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_points_over_under,matisse thybulle,False,10.5,-158,2023-04-01T02:58:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_assists_over_under,matisse thybulle,False,0.5,164,2023-04-01T03:06:02,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_assists_over_under,matisse thybulle,False,1.5,-100000,2023-04-01T04:12:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_blocks_over_under,matisse thybulle,True,1.5,280,2023-04-01T03:08:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_blocks_over_under,matisse thybulle,True,2.5,1000,2023-04-01T04:06:02,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_blocks_over_under,matisse thybulle,False,1.5,-420,2023-04-01T03:08:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_blocks_over_under,matisse thybulle,False,2.5,-100000,2023-04-01T04:10:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_assists_over_under,matisse thybulle,True,1.5,1000,2023-04-01T04:12:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_points_over_under,matisse thybulle,True,7.5,118,2023-04-01T03:30:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_points_over_under,matisse thybulle,True,8.5,1000,2023-04-01T04:12:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_points_over_under,matisse thybulle,True,9.5,154,2023-04-01T04:04:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_points_over_under,matisse thybulle,True,10.5,118,2023-04-01T02:58:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_points_over_under,matisse thybulle,True,11.5,120,2023-04-01T02:38:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_points_over_under,matisse thybulle,True,12.5,118,2023-04-01T02:20:02,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_points_over_under,matisse thybulle,False,7.5,-158,2023-04-01T03:30:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_points_over_under,matisse thybulle,True,6.5,-198,2023-04-01T03:32:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_points_over_under,matisse thybulle,False,6.5,146,2023-04-01T03:32:01,Portland Trail Blazers,Sacramento Kings
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_rebounds_over_under,matisse thybulle,True,2.5,-188,2023-04-02T20:24:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_rebounds_over_under,matisse thybulle,True,3.5,-225,2023-04-02T21:04:02,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_rebounds_over_under,matisse thybulle,True,4.5,-132,2023-04-02T21:10:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_rebounds_over_under,matisse thybulle,False,2.5,140,2023-04-02T20:24:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_rebounds_over_under,matisse thybulle,False,4.5,100,2023-04-02T21:10:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_steals_over_under,matisse thybulle,False,3.5,-300,2023-04-02T21:10:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_steals_over_under,matisse thybulle,True,3.5,210,2023-04-02T21:10:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_steals_over_under,matisse thybulle,False,2.5,-108,2023-04-02T20:50:02,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_threes_over_under,matisse thybulle,True,0.5,152,2023-04-02T21:10:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_threes_over_under,matisse thybulle,True,1.5,168,2023-04-02T20:26:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_threes_over_under,matisse thybulle,False,0.5,-205,2023-04-02T21:10:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_threes_over_under,matisse thybulle,False,1.5,-230,2023-04-02T20:26:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_points_over_under,matisse thybulle,False,7.5,-154,2023-04-02T19:44:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_steals_over_under,matisse thybulle,True,2.5,-122,2023-04-02T20:50:02,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_points_over_under,matisse thybulle,False,6.5,-162,2023-04-02T19:52:02,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_points_over_under,matisse thybulle,True,4.5,108,2023-04-02T20:32:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_points_over_under,matisse thybulle,False,4.5,-144,2023-04-02T20:32:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_assists_over_under,matisse thybulle,True,0.5,198,2023-04-02T21:10:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_assists_over_under,matisse thybulle,True,1.5,194,2023-04-02T19:52:02,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_assists_over_under,matisse thybulle,False,0.5,-275,2023-04-02T21:10:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_assists_over_under,matisse thybulle,False,1.5,-270,2023-04-02T19:52:02,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_blocks_over_under,matisse thybulle,True,0.5,490,2023-04-02T21:10:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_blocks_over_under,matisse thybulle,False,0.5,-900,2023-04-02T21:10:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_points_over_under,matisse thybulle,True,1.5,-174,2023-04-02T21:10:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_points_over_under,matisse thybulle,True,2.5,134,2023-04-02T21:08:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_points_over_under,matisse thybulle,True,3.5,110,2023-04-02T20:54:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_points_over_under,matisse thybulle,True,5.5,120,2023-04-02T20:26:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_points_over_under,matisse thybulle,True,6.5,122,2023-04-02T19:52:02,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_points_over_under,matisse thybulle,True,7.5,116,2023-04-02T19:44:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_points_over_under,matisse thybulle,False,1.5,130,2023-04-02T21:10:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_points_over_under,matisse thybulle,False,2.5,-180,2023-04-02T21:08:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_points_over_under,matisse thybulle,False,3.5,-146,2023-04-02T20:54:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_points_over_under,matisse thybulle,False,5.5,-160,2023-04-02T20:26:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_rebounds_over_under,matisse thybulle,False,3.5,164,2023-04-02T21:04:02,Minnesota Timberwolves,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_assists_over_under,matisse thybulle,True,0.5,108,2023-10-26T04:00:11,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_threes_over_under,matisse thybulle,False,1.5,-340,2023-10-25T11:10:14,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_points_over_under,matisse thybulle,False,1.5,144,2023-10-26T03:50:05,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_points_over_under,matisse thybulle,False,2.5,-178,2023-10-26T03:45:08,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_points_over_under,matisse thybulle,False,3.5,-154,2023-10-26T03:31:36,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_points_over_under,matisse thybulle,False,4.5,-125,2023-10-26T04:00:11,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_points_over_under,matisse thybulle,False,5.5,-138,2023-10-26T02:45:04,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_points_over_under,matisse thybulle,False,8.5,-3000,2023-10-26T04:50:12,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_points_over_under,matisse thybulle,False,9.5,-194,2023-10-26T04:06:03,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,matisse thybulle,True,1.5,-160,2023-10-26T03:35:04,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,matisse thybulle,True,2.5,115,2023-10-26T04:00:10,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_points_over_under,matisse thybulle,True,9.5,150,2023-10-26T04:06:03,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,matisse thybulle,True,3.5,115,2023-10-26T03:11:40,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,matisse thybulle,True,5.5,105,2023-10-25T14:20:05,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,matisse thybulle,True,7.5,-120,2023-10-26T04:05:27,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,matisse thybulle,True,8.5,800,2023-10-26T04:39:33,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,matisse thybulle,False,1.5,120,2023-10-26T03:35:04,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,matisse thybulle,False,2.5,-155,2023-10-26T04:00:10,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,matisse thybulle,False,3.5,-150,2023-10-26T03:25:05,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,matisse thybulle,False,4.5,105,2023-10-26T04:00:10,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,matisse thybulle,False,5.5,-135,2023-10-25T14:20:05,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,matisse thybulle,False,7.5,-110,2023-10-26T04:05:27,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,matisse thybulle,True,4.5,-140,2023-10-26T04:00:10,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_points_over_under,matisse thybulle,True,8.5,320,2023-10-26T04:40:05,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_points_over_under,matisse thybulle,True,5.5,112,2023-10-26T02:45:04,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_points_over_under,matisse thybulle,True,4.5,-102,2023-10-26T04:00:11,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_assists_over_under,matisse thybulle,True,1.5,1000,2023-10-26T04:40:05,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_assists_over_under,matisse thybulle,False,0.5,-144,2023-10-26T04:00:11,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_assists_over_under,matisse thybulle,False,1.5,-100000,2023-10-26T04:46:45,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_assists_over_under,matisse thybulle,True,0.5,105,2023-10-26T04:00:10,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_assists_over_under,matisse thybulle,True,1.5,1100,2023-10-26T04:39:33,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_assists_over_under,matisse thybulle,False,0.5,-140,2023-10-26T04:00:10,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_assists_over_under,matisse thybulle,False,1.5,-6000,2023-10-26T04:39:33,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_assists_over_under,matisse thybulle,True,0.5,-375,2023-10-25T11:10:14,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_assists_over_under,matisse thybulle,True,1.5,145,2023-10-26T03:00:05,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_assists_over_under,matisse thybulle,True,2.5,375,2023-10-25T11:10:14,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_assists_over_under,matisse thybulle,False,1.5,-215,2023-10-26T03:00:05,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_assists_over_under,matisse thybulle,False,2.5,-600,2023-10-25T11:10:14,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_blocks_over_under,matisse thybulle,True,0.5,1000,2023-10-26T04:35:48,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_blocks_over_under,matisse thybulle,False,0.5,-100000,2023-10-26T04:46:45,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_blocks_over_under,matisse thybulle,True,0.5,475,2023-10-26T04:30:06,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_blocks_over_under,matisse thybulle,False,0.5,-800,2023-10-26T04:30:06,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_blocks_over_under,matisse thybulle,True,0.5,235,2023-10-26T04:00:53,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_blocks_over_under,matisse thybulle,False,0.5,-375,2023-10-26T04:00:53,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_points_over_under,matisse thybulle,True,1.5,-186,2023-10-26T03:50:05,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_points_over_under,matisse thybulle,True,2.5,138,2023-10-26T03:45:08,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_points_over_under,matisse thybulle,True,3.5,120,2023-10-26T03:31:36,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,matisse thybulle,False,8.5,-2500,2023-10-26T04:39:33,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_points_over_under,matisse thybulle,True,2.5,105,2023-10-26T04:00:53,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_assists_over_under,matisse thybulle,False,0.5,250,2023-10-25T11:10:14,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_points_over_under,matisse thybulle,True,4.5,-105,2023-10-26T03:00:05,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_steals_over_under,matisse thybulle,True,0.5,152,2023-10-26T04:00:11,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_steals_over_under,matisse thybulle,True,1.5,1000,2023-10-26T04:40:05,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_steals_over_under,matisse thybulle,False,0.5,-205,2023-10-26T04:00:11,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_steals_over_under,matisse thybulle,False,1.5,-100000,2023-10-26T04:46:45,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_steals_over_under,matisse thybulle,True,0.5,145,2023-10-26T04:05:27,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_steals_over_under,matisse thybulle,True,1.5,295,2023-10-26T04:30:06,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_steals_over_under,matisse thybulle,False,0.5,-195,2023-10-26T04:05:27,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_steals_over_under,matisse thybulle,False,1.5,-450,2023-10-26T04:30:06,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_steals_over_under,matisse thybulle,True,0.5,140,2023-10-26T04:06:05,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_steals_over_under,matisse thybulle,True,1.5,150,2023-10-26T02:50:04,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_steals_over_under,matisse thybulle,False,0.5,-200,2023-10-26T04:06:05,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_steals_over_under,matisse thybulle,False,1.5,-225,2023-10-26T02:50:04,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_threes_over_under,matisse thybulle,True,0.5,160,2023-10-26T03:45:04,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_threes_over_under,matisse thybulle,True,1.5,195,2023-10-26T04:00:10,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_threes_over_under,matisse thybulle,True,2.5,350,2023-10-26T04:30:06,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_threes_over_under,matisse thybulle,False,1.5,-270,2023-10-26T04:00:10,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_threes_over_under,matisse thybulle,False,2.5,-550,2023-10-26T04:30:06,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_threes_over_under,matisse thybulle,True,0.5,110,2023-10-26T03:35:04,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_threes_over_under,matisse thybulle,True,1.5,235,2023-10-25T11:10:14,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_threes_over_under,matisse thybulle,False,0.5,-160,2023-10-26T03:35:04,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_points_over_under,matisse thybulle,True,3.5,110,2023-10-26T03:10:06,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_rebounds_over_under,matisse thybulle,False,3.5,-285,2023-10-25T21:11:04,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_rebounds_over_under,matisse thybulle,False,2.5,-165,2023-10-26T03:00:05,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_threes_over_under,matisse thybulle,False,0.5,-220,2023-10-26T03:45:04,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_rebounds_over_under,matisse thybulle,True,3.5,190,2023-10-25T21:11:04,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_points_over_under,matisse thybulle,True,5.5,105,2023-10-25T15:05:05,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_rebounds_over_under,matisse thybulle,False,1.5,-200,2023-10-26T04:00:53,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_points_over_under,matisse thybulle,True,6.5,150,2023-10-25T11:10:14,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_points_over_under,matisse thybulle,False,2.5,-150,2023-10-26T04:00:53,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_points_over_under,matisse thybulle,False,3.5,-160,2023-10-26T03:10:06,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_points_over_under,matisse thybulle,False,5.5,-135,2023-10-25T15:05:05,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_points_over_under,matisse thybulle,False,6.5,-200,2023-10-25T11:10:14,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_rebounds_over_under,matisse thybulle,True,0.5,-210,2023-10-26T04:00:11,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_rebounds_over_under,matisse thybulle,True,1.5,1000,2023-10-26T04:46:45,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_rebounds_over_under,matisse thybulle,True,2.5,122,2023-10-26T02:55:38,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_points_over_under,matisse thybulle,False,4.5,-135,2023-10-26T03:00:05,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_rebounds_over_under,matisse thybulle,False,0.5,130,2023-10-26T04:05:27,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_rebounds_over_under,matisse thybulle,False,0.5,154,2023-10-26T04:00:11,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_rebounds_over_under,matisse thybulle,False,2.5,-165,2023-10-26T02:55:59,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_rebounds_over_under,matisse thybulle,False,1.5,-1600,2023-10-26T04:39:33,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_rebounds_over_under,matisse thybulle,True,2.5,125,2023-10-26T02:55:59,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_rebounds_over_under,matisse thybulle,True,1.5,140,2023-10-26T04:00:53,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_rebounds_over_under,matisse thybulle,True,1.5,650,2023-10-26T04:39:33,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_rebounds_over_under,matisse thybulle,True,0.5,-175,2023-10-26T04:05:27,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_rebounds_over_under,matisse thybulle,False,2.5,-162,2023-10-26T02:55:38,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_rebounds_over_under,matisse thybulle,False,1.5,-100000,2023-10-26T04:46:45,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_rebounds_over_under,matisse thybulle,True,2.5,115,2023-10-26T03:00:05,LA Clippers,Portland Trail Blazers
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_points_over_under,matisse thybulle,False,2.5,-105,2023-10-28T03:30:08,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,barstool,player_points_over_under,matisse thybulle,True,2.5,-130,2023-10-28T03:30:12,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_points_over_under,matisse thybulle,False,3.5,-125,2023-10-28T03:10:50,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_points_over_under,matisse thybulle,False,4.5,-125,2023-10-28T03:00:23,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_points_over_under,matisse thybulle,False,5.5,-140,2023-10-28T02:25:08,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_points_over_under,matisse thybulle,False,6.5,-125,2023-10-28T02:20:21,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,barstool,player_points_over_under,matisse thybulle,False,6.5,-135,2023-10-28T02:20:11,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,barstool,player_points_over_under,matisse thybulle,False,2.5,-110,2023-10-28T03:30:12,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,barstool,player_points_over_under,matisse thybulle,True,4.5,-110,2023-10-28T03:00:05,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,barstool,player_points_over_under,matisse thybulle,True,5.5,100,2023-10-28T02:30:04,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,barstool,player_points_over_under,matisse thybulle,True,6.5,-105,2023-10-28T02:20:11,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,barstool,player_points_over_under,matisse thybulle,False,3.5,-135,2023-10-28T03:11:11,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,barstool,player_points_over_under,matisse thybulle,False,4.5,-130,2023-10-28T03:00:05,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_points_over_under,matisse thybulle,False,1.5,105,2023-10-28T03:35:04,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,barstool,player_points_over_under,matisse thybulle,False,5.5,-140,2023-10-28T02:30:04,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,barstool,player_points_over_under,matisse thybulle,True,3.5,-105,2023-10-28T03:11:11,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_points_over_under,matisse thybulle,False,0.5,-3500,2023-10-28T04:15:27,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_points_over_under,matisse thybulle,False,3.5,-156,2023-10-28T03:15:07,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_points_over_under,matisse thybulle,True,5.5,105,2023-10-28T02:25:08,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_points_over_under,matisse thybulle,True,3.5,122,2023-10-28T03:15:07,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_rebounds_over_under,matisse thybulle,True,1.5,-194,2023-10-28T03:25:35,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_points_over_under,matisse thybulle,True,4.5,-115,2023-10-28T03:00:05,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_points_over_under,matisse thybulle,True,5.5,-111,2023-10-28T02:25:12,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_points_over_under,matisse thybulle,True,6.5,106,2023-10-28T02:15:04,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_points_over_under,matisse thybulle,False,0.5,-2500,2023-10-28T04:30:11,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_points_over_under,matisse thybulle,False,1.5,-194,2023-10-28T03:50:12,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_points_over_under,matisse thybulle,True,6.5,-105,2023-10-28T02:20:21,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_points_over_under,matisse thybulle,False,2.5,-186,2023-10-28T03:35:04,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_points_over_under,matisse thybulle,False,5.5,-115,2023-10-28T02:25:12,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_points_over_under,matisse thybulle,False,6.5,-130,2023-10-28T02:15:04,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_points_over_under,matisse thybulle,True,0.5,950,2023-10-28T04:15:27,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_points_over_under,matisse thybulle,True,1.5,-140,2023-10-28T03:35:04,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_points_over_under,matisse thybulle,True,2.5,-125,2023-10-28T03:30:08,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_points_over_under,matisse thybulle,True,3.5,-105,2023-10-28T03:10:50,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_points_over_under,matisse thybulle,True,4.5,-105,2023-10-28T03:00:23,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_points_over_under,matisse thybulle,False,4.5,-111,2023-10-28T03:00:05,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_rebounds_over_under,matisse thybulle,True,2.5,1000,2023-10-28T04:16:31,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,barstool,player_steals_over_under,matisse thybulle,True,1.5,160,2023-10-28T02:30:04,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_rebounds_over_under,matisse thybulle,False,1.5,144,2023-10-28T03:25:35,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,barstool,player_steals_over_under,matisse thybulle,True,0.5,145,2023-10-28T03:40:27,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,barstool,player_steals_over_under,matisse thybulle,False,0.5,-215,2023-10-28T03:40:27,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,barstool,player_steals_over_under,matisse thybulle,False,1.5,-240,2023-10-28T02:30:04,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_threes_over_under,matisse thybulle,True,0.5,750,2023-10-28T04:16:31,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_threes_over_under,matisse thybulle,True,1.5,210,2023-10-28T02:30:04,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_threes_over_under,matisse thybulle,False,0.5,-50000,2023-10-28T04:25:05,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_threes_over_under,matisse thybulle,False,1.5,-300,2023-10-28T02:30:04,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_steals_over_under,matisse thybulle,False,1.5,-4000,2023-10-28T04:11:09,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,pinnacle,player_threes_over_under,matisse thybulle,True,1.5,128,2023-10-27T22:00:51,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_threes_over_under,matisse thybulle,True,0.5,850,2023-10-28T04:11:09,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_threes_over_under,matisse thybulle,True,1.5,160,2023-10-28T02:25:08,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_threes_over_under,matisse thybulle,False,0.5,-3000,2023-10-28T04:11:09,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_threes_over_under,matisse thybulle,False,1.5,-215,2023-10-28T02:25:08,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,barstool,player_threes_over_under,matisse thybulle,True,0.5,100,2023-10-28T03:30:12,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,barstool,player_threes_over_under,matisse thybulle,True,1.5,145,2023-10-28T02:25:04,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_points_over_under,matisse thybulle,True,2.5,144,2023-10-28T03:35:04,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,pinnacle,player_threes_over_under,matisse thybulle,False,1.5,-173,2023-10-27T22:00:51,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_rebounds_over_under,matisse thybulle,True,3.5,126,2023-10-28T02:25:12,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_steals_over_under,matisse thybulle,False,0.5,-215,2023-10-28T03:40:42,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_steals_over_under,matisse thybulle,True,0.5,155,2023-10-28T03:40:42,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_rebounds_over_under,matisse thybulle,False,2.5,-100000,2023-10-28T04:30:11,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_rebounds_over_under,matisse thybulle,False,3.5,-168,2023-10-28T02:25:12,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_rebounds_over_under,matisse thybulle,True,1.5,-220,2023-10-28T03:10:50,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_rebounds_over_under,matisse thybulle,True,2.5,1000,2023-10-28T04:15:27,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_rebounds_over_under,matisse thybulle,True,3.5,125,2023-10-28T02:25:08,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_rebounds_over_under,matisse thybulle,False,1.5,160,2023-10-28T03:10:50,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_rebounds_over_under,matisse thybulle,False,2.5,-4000,2023-10-28T04:15:27,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_steals_over_under,matisse thybulle,True,1.5,950,2023-10-28T04:11:09,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_rebounds_over_under,matisse thybulle,False,3.5,-165,2023-10-28T02:25:08,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,barstool,player_rebounds_over_under,matisse thybulle,True,3.5,120,2023-10-28T02:25:04,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,barstool,player_rebounds_over_under,matisse thybulle,False,2.5,-125,2023-10-28T03:05:18,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,barstool,player_rebounds_over_under,matisse thybulle,False,3.5,-170,2023-10-28T02:25:04,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_steals_over_under,matisse thybulle,True,0.5,182,2023-10-28T03:41:34,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_steals_over_under,matisse thybulle,True,1.5,1000,2023-10-28T04:11:20,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_steals_over_under,matisse thybulle,False,0.5,-250,2023-10-28T03:41:34,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_steals_over_under,matisse thybulle,False,1.5,-100000,2023-10-28T04:25:05,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,barstool,player_rebounds_over_under,matisse thybulle,True,2.5,-115,2023-10-28T03:05:18,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_points_over_under,matisse thybulle,True,1.5,150,2023-10-28T03:50:12,Portland Trail Blazers,Orlando Magic
+2023-10-27,ead80eec2120f49e3232a704112c319a,fanduel,player_rebounds_over_under,matisse thybulle,False,1.5,-210,2023-10-30T00:35:31,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,barstool,player_blocks_over_under,matisse thybulle,False,1.5,-375,2023-10-28T03:30:12,Portland Trail Blazers,Orlando Magic
+2023-10-27,ead80eec2120f49e3232a704112c319a,draftkings,player_points_over_under,matisse thybulle,False,4.5,-160,2023-10-30T00:45:46,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,draftkings,player_points_over_under,matisse thybulle,False,5.5,-140,2023-10-30T00:10:05,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,barstool,player_points_over_under,matisse thybulle,True,4.5,-135,2023-10-30T00:40:22,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,barstool,player_points_over_under,matisse thybulle,True,5.5,100,2023-10-30T00:10:06,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,barstool,player_points_over_under,matisse thybulle,False,4.5,-105,2023-10-30T00:40:22,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,barstool,player_points_over_under,matisse thybulle,False,5.5,-140,2023-10-30T00:10:06,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,fanduel,player_rebounds_over_under,matisse thybulle,True,0.5,1000,2023-10-30T01:40:26,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,fanduel,player_rebounds_over_under,matisse thybulle,True,1.5,154,2023-10-30T00:35:31,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,fanduel,player_rebounds_over_under,matisse thybulle,False,0.5,-5000,2023-10-30T01:40:26,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,barstool,player_threes_over_under,matisse thybulle,False,0.5,-140,2023-10-28T03:30:12,Portland Trail Blazers,Orlando Magic
+2023-10-27,ead80eec2120f49e3232a704112c319a,draftkings,player_rebounds_over_under,matisse thybulle,True,0.5,1100,2023-10-30T01:40:27,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,draftkings,player_rebounds_over_under,matisse thybulle,True,1.5,150,2023-10-30T00:40:44,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,draftkings,player_rebounds_over_under,matisse thybulle,True,2.5,135,2023-10-29T23:45:16,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,draftkings,player_rebounds_over_under,matisse thybulle,False,0.5,-8000,2023-10-30T01:50:06,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,draftkings,player_rebounds_over_under,matisse thybulle,False,1.5,-200,2023-10-30T00:40:44,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,draftkings,player_points_over_under,matisse thybulle,False,2.5,-8000,2023-10-30T01:50:06,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,draftkings,player_points_over_under,matisse thybulle,True,5.5,105,2023-10-30T00:10:05,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,draftkings,player_points_over_under,matisse thybulle,True,4.5,120,2023-10-30T00:45:46,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,draftkings,player_points_over_under,matisse thybulle,True,2.5,1100,2023-10-30T01:50:06,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,fanduel,player_assists_over_under,matisse thybulle,True,0.5,1000,2023-10-30T01:40:26,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,fanduel,player_assists_over_under,matisse thybulle,True,1.5,154,2023-10-29T23:50:59,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,fanduel,player_assists_over_under,matisse thybulle,False,0.5,-20000,2023-10-30T01:45:22,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,fanduel,player_assists_over_under,matisse thybulle,False,1.5,-210,2023-10-29T23:50:59,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,draftkings,player_assists_over_under,matisse thybulle,True,0.5,900,2023-10-30T01:30:40,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,draftkings,player_assists_over_under,matisse thybulle,True,1.5,150,2023-10-29T23:50:03,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,draftkings,player_assists_over_under,matisse thybulle,False,0.5,-3500,2023-10-30T01:30:40,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,draftkings,player_rebounds_over_under,matisse thybulle,False,2.5,-180,2023-10-29T23:45:16,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,draftkings,player_assists_over_under,matisse thybulle,False,1.5,-205,2023-10-29T23:50:03,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,barstool,player_assists_over_under,matisse thybulle,False,1.5,-225,2023-10-29T23:50:04,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,fanduel,player_blocks_over_under,matisse thybulle,True,0.5,1000,2023-10-30T01:15:21,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,fanduel,player_blocks_over_under,matisse thybulle,False,0.5,-100000,2023-10-30T01:45:22,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,draftkings,player_blocks_over_under,matisse thybulle,True,0.5,1100,2023-10-30T01:20:32,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,draftkings,player_blocks_over_under,matisse thybulle,False,0.5,-6000,2023-10-30T01:20:32,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,barstool,player_blocks_over_under,matisse thybulle,True,0.5,270,2023-10-30T00:45:31,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,barstool,player_blocks_over_under,matisse thybulle,False,0.5,-450,2023-10-30T00:45:31,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,barstool,player_assists_over_under,matisse thybulle,True,1.5,150,2023-10-29T23:50:04,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,barstool,player_rebounds_over_under,matisse thybulle,True,1.5,140,2023-10-30T00:40:22,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,barstool,player_rebounds_over_under,matisse thybulle,True,2.5,140,2023-10-29T23:50:04,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,barstool,player_rebounds_over_under,matisse thybulle,False,1.5,-200,2023-10-30T00:40:22,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_assists_over_under,matisse thybulle,True,1.5,160,2023-10-28T03:00:23,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_assists_over_under,matisse thybulle,False,0.5,-20000,2023-10-28T04:15:27,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_assists_over_under,matisse thybulle,False,1.5,-215,2023-10-28T03:00:23,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,barstool,player_assists_over_under,matisse thybulle,True,1.5,150,2023-10-28T03:00:05,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,barstool,player_assists_over_under,matisse thybulle,False,1.5,-225,2023-10-28T03:00:05,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_blocks_over_under,matisse thybulle,True,0.5,182,2023-10-28T03:05:08,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_blocks_over_under,matisse thybulle,True,1.5,1000,2023-10-28T04:11:20,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_assists_over_under,matisse thybulle,True,0.5,1200,2023-10-28T04:15:27,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_blocks_over_under,matisse thybulle,False,0.5,-250,2023-10-28T03:05:08,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_blocks_over_under,matisse thybulle,True,0.5,175,2023-10-28T03:10:50,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_blocks_over_under,matisse thybulle,True,1.5,900,2023-10-28T04:05:09,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_blocks_over_under,matisse thybulle,False,0.5,-240,2023-10-28T03:10:50,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_blocks_over_under,matisse thybulle,False,1.5,-3000,2023-10-28T04:05:09,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,barstool,player_blocks_over_under,matisse thybulle,True,0.5,165,2023-10-28T03:11:11,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,barstool,player_blocks_over_under,matisse thybulle,True,1.5,235,2023-10-28T03:30:12,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,barstool,player_blocks_over_under,matisse thybulle,False,0.5,-250,2023-10-28T03:11:11,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_blocks_over_under,matisse thybulle,False,1.5,-100000,2023-10-28T04:20:23,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_points_over_under,matisse thybulle,True,0.5,290,2023-10-28T04:20:23,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_assists_over_under,matisse thybulle,False,1.5,-235,2023-10-28T03:00:05,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_assists_over_under,matisse thybulle,True,1.5,172,2023-10-28T03:00:05,Portland Trail Blazers,Orlando Magic
+2023-10-27,ead80eec2120f49e3232a704112c319a,barstool,player_rebounds_over_under,matisse thybulle,False,2.5,-200,2023-10-29T23:50:04,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,fanduel,player_steals_over_under,matisse thybulle,True,0.5,1000,2023-10-30T01:30:23,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,fanduel,player_steals_over_under,matisse thybulle,False,0.5,-50000,2023-10-30T01:40:26,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,draftkings,player_steals_over_under,matisse thybulle,True,0.5,1200,2023-10-30T01:35:05,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,draftkings,player_steals_over_under,matisse thybulle,True,1.5,180,2023-10-29T23:45:16,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,draftkings,player_steals_over_under,matisse thybulle,False,0.5,-10000,2023-10-30T01:35:05,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,draftkings,player_steals_over_under,matisse thybulle,False,1.5,-250,2023-10-29T23:45:16,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_assists_over_under,matisse thybulle,False,0.5,-100000,2023-10-28T04:25:05,Portland Trail Blazers,Orlando Magic
+2023-10-27,ead80eec2120f49e3232a704112c319a,barstool,player_steals_over_under,matisse thybulle,True,0.5,200,2023-10-30T01:10:22,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,barstool,player_steals_over_under,matisse thybulle,False,0.5,-300,2023-10-30T01:10:22,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,barstool,player_steals_over_under,matisse thybulle,False,1.5,-250,2023-10-29T23:45:04,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,draftkings,player_threes_over_under,matisse thybulle,True,0.5,1100,2023-10-30T01:30:40,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,draftkings,player_threes_over_under,matisse thybulle,False,0.5,-8000,2023-10-30T01:30:40,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,barstool,player_threes_over_under,matisse thybulle,True,0.5,110,2023-10-30T00:40:22,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,ead80eec2120f49e3232a704112c319a,barstool,player_threes_over_under,matisse thybulle,False,0.5,-160,2023-10-30T00:40:22,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_assists_over_under,matisse thybulle,True,0.5,1000,2023-10-28T04:16:31,Portland Trail Blazers,Orlando Magic
+2023-10-27,ead80eec2120f49e3232a704112c319a,barstool,player_steals_over_under,matisse thybulle,True,1.5,175,2023-10-29T23:45:04,Philadelphia 76ers,Portland Trail Blazers
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,barstool,player_threes_over_under,matisse thybulle,False,1.5,-215,2023-10-28T02:25:04,Portland Trail Blazers,Orlando Magic

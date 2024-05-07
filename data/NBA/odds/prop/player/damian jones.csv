@@ -1,0 +1,35 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_blocks_over_under,damian jones,True,0.5,-105,2023-04-05T01:00:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_threes_over_under,damian jones,False,0.5,-320,2023-04-05T01:00:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_threes_over_under,damian jones,True,0.5,250,2023-04-05T01:00:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_steals_over_under,damian jones,False,0.5,-255,2023-04-05T01:00:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_steals_over_under,damian jones,True,0.5,205,2023-04-05T01:00:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_rebounds_over_under,damian jones,False,3.5,115,2023-04-05T01:00:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_rebounds_over_under,damian jones,True,3.5,-145,2023-04-05T01:00:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_blocks_over_under,damian jones,False,0.5,-125,2023-04-05T01:00:01,Utah Jazz,Los Angeles Lakers
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_steals_over_under,damian jones,False,0.5,-265,2023-04-07T00:45:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_steals_over_under,damian jones,True,0.5,210,2023-04-07T00:45:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_rebounds_over_under,damian jones,False,5.5,-110,2023-04-07T00:45:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_rebounds_over_under,damian jones,True,5.5,-120,2023-04-07T00:45:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_points_over_under,damian jones,False,8.5,-115,2023-04-07T00:45:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_points_over_under,damian jones,True,8.5,-115,2023-04-07T00:45:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_blocks_over_under,damian jones,False,0.5,130,2023-04-07T00:45:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_blocks_over_under,damian jones,True,0.5,-160,2023-04-07T00:45:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_threes_over_under,damian jones,False,0.5,-135,2023-04-07T00:45:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_threes_over_under,damian jones,True,0.5,105,2023-04-07T00:45:01,Utah Jazz,Oklahoma City Thunder
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_threes_over_under,damian jones,False,0.5,-129,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_blocks_over_under,damian jones,False,0.5,125,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_points_over_under,damian jones,True,8.5,-110,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_points_over_under,damian jones,False,8.5,-120,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_points_over_under,damian jones,True,8.5,-108,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_points_over_under,damian jones,False,8.5,-127,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_rebounds_over_under,damian jones,True,5.5,-110,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_rebounds_over_under,damian jones,False,5.5,-120,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_rebounds_over_under,damian jones,False,5.5,-121,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_steals_over_under,damian jones,True,0.5,130,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_steals_over_under,damian jones,False,0.5,-160,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_threes_over_under,damian jones,True,0.5,-105,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_threes_over_under,damian jones,False,0.5,-125,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_threes_over_under,damian jones,True,0.5,-106,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_rebounds_over_under,damian jones,True,5.5,-113,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_blocks_over_under,damian jones,True,0.5,-155,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets

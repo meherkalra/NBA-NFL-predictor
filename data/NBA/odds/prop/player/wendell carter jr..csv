@@ -1,0 +1,598 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_points_over_under,wendell carter jr.,True,15.5,102,2023-03-20T03:30:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_assists_over_under,wendell carter jr.,True,0.5,140,2023-03-20T03:30:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_assists_over_under,wendell carter jr.,True,1.5,162,2023-03-20T02:30:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_assists_over_under,wendell carter jr.,False,0.5,-188,2023-03-20T03:30:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_assists_over_under,wendell carter jr.,False,1.5,-220,2023-03-20T02:30:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_blocks_over_under,wendell carter jr.,True,0.5,750,2023-03-20T03:30:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_blocks_over_under,wendell carter jr.,False,0.5,-2000,2023-03-20T03:30:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_points_over_under,wendell carter jr.,True,13.5,-120,2023-03-20T02:30:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_points_over_under,wendell carter jr.,True,14.5,-110,2023-03-20T02:45:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_points_over_under,wendell carter jr.,True,16.5,102,2023-03-20T02:15:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_points_over_under,wendell carter jr.,True,19.5,102,2023-03-20T01:45:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_points_over_under,wendell carter jr.,False,13.5,-110,2023-03-20T02:30:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_points_over_under,wendell carter jr.,False,15.5,-136,2023-03-20T03:30:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_points_over_under,wendell carter jr.,False,16.5,-136,2023-03-20T02:15:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_points_over_under,wendell carter jr.,False,19.5,-136,2023-03-20T01:45:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_points_over_under,wendell carter jr.,False,14.5,-120,2023-03-20T02:45:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_rebounds_over_under,wendell carter jr.,True,8.5,110,2023-03-20T02:45:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_threes_over_under,wendell carter jr.,False,2.5,-330,2023-03-20T03:30:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_threes_over_under,wendell carter jr.,False,1.5,-114,2023-03-20T02:45:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_threes_over_under,wendell carter jr.,True,2.5,230,2023-03-20T03:30:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_threes_over_under,wendell carter jr.,True,1.5,-118,2023-03-20T02:45:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_rebounds_over_under,wendell carter jr.,True,7.5,-158,2023-03-20T02:30:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_steals_over_under,wendell carter jr.,True,0.5,520,2023-03-20T03:30:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_rebounds_over_under,wendell carter jr.,False,11.5,-174,2023-03-20T03:15:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_steals_over_under,wendell carter jr.,False,0.5,-1000,2023-03-20T03:30:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_rebounds_over_under,wendell carter jr.,False,8.5,-146,2023-03-20T02:45:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_rebounds_over_under,wendell carter jr.,False,7.5,118,2023-03-20T02:30:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_rebounds_over_under,wendell carter jr.,True,11.5,130,2023-03-20T03:15:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_rebounds_over_under,wendell carter jr.,True,10.5,-182,2023-03-20T03:30:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_rebounds_over_under,wendell carter jr.,False,10.5,136,2023-03-20T03:30:01,Los Angeles Lakers,Orlando Magic
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,wendell carter jr.,False,12.5,-174,2023-03-22T01:00:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,wendell carter jr.,True,12.5,132,2023-03-22T01:00:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,wendell carter jr.,True,16.5,116,2023-03-22T00:00:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,wendell carter jr.,True,15.5,168,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,wendell carter jr.,True,14.5,-114,2023-03-21T23:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,wendell carter jr.,True,13.5,108,2023-03-22T00:45:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_blocks_over_under,wendell carter jr.,False,1.5,-5000,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_blocks_over_under,wendell carter jr.,False,0.5,-500,2023-03-22T00:30:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_blocks_over_under,wendell carter jr.,True,0.5,320,2023-03-22T00:30:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_assists_over_under,wendell carter jr.,False,2.5,-700,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_assists_over_under,wendell carter jr.,False,1.5,-205,2023-03-22T01:00:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_assists_over_under,wendell carter jr.,True,2.5,410,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_assists_over_under,wendell carter jr.,True,1.5,152,2023-03-22T01:00:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,wendell carter jr.,False,13.5,-144,2023-03-22T00:45:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_blocks_over_under,wendell carter jr.,True,1.5,1000,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,wendell carter jr.,False,14.5,-114,2023-03-21T23:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_threes_over_under,wendell carter jr.,True,0.5,-250,2023-03-21T23:45:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,wendell carter jr.,False,16.5,-154,2023-03-22T00:00:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_threes_over_under,wendell carter jr.,False,2.5,-1400,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_threes_over_under,wendell carter jr.,False,1.5,-350,2023-03-22T01:00:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_threes_over_under,wendell carter jr.,False,0.5,182,2023-03-21T23:45:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,wendell carter jr.,False,15.5,-230,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_threes_over_under,wendell carter jr.,True,1.5,240,2023-03-22T01:00:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_steals_over_under,wendell carter jr.,False,0.5,-5000,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_threes_over_under,wendell carter jr.,True,2.5,630,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_rebounds_over_under,wendell carter jr.,False,10.5,-144,2023-03-22T00:45:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_rebounds_over_under,wendell carter jr.,False,9.5,104,2023-03-22T01:00:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_rebounds_over_under,wendell carter jr.,False,8.5,-114,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_rebounds_over_under,wendell carter jr.,True,10.5,108,2023-03-22T00:45:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_rebounds_over_under,wendell carter jr.,True,9.5,-138,2023-03-22T01:00:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_rebounds_over_under,wendell carter jr.,True,8.5,-114,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_steals_over_under,wendell carter jr.,True,0.5,1000,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-23,888fe6e2626e5685ad3c32f8ade5c5b3,fanduel,player_points_over_under,wendell carter jr.,False,13.5,-188,2023-03-24T01:00:01,Orlando Magic,New York Knicks
+2023-03-23,888fe6e2626e5685ad3c32f8ade5c5b3,fanduel,player_points_over_under,wendell carter jr.,True,15.5,-102,2023-03-23T23:30:01,Orlando Magic,New York Knicks
+2023-03-23,888fe6e2626e5685ad3c32f8ade5c5b3,fanduel,player_points_over_under,wendell carter jr.,True,14.5,114,2023-03-24T00:30:01,Orlando Magic,New York Knicks
+2023-03-23,888fe6e2626e5685ad3c32f8ade5c5b3,fanduel,player_points_over_under,wendell carter jr.,True,13.5,140,2023-03-24T01:00:01,Orlando Magic,New York Knicks
+2023-03-23,888fe6e2626e5685ad3c32f8ade5c5b3,fanduel,player_assists_over_under,wendell carter jr.,True,1.5,144,2023-03-24T00:00:02,Orlando Magic,New York Knicks
+2023-03-23,888fe6e2626e5685ad3c32f8ade5c5b3,fanduel,player_blocks_over_under,wendell carter jr.,True,0.5,580,2023-03-24T01:00:01,Orlando Magic,New York Knicks
+2023-03-23,888fe6e2626e5685ad3c32f8ade5c5b3,fanduel,player_assists_over_under,wendell carter jr.,False,1.5,-194,2023-03-24T00:00:02,Orlando Magic,New York Knicks
+2023-03-23,888fe6e2626e5685ad3c32f8ade5c5b3,fanduel,player_points_over_under,wendell carter jr.,False,14.5,-152,2023-03-24T00:30:01,Orlando Magic,New York Knicks
+2023-03-23,888fe6e2626e5685ad3c32f8ade5c5b3,fanduel,player_assists_over_under,wendell carter jr.,True,0.5,158,2023-03-24T01:00:01,Orlando Magic,New York Knicks
+2023-03-23,888fe6e2626e5685ad3c32f8ade5c5b3,fanduel,player_blocks_over_under,wendell carter jr.,False,0.5,-1200,2023-03-24T01:00:01,Orlando Magic,New York Knicks
+2023-03-23,888fe6e2626e5685ad3c32f8ade5c5b3,fanduel,player_points_over_under,wendell carter jr.,False,15.5,-130,2023-03-23T23:30:01,Orlando Magic,New York Knicks
+2023-03-23,888fe6e2626e5685ad3c32f8ade5c5b3,fanduel,player_assists_over_under,wendell carter jr.,False,0.5,-215,2023-03-24T01:00:01,Orlando Magic,New York Knicks
+2023-03-23,888fe6e2626e5685ad3c32f8ade5c5b3,fanduel,player_rebounds_over_under,wendell carter jr.,True,9.5,138,2023-03-24T00:45:01,Orlando Magic,New York Knicks
+2023-03-23,888fe6e2626e5685ad3c32f8ade5c5b3,fanduel,player_rebounds_over_under,wendell carter jr.,False,8.5,110,2023-03-24T01:00:01,Orlando Magic,New York Knicks
+2023-03-23,888fe6e2626e5685ad3c32f8ade5c5b3,fanduel,player_rebounds_over_under,wendell carter jr.,False,9.5,-186,2023-03-24T00:45:01,Orlando Magic,New York Knicks
+2023-03-23,888fe6e2626e5685ad3c32f8ade5c5b3,fanduel,player_steals_over_under,wendell carter jr.,True,0.5,640,2023-03-24T01:00:01,Orlando Magic,New York Knicks
+2023-03-23,888fe6e2626e5685ad3c32f8ade5c5b3,fanduel,player_steals_over_under,wendell carter jr.,False,0.5,-1450,2023-03-24T01:00:01,Orlando Magic,New York Knicks
+2023-03-23,888fe6e2626e5685ad3c32f8ade5c5b3,fanduel,player_threes_over_under,wendell carter jr.,True,0.5,240,2023-03-24T01:00:01,Orlando Magic,New York Knicks
+2023-03-23,888fe6e2626e5685ad3c32f8ade5c5b3,fanduel,player_threes_over_under,wendell carter jr.,True,1.5,136,2023-03-23T23:15:02,Orlando Magic,New York Knicks
+2023-03-23,888fe6e2626e5685ad3c32f8ade5c5b3,fanduel,player_threes_over_under,wendell carter jr.,False,0.5,-350,2023-03-24T01:00:01,Orlando Magic,New York Knicks
+2023-03-23,888fe6e2626e5685ad3c32f8ade5c5b3,fanduel,player_threes_over_under,wendell carter jr.,False,1.5,-182,2023-03-23T23:15:02,Orlando Magic,New York Knicks
+2023-03-23,888fe6e2626e5685ad3c32f8ade5c5b3,fanduel,player_rebounds_over_under,wendell carter jr.,True,8.5,-146,2023-03-24T01:00:01,Orlando Magic,New York Knicks
+2023-03-26,2350bb46f310813fdfc316adda990e49,fanduel,player_rebounds_over_under,wendell carter jr.,True,7.5,-132,2023-03-26T23:30:01,Orlando Magic,Brooklyn Nets
+2023-03-26,2350bb46f310813fdfc316adda990e49,fanduel,player_rebounds_over_under,wendell carter jr.,True,8.5,124,2023-03-26T23:15:02,Orlando Magic,Brooklyn Nets
+2023-03-26,2350bb46f310813fdfc316adda990e49,fanduel,player_rebounds_over_under,wendell carter jr.,True,9.5,108,2023-03-26T22:45:01,Orlando Magic,Brooklyn Nets
+2023-03-26,2350bb46f310813fdfc316adda990e49,fanduel,player_rebounds_over_under,wendell carter jr.,False,6.5,-500,2023-03-27T00:15:01,Orlando Magic,Brooklyn Nets
+2023-03-26,2350bb46f310813fdfc316adda990e49,fanduel,player_rebounds_over_under,wendell carter jr.,False,7.5,100,2023-03-26T23:30:01,Orlando Magic,Brooklyn Nets
+2023-03-26,2350bb46f310813fdfc316adda990e49,fanduel,player_steals_over_under,wendell carter jr.,False,0.5,-100000,2023-03-27T00:15:01,Orlando Magic,Brooklyn Nets
+2023-03-26,2350bb46f310813fdfc316adda990e49,fanduel,player_rebounds_over_under,wendell carter jr.,False,9.5,-144,2023-03-26T22:45:01,Orlando Magic,Brooklyn Nets
+2023-03-26,2350bb46f310813fdfc316adda990e49,fanduel,player_steals_over_under,wendell carter jr.,True,0.5,1000,2023-03-27T00:15:01,Orlando Magic,Brooklyn Nets
+2023-03-26,2350bb46f310813fdfc316adda990e49,fanduel,player_rebounds_over_under,wendell carter jr.,True,6.5,320,2023-03-27T00:15:01,Orlando Magic,Brooklyn Nets
+2023-03-26,2350bb46f310813fdfc316adda990e49,fanduel,player_threes_over_under,wendell carter jr.,True,0.5,-245,2023-03-26T22:45:01,Orlando Magic,Brooklyn Nets
+2023-03-26,2350bb46f310813fdfc316adda990e49,fanduel,player_threes_over_under,wendell carter jr.,True,1.5,1000,2023-03-27T00:15:01,Orlando Magic,Brooklyn Nets
+2023-03-26,2350bb46f310813fdfc316adda990e49,fanduel,player_rebounds_over_under,wendell carter jr.,False,8.5,-166,2023-03-26T23:15:02,Orlando Magic,Brooklyn Nets
+2023-03-26,2350bb46f310813fdfc316adda990e49,fanduel,player_points_over_under,wendell carter jr.,False,21.5,108,2023-03-26T23:30:01,Orlando Magic,Brooklyn Nets
+2023-03-26,2350bb46f310813fdfc316adda990e49,fanduel,player_points_over_under,wendell carter jr.,True,21.5,-144,2023-03-26T23:30:01,Orlando Magic,Brooklyn Nets
+2023-03-26,2350bb46f310813fdfc316adda990e49,fanduel,player_points_over_under,wendell carter jr.,False,18.5,-290,2023-03-27T00:15:01,Orlando Magic,Brooklyn Nets
+2023-03-26,2350bb46f310813fdfc316adda990e49,fanduel,player_points_over_under,wendell carter jr.,False,15.5,-128,2023-03-26T22:45:01,Orlando Magic,Brooklyn Nets
+2023-03-26,2350bb46f310813fdfc316adda990e49,fanduel,player_points_over_under,wendell carter jr.,False,13.5,102,2023-03-26T22:15:02,Orlando Magic,Brooklyn Nets
+2023-03-26,2350bb46f310813fdfc316adda990e49,fanduel,player_points_over_under,wendell carter jr.,True,19.5,-152,2023-03-26T23:45:01,Orlando Magic,Brooklyn Nets
+2023-03-26,2350bb46f310813fdfc316adda990e49,fanduel,player_points_over_under,wendell carter jr.,True,18.5,205,2023-03-27T00:15:01,Orlando Magic,Brooklyn Nets
+2023-03-26,2350bb46f310813fdfc316adda990e49,fanduel,player_points_over_under,wendell carter jr.,True,15.5,-104,2023-03-26T22:45:01,Orlando Magic,Brooklyn Nets
+2023-03-26,2350bb46f310813fdfc316adda990e49,fanduel,player_blocks_over_under,wendell carter jr.,False,0.5,-100000,2023-03-27T00:15:01,Orlando Magic,Brooklyn Nets
+2023-03-26,2350bb46f310813fdfc316adda990e49,fanduel,player_blocks_over_under,wendell carter jr.,True,0.5,1000,2023-03-27T00:15:01,Orlando Magic,Brooklyn Nets
+2023-03-26,2350bb46f310813fdfc316adda990e49,fanduel,player_assists_over_under,wendell carter jr.,False,2.5,-7000,2023-03-27T00:15:01,Orlando Magic,Brooklyn Nets
+2023-03-26,2350bb46f310813fdfc316adda990e49,fanduel,player_assists_over_under,wendell carter jr.,False,1.5,174,2023-03-26T23:00:01,Orlando Magic,Brooklyn Nets
+2023-03-26,2350bb46f310813fdfc316adda990e49,fanduel,player_assists_over_under,wendell carter jr.,True,2.5,1000,2023-03-27T00:15:01,Orlando Magic,Brooklyn Nets
+2023-03-26,2350bb46f310813fdfc316adda990e49,fanduel,player_threes_over_under,wendell carter jr.,False,0.5,178,2023-03-26T22:45:01,Orlando Magic,Brooklyn Nets
+2023-03-26,2350bb46f310813fdfc316adda990e49,fanduel,player_assists_over_under,wendell carter jr.,True,1.5,-240,2023-03-26T23:00:01,Orlando Magic,Brooklyn Nets
+2023-03-26,2350bb46f310813fdfc316adda990e49,fanduel,player_points_over_under,wendell carter jr.,False,19.5,114,2023-03-26T23:45:01,Orlando Magic,Brooklyn Nets
+2023-03-26,2350bb46f310813fdfc316adda990e49,fanduel,player_threes_over_under,wendell carter jr.,False,1.5,-10000,2023-03-27T00:15:01,Orlando Magic,Brooklyn Nets
+2023-03-26,2350bb46f310813fdfc316adda990e49,fanduel,player_points_over_under,wendell carter jr.,True,13.5,-136,2023-03-26T22:15:02,Orlando Magic,Brooklyn Nets
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_points_over_under,wendell carter jr.,False,17.5,-174,2023-03-29T01:45:01,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_steals_over_under,wendell carter jr.,False,1.5,-4000,2023-03-29T02:00:02,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_threes_over_under,wendell carter jr.,True,0.5,-210,2023-03-29T00:45:01,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_threes_over_under,wendell carter jr.,True,1.5,100,2023-03-29T01:15:01,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_threes_over_under,wendell carter jr.,True,2.5,490,2023-03-29T02:00:02,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_rebounds_over_under,wendell carter jr.,True,5.5,-260,2023-03-29T02:00:02,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_threes_over_under,wendell carter jr.,False,1.5,-132,2023-03-29T01:15:01,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_threes_over_under,wendell carter jr.,False,2.5,-900,2023-03-29T02:00:02,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_steals_over_under,wendell carter jr.,False,0.5,-260,2023-03-29T00:45:01,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_blocks_over_under,wendell carter jr.,False,1.5,-470,2023-03-29T01:00:01,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_blocks_over_under,wendell carter jr.,True,2.5,1000,2023-03-29T02:00:02,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_blocks_over_under,wendell carter jr.,True,1.5,310,2023-03-29T01:00:01,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_blocks_over_under,wendell carter jr.,True,0.5,136,2023-03-29T00:15:01,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_assists_over_under,wendell carter jr.,False,2.5,-500,2023-03-29T02:00:02,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_assists_over_under,wendell carter jr.,False,1.5,136,2023-03-29T01:00:01,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_assists_over_under,wendell carter jr.,True,2.5,320,2023-03-29T02:00:02,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_assists_over_under,wendell carter jr.,True,1.5,-182,2023-03-29T01:00:01,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_blocks_over_under,wendell carter jr.,False,0.5,-182,2023-03-29T00:15:01,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_steals_over_under,wendell carter jr.,True,1.5,1000,2023-03-29T02:00:02,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_threes_over_under,wendell carter jr.,False,0.5,154,2023-03-29T00:45:01,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_rebounds_over_under,wendell carter jr.,False,8.5,-136,2023-03-29T00:30:01,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_points_over_under,wendell carter jr.,True,14.5,-120,2023-03-29T01:00:01,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_steals_over_under,wendell carter jr.,True,0.5,188,2023-03-29T00:45:01,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_points_over_under,wendell carter jr.,True,12.5,110,2023-03-29T00:45:01,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_points_over_under,wendell carter jr.,True,15.5,-118,2023-03-29T02:00:02,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_points_over_under,wendell carter jr.,True,17.5,132,2023-03-29T01:45:01,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_points_over_under,wendell carter jr.,False,12.5,-146,2023-03-29T00:45:01,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_points_over_under,wendell carter jr.,False,13.5,-130,2023-03-29T00:30:01,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_points_over_under,wendell carter jr.,True,13.5,-102,2023-03-29T00:30:01,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_points_over_under,wendell carter jr.,False,14.5,-110,2023-03-29T01:00:01,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_blocks_over_under,wendell carter jr.,False,2.5,-4000,2023-03-29T02:00:02,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_rebounds_over_under,wendell carter jr.,True,6.5,-210,2023-03-29T01:45:01,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_rebounds_over_under,wendell carter jr.,True,7.5,118,2023-03-29T01:15:01,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_rebounds_over_under,wendell carter jr.,True,8.5,102,2023-03-29T00:30:01,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_rebounds_over_under,wendell carter jr.,False,5.5,188,2023-03-29T02:00:02,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_rebounds_over_under,wendell carter jr.,False,6.5,154,2023-03-29T01:45:01,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_rebounds_over_under,wendell carter jr.,False,7.5,-158,2023-03-29T01:15:01,Memphis Grizzlies,Orlando Magic
+2023-03-28,f7758e7b498d32115c40effc5cd51d59,fanduel,player_points_over_under,wendell carter jr.,False,15.5,-112,2023-03-29T02:00:02,Memphis Grizzlies,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,wendell carter jr.,False,10.5,-106,2023-04-01T00:24:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_rebounds_over_under,wendell carter jr.,True,9.5,102,2023-04-01T00:18:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_rebounds_over_under,wendell carter jr.,False,7.5,178,2023-04-01T01:12:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_rebounds_over_under,wendell carter jr.,True,11.5,116,2023-03-31T23:26:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_rebounds_over_under,wendell carter jr.,True,10.5,120,2023-03-31T23:50:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_rebounds_over_under,wendell carter jr.,True,8.5,194,2023-04-01T01:08:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_rebounds_over_under,wendell carter jr.,True,7.5,-245,2023-04-01T01:12:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,wendell carter jr.,False,14.5,-166,2023-04-01T00:58:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,wendell carter jr.,False,13.5,-154,2023-04-01T01:02:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,wendell carter jr.,False,12.5,104,2023-04-01T01:12:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,wendell carter jr.,False,11.5,188,2023-04-01T01:10:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_rebounds_over_under,wendell carter jr.,False,8.5,-270,2023-04-01T01:08:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,wendell carter jr.,False,9.5,-132,2023-04-01T00:52:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_assists_over_under,wendell carter jr.,False,3.5,-500,2023-04-01T01:12:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,wendell carter jr.,True,13.5,116,2023-04-01T01:02:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,wendell carter jr.,True,12.5,-138,2023-04-01T01:12:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_assists_over_under,wendell carter jr.,True,1.5,116,2023-04-01T00:52:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_assists_over_under,wendell carter jr.,True,2.5,178,2023-04-01T00:58:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_assists_over_under,wendell carter jr.,True,3.5,320,2023-04-01T01:12:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_assists_over_under,wendell carter jr.,False,1.5,-154,2023-04-01T00:52:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_assists_over_under,wendell carter jr.,False,2.5,-245,2023-04-01T00:58:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_rebounds_over_under,wendell carter jr.,False,9.5,-136,2023-04-01T00:18:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_blocks_over_under,wendell carter jr.,True,0.5,210,2023-03-31T23:56:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_blocks_over_under,wendell carter jr.,True,1.5,920,2023-04-01T01:12:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_blocks_over_under,wendell carter jr.,False,0.5,-300,2023-03-31T23:56:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_blocks_over_under,wendell carter jr.,False,1.5,-3500,2023-04-01T01:12:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,wendell carter jr.,True,9.5,100,2023-04-01T00:52:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,wendell carter jr.,True,14.5,124,2023-04-01T00:58:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_rebounds_over_under,wendell carter jr.,False,10.5,-160,2023-03-31T23:50:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,wendell carter jr.,True,11.5,-260,2023-04-01T01:10:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_steals_over_under,wendell carter jr.,True,0.5,920,2023-04-01T01:12:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_steals_over_under,wendell carter jr.,False,0.5,-3500,2023-04-01T01:12:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_threes_over_under,wendell carter jr.,True,0.5,-205,2023-03-31T23:50:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_threes_over_under,wendell carter jr.,True,1.5,450,2023-04-01T01:12:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_threes_over_under,wendell carter jr.,False,0.5,152,2023-03-31T23:50:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_threes_over_under,wendell carter jr.,False,1.5,-800,2023-04-01T01:12:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_rebounds_over_under,wendell carter jr.,False,11.5,-154,2023-03-31T23:26:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,wendell carter jr.,True,10.5,-125,2023-04-01T00:24:01,Washington Wizards,Orlando Magic
+2023-04-02,dd81f66081020d9a4d0f8aabb13ac3b5,fanduel,player_rebounds_over_under,wendell carter jr.,False,7.5,118,2023-04-02T23:26:01,Orlando Magic,Detroit Pistons
+2023-04-02,dd81f66081020d9a4d0f8aabb13ac3b5,fanduel,player_rebounds_over_under,wendell carter jr.,True,10.5,158,2023-04-03T00:10:01,Orlando Magic,Detroit Pistons
+2023-04-02,dd81f66081020d9a4d0f8aabb13ac3b5,fanduel,player_rebounds_over_under,wendell carter jr.,True,9.5,580,2023-04-03T00:36:01,Orlando Magic,Detroit Pistons
+2023-04-02,dd81f66081020d9a4d0f8aabb13ac3b5,fanduel,player_rebounds_over_under,wendell carter jr.,True,8.5,-152,2023-04-02T23:48:01,Orlando Magic,Detroit Pistons
+2023-04-02,dd81f66081020d9a4d0f8aabb13ac3b5,fanduel,player_points_over_under,wendell carter jr.,False,16.5,-106,2023-04-03T00:08:01,Orlando Magic,Detroit Pistons
+2023-04-02,dd81f66081020d9a4d0f8aabb13ac3b5,fanduel,player_points_over_under,wendell carter jr.,False,18.5,-140,2023-04-02T22:28:02,Orlando Magic,Detroit Pistons
+2023-04-02,dd81f66081020d9a4d0f8aabb13ac3b5,fanduel,player_points_over_under,wendell carter jr.,False,17.5,-148,2023-04-03T00:00:02,Orlando Magic,Detroit Pistons
+2023-04-02,dd81f66081020d9a4d0f8aabb13ac3b5,fanduel,player_rebounds_over_under,wendell carter jr.,False,8.5,114,2023-04-02T23:48:01,Orlando Magic,Detroit Pistons
+2023-04-02,dd81f66081020d9a4d0f8aabb13ac3b5,fanduel,player_points_over_under,wendell carter jr.,False,15.5,-220,2023-04-03T00:20:01,Orlando Magic,Detroit Pistons
+2023-04-02,dd81f66081020d9a4d0f8aabb13ac3b5,fanduel,player_points_over_under,wendell carter jr.,False,14.5,-550,2023-04-03T00:36:01,Orlando Magic,Detroit Pistons
+2023-04-02,dd81f66081020d9a4d0f8aabb13ac3b5,fanduel,player_rebounds_over_under,wendell carter jr.,True,7.5,-158,2023-04-02T23:26:01,Orlando Magic,Detroit Pistons
+2023-04-02,dd81f66081020d9a4d0f8aabb13ac3b5,fanduel,player_rebounds_over_under,wendell carter jr.,False,9.5,-1200,2023-04-03T00:36:01,Orlando Magic,Detroit Pistons
+2023-04-02,dd81f66081020d9a4d0f8aabb13ac3b5,fanduel,player_steals_over_under,wendell carter jr.,True,1.5,182,2023-04-02T23:12:01,Orlando Magic,Detroit Pistons
+2023-04-02,dd81f66081020d9a4d0f8aabb13ac3b5,fanduel,player_steals_over_under,wendell carter jr.,True,0.5,142,2023-04-02T22:26:01,Orlando Magic,Detroit Pistons
+2023-04-02,dd81f66081020d9a4d0f8aabb13ac3b5,fanduel,player_points_over_under,wendell carter jr.,True,18.5,106,2023-04-02T22:28:02,Orlando Magic,Detroit Pistons
+2023-04-02,dd81f66081020d9a4d0f8aabb13ac3b5,fanduel,player_steals_over_under,wendell carter jr.,True,2.5,490,2023-04-02T23:46:01,Orlando Magic,Detroit Pistons
+2023-04-02,dd81f66081020d9a4d0f8aabb13ac3b5,fanduel,player_steals_over_under,wendell carter jr.,True,3.5,1000,2023-04-03T00:16:01,Orlando Magic,Detroit Pistons
+2023-04-02,dd81f66081020d9a4d0f8aabb13ac3b5,fanduel,player_steals_over_under,wendell carter jr.,False,0.5,-192,2023-04-02T22:26:01,Orlando Magic,Detroit Pistons
+2023-04-02,dd81f66081020d9a4d0f8aabb13ac3b5,fanduel,player_steals_over_under,wendell carter jr.,False,1.5,-250,2023-04-02T23:12:01,Orlando Magic,Detroit Pistons
+2023-04-02,dd81f66081020d9a4d0f8aabb13ac3b5,fanduel,player_steals_over_under,wendell carter jr.,False,2.5,-900,2023-04-02T23:46:01,Orlando Magic,Detroit Pistons
+2023-04-02,dd81f66081020d9a4d0f8aabb13ac3b5,fanduel,player_steals_over_under,wendell carter jr.,False,3.5,-100000,2023-04-03T00:32:01,Orlando Magic,Detroit Pistons
+2023-04-02,dd81f66081020d9a4d0f8aabb13ac3b5,fanduel,player_threes_over_under,wendell carter jr.,True,1.5,146,2023-04-02T22:14:01,Orlando Magic,Detroit Pistons
+2023-04-02,dd81f66081020d9a4d0f8aabb13ac3b5,fanduel,player_threes_over_under,wendell carter jr.,True,2.5,142,2023-04-02T23:44:02,Orlando Magic,Detroit Pistons
+2023-04-02,dd81f66081020d9a4d0f8aabb13ac3b5,fanduel,player_threes_over_under,wendell carter jr.,True,3.5,1000,2023-04-03T00:30:01,Orlando Magic,Detroit Pistons
+2023-04-02,dd81f66081020d9a4d0f8aabb13ac3b5,fanduel,player_threes_over_under,wendell carter jr.,False,1.5,-198,2023-04-02T22:14:01,Orlando Magic,Detroit Pistons
+2023-04-02,dd81f66081020d9a4d0f8aabb13ac3b5,fanduel,player_threes_over_under,wendell carter jr.,False,2.5,-192,2023-04-02T23:44:02,Orlando Magic,Detroit Pistons
+2023-04-02,dd81f66081020d9a4d0f8aabb13ac3b5,fanduel,player_threes_over_under,wendell carter jr.,False,3.5,-50000,2023-04-03T00:34:01,Orlando Magic,Detroit Pistons
+2023-04-02,dd81f66081020d9a4d0f8aabb13ac3b5,fanduel,player_rebounds_over_under,wendell carter jr.,False,10.5,-215,2023-04-03T00:10:01,Orlando Magic,Detroit Pistons
+2023-04-02,dd81f66081020d9a4d0f8aabb13ac3b5,fanduel,player_points_over_under,wendell carter jr.,True,17.5,112,2023-04-03T00:00:02,Orlando Magic,Detroit Pistons
+2023-04-02,dd81f66081020d9a4d0f8aabb13ac3b5,fanduel,player_blocks_over_under,wendell carter jr.,False,1.5,-100000,2023-04-03T00:34:01,Orlando Magic,Detroit Pistons
+2023-04-02,dd81f66081020d9a4d0f8aabb13ac3b5,fanduel,player_points_over_under,wendell carter jr.,True,15.5,162,2023-04-03T00:20:01,Orlando Magic,Detroit Pistons
+2023-04-02,dd81f66081020d9a4d0f8aabb13ac3b5,fanduel,player_points_over_under,wendell carter jr.,True,16.5,-125,2023-04-03T00:08:01,Orlando Magic,Detroit Pistons
+2023-04-02,dd81f66081020d9a4d0f8aabb13ac3b5,fanduel,player_assists_over_under,wendell carter jr.,True,1.5,1000,2023-04-03T00:30:01,Orlando Magic,Detroit Pistons
+2023-04-02,dd81f66081020d9a4d0f8aabb13ac3b5,fanduel,player_assists_over_under,wendell carter jr.,False,0.5,-154,2023-04-02T23:46:01,Orlando Magic,Detroit Pistons
+2023-04-02,dd81f66081020d9a4d0f8aabb13ac3b5,fanduel,player_assists_over_under,wendell carter jr.,False,1.5,-10000,2023-04-03T00:34:01,Orlando Magic,Detroit Pistons
+2023-04-02,dd81f66081020d9a4d0f8aabb13ac3b5,fanduel,player_assists_over_under,wendell carter jr.,True,0.5,116,2023-04-02T23:46:01,Orlando Magic,Detroit Pistons
+2023-04-02,dd81f66081020d9a4d0f8aabb13ac3b5,fanduel,player_blocks_over_under,wendell carter jr.,True,1.5,1000,2023-04-03T00:16:01,Orlando Magic,Detroit Pistons
+2023-04-02,dd81f66081020d9a4d0f8aabb13ac3b5,fanduel,player_blocks_over_under,wendell carter jr.,False,0.5,-210,2023-04-02T23:08:01,Orlando Magic,Detroit Pistons
+2023-04-02,dd81f66081020d9a4d0f8aabb13ac3b5,fanduel,player_points_over_under,wendell carter jr.,True,14.5,350,2023-04-03T00:36:01,Orlando Magic,Detroit Pistons
+2023-04-02,dd81f66081020d9a4d0f8aabb13ac3b5,fanduel,player_blocks_over_under,wendell carter jr.,True,0.5,154,2023-04-02T23:08:01,Orlando Magic,Detroit Pistons
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_rebounds_over_under,wendell carter jr.,False,7.5,-114,2023-04-04T23:24:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_rebounds_over_under,wendell carter jr.,True,11.5,152,2023-04-05T00:48:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_rebounds_over_under,wendell carter jr.,True,10.5,-154,2023-04-05T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_rebounds_over_under,wendell carter jr.,True,9.5,-114,2023-04-05T00:36:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_rebounds_over_under,wendell carter jr.,True,8.5,-152,2023-04-04T23:30:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_rebounds_over_under,wendell carter jr.,True,7.5,-114,2023-04-04T23:24:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_points_over_under,wendell carter jr.,False,14.5,-130,2023-04-04T19:51:15,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_points_over_under,wendell carter jr.,False,16.5,-145,2023-04-05T00:30:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_points_over_under,wendell carter jr.,False,14.5,100,2023-04-05T00:36:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_points_over_under,wendell carter jr.,True,14.5,100,2023-04-04T19:51:15,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_points_over_under,wendell carter jr.,True,16.5,110,2023-04-05T00:30:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_points_over_under,wendell carter jr.,True,14.5,-130,2023-04-05T00:36:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_points_over_under,wendell carter jr.,False,19.5,-132,2023-04-05T00:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_points_over_under,wendell carter jr.,False,18.5,-152,2023-04-05T00:06:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_points_over_under,wendell carter jr.,False,17.5,-144,2023-04-05T00:24:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_points_over_under,wendell carter jr.,False,16.5,-158,2023-04-05T00:30:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_points_over_under,wendell carter jr.,False,15.5,102,2023-04-04T23:48:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_points_over_under,wendell carter jr.,False,14.5,-174,2023-04-05T00:48:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_points_over_under,wendell carter jr.,False,13.5,-145,2023-04-04T23:14:32,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_points_over_under,wendell carter jr.,True,13.5,110,2023-04-04T23:14:32,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_points_over_under,wendell carter jr.,True,18.5,114,2023-04-05T00:06:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_rebounds_over_under,wendell carter jr.,False,9.5,-118,2023-04-05T00:36:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_threes_over_under,wendell carter jr.,True,1.5,-235,2023-04-04T23:31:02,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_threes_over_under,wendell carter jr.,True,2.5,285,2023-04-05T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_threes_over_under,wendell carter jr.,True,1.5,125,2023-04-04T19:51:15,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_threes_over_under,wendell carter jr.,False,1.5,170,2023-04-04T23:31:02,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_threes_over_under,wendell carter jr.,False,2.5,-425,2023-04-05T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_threes_over_under,wendell carter jr.,False,1.5,-155,2023-04-04T19:51:15,Orlando Magic,Cleveland Cavaliers
+2023-04-04,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_blocks_over_under,wendell carter jr.,True,0.5,-105,2023-04-06T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_blocks_over_under,wendell carter jr.,False,0.5,-125,2023-04-06T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_points_over_under,wendell carter jr.,True,14.5,100,2023-04-05T21:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_points_over_under,wendell carter jr.,True,15.5,-115,2023-04-06T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_points_over_under,wendell carter jr.,False,14.5,-130,2023-04-05T21:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_points_over_under,wendell carter jr.,False,15.5,-115,2023-04-06T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_rebounds_over_under,wendell carter jr.,True,9.5,-125,2023-04-06T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_rebounds_over_under,wendell carter jr.,False,9.5,-105,2023-04-06T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_steals_over_under,wendell carter jr.,True,0.5,-105,2023-04-06T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_steals_over_under,wendell carter jr.,False,0.5,-125,2023-04-06T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_threes_over_under,wendell carter jr.,True,1.5,-125,2023-04-06T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_threes_over_under,wendell carter jr.,False,1.5,-105,2023-04-06T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_points_over_under,wendell carter jr.,False,13.5,100,2023-04-05T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_threes_over_under,wendell carter jr.,False,2.5,-360,2023-04-05T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_threes_over_under,wendell carter jr.,False,1.5,158,2023-04-04T23:48:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_threes_over_under,wendell carter jr.,True,2.5,250,2023-04-05T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_threes_over_under,wendell carter jr.,True,1.5,-215,2023-04-04T23:48:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_rebounds_over_under,wendell carter jr.,False,10.5,116,2023-04-05T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_rebounds_over_under,wendell carter jr.,False,11.5,-205,2023-04-05T00:48:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_rebounds_over_under,wendell carter jr.,True,8.5,-105,2023-04-04T23:14:32,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_rebounds_over_under,wendell carter jr.,True,9.5,-105,2023-04-05T00:36:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_rebounds_over_under,wendell carter jr.,True,10.5,-110,2023-04-05T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_rebounds_over_under,wendell carter jr.,True,9.5,110,2023-04-04T19:51:15,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_rebounds_over_under,wendell carter jr.,False,8.5,-125,2023-04-04T23:14:32,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_rebounds_over_under,wendell carter jr.,False,9.5,-125,2023-04-05T00:36:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_rebounds_over_under,wendell carter jr.,False,10.5,-120,2023-04-05T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_rebounds_over_under,wendell carter jr.,False,8.5,114,2023-04-04T23:30:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_rebounds_over_under,wendell carter jr.,False,9.5,-140,2023-04-04T19:51:15,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_steals_over_under,wendell carter jr.,True,1.5,580,2023-04-05T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_steals_over_under,wendell carter jr.,False,0.5,-180,2023-04-04T23:24:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_steals_over_under,wendell carter jr.,False,1.5,-1200,2023-04-05T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_steals_over_under,wendell carter jr.,True,0.5,115,2023-04-04T23:14:32,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_steals_over_under,wendell carter jr.,True,1.5,650,2023-04-05T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_steals_over_under,wendell carter jr.,True,0.5,100,2023-04-04T19:51:15,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_steals_over_under,wendell carter jr.,False,0.5,-150,2023-04-04T23:14:32,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_steals_over_under,wendell carter jr.,False,1.5,-1400,2023-04-05T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_steals_over_under,wendell carter jr.,False,0.5,-130,2023-04-04T19:51:15,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_steals_over_under,wendell carter jr.,True,0.5,134,2023-04-04T23:24:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_points_over_under,wendell carter jr.,True,19.5,100,2023-04-05T00:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_assists_over_under,wendell carter jr.,True,2.5,-114,2023-04-05T00:30:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_assists_over_under,wendell carter jr.,False,3.5,-275,2023-04-05T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_assists_over_under,wendell carter jr.,True,1.5,-235,2023-04-05T00:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_points_over_under,wendell carter jr.,True,17.5,108,2023-04-05T00:24:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_assists_over_under,wendell carter jr.,True,3.5,198,2023-04-05T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_assists_over_under,wendell carter jr.,False,1.5,172,2023-04-05T00:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_assists_over_under,wendell carter jr.,False,2.5,-114,2023-04-05T00:30:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_assists_over_under,wendell carter jr.,True,1.5,140,2023-04-04T23:31:02,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_assists_over_under,wendell carter jr.,True,2.5,-115,2023-04-05T00:30:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_assists_over_under,wendell carter jr.,True,3.5,230,2023-04-05T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_assists_over_under,wendell carter jr.,False,2.5,-115,2023-04-05T00:30:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_assists_over_under,wendell carter jr.,False,3.5,-330,2023-04-05T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_assists_over_under,wendell carter jr.,False,1.5,-190,2023-04-04T23:38:37,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_blocks_over_under,wendell carter jr.,False,0.5,-1100,2023-04-05T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_blocks_over_under,wendell carter jr.,True,0.5,600,2023-04-05T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_blocks_over_under,wendell carter jr.,True,0.5,-110,2023-04-04T19:51:15,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_blocks_over_under,wendell carter jr.,False,0.5,-1200,2023-04-05T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_blocks_over_under,wendell carter jr.,False,0.5,-120,2023-04-04T19:51:15,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_points_over_under,wendell carter jr.,True,13.5,-132,2023-04-05T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_points_over_under,wendell carter jr.,True,14.5,130,2023-04-05T00:48:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_points_over_under,wendell carter jr.,True,15.5,-136,2023-04-04T23:48:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_points_over_under,wendell carter jr.,True,16.5,118,2023-04-05T00:30:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_blocks_over_under,wendell carter jr.,True,0.5,550,2023-04-05T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,draftkings,player_points_over_under,wendell carter jr.,True,8.5,-115,2023-04-09T18:00:01,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,draftkings,player_points_over_under,wendell carter jr.,True,3.5,135,2023-04-09T19:00:02,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,draftkings,player_points_over_under,wendell carter jr.,True,5.5,-150,2023-04-09T18:30:01,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,draftkings,player_points_over_under,wendell carter jr.,True,6.5,115,2023-04-09T18:15:01,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,draftkings,player_points_over_under,wendell carter jr.,True,9.5,110,2023-04-09T17:45:01,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,fanduel,player_blocks_over_under,wendell carter jr.,True,0.5,210,2023-04-09T17:30:02,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,draftkings,player_points_over_under,wendell carter jr.,False,0.5,-105,2023-04-09T19:15:01,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,draftkings,player_points_over_under,wendell carter jr.,False,2.5,115,2023-04-09T18:45:02,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,draftkings,player_points_over_under,wendell carter jr.,False,5.5,115,2023-04-09T18:30:01,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,draftkings,player_points_over_under,wendell carter jr.,False,6.5,-155,2023-04-09T18:15:01,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,draftkings,player_points_over_under,wendell carter jr.,True,2.5,-150,2023-04-09T18:45:02,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,draftkings,player_points_over_under,wendell carter jr.,True,12.5,-120,2023-04-09T16:45:01,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,draftkings,player_points_over_under,wendell carter jr.,True,0.5,-125,2023-04-09T19:15:01,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,draftkings,player_assists_over_under,wendell carter jr.,True,2.5,180,2023-04-09T17:45:01,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,fanduel,player_points_over_under,wendell carter jr.,True,9.5,-128,2023-04-09T17:30:02,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,caesars,player_blocks_over_under,wendell carter jr.,False,0.5,-204,2023-04-09T16:45:01,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,caesars,player_blocks_over_under,wendell carter jr.,True,0.5,146,2023-04-09T16:45:01,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,draftkings,player_blocks_over_under,wendell carter jr.,False,0.5,-1400,2023-04-09T19:00:02,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,draftkings,player_blocks_over_under,wendell carter jr.,True,0.5,650,2023-04-09T19:00:02,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,fanduel,player_blocks_over_under,wendell carter jr.,False,0.5,-300,2023-04-09T17:30:02,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,caesars,player_assists_over_under,wendell carter jr.,False,1.5,-125,2023-04-09T16:45:01,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,caesars,player_assists_over_under,wendell carter jr.,True,1.5,-109,2023-04-09T16:45:01,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,draftkings,player_assists_over_under,wendell carter jr.,False,2.5,-250,2023-04-09T17:45:01,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,draftkings,player_assists_over_under,wendell carter jr.,False,1.5,-2000,2023-04-09T19:15:01,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,draftkings,player_points_over_under,wendell carter jr.,False,8.5,-115,2023-04-09T18:00:01,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,draftkings,player_assists_over_under,wendell carter jr.,True,1.5,750,2023-04-09T19:15:01,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,fanduel,player_points_over_under,wendell carter jr.,False,9.5,-104,2023-04-09T17:30:02,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,draftkings,player_points_over_under,wendell carter jr.,False,9.5,-150,2023-04-09T17:45:01,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,draftkings,player_points_over_under,wendell carter jr.,False,3.5,-180,2023-04-09T19:00:02,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,caesars,player_points_over_under,wendell carter jr.,True,12.5,-127,2023-04-09T16:45:01,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,draftkings,player_points_over_under,wendell carter jr.,False,12.5,-110,2023-04-09T16:45:01,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,caesars,player_threes_over_under,wendell carter jr.,False,1.5,-214,2023-04-09T16:45:01,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,caesars,player_threes_over_under,wendell carter jr.,True,1.5,152,2023-04-09T16:45:01,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,draftkings,player_threes_over_under,wendell carter jr.,False,1.5,-220,2023-04-09T17:15:01,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,draftkings,player_threes_over_under,wendell carter jr.,False,0.5,-3000,2023-04-09T19:15:01,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,draftkings,player_threes_over_under,wendell carter jr.,True,1.5,160,2023-04-09T17:15:01,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,draftkings,player_threes_over_under,wendell carter jr.,True,0.5,900,2023-04-09T19:15:01,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,caesars,player_steals_over_under,wendell carter jr.,True,0.5,123,2023-04-09T16:45:01,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,draftkings,player_steals_over_under,wendell carter jr.,False,1.5,-1100,2023-04-09T19:00:02,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,draftkings,player_steals_over_under,wendell carter jr.,False,0.5,-165,2023-04-09T17:15:01,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,draftkings,player_steals_over_under,wendell carter jr.,True,1.5,550,2023-04-09T19:00:02,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,draftkings,player_steals_over_under,wendell carter jr.,True,0.5,125,2023-04-09T17:15:01,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,caesars,player_rebounds_over_under,wendell carter jr.,False,7.5,-125,2023-04-09T16:45:01,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,caesars,player_steals_over_under,wendell carter jr.,False,0.5,-169,2023-04-09T16:45:01,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,draftkings,player_rebounds_over_under,wendell carter jr.,False,8.5,-135,2023-04-09T17:45:01,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,caesars,player_points_over_under,wendell carter jr.,False,12.5,-108,2023-04-09T16:45:01,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,caesars,player_rebounds_over_under,wendell carter jr.,True,7.5,-109,2023-04-09T16:45:01,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,draftkings,player_rebounds_over_under,wendell carter jr.,True,4.5,160,2023-04-09T19:15:01,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,draftkings,player_rebounds_over_under,wendell carter jr.,True,5.5,-145,2023-04-09T19:00:02,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,draftkings,player_rebounds_over_under,wendell carter jr.,True,6.5,-105,2023-04-09T18:30:01,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,draftkings,player_rebounds_over_under,wendell carter jr.,True,8.5,100,2023-04-09T17:45:01,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,draftkings,player_rebounds_over_under,wendell carter jr.,True,7.5,-160,2023-04-09T18:00:01,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,draftkings,player_rebounds_over_under,wendell carter jr.,False,4.5,-215,2023-04-09T19:15:01,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,draftkings,player_rebounds_over_under,wendell carter jr.,False,5.5,110,2023-04-09T19:00:02,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,draftkings,player_rebounds_over_under,wendell carter jr.,False,6.5,-125,2023-04-09T18:30:01,Miami Heat,Orlando Magic
+2023-04-09,5b798170d54f7879e8d6abedfa21429b,draftkings,player_rebounds_over_under,wendell carter jr.,False,7.5,120,2023-04-09T18:00:01,Miami Heat,Orlando Magic
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,wendell carter jr.,False,15.5,-160,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,wendell carter jr.,False,10.5,-145,2023-10-26T00:56:12,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,wendell carter jr.,False,8.5,-3000,2023-10-26T01:20:27,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,wendell carter jr.,False,16.5,-220,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,wendell carter jr.,False,9.5,120,2023-10-26T01:10:27,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,wendell carter jr.,False,13.5,105,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,wendell carter jr.,True,12.5,105,2023-10-26T00:00:19,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,wendell carter jr.,True,15.5,-105,2023-10-25T23:30:05,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,wendell carter jr.,True,14.5,-125,2023-10-25T23:35:38,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,wendell carter jr.,True,13.5,-110,2023-10-26T00:00:19,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,wendell carter jr.,True,10.5,110,2023-10-26T00:56:12,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,wendell carter jr.,True,11.5,-110,2023-10-26T00:10:25,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,wendell carter jr.,False,11.5,-120,2023-10-26T00:10:25,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,wendell carter jr.,False,12.5,140,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_rebounds_over_under,wendell carter jr.,True,9.5,162,2023-10-26T01:15:31,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betrivers,player_points_over_under,wendell carter jr.,True,17.5,195,2023-10-25T23:01:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,wendell carter jr.,False,13.5,-125,2023-10-26T00:00:19,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,wendell carter jr.,False,14.5,-105,2023-10-25T23:35:38,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,wendell carter jr.,False,15.5,-130,2023-10-25T23:30:05,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betmgm,player_points_over_under,wendell carter jr.,True,14.5,-105,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betmgm,player_points_over_under,wendell carter jr.,False,14.5,-125,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betrivers,player_points_over_under,wendell carter jr.,True,11.5,-360,2023-10-25T23:01:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betrivers,player_points_over_under,wendell carter jr.,True,12.5,-235,2023-10-25T23:01:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betrivers,player_points_over_under,wendell carter jr.,True,13.5,-159,2023-10-25T23:01:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betrivers,player_points_over_under,wendell carter jr.,True,14.5,-114,2023-10-25T23:01:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betrivers,player_points_over_under,wendell carter jr.,True,15.5,115,2023-10-25T23:01:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betrivers,player_points_over_under,wendell carter jr.,True,16.5,150,2023-10-25T23:01:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_rebounds_over_under,wendell carter jr.,True,7.5,-162,2023-10-26T00:41:05,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_rebounds_over_under,wendell carter jr.,True,8.5,1000,2023-10-26T01:25:16,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,wendell carter jr.,True,9.5,-160,2023-10-26T01:10:27,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,wendell carter jr.,False,12.5,-135,2023-10-26T00:00:19,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,wendell carter jr.,True,8.5,850,2023-10-26T01:20:27,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betrivers,player_rebounds_over_under,wendell carter jr.,True,8.5,-177,2023-10-25T23:01:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,wendell carter jr.,True,15.5,125,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_blocks_over_under,wendell carter jr.,True,0.5,1000,2023-10-26T01:20:06,Orlando Magic,Houston Rockets
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_blocks_over_under,wendell carter jr.,False,0.5,-130,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_blocks_over_under,wendell carter jr.,True,0.5,100,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betmgm,player_assists_over_under,wendell carter jr.,False,1.5,-105,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betmgm,player_assists_over_under,wendell carter jr.,True,1.5,-130,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_assists_over_under,wendell carter jr.,False,2.5,-210,2023-10-26T00:00:19,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_blocks_over_under,wendell carter jr.,False,0.5,-100000,2023-10-26T01:20:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_assists_over_under,wendell carter jr.,False,1.5,-600,2023-10-26T01:16:01,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_assists_over_under,wendell carter jr.,True,1.5,380,2023-10-26T01:16:01,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_assists_over_under,wendell carter jr.,False,2.5,-210,2023-10-25T23:56:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_assists_over_under,wendell carter jr.,False,1.5,-100000,2023-10-26T01:25:16,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_assists_over_under,wendell carter jr.,True,2.5,154,2023-10-25T23:56:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_rebounds_over_under,wendell carter jr.,True,10.5,116,2023-10-26T00:10:40,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_assists_over_under,wendell carter jr.,True,1.5,1000,2023-10-26T01:20:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_assists_over_under,wendell carter jr.,True,2.5,155,2023-10-26T00:00:19,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,wendell carter jr.,True,16.5,170,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_blocks_over_under,wendell carter jr.,True,0.5,800,2023-10-26T01:16:01,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betmgm,player_blocks_over_under,wendell carter jr.,True,0.5,-110,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,wendell carter jr.,True,13.5,-130,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,wendell carter jr.,True,12.5,-180,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,pinnacle,player_points_over_under,wendell carter jr.,False,14.5,-119,2023-10-25T14:31:19,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,pinnacle,player_points_over_under,wendell carter jr.,True,14.5,-111,2023-10-25T14:31:19,Orlando Magic,Houston Rockets
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,wendell carter jr.,False,14.5,-120,2023-10-24T01:55:53,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,wendell carter jr.,False,16.5,-205,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_blocks_over_under,wendell carter jr.,False,0.5,-2500,2023-10-26T01:16:01,Orlando Magic,Houston Rockets
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,wendell carter jr.,False,15.5,-155,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,wendell carter jr.,False,12.5,150,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,wendell carter jr.,True,16.5,155,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,wendell carter jr.,True,15.5,120,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,wendell carter jr.,True,13.5,-145,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,wendell carter jr.,True,12.5,-195,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betmgm,player_blocks_over_under,wendell carter jr.,False,0.5,-120,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,wendell carter jr.,False,13.5,115,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_rebounds_over_under,wendell carter jr.,True,11.5,104,2023-10-25T23:35:32,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_steals_over_under,wendell carter jr.,False,2.5,-100000,2023-10-26T01:20:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_rebounds_over_under,wendell carter jr.,False,8.5,-50000,2023-10-26T01:25:16,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_steals_over_under,wendell carter jr.,False,2.5,-2000,2023-10-26T01:16:01,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_steals_over_under,wendell carter jr.,False,3.5,-700,2023-10-26T00:45:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betmgm,player_steals_over_under,wendell carter jr.,True,0.5,-130,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betmgm,player_steals_over_under,wendell carter jr.,False,0.5,-105,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_threes_over_under,wendell carter jr.,True,0.5,-240,2023-10-25T23:40:05,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_threes_over_under,wendell carter jr.,True,1.5,178,2023-10-25T23:35:32,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_rebounds_over_under,wendell carter jr.,False,7.5,122,2023-10-26T00:41:05,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_threes_over_under,wendell carter jr.,False,1.5,-245,2023-10-25T23:35:32,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,pinnacle,player_threes_over_under,wendell carter jr.,True,1.5,-102,2023-10-25T14:31:19,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,pinnacle,player_threes_over_under,wendell carter jr.,False,1.5,-131,2023-10-25T14:31:19,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_threes_over_under,wendell carter jr.,True,0.5,475,2023-10-26T01:16:01,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_threes_over_under,wendell carter jr.,True,1.5,180,2023-10-25T23:35:38,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_threes_over_under,wendell carter jr.,False,0.5,-900,2023-10-26T01:16:01,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_threes_over_under,wendell carter jr.,False,1.5,-245,2023-10-25T23:35:38,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_steals_over_under,wendell carter jr.,False,1.5,-230,2023-10-26T00:06:16,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betmgm,player_threes_over_under,wendell carter jr.,True,1.5,105,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betrivers,player_threes_over_under,wendell carter jr.,True,1.5,100,2023-10-25T23:01:07,Orlando Magic,Houston Rockets
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_blocks_over_under,wendell carter jr.,True,0.5,100,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_blocks_over_under,wendell carter jr.,False,0.5,-130,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,wendell carter jr.,True,12.5,-195,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,wendell carter jr.,True,13.5,-145,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,wendell carter jr.,True,15.5,120,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,wendell carter jr.,True,16.5,155,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,wendell carter jr.,False,12.5,150,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,wendell carter jr.,False,13.5,115,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,wendell carter jr.,False,15.5,-155,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,wendell carter jr.,False,16.5,-205,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,wendell carter jr.,False,14.5,-120,2023-10-24T06:00:08,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_steals_over_under,wendell carter jr.,True,0.5,-125,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_steals_over_under,wendell carter jr.,False,0.5,-105,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betmgm,player_threes_over_under,wendell carter jr.,False,1.5,-145,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_steals_over_under,wendell carter jr.,False,0.5,-165,2023-10-25T23:45:08,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_threes_over_under,wendell carter jr.,False,0.5,174,2023-10-25T23:40:05,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_steals_over_under,wendell carter jr.,True,2.5,750,2023-10-26T01:16:01,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_rebounds_over_under,wendell carter jr.,False,9.5,-220,2023-10-26T01:15:31,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_rebounds_over_under,wendell carter jr.,False,10.5,-154,2023-10-26T00:10:40,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_rebounds_over_under,wendell carter jr.,False,11.5,-138,2023-10-25T23:35:32,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,pinnacle,player_rebounds_over_under,wendell carter jr.,True,9.5,-102,2023-10-25T14:31:19,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,pinnacle,player_rebounds_over_under,wendell carter jr.,False,9.5,-129,2023-10-25T14:31:19,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_rebounds_over_under,wendell carter jr.,True,7.5,-160,2023-10-26T00:41:24,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_steals_over_under,wendell carter jr.,True,3.5,400,2023-10-26T00:45:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_rebounds_over_under,wendell carter jr.,True,9.5,110,2023-10-26T01:10:27,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_rebounds_over_under,wendell carter jr.,True,10.5,100,2023-10-26T00:10:25,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_rebounds_over_under,wendell carter jr.,True,11.5,-105,2023-10-25T23:35:38,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_rebounds_over_under,wendell carter jr.,False,7.5,120,2023-10-26T00:41:24,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_rebounds_over_under,wendell carter jr.,False,8.5,-2000,2023-10-26T01:20:27,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_rebounds_over_under,wendell carter jr.,False,9.5,-145,2023-10-26T01:10:27,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_rebounds_over_under,wendell carter jr.,False,10.5,-135,2023-10-26T00:10:25,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_rebounds_over_under,wendell carter jr.,False,11.5,-125,2023-10-25T23:35:38,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_rebounds_over_under,wendell carter jr.,True,8.5,750,2023-10-26T01:20:27,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betmgm,player_rebounds_over_under,wendell carter jr.,False,9.5,-120,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_steals_over_under,wendell carter jr.,True,1.5,170,2023-10-26T00:06:16,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_steals_over_under,wendell carter jr.,True,0.5,125,2023-10-25T23:45:08,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_steals_over_under,wendell carter jr.,False,3.5,-700,2023-10-26T00:45:15,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_steals_over_under,wendell carter jr.,False,1.5,-250,2023-10-26T00:07:33,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_steals_over_under,wendell carter jr.,False,0.5,-172,2023-10-25T23:40:05,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_steals_over_under,wendell carter jr.,True,2.5,1000,2023-10-26T01:20:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_steals_over_under,wendell carter jr.,True,3.5,410,2023-10-26T00:45:15,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_steals_over_under,wendell carter jr.,True,0.5,128,2023-10-25T23:40:05,Orlando Magic,Houston Rockets
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_steals_over_under,wendell carter jr.,False,0.5,-105,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_steals_over_under,wendell carter jr.,True,0.5,-125,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betrivers,player_rebounds_over_under,wendell carter jr.,True,10.5,175,2023-10-25T23:01:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betrivers,player_rebounds_over_under,wendell carter jr.,True,9.5,102,2023-10-25T23:01:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_steals_over_under,wendell carter jr.,True,1.5,182,2023-10-26T00:07:33,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betmgm,player_rebounds_over_under,wendell carter jr.,True,9.5,-110,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_rebounds_over_under,wendell carter jr.,False,7.5,118,2023-10-28T03:30:26,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_rebounds_over_under,wendell carter jr.,True,8.5,580,2023-10-28T04:25:05,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_rebounds_over_under,wendell carter jr.,True,9.5,390,2023-10-28T04:30:11,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,pinnacle,player_rebounds_over_under,wendell carter jr.,True,9.5,106,2023-10-27T19:30:05,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_rebounds_over_under,wendell carter jr.,False,9.5,-650,2023-10-28T04:30:11,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,pinnacle,player_rebounds_over_under,wendell carter jr.,True,8.5,-135,2023-10-27T21:30:11,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_rebounds_over_under,wendell carter jr.,True,7.5,-158,2023-10-28T03:30:26,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_rebounds_over_under,wendell carter jr.,False,8.5,-1200,2023-10-28T04:25:05,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,betmgm,player_points_over_under,wendell carter jr.,False,13.5,-130,2023-10-27T18:05:04,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_points_over_under,wendell carter jr.,False,10.5,-170,2023-10-28T04:00:04,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,betmgm,player_points_over_under,wendell carter jr.,True,13.5,-105,2023-10-27T18:05:04,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,betmgm,player_points_over_under,wendell carter jr.,True,12.5,-130,2023-10-27T18:10:17,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_points_over_under,wendell carter jr.,False,13.5,-115,2023-10-28T02:25:08,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_points_over_under,wendell carter jr.,False,12.5,-135,2023-10-28T02:40:07,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_points_over_under,wendell carter jr.,False,11.5,-110,2023-10-28T03:00:23,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_points_over_under,wendell carter jr.,False,9.5,115,2023-10-28T04:05:09,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_points_over_under,wendell carter jr.,False,8.5,-1200,2023-10-28T04:30:08,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,pinnacle,player_rebounds_over_under,wendell carter jr.,False,8.5,102,2023-10-27T21:30:11,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,betmgm,player_points_over_under,wendell carter jr.,False,12.5,-105,2023-10-27T18:55:14,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,pinnacle,player_rebounds_over_under,wendell carter jr.,False,9.5,-141,2023-10-27T19:30:05,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,betmgm,player_steals_over_under,wendell carter jr.,True,0.5,-160,2023-10-27T15:35:06,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_rebounds_over_under,wendell carter jr.,True,8.5,550,2023-10-28T04:25:12,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_points_over_under,wendell carter jr.,False,15.5,-230,2023-10-27T17:55:41,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,betmgm,player_steals_over_under,wendell carter jr.,False,0.5,120,2023-10-27T15:35:06,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,pinnacle,player_threes_over_under,wendell carter jr.,True,1.5,170,2023-10-27T21:30:11,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,pinnacle,player_threes_over_under,wendell carter jr.,False,1.5,-243,2023-10-27T21:30:11,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_threes_over_under,wendell carter jr.,True,0.5,-105,2023-10-28T03:10:50,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_threes_over_under,wendell carter jr.,True,1.5,1000,2023-10-28T04:20:20,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_threes_over_under,wendell carter jr.,False,0.5,-125,2023-10-28T03:10:50,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_threes_over_under,wendell carter jr.,False,1.5,-4000,2023-10-28T04:20:20,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_rebounds_over_under,wendell carter jr.,True,7.5,-145,2023-10-28T02:25:08,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_steals_over_under,wendell carter jr.,False,0.5,-3500,2023-10-28T04:15:27,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_steals_over_under,wendell carter jr.,False,0.5,-50000,2023-10-28T04:25:05,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_steals_over_under,wendell carter jr.,True,0.5,1000,2023-10-28T04:20:23,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,betmgm,player_rebounds_over_under,wendell carter jr.,False,9.5,-135,2023-10-27T17:55:41,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,betmgm,player_rebounds_over_under,wendell carter jr.,True,9.5,100,2023-10-27T17:55:41,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_rebounds_over_under,wendell carter jr.,False,9.5,-600,2023-10-28T04:30:08,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_rebounds_over_under,wendell carter jr.,False,8.5,-1100,2023-10-28T04:25:12,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_rebounds_over_under,wendell carter jr.,False,7.5,110,2023-10-28T02:25:08,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_rebounds_over_under,wendell carter jr.,True,9.5,380,2023-10-28T04:30:08,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_steals_over_under,wendell carter jr.,True,0.5,900,2023-10-28T04:15:27,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_points_over_under,wendell carter jr.,False,14.5,-190,2023-10-28T02:10:08,Portland Trail Blazers,Orlando Magic
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_points_over_under,wendell carter jr.,True,10.5,-230,2023-10-27T11:20:10,Atlanta Hawks,New York Knicks
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_points_over_under,wendell carter jr.,False,12.5,100,2023-10-27T17:55:41,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,betmgm,player_assists_over_under,wendell carter jr.,False,1.5,-135,2023-10-27T15:35:06,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,betmgm,player_assists_over_under,wendell carter jr.,True,1.5,100,2023-10-27T15:35:06,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_assists_over_under,wendell carter jr.,False,1.5,-2500,2023-10-28T04:20:20,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_assists_over_under,wendell carter jr.,False,0.5,160,2023-10-28T02:50:06,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_assists_over_under,wendell carter jr.,True,1.5,800,2023-10-28T04:20:20,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_assists_over_under,wendell carter jr.,True,0.5,-220,2023-10-28T02:50:06,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_assists_over_under,wendell carter jr.,False,1.5,-50000,2023-10-28T04:25:05,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_assists_over_under,wendell carter jr.,False,0.5,168,2023-10-28T02:50:06,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_blocks_over_under,wendell carter jr.,True,0.5,1000,2023-10-28T04:16:31,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_assists_over_under,wendell carter jr.,True,1.5,1000,2023-10-28T04:25:05,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,betmgm,player_threes_over_under,wendell carter jr.,True,1.5,160,2023-10-27T18:00:41,Portland Trail Blazers,Orlando Magic
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_points_over_under,wendell carter jr.,False,14.5,-190,2023-10-27T11:20:10,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_points_over_under,wendell carter jr.,False,13.5,-140,2023-10-27T11:20:10,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_points_over_under,wendell carter jr.,False,11.5,130,2023-10-27T11:20:10,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_points_over_under,wendell carter jr.,False,10.5,175,2023-10-27T11:20:10,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_points_over_under,wendell carter jr.,True,14.5,150,2023-10-27T11:20:10,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_points_over_under,wendell carter jr.,True,13.5,110,2023-10-27T11:20:10,Atlanta Hawks,New York Knicks
+2023-10-27,4741f49b87ab73c0a5add62a4f48f992,draftkings,player_points_over_under,wendell carter jr.,True,11.5,-165,2023-10-27T11:20:10,Atlanta Hawks,New York Knicks
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_assists_over_under,wendell carter jr.,True,0.5,-230,2023-10-28T02:50:06,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_points_over_under,wendell carter jr.,False,13.5,-140,2023-10-28T02:10:08,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,fanduel,player_blocks_over_under,wendell carter jr.,False,0.5,-50000,2023-10-28T04:30:11,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_blocks_over_under,wendell carter jr.,False,0.5,-8000,2023-10-28T04:15:27,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_points_over_under,wendell carter jr.,False,11.5,125,2023-10-28T02:10:08,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_points_over_under,wendell carter jr.,False,10.5,175,2023-10-28T02:10:08,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_points_over_under,wendell carter jr.,True,13.5,-115,2023-10-28T02:25:08,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_points_over_under,wendell carter jr.,True,12.5,100,2023-10-28T02:40:07,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_points_over_under,wendell carter jr.,True,11.5,-120,2023-10-28T03:00:23,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_points_over_under,wendell carter jr.,True,10.5,130,2023-10-28T04:00:04,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_points_over_under,wendell carter jr.,True,9.5,-155,2023-10-28T04:05:09,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_points_over_under,wendell carter jr.,True,8.5,550,2023-10-28T04:30:08,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_blocks_over_under,wendell carter jr.,True,0.5,1100,2023-10-28T04:15:27,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_points_over_under,wendell carter jr.,True,15.5,175,2023-10-27T17:55:41,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_points_over_under,wendell carter jr.,True,13.5,110,2023-10-28T02:10:08,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_points_over_under,wendell carter jr.,True,12.5,-130,2023-10-27T17:55:41,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_points_over_under,wendell carter jr.,True,11.5,-165,2023-10-28T02:10:08,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_points_over_under,wendell carter jr.,True,10.5,-225,2023-10-28T02:10:08,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,pinnacle,player_points_over_under,wendell carter jr.,False,12.5,-102,2023-10-27T21:30:11,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,pinnacle,player_points_over_under,wendell carter jr.,True,12.5,-130,2023-10-27T21:30:11,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,betmgm,player_blocks_over_under,wendell carter jr.,False,0.5,-130,2023-10-27T17:55:41,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,betmgm,player_blocks_over_under,wendell carter jr.,True,0.5,-105,2023-10-27T18:55:14,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,draftkings,player_points_over_under,wendell carter jr.,True,14.5,145,2023-10-28T02:10:08,Portland Trail Blazers,Orlando Magic
+2023-10-27,bb94e98ccf73f1a630cacf594ac232d2,betmgm,player_threes_over_under,wendell carter jr.,False,1.5,-225,2023-10-27T18:00:41,Portland Trail Blazers,Orlando Magic

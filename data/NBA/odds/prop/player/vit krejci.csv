@@ -1,0 +1,13 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-04-09,39db0481965b96c6166bbaca7a474651,fanduel,player_assists_over_under,vit krejci,True,0.5,1000,2023-04-25T23:45:01,Boston Celtics,Atlanta Hawks
+2023-04-09,39db0481965b96c6166bbaca7a474651,fanduel,player_assists_over_under,vit krejci,False,0.5,-100000,2023-04-26T01:15:02,Boston Celtics,Atlanta Hawks
+2023-04-09,39db0481965b96c6166bbaca7a474651,fanduel,player_blocks_over_under,vit krejci,True,0.5,1000,2023-04-25T23:45:01,Boston Celtics,Atlanta Hawks
+2023-04-09,39db0481965b96c6166bbaca7a474651,fanduel,player_blocks_over_under,vit krejci,False,0.5,-100000,2023-04-25T23:45:01,Boston Celtics,Atlanta Hawks
+2023-04-09,39db0481965b96c6166bbaca7a474651,fanduel,player_points_over_under,vit krejci,True,0.5,1000,2023-04-26T01:15:02,Boston Celtics,Atlanta Hawks
+2023-04-09,39db0481965b96c6166bbaca7a474651,fanduel,player_points_over_under,vit krejci,False,0.5,-6000,2023-04-26T01:30:02,Boston Celtics,Atlanta Hawks
+2023-04-09,39db0481965b96c6166bbaca7a474651,fanduel,player_rebounds_over_under,vit krejci,True,0.5,1000,2023-04-26T01:15:02,Boston Celtics,Atlanta Hawks
+2023-04-09,39db0481965b96c6166bbaca7a474651,fanduel,player_rebounds_over_under,vit krejci,False,0.5,-10000,2023-04-26T01:30:02,Boston Celtics,Atlanta Hawks
+2023-04-09,39db0481965b96c6166bbaca7a474651,fanduel,player_steals_over_under,vit krejci,True,0.5,1000,2023-04-25T23:45:01,Boston Celtics,Atlanta Hawks
+2023-04-09,39db0481965b96c6166bbaca7a474651,fanduel,player_steals_over_under,vit krejci,False,0.5,-100000,2023-04-26T01:15:02,Boston Celtics,Atlanta Hawks
+2023-04-09,39db0481965b96c6166bbaca7a474651,fanduel,player_threes_over_under,vit krejci,True,0.5,1000,2023-04-25T23:45:01,Boston Celtics,Atlanta Hawks
+2023-04-09,39db0481965b96c6166bbaca7a474651,fanduel,player_threes_over_under,vit krejci,False,0.5,-100000,2023-04-26T01:15:02,Boston Celtics,Atlanta Hawks

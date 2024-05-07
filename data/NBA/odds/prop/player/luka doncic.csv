@@ -1,0 +1,918 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-22,3de6c18f40bd176557bd7b41e5cc0803,fanduel,player_points_over_under,luka doncic,False,34.5,-115,2023-03-22T23:15:01,Dallas Mavericks,Golden State Warriors
+2023-03-22,3de6c18f40bd176557bd7b41e5cc0803,fanduel,player_assists_over_under,luka doncic,False,13.5,-118,2023-03-23T01:00:02,Dallas Mavericks,Golden State Warriors
+2023-03-22,3de6c18f40bd176557bd7b41e5cc0803,fanduel,player_assists_over_under,luka doncic,False,15.5,-200,2023-03-23T01:30:01,Dallas Mavericks,Golden State Warriors
+2023-03-22,3de6c18f40bd176557bd7b41e5cc0803,fanduel,player_assists_over_under,luka doncic,False,16.5,162,2023-03-23T02:00:01,Dallas Mavericks,Golden State Warriors
+2023-03-22,3de6c18f40bd176557bd7b41e5cc0803,fanduel,player_blocks_over_under,luka doncic,True,0.5,1000,2023-03-23T02:00:01,Dallas Mavericks,Golden State Warriors
+2023-03-22,3de6c18f40bd176557bd7b41e5cc0803,fanduel,player_blocks_over_under,luka doncic,False,0.5,-5000,2023-03-23T02:00:01,Dallas Mavericks,Golden State Warriors
+2023-03-22,3de6c18f40bd176557bd7b41e5cc0803,fanduel,player_points_over_under,luka doncic,True,31.5,102,2023-03-23T01:30:01,Dallas Mavericks,Golden State Warriors
+2023-03-22,3de6c18f40bd176557bd7b41e5cc0803,fanduel,player_points_over_under,luka doncic,True,32.5,-125,2023-03-23T00:45:01,Dallas Mavericks,Golden State Warriors
+2023-03-22,3de6c18f40bd176557bd7b41e5cc0803,fanduel,player_points_over_under,luka doncic,True,33.5,-144,2023-03-23T02:00:01,Dallas Mavericks,Golden State Warriors
+2023-03-22,3de6c18f40bd176557bd7b41e5cc0803,fanduel,player_points_over_under,luka doncic,True,34.5,-105,2023-03-22T23:15:01,Dallas Mavericks,Golden State Warriors
+2023-03-22,3de6c18f40bd176557bd7b41e5cc0803,fanduel,player_points_over_under,luka doncic,True,35.5,108,2023-03-23T01:45:02,Dallas Mavericks,Golden State Warriors
+2023-03-22,3de6c18f40bd176557bd7b41e5cc0803,fanduel,player_points_over_under,luka doncic,False,31.5,-136,2023-03-23T01:30:01,Dallas Mavericks,Golden State Warriors
+2023-03-22,3de6c18f40bd176557bd7b41e5cc0803,fanduel,player_points_over_under,luka doncic,False,32.5,-106,2023-03-23T00:45:01,Dallas Mavericks,Golden State Warriors
+2023-03-22,3de6c18f40bd176557bd7b41e5cc0803,fanduel,player_points_over_under,luka doncic,False,33.5,108,2023-03-23T02:00:01,Dallas Mavericks,Golden State Warriors
+2023-03-22,3de6c18f40bd176557bd7b41e5cc0803,fanduel,player_points_over_under,luka doncic,False,35.5,-144,2023-03-23T01:45:02,Dallas Mavericks,Golden State Warriors
+2023-03-22,3de6c18f40bd176557bd7b41e5cc0803,fanduel,player_assists_over_under,luka doncic,False,11.5,-102,2023-03-23T00:15:02,Dallas Mavericks,Golden State Warriors
+2023-03-22,3de6c18f40bd176557bd7b41e5cc0803,fanduel,player_rebounds_over_under,luka doncic,True,4.5,-172,2023-03-23T01:30:01,Dallas Mavericks,Golden State Warriors
+2023-03-22,3de6c18f40bd176557bd7b41e5cc0803,fanduel,player_rebounds_over_under,luka doncic,True,6.5,-168,2023-03-23T02:00:01,Dallas Mavericks,Golden State Warriors
+2023-03-22,3de6c18f40bd176557bd7b41e5cc0803,fanduel,player_rebounds_over_under,luka doncic,True,7.5,-130,2023-03-22T23:45:01,Dallas Mavericks,Golden State Warriors
+2023-03-22,3de6c18f40bd176557bd7b41e5cc0803,fanduel,player_rebounds_over_under,luka doncic,False,4.5,128,2023-03-23T01:30:01,Dallas Mavericks,Golden State Warriors
+2023-03-22,3de6c18f40bd176557bd7b41e5cc0803,fanduel,player_rebounds_over_under,luka doncic,False,5.5,-205,2023-03-23T01:45:02,Dallas Mavericks,Golden State Warriors
+2023-03-22,3de6c18f40bd176557bd7b41e5cc0803,fanduel,player_rebounds_over_under,luka doncic,False,6.5,126,2023-03-23T02:00:01,Dallas Mavericks,Golden State Warriors
+2023-03-22,3de6c18f40bd176557bd7b41e5cc0803,fanduel,player_rebounds_over_under,luka doncic,False,7.5,106,2023-03-22T23:45:01,Dallas Mavericks,Golden State Warriors
+2023-03-22,3de6c18f40bd176557bd7b41e5cc0803,fanduel,player_steals_over_under,luka doncic,True,1.5,520,2023-03-23T02:00:01,Dallas Mavericks,Golden State Warriors
+2023-03-22,3de6c18f40bd176557bd7b41e5cc0803,fanduel,player_steals_over_under,luka doncic,False,1.5,-1000,2023-03-23T02:00:01,Dallas Mavericks,Golden State Warriors
+2023-03-22,3de6c18f40bd176557bd7b41e5cc0803,fanduel,player_threes_over_under,luka doncic,True,1.5,-138,2023-03-23T01:30:01,Dallas Mavericks,Golden State Warriors
+2023-03-22,3de6c18f40bd176557bd7b41e5cc0803,fanduel,player_threes_over_under,luka doncic,True,2.5,220,2023-03-23T02:00:01,Dallas Mavericks,Golden State Warriors
+2023-03-22,3de6c18f40bd176557bd7b41e5cc0803,fanduel,player_threes_over_under,luka doncic,True,3.5,154,2023-03-23T00:30:01,Dallas Mavericks,Golden State Warriors
+2023-03-22,3de6c18f40bd176557bd7b41e5cc0803,fanduel,player_threes_over_under,luka doncic,False,1.5,104,2023-03-23T01:30:01,Dallas Mavericks,Golden State Warriors
+2023-03-22,3de6c18f40bd176557bd7b41e5cc0803,fanduel,player_threes_over_under,luka doncic,False,2.5,-310,2023-03-23T02:00:01,Dallas Mavericks,Golden State Warriors
+2023-03-22,3de6c18f40bd176557bd7b41e5cc0803,fanduel,player_threes_over_under,luka doncic,False,3.5,-210,2023-03-23T00:30:01,Dallas Mavericks,Golden State Warriors
+2023-03-22,3de6c18f40bd176557bd7b41e5cc0803,fanduel,player_rebounds_over_under,luka doncic,True,5.5,152,2023-03-23T01:45:02,Dallas Mavericks,Golden State Warriors
+2023-03-22,3de6c18f40bd176557bd7b41e5cc0803,fanduel,player_assists_over_under,luka doncic,False,8.5,-128,2023-03-22T23:45:01,Dallas Mavericks,Golden State Warriors
+2023-03-22,3de6c18f40bd176557bd7b41e5cc0803,fanduel,player_assists_over_under,luka doncic,False,9.5,-112,2023-03-23T00:00:01,Dallas Mavericks,Golden State Warriors
+2023-03-22,3de6c18f40bd176557bd7b41e5cc0803,fanduel,player_assists_over_under,luka doncic,True,16.5,-220,2023-03-23T02:00:01,Dallas Mavericks,Golden State Warriors
+2023-03-22,3de6c18f40bd176557bd7b41e5cc0803,fanduel,player_assists_over_under,luka doncic,True,15.5,148,2023-03-23T01:30:01,Dallas Mavericks,Golden State Warriors
+2023-03-22,3de6c18f40bd176557bd7b41e5cc0803,fanduel,player_assists_over_under,luka doncic,True,13.5,-112,2023-03-23T01:00:02,Dallas Mavericks,Golden State Warriors
+2023-03-22,3de6c18f40bd176557bd7b41e5cc0803,fanduel,player_assists_over_under,luka doncic,True,11.5,-130,2023-03-23T00:15:02,Dallas Mavericks,Golden State Warriors
+2023-03-22,3de6c18f40bd176557bd7b41e5cc0803,fanduel,player_assists_over_under,luka doncic,True,9.5,-118,2023-03-23T00:00:01,Dallas Mavericks,Golden State Warriors
+2023-03-22,3de6c18f40bd176557bd7b41e5cc0803,fanduel,player_assists_over_under,luka doncic,True,8.5,100,2023-03-22T23:45:01,Dallas Mavericks,Golden State Warriors
+2023-03-22,3de6c18f40bd176557bd7b41e5cc0803,fanduel,player_assists_over_under,luka doncic,True,7.5,-130,2023-03-22T20:45:02,Dallas Mavericks,Golden State Warriors
+2023-03-22,3de6c18f40bd176557bd7b41e5cc0803,fanduel,player_assists_over_under,luka doncic,False,7.5,106,2023-03-22T20:45:02,Dallas Mavericks,Golden State Warriors
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_blocks_over_under,luka doncic,True,0.5,880,2023-03-25T02:30:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_steals_over_under,luka doncic,False,1.5,-198,2023-03-25T00:45:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_steals_over_under,luka doncic,False,0.5,-360,2023-03-25T02:30:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_steals_over_under,luka doncic,True,1.5,146,2023-03-25T00:45:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_steals_over_under,luka doncic,True,0.5,250,2023-03-25T02:30:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_rebounds_over_under,luka doncic,False,6.5,-132,2023-03-25T01:15:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_rebounds_over_under,luka doncic,False,8.5,-132,2023-03-25T02:00:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_rebounds_over_under,luka doncic,False,7.5,120,2023-03-25T01:45:02,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_threes_over_under,luka doncic,True,1.5,-160,2023-03-25T01:15:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_rebounds_over_under,luka doncic,True,10.5,-130,2023-03-25T02:30:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_rebounds_over_under,luka doncic,True,8.5,100,2023-03-25T02:00:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_assists_over_under,luka doncic,True,6.5,116,2023-03-25T01:15:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_threes_over_under,luka doncic,True,2.5,-102,2023-03-25T02:30:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_points_over_under,luka doncic,False,35.5,-128,2023-03-25T02:30:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_threes_over_under,luka doncic,False,2.5,-130,2023-03-25T02:30:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_points_over_under,luka doncic,False,36.5,-125,2023-03-25T02:15:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_points_over_under,luka doncic,False,33.5,-136,2023-03-25T01:45:02,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_blocks_over_under,luka doncic,False,0.5,-3000,2023-03-25T02:30:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_points_over_under,luka doncic,False,32.5,104,2023-03-25T02:00:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_points_over_under,luka doncic,False,31.5,-105,2023-03-25T00:30:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_points_over_under,luka doncic,True,36.5,-106,2023-03-25T02:15:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_points_over_under,luka doncic,True,35.5,-104,2023-03-25T02:30:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_points_over_under,luka doncic,True,33.5,102,2023-03-25T01:45:02,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_points_over_under,luka doncic,True,32.5,-138,2023-03-25T02:00:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_points_over_under,luka doncic,True,31.5,-115,2023-03-25T00:30:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_threes_over_under,luka doncic,False,1.5,120,2023-03-25T01:15:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_assists_over_under,luka doncic,False,9.5,-152,2023-03-25T02:00:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_rebounds_over_under,luka doncic,False,10.5,-102,2023-03-25T02:30:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_assists_over_under,luka doncic,False,7.5,-136,2023-03-25T00:45:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_assists_over_under,luka doncic,True,7.5,102,2023-03-25T00:45:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_assists_over_under,luka doncic,True,8.5,-118,2023-03-25T02:30:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_assists_over_under,luka doncic,True,9.5,114,2023-03-25T02:00:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_assists_over_under,luka doncic,False,8.5,-112,2023-03-25T02:30:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_rebounds_over_under,luka doncic,True,6.5,100,2023-03-25T01:15:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_assists_over_under,luka doncic,False,6.5,-154,2023-03-25T01:15:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_rebounds_over_under,luka doncic,True,7.5,-160,2023-03-25T01:45:02,Dallas Mavericks,Charlotte Hornets
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_threes_over_under,luka doncic,False,1.5,-132,2023-03-26T18:00:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_threes_over_under,luka doncic,False,6.5,-300,2023-03-26T19:15:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_rebounds_over_under,luka doncic,True,10.5,-122,2023-03-26T18:00:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_rebounds_over_under,luka doncic,True,11.5,-230,2023-03-26T19:15:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_rebounds_over_under,luka doncic,True,12.5,-154,2023-03-26T19:00:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_rebounds_over_under,luka doncic,False,8.5,-128,2023-03-26T17:15:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_rebounds_over_under,luka doncic,False,10.5,-108,2023-03-26T18:00:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_rebounds_over_under,luka doncic,False,11.5,168,2023-03-26T19:15:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_threes_over_under,luka doncic,False,2.5,-140,2023-03-26T17:15:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_rebounds_over_under,luka doncic,False,12.5,116,2023-03-26T19:00:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_steals_over_under,luka doncic,True,1.5,158,2023-03-26T17:15:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_threes_over_under,luka doncic,False,5.5,-136,2023-03-26T19:00:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_steals_over_under,luka doncic,False,0.5,-132,2023-03-26T18:30:02,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_steals_over_under,luka doncic,False,1.5,-215,2023-03-26T17:15:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_steals_over_under,luka doncic,False,2.5,-800,2023-03-26T19:15:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_threes_over_under,luka doncic,True,1.5,100,2023-03-26T18:00:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_threes_over_under,luka doncic,True,2.5,106,2023-03-26T17:15:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_threes_over_under,luka doncic,True,5.5,102,2023-03-26T19:00:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_threes_over_under,luka doncic,True,6.5,210,2023-03-26T19:15:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_steals_over_under,luka doncic,True,0.5,100,2023-03-26T18:30:02,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_steals_over_under,luka doncic,True,2.5,450,2023-03-26T19:15:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_points_over_under,luka doncic,False,40.5,104,2023-03-26T19:15:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_points_over_under,luka doncic,False,39.5,108,2023-03-26T19:00:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_blocks_over_under,luka doncic,False,2.5,-7000,2023-03-26T19:15:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_blocks_over_under,luka doncic,False,1.5,-800,2023-03-26T18:30:02,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_blocks_over_under,luka doncic,False,0.5,-670,2023-03-26T18:15:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_blocks_over_under,luka doncic,True,2.5,1000,2023-03-26T19:15:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_blocks_over_under,luka doncic,True,1.5,450,2023-03-26T18:30:02,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_blocks_over_under,luka doncic,True,0.5,400,2023-03-26T18:15:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_points_over_under,luka doncic,True,24.5,-136,2023-03-26T18:00:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_assists_over_under,luka doncic,False,8.5,-140,2023-03-26T16:00:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_assists_over_under,luka doncic,False,6.5,-122,2023-03-26T18:30:02,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_assists_over_under,luka doncic,False,5.5,-104,2023-03-26T19:00:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_assists_over_under,luka doncic,True,8.5,114,2023-03-26T16:00:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_assists_over_under,luka doncic,True,7.5,-200,2023-03-26T19:15:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_assists_over_under,luka doncic,True,6.5,-108,2023-03-26T18:30:02,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_assists_over_under,luka doncic,True,5.5,-128,2023-03-26T19:00:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_assists_over_under,luka doncic,False,7.5,148,2023-03-26T19:15:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_points_over_under,luka doncic,True,25.5,-132,2023-03-26T17:45:02,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_points_over_under,luka doncic,True,23.5,-125,2023-03-26T17:30:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_points_over_under,luka doncic,True,30.5,-115,2023-03-26T17:00:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_points_over_under,luka doncic,False,37.5,116,2023-03-26T18:45:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_points_over_under,luka doncic,False,36.5,-102,2023-03-26T18:15:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_points_over_under,luka doncic,False,35.5,-128,2023-03-26T18:30:02,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_points_over_under,luka doncic,False,31.5,-115,2023-03-26T16:30:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_points_over_under,luka doncic,False,30.5,-105,2023-03-26T17:00:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_points_over_under,luka doncic,True,28.5,102,2023-03-26T17:15:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_points_over_under,luka doncic,False,25.5,100,2023-03-26T17:45:02,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_points_over_under,luka doncic,False,24.5,102,2023-03-26T18:00:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_points_over_under,luka doncic,False,28.5,-136,2023-03-26T17:15:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_points_over_under,luka doncic,True,40.5,-138,2023-03-26T19:15:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_points_over_under,luka doncic,True,39.5,-144,2023-03-26T19:00:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_points_over_under,luka doncic,True,37.5,-154,2023-03-26T18:45:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_points_over_under,luka doncic,True,36.5,-130,2023-03-26T18:15:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_points_over_under,luka doncic,True,35.5,-104,2023-03-26T18:30:02,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_points_over_under,luka doncic,True,31.5,-105,2023-03-26T16:30:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_points_over_under,luka doncic,False,23.5,-106,2023-03-26T17:30:01,Charlotte Hornets,Dallas Mavericks
+2023-03-26,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_rebounds_over_under,luka doncic,True,8.5,-104,2023-03-26T17:15:01,Charlotte Hornets,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_threes_over_under,luka doncic,True,4.5,1000,2023-03-28T01:00:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_threes_over_under,luka doncic,False,4.5,-100000,2023-03-28T01:15:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_threes_over_under,luka doncic,False,3.5,-210,2023-03-28T00:45:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_threes_over_under,luka doncic,False,2.5,162,2023-03-28T00:30:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_threes_over_under,luka doncic,False,1.5,124,2023-03-27T23:45:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_assists_over_under,luka doncic,True,4.5,-154,2023-03-28T00:30:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_threes_over_under,luka doncic,True,1.5,-166,2023-03-27T23:45:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,luka doncic,True,28.5,-130,2023-03-27T23:15:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,luka doncic,True,26.5,100,2023-03-27T23:30:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,luka doncic,True,25.5,580,2023-03-28T01:15:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,luka doncic,True,24.5,-118,2023-03-28T00:00:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,luka doncic,True,23.5,-114,2023-03-28T00:30:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_blocks_over_under,luka doncic,False,0.5,-100000,2023-03-28T01:00:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_blocks_over_under,luka doncic,True,0.5,1000,2023-03-28T01:00:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_assists_over_under,luka doncic,False,8.5,-140,2023-03-27T21:30:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_assists_over_under,luka doncic,False,7.5,-192,2023-03-28T00:45:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_assists_over_under,luka doncic,False,6.5,-10000,2023-03-28T01:15:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_assists_over_under,luka doncic,False,5.5,-118,2023-03-27T23:45:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_assists_over_under,luka doncic,False,4.5,116,2023-03-28T00:30:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_assists_over_under,luka doncic,False,3.5,-108,2023-03-28T00:15:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_assists_over_under,luka doncic,True,8.5,112,2023-03-27T21:30:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_assists_over_under,luka doncic,True,7.5,142,2023-03-28T00:45:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_assists_over_under,luka doncic,True,6.5,1000,2023-03-28T01:15:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_assists_over_under,luka doncic,True,5.5,-112,2023-03-27T23:45:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,luka doncic,True,31.5,-115,2023-03-27T17:45:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_threes_over_under,luka doncic,True,2.5,-220,2023-03-28T00:30:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,luka doncic,True,32.5,-106,2023-03-27T23:00:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,luka doncic,False,24.5,-112,2023-03-28T00:00:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_steals_over_under,luka doncic,False,1.5,-100000,2023-03-28T01:15:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_steals_over_under,luka doncic,False,0.5,-490,2023-03-28T00:45:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_steals_over_under,luka doncic,True,1.5,1000,2023-03-28T01:00:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_steals_over_under,luka doncic,True,0.5,320,2023-03-28T00:45:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_rebounds_over_under,luka doncic,False,8.5,-174,2023-03-28T00:45:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_rebounds_over_under,luka doncic,False,7.5,-10000,2023-03-28T01:15:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_rebounds_over_under,luka doncic,False,6.5,102,2023-03-27T23:45:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_rebounds_over_under,luka doncic,False,5.5,134,2023-03-28T00:30:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_rebounds_over_under,luka doncic,True,8.5,130,2023-03-28T00:45:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_rebounds_over_under,luka doncic,True,7.5,1000,2023-03-28T01:15:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_rebounds_over_under,luka doncic,True,6.5,-136,2023-03-27T23:45:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_rebounds_over_under,luka doncic,True,5.5,-180,2023-03-28T00:30:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,luka doncic,False,32.5,-114,2023-03-27T23:00:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,luka doncic,False,31.5,-105,2023-03-27T17:45:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,luka doncic,False,28.5,-102,2023-03-27T23:15:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,luka doncic,False,26.5,-132,2023-03-27T23:30:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,luka doncic,False,25.5,-1200,2023-03-28T01:15:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,luka doncic,False,23.5,-114,2023-03-28T00:30:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_threes_over_under,luka doncic,True,3.5,154,2023-03-28T00:45:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_assists_over_under,luka doncic,True,3.5,-122,2023-03-28T00:15:01,Indiana Pacers,Dallas Mavericks
+2023-03-29,5e41cced040db5265e681513caceee7b,fanduel,player_assists_over_under,luka doncic,False,8.5,154,2023-03-30T02:00:01,Philadelphia 76ers,Dallas Mavericks
+2023-03-29,5e41cced040db5265e681513caceee7b,fanduel,player_rebounds_over_under,luka doncic,True,9.5,-125,2023-03-30T01:45:01,Philadelphia 76ers,Dallas Mavericks
+2023-03-29,5e41cced040db5265e681513caceee7b,fanduel,player_rebounds_over_under,luka doncic,True,10.5,122,2023-03-30T01:30:01,Philadelphia 76ers,Dallas Mavericks
+2023-03-29,5e41cced040db5265e681513caceee7b,fanduel,player_rebounds_over_under,luka doncic,False,7.5,126,2023-03-30T00:45:01,Philadelphia 76ers,Dallas Mavericks
+2023-03-29,5e41cced040db5265e681513caceee7b,fanduel,player_rebounds_over_under,luka doncic,False,8.5,140,2023-03-30T02:00:01,Philadelphia 76ers,Dallas Mavericks
+2023-03-29,5e41cced040db5265e681513caceee7b,fanduel,player_rebounds_over_under,luka doncic,False,9.5,-106,2023-03-30T01:45:01,Philadelphia 76ers,Dallas Mavericks
+2023-03-29,5e41cced040db5265e681513caceee7b,fanduel,player_rebounds_over_under,luka doncic,False,10.5,-162,2023-03-30T01:30:01,Philadelphia 76ers,Dallas Mavericks
+2023-03-29,5e41cced040db5265e681513caceee7b,fanduel,player_steals_over_under,luka doncic,True,0.5,490,2023-03-30T02:00:01,Philadelphia 76ers,Dallas Mavericks
+2023-03-29,5e41cced040db5265e681513caceee7b,fanduel,player_steals_over_under,luka doncic,False,0.5,-900,2023-03-30T02:00:01,Philadelphia 76ers,Dallas Mavericks
+2023-03-29,5e41cced040db5265e681513caceee7b,fanduel,player_threes_over_under,luka doncic,True,2.5,-158,2023-03-30T01:30:01,Philadelphia 76ers,Dallas Mavericks
+2023-03-29,5e41cced040db5265e681513caceee7b,fanduel,player_threes_over_under,luka doncic,True,3.5,220,2023-03-30T02:00:01,Philadelphia 76ers,Dallas Mavericks
+2023-03-29,5e41cced040db5265e681513caceee7b,fanduel,player_threes_over_under,luka doncic,False,2.5,118,2023-03-30T01:30:01,Philadelphia 76ers,Dallas Mavericks
+2023-03-29,5e41cced040db5265e681513caceee7b,fanduel,player_threes_over_under,luka doncic,False,3.5,-310,2023-03-30T02:00:01,Philadelphia 76ers,Dallas Mavericks
+2023-03-29,5e41cced040db5265e681513caceee7b,fanduel,player_assists_over_under,luka doncic,True,9.5,-130,2023-03-30T01:45:01,Philadelphia 76ers,Dallas Mavericks
+2023-03-29,5e41cced040db5265e681513caceee7b,fanduel,player_assists_over_under,luka doncic,True,11.5,104,2023-03-30T00:15:01,Philadelphia 76ers,Dallas Mavericks
+2023-03-29,5e41cced040db5265e681513caceee7b,fanduel,player_assists_over_under,luka doncic,False,7.5,-120,2023-03-29T23:45:01,Philadelphia 76ers,Dallas Mavericks
+2023-03-29,5e41cced040db5265e681513caceee7b,fanduel,player_assists_over_under,luka doncic,True,7.5,-106,2023-03-29T23:45:01,Philadelphia 76ers,Dallas Mavericks
+2023-03-29,5e41cced040db5265e681513caceee7b,fanduel,player_assists_over_under,luka doncic,True,8.5,-210,2023-03-30T02:00:01,Philadelphia 76ers,Dallas Mavericks
+2023-03-29,5e41cced040db5265e681513caceee7b,fanduel,player_rebounds_over_under,luka doncic,True,8.5,-188,2023-03-30T02:00:01,Philadelphia 76ers,Dallas Mavericks
+2023-03-29,5e41cced040db5265e681513caceee7b,fanduel,player_rebounds_over_under,luka doncic,True,7.5,-168,2023-03-30T00:45:01,Philadelphia 76ers,Dallas Mavericks
+2023-03-29,5e41cced040db5265e681513caceee7b,fanduel,player_assists_over_under,luka doncic,True,10.5,118,2023-03-30T01:15:01,Philadelphia 76ers,Dallas Mavericks
+2023-03-29,5e41cced040db5265e681513caceee7b,fanduel,player_points_over_under,luka doncic,False,30.5,100,2023-03-29T22:15:01,Philadelphia 76ers,Dallas Mavericks
+2023-03-29,5e41cced040db5265e681513caceee7b,fanduel,player_assists_over_under,luka doncic,False,9.5,-102,2023-03-30T01:45:01,Philadelphia 76ers,Dallas Mavericks
+2023-03-29,5e41cced040db5265e681513caceee7b,fanduel,player_assists_over_under,luka doncic,False,10.5,-158,2023-03-30T01:15:01,Philadelphia 76ers,Dallas Mavericks
+2023-03-29,5e41cced040db5265e681513caceee7b,fanduel,player_assists_over_under,luka doncic,False,11.5,-138,2023-03-30T00:15:01,Philadelphia 76ers,Dallas Mavericks
+2023-03-29,5e41cced040db5265e681513caceee7b,fanduel,player_points_over_under,luka doncic,False,31.5,-102,2023-03-29T23:45:01,Philadelphia 76ers,Dallas Mavericks
+2023-03-29,5e41cced040db5265e681513caceee7b,fanduel,player_blocks_over_under,luka doncic,True,1.5,1000,2023-03-30T02:00:01,Philadelphia 76ers,Dallas Mavericks
+2023-03-29,5e41cced040db5265e681513caceee7b,fanduel,player_blocks_over_under,luka doncic,False,0.5,-600,2023-03-30T01:00:01,Philadelphia 76ers,Dallas Mavericks
+2023-03-29,5e41cced040db5265e681513caceee7b,fanduel,player_blocks_over_under,luka doncic,False,1.5,-5000,2023-03-30T02:00:01,Philadelphia 76ers,Dallas Mavericks
+2023-03-29,5e41cced040db5265e681513caceee7b,fanduel,player_points_over_under,luka doncic,True,24.5,-112,2023-03-30T02:00:01,Philadelphia 76ers,Dallas Mavericks
+2023-03-29,5e41cced040db5265e681513caceee7b,fanduel,player_blocks_over_under,luka doncic,True,0.5,370,2023-03-30T01:00:01,Philadelphia 76ers,Dallas Mavericks
+2023-03-29,5e41cced040db5265e681513caceee7b,fanduel,player_points_over_under,luka doncic,True,26.5,-114,2023-03-30T01:15:01,Philadelphia 76ers,Dallas Mavericks
+2023-03-29,5e41cced040db5265e681513caceee7b,fanduel,player_points_over_under,luka doncic,True,29.5,-128,2023-03-30T00:00:01,Philadelphia 76ers,Dallas Mavericks
+2023-03-29,5e41cced040db5265e681513caceee7b,fanduel,player_points_over_under,luka doncic,True,30.5,-122,2023-03-29T22:15:01,Philadelphia 76ers,Dallas Mavericks
+2023-03-29,5e41cced040db5265e681513caceee7b,fanduel,player_points_over_under,luka doncic,False,29.5,-104,2023-03-30T00:00:01,Philadelphia 76ers,Dallas Mavericks
+2023-03-29,5e41cced040db5265e681513caceee7b,fanduel,player_points_over_under,luka doncic,False,26.5,-114,2023-03-30T01:15:01,Philadelphia 76ers,Dallas Mavericks
+2023-03-29,5e41cced040db5265e681513caceee7b,fanduel,player_points_over_under,luka doncic,False,25.5,-114,2023-03-30T01:45:01,Philadelphia 76ers,Dallas Mavericks
+2023-03-29,5e41cced040db5265e681513caceee7b,fanduel,player_points_over_under,luka doncic,False,24.5,-118,2023-03-30T02:00:01,Philadelphia 76ers,Dallas Mavericks
+2023-03-29,5e41cced040db5265e681513caceee7b,fanduel,player_points_over_under,luka doncic,True,31.5,-125,2023-03-29T23:45:01,Philadelphia 76ers,Dallas Mavericks
+2023-03-29,5e41cced040db5265e681513caceee7b,fanduel,player_points_over_under,luka doncic,True,25.5,-114,2023-03-30T01:45:01,Philadelphia 76ers,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_points_over_under,luka doncic,True,34.5,-138,2023-04-02T00:40:02,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_points_over_under,luka doncic,True,35.5,-146,2023-04-02T01:02:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_points_over_under,luka doncic,True,36.5,-140,2023-04-02T00:42:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_points_over_under,luka doncic,True,38.5,-118,2023-04-02T01:36:02,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_points_over_under,luka doncic,True,40.5,-152,2023-04-02T01:44:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_points_over_under,luka doncic,True,33.5,-114,2023-04-02T00:22:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_points_over_under,luka doncic,True,42.5,154,2023-04-02T01:50:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_points_over_under,luka doncic,False,27.5,-125,2023-04-01T23:44:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_points_over_under,luka doncic,False,29.5,100,2023-04-01T21:58:02,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_points_over_under,luka doncic,False,30.5,-122,2023-04-01T23:40:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_points_over_under,luka doncic,True,39.5,104,2023-04-02T01:34:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_points_over_under,luka doncic,True,32.5,-130,2023-04-02T00:36:02,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_points_over_under,luka doncic,True,27.5,-106,2023-04-01T23:44:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_points_over_under,luka doncic,True,30.5,-104,2023-04-01T23:40:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_points_over_under,luka doncic,True,29.5,-122,2023-04-01T21:58:02,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_points_over_under,luka doncic,False,31.5,-104,2023-04-02T00:30:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_blocks_over_under,luka doncic,False,0.5,-10000,2023-04-02T01:50:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_blocks_over_under,luka doncic,True,0.5,1000,2023-04-02T01:44:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_assists_over_under,luka doncic,False,10.5,-132,2023-04-02T01:00:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_assists_over_under,luka doncic,False,9.5,-186,2023-04-02T01:18:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_assists_over_under,luka doncic,False,7.5,116,2023-04-02T01:48:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_assists_over_under,luka doncic,True,10.5,100,2023-04-02T01:00:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_assists_over_under,luka doncic,True,9.5,138,2023-04-02T01:18:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_assists_over_under,luka doncic,True,8.5,104,2023-04-02T01:50:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_assists_over_under,luka doncic,True,7.5,-154,2023-04-02T01:48:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_points_over_under,luka doncic,True,31.5,-128,2023-04-02T00:30:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_points_over_under,luka doncic,False,32.5,-102,2023-04-02T00:36:02,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_assists_over_under,luka doncic,False,8.5,-138,2023-04-02T01:50:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_points_over_under,luka doncic,False,34.5,104,2023-04-02T00:40:02,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_steals_over_under,luka doncic,True,1.5,210,2023-04-02T01:18:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_steals_over_under,luka doncic,True,2.5,800,2023-04-02T01:50:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_steals_over_under,luka doncic,False,0.5,168,2023-04-01T23:54:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_steals_over_under,luka doncic,False,1.5,-300,2023-04-02T01:18:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_steals_over_under,luka doncic,False,2.5,-2200,2023-04-02T01:50:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_threes_over_under,luka doncic,True,0.5,-182,2023-04-02T01:18:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_steals_over_under,luka doncic,True,0.5,-230,2023-04-01T23:54:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_threes_over_under,luka doncic,True,1.5,154,2023-04-02T01:42:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_threes_over_under,luka doncic,True,3.5,124,2023-04-01T23:40:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_threes_over_under,luka doncic,False,0.5,136,2023-04-02T01:18:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_points_over_under,luka doncic,False,33.5,-114,2023-04-02T00:22:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_threes_over_under,luka doncic,False,1.5,-210,2023-04-02T01:42:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_threes_over_under,luka doncic,False,2.5,-470,2023-04-02T01:50:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_threes_over_under,luka doncic,False,3.5,-158,2023-04-01T23:40:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_threes_over_under,luka doncic,True,2.5,310,2023-04-02T01:50:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_rebounds_over_under,luka doncic,False,11.5,-174,2023-04-02T01:18:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_points_over_under,luka doncic,True,37.5,-166,2023-04-02T01:42:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_rebounds_over_under,luka doncic,False,9.5,118,2023-04-02T01:48:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_points_over_under,luka doncic,False,37.5,124,2023-04-02T01:42:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_rebounds_over_under,luka doncic,False,10.5,-136,2023-04-02T01:50:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_points_over_under,luka doncic,False,35.5,110,2023-04-02T01:02:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_points_over_under,luka doncic,False,39.5,-138,2023-04-02T01:34:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_points_over_under,luka doncic,False,40.5,114,2023-04-02T01:44:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_points_over_under,luka doncic,False,42.5,-210,2023-04-02T01:50:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_points_over_under,luka doncic,False,36.5,106,2023-04-02T00:42:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_rebounds_over_under,luka doncic,True,8.5,100,2023-04-02T00:36:02,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_rebounds_over_under,luka doncic,False,8.5,-132,2023-04-02T00:36:02,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_rebounds_over_under,luka doncic,True,7.5,-152,2023-04-02T00:34:02,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_rebounds_over_under,luka doncic,False,7.5,114,2023-04-02T00:34:02,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_rebounds_over_under,luka doncic,True,10.5,102,2023-04-02T01:50:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_rebounds_over_under,luka doncic,True,9.5,-158,2023-04-02T01:48:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_rebounds_over_under,luka doncic,True,11.5,130,2023-04-02T01:18:01,Miami Heat,Dallas Mavericks
+2023-04-01,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,player_points_over_under,luka doncic,False,38.5,-114,2023-04-02T01:36:02,Miami Heat,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_points_over_under,luka doncic,True,24.5,146,2023-04-03T00:14:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_points_over_under,luka doncic,False,22.5,122,2023-04-03T00:02:02,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_points_over_under,luka doncic,True,33.5,100,2023-04-02T22:06:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_points_over_under,luka doncic,True,32.5,-112,2023-04-02T23:06:02,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_points_over_under,luka doncic,True,31.5,-132,2023-04-02T23:22:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_points_over_under,luka doncic,True,30.5,-136,2023-04-02T23:24:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_points_over_under,luka doncic,True,29.5,-130,2023-04-02T23:04:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_points_over_under,luka doncic,True,28.5,102,2023-04-02T23:30:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_points_over_under,luka doncic,True,25.5,104,2023-04-03T00:10:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_assists_over_under,luka doncic,False,7.5,-330,2023-04-03T00:32:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_points_over_under,luka doncic,True,22.5,-162,2023-04-03T00:02:02,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_blocks_over_under,luka doncic,False,0.5,-50000,2023-04-03T00:32:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_blocks_over_under,luka doncic,True,0.5,1000,2023-04-03T00:08:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_assists_over_under,luka doncic,False,8.5,-162,2023-04-02T22:28:02,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_points_over_under,luka doncic,False,23.5,-245,2023-04-03T00:32:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_assists_over_under,luka doncic,False,6.5,-130,2023-04-03T00:00:02,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_assists_over_under,luka doncic,False,5.5,154,2023-04-02T23:42:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_assists_over_under,luka doncic,True,8.5,122,2023-04-02T22:28:02,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_assists_over_under,luka doncic,True,7.5,230,2023-04-03T00:32:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_assists_over_under,luka doncic,True,6.5,-102,2023-04-03T00:00:02,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_assists_over_under,luka doncic,True,5.5,-210,2023-04-02T23:42:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_points_over_under,luka doncic,True,23.5,178,2023-04-03T00:32:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_points_over_under,luka doncic,False,24.5,-198,2023-04-03T00:14:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_points_over_under,luka doncic,False,31.5,100,2023-04-02T23:22:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_points_over_under,luka doncic,False,26.5,-114,2023-04-02T23:34:02,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_threes_over_under,luka doncic,False,4.5,-270,2023-04-02T23:26:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_threes_over_under,luka doncic,False,3.5,-1450,2023-04-03T00:32:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_threes_over_under,luka doncic,False,2.5,112,2023-04-02T22:52:02,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_threes_over_under,luka doncic,True,4.5,194,2023-04-02T23:26:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_threes_over_under,luka doncic,True,3.5,640,2023-04-03T00:32:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_threes_over_under,luka doncic,True,2.5,-148,2023-04-02T22:52:02,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_steals_over_under,luka doncic,False,1.5,-260,2023-04-02T22:22:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_steals_over_under,luka doncic,False,0.5,-5000,2023-04-03T00:32:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_steals_over_under,luka doncic,True,1.5,188,2023-04-02T22:22:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_steals_over_under,luka doncic,True,0.5,1000,2023-04-03T00:32:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_rebounds_over_under,luka doncic,False,10.5,-144,2023-04-02T22:22:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_points_over_under,luka doncic,False,25.5,-138,2023-04-03T00:10:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_rebounds_over_under,luka doncic,False,9.5,-172,2023-04-02T22:58:02,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_rebounds_over_under,luka doncic,False,6.5,-300,2023-04-03T00:32:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_rebounds_over_under,luka doncic,True,10.5,108,2023-04-02T22:22:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_rebounds_over_under,luka doncic,True,9.5,128,2023-04-02T22:58:02,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_rebounds_over_under,luka doncic,True,8.5,144,2023-04-02T23:50:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_rebounds_over_under,luka doncic,True,7.5,116,2023-04-03T00:02:02,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_rebounds_over_under,luka doncic,True,6.5,210,2023-04-03T00:32:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_points_over_under,luka doncic,False,33.5,-122,2023-04-02T22:06:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_points_over_under,luka doncic,False,32.5,-118,2023-04-02T23:06:02,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_points_over_under,luka doncic,False,30.5,102,2023-04-02T23:24:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_points_over_under,luka doncic,False,29.5,-102,2023-04-02T23:04:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_points_over_under,luka doncic,False,28.5,-136,2023-04-02T23:30:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_rebounds_over_under,luka doncic,False,8.5,-194,2023-04-02T23:50:01,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_rebounds_over_under,luka doncic,False,7.5,-154,2023-04-03T00:02:02,Atlanta Hawks,Dallas Mavericks
+2023-04-02,0fde7cb072eb9b456e2400a720021822,fanduel,player_points_over_under,luka doncic,True,26.5,-114,2023-04-02T23:34:02,Atlanta Hawks,Dallas Mavericks
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,draftkings,player_rebounds_over_under,luka doncic,False,8.5,-165,2023-04-06T01:45:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,fanduel,player_rebounds_over_under,luka doncic,True,9.5,122,2023-04-06T02:00:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,fanduel,player_rebounds_over_under,luka doncic,True,8.5,124,2023-04-06T01:45:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,fanduel,player_rebounds_over_under,luka doncic,True,7.5,114,2023-04-06T01:00:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,draftkings,player_points_over_under,luka doncic,False,36.5,-120,2023-04-06T02:15:02,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,draftkings,player_points_over_under,luka doncic,False,34.5,-115,2023-04-06T02:30:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,draftkings,player_points_over_under,luka doncic,False,33.5,-125,2023-04-06T01:45:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,draftkings,player_points_over_under,luka doncic,False,32.5,-125,2023-04-06T01:00:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,draftkings,player_points_over_under,luka doncic,False,31.5,-165,2023-04-06T02:45:02,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,draftkings,player_points_over_under,luka doncic,False,29.5,-110,2023-04-06T01:15:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,draftkings,player_points_over_under,luka doncic,True,36.5,-110,2023-04-06T02:15:02,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,draftkings,player_points_over_under,luka doncic,True,34.5,-115,2023-04-06T02:30:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,draftkings,player_points_over_under,luka doncic,True,33.5,-105,2023-04-06T01:45:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,fanduel,player_rebounds_over_under,luka doncic,True,10.5,-136,2023-04-06T02:45:02,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,draftkings,player_points_over_under,luka doncic,True,32.5,-105,2023-04-06T01:00:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,draftkings,player_points_over_under,luka doncic,True,29.5,-120,2023-04-06T01:15:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,fanduel,player_points_over_under,luka doncic,False,36.5,-112,2023-04-06T02:15:02,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,fanduel,player_points_over_under,luka doncic,False,34.5,-136,2023-04-06T02:30:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,fanduel,player_points_over_under,luka doncic,False,33.5,-122,2023-04-06T01:45:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,fanduel,player_points_over_under,luka doncic,False,32.5,-136,2023-04-06T01:30:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,fanduel,player_points_over_under,luka doncic,False,30.5,-130,2023-04-06T01:15:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,fanduel,player_points_over_under,luka doncic,True,36.5,-118,2023-04-06T02:15:02,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,fanduel,player_points_over_under,luka doncic,True,34.5,102,2023-04-06T02:30:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,fanduel,player_points_over_under,luka doncic,True,33.5,-108,2023-04-06T01:45:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,fanduel,player_points_over_under,luka doncic,True,32.5,102,2023-04-06T01:30:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,fanduel,player_points_over_under,luka doncic,True,31.5,-162,2023-04-06T02:45:02,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,fanduel,player_points_over_under,luka doncic,True,30.5,-102,2023-04-06T01:15:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,draftkings,player_points_over_under,luka doncic,True,31.5,125,2023-04-06T02:45:02,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,draftkings,player_blocks_over_under,luka doncic,False,0.5,-2500,2023-04-06T02:30:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,fanduel,player_rebounds_over_under,luka doncic,True,11.5,132,2023-04-06T02:30:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,fanduel,player_rebounds_over_under,luka doncic,False,8.5,-166,2023-04-06T01:45:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,draftkings,player_threes_over_under,luka doncic,False,3.5,-475,2023-04-06T02:45:02,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,draftkings,player_threes_over_under,luka doncic,False,2.5,-110,2023-04-06T01:30:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,draftkings,player_threes_over_under,luka doncic,True,3.5,310,2023-04-06T02:45:02,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,draftkings,player_threes_over_under,luka doncic,True,2.5,-120,2023-04-06T01:30:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,fanduel,player_threes_over_under,luka doncic,False,3.5,-360,2023-04-06T02:45:02,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,fanduel,player_threes_over_under,luka doncic,False,2.5,-118,2023-04-06T01:45:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,fanduel,player_threes_over_under,luka doncic,True,3.5,250,2023-04-06T02:45:02,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,fanduel,player_threes_over_under,luka doncic,True,2.5,-112,2023-04-06T01:45:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,draftkings,player_steals_over_under,luka doncic,False,1.5,-1600,2023-04-06T02:45:02,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,draftkings,player_steals_over_under,luka doncic,False,0.5,-310,2023-04-06T02:15:02,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,draftkings,player_steals_over_under,luka doncic,True,1.5,700,2023-04-06T02:45:02,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,draftkings,player_steals_over_under,luka doncic,True,0.5,220,2023-04-06T02:15:02,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,fanduel,player_rebounds_over_under,luka doncic,False,7.5,-152,2023-04-06T01:00:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,fanduel,player_steals_over_under,luka doncic,False,1.5,-1200,2023-04-06T02:45:02,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,fanduel,player_steals_over_under,luka doncic,True,1.5,580,2023-04-06T02:45:02,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,fanduel,player_steals_over_under,luka doncic,True,0.5,230,2023-04-06T02:15:02,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,draftkings,player_rebounds_over_under,luka doncic,False,11.5,-155,2023-04-06T02:30:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,draftkings,player_rebounds_over_under,luka doncic,False,10.5,-140,2023-04-06T02:45:02,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,draftkings,player_rebounds_over_under,luka doncic,False,7.5,-150,2023-04-06T01:00:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,draftkings,player_rebounds_over_under,luka doncic,True,11.5,120,2023-04-06T02:30:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,draftkings,player_rebounds_over_under,luka doncic,True,10.5,105,2023-04-06T02:45:02,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,draftkings,player_rebounds_over_under,luka doncic,True,8.5,125,2023-04-06T01:45:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,draftkings,player_rebounds_over_under,luka doncic,True,7.5,110,2023-04-06T01:00:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,fanduel,player_rebounds_over_under,luka doncic,False,11.5,-178,2023-04-06T02:30:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,fanduel,player_rebounds_over_under,luka doncic,False,10.5,102,2023-04-06T02:45:02,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,fanduel,player_rebounds_over_under,luka doncic,False,9.5,-162,2023-04-06T02:00:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,fanduel,player_steals_over_under,luka doncic,False,0.5,-330,2023-04-06T02:15:02,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,draftkings,player_blocks_over_under,luka doncic,True,0.5,800,2023-04-06T02:30:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,fanduel,player_points_over_under,luka doncic,False,31.5,122,2023-04-06T02:45:02,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,fanduel,player_blocks_over_under,luka doncic,True,0.5,1000,2023-04-06T02:45:02,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,fanduel,player_blocks_over_under,luka doncic,False,0.5,-7000,2023-04-06T02:45:02,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,fanduel,player_assists_over_under,luka doncic,True,6.5,-132,2023-04-06T02:45:02,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,fanduel,player_assists_over_under,luka doncic,True,7.5,136,2023-04-06T02:30:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,fanduel,player_assists_over_under,luka doncic,True,9.5,128,2023-04-06T02:00:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,fanduel,player_assists_over_under,luka doncic,False,6.5,100,2023-04-06T02:45:02,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,fanduel,player_assists_over_under,luka doncic,False,7.5,-182,2023-04-06T02:30:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,fanduel,player_assists_over_under,luka doncic,False,8.5,-125,2023-04-06T00:45:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,fanduel,player_assists_over_under,luka doncic,False,9.5,-172,2023-04-06T02:00:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,fanduel,player_assists_over_under,luka doncic,True,8.5,-106,2023-04-06T00:45:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,draftkings,player_assists_over_under,luka doncic,True,6.5,100,2023-04-06T02:45:02,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,draftkings,player_assists_over_under,luka doncic,True,7.5,120,2023-04-06T02:30:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,draftkings,player_assists_over_under,luka doncic,True,8.5,100,2023-04-06T00:45:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,draftkings,player_assists_over_under,luka doncic,True,9.5,125,2023-04-06T02:00:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,draftkings,player_assists_over_under,luka doncic,False,6.5,-135,2023-04-06T02:45:02,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,draftkings,player_assists_over_under,luka doncic,False,7.5,-160,2023-04-06T02:30:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,draftkings,player_assists_over_under,luka doncic,False,8.5,-130,2023-04-06T00:45:01,Dallas Mavericks,Sacramento Kings
+2023-04-05,4068e370bbacbc5d7c6e797f8efb903a,draftkings,player_assists_over_under,luka doncic,False,9.5,-165,2023-04-06T02:00:01,Dallas Mavericks,Sacramento Kings
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_points_over_under,luka doncic,False,33.5,-115,2023-04-07T20:19:59,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_assists_over_under,luka doncic,True,2.5,-106,2023-04-08T01:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_assists_over_under,luka doncic,True,3.5,-104,2023-04-08T00:45:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_assists_over_under,luka doncic,True,7.5,-130,2023-04-07T16:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_assists_over_under,luka doncic,True,8.5,-104,2023-04-07T22:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_assists_over_under,luka doncic,False,3.5,-128,2023-04-08T00:45:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_assists_over_under,luka doncic,False,2.5,-125,2023-04-08T01:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_assists_over_under,luka doncic,False,9.5,-142,2023-04-07T20:19:59,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_assists_over_under,luka doncic,False,7.5,102,2023-04-07T16:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_assists_over_under,luka doncic,False,8.5,-124,2023-04-07T21:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_points_over_under,luka doncic,False,34.5,-104,2023-04-07T20:45:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_assists_over_under,luka doncic,True,9.5,116,2023-04-07T20:19:59,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_points_over_under,luka doncic,True,11.5,-135,2023-04-08T00:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_points_over_under,luka doncic,False,29.5,-115,2023-04-07T01:45:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_points_over_under,luka doncic,True,15.5,-125,2023-04-08T01:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_points_over_under,luka doncic,True,29.5,-115,2023-04-07T01:45:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_points_over_under,luka doncic,True,33.5,-115,2023-04-07T19:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_points_over_under,luka doncic,True,34.5,115,2023-04-07T22:15:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_points_over_under,luka doncic,True,35.5,-110,2023-04-07T20:30:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_points_over_under,luka doncic,False,11.5,105,2023-04-08T00:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_points_over_under,luka doncic,False,15.5,-105,2023-04-08T01:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_assists_over_under,luka doncic,True,2.5,-105,2023-04-08T01:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_points_over_under,luka doncic,False,33.5,-115,2023-04-07T19:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_points_over_under,luka doncic,False,34.5,-145,2023-04-07T22:15:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_points_over_under,luka doncic,False,35.5,-120,2023-04-07T20:30:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,caesars,player_points_over_under,luka doncic,True,34.5,104,2023-04-07T21:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,caesars,player_points_over_under,luka doncic,True,35.5,-104,2023-04-07T20:19:59,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,caesars,player_points_over_under,luka doncic,False,34.5,-142,2023-04-07T21:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_points_over_under,luka doncic,True,12.5,-130,2023-04-08T01:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_assists_over_under,luka doncic,True,3.5,-105,2023-04-08T01:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,caesars,player_assists_over_under,luka doncic,False,8.5,-157,2023-04-07T21:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_assists_over_under,luka doncic,True,8.5,110,2023-04-07T21:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,caesars,player_points_over_under,luka doncic,False,35.5,-131,2023-04-07T20:19:59,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_points_over_under,luka doncic,False,29.5,-115,2023-04-07T16:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_points_over_under,luka doncic,False,15.5,-102,2023-04-08T01:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_points_over_under,luka doncic,False,11.5,100,2023-04-08T01:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_points_over_under,luka doncic,True,34.5,-118,2023-04-07T20:45:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_points_over_under,luka doncic,True,33.5,-105,2023-04-07T20:19:59,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_points_over_under,luka doncic,True,32.5,-120,2023-04-07T21:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_points_over_under,luka doncic,True,29.5,-111,2023-04-07T16:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_points_over_under,luka doncic,True,15.5,-130,2023-04-08T01:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_points_over_under,luka doncic,True,11.5,-132,2023-04-08T01:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,betmgm,player_blocks_over_under,luka doncic,False,0.5,-700,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,betmgm,player_blocks_over_under,luka doncic,True,0.5,425,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,caesars,player_blocks_over_under,luka doncic,False,0.5,-204,2023-04-07T20:12:09,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_assists_over_under,luka doncic,True,7.5,-135,2023-04-07T01:45:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,caesars,player_blocks_over_under,luka doncic,True,0.5,146,2023-04-07T20:12:09,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_blocks_over_under,luka doncic,True,0.5,450,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_blocks_over_under,luka doncic,False,0.5,-7000,2023-04-08T01:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_blocks_over_under,luka doncic,True,0.5,1000,2023-04-08T01:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,betmgm,player_assists_over_under,luka doncic,False,8.5,-140,2023-04-07T21:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,betmgm,player_assists_over_under,luka doncic,False,2.5,-110,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,betmgm,player_assists_over_under,luka doncic,True,8.5,105,2023-04-07T21:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,betmgm,player_assists_over_under,luka doncic,True,2.5,-125,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,caesars,player_assists_over_under,luka doncic,True,8.5,114,2023-04-07T21:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_points_over_under,luka doncic,False,32.5,-102,2023-04-07T21:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_assists_over_under,luka doncic,False,8.5,-140,2023-04-07T21:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_assists_over_under,luka doncic,False,7.5,105,2023-04-07T01:45:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_assists_over_under,luka doncic,False,3.5,-125,2023-04-08T00:45:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_assists_over_under,luka doncic,False,2.5,-125,2023-04-08T01:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_blocks_over_under,luka doncic,False,0.5,-650,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,betmgm,player_points_over_under,luka doncic,True,11.5,-120,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,caesars,player_threes_over_under,luka doncic,True,3.5,-117,2023-04-07T20:12:09,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,betmgm,player_points_over_under,luka doncic,True,34.5,100,2023-04-07T22:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_steals_over_under,luka doncic,True,0.5,750,2023-04-08T01:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_steals_over_under,luka doncic,False,0.5,-2000,2023-04-08T01:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_steals_over_under,luka doncic,True,0.5,700,2023-04-08T01:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_steals_over_under,luka doncic,True,1.5,165,2023-04-07T21:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_steals_over_under,luka doncic,False,0.5,-1600,2023-04-08T01:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_steals_over_under,luka doncic,False,1.5,-205,2023-04-07T21:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,caesars,player_steals_over_under,luka doncic,True,1.5,139,2023-04-07T20:12:09,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,caesars,player_steals_over_under,luka doncic,False,1.5,-194,2023-04-07T20:12:09,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,betmgm,player_steals_over_under,luka doncic,True,0.5,170,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,betmgm,player_steals_over_under,luka doncic,True,1.5,155,2023-04-07T21:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,betmgm,player_steals_over_under,luka doncic,False,0.5,-225,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,betmgm,player_steals_over_under,luka doncic,False,1.5,-210,2023-04-07T21:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_threes_over_under,luka doncic,True,0.5,240,2023-04-08T01:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,betmgm,player_rebounds_over_under,luka doncic,False,9.5,-140,2023-04-07T21:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_threes_over_under,luka doncic,True,1.5,168,2023-04-08T00:45:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_threes_over_under,luka doncic,False,0.5,-350,2023-04-08T01:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_threes_over_under,luka doncic,False,1.5,-230,2023-04-08T00:45:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_threes_over_under,luka doncic,False,3.5,100,2023-04-07T20:45:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_threes_over_under,luka doncic,True,0.5,235,2023-04-08T01:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_threes_over_under,luka doncic,True,1.5,160,2023-04-08T00:45:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_threes_over_under,luka doncic,True,3.5,-115,2023-04-07T21:15:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_threes_over_under,luka doncic,False,0.5,-340,2023-04-08T01:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_threes_over_under,luka doncic,False,1.5,-215,2023-04-08T00:45:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,betmgm,player_threes_over_under,luka doncic,False,3.5,-120,2023-04-07T22:15:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,betmgm,player_threes_over_under,luka doncic,False,1.5,-190,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,betmgm,player_threes_over_under,luka doncic,True,3.5,-110,2023-04-07T22:15:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,betmgm,player_threes_over_under,luka doncic,True,1.5,145,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,caesars,player_threes_over_under,luka doncic,False,3.5,-117,2023-04-07T20:12:09,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_threes_over_under,luka doncic,True,3.5,-128,2023-04-07T20:45:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,betmgm,player_points_over_under,luka doncic,True,33.5,-115,2023-04-07T19:43:23,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,betmgm,player_rebounds_over_under,luka doncic,False,8.5,115,2023-04-07T22:15:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,betmgm,player_rebounds_over_under,luka doncic,True,9.5,105,2023-04-07T21:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,betmgm,player_points_over_under,luka doncic,True,35.5,-105,2023-04-07T20:19:59,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,betmgm,player_points_over_under,luka doncic,False,11.5,-110,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,betmgm,player_points_over_under,luka doncic,False,33.5,-115,2023-04-07T19:43:23,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,betmgm,player_points_over_under,luka doncic,False,34.5,-135,2023-04-07T22:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,betmgm,player_points_over_under,luka doncic,False,35.5,-125,2023-04-07T20:19:59,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_rebounds_over_under,luka doncic,True,3.5,-132,2023-04-08T01:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_rebounds_over_under,luka doncic,True,5.5,-130,2023-04-08T01:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_rebounds_over_under,luka doncic,True,8.5,-118,2023-04-07T21:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_rebounds_over_under,luka doncic,False,3.5,100,2023-04-08T01:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_rebounds_over_under,luka doncic,False,5.5,-102,2023-04-08T01:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_rebounds_over_under,luka doncic,False,8.5,-104,2023-04-07T21:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_rebounds_over_under,luka doncic,True,2.5,-175,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_rebounds_over_under,luka doncic,True,3.5,-125,2023-04-08T01:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,betmgm,player_rebounds_over_under,luka doncic,False,2.5,135,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_rebounds_over_under,luka doncic,True,5.5,-125,2023-04-08T01:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_rebounds_over_under,luka doncic,True,9.5,120,2023-04-07T21:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_rebounds_over_under,luka doncic,False,2.5,140,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_rebounds_over_under,luka doncic,False,3.5,-105,2023-04-08T01:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_threes_over_under,luka doncic,False,3.5,-115,2023-04-07T21:15:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_rebounds_over_under,luka doncic,False,5.5,-105,2023-04-08T01:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_rebounds_over_under,luka doncic,False,8.5,115,2023-04-07T22:15:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_rebounds_over_under,luka doncic,False,9.5,-150,2023-04-07T21:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,caesars,player_rebounds_over_under,luka doncic,True,8.5,-131,2023-04-07T22:15:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,caesars,player_rebounds_over_under,luka doncic,True,9.5,120,2023-04-07T21:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,caesars,player_rebounds_over_under,luka doncic,False,8.5,-104,2023-04-07T22:15:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,caesars,player_rebounds_over_under,luka doncic,False,9.5,-166,2023-04-07T21:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,betmgm,player_rebounds_over_under,luka doncic,True,2.5,-185,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,betmgm,player_rebounds_over_under,luka doncic,True,8.5,-150,2023-04-07T22:15:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_rebounds_over_under,luka doncic,True,8.5,-145,2023-04-07T22:15:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_points_over_under,luka doncic,False,12.5,100,2023-04-08T01:00:01,Dallas Mavericks,Chicago Bulls
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_assists_over_under,luka doncic,True,7.5,100,2023-10-26T02:05:07,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_threes_over_under,luka doncic,False,3.5,-180,2023-10-26T02:30:11,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,luka doncic,True,28.5,-125,2023-10-26T03:40:52,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,luka doncic,True,31.5,135,2023-10-25T14:25:03,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,luka doncic,True,30.5,130,2023-10-26T01:30:07,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,luka doncic,True,29.5,105,2023-10-26T01:30:07,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,luka doncic,True,28.5,-140,2023-10-25T14:25:03,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,luka doncic,True,27.5,-140,2023-10-26T01:30:07,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,luka doncic,True,26.5,-175,2023-10-26T01:30:07,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,pinnacle,player_points_over_under,luka doncic,False,28.5,-111,2023-10-26T01:45:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,luka doncic,True,29.5,-105,2023-10-26T03:40:52,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,pinnacle,player_points_over_under,luka doncic,True,28.5,-119,2023-10-26T01:45:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_points_over_under,luka doncic,False,32.5,116,2023-10-26T03:55:17,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_points_over_under,luka doncic,False,31.5,100,2023-10-26T03:55:17,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_points_over_under,luka doncic,False,30.5,-108,2023-10-26T03:40:09,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_points_over_under,luka doncic,False,29.5,-125,2023-10-26T03:45:08,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_points_over_under,luka doncic,False,28.5,-115,2023-10-26T02:30:04,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_points_over_under,luka doncic,True,33.5,-120,2023-10-26T03:50:05,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_points_over_under,luka doncic,True,32.5,-148,2023-10-26T03:55:17,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_points_over_under,luka doncic,True,31.5,-128,2023-10-26T03:55:17,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_points_over_under,luka doncic,False,33.5,-106,2023-10-26T03:50:05,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_points_over_under,luka doncic,True,30.5,-120,2023-10-26T03:40:09,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,luka doncic,True,30.5,-125,2023-10-26T04:10:44,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,luka doncic,True,32.5,-120,2023-10-26T02:40:13,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,betmgm,player_points_over_under,luka doncic,False,28.5,-115,2023-10-26T02:00:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,betmgm,player_points_over_under,luka doncic,True,29.5,-110,2023-10-25T14:25:03,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,betmgm,player_points_over_under,luka doncic,True,28.5,-115,2023-10-26T02:00:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,luka doncic,False,34.5,-110,2023-10-26T03:45:04,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,luka doncic,False,33.5,-105,2023-10-26T02:40:13,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,luka doncic,False,32.5,-110,2023-10-26T02:40:13,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,luka doncic,False,31.5,-105,2023-10-26T04:10:44,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,luka doncic,False,30.5,-105,2023-10-26T04:10:44,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,luka doncic,True,31.5,-130,2023-10-26T04:10:44,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,luka doncic,False,29.5,-125,2023-10-26T03:40:52,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,luka doncic,False,31.5,-175,2023-10-25T14:25:03,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,luka doncic,False,30.5,-170,2023-10-26T01:30:07,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,luka doncic,False,29.5,-135,2023-10-26T01:30:07,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,luka doncic,False,28.5,110,2023-10-25T14:25:03,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,luka doncic,False,27.5,110,2023-10-26T01:30:07,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,luka doncic,False,26.5,135,2023-10-26T01:30:07,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,luka doncic,True,34.5,-120,2023-10-26T03:45:04,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,luka doncic,True,33.5,-125,2023-10-26T02:40:13,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_points_over_under,luka doncic,False,28.5,-105,2023-10-26T03:40:52,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_points_over_under,luka doncic,True,29.5,-102,2023-10-26T03:45:08,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_points_over_under,luka doncic,True,28.5,-111,2023-10-26T02:30:04,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_blocks_over_under,luka doncic,False,0.5,-350,2023-10-26T02:40:26,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_assists_over_under,luka doncic,True,10.5,210,2023-10-26T04:10:44,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_assists_over_under,luka doncic,True,9.5,155,2023-10-26T04:00:10,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_assists_over_under,luka doncic,True,8.5,-200,2023-10-26T04:05:27,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_assists_over_under,luka doncic,True,7.5,-155,2023-10-26T02:25:15,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_assists_over_under,luka doncic,True,6.5,-150,2023-10-26T01:05:18,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,pinnacle,player_assists_over_under,luka doncic,False,7.5,-129,2023-10-26T01:45:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,pinnacle,player_assists_over_under,luka doncic,False,6.5,138,2023-10-26T00:11:39,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,pinnacle,player_assists_over_under,luka doncic,True,7.5,-104,2023-10-26T01:45:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_assists_over_under,luka doncic,False,6.5,115,2023-10-26T01:05:18,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,pinnacle,player_assists_over_under,luka doncic,True,6.5,-187,2023-10-26T00:11:39,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_assists_over_under,luka doncic,False,10.5,-166,2023-10-26T03:30:47,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_assists_over_under,luka doncic,False,9.5,-188,2023-10-26T04:10:18,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_assists_over_under,luka doncic,False,8.5,154,2023-10-26T04:06:03,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_assists_over_under,luka doncic,False,7.5,-132,2023-10-26T02:05:07,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_assists_over_under,luka doncic,True,11.5,122,2023-10-26T02:30:04,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_assists_over_under,luka doncic,True,10.5,124,2023-10-26T03:30:47,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_assists_over_under,luka doncic,True,9.5,140,2023-10-26T04:10:18,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_assists_over_under,luka doncic,True,8.5,-210,2023-10-26T04:06:03,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_assists_over_under,luka doncic,False,11.5,-162,2023-10-26T02:30:04,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_assists_over_under,luka doncic,False,7.5,115,2023-10-26T02:25:15,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_assists_over_under,luka doncic,False,8.5,150,2023-10-26T04:05:27,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_assists_over_under,luka doncic,False,9.5,-210,2023-10-26T04:00:10,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_blocks_over_under,luka doncic,True,0.5,220,2023-10-26T02:40:26,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,betmgm,player_blocks_over_under,luka doncic,True,0.5,155,2023-10-26T02:00:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_blocks_over_under,luka doncic,False,0.5,-8000,2023-10-26T04:05:27,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_blocks_over_under,luka doncic,True,0.5,1100,2023-10-26T04:05:27,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_blocks_over_under,luka doncic,False,0.5,-8000,2023-10-26T04:10:18,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_blocks_over_under,luka doncic,True,0.5,1000,2023-10-26T04:06:03,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_assists_over_under,luka doncic,False,10.5,-150,2023-10-26T03:20:10,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_assists_over_under,luka doncic,False,9.5,-110,2023-10-26T03:40:23,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_assists_over_under,luka doncic,False,8.5,-110,2023-10-26T02:55:28,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_assists_over_under,luka doncic,False,7.5,110,2023-10-26T02:26:02,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_assists_over_under,luka doncic,False,6.5,125,2023-10-26T01:15:30,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_assists_over_under,luka doncic,True,10.5,105,2023-10-26T03:20:10,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_assists_over_under,luka doncic,True,9.5,-130,2023-10-26T03:40:23,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_assists_over_under,luka doncic,True,8.5,-130,2023-10-26T02:55:28,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_assists_over_under,luka doncic,True,7.5,-160,2023-10-26T02:26:02,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_assists_over_under,luka doncic,True,6.5,-165,2023-10-26T01:15:30,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,betmgm,player_assists_over_under,luka doncic,False,7.5,-145,2023-10-26T02:00:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,betmgm,player_assists_over_under,luka doncic,True,7.5,110,2023-10-26T02:00:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_assists_over_under,luka doncic,False,10.5,-295,2023-10-26T04:10:44,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,betmgm,player_points_over_under,luka doncic,False,29.5,-120,2023-10-25T14:25:03,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_points_over_under,luka doncic,True,28.5,-115,2023-10-26T02:26:02,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,betmgm,player_blocks_over_under,luka doncic,False,0.5,-210,2023-10-26T02:00:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_points_over_under,luka doncic,True,30.5,-115,2023-10-26T02:55:28,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_steals_over_under,luka doncic,True,1.5,200,2023-10-26T03:25:46,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_steals_over_under,luka doncic,True,0.5,135,2023-10-26T02:55:28,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,betmgm,player_steals_over_under,luka doncic,False,0.5,140,2023-10-26T02:00:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,betmgm,player_steals_over_under,luka doncic,True,0.5,-190,2023-10-26T02:00:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_steals_over_under,luka doncic,False,1.5,-3500,2023-10-26T04:10:44,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_steals_over_under,luka doncic,False,0.5,-190,2023-10-26T02:50:45,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_steals_over_under,luka doncic,True,1.5,900,2023-10-26T04:10:44,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_steals_over_under,luka doncic,True,0.5,140,2023-10-26T02:50:45,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_steals_over_under,luka doncic,False,0.5,-190,2023-10-26T02:55:28,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_steals_over_under,luka doncic,False,1.5,-3500,2023-10-26T04:10:18,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_steals_over_under,luka doncic,True,1.5,920,2023-10-26T04:10:18,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_steals_over_under,luka doncic,True,0.5,146,2023-10-26T02:50:10,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_rebounds_over_under,luka doncic,False,13.5,-170,2023-10-26T04:06:05,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_rebounds_over_under,luka doncic,False,12.5,-125,2023-10-26T03:25:46,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_rebounds_over_under,luka doncic,False,11.5,-115,2023-10-26T03:15:17,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_rebounds_over_under,luka doncic,False,10.5,105,2023-10-26T03:20:10,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_rebounds_over_under,luka doncic,False,9.5,-135,2023-10-26T02:00:20,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_rebounds_over_under,luka doncic,False,8.5,105,2023-10-26T02:26:02,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_steals_over_under,luka doncic,False,0.5,-198,2023-10-26T02:50:10,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_steals_over_under,luka doncic,False,1.5,-300,2023-10-26T03:25:46,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_threes_over_under,luka doncic,True,2.5,140,2023-10-26T03:55:17,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_threes_over_under,luka doncic,True,3.5,158,2023-10-26T02:25:18,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_points_over_under,luka doncic,True,29.5,-110,2023-10-26T03:40:23,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_threes_over_under,luka doncic,False,2.5,-140,2023-10-26T03:40:23,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_threes_over_under,luka doncic,False,1.5,160,2023-10-26T03:25:46,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_threes_over_under,luka doncic,True,3.5,125,2023-10-26T02:30:11,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_threes_over_under,luka doncic,True,2.5,100,2023-10-26T03:40:23,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_threes_over_under,luka doncic,True,1.5,-240,2023-10-26T03:25:46,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,betmgm,player_threes_over_under,luka doncic,False,2.5,-105,2023-10-26T02:00:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,betmgm,player_threes_over_under,luka doncic,True,2.5,-130,2023-10-26T02:00:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_threes_over_under,luka doncic,False,3.5,-170,2023-10-26T02:31:10,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_threes_over_under,luka doncic,False,2.5,-1000,2023-10-26T04:10:44,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_threes_over_under,luka doncic,False,1.5,130,2023-10-26T03:30:29,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_threes_over_under,luka doncic,True,3.5,125,2023-10-26T02:31:10,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_threes_over_under,luka doncic,True,2.5,500,2023-10-26T04:10:44,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_threes_over_under,luka doncic,True,1.5,-175,2023-10-26T03:30:29,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,pinnacle,player_threes_over_under,luka doncic,False,2.5,-102,2023-10-26T01:45:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,pinnacle,player_threes_over_under,luka doncic,True,2.5,-130,2023-10-26T01:45:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_threes_over_under,luka doncic,False,3.5,-215,2023-10-26T02:25:18,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_threes_over_under,luka doncic,False,2.5,-188,2023-10-26T03:55:17,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_threes_over_under,luka doncic,False,1.5,168,2023-10-26T03:30:47,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_rebounds_over_under,luka doncic,False,7.5,150,2023-10-25T11:10:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_rebounds_over_under,luka doncic,True,13.5,120,2023-10-26T04:06:05,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_threes_over_under,luka doncic,True,1.5,-230,2023-10-26T03:30:47,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_rebounds_over_under,luka doncic,True,11.5,-125,2023-10-26T03:15:17,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_rebounds_over_under,luka doncic,False,11.5,-144,2023-10-26T03:15:04,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_rebounds_over_under,luka doncic,False,10.5,122,2023-10-26T03:20:04,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_rebounds_over_under,luka doncic,False,9.5,-136,2023-10-26T02:21:00,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_rebounds_over_under,luka doncic,False,8.5,116,2023-10-26T02:21:00,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_rebounds_over_under,luka doncic,True,13.5,-106,2023-10-26T04:10:18,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_rebounds_over_under,luka doncic,True,12.5,-230,2023-10-26T04:06:03,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_rebounds_over_under,luka doncic,True,11.5,108,2023-10-26T03:15:04,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_rebounds_over_under,luka doncic,True,9.5,102,2023-10-26T02:21:00,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_rebounds_over_under,luka doncic,True,8.5,-154,2023-10-26T02:21:00,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_points_over_under,luka doncic,False,34.5,-115,2023-10-26T03:50:04,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_points_over_under,luka doncic,False,33.5,-135,2023-10-26T02:40:26,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_points_over_under,luka doncic,False,31.5,-140,2023-10-26T04:06:05,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_points_over_under,luka doncic,False,30.5,-125,2023-10-26T02:55:28,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_points_over_under,luka doncic,False,29.5,-130,2023-10-26T03:40:23,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_points_over_under,luka doncic,False,28.5,-125,2023-10-26T02:26:02,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_points_over_under,luka doncic,True,34.5,-125,2023-10-26T03:50:04,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_points_over_under,luka doncic,True,33.5,-105,2023-10-26T02:40:26,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_rebounds_over_under,luka doncic,True,12.5,-115,2023-10-26T03:25:46,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_points_over_under,luka doncic,True,31.5,100,2023-10-26T04:06:05,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_rebounds_over_under,luka doncic,False,12.5,168,2023-10-26T04:06:03,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_rebounds_over_under,luka doncic,False,13.5,-125,2023-10-26T04:10:18,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_rebounds_over_under,luka doncic,True,10.5,-162,2023-10-26T03:20:04,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,pinnacle,player_rebounds_over_under,luka doncic,True,8.5,100,2023-10-26T01:45:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_rebounds_over_under,luka doncic,True,10.5,-150,2023-10-26T03:20:10,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_rebounds_over_under,luka doncic,True,9.5,-105,2023-10-26T02:00:20,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_rebounds_over_under,luka doncic,True,8.5,-150,2023-10-26T02:26:02,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,player_rebounds_over_under,luka doncic,True,7.5,-200,2023-10-25T11:10:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,betmgm,player_rebounds_over_under,luka doncic,False,8.5,-110,2023-10-26T02:00:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,betmgm,player_rebounds_over_under,luka doncic,True,8.5,-120,2023-10-26T02:00:14,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_rebounds_over_under,luka doncic,False,12.5,160,2023-10-26T04:05:27,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_rebounds_over_under,luka doncic,False,11.5,-140,2023-10-26T03:15:08,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_rebounds_over_under,luka doncic,False,10.5,120,2023-10-26T03:20:07,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_rebounds_over_under,luka doncic,False,13.5,-135,2023-10-26T04:10:44,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_rebounds_over_under,luka doncic,False,8.5,105,2023-10-26T02:25:15,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_rebounds_over_under,luka doncic,True,13.5,100,2023-10-26T04:10:44,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_rebounds_over_under,luka doncic,True,12.5,-220,2023-10-26T04:05:27,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_rebounds_over_under,luka doncic,True,11.5,105,2023-10-26T03:15:08,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_rebounds_over_under,luka doncic,True,10.5,-160,2023-10-26T03:20:07,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_rebounds_over_under,luka doncic,True,9.5,110,2023-10-26T02:10:31,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_rebounds_over_under,luka doncic,True,8.5,-140,2023-10-26T02:25:15,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,player_rebounds_over_under,luka doncic,False,9.5,-145,2023-10-26T02:10:31,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,pinnacle,player_rebounds_over_under,luka doncic,False,8.5,-133,2023-10-26T01:45:14,San Antonio Spurs,Dallas Mavericks
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_rebounds_over_under,luka doncic,True,9.5,550,2023-10-28T02:55:23,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,pinnacle,player_rebounds_over_under,luka doncic,True,9.5,115,2023-10-27T22:51:12,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_rebounds_over_under,luka doncic,False,10.5,-118,2023-10-28T01:32:22,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_rebounds_over_under,luka doncic,False,9.5,-1100,2023-10-28T02:55:23,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_rebounds_over_under,luka doncic,True,10.5,-112,2023-10-28T01:32:22,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_rebounds_over_under,luka doncic,False,7.5,-122,2023-10-28T00:55:16,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_rebounds_over_under,luka doncic,False,6.5,114,2023-10-28T01:15:12,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,pinnacle,player_rebounds_over_under,luka doncic,False,9.5,-151,2023-10-27T22:51:12,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_rebounds_over_under,luka doncic,False,8.5,110,2023-10-28T02:45:15,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_rebounds_over_under,luka doncic,True,6.5,-140,2023-10-28T01:05:06,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_rebounds_over_under,luka doncic,False,9.5,-1000,2023-10-28T02:55:07,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_rebounds_over_under,luka doncic,True,8.5,-145,2023-10-28T02:45:07,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_rebounds_over_under,luka doncic,True,9.5,500,2023-10-28T02:55:07,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_rebounds_over_under,luka doncic,True,10.5,115,2023-10-28T01:35:05,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_rebounds_over_under,luka doncic,False,6.5,105,2023-10-28T01:05:06,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_rebounds_over_under,luka doncic,False,7.5,-140,2023-10-28T01:15:46,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_rebounds_over_under,luka doncic,False,8.5,110,2023-10-28T02:45:07,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,betmgm,player_rebounds_over_under,luka doncic,True,9.5,-105,2023-10-27T16:40:59,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_rebounds_over_under,luka doncic,False,10.5,-150,2023-10-28T01:35:05,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_rebounds_over_under,luka doncic,True,8.5,-146,2023-10-28T02:45:15,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_rebounds_over_under,luka doncic,True,7.5,105,2023-10-28T01:15:46,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_rebounds_over_under,luka doncic,True,7.5,-108,2023-10-28T00:55:16,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,betmgm,player_points_over_under,luka doncic,False,28.5,-105,2023-10-27T17:00:52,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,barstool,player_points_over_under,luka doncic,False,39.5,-125,2023-10-28T02:30:11,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,betmgm,player_points_over_under,luka doncic,True,28.5,-125,2023-10-27T17:00:52,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,betmgm,player_rebounds_over_under,luka doncic,False,9.5,-125,2023-10-27T16:40:59,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,betmgm,player_points_over_under,luka doncic,True,29.5,-105,2023-10-27T17:00:52,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,betmgm,player_points_over_under,luka doncic,False,29.5,-125,2023-10-27T17:00:52,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,barstool,player_points_over_under,luka doncic,True,28.5,-120,2023-10-28T00:50:05,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,barstool,player_points_over_under,luka doncic,True,29.5,-115,2023-10-28T00:45:12,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,barstool,player_points_over_under,luka doncic,True,30.5,-130,2023-10-28T01:16:36,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,barstool,player_points_over_under,luka doncic,True,31.5,-120,2023-10-28T02:01:20,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,barstool,player_points_over_under,luka doncic,True,32.5,-105,2023-10-28T02:05:10,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,barstool,player_points_over_under,luka doncic,True,33.5,-120,2023-10-28T01:58:07,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,barstool,player_points_over_under,luka doncic,True,34.5,-110,2023-10-28T01:50:23,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,barstool,player_points_over_under,luka doncic,True,38.5,-110,2023-10-28T02:15:15,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,barstool,player_points_over_under,luka doncic,True,39.5,-115,2023-10-28T02:30:11,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,barstool,player_points_over_under,luka doncic,False,28.5,-120,2023-10-28T00:50:05,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,barstool,player_points_over_under,luka doncic,False,29.5,-115,2023-10-28T00:45:12,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,barstool,player_points_over_under,luka doncic,False,30.5,-110,2023-10-28T01:16:36,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,barstool,player_points_over_under,luka doncic,False,31.5,-120,2023-10-28T02:01:20,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,barstool,player_points_over_under,luka doncic,False,32.5,-135,2023-10-28T02:05:10,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,barstool,player_points_over_under,luka doncic,False,33.5,-120,2023-10-28T01:58:07,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,barstool,player_points_over_under,luka doncic,False,34.5,-130,2023-10-28T01:50:23,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,barstool,player_points_over_under,luka doncic,False,38.5,-130,2023-10-28T02:15:15,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_rebounds_over_under,luka doncic,True,6.5,-152,2023-10-28T01:15:12,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,barstool,player_rebounds_over_under,luka doncic,True,6.5,-135,2023-10-28T01:10:10,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,betmgm,player_threes_over_under,luka doncic,False,2.5,-120,2023-10-27T17:00:52,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,barstool,player_rebounds_over_under,luka doncic,True,8.5,-105,2023-10-28T02:30:11,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_threes_over_under,luka doncic,False,9.5,-100000,2023-10-28T02:55:23,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,pinnacle,player_threes_over_under,luka doncic,True,2.5,-114,2023-10-27T22:51:12,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,pinnacle,player_threes_over_under,luka doncic,False,2.5,-116,2023-10-27T22:51:12,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_threes_over_under,luka doncic,True,2.5,-125,2023-10-28T00:40:14,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_threes_over_under,luka doncic,True,3.5,-110,2023-10-28T00:45:24,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_threes_over_under,luka doncic,True,4.5,-165,2023-10-28T02:10:08,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_threes_over_under,luka doncic,True,5.5,190,2023-10-28T02:40:07,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_threes_over_under,luka doncic,True,6.5,280,2023-10-28T02:45:07,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_threes_over_under,luka doncic,True,9.5,900,2023-10-28T02:50:06,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_threes_over_under,luka doncic,False,2.5,-105,2023-10-28T00:40:14,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_threes_over_under,luka doncic,False,3.5,-120,2023-10-28T00:45:24,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_threes_over_under,luka doncic,False,4.5,125,2023-10-28T02:10:08,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_threes_over_under,luka doncic,False,5.5,-265,2023-10-28T02:40:07,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_threes_over_under,luka doncic,False,6.5,-425,2023-10-28T02:45:07,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_threes_over_under,luka doncic,False,9.5,-3000,2023-10-28T02:50:06,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,betmgm,player_threes_over_under,luka doncic,True,2.5,-110,2023-10-27T17:00:52,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,barstool,player_threes_over_under,luka doncic,True,2.5,-115,2023-10-28T00:50:05,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,barstool,player_threes_over_under,luka doncic,True,4.5,-180,2023-10-28T02:05:10,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,barstool,player_threes_over_under,luka doncic,True,5.5,-125,2023-10-28T02:20:41,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,barstool,player_threes_over_under,luka doncic,False,2.5,-125,2023-10-28T00:50:05,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_points_over_under,luka doncic,False,49.5,-5000,2023-10-28T02:55:07,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_threes_over_under,luka doncic,False,6.5,-580,2023-10-28T02:45:15,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,barstool,player_rebounds_over_under,luka doncic,True,7.5,100,2023-10-28T01:16:36,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_threes_over_under,luka doncic,False,5.5,-260,2023-10-28T02:40:04,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_threes_over_under,luka doncic,False,3.5,-110,2023-10-28T00:50:04,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,barstool,player_rebounds_over_under,luka doncic,True,9.5,-110,2023-10-28T02:20:41,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,barstool,player_rebounds_over_under,luka doncic,True,10.5,110,2023-10-28T01:35:06,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,barstool,player_rebounds_over_under,luka doncic,False,6.5,-105,2023-10-28T01:10:10,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,barstool,player_rebounds_over_under,luka doncic,False,7.5,-140,2023-10-28T01:16:36,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,barstool,player_rebounds_over_under,luka doncic,False,8.5,-135,2023-10-28T02:30:11,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,barstool,player_rebounds_over_under,luka doncic,False,9.5,-130,2023-10-28T02:20:41,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,barstool,player_rebounds_over_under,luka doncic,False,10.5,-160,2023-10-28T01:35:06,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_steals_over_under,luka doncic,True,0.5,1000,2023-10-28T02:50:25,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_steals_over_under,luka doncic,False,0.5,-100000,2023-10-28T02:55:23,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_steals_over_under,luka doncic,True,0.5,1100,2023-10-28T02:50:06,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_steals_over_under,luka doncic,False,0.5,-8000,2023-10-28T02:50:06,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,betmgm,player_steals_over_under,luka doncic,True,0.5,-210,2023-10-27T16:40:59,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,betmgm,player_steals_over_under,luka doncic,False,0.5,155,2023-10-27T17:00:52,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,barstool,player_steals_over_under,luka doncic,True,0.5,260,2023-10-28T02:20:41,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,barstool,player_steals_over_under,luka doncic,False,0.5,-425,2023-10-28T02:20:41,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_threes_over_under,luka doncic,True,2.5,-136,2023-10-28T00:45:07,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_threes_over_under,luka doncic,True,3.5,-120,2023-10-28T00:50:04,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_threes_over_under,luka doncic,True,4.5,-240,2023-10-28T02:10:07,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_threes_over_under,luka doncic,True,5.5,188,2023-10-28T02:40:04,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_threes_over_under,luka doncic,True,6.5,360,2023-10-28T02:45:15,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_threes_over_under,luka doncic,False,2.5,106,2023-10-28T00:45:07,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_threes_over_under,luka doncic,False,4.5,174,2023-10-28T02:10:07,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_points_over_under,luka doncic,False,42.5,-150,2023-10-28T02:45:07,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,pinnacle,player_assists_over_under,luka doncic,False,7.5,-105,2023-10-27T22:51:12,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_points_over_under,luka doncic,False,39.5,-135,2023-10-28T02:30:42,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,barstool,player_assists_over_under,luka doncic,False,7.5,140,2023-10-28T02:30:11,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,barstool,player_assists_over_under,luka doncic,False,8.5,115,2023-10-28T02:20:41,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,barstool,player_assists_over_under,luka doncic,False,9.5,-165,2023-10-28T01:35:06,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_blocks_over_under,luka doncic,True,0.5,1000,2023-10-28T02:20:10,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_blocks_over_under,luka doncic,False,0.5,-100000,2023-10-28T02:55:23,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_blocks_over_under,luka doncic,True,0.5,1200,2023-10-28T02:30:42,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_blocks_over_under,luka doncic,False,0.5,-10000,2023-10-28T02:40:07,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,betmgm,player_blocks_over_under,luka doncic,True,0.5,185,2023-10-27T14:05:16,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,betmgm,player_blocks_over_under,luka doncic,False,0.5,-250,2023-10-27T13:00:08,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,barstool,player_blocks_over_under,luka doncic,True,0.5,270,2023-10-28T01:16:36,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,barstool,player_blocks_over_under,luka doncic,False,0.5,-450,2023-10-28T01:16:36,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_points_over_under,luka doncic,True,28.5,-115,2023-10-28T00:45:07,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_points_over_under,luka doncic,True,29.5,-125,2023-10-28T01:15:12,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_points_over_under,luka doncic,True,30.5,-113,2023-10-28T01:10:11,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_points_over_under,luka doncic,True,31.5,-128,2023-10-28T01:32:22,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_points_over_under,luka doncic,True,32.5,-130,2023-10-28T02:05:21,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_points_over_under,luka doncic,True,33.5,-132,2023-10-28T02:10:07,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_points_over_under,luka doncic,True,34.5,-111,2023-10-28T01:57:13,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_points_over_under,luka doncic,True,38.5,104,2023-10-28T02:15:04,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_points_over_under,luka doncic,True,39.5,104,2023-10-28T02:40:04,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_points_over_under,luka doncic,True,40.5,-132,2023-10-28T02:30:08,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,barstool,player_assists_over_under,luka doncic,False,6.5,105,2023-10-28T01:16:36,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_points_over_under,luka doncic,True,41.5,-138,2023-10-28T02:45:15,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,barstool,player_assists_over_under,luka doncic,True,9.5,115,2023-10-28T01:35:06,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,barstool,player_assists_over_under,luka doncic,True,7.5,-200,2023-10-28T02:30:11,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_assists_over_under,luka doncic,True,6.5,-146,2023-10-28T01:15:12,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_assists_over_under,luka doncic,True,7.5,1000,2023-10-28T02:55:23,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_assists_over_under,luka doncic,True,8.5,142,2023-10-28T02:20:10,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_assists_over_under,luka doncic,True,9.5,102,2023-10-28T02:05:21,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_assists_over_under,luka doncic,False,6.5,110,2023-10-28T01:15:12,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_assists_over_under,luka doncic,False,7.5,-100000,2023-10-28T02:55:23,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_assists_over_under,luka doncic,False,8.5,-192,2023-10-28T02:20:10,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_assists_over_under,luka doncic,False,9.5,-136,2023-10-28T02:05:21,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,pinnacle,player_assists_over_under,luka doncic,True,7.5,-125,2023-10-27T22:51:12,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,barstool,player_threes_over_under,luka doncic,False,4.5,125,2023-10-28T02:05:10,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_assists_over_under,luka doncic,True,6.5,-150,2023-10-28T01:15:46,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_assists_over_under,luka doncic,True,7.5,450,2023-10-28T02:50:06,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_assists_over_under,luka doncic,True,8.5,135,2023-10-28T02:20:21,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_assists_over_under,luka doncic,True,9.5,-105,2023-10-28T02:10:08,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_assists_over_under,luka doncic,False,6.5,110,2023-10-28T01:15:46,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_assists_over_under,luka doncic,False,7.5,-750,2023-10-28T02:50:06,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_assists_over_under,luka doncic,False,8.5,-185,2023-10-28T02:20:21,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_assists_over_under,luka doncic,False,9.5,-125,2023-10-28T02:10:08,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,betmgm,player_assists_over_under,luka doncic,True,7.5,-140,2023-10-27T15:35:06,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,betmgm,player_assists_over_under,luka doncic,False,7.5,105,2023-10-27T15:35:06,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,barstool,player_assists_over_under,luka doncic,True,6.5,-150,2023-10-28T01:16:36,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,barstool,player_assists_over_under,luka doncic,True,8.5,-165,2023-10-28T02:20:41,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_points_over_under,luka doncic,False,40.5,-135,2023-10-28T02:20:21,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_points_over_under,luka doncic,True,49.5,112,2023-10-28T02:50:25,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_points_over_under,luka doncic,False,29.5,-102,2023-10-28T01:15:12,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_points_over_under,luka doncic,True,33.5,-115,2023-10-28T02:10:08,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_points_over_under,luka doncic,True,34.5,-110,2023-10-28T02:01:46,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_points_over_under,luka doncic,True,38.5,-140,2023-10-28T02:40:07,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_points_over_under,luka doncic,True,39.5,100,2023-10-28T02:30:42,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_points_over_under,luka doncic,True,40.5,100,2023-10-28T02:20:21,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_points_over_under,luka doncic,True,42.5,110,2023-10-28T02:45:07,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_points_over_under,luka doncic,True,49.5,1000,2023-10-28T02:55:07,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_points_over_under,luka doncic,False,26.5,155,2023-10-28T00:05:19,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_points_over_under,luka doncic,False,27.5,140,2023-10-28T00:40:14,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_points_over_under,luka doncic,False,28.5,115,2023-10-28T00:40:14,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_points_over_under,luka doncic,False,29.5,-120,2023-10-28T00:05:19,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_points_over_under,luka doncic,False,30.5,-125,2023-10-28T00:40:14,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_points_over_under,luka doncic,False,31.5,-155,2023-10-28T00:40:14,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_points_over_under,luka doncic,False,28.5,-110,2023-10-28T00:05:19,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_points_over_under,luka doncic,False,29.5,-115,2023-10-28T00:40:14,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_points_over_under,luka doncic,False,30.5,-105,2023-10-28T01:15:46,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_points_over_under,luka doncic,False,31.5,-105,2023-10-28T02:01:46,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_points_over_under,luka doncic,False,32.5,-115,2023-10-28T01:35:05,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_points_over_under,luka doncic,False,33.5,-115,2023-10-28T02:10:08,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_points_over_under,luka doncic,False,34.5,-120,2023-10-28T02:01:46,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_points_over_under,luka doncic,False,38.5,105,2023-10-28T02:40:07,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_points_over_under,luka doncic,True,32.5,-115,2023-10-28T01:35:05,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_points_over_under,luka doncic,False,28.5,-105,2023-10-28T00:45:07,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_points_over_under,luka doncic,True,31.5,-130,2023-10-28T02:01:46,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_points_over_under,luka doncic,True,29.5,-115,2023-10-28T00:40:14,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_points_over_under,luka doncic,False,30.5,-113,2023-10-28T01:10:11,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_points_over_under,luka doncic,False,31.5,100,2023-10-28T01:32:22,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_points_over_under,luka doncic,False,32.5,102,2023-10-28T02:05:21,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_points_over_under,luka doncic,False,33.5,104,2023-10-28T02:10:07,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_points_over_under,luka doncic,False,34.5,-115,2023-10-28T01:57:13,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_points_over_under,luka doncic,False,38.5,-132,2023-10-28T02:15:04,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_points_over_under,luka doncic,False,39.5,-132,2023-10-28T02:40:04,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_points_over_under,luka doncic,False,40.5,104,2023-10-28T02:30:08,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_points_over_under,luka doncic,False,41.5,108,2023-10-28T02:45:15,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,fanduel,player_points_over_under,luka doncic,False,49.5,-100000,2023-10-28T02:55:23,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,pinnacle,player_points_over_under,luka doncic,True,28.5,-156,2023-10-27T23:25:06,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,pinnacle,player_points_over_under,luka doncic,True,29.5,-127,2023-10-28T00:20:23,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,pinnacle,player_points_over_under,luka doncic,False,28.5,117,2023-10-27T23:25:06,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,pinnacle,player_points_over_under,luka doncic,False,29.5,-105,2023-10-28T00:20:23,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_points_over_under,luka doncic,True,26.5,-200,2023-10-28T00:05:19,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_points_over_under,luka doncic,True,27.5,-180,2023-10-28T00:40:14,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_points_over_under,luka doncic,True,28.5,-150,2023-10-28T00:40:14,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_points_over_under,luka doncic,True,29.5,-110,2023-10-28T00:05:19,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_points_over_under,luka doncic,True,30.5,100,2023-10-28T00:40:14,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_points_over_under,luka doncic,True,31.5,120,2023-10-28T00:40:14,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_points_over_under,luka doncic,True,28.5,-120,2023-10-28T00:05:19,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,draftkings,player_points_over_under,luka doncic,True,30.5,-125,2023-10-28T01:15:46,Dallas Mavericks,Brooklyn Nets
+2023-10-27,5e902239ce38cccede66c182ced2b9f2,barstool,player_threes_over_under,luka doncic,False,5.5,-115,2023-10-28T02:20:41,Dallas Mavericks,Brooklyn Nets

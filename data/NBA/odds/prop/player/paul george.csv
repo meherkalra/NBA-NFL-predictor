@@ -1,0 +1,689 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,paul george,True,24.5,108,2023-03-20T02:15:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,paul george,False,27.5,104,2023-03-20T02:45:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,paul george,False,26.5,-130,2023-03-20T02:30:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,paul george,False,23.5,102,2023-03-20T01:30:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,paul george,False,22.5,-114,2023-03-20T01:45:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,paul george,True,29.5,106,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,paul george,True,27.5,-138,2023-03-20T02:45:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,paul george,True,26.5,-102,2023-03-20T02:30:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,paul george,True,23.5,-136,2023-03-20T01:30:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,paul george,True,22.5,-114,2023-03-20T01:45:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_blocks_over_under,paul george,False,0.5,-4000,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_blocks_over_under,paul george,True,0.5,1000,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_assists_over_under,paul george,False,5.5,-150,2023-03-20T01:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_assists_over_under,paul george,False,4.5,172,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_assists_over_under,paul george,True,5.5,122,2023-03-20T01:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_assists_over_under,paul george,True,4.5,-235,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,paul george,False,29.5,-140,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_rebounds_over_under,paul george,True,5.5,134,2023-03-20T02:15:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,paul george,False,24.5,-144,2023-03-20T02:15:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_rebounds_over_under,paul george,True,7.5,172,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_threes_over_under,paul george,False,3.5,-245,2023-03-20T02:30:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_threes_over_under,paul george,False,2.5,-136,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_threes_over_under,paul george,True,3.5,178,2023-03-20T02:30:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_threes_over_under,paul george,True,2.5,102,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_rebounds_over_under,paul george,True,6.5,116,2023-03-20T00:45:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_steals_over_under,paul george,False,2.5,-240,2023-03-20T02:45:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_steals_over_under,paul george,False,1.5,-158,2023-03-20T02:30:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_steals_over_under,paul george,False,0.5,-102,2023-03-20T02:15:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_steals_over_under,paul george,False,3.5,-390,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_steals_over_under,paul george,True,3.5,265,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_steals_over_under,paul george,True,2.5,174,2023-03-20T02:45:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_steals_over_under,paul george,True,1.5,118,2023-03-20T02:30:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_steals_over_under,paul george,True,0.5,-130,2023-03-20T02:15:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_rebounds_over_under,paul george,False,7.5,-235,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_rebounds_over_under,paul george,False,6.5,-144,2023-03-20T00:45:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_rebounds_over_under,paul george,False,5.5,-180,2023-03-20T02:15:01,Portland Trail Blazers,LA Clippers
+2023-03-21,f996c60c33f916f074f45aafad38ee0f,fanduel,player_rebounds_over_under,paul george,False,7.5,-700,2023-03-22T04:45:02,LA Clippers,Oklahoma City Thunder
+2023-03-21,f996c60c33f916f074f45aafad38ee0f,fanduel,player_rebounds_over_under,paul george,False,6.5,-180,2023-03-22T04:30:02,LA Clippers,Oklahoma City Thunder
+2023-03-21,f996c60c33f916f074f45aafad38ee0f,fanduel,player_rebounds_over_under,paul george,False,5.5,112,2023-03-22T03:45:01,LA Clippers,Oklahoma City Thunder
+2023-03-21,f996c60c33f916f074f45aafad38ee0f,fanduel,player_rebounds_over_under,paul george,True,7.5,410,2023-03-22T04:45:02,LA Clippers,Oklahoma City Thunder
+2023-03-21,f996c60c33f916f074f45aafad38ee0f,fanduel,player_points_over_under,paul george,False,26.5,-112,2023-03-22T02:45:01,LA Clippers,Oklahoma City Thunder
+2023-03-21,f996c60c33f916f074f45aafad38ee0f,fanduel,player_rebounds_over_under,paul george,True,5.5,-148,2023-03-22T03:45:01,LA Clippers,Oklahoma City Thunder
+2023-03-21,f996c60c33f916f074f45aafad38ee0f,fanduel,player_points_over_under,paul george,False,25.5,-102,2023-03-22T02:15:01,LA Clippers,Oklahoma City Thunder
+2023-03-21,f996c60c33f916f074f45aafad38ee0f,fanduel,player_steals_over_under,paul george,True,1.5,104,2023-03-22T02:45:01,LA Clippers,Oklahoma City Thunder
+2023-03-21,f996c60c33f916f074f45aafad38ee0f,fanduel,player_rebounds_over_under,paul george,True,6.5,134,2023-03-22T04:30:02,LA Clippers,Oklahoma City Thunder
+2023-03-21,f996c60c33f916f074f45aafad38ee0f,fanduel,player_steals_over_under,paul george,True,2.5,-146,2023-03-22T04:00:01,LA Clippers,Oklahoma City Thunder
+2023-03-21,f996c60c33f916f074f45aafad38ee0f,fanduel,player_threes_over_under,paul george,False,2.5,-180,2023-03-22T03:15:01,LA Clippers,Oklahoma City Thunder
+2023-03-21,f996c60c33f916f074f45aafad38ee0f,fanduel,player_steals_over_under,paul george,False,1.5,-138,2023-03-22T02:45:01,LA Clippers,Oklahoma City Thunder
+2023-03-21,f996c60c33f916f074f45aafad38ee0f,fanduel,player_steals_over_under,paul george,False,2.5,110,2023-03-22T04:00:01,LA Clippers,Oklahoma City Thunder
+2023-03-21,f996c60c33f916f074f45aafad38ee0f,fanduel,player_steals_over_under,paul george,False,3.5,-7000,2023-03-22T04:45:02,LA Clippers,Oklahoma City Thunder
+2023-03-21,f996c60c33f916f074f45aafad38ee0f,fanduel,player_threes_over_under,paul george,True,0.5,880,2023-03-22T04:45:02,LA Clippers,Oklahoma City Thunder
+2023-03-21,f996c60c33f916f074f45aafad38ee0f,fanduel,player_threes_over_under,paul george,True,1.5,106,2023-03-22T04:00:01,LA Clippers,Oklahoma City Thunder
+2023-03-21,f996c60c33f916f074f45aafad38ee0f,fanduel,player_threes_over_under,paul george,True,2.5,134,2023-03-22T03:15:01,LA Clippers,Oklahoma City Thunder
+2023-03-21,f996c60c33f916f074f45aafad38ee0f,fanduel,player_threes_over_under,paul george,False,0.5,-3000,2023-03-22T04:45:02,LA Clippers,Oklahoma City Thunder
+2023-03-21,f996c60c33f916f074f45aafad38ee0f,fanduel,player_threes_over_under,paul george,False,1.5,-140,2023-03-22T04:00:01,LA Clippers,Oklahoma City Thunder
+2023-03-21,f996c60c33f916f074f45aafad38ee0f,fanduel,player_points_over_under,paul george,False,23.5,-166,2023-03-22T04:30:02,LA Clippers,Oklahoma City Thunder
+2023-03-21,f996c60c33f916f074f45aafad38ee0f,fanduel,player_steals_over_under,paul george,True,3.5,1000,2023-03-22T04:45:02,LA Clippers,Oklahoma City Thunder
+2023-03-21,f996c60c33f916f074f45aafad38ee0f,fanduel,player_points_over_under,paul george,False,21.5,-118,2023-03-22T04:15:02,LA Clippers,Oklahoma City Thunder
+2023-03-21,f996c60c33f916f074f45aafad38ee0f,fanduel,player_points_over_under,paul george,False,22.5,104,2023-03-22T03:00:02,LA Clippers,Oklahoma City Thunder
+2023-03-21,f996c60c33f916f074f45aafad38ee0f,fanduel,player_blocks_over_under,paul george,True,1.5,1000,2023-03-22T04:45:02,LA Clippers,Oklahoma City Thunder
+2023-03-21,f996c60c33f916f074f45aafad38ee0f,fanduel,player_assists_over_under,paul george,True,4.5,-148,2023-03-22T03:45:01,LA Clippers,Oklahoma City Thunder
+2023-03-21,f996c60c33f916f074f45aafad38ee0f,fanduel,player_assists_over_under,paul george,True,5.5,580,2023-03-22T04:45:02,LA Clippers,Oklahoma City Thunder
+2023-03-21,f996c60c33f916f074f45aafad38ee0f,fanduel,player_assists_over_under,paul george,False,4.5,114,2023-03-22T03:45:01,LA Clippers,Oklahoma City Thunder
+2023-03-21,f996c60c33f916f074f45aafad38ee0f,fanduel,player_assists_over_under,paul george,False,5.5,-1200,2023-03-22T04:45:02,LA Clippers,Oklahoma City Thunder
+2023-03-21,f996c60c33f916f074f45aafad38ee0f,fanduel,player_blocks_over_under,paul george,True,0.5,172,2023-03-22T02:45:01,LA Clippers,Oklahoma City Thunder
+2023-03-21,f996c60c33f916f074f45aafad38ee0f,fanduel,player_points_over_under,paul george,False,20.5,-118,2023-03-22T03:30:02,LA Clippers,Oklahoma City Thunder
+2023-03-21,f996c60c33f916f074f45aafad38ee0f,fanduel,player_blocks_over_under,paul george,False,0.5,-235,2023-03-22T02:45:01,LA Clippers,Oklahoma City Thunder
+2023-03-21,f996c60c33f916f074f45aafad38ee0f,fanduel,player_blocks_over_under,paul george,False,1.5,-100000,2023-03-22T04:45:02,LA Clippers,Oklahoma City Thunder
+2023-03-21,f996c60c33f916f074f45aafad38ee0f,fanduel,player_points_over_under,paul george,True,18.5,-122,2023-03-22T04:45:02,LA Clippers,Oklahoma City Thunder
+2023-03-21,f996c60c33f916f074f45aafad38ee0f,fanduel,player_points_over_under,paul george,True,20.5,-112,2023-03-22T03:30:02,LA Clippers,Oklahoma City Thunder
+2023-03-21,f996c60c33f916f074f45aafad38ee0f,fanduel,player_points_over_under,paul george,True,21.5,-112,2023-03-22T04:15:02,LA Clippers,Oklahoma City Thunder
+2023-03-21,f996c60c33f916f074f45aafad38ee0f,fanduel,player_points_over_under,paul george,True,22.5,-138,2023-03-22T03:00:02,LA Clippers,Oklahoma City Thunder
+2023-03-21,f996c60c33f916f074f45aafad38ee0f,fanduel,player_points_over_under,paul george,True,23.5,124,2023-03-22T04:30:02,LA Clippers,Oklahoma City Thunder
+2023-03-21,f996c60c33f916f074f45aafad38ee0f,fanduel,player_points_over_under,paul george,True,25.5,-120,2023-03-22T02:15:01,LA Clippers,Oklahoma City Thunder
+2023-03-21,f996c60c33f916f074f45aafad38ee0f,fanduel,player_points_over_under,paul george,True,26.5,-118,2023-03-22T02:45:01,LA Clippers,Oklahoma City Thunder
+2023-03-21,f996c60c33f916f074f45aafad38ee0f,fanduel,player_points_over_under,paul george,False,18.5,-108,2023-03-22T04:45:02,LA Clippers,Oklahoma City Thunder
+2023-03-21,f996c60c33f916f074f45aafad38ee0f,fanduel,player_points_over_under,paul george,False,19.5,-136,2023-03-22T04:00:01,LA Clippers,Oklahoma City Thunder
+2023-03-21,f996c60c33f916f074f45aafad38ee0f,fanduel,player_points_over_under,paul george,True,19.5,102,2023-03-22T04:00:01,LA Clippers,Oklahoma City Thunder
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_steals_over_under,paul george,True,1.5,170,2023-10-26T04:06:05,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,betmgm,player_steals_over_under,paul george,False,1.5,-200,2023-10-26T02:46:07,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,betrivers,player_steals_over_under,paul george,True,1.5,125,2023-10-26T02:55:32,LA Clippers,Portland Trail Blazers
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,paul george,True,21.5,-125,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_threes_over_under,paul george,True,3.5,235,2023-10-26T04:35:48,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_threes_over_under,paul george,True,4.5,410,2023-10-26T04:40:05,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_threes_over_under,paul george,False,2.5,142,2023-10-26T04:10:18,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_threes_over_under,paul george,True,2.5,-192,2023-10-26T04:10:18,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,betmgm,player_steals_over_under,paul george,True,1.5,150,2023-10-26T02:46:07,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_steals_over_under,paul george,False,4.5,-3000,2023-10-26T04:20:16,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_steals_over_under,paul george,False,3.5,-2500,2023-10-26T04:39:33,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_steals_over_under,paul george,False,2.5,-185,2023-10-26T03:40:52,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_steals_over_under,paul george,False,1.5,-400,2023-10-26T04:10:44,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_steals_over_under,paul george,True,4.5,800,2023-10-26T04:20:13,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_steals_over_under,paul george,True,3.5,850,2023-10-26T04:39:33,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_steals_over_under,paul george,True,2.5,140,2023-10-26T03:40:52,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_steals_over_under,paul george,True,1.5,270,2023-10-26T04:10:44,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_threes_over_under,paul george,False,3.5,-340,2023-10-26T04:35:48,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_steals_over_under,paul george,False,4.5,-2000,2023-10-26T04:20:13,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_threes_over_under,paul george,False,4.5,-3500,2023-10-26T04:46:45,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,betmgm,player_threes_over_under,paul george,False,2.5,125,2023-10-26T02:46:07,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,pinnacle,player_threes_over_under,paul george,False,2.5,113,2023-10-26T01:55:13,LA Clippers,Portland Trail Blazers
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_blocks_over_under,paul george,True,0.5,255,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,betrivers,player_threes_over_under,paul george,True,3.5,150,2023-10-26T02:55:32,LA Clippers,Portland Trail Blazers
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_blocks_over_under,paul george,False,0.5,-340,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,betrivers,player_threes_over_under,paul george,True,2.5,-177,2023-10-26T02:55:32,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_threes_over_under,paul george,False,4.5,-450,2023-10-25T11:10:14,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_threes_over_under,paul george,False,3.5,-190,2023-10-25T18:16:43,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_threes_over_under,paul george,False,2.5,135,2023-10-26T04:10:07,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_threes_over_under,paul george,True,4.5,300,2023-10-25T11:10:14,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_threes_over_under,paul george,True,3.5,135,2023-10-25T18:16:43,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_threes_over_under,paul george,True,2.5,-190,2023-10-26T04:10:07,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,betmgm,player_threes_over_under,paul george,True,2.5,-165,2023-10-26T02:46:07,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_threes_over_under,paul george,False,4.5,-525,2023-10-26T04:39:33,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_threes_over_under,paul george,False,3.5,-1000,2023-10-26T04:30:06,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_threes_over_under,paul george,False,2.5,145,2023-10-26T04:10:44,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_threes_over_under,paul george,True,4.5,340,2023-10-26T04:39:33,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_threes_over_under,paul george,True,3.5,550,2023-10-26T04:30:06,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_threes_over_under,paul george,True,2.5,-195,2023-10-26T04:10:44,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,pinnacle,player_threes_over_under,paul george,True,2.5,-151,2023-10-26T01:55:13,LA Clippers,Portland Trail Blazers
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,paul george,False,21.5,100,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_assists_over_under,paul george,True,4.5,-114,2023-10-26T04:00:11,LA Clippers,Portland Trail Blazers
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_steals_over_under,paul george,False,1.5,-190,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,paul george,False,23.5,-155,2023-10-24T17:36:30,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,paul george,False,21.5,105,2023-10-24T17:36:30,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,paul george,False,20.5,130,2023-10-24T17:36:30,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,paul george,True,22.5,-105,2023-10-24T17:36:30,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,paul george,True,21.5,-125,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,paul george,True,24.5,150,2023-10-24T17:36:30,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,paul george,True,23.5,120,2023-10-24T17:36:30,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,paul george,True,21.5,-130,2023-10-24T17:36:30,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,paul george,True,20.5,-165,2023-10-24T17:36:30,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_blocks_over_under,paul george,False,0.5,-400,2023-10-24T17:37:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_blocks_over_under,paul george,True,0.5,275,2023-10-24T17:37:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_blocks_over_under,paul george,False,0.5,-340,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_blocks_over_under,paul george,True,0.5,255,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_assists_over_under,paul george,False,4.5,-165,2023-10-24T17:37:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_assists_over_under,paul george,True,4.5,125,2023-10-24T17:37:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_assists_over_under,paul george,False,4.5,-160,2023-10-24T17:36:30,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_assists_over_under,paul george,True,4.5,125,2023-10-24T17:36:30,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,paul george,False,24.5,-190,2023-10-24T17:36:30,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,paul george,False,21.5,100,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,paul george,False,22.5,-125,2023-10-24T17:36:30,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,paul george,True,19.5,-190,2023-10-24T18:00:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_steals_over_under,paul george,False,3.5,-100000,2023-10-26T04:46:45,LA Clippers,Portland Trail Blazers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_threes_over_under,paul george,False,2.5,115,2023-10-24T17:37:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_threes_over_under,paul george,True,2.5,-150,2023-10-24T17:37:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_threes_over_under,paul george,False,2.5,115,2023-10-24T17:36:30,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_threes_over_under,paul george,True,2.5,-150,2023-10-24T17:36:30,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_steals_over_under,paul george,False,1.5,-200,2023-10-24T17:37:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_steals_over_under,paul george,True,1.5,150,2023-10-24T17:37:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_steals_over_under,paul george,False,1.5,-190,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_steals_over_under,paul george,True,1.5,145,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_steals_over_under,paul george,True,1.5,145,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_rebounds_over_under,paul george,True,5.5,120,2023-10-24T18:00:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_rebounds_over_under,paul george,False,5.5,-155,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_rebounds_over_under,paul george,True,5.5,120,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,paul george,False,22.5,-125,2023-10-24T17:37:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,paul george,False,21.5,105,2023-10-24T18:00:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,paul george,False,19.5,145,2023-10-24T18:00:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,paul george,True,22.5,-105,2023-10-24T17:37:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,paul george,True,21.5,-132,2023-10-24T18:00:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_rebounds_over_under,paul george,False,5.5,-160,2023-10-24T18:00:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_steals_over_under,paul george,False,2.5,-194,2023-10-26T03:40:09,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_steals_over_under,paul george,False,1.5,-260,2023-10-26T04:06:05,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_steals_over_under,paul george,True,4.5,880,2023-10-26T04:20:16,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,paul george,True,20.5,-165,2023-10-26T02:45:06,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,pinnacle,player_points_over_under,paul george,False,22.5,-117,2023-10-26T01:55:13,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,pinnacle,player_points_over_under,paul george,True,22.5,-113,2023-10-26T01:55:13,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_points_over_under,paul george,False,28.5,-215,2023-10-26T04:40:05,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_points_over_under,paul george,False,27.5,-265,2023-10-26T04:50:12,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_points_over_under,paul george,False,26.5,-122,2023-10-26T03:40:09,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_points_over_under,paul george,False,25.5,-150,2023-10-26T04:20:16,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_points_over_under,paul george,False,24.5,-132,2023-10-26T04:30:04,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,paul george,True,21.5,-130,2023-10-26T02:45:06,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_points_over_under,paul george,False,23.5,136,2023-10-26T04:35:48,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_points_over_under,paul george,False,21.5,-113,2023-10-26T03:00:10,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_points_over_under,paul george,False,19.5,-125,2023-10-26T03:05:14,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_points_over_under,paul george,False,18.5,-120,2023-10-26T03:10:05,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_points_over_under,paul george,False,17.5,-118,2023-10-26T03:20:15,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_points_over_under,paul george,True,28.5,164,2023-10-26T04:40:05,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_points_over_under,paul george,True,27.5,200,2023-10-26T04:50:12,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_points_over_under,paul george,True,26.5,-104,2023-10-26T03:40:09,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_points_over_under,paul george,True,25.5,118,2023-10-26T04:20:16,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_points_over_under,paul george,False,22.5,104,2023-10-26T04:00:11,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,paul george,True,22.5,-130,2023-10-26T00:56:12,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,paul george,True,23.5,120,2023-10-26T02:45:06,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,paul george,True,24.5,150,2023-10-26T02:45:06,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,paul george,False,22.5,-340,2023-10-26T04:30:06,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,paul george,False,21.5,-125,2023-10-26T03:00:18,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,paul george,False,18.5,-115,2023-10-26T03:15:08,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,paul george,False,17.5,-120,2023-10-26T03:15:08,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_steals_over_under,paul george,False,1.5,-420,2023-10-26T04:10:18,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,paul george,False,24.5,-190,2023-10-26T02:45:06,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,paul george,False,23.5,-150,2023-10-26T02:45:06,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,paul george,False,22.5,100,2023-10-26T00:56:12,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,paul george,False,21.5,105,2023-10-26T02:45:06,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,paul george,False,20.5,130,2023-10-26T02:45:06,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,paul george,True,27.5,115,2023-10-26T04:39:33,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,paul george,True,25.5,100,2023-10-26T03:25:05,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,paul george,True,24.5,-125,2023-10-26T04:10:44,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,paul george,True,23.5,-125,2023-10-26T04:10:44,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,paul george,True,22.5,235,2023-10-26T04:30:06,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,paul george,True,21.5,-105,2023-10-26T03:00:18,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,paul george,True,18.5,-115,2023-10-26T03:15:08,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,paul george,True,17.5,-110,2023-10-26T03:15:08,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,paul george,True,25.5,150,2023-10-26T00:56:12,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_points_over_under,paul george,True,24.5,104,2023-10-26T04:30:04,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_points_over_under,paul george,True,23.5,-174,2023-10-26T04:35:48,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_points_over_under,paul george,True,22.5,-132,2023-10-26T04:00:11,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_points_over_under,paul george,True,21.5,-113,2023-10-26T03:00:10,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_assists_over_under,paul george,False,3.5,160,2023-10-25T11:10:14,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_assists_over_under,paul george,True,5.5,135,2023-10-26T04:10:07,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_assists_over_under,paul george,True,4.5,-120,2023-10-26T04:00:53,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_assists_over_under,paul george,True,3.5,-210,2023-10-25T11:10:14,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,betmgm,player_assists_over_under,paul george,False,4.5,-150,2023-10-26T02:46:07,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,betmgm,player_assists_over_under,paul george,True,4.5,110,2023-10-26T02:46:07,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_assists_over_under,paul george,False,6.5,-500,2023-10-26T04:39:33,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_assists_over_under,paul george,False,5.5,-700,2023-10-26T04:30:06,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_assists_over_under,paul george,False,4.5,-115,2023-10-26T04:00:10,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_assists_over_under,paul george,True,6.5,320,2023-10-26T04:39:33,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_assists_over_under,paul george,True,5.5,400,2023-10-26T04:30:06,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_assists_over_under,paul george,True,4.5,-115,2023-10-26T04:00:10,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,pinnacle,player_assists_over_under,paul george,False,4.5,-149,2023-10-26T01:55:13,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,pinnacle,player_assists_over_under,paul george,True,4.5,111,2023-10-26T01:55:13,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_assists_over_under,paul george,False,6.5,-100000,2023-10-26T04:46:45,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_assists_over_under,paul george,False,5.5,-700,2023-10-26T04:30:04,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_assists_over_under,paul george,False,4.5,-114,2023-10-26T04:00:11,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_assists_over_under,paul george,True,6.5,1000,2023-10-26T04:46:45,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_assists_over_under,paul george,True,5.5,410,2023-10-26T04:30:04,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_assists_over_under,paul george,False,4.5,-120,2023-10-26T04:00:53,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,paul george,False,23.5,-105,2023-10-26T04:10:44,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_assists_over_under,paul george,False,5.5,-190,2023-10-26T04:10:07,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,betrivers,player_assists_over_under,paul george,True,4.5,107,2023-10-26T02:55:32,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_points_over_under,paul george,True,19.5,-102,2023-10-26T03:05:14,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_points_over_under,paul george,True,18.5,-106,2023-10-26T03:10:05,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_points_over_under,paul george,True,17.5,-108,2023-10-26T03:20:15,LA Clippers,Portland Trail Blazers
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,paul george,False,25.5,-195,2023-10-25T15:06:02,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,paul george,False,24.5,-155,2023-10-25T15:06:02,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,paul george,False,22.5,100,2023-10-25T15:06:02,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,paul george,False,21.5,125,2023-10-25T15:06:02,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,paul george,True,25.5,150,2023-10-25T15:06:02,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,paul george,True,24.5,120,2023-10-25T15:06:02,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,paul george,True,22.5,-130,2023-10-25T15:06:02,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,paul george,True,21.5,-165,2023-10-25T15:06:02,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_blocks_over_under,paul george,False,0.5,-325,2023-10-26T02:45:40,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_blocks_over_under,paul george,True,0.5,220,2023-10-26T02:45:40,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,betmgm,player_blocks_over_under,paul george,False,0.5,-350,2023-10-26T02:46:07,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,betmgm,player_blocks_over_under,paul george,True,0.5,230,2023-10-26T02:46:07,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_blocks_over_under,paul george,False,0.5,-5000,2023-10-26T04:15:46,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_blocks_over_under,paul george,True,0.5,1000,2023-10-26T04:15:46,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_blocks_over_under,paul george,False,0.5,-100000,2023-10-26T04:46:45,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_blocks_over_under,paul george,True,0.5,1000,2023-10-26T04:15:07,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,betrivers,player_assists_over_under,paul george,True,3.5,-220,2023-10-26T02:55:32,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,paul george,False,24.5,-105,2023-10-26T04:10:44,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,paul george,False,25.5,-195,2023-10-26T00:56:12,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,paul george,False,27.5,-155,2023-10-26T04:39:33,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_rebounds_over_under,paul george,False,1.5,-550,2023-10-26T04:30:06,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_rebounds_over_under,paul george,True,5.5,110,2023-10-26T03:00:18,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_rebounds_over_under,paul george,True,4.5,125,2023-10-26T03:25:05,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_rebounds_over_under,paul george,True,3.5,250,2023-10-26T04:39:33,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_rebounds_over_under,paul george,True,2.5,100,2023-10-26T04:10:44,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_rebounds_over_under,paul george,True,1.5,350,2023-10-26T04:30:06,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,pinnacle,player_rebounds_over_under,paul george,False,4.5,142,2023-10-26T01:55:13,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,pinnacle,player_rebounds_over_under,paul george,True,4.5,-193,2023-10-26T01:55:13,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_rebounds_over_under,paul george,False,2.5,-130,2023-10-26T04:10:44,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_rebounds_over_under,paul george,False,5.5,-152,2023-10-26T03:00:10,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_rebounds_over_under,paul george,False,3.5,-100000,2023-10-26T04:46:45,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_rebounds_over_under,paul george,False,2.5,-130,2023-10-26T04:35:48,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_rebounds_over_under,paul george,False,1.5,-580,2023-10-26T04:30:04,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,paul george,False,25.5,-130,2023-10-26T03:25:05,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_rebounds_over_under,paul george,True,4.5,128,2023-10-26T03:25:07,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_rebounds_over_under,paul george,True,3.5,1000,2023-10-26T04:46:45,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_rebounds_over_under,paul george,True,2.5,-102,2023-10-26T04:35:48,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_rebounds_over_under,paul george,True,1.5,360,2023-10-26T04:30:04,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_rebounds_over_under,paul george,False,4.5,-172,2023-10-26T03:25:07,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_rebounds_over_under,paul george,False,3.5,-360,2023-10-26T04:39:33,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_rebounds_over_under,paul george,False,4.5,-165,2023-10-26T03:25:05,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_rebounds_over_under,paul george,False,5.5,-150,2023-10-26T03:00:18,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_steals_over_under,paul george,True,3.5,1000,2023-10-26T04:46:45,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_steals_over_under,paul george,True,2.5,144,2023-10-26T03:40:09,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_steals_over_under,paul george,True,1.5,280,2023-10-26T04:10:18,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,betrivers,player_rebounds_over_under,paul george,True,5.5,112,2023-10-26T02:55:32,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,betrivers,player_rebounds_over_under,paul george,True,4.5,-190,2023-10-26T02:55:32,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_rebounds_over_under,paul george,False,6.5,-300,2023-10-25T11:10:14,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_rebounds_over_under,paul george,False,5.5,-150,2023-10-26T03:00:05,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_rebounds_over_under,paul george,False,4.5,-170,2023-10-26T03:25:46,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_rebounds_over_under,paul george,False,3.5,-105,2023-10-26T03:35:04,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_rebounds_over_under,paul george,False,2.5,-150,2023-10-26T04:10:07,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_rebounds_over_under,paul george,True,6.5,210,2023-10-25T11:10:14,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_rebounds_over_under,paul george,True,5.5,105,2023-10-26T03:00:05,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_rebounds_over_under,paul george,True,4.5,120,2023-10-26T03:25:46,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_rebounds_over_under,paul george,True,3.5,-135,2023-10-26T03:35:04,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_rebounds_over_under,paul george,True,2.5,105,2023-10-26T04:10:07,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,betmgm,player_rebounds_over_under,paul george,False,5.5,-145,2023-10-26T00:50:56,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,betmgm,player_rebounds_over_under,paul george,False,4.5,110,2023-10-26T02:46:07,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,betmgm,player_rebounds_over_under,paul george,True,5.5,110,2023-10-26T00:50:56,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,betmgm,player_rebounds_over_under,paul george,True,4.5,-150,2023-10-26T02:46:07,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,betrivers,player_points_over_under,paul george,True,26.5,195,2023-10-26T02:55:32,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,betrivers,player_points_over_under,paul george,True,25.5,155,2023-10-26T02:55:32,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_rebounds_over_under,paul george,True,5.5,114,2023-10-26T03:00:10,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_points_over_under,paul george,False,19.5,-120,2023-10-26T03:05:09,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,betrivers,player_points_over_under,paul george,True,19.5,-286,2023-10-26T02:55:32,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_points_over_under,paul george,False,26.5,-120,2023-10-26T03:35:04,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_points_over_under,paul george,False,25.5,-135,2023-10-26T03:31:06,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_points_over_under,paul george,False,24.5,-130,2023-10-26T04:06:05,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_points_over_under,paul george,False,23.5,-120,2023-10-26T04:10:07,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_points_over_under,paul george,False,22.5,-125,2023-10-26T04:00:53,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_points_over_under,paul george,False,21.5,-130,2023-10-26T03:00:05,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,betrivers,player_points_over_under,paul george,True,24.5,128,2023-10-26T02:55:32,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_points_over_under,paul george,True,17.5,-115,2023-10-26T03:15:17,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_points_over_under,paul george,False,17.5,-125,2023-10-26T03:15:17,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_points_over_under,paul george,True,26.5,-120,2023-10-26T03:35:04,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_points_over_under,paul george,True,25.5,-105,2023-10-26T03:31:06,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_points_over_under,paul george,True,24.5,-110,2023-10-26T04:06:05,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_points_over_under,paul george,True,23.5,-120,2023-10-26T04:10:07,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_points_over_under,paul george,True,22.5,-115,2023-10-26T04:00:53,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,betrivers,player_points_over_under,paul george,True,20.5,-210,2023-10-26T02:55:32,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,betrivers,player_points_over_under,paul george,True,21.5,-157,2023-10-26T02:55:32,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,betrivers,player_points_over_under,paul george,True,22.5,-122,2023-10-26T02:55:32,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,betrivers,player_points_over_under,paul george,True,23.5,104,2023-10-26T02:55:32,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_points_over_under,paul george,True,21.5,-110,2023-10-26T03:00:05,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,betmgm,player_points_over_under,paul george,True,22.5,-110,2023-10-26T02:46:07,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_points_over_under,paul george,True,19.5,-120,2023-10-26T03:05:09,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,betmgm,player_points_over_under,paul george,False,22.5,-120,2023-10-26T02:46:07,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,betmgm,player_points_over_under,paul george,False,23.5,-130,2023-10-26T00:50:56,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,betmgm,player_points_over_under,paul george,True,23.5,-105,2023-10-26T00:50:56,LA Clippers,Portland Trail Blazers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_blocks_over_under,paul george,True,0.5,1200,2023-10-28T03:40:42,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_blocks_over_under,paul george,False,0.5,-20000,2023-10-28T03:40:42,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,betmgm,player_blocks_over_under,paul george,True,0.5,240,2023-10-27T18:15:57,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,betmgm,player_blocks_over_under,paul george,False,0.5,-350,2023-10-27T12:55:05,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_blocks_over_under,paul george,True,1.5,1400,2023-10-27T20:30:07,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_blocks_over_under,paul george,False,0.5,-400,2023-10-28T01:55:19,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_blocks_over_under,paul george,False,1.5,-5000,2023-10-27T20:30:07,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,betrivers,player_blocks_over_under,paul george,True,0.5,-122,2023-10-27T11:15:04,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_points_over_under,paul george,True,22.5,-120,2023-10-28T02:00:38,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_points_over_under,paul george,True,23.5,-108,2023-10-28T01:45:33,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_points_over_under,paul george,True,24.5,-108,2023-10-28T02:35:37,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_blocks_over_under,paul george,True,0.5,250,2023-10-28T01:55:19,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,betmgm,player_assists_over_under,paul george,True,3.5,-165,2023-10-27T17:21:29,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_blocks_over_under,paul george,False,0.5,-50000,2023-10-28T03:55:10,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,betmgm,player_assists_over_under,paul george,True,4.5,105,2023-10-27T18:25:05,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,betmgm,player_assists_over_under,paul george,False,3.5,125,2023-10-27T17:21:29,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,betmgm,player_assists_over_under,paul george,False,4.5,-145,2023-10-27T18:15:57,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_assists_over_under,paul george,True,1.5,110,2023-10-28T03:11:11,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_assists_over_under,paul george,True,2.5,130,2023-10-28T02:40:19,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_assists_over_under,paul george,True,3.5,120,2023-10-28T02:10:05,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_assists_over_under,paul george,True,4.5,110,2023-10-28T01:50:05,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_assists_over_under,paul george,False,1.5,-160,2023-10-28T03:11:11,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_assists_over_under,paul george,False,2.5,-185,2023-10-28T02:40:19,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_assists_over_under,paul george,False,3.5,-170,2023-10-28T02:10:05,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_assists_over_under,paul george,False,4.5,-160,2023-10-28T01:50:05,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,betrivers,player_assists_over_under,paul george,True,3.5,-162,2023-10-28T02:35:30,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,betrivers,player_assists_over_under,paul george,True,4.5,-105,2023-10-28T02:35:30,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,betrivers,player_assists_over_under,paul george,True,5.5,143,2023-10-27T11:20:04,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_blocks_over_under,paul george,True,0.5,1000,2023-10-28T03:45:05,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_points_over_under,paul george,True,25.5,-113,2023-10-28T02:30:04,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_points_over_under,paul george,True,26.5,104,2023-10-28T03:11:11,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,betrivers,player_rebounds_over_under,paul george,True,5.5,148,2023-10-28T02:35:30,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_points_over_under,paul george,True,28.5,106,2023-10-28T03:05:08,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_rebounds_over_under,paul george,True,3.5,-165,2023-10-28T01:55:19,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_rebounds_over_under,paul george,True,4.5,-105,2023-10-28T03:11:11,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_rebounds_over_under,paul george,True,5.5,125,2023-10-28T02:55:11,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_rebounds_over_under,paul george,False,3.5,115,2023-10-28T01:55:19,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_rebounds_over_under,paul george,False,4.5,-135,2023-10-28T03:11:11,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_rebounds_over_under,paul george,False,5.5,-180,2023-10-28T02:55:11,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,betmgm,player_rebounds_over_under,paul george,False,4.5,-125,2023-10-27T18:15:57,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,betrivers,player_rebounds_over_under,paul george,True,4.5,-141,2023-10-28T02:35:30,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_steals_over_under,paul george,True,0.5,920,2023-10-28T03:55:10,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_steals_over_under,paul george,True,1.5,146,2023-10-28T01:57:13,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_steals_over_under,paul george,False,0.5,-3500,2023-10-28T03:55:10,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_steals_over_under,paul george,False,1.5,-200,2023-10-28T01:57:13,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_steals_over_under,paul george,True,0.5,900,2023-10-28T03:55:37,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_steals_over_under,paul george,True,1.5,120,2023-10-28T02:01:46,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_assists_over_under,paul george,False,4.5,-125,2023-10-28T02:01:46,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,betmgm,player_rebounds_over_under,paul george,True,4.5,-105,2023-10-27T17:35:09,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_rebounds_over_under,paul george,False,5.5,-185,2023-10-28T03:10:50,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_rebounds_over_under,paul george,False,4.5,-425,2023-10-28T03:55:37,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,betrivers,player_points_over_under,paul george,True,21.5,-186,2023-10-28T02:35:30,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,betrivers,player_points_over_under,paul george,True,22.5,-141,2023-10-28T02:35:30,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,betrivers,player_points_over_under,paul george,True,23.5,-112,2023-10-28T02:35:30,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,betrivers,player_points_over_under,paul george,True,24.5,114,2023-10-28T02:35:30,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,betrivers,player_points_over_under,paul george,True,25.5,140,2023-10-28T02:35:30,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,betrivers,player_points_over_under,paul george,True,26.5,170,2023-10-28T02:35:30,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,betrivers,player_points_over_under,paul george,True,27.5,210,2023-10-28T02:35:30,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_rebounds_over_under,paul george,True,3.5,-146,2023-10-28T01:57:13,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_rebounds_over_under,paul george,True,4.5,290,2023-10-28T03:55:10,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_rebounds_over_under,paul george,True,5.5,140,2023-10-28T03:11:11,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_rebounds_over_under,paul george,False,3.5,110,2023-10-28T01:57:13,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_rebounds_over_under,paul george,False,4.5,-440,2023-10-28T03:55:10,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_rebounds_over_under,paul george,False,5.5,-188,2023-10-28T03:11:11,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_rebounds_over_under,paul george,True,4.5,285,2023-10-28T03:55:37,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_rebounds_over_under,paul george,True,5.5,140,2023-10-28T03:10:50,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_steals_over_under,paul george,False,0.5,-3000,2023-10-28T03:55:37,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,betrivers,player_points_over_under,paul george,True,20.5,-250,2023-10-28T02:35:30,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_steals_over_under,paul george,False,1.5,-155,2023-10-28T02:01:46,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,betmgm,player_steals_over_under,paul george,False,1.5,-150,2023-10-27T18:30:36,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_threes_over_under,paul george,False,2.5,-250,2023-10-28T03:50:04,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_threes_over_under,paul george,False,3.5,-700,2023-10-28T03:55:37,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,betmgm,player_threes_over_under,paul george,True,2.5,-175,2023-10-27T15:46:00,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,betmgm,player_threes_over_under,paul george,True,3.5,125,2023-10-27T18:15:57,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,betmgm,player_threes_over_under,paul george,False,2.5,130,2023-10-27T15:46:00,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,betmgm,player_threes_over_under,paul george,False,3.5,-165,2023-10-27T18:15:57,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_threes_over_under,paul george,False,1.5,-235,2023-10-28T03:10:50,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_threes_over_under,paul george,True,0.5,-240,2023-10-28T03:11:11,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_threes_over_under,paul george,True,2.5,-120,2023-10-28T03:35:07,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_threes_over_under,paul george,True,3.5,125,2023-10-28T00:06:26,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_threes_over_under,paul george,False,0.5,160,2023-10-28T03:11:11,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_threes_over_under,paul george,False,1.5,-170,2023-10-28T03:05:18,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_threes_over_under,paul george,False,2.5,-120,2023-10-28T03:35:07,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_threes_over_under,paul george,False,3.5,-175,2023-10-28T00:06:26,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_threes_over_under,paul george,True,1.5,120,2023-10-28T03:05:18,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_threes_over_under,paul george,True,3.5,400,2023-10-28T03:55:37,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_threes_over_under,paul george,True,2.5,180,2023-10-28T03:50:04,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_threes_over_under,paul george,True,1.5,170,2023-10-28T03:10:50,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_steals_over_under,paul george,True,0.5,250,2023-10-28T03:35:07,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_steals_over_under,paul george,True,1.5,130,2023-10-28T01:55:19,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_steals_over_under,paul george,False,0.5,-400,2023-10-28T03:35:07,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_steals_over_under,paul george,False,1.5,-185,2023-10-28T01:55:19,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,betrivers,player_steals_over_under,paul george,True,1.5,132,2023-10-28T02:35:30,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_threes_over_under,paul george,True,1.5,182,2023-10-28T03:11:11,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_threes_over_under,paul george,True,2.5,144,2023-10-28T03:45:05,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_threes_over_under,paul george,True,3.5,134,2023-10-28T01:50:07,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_threes_over_under,paul george,False,1.5,-250,2023-10-28T03:11:11,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_threes_over_under,paul george,False,2.5,-194,2023-10-28T03:45:05,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_threes_over_under,paul george,False,3.5,-180,2023-10-28T01:50:07,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,pinnacle,player_threes_over_under,paul george,True,2.5,-178,2023-10-28T01:05:09,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,pinnacle,player_threes_over_under,paul george,True,3.5,130,2023-10-27T21:35:07,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,pinnacle,player_threes_over_under,paul george,False,2.5,131,2023-10-28T01:05:09,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,pinnacle,player_threes_over_under,paul george,False,3.5,-176,2023-10-27T21:35:07,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,betmgm,player_steals_over_under,paul george,True,1.5,115,2023-10-27T18:15:57,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,betrivers,player_points_over_under,paul george,True,19.5,-360,2023-10-28T02:35:30,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_points_over_under,paul george,False,35.5,-110,2023-10-28T03:35:07,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_points_over_under,paul george,False,34.5,-120,2023-10-28T03:20:07,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_points_over_under,paul george,True,23.5,-120,2023-10-28T00:05:19,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_points_over_under,paul george,True,24.5,110,2023-10-28T02:01:46,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_points_over_under,paul george,True,25.5,140,2023-10-28T02:01:46,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_points_over_under,paul george,True,26.5,135,2023-10-28T00:05:19,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_points_over_under,paul george,True,23.5,-110,2023-10-28T02:01:46,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_points_over_under,paul george,True,24.5,-130,2023-10-28T02:36:09,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_points_over_under,paul george,True,22.5,-140,2023-10-28T02:01:46,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_points_over_under,paul george,True,25.5,-110,2023-10-28T02:15:46,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_points_over_under,paul george,True,27.5,-105,2023-10-28T03:00:23,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_points_over_under,paul george,True,28.5,-105,2023-10-28T03:05:04,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_points_over_under,paul george,True,33.5,-110,2023-10-28T03:50:04,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_points_over_under,paul george,True,34.5,100,2023-10-28T03:55:37,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_points_over_under,paul george,True,35.5,100,2023-10-28T03:35:04,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_points_over_under,paul george,True,36.5,-120,2023-10-28T03:20:06,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_points_over_under,paul george,True,26.5,-115,2023-10-28T03:10:50,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_points_over_under,paul george,True,21.5,-180,2023-10-28T02:01:46,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,pinnacle,player_points_over_under,paul george,False,24.5,-149,2023-10-27T21:26:29,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,pinnacle,player_points_over_under,paul george,False,23.5,-147,2023-10-28T01:05:09,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_points_over_under,paul george,True,34.5,130,2023-10-28T03:45:05,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_points_over_under,paul george,True,35.5,104,2023-10-28T03:35:14,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_points_over_under,paul george,True,36.5,-104,2023-10-28T03:30:04,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_points_over_under,paul george,False,22.5,-106,2023-10-28T02:00:38,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_points_over_under,paul george,False,23.5,-112,2023-10-28T01:45:33,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_points_over_under,paul george,False,24.5,-118,2023-10-28T02:35:37,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_points_over_under,paul george,False,25.5,-113,2023-10-28T02:30:04,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_points_over_under,paul george,False,26.5,-132,2023-10-28T03:11:11,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_points_over_under,paul george,False,27.5,-138,2023-10-28T03:00:05,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_points_over_under,paul george,False,28.5,-136,2023-10-28T03:05:08,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_points_over_under,paul george,False,34.5,-166,2023-10-28T03:45:05,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_points_over_under,paul george,False,35.5,-132,2023-10-28T03:35:14,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_points_over_under,paul george,False,36.5,-122,2023-10-28T03:30:04,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,pinnacle,player_points_over_under,paul george,True,23.5,113,2023-10-28T01:05:09,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,pinnacle,player_points_over_under,paul george,True,24.5,114,2023-10-27T21:26:29,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_points_over_under,paul george,False,21.5,140,2023-10-28T02:01:46,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_points_over_under,paul george,False,22.5,110,2023-10-28T02:01:46,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_points_over_under,paul george,False,23.5,-105,2023-10-28T00:05:19,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_points_over_under,paul george,False,24.5,-145,2023-10-28T02:01:46,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_points_over_under,paul george,True,25.5,-110,2023-10-28T02:37:05,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_points_over_under,paul george,True,26.5,-110,2023-10-28T03:11:11,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_points_over_under,paul george,True,27.5,-105,2023-10-28T03:00:05,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_points_over_under,paul george,True,28.5,-115,2023-10-28T03:05:18,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_points_over_under,paul george,True,33.5,-115,2023-10-28T03:50:04,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_points_over_under,paul george,True,34.5,-120,2023-10-28T03:20:07,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_points_over_under,paul george,True,35.5,-130,2023-10-28T03:35:07,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_points_over_under,paul george,False,22.5,-115,2023-10-28T01:50:05,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_points_over_under,paul george,False,23.5,-120,2023-10-28T01:55:19,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_points_over_under,paul george,False,24.5,-115,2023-10-28T02:25:05,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_points_over_under,paul george,False,25.5,-130,2023-10-28T02:37:05,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_points_over_under,paul george,False,26.5,-130,2023-10-28T03:11:11,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_points_over_under,paul george,False,27.5,-135,2023-10-28T03:00:05,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_points_over_under,paul george,False,28.5,-125,2023-10-28T03:05:18,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_points_over_under,paul george,False,33.5,-125,2023-10-28T03:50:04,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_points_over_under,paul george,True,24.5,-125,2023-10-28T02:25:05,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_points_over_under,paul george,True,27.5,108,2023-10-28T03:00:05,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_points_over_under,paul george,True,23.5,-120,2023-10-28T01:55:19,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,betmgm,player_points_over_under,paul george,False,24.5,-120,2023-10-27T18:15:57,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_points_over_under,paul george,False,25.5,-180,2023-10-28T02:01:46,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_points_over_under,paul george,False,26.5,-175,2023-10-28T00:05:19,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_points_over_under,paul george,False,23.5,-120,2023-10-28T02:01:46,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_points_over_under,paul george,False,24.5,-105,2023-10-28T02:36:09,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_points_over_under,paul george,False,25.5,-125,2023-10-28T02:15:46,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_points_over_under,paul george,False,26.5,-115,2023-10-28T03:10:50,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_points_over_under,paul george,False,27.5,-130,2023-10-28T03:00:23,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_points_over_under,paul george,False,28.5,-125,2023-10-28T03:05:04,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_points_over_under,paul george,False,33.5,-120,2023-10-28T03:50:04,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_points_over_under,paul george,False,34.5,-135,2023-10-28T03:55:37,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_points_over_under,paul george,False,35.5,-130,2023-10-28T03:35:04,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_points_over_under,paul george,False,36.5,-110,2023-10-28T03:20:06,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,betmgm,player_points_over_under,paul george,True,23.5,-115,2023-10-27T18:15:57,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,betmgm,player_points_over_under,paul george,True,24.5,-115,2023-10-27T18:30:36,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,betmgm,player_points_over_under,paul george,False,23.5,-115,2023-10-27T18:15:57,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,barstool,player_points_over_under,paul george,True,22.5,-125,2023-10-28T01:50:05,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_assists_over_under,paul george,False,3.5,-155,2023-10-28T02:10:08,Utah Jazz,LA Clippers
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_steals_over_under,paul george,False,2.5,-195,2023-10-30T01:15:26,LA Clippers,San Antonio Spurs
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_assists_over_under,paul george,False,1.5,-700,2023-10-28T03:55:37,Utah Jazz,LA Clippers
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,paul george,False,24.5,-135,2023-10-30T01:00:35,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,paul george,False,23.5,105,2023-10-29T23:55:07,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,paul george,False,22.5,120,2023-10-30T01:00:35,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,paul george,False,21.5,150,2023-10-30T01:00:35,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,paul george,True,26.5,-120,2023-10-30T01:35:05,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,paul george,True,25.5,-120,2023-10-30T01:45:29,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,paul george,True,24.5,-115,2023-10-30T02:00:32,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,paul george,True,23.5,-110,2023-10-30T02:00:32,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,paul george,False,25.5,-165,2023-10-30T01:00:35,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,paul george,True,22.5,-110,2023-10-30T01:20:32,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,paul george,True,20.5,-125,2023-10-30T02:40:05,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,paul george,True,19.5,550,2023-10-30T03:05:10,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,paul george,True,18.5,-135,2023-10-30T02:35:16,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,paul george,True,26.5,145,2023-10-29T23:55:07,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,paul george,True,25.5,130,2023-10-30T01:00:35,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,paul george,True,24.5,105,2023-10-30T01:00:35,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,paul george,True,23.5,-135,2023-10-29T23:55:07,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,paul george,True,22.5,-150,2023-10-30T01:00:35,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,paul george,True,21.5,-105,2023-10-30T02:25:06,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,paul george,False,26.5,-185,2023-10-29T23:55:07,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,paul george,False,18.5,105,2023-10-30T02:35:16,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,paul george,False,19.5,-1100,2023-10-30T03:05:10,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_points_over_under,paul george,False,23.5,-105,2023-10-30T02:10:37,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_points_over_under,paul george,False,22.5,-125,2023-10-30T01:21:37,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_points_over_under,paul george,False,21.5,-135,2023-10-30T02:25:48,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_points_over_under,paul george,False,19.5,-115,2023-10-30T02:30:09,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_points_over_under,paul george,True,27.5,-115,2023-10-30T01:35:03,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_points_over_under,paul george,True,26.5,-120,2023-10-30T01:30:20,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_points_over_under,paul george,True,25.5,-130,2023-10-30T01:45:13,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_points_over_under,paul george,True,24.5,-120,2023-10-30T01:55:42,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_points_over_under,paul george,True,23.5,-135,2023-10-30T02:10:37,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_points_over_under,paul george,True,22.5,-115,2023-10-30T01:21:37,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_points_over_under,paul george,True,21.5,-105,2023-10-30T02:25:48,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_points_over_under,paul george,True,19.5,-125,2023-10-30T02:30:09,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,paul george,False,26.5,-110,2023-10-30T01:35:05,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,paul george,False,25.5,-110,2023-10-30T01:45:29,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,paul george,False,24.5,-115,2023-10-30T02:00:32,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,paul george,False,23.5,-120,2023-10-30T02:00:32,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,paul george,False,22.5,-120,2023-10-30T01:20:32,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,paul george,False,21.5,-125,2023-10-30T02:25:06,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,paul george,False,20.5,-105,2023-10-30T02:40:05,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,paul george,True,21.5,-190,2023-10-30T01:00:35,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,pinnacle,player_points_over_under,paul george,False,24.5,-123,2023-10-29T19:00:19,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,pinnacle,player_points_over_under,paul george,True,24.5,-108,2023-10-29T19:00:19,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_points_over_under,paul george,False,27.5,100,2023-10-30T01:25:18,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_assists_over_under,paul george,False,4.5,-115,2023-10-30T01:55:42,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_assists_over_under,paul george,False,3.5,-125,2023-10-30T02:25:48,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_assists_over_under,paul george,True,5.5,-105,2023-10-30T01:30:20,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_assists_over_under,paul george,True,4.5,-125,2023-10-30T01:55:42,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_assists_over_under,paul george,True,3.5,-115,2023-10-30T02:25:48,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_assists_over_under,paul george,False,5.5,-2500,2023-10-30T03:05:10,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_assists_over_under,paul george,False,4.5,-135,2023-10-30T02:45:05,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_assists_over_under,paul george,False,3.5,-120,2023-10-30T02:25:06,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_assists_over_under,paul george,True,5.5,800,2023-10-30T03:05:10,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_assists_over_under,paul george,True,4.5,100,2023-10-30T02:45:05,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_assists_over_under,paul george,True,3.5,-110,2023-10-30T02:25:06,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,pinnacle,player_assists_over_under,paul george,False,4.5,-174,2023-10-29T19:00:19,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,pinnacle,player_assists_over_under,paul george,True,4.5,128,2023-10-29T19:00:19,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_assists_over_under,paul george,False,5.5,-100000,2023-10-30T03:10:05,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_assists_over_under,paul george,False,4.5,-132,2023-10-30T02:45:08,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_assists_over_under,paul george,False,3.5,-118,2023-10-30T02:25:11,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_assists_over_under,paul george,True,5.5,1000,2023-10-30T03:10:05,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_assists_over_under,paul george,True,4.5,100,2023-10-30T02:45:08,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_assists_over_under,paul george,True,3.5,-112,2023-10-30T02:25:11,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_assists_over_under,paul george,False,5.5,-135,2023-10-30T01:30:20,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_points_over_under,paul george,False,24.5,-120,2023-10-30T01:55:42,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,betrivers,player_assists_over_under,paul george,True,4.5,100,2023-10-30T01:15:33,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_blocks_over_under,paul george,False,0.5,-100000,2023-10-30T03:05:52,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_points_over_under,paul george,False,26.5,-120,2023-10-30T01:40:26,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_points_over_under,paul george,False,25.5,-128,2023-10-30T01:50:34,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_points_over_under,paul george,False,24.5,-125,2023-10-30T02:10:04,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_points_over_under,paul george,False,23.5,-118,2023-10-30T02:00:04,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_points_over_under,paul george,False,22.5,-115,2023-10-30T02:25:11,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_points_over_under,paul george,False,21.5,110,2023-10-30T02:40:22,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_points_over_under,paul george,False,20.5,-128,2023-10-30T02:40:22,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_points_over_under,paul george,True,27.5,-128,2023-10-30T01:25:18,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_points_over_under,paul george,True,26.5,-106,2023-10-30T01:40:26,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_points_over_under,paul george,True,25.5,100,2023-10-30T01:50:34,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_points_over_under,paul george,True,24.5,-102,2023-10-30T02:10:04,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_points_over_under,paul george,True,23.5,-108,2023-10-30T02:00:04,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_points_over_under,paul george,True,22.5,-113,2023-10-30T02:25:11,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_points_over_under,paul george,True,21.5,-140,2023-10-30T02:40:22,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_points_over_under,paul george,True,20.5,100,2023-10-30T02:40:22,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_blocks_over_under,paul george,False,0.5,-425,2023-10-30T01:30:20,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_blocks_over_under,paul george,True,0.5,260,2023-10-30T01:30:20,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_blocks_over_under,paul george,False,0.5,-4000,2023-10-30T02:45:05,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_blocks_over_under,paul george,True,0.5,1000,2023-10-30T02:40:05,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_blocks_over_under,paul george,True,0.5,1000,2023-10-30T02:40:22,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_points_over_under,paul george,False,25.5,-110,2023-10-30T01:45:13,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_points_over_under,paul george,False,26.5,-120,2023-10-30T01:30:20,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_points_over_under,paul george,False,27.5,-125,2023-10-30T01:35:03,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_threes_over_under,paul george,True,1.5,-190,2023-10-30T01:55:42,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_threes_over_under,paul george,False,2.5,-5000,2023-10-30T03:05:10,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_threes_over_under,paul george,False,1.5,-125,2023-10-30T02:35:16,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_threes_over_under,paul george,True,2.5,1000,2023-10-30T03:05:10,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_threes_over_under,paul george,True,1.5,-110,2023-10-30T02:35:16,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,pinnacle,player_threes_over_under,paul george,False,2.5,131,2023-10-29T19:00:19,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,pinnacle,player_threes_over_under,paul george,True,2.5,-178,2023-10-29T19:00:19,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_threes_over_under,paul george,False,3.5,-186,2023-10-29T23:50:20,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_threes_over_under,paul george,False,2.5,108,2023-10-30T02:40:22,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_threes_over_under,paul george,False,1.5,142,2023-10-30T02:40:22,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_threes_over_under,paul george,True,3.5,144,2023-10-29T23:50:20,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_threes_over_under,paul george,True,2.5,-144,2023-10-30T02:40:22,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_threes_over_under,paul george,True,1.5,-192,2023-10-30T02:40:22,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,betrivers,player_steals_over_under,paul george,True,1.5,130,2023-10-30T01:15:33,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_steals_over_under,paul george,False,5.5,-185,2023-10-30T02:30:09,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_steals_over_under,paul george,False,1.5,-180,2023-10-30T01:15:37,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_steals_over_under,paul george,True,5.5,130,2023-10-30T02:30:09,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_steals_over_under,paul george,True,1.5,130,2023-10-30T01:15:37,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_steals_over_under,paul george,False,5.5,-4000,2023-10-30T03:00:37,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_threes_over_under,paul george,True,2.5,140,2023-10-30T02:25:48,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_steals_over_under,paul george,False,4.5,185,2023-10-30T01:25:04,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_threes_over_under,paul george,False,1.5,135,2023-10-30T01:55:42,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,betrivers,player_threes_over_under,paul george,True,2.5,-190,2023-10-30T01:15:33,LA Clippers,San Antonio Spurs
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_assists_over_under,paul george,False,0.5,-175,2023-10-28T03:45:19,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_assists_over_under,paul george,True,4.5,-105,2023-10-28T02:01:46,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_assists_over_under,paul george,True,3.5,120,2023-10-28T02:10:08,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_assists_over_under,paul george,True,2.5,120,2023-10-28T02:36:09,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_assists_over_under,paul george,True,1.5,400,2023-10-28T03:55:37,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_assists_over_under,paul george,True,0.5,130,2023-10-28T03:45:19,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,pinnacle,player_assists_over_under,paul george,False,4.5,-141,2023-10-28T01:05:09,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,pinnacle,player_assists_over_under,paul george,True,4.5,106,2023-10-28T01:05:09,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_assists_over_under,paul george,False,4.5,-158,2023-10-28T01:50:07,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_assists_over_under,paul george,False,3.5,-188,2023-10-28T02:15:04,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_assists_over_under,paul george,False,2.5,-180,2023-10-28T02:40:25,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_assists_over_under,paul george,False,1.5,-700,2023-10-28T03:55:10,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_assists_over_under,paul george,False,0.5,-178,2023-10-28T03:45:05,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_assists_over_under,paul george,True,4.5,118,2023-10-28T01:50:07,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_assists_over_under,paul george,True,3.5,140,2023-10-28T02:15:04,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_assists_over_under,paul george,True,2.5,134,2023-10-28T02:40:25,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_assists_over_under,paul george,True,1.5,410,2023-10-28T03:55:10,Utah Jazz,LA Clippers
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,fanduel,player_assists_over_under,paul george,True,0.5,132,2023-10-28T03:45:05,Utah Jazz,LA Clippers
+2023-10-27,d996c6412e7179682ca8ef09b750f638,betrivers,player_threes_over_under,paul george,True,3.5,140,2023-10-30T01:15:33,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_threes_over_under,paul george,False,2.5,-200,2023-10-30T02:25:48,LA Clippers,San Antonio Spurs
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,draftkings,player_assists_over_under,paul george,False,2.5,-165,2023-10-28T02:36:09,Utah Jazz,LA Clippers
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_steals_over_under,paul george,False,3.5,-225,2023-10-30T01:25:04,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_steals_over_under,paul george,False,1.5,-170,2023-10-30T01:15:26,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_rebounds_over_under,paul george,False,5.5,-120,2023-10-30T02:30:14,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_rebounds_over_under,paul george,False,4.5,-2500,2023-10-30T03:05:10,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_rebounds_over_under,paul george,True,6.5,110,2023-10-30T01:45:29,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_rebounds_over_under,paul george,True,5.5,-110,2023-10-30T02:30:14,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_rebounds_over_under,paul george,True,4.5,800,2023-10-30T03:05:10,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_rebounds_over_under,paul george,False,6.5,-158,2023-10-30T01:45:22,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_rebounds_over_under,paul george,False,5.5,-230,2023-10-30T02:30:29,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_rebounds_over_under,paul george,False,4.5,-100000,2023-10-30T03:15:05,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_rebounds_over_under,paul george,True,6.5,118,2023-10-30T01:45:22,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_rebounds_over_under,paul george,True,5.5,168,2023-10-30T02:30:29,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_rebounds_over_under,paul george,True,4.5,1000,2023-10-30T03:10:05,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,betrivers,player_points_over_under,paul george,True,27.5,180,2023-10-30T01:15:33,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,betrivers,player_points_over_under,paul george,True,26.5,-122,2023-10-30T01:35:03,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,betrivers,player_points_over_under,paul george,True,25.5,-117,2023-10-30T01:45:45,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,betrivers,player_points_over_under,paul george,True,24.5,-117,2023-10-30T01:55:32,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,betrivers,player_points_over_under,paul george,True,23.5,-132,2023-10-30T01:15:33,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,betrivers,player_points_over_under,paul george,True,22.5,-175,2023-10-30T01:15:33,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,betrivers,player_points_over_under,paul george,True,21.5,-117,2023-10-30T02:30:05,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,betrivers,player_points_over_under,paul george,True,20.5,-315,2023-10-30T01:15:33,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_rebounds_over_under,paul george,False,6.5,-150,2023-10-30T01:45:29,LA Clippers,San Antonio Spurs
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,betrivers,player_threes_over_under,paul george,True,2.5,-180,2023-10-28T02:35:30,Utah Jazz,LA Clippers
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_rebounds_over_under,paul george,True,4.5,-160,2023-10-30T01:30:20,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_rebounds_over_under,paul george,True,6.5,125,2023-10-30T01:50:31,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_steals_over_under,paul george,True,5.5,950,2023-10-30T03:00:37,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_steals_over_under,paul george,True,4.5,-250,2023-10-30T01:25:04,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_steals_over_under,paul george,True,3.5,165,2023-10-30T01:25:04,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_steals_over_under,paul george,True,2.5,145,2023-10-30T01:15:26,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_steals_over_under,paul george,True,1.5,130,2023-10-30T01:15:26,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_steals_over_under,paul george,False,5.5,-100000,2023-10-30T03:10:05,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_steals_over_under,paul george,False,4.5,188,2023-10-30T01:30:23,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_steals_over_under,paul george,False,2.5,-205,2023-10-30T01:15:21,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_steals_over_under,paul george,False,1.5,-170,2023-10-30T01:10:31,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_steals_over_under,paul george,True,5.5,1000,2023-10-30T03:05:52,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_steals_over_under,paul george,True,4.5,-260,2023-10-30T01:30:23,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_steals_over_under,paul george,True,2.5,152,2023-10-30T01:15:21,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_steals_over_under,paul george,True,1.5,130,2023-10-30T01:10:31,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,betrivers,player_rebounds_over_under,paul george,True,6.5,165,2023-10-30T01:15:33,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,betrivers,player_rebounds_over_under,paul george,True,5.5,-115,2023-10-30T01:15:33,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,betrivers,player_rebounds_over_under,paul george,True,4.5,-240,2023-10-30T01:15:33,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_rebounds_over_under,paul george,False,6.5,-180,2023-10-30T01:50:31,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_rebounds_over_under,paul george,False,5.5,-150,2023-10-30T02:30:09,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_rebounds_over_under,paul george,False,4.5,110,2023-10-30T01:30:20,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_rebounds_over_under,paul george,True,5.5,105,2023-10-30T02:30:09,LA Clippers,San Antonio Spurs
+2023-10-27,36cc02aebbd57205da4ee51be27f1424,betrivers,player_threes_over_under,paul george,True,3.5,150,2023-10-28T02:35:30,Utah Jazz,LA Clippers

@@ -1,0 +1,225 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-04-09,4a7329206b98e1abd221c86420febf99,draftkings,player_points_over_under,yuta watanabe,False,12.5,-115,2023-04-09T17:00:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,fanduel,player_points_over_under,yuta watanabe,True,15.5,110,2023-04-09T17:45:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,fanduel,player_points_over_under,yuta watanabe,True,19.5,110,2023-04-09T18:30:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,fanduel,player_points_over_under,yuta watanabe,True,21.5,110,2023-04-09T18:45:02,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,fanduel,player_points_over_under,yuta watanabe,False,14.5,-138,2023-04-09T17:30:02,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,fanduel,player_points_over_under,yuta watanabe,False,15.5,-146,2023-04-09T17:45:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,fanduel,player_points_over_under,yuta watanabe,False,19.5,-146,2023-04-09T18:30:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,draftkings,player_blocks_over_under,yuta watanabe,False,1.5,-130,2023-04-09T18:15:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,draftkings,player_points_over_under,yuta watanabe,True,12.5,-115,2023-04-09T17:00:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,draftkings,player_points_over_under,yuta watanabe,True,14.5,110,2023-04-09T17:30:02,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,draftkings,player_points_over_under,yuta watanabe,True,15.5,110,2023-04-09T17:45:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,draftkings,player_points_over_under,yuta watanabe,True,19.5,110,2023-04-09T18:30:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,draftkings,player_points_over_under,yuta watanabe,True,21.5,110,2023-04-09T18:45:02,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,draftkings,player_points_over_under,yuta watanabe,False,14.5,-145,2023-04-09T17:30:02,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,draftkings,player_points_over_under,yuta watanabe,False,15.5,-145,2023-04-09T17:45:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,draftkings,player_points_over_under,yuta watanabe,False,19.5,-145,2023-04-09T18:30:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,fanduel,player_points_over_under,yuta watanabe,True,14.5,104,2023-04-09T17:30:02,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,draftkings,player_points_over_under,yuta watanabe,False,21.5,-145,2023-04-09T18:45:02,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,fanduel,player_assists_over_under,yuta watanabe,True,2.5,122,2023-04-09T17:45:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,fanduel,player_assists_over_under,yuta watanabe,False,2.5,-162,2023-04-09T17:45:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,draftkings,player_blocks_over_under,yuta watanabe,False,0.5,-130,2023-04-09T17:45:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,draftkings,player_blocks_over_under,yuta watanabe,True,2.5,100,2023-04-09T18:45:02,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,draftkings,player_blocks_over_under,yuta watanabe,True,1.5,100,2023-04-09T18:15:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,draftkings,player_blocks_over_under,yuta watanabe,True,0.5,100,2023-04-09T17:45:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,fanduel,player_blocks_over_under,yuta watanabe,False,2.5,-132,2023-04-09T18:45:02,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,fanduel,player_blocks_over_under,yuta watanabe,False,1.5,-132,2023-04-09T18:15:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,fanduel,player_blocks_over_under,yuta watanabe,False,0.5,-132,2023-04-09T17:45:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,fanduel,player_blocks_over_under,yuta watanabe,True,2.5,100,2023-04-09T18:45:02,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,fanduel,player_blocks_over_under,yuta watanabe,True,1.5,100,2023-04-09T18:15:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,fanduel,player_blocks_over_under,yuta watanabe,True,0.5,100,2023-04-09T17:45:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,draftkings,player_assists_over_under,yuta watanabe,False,3.5,-160,2023-04-09T18:15:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,draftkings,player_assists_over_under,yuta watanabe,False,2.5,-160,2023-04-09T17:45:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,draftkings,player_assists_over_under,yuta watanabe,True,3.5,120,2023-04-09T18:15:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,draftkings,player_assists_over_under,yuta watanabe,True,2.5,120,2023-04-09T17:45:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,fanduel,player_assists_over_under,yuta watanabe,False,3.5,-162,2023-04-09T18:15:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,fanduel,player_assists_over_under,yuta watanabe,True,3.5,122,2023-04-09T18:15:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,fanduel,player_rebounds_over_under,yuta watanabe,True,6.5,-122,2023-04-09T17:45:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,fanduel,player_points_over_under,yuta watanabe,False,21.5,-146,2023-04-09T18:45:02,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,fanduel,player_rebounds_over_under,yuta watanabe,True,9.5,-122,2023-04-09T18:30:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,draftkings,player_rebounds_over_under,yuta watanabe,False,12.5,-110,2023-04-09T19:15:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,fanduel,player_steals_over_under,yuta watanabe,True,0.5,-198,2023-04-09T17:45:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,fanduel,player_steals_over_under,yuta watanabe,False,0.5,146,2023-04-09T17:45:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,draftkings,player_steals_over_under,yuta watanabe,True,0.5,-190,2023-04-09T17:45:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,draftkings,player_steals_over_under,yuta watanabe,False,0.5,140,2023-04-09T17:45:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,fanduel,player_threes_over_under,yuta watanabe,True,2.5,-182,2023-04-09T17:30:02,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,fanduel,player_threes_over_under,yuta watanabe,True,3.5,152,2023-04-09T17:45:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,fanduel,player_threes_over_under,yuta watanabe,True,4.5,152,2023-04-09T18:30:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,fanduel,player_threes_over_under,yuta watanabe,False,2.5,136,2023-04-09T17:30:02,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,fanduel,player_threes_over_under,yuta watanabe,False,3.5,-205,2023-04-09T17:45:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,fanduel,player_threes_over_under,yuta watanabe,False,4.5,-205,2023-04-09T18:30:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,draftkings,player_threes_over_under,yuta watanabe,True,2.5,-175,2023-04-09T17:30:02,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,draftkings,player_threes_over_under,yuta watanabe,True,3.5,145,2023-04-09T17:45:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,draftkings,player_threes_over_under,yuta watanabe,True,4.5,145,2023-04-09T18:30:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,draftkings,player_threes_over_under,yuta watanabe,False,2.5,130,2023-04-09T17:30:02,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,draftkings,player_threes_over_under,yuta watanabe,False,3.5,-195,2023-04-09T17:45:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,draftkings,player_threes_over_under,yuta watanabe,False,4.5,-195,2023-04-09T18:30:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,draftkings,player_rebounds_over_under,yuta watanabe,False,10.5,-110,2023-04-09T18:45:02,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,fanduel,player_rebounds_over_under,yuta watanabe,True,7.5,-122,2023-04-09T18:15:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,draftkings,player_blocks_over_under,yuta watanabe,False,2.5,-130,2023-04-09T18:45:02,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,draftkings,player_rebounds_over_under,yuta watanabe,True,6.5,-120,2023-04-09T17:45:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,draftkings,player_rebounds_over_under,yuta watanabe,False,5.5,100,2023-04-09T17:00:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,draftkings,player_rebounds_over_under,yuta watanabe,True,12.5,-120,2023-04-09T19:15:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,draftkings,player_rebounds_over_under,yuta watanabe,True,10.5,-120,2023-04-09T18:45:02,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,draftkings,player_rebounds_over_under,yuta watanabe,True,9.5,-120,2023-04-09T18:30:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,draftkings,player_rebounds_over_under,yuta watanabe,True,7.5,-120,2023-04-09T18:15:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,draftkings,player_rebounds_over_under,yuta watanabe,False,9.5,-110,2023-04-09T18:30:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,draftkings,player_rebounds_over_under,yuta watanabe,False,6.5,-110,2023-04-09T17:45:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,draftkings,player_rebounds_over_under,yuta watanabe,True,5.5,-130,2023-04-09T17:00:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,fanduel,player_rebounds_over_under,yuta watanabe,False,10.5,-108,2023-04-09T18:45:02,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,fanduel,player_rebounds_over_under,yuta watanabe,False,9.5,-108,2023-04-09T18:30:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,fanduel,player_rebounds_over_under,yuta watanabe,False,7.5,-108,2023-04-09T18:15:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,fanduel,player_rebounds_over_under,yuta watanabe,False,6.5,-108,2023-04-09T17:45:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,fanduel,player_rebounds_over_under,yuta watanabe,True,12.5,-122,2023-04-09T19:15:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,fanduel,player_rebounds_over_under,yuta watanabe,True,10.5,-122,2023-04-09T18:45:02,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,fanduel,player_rebounds_over_under,yuta watanabe,False,12.5,-108,2023-04-09T19:15:01,Brooklyn Nets,Philadelphia 76ers
+2023-04-09,4a7329206b98e1abd221c86420febf99,draftkings,player_rebounds_over_under,yuta watanabe,False,7.5,-110,2023-04-09T18:15:01,Brooklyn Nets,Philadelphia 76ers
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,yuta watanabe,True,8.5,950,2023-10-25T04:25:06,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,yuta watanabe,True,5.5,110,2023-10-25T03:55:08,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,yuta watanabe,True,2.5,-155,2023-10-25T02:55:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_threes_over_under,yuta watanabe,True,0.5,-110,2023-10-25T02:55:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,yuta watanabe,False,2.5,120,2023-10-25T02:55:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,yuta watanabe,False,3.5,-165,2023-10-25T02:55:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,yuta watanabe,False,5.5,-145,2023-10-25T03:55:08,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,yuta watanabe,False,8.5,-4000,2023-10-25T04:25:06,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_points_over_under,yuta watanabe,True,2.5,-165,2023-10-25T02:55:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_points_over_under,yuta watanabe,False,2.5,115,2023-10-25T02:55:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_rebounds_over_under,yuta watanabe,True,3.5,-165,2023-10-25T02:55:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_threes_over_under,yuta watanabe,False,0.5,-130,2023-10-25T02:55:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,yuta watanabe,True,3.5,125,2023-10-25T02:55:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_steals_over_under,yuta watanabe,False,0.5,-325,2023-10-25T02:55:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_threes_over_under,yuta watanabe,True,0.5,-110,2023-10-25T02:55:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_threes_over_under,yuta watanabe,True,1.5,150,2023-10-25T03:45:58,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_threes_over_under,yuta watanabe,True,2.5,290,2023-10-25T04:15:28,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_threes_over_under,yuta watanabe,False,0.5,-120,2023-10-25T02:55:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_threes_over_under,yuta watanabe,False,1.5,-200,2023-10-25T03:55:08,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_threes_over_under,yuta watanabe,False,2.5,-425,2023-10-25T04:15:28,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_steals_over_under,yuta watanabe,True,0.5,210,2023-10-25T02:55:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_rebounds_over_under,yuta watanabe,False,3.5,115,2023-10-25T02:55:04,Golden State Warriors,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_assists_over_under,yuta watanabe,True,0.5,1000,2023-10-27T04:15:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_threes_over_under,yuta watanabe,True,0.5,100,2023-10-27T03:11:35,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,yuta watanabe,False,5.5,-130,2023-10-27T02:35:48,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,yuta watanabe,False,4.5,110,2023-10-27T04:05:36,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,yuta watanabe,False,3.5,-4000,2023-10-27T04:30:19,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,yuta watanabe,False,2.5,-125,2023-10-27T03:55:31,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,yuta watanabe,True,5.5,-105,2023-10-27T02:35:48,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,yuta watanabe,True,4.5,-145,2023-10-27T04:05:36,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,yuta watanabe,True,3.5,950,2023-10-27T04:30:19,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,yuta watanabe,True,2.5,-105,2023-10-27T03:55:31,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_points_over_under,yuta watanabe,False,6.5,-136,2023-10-27T02:25:06,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_points_over_under,yuta watanabe,False,5.5,-115,2023-10-27T02:36:01,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_points_over_under,yuta watanabe,True,6.5,106,2023-10-27T02:25:06,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_points_over_under,yuta watanabe,True,5.5,-111,2023-10-27T02:36:01,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_blocks_over_under,yuta watanabe,False,0.5,-575,2023-10-27T02:25:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_blocks_over_under,yuta watanabe,True,0.5,340,2023-10-27T02:25:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_blocks_over_under,yuta watanabe,True,0.5,380,2023-10-27T02:20:20,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_blocks_over_under,yuta watanabe,False,1.5,-1200,2023-10-27T02:55:06,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_blocks_over_under,yuta watanabe,False,0.5,-100000,2023-10-27T04:20:31,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_blocks_over_under,yuta watanabe,True,1.5,580,2023-10-27T02:55:06,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_blocks_over_under,yuta watanabe,True,0.5,1000,2023-10-27T04:10:18,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_assists_over_under,yuta watanabe,False,0.5,125,2023-10-27T02:25:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_assists_over_under,yuta watanabe,True,0.5,-165,2023-10-27T02:25:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_assists_over_under,yuta watanabe,False,0.5,120,2023-10-27T02:20:20,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_assists_over_under,yuta watanabe,True,0.5,-155,2023-10-27T02:20:20,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_assists_over_under,yuta watanabe,False,0.5,-100000,2023-10-27T04:35:11,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_threes_over_under,yuta watanabe,False,0.5,-140,2023-10-27T03:11:35,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_points_over_under,yuta watanabe,True,2.5,-150,2023-10-27T03:11:35,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_points_over_under,yuta watanabe,True,3.5,110,2023-10-27T02:55:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_blocks_over_under,yuta watanabe,False,0.5,-525,2023-10-27T02:20:20,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_points_over_under,yuta watanabe,True,5.5,-105,2023-10-27T02:35:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_threes_over_under,yuta watanabe,False,1.5,-6000,2023-10-27T04:15:31,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_points_over_under,yuta watanabe,True,4.5,-140,2023-10-27T02:41:27,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_threes_over_under,yuta watanabe,False,0.5,-175,2023-10-27T03:55:31,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_threes_over_under,yuta watanabe,True,1.5,1100,2023-10-27T04:15:31,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_threes_over_under,yuta watanabe,True,0.5,130,2023-10-27T03:55:31,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_steals_over_under,yuta watanabe,False,0.5,-400,2023-10-27T03:11:35,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_steals_over_under,yuta watanabe,True,0.5,250,2023-10-27T03:11:35,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_steals_over_under,yuta watanabe,True,0.5,600,2023-10-27T04:10:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_steals_over_under,yuta watanabe,False,0.5,-100000,2023-10-27T04:30:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_steals_over_under,yuta watanabe,True,0.5,1000,2023-10-27T04:15:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_rebounds_over_under,yuta watanabe,False,2.5,-120,2023-10-27T03:11:35,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_rebounds_over_under,yuta watanabe,True,2.5,-120,2023-10-27T03:11:35,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_steals_over_under,yuta watanabe,False,0.5,-1200,2023-10-27T04:10:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_rebounds_over_under,yuta watanabe,True,1.5,1000,2023-10-27T04:35:11,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_points_over_under,yuta watanabe,False,3.5,-160,2023-10-27T02:55:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_rebounds_over_under,yuta watanabe,False,2.5,-170,2023-10-27T03:55:31,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_points_over_under,yuta watanabe,False,4.5,100,2023-10-27T02:41:27,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_points_over_under,yuta watanabe,False,5.5,-135,2023-10-27T02:35:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_rebounds_over_under,yuta watanabe,True,2.5,134,2023-10-27T03:55:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_rebounds_over_under,yuta watanabe,False,1.5,-100000,2023-10-27T04:40:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_points_over_under,yuta watanabe,False,2.5,105,2023-10-27T03:11:35,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_rebounds_over_under,yuta watanabe,False,2.5,-180,2023-10-27T03:55:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_rebounds_over_under,yuta watanabe,True,1.5,1200,2023-10-27T04:35:13,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_rebounds_over_under,yuta watanabe,True,2.5,130,2023-10-27T03:55:31,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_rebounds_over_under,yuta watanabe,False,1.5,-10000,2023-10-27T04:35:13,Los Angeles Lakers,Phoenix Suns
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_rebounds_over_under,yuta watanabe,False,3.5,-145,2023-10-29T04:15:10,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_rebounds_over_under,yuta watanabe,True,2.5,125,2023-10-29T02:26:40,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_rebounds_over_under,yuta watanabe,True,1.5,-180,2023-10-29T02:30:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_rebounds_over_under,yuta watanabe,False,2.5,-180,2023-10-29T02:26:40,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_rebounds_over_under,yuta watanabe,False,4.5,-190,2023-10-29T03:50:50,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_rebounds_over_under,yuta watanabe,False,1.5,125,2023-10-29T02:30:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_rebounds_over_under,yuta watanabe,False,3.5,-146,2023-10-29T04:15:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_rebounds_over_under,yuta watanabe,True,2.5,-155,2023-10-29T02:45:07,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_rebounds_over_under,yuta watanabe,False,1.5,130,2023-10-29T02:30:18,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_rebounds_over_under,yuta watanabe,True,4.5,140,2023-10-29T03:50:50,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_rebounds_over_under,yuta watanabe,True,3.5,110,2023-10-29T04:15:10,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_rebounds_over_under,yuta watanabe,True,1.5,-170,2023-10-29T02:30:18,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_steals_over_under,yuta watanabe,True,0.5,200,2023-10-29T02:30:07,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_rebounds_over_under,yuta watanabe,False,4.5,-100000,2023-10-29T04:25:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_rebounds_over_under,yuta watanabe,False,2.5,115,2023-10-29T02:45:07,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_steals_over_under,yuta watanabe,True,1.5,640,2023-10-29T04:11:10,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_steals_over_under,yuta watanabe,False,0.5,-260,2023-10-29T02:30:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_steals_over_under,yuta watanabe,False,0.5,-280,2023-10-29T02:30:07,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_threes_over_under,yuta watanabe,False,1.5,-320,2023-10-29T04:15:10,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_rebounds_over_under,yuta watanabe,False,2.5,116,2023-10-29T02:45:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_threes_over_under,yuta watanabe,False,0.5,-110,2023-10-29T02:36:19,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_threes_over_under,yuta watanabe,True,1.5,225,2023-10-29T04:15:10,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_threes_over_under,yuta watanabe,True,0.5,-120,2023-10-29T02:36:19,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_steals_over_under,yuta watanabe,True,0.5,170,2023-10-29T02:30:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_steals_over_under,yuta watanabe,True,2.5,1000,2023-10-29T04:25:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_steals_over_under,yuta watanabe,False,2.5,-1600,2023-10-29T04:15:10,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_steals_over_under,yuta watanabe,False,0.5,-275,2023-10-29T02:30:18,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_steals_over_under,yuta watanabe,True,2.5,650,2023-10-29T04:15:10,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_steals_over_under,yuta watanabe,True,1.5,500,2023-10-29T04:10:54,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_steals_over_under,yuta watanabe,True,0.5,200,2023-10-29T02:30:18,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_steals_over_under,yuta watanabe,False,2.5,-100000,2023-10-29T04:25:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_steals_over_under,yuta watanabe,False,1.5,-1450,2023-10-29T04:11:10,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_steals_over_under,yuta watanabe,False,1.5,-1000,2023-10-29T04:10:54,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_rebounds_over_under,yuta watanabe,False,1.5,-104,2023-10-29T02:35:27,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_blocks_over_under,yuta watanabe,True,1.5,1000,2023-10-29T04:11:10,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_rebounds_over_under,yuta watanabe,True,3.5,110,2023-10-29T04:15:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_blocks_over_under,yuta watanabe,False,0.5,-575,2023-10-29T02:15:05,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_blocks_over_under,yuta watanabe,True,0.5,425,2023-10-29T02:15:05,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_blocks_over_under,yuta watanabe,False,2.5,-2200,2023-10-29T04:00:16,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_blocks_over_under,yuta watanabe,False,1.5,-100000,2023-10-29T04:25:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_blocks_over_under,yuta watanabe,False,0.5,-670,2023-10-29T02:20:26,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_blocks_over_under,yuta watanabe,True,2.5,800,2023-10-29T04:00:16,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_blocks_over_under,yuta watanabe,True,0.5,350,2023-10-29T02:15:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_blocks_over_under,yuta watanabe,True,0.5,400,2023-10-29T02:20:26,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_assists_over_under,yuta watanabe,False,0.5,105,2023-10-29T02:15:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_assists_over_under,yuta watanabe,True,1.5,290,2023-10-28T20:52:50,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_assists_over_under,yuta watanabe,True,0.5,-135,2023-10-29T02:15:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_assists_over_under,yuta watanabe,False,0.5,-100000,2023-10-29T04:25:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_assists_over_under,yuta watanabe,True,0.5,1000,2023-10-29T04:25:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_threes_over_under,yuta watanabe,True,0.5,-180,2023-10-29T02:30:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_assists_over_under,yuta watanabe,False,1.5,-475,2023-10-28T20:52:50,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_rebounds_over_under,yuta watanabe,True,4.5,1000,2023-10-29T04:25:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_blocks_over_under,yuta watanabe,False,0.5,-600,2023-10-29T02:15:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,yuta watanabe,True,4.5,-115,2023-10-29T02:25:53,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_rebounds_over_under,yuta watanabe,True,2.5,-154,2023-10-29T02:45:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_rebounds_over_under,yuta watanabe,True,1.5,-128,2023-10-29T02:35:27,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_points_over_under,yuta watanabe,False,4.5,-120,2023-10-29T02:30:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_points_over_under,yuta watanabe,False,3.5,115,2023-10-29T02:15:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_points_over_under,yuta watanabe,True,4.5,-120,2023-10-29T02:30:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_points_over_under,yuta watanabe,True,3.5,-150,2023-10-29T02:15:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,yuta watanabe,True,3.5,100,2023-10-29T02:36:19,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,yuta watanabe,False,7.5,-135,2023-10-29T04:15:10,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,yuta watanabe,False,5.5,-110,2023-10-29T04:10:54,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,yuta watanabe,False,4.5,-115,2023-10-29T02:25:53,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,yuta watanabe,False,3.5,-135,2023-10-29T02:36:19,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,yuta watanabe,True,7.5,105,2023-10-29T04:15:10,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,yuta watanabe,True,6.5,120,2023-10-29T02:51:20,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,yuta watanabe,True,5.5,-120,2023-10-29T04:10:54,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,yuta watanabe,False,6.5,-160,2023-10-29T02:51:20,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_threes_over_under,yuta watanabe,False,0.5,125,2023-10-29T02:30:03,Phoenix Suns,Utah Jazz

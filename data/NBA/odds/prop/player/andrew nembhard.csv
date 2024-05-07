@@ -1,0 +1,631 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_assists_over_under,andrew nembhard,True,4.5,-166,2023-03-20T23:15:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,andrew nembhard,True,12.5,-124,2023-03-20T22:45:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,andrew nembhard,True,11.5,-146,2023-03-20T23:30:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,andrew nembhard,True,10.5,106,2023-03-20T23:45:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,andrew nembhard,True,9.5,108,2023-03-21T00:00:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,andrew nembhard,True,5.5,102,2023-03-21T00:45:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,andrew nembhard,True,4.5,-118,2023-03-21T01:00:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,andrew nembhard,True,3.5,130,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,andrew nembhard,True,13.5,-140,2023-03-20T23:15:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_blocks_over_under,andrew nembhard,False,0.5,-10000,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_assists_over_under,andrew nembhard,False,7.5,-240,2023-03-21T01:00:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_assists_over_under,andrew nembhard,False,6.5,-132,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_assists_over_under,andrew nembhard,False,5.5,100,2023-03-20T23:00:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_assists_over_under,andrew nembhard,False,4.5,124,2023-03-20T23:15:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_assists_over_under,andrew nembhard,True,7.5,174,2023-03-21T01:00:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_assists_over_under,andrew nembhard,True,6.5,100,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_assists_over_under,andrew nembhard,True,5.5,-122,2023-03-20T23:00:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_blocks_over_under,andrew nembhard,True,0.5,1000,2023-03-21T01:00:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,andrew nembhard,False,3.5,-174,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,andrew nembhard,True,7.5,118,2023-03-21T00:30:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,andrew nembhard,False,5.5,-136,2023-03-21T00:45:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_threes_over_under,andrew nembhard,False,1.5,-192,2023-03-20T23:30:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_threes_over_under,andrew nembhard,False,0.5,-650,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,andrew nembhard,False,4.5,-112,2023-03-21T01:00:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_threes_over_under,andrew nembhard,True,0.5,390,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_steals_over_under,andrew nembhard,False,0.5,-1200,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_steals_over_under,andrew nembhard,True,0.5,580,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_rebounds_over_under,andrew nembhard,False,2.5,-225,2023-03-21T00:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_rebounds_over_under,andrew nembhard,False,1.5,-350,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_threes_over_under,andrew nembhard,True,1.5,142,2023-03-20T23:30:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_rebounds_over_under,andrew nembhard,True,1.5,240,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,andrew nembhard,False,13.5,106,2023-03-20T23:15:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,andrew nembhard,False,12.5,102,2023-03-20T22:45:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,andrew nembhard,False,11.5,110,2023-03-20T23:30:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,andrew nembhard,False,10.5,-140,2023-03-20T23:45:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,andrew nembhard,False,9.5,-144,2023-03-21T00:00:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,andrew nembhard,False,7.5,-158,2023-03-21T00:30:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_rebounds_over_under,andrew nembhard,True,2.5,164,2023-03-21T00:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_points_over_under,andrew nembhard,True,21.5,-138,2023-03-23T01:00:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_points_over_under,andrew nembhard,True,11.5,-118,2023-03-22T23:45:01,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_points_over_under,andrew nembhard,True,10.5,-118,2023-03-22T23:30:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_blocks_over_under,andrew nembhard,False,0.5,-50000,2023-03-23T01:45:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_blocks_over_under,andrew nembhard,True,0.5,1000,2023-03-23T01:15:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_assists_over_under,andrew nembhard,False,9.5,-144,2023-03-23T01:45:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_assists_over_under,andrew nembhard,True,7.5,158,2023-03-23T01:15:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_assists_over_under,andrew nembhard,False,6.5,194,2023-03-23T01:30:01,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_assists_over_under,andrew nembhard,False,5.5,-118,2023-03-22T23:30:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_assists_over_under,andrew nembhard,True,6.5,-270,2023-03-23T01:30:01,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_assists_over_under,andrew nembhard,True,5.5,-104,2023-03-22T23:30:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_points_over_under,andrew nembhard,True,22.5,102,2023-03-23T01:30:01,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_assists_over_under,andrew nembhard,False,7.5,-215,2023-03-23T01:15:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_points_over_under,andrew nembhard,True,23.5,142,2023-03-23T01:45:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_assists_over_under,andrew nembhard,True,9.5,108,2023-03-23T01:45:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_points_over_under,andrew nembhard,False,11.5,-112,2023-03-22T23:45:01,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_points_over_under,andrew nembhard,False,10.5,-104,2023-03-22T23:30:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_threes_over_under,andrew nembhard,False,1.5,-205,2023-03-22T23:45:01,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_threes_over_under,andrew nembhard,True,2.5,490,2023-03-23T01:45:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_threes_over_under,andrew nembhard,True,1.5,152,2023-03-22T23:45:01,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_steals_over_under,andrew nembhard,False,0.5,-1400,2023-03-23T01:45:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_steals_over_under,andrew nembhard,True,0.5,630,2023-03-23T01:45:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_threes_over_under,andrew nembhard,False,2.5,-900,2023-03-23T01:45:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_rebounds_over_under,andrew nembhard,False,1.5,-182,2023-03-23T01:30:01,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_rebounds_over_under,andrew nembhard,True,2.5,280,2023-03-23T01:45:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_rebounds_over_under,andrew nembhard,True,1.5,134,2023-03-23T01:30:01,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_points_over_under,andrew nembhard,False,23.5,-192,2023-03-23T01:45:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_points_over_under,andrew nembhard,False,22.5,-136,2023-03-23T01:30:01,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_rebounds_over_under,andrew nembhard,False,2.5,-420,2023-03-23T01:45:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_points_over_under,andrew nembhard,False,21.5,104,2023-03-23T01:00:02,Toronto Raptors,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_rebounds_over_under,andrew nembhard,True,2.5,168,2023-03-25T01:00:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_rebounds_over_under,andrew nembhard,True,3.5,136,2023-03-25T00:00:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_rebounds_over_under,andrew nembhard,False,2.5,-230,2023-03-25T01:00:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_rebounds_over_under,andrew nembhard,False,3.5,-182,2023-03-25T00:00:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_steals_over_under,andrew nembhard,True,0.5,410,2023-03-25T00:45:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_steals_over_under,andrew nembhard,True,1.5,490,2023-03-25T01:00:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_threes_over_under,andrew nembhard,True,0.5,280,2023-03-25T01:00:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_threes_over_under,andrew nembhard,True,1.5,172,2023-03-24T23:15:02,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_threes_over_under,andrew nembhard,False,0.5,-420,2023-03-25T01:00:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_threes_over_under,andrew nembhard,False,1.5,-235,2023-03-24T23:15:02,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_points_over_under,andrew nembhard,False,11.5,-144,2023-03-24T23:45:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_blocks_over_under,andrew nembhard,False,0.5,-7000,2023-03-25T00:45:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_steals_over_under,andrew nembhard,False,1.5,-900,2023-03-25T01:00:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_points_over_under,andrew nembhard,False,10.5,112,2023-03-24T23:15:02,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_steals_over_under,andrew nembhard,False,0.5,-700,2023-03-25T00:45:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_points_over_under,andrew nembhard,False,8.5,-210,2023-03-25T00:45:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_points_over_under,andrew nembhard,False,9.5,100,2023-03-24T22:45:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_blocks_over_under,andrew nembhard,True,0.5,1000,2023-03-25T00:45:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_assists_over_under,andrew nembhard,False,3.5,-188,2023-03-24T23:45:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_assists_over_under,andrew nembhard,False,2.5,-138,2023-03-25T01:00:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_assists_over_under,andrew nembhard,False,1.5,-122,2023-03-25T00:45:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_assists_over_under,andrew nembhard,True,3.5,140,2023-03-24T23:45:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_points_over_under,andrew nembhard,True,7.5,-172,2023-03-25T01:00:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_assists_over_under,andrew nembhard,True,1.5,-108,2023-03-25T00:45:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_points_over_under,andrew nembhard,True,8.5,154,2023-03-25T00:45:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_points_over_under,andrew nembhard,True,9.5,-122,2023-03-24T22:45:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_points_over_under,andrew nembhard,True,10.5,-148,2023-03-24T23:15:02,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_points_over_under,andrew nembhard,True,11.5,108,2023-03-24T23:45:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_assists_over_under,andrew nembhard,True,2.5,104,2023-03-25T01:00:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_points_over_under,andrew nembhard,False,7.5,128,2023-03-25T01:00:01,Boston Celtics,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_points_over_under,andrew nembhard,False,16.5,-122,2023-03-25T21:45:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_points_over_under,andrew nembhard,False,17.5,-112,2023-03-25T21:30:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_rebounds_over_under,andrew nembhard,True,1.5,230,2023-03-25T23:00:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_rebounds_over_under,andrew nembhard,True,2.5,188,2023-03-25T22:00:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_threes_over_under,andrew nembhard,False,2.5,-700,2023-03-25T23:00:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_rebounds_over_under,andrew nembhard,False,2.5,-250,2023-03-25T22:15:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_points_over_under,andrew nembhard,False,15.5,-128,2023-03-25T21:15:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_steals_over_under,andrew nembhard,True,0.5,630,2023-03-25T23:00:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_steals_over_under,andrew nembhard,False,0.5,-1400,2023-03-25T23:00:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_threes_over_under,andrew nembhard,True,1.5,-270,2023-03-25T21:15:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_threes_over_under,andrew nembhard,True,2.5,410,2023-03-25T23:00:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_threes_over_under,andrew nembhard,False,1.5,194,2023-03-25T21:15:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_rebounds_over_under,andrew nembhard,False,1.5,-330,2023-03-25T23:00:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_points_over_under,andrew nembhard,False,14.5,-160,2023-03-25T22:45:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_points_over_under,andrew nembhard,True,16.5,-106,2023-03-25T21:45:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_points_over_under,andrew nembhard,False,7.5,-104,2023-03-25T21:00:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_points_over_under,andrew nembhard,True,17.5,-118,2023-03-25T21:30:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_points_over_under,andrew nembhard,True,15.5,-104,2023-03-25T21:15:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_points_over_under,andrew nembhard,True,14.5,120,2023-03-25T22:45:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_points_over_under,andrew nembhard,True,13.5,134,2023-03-25T23:00:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_blocks_over_under,andrew nembhard,False,1.5,-10000,2023-03-25T23:00:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_blocks_over_under,andrew nembhard,False,0.5,-1000,2023-03-25T21:45:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_blocks_over_under,andrew nembhard,True,1.5,1000,2023-03-25T22:45:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_blocks_over_under,andrew nembhard,True,0.5,520,2023-03-25T21:45:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_assists_over_under,andrew nembhard,False,5.5,-260,2023-03-25T22:30:02,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_assists_over_under,andrew nembhard,False,4.5,-188,2023-03-25T23:00:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_assists_over_under,andrew nembhard,False,2.5,130,2023-03-25T21:15:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_assists_over_under,andrew nembhard,True,5.5,188,2023-03-25T22:30:02,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_assists_over_under,andrew nembhard,True,2.5,-174,2023-03-25T21:15:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_points_over_under,andrew nembhard,False,13.5,-180,2023-03-25T23:00:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_points_over_under,andrew nembhard,True,7.5,-118,2023-03-25T21:00:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_assists_over_under,andrew nembhard,True,4.5,140,2023-03-25T23:00:01,Atlanta Hawks,Indiana Pacers
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,andrew nembhard,False,12.5,120,2023-03-28T00:30:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_assists_over_under,andrew nembhard,True,5.5,230,2023-03-28T01:15:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_assists_over_under,andrew nembhard,True,6.5,158,2023-03-28T00:45:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_assists_over_under,andrew nembhard,False,5.5,-330,2023-03-28T01:15:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_assists_over_under,andrew nembhard,False,6.5,-215,2023-03-28T00:45:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_blocks_over_under,andrew nembhard,True,0.5,1000,2023-03-28T00:30:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_blocks_over_under,andrew nembhard,False,0.5,-100000,2023-03-28T01:15:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,andrew nembhard,True,12.5,-160,2023-03-28T00:30:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,andrew nembhard,True,14.5,112,2023-03-28T00:15:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,andrew nembhard,True,15.5,116,2023-03-28T00:00:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,andrew nembhard,True,16.5,-172,2023-03-28T01:00:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,andrew nembhard,True,17.5,-118,2023-03-28T01:15:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,andrew nembhard,False,14.5,-148,2023-03-28T00:15:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,andrew nembhard,False,15.5,-152,2023-03-28T00:00:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,andrew nembhard,False,17.5,-114,2023-03-28T01:15:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_rebounds_over_under,andrew nembhard,True,2.5,-168,2023-03-27T23:45:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,andrew nembhard,False,16.5,128,2023-03-28T01:00:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_rebounds_over_under,andrew nembhard,True,4.5,142,2023-03-28T00:15:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_threes_over_under,andrew nembhard,False,1.5,-2000,2023-03-28T01:15:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_threes_over_under,andrew nembhard,False,0.5,-112,2023-03-28T00:30:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_threes_over_under,andrew nembhard,True,1.5,750,2023-03-28T01:15:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_threes_over_under,andrew nembhard,True,0.5,-118,2023-03-28T00:30:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_steals_over_under,andrew nembhard,False,1.5,-3500,2023-03-28T01:15:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_steals_over_under,andrew nembhard,False,0.5,-198,2023-03-28T00:30:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_rebounds_over_under,andrew nembhard,True,3.5,174,2023-03-28T01:00:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_steals_over_under,andrew nembhard,True,1.5,920,2023-03-28T01:15:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_rebounds_over_under,andrew nembhard,False,5.5,-1000,2023-03-28T01:15:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_rebounds_over_under,andrew nembhard,False,4.5,-192,2023-03-28T00:15:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_rebounds_over_under,andrew nembhard,False,3.5,-240,2023-03-28T01:00:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_rebounds_over_under,andrew nembhard,False,2.5,126,2023-03-27T23:45:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_rebounds_over_under,andrew nembhard,True,5.5,520,2023-03-28T01:15:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_steals_over_under,andrew nembhard,True,0.5,146,2023-03-28T00:30:02,Indiana Pacers,Dallas Mavericks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_assists_over_under,andrew nembhard,False,9.5,122,2023-03-30T00:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_assists_over_under,andrew nembhard,False,5.5,-114,2023-03-29T22:45:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_assists_over_under,andrew nembhard,False,7.5,126,2023-03-30T00:00:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_assists_over_under,andrew nembhard,False,6.5,110,2023-03-29T23:45:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_blocks_over_under,andrew nembhard,False,0.5,-50000,2023-03-30T01:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,andrew nembhard,True,9.5,-104,2023-03-29T23:45:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_assists_over_under,andrew nembhard,True,7.5,-172,2023-03-30T00:00:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_assists_over_under,andrew nembhard,True,6.5,-146,2023-03-29T23:45:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_assists_over_under,andrew nembhard,True,5.5,-106,2023-03-29T22:45:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_assists_over_under,andrew nembhard,False,14.5,104,2023-03-30T01:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_assists_over_under,andrew nembhard,True,14.5,-138,2023-03-30T01:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_assists_over_under,andrew nembhard,False,15.5,-125,2023-03-30T00:45:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_assists_over_under,andrew nembhard,True,15.5,-106,2023-03-30T00:45:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_assists_over_under,andrew nembhard,True,9.5,-162,2023-03-30T00:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_blocks_over_under,andrew nembhard,True,0.5,1000,2023-03-30T00:30:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_threes_over_under,andrew nembhard,False,1.5,-470,2023-03-30T01:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_threes_over_under,andrew nembhard,True,1.5,310,2023-03-30T01:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_steals_over_under,andrew nembhard,False,0.5,-1100,2023-03-30T01:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_steals_over_under,andrew nembhard,True,0.5,550,2023-03-30T01:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_rebounds_over_under,andrew nembhard,False,4.5,-200,2023-03-29T23:45:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_rebounds_over_under,andrew nembhard,False,3.5,-225,2023-03-30T00:30:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_rebounds_over_under,andrew nembhard,False,2.5,-240,2023-03-30T01:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_rebounds_over_under,andrew nembhard,True,4.5,148,2023-03-29T23:45:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_rebounds_over_under,andrew nembhard,True,2.5,174,2023-03-30T01:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,andrew nembhard,False,16.5,-108,2023-03-30T00:45:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_rebounds_over_under,andrew nembhard,True,3.5,164,2023-03-30T00:30:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,andrew nembhard,False,14.5,102,2023-03-30T01:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,andrew nembhard,True,10.5,102,2023-03-29T23:30:02,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,andrew nembhard,True,12.5,-118,2023-03-29T23:15:02,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,andrew nembhard,True,13.5,-124,2023-03-29T21:45:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,andrew nembhard,False,15.5,-125,2023-03-30T01:00:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,andrew nembhard,True,15.5,-106,2023-03-30T01:00:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,andrew nembhard,True,14.5,-136,2023-03-30T01:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,andrew nembhard,False,9.5,-128,2023-03-29T23:45:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,andrew nembhard,False,10.5,-136,2023-03-29T23:30:02,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,andrew nembhard,False,12.5,-112,2023-03-29T23:15:02,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,andrew nembhard,False,13.5,102,2023-03-29T21:45:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,andrew nembhard,True,16.5,-122,2023-03-30T00:45:01,Indiana Pacers,Milwaukee Bucks
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,andrew nembhard,False,9.5,-114,2023-03-31T23:46:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,andrew nembhard,False,14.5,-166,2023-04-01T01:10:02,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,andrew nembhard,False,12.5,116,2023-04-01T00:08:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,andrew nembhard,False,11.5,116,2023-04-01T00:04:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,andrew nembhard,False,10.5,112,2023-03-31T23:56:02,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,andrew nembhard,True,18.5,-220,2023-04-01T01:26:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_assists_over_under,andrew nembhard,True,7.5,-188,2023-04-01T00:54:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,andrew nembhard,True,14.5,124,2023-04-01T01:10:02,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_assists_over_under,andrew nembhard,True,6.5,114,2023-04-01T01:26:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_assists_over_under,andrew nembhard,True,5.5,-188,2023-04-01T01:20:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_assists_over_under,andrew nembhard,False,5.5,140,2023-04-01T01:20:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_assists_over_under,andrew nembhard,False,6.5,-152,2023-04-01T01:26:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_assists_over_under,andrew nembhard,False,7.5,140,2023-04-01T00:54:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_assists_over_under,andrew nembhard,False,8.5,-192,2023-04-01T00:56:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_blocks_over_under,andrew nembhard,True,0.5,1000,2023-04-01T01:10:02,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_blocks_over_under,andrew nembhard,False,0.5,-50000,2023-04-01T01:22:02,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,andrew nembhard,True,9.5,-114,2023-03-31T23:46:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,andrew nembhard,True,10.5,-148,2023-03-31T23:56:02,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,andrew nembhard,True,11.5,-154,2023-04-01T00:04:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,andrew nembhard,True,12.5,-154,2023-04-01T00:08:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,andrew nembhard,True,13.5,104,2023-04-01T00:10:02,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,andrew nembhard,False,15.5,-152,2023-04-01T00:12:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,andrew nembhard,False,18.5,162,2023-04-01T01:26:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_rebounds_over_under,andrew nembhard,True,1.5,120,2023-04-01T00:06:02,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_rebounds_over_under,andrew nembhard,True,2.5,198,2023-04-01T01:20:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_rebounds_over_under,andrew nembhard,True,3.5,320,2023-04-01T01:26:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_rebounds_over_under,andrew nembhard,False,1.5,-160,2023-04-01T00:06:02,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_rebounds_over_under,andrew nembhard,False,2.5,-275,2023-04-01T01:20:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_rebounds_over_under,andrew nembhard,False,3.5,-500,2023-04-01T01:26:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_steals_over_under,andrew nembhard,True,0.5,920,2023-04-01T01:26:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_steals_over_under,andrew nembhard,False,0.5,-3500,2023-04-01T01:26:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_threes_over_under,andrew nembhard,True,1.5,-125,2023-04-01T00:54:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_threes_over_under,andrew nembhard,True,2.5,240,2023-04-01T01:10:02,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_threes_over_under,andrew nembhard,True,3.5,580,2023-04-01T01:26:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_threes_over_under,andrew nembhard,False,1.5,-106,2023-04-01T00:54:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_threes_over_under,andrew nembhard,False,2.5,-350,2023-04-01T01:10:02,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_threes_over_under,andrew nembhard,False,3.5,-1200,2023-04-01T01:26:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_assists_over_under,andrew nembhard,True,8.5,142,2023-04-01T00:56:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,andrew nembhard,True,15.5,114,2023-04-01T00:12:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,andrew nembhard,False,13.5,-138,2023-04-01T00:10:02,Indiana Pacers,Oklahoma City Thunder
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_threes_over_under,andrew nembhard,False,1.5,-1450,2023-04-03T02:24:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,andrew nembhard,False,7.5,-102,2023-04-03T01:30:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,andrew nembhard,True,13.5,106,2023-04-03T00:18:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,andrew nembhard,True,12.5,118,2023-04-03T01:58:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,andrew nembhard,True,11.5,-172,2023-04-03T02:24:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,andrew nembhard,True,10.5,152,2023-04-03T02:20:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,andrew nembhard,True,8.5,110,2023-04-03T01:28:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,andrew nembhard,True,7.5,-130,2023-04-03T01:30:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_blocks_over_under,andrew nembhard,False,0.5,-100000,2023-04-03T02:24:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_blocks_over_under,andrew nembhard,True,0.5,1000,2023-04-03T01:40:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_assists_over_under,andrew nembhard,False,9.5,-250,2023-04-03T02:06:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_assists_over_under,andrew nembhard,False,8.5,-260,2023-04-03T02:24:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_assists_over_under,andrew nembhard,False,7.5,110,2023-04-03T00:58:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_assists_over_under,andrew nembhard,False,6.5,110,2023-04-03T00:50:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_assists_over_under,andrew nembhard,False,5.5,-162,2023-04-03T00:16:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_assists_over_under,andrew nembhard,True,9.5,188,2023-04-03T02:06:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_assists_over_under,andrew nembhard,True,8.5,188,2023-04-03T02:24:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_assists_over_under,andrew nembhard,True,7.5,-146,2023-04-03T00:58:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_assists_over_under,andrew nembhard,True,6.5,-146,2023-04-03T00:50:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_assists_over_under,andrew nembhard,True,5.5,122,2023-04-03T00:16:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,andrew nembhard,False,8.5,-146,2023-04-03T01:28:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,andrew nembhard,False,9.5,-160,2023-04-03T01:32:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,andrew nembhard,True,9.5,120,2023-04-03T01:32:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,andrew nembhard,False,10.5,-205,2023-04-03T02:20:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_threes_over_under,andrew nembhard,True,1.5,640,2023-04-03T02:24:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_threes_over_under,andrew nembhard,True,0.5,102,2023-04-03T01:32:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_threes_over_under,andrew nembhard,False,0.5,-136,2023-04-03T01:32:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_steals_over_under,andrew nembhard,False,2.5,-225,2023-04-03T01:14:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_steals_over_under,andrew nembhard,False,1.5,100,2023-04-03T00:20:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_steals_over_under,andrew nembhard,False,0.5,116,2023-04-03T00:14:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_steals_over_under,andrew nembhard,True,3.5,1000,2023-04-03T02:24:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_steals_over_under,andrew nembhard,True,2.5,164,2023-04-03T01:14:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_steals_over_under,andrew nembhard,True,1.5,-132,2023-04-03T00:20:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_steals_over_under,andrew nembhard,True,0.5,-152,2023-04-03T00:14:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_steals_over_under,andrew nembhard,False,3.5,-4000,2023-04-03T02:24:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_rebounds_over_under,andrew nembhard,False,2.5,-800,2023-04-03T02:24:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_rebounds_over_under,andrew nembhard,False,1.5,-102,2023-04-03T00:52:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_rebounds_over_under,andrew nembhard,True,3.5,178,2023-04-03T01:28:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_rebounds_over_under,andrew nembhard,True,2.5,450,2023-04-03T02:24:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_rebounds_over_under,andrew nembhard,True,1.5,-130,2023-04-03T00:52:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,andrew nembhard,False,13.5,-140,2023-04-03T00:18:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,andrew nembhard,False,12.5,-158,2023-04-03T01:58:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,andrew nembhard,False,11.5,128,2023-04-03T02:24:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_rebounds_over_under,andrew nembhard,False,3.5,-245,2023-04-03T01:28:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_assists_over_under,andrew nembhard,True,8.5,130,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_assists_over_under,andrew nembhard,True,7.5,-140,2023-04-06T00:45:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_assists_over_under,andrew nembhard,True,6.5,-175,2023-04-06T00:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_assists_over_under,andrew nembhard,True,5.5,-140,2023-04-05T23:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_assists_over_under,andrew nembhard,True,6.5,125,2023-04-04T19:51:15,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_assists_over_under,andrew nembhard,False,8.5,-114,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_assists_over_under,andrew nembhard,False,7.5,100,2023-04-06T00:45:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_assists_over_under,andrew nembhard,True,7.5,-132,2023-04-06T00:45:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_assists_over_under,andrew nembhard,False,5.5,106,2023-04-05T23:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_assists_over_under,andrew nembhard,True,8.5,-114,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_assists_over_under,andrew nembhard,True,6.5,-180,2023-04-06T00:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_assists_over_under,andrew nembhard,True,5.5,-140,2023-04-05T23:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_threes_over_under,andrew nembhard,False,1.5,-1200,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_assists_over_under,andrew nembhard,False,6.5,-155,2023-04-04T19:51:15,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_assists_over_under,andrew nembhard,False,6.5,134,2023-04-06T00:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_assists_over_under,andrew nembhard,False,5.5,105,2023-04-05T23:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_threes_over_under,andrew nembhard,False,0.5,130,2023-04-06T00:00:02,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_assists_over_under,andrew nembhard,False,7.5,105,2023-04-06T00:45:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_steals_over_under,andrew nembhard,True,0.5,182,2023-04-06T00:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_rebounds_over_under,andrew nembhard,False,4.5,-235,2023-04-06T00:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_rebounds_over_under,andrew nembhard,False,3.5,-500,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_rebounds_over_under,andrew nembhard,False,2.5,-120,2023-04-06T00:00:02,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_rebounds_over_under,andrew nembhard,False,2.5,-105,2023-04-04T19:51:15,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_rebounds_over_under,andrew nembhard,True,4.5,170,2023-04-06T00:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_rebounds_over_under,andrew nembhard,True,3.5,330,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_rebounds_over_under,andrew nembhard,True,2.5,-110,2023-04-06T00:00:02,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_rebounds_over_under,andrew nembhard,True,2.5,-125,2023-04-04T19:51:15,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_rebounds_over_under,andrew nembhard,False,4.5,-245,2023-04-06T00:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_rebounds_over_under,andrew nembhard,False,3.5,-350,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_rebounds_over_under,andrew nembhard,False,2.5,-114,2023-04-06T00:00:02,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_steals_over_under,andrew nembhard,True,1.5,750,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_rebounds_over_under,andrew nembhard,True,4.5,178,2023-04-06T00:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_rebounds_over_under,andrew nembhard,True,2.5,-114,2023-04-06T00:00:02,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,andrew nembhard,False,13.5,-125,2023-04-06T00:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,andrew nembhard,False,12.5,170,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,andrew nembhard,False,11.5,-105,2023-04-06T00:45:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,andrew nembhard,False,9.5,-110,2023-04-06T00:00:02,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,andrew nembhard,True,13.5,-105,2023-04-06T00:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,andrew nembhard,True,12.5,-230,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,andrew nembhard,True,11.5,-125,2023-04-06T00:45:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,andrew nembhard,True,9.5,-120,2023-04-06T00:00:02,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,andrew nembhard,True,13.5,100,2023-04-04T19:51:15,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_points_over_under,andrew nembhard,False,13.5,-158,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_assists_over_under,andrew nembhard,False,6.5,130,2023-04-06T00:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_rebounds_over_under,andrew nembhard,True,3.5,240,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_steals_over_under,andrew nembhard,False,0.5,-250,2023-04-06T00:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,andrew nembhard,False,13.5,-130,2023-04-04T19:51:15,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_steals_over_under,andrew nembhard,True,0.5,-165,2023-04-04T19:51:15,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_steals_over_under,andrew nembhard,False,1.5,-2000,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_assists_over_under,andrew nembhard,False,8.5,-175,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_blocks_over_under,andrew nembhard,False,0.5,-50000,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_blocks_over_under,andrew nembhard,True,0.5,450,2023-04-04T19:51:15,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_blocks_over_under,andrew nembhard,True,0.5,1000,2023-04-06T00:45:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_blocks_over_under,andrew nembhard,False,0.5,-650,2023-04-04T19:51:15,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_blocks_over_under,andrew nembhard,False,0.5,-690,2023-04-05T15:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_points_over_under,andrew nembhard,True,9.5,-136,2023-04-06T00:00:02,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_points_over_under,andrew nembhard,True,11.5,-125,2023-04-06T00:45:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_points_over_under,andrew nembhard,True,12.5,-172,2023-04-06T01:00:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_points_over_under,andrew nembhard,True,13.5,118,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_points_over_under,andrew nembhard,False,9.5,102,2023-04-06T00:00:02,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_points_over_under,andrew nembhard,False,11.5,-106,2023-04-06T00:45:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_blocks_over_under,andrew nembhard,True,0.5,470,2023-04-05T15:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_threes_over_under,andrew nembhard,False,1.5,-135,2023-04-04T19:51:15,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_steals_over_under,andrew nembhard,True,0.5,170,2023-04-06T00:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_points_over_under,andrew nembhard,False,12.5,128,2023-04-06T01:00:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_steals_over_under,andrew nembhard,False,0.5,135,2023-04-04T19:51:15,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_steals_over_under,andrew nembhard,False,0.5,-235,2023-04-06T00:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_steals_over_under,andrew nembhard,False,1.5,-2500,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_threes_over_under,andrew nembhard,True,0.5,-182,2023-04-06T00:00:02,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_steals_over_under,andrew nembhard,True,1.5,800,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_threes_over_under,andrew nembhard,False,0.5,136,2023-04-06T00:00:02,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_threes_over_under,andrew nembhard,False,1.5,-800,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_threes_over_under,andrew nembhard,True,1.5,105,2023-04-04T19:51:15,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_threes_over_under,andrew nembhard,True,0.5,-175,2023-04-06T00:00:02,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_threes_over_under,andrew nembhard,True,1.5,450,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_threes_over_under,andrew nembhard,True,1.5,600,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_points_over_under,andrew nembhard,False,16.5,-135,2023-04-07T23:15:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_rebounds_over_under,andrew nembhard,True,3.5,110,2023-04-07T22:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_rebounds_over_under,andrew nembhard,False,3.5,-139,2023-04-07T21:30:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_rebounds_over_under,andrew nembhard,True,3.5,102,2023-04-07T21:30:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_rebounds_over_under,andrew nembhard,False,4.5,-550,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_rebounds_over_under,andrew nembhard,False,3.5,-160,2023-04-08T01:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_rebounds_over_under,andrew nembhard,False,2.5,-195,2023-04-08T00:30:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_rebounds_over_under,andrew nembhard,True,4.5,350,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_rebounds_over_under,andrew nembhard,True,3.5,120,2023-04-08T01:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_rebounds_over_under,andrew nembhard,False,3.5,-162,2023-04-08T01:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_rebounds_over_under,andrew nembhard,False,4.5,-500,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_rebounds_over_under,andrew nembhard,False,2.5,-205,2023-04-08T00:30:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_rebounds_over_under,andrew nembhard,True,4.5,320,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_rebounds_over_under,andrew nembhard,True,3.5,122,2023-04-08T01:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_points_over_under,andrew nembhard,False,14.5,100,2023-04-07T22:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_points_over_under,andrew nembhard,True,14.5,-130,2023-04-07T22:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_points_over_under,andrew nembhard,False,14.5,-104,2023-04-07T21:30:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_points_over_under,andrew nembhard,True,14.5,-131,2023-04-07T21:30:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_rebounds_over_under,andrew nembhard,True,2.5,145,2023-04-08T00:30:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_rebounds_over_under,andrew nembhard,False,3.5,-145,2023-04-07T22:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_threes_over_under,andrew nembhard,False,0.5,-1450,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_steals_over_under,andrew nembhard,False,0.5,-3000,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_points_over_under,andrew nembhard,False,15.5,-110,2023-04-08T00:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_threes_over_under,andrew nembhard,False,1.5,-110,2023-04-07T22:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_threes_over_under,andrew nembhard,True,1.5,-120,2023-04-07T22:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_threes_over_under,andrew nembhard,False,1.5,-108,2023-04-07T21:30:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_threes_over_under,andrew nembhard,True,1.5,-127,2023-04-07T21:30:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_threes_over_under,andrew nembhard,False,1.5,-230,2023-04-07T23:45:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_threes_over_under,andrew nembhard,False,0.5,-1600,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_threes_over_under,andrew nembhard,True,1.5,170,2023-04-07T23:45:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_threes_over_under,andrew nembhard,True,0.5,700,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_steals_over_under,andrew nembhard,True,0.5,880,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_threes_over_under,andrew nembhard,False,1.5,-245,2023-04-07T23:45:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_threes_over_under,andrew nembhard,True,0.5,640,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_steals_over_under,andrew nembhard,False,1.5,-250,2023-04-07T22:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_steals_over_under,andrew nembhard,True,1.5,170,2023-04-07T22:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_steals_over_under,andrew nembhard,False,1.5,-234,2023-04-07T21:30:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_steals_over_under,andrew nembhard,True,1.5,165,2023-04-07T21:30:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_steals_over_under,andrew nembhard,False,1.5,-220,2023-04-07T21:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_steals_over_under,andrew nembhard,False,0.5,-3000,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_steals_over_under,andrew nembhard,True,1.5,180,2023-04-07T21:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_steals_over_under,andrew nembhard,True,0.5,900,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_threes_over_under,andrew nembhard,True,1.5,178,2023-04-07T23:45:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_points_over_under,andrew nembhard,False,14.5,-165,2023-04-08T01:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_rebounds_over_under,andrew nembhard,True,2.5,152,2023-04-08T00:30:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_points_over_under,andrew nembhard,False,12.5,130,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_assists_over_under,andrew nembhard,False,8.5,-120,2023-04-07T22:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_assists_over_under,andrew nembhard,True,8.5,-110,2023-04-07T22:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_assists_over_under,andrew nembhard,False,8.5,-108,2023-04-07T22:45:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_assists_over_under,andrew nembhard,True,8.5,-127,2023-04-07T22:45:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_assists_over_under,andrew nembhard,False,9.5,-160,2023-04-08T00:30:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_assists_over_under,andrew nembhard,False,8.5,-165,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_assists_over_under,andrew nembhard,False,7.5,115,2023-04-08T00:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_assists_over_under,andrew nembhard,True,9.5,120,2023-04-08T00:30:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_assists_over_under,andrew nembhard,True,8.5,125,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_assists_over_under,andrew nembhard,True,7.5,-155,2023-04-08T00:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_assists_over_under,andrew nembhard,False,9.5,-210,2023-04-08T00:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_assists_over_under,andrew nembhard,False,8.5,-154,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_assists_over_under,andrew nembhard,False,7.5,118,2023-04-08T00:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_assists_over_under,andrew nembhard,True,9.5,154,2023-04-08T00:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_assists_over_under,andrew nembhard,True,8.5,116,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_assists_over_under,andrew nembhard,True,7.5,-158,2023-04-08T00:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_points_over_under,andrew nembhard,False,13.5,105,2023-04-08T00:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_blocks_over_under,andrew nembhard,True,0.5,1000,2023-04-08T00:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_blocks_over_under,andrew nembhard,True,0.5,330,2023-04-07T21:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_blocks_over_under,andrew nembhard,False,0.5,-50000,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_blocks_over_under,andrew nembhard,True,0.5,287,2023-04-07T21:30:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_points_over_under,andrew nembhard,True,16.5,105,2023-04-07T23:15:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_points_over_under,andrew nembhard,True,15.5,-120,2023-04-08T00:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_points_over_under,andrew nembhard,True,14.5,125,2023-04-08T01:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_points_over_under,andrew nembhard,True,13.5,-135,2023-04-08T00:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_points_over_under,andrew nembhard,True,12.5,-175,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_blocks_over_under,andrew nembhard,False,0.5,-440,2023-04-07T21:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_points_over_under,andrew nembhard,False,15.5,-102,2023-04-08T00:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_points_over_under,andrew nembhard,False,14.5,-158,2023-04-08T01:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_points_over_under,andrew nembhard,False,13.5,-114,2023-04-08T00:30:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_points_over_under,andrew nembhard,False,16.5,-140,2023-04-07T23:15:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_points_over_under,andrew nembhard,True,16.5,106,2023-04-07T23:15:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_points_over_under,andrew nembhard,True,15.5,-130,2023-04-08T00:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_points_over_under,andrew nembhard,True,14.5,118,2023-04-08T01:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_points_over_under,andrew nembhard,True,13.5,-114,2023-04-08T00:30:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_points_over_under,andrew nembhard,True,12.5,-210,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_blocks_over_under,andrew nembhard,False,0.5,-500,2023-04-07T22:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_blocks_over_under,andrew nembhard,True,0.5,320,2023-04-07T22:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_blocks_over_under,andrew nembhard,False,0.5,-454,2023-04-07T21:30:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_points_over_under,andrew nembhard,False,12.5,154,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_steals_over_under,andrew nembhard,True,1.5,320,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_steals_over_under,andrew nembhard,True,0.5,-114,2023-04-09T17:30:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,caesars,player_rebounds_over_under,andrew nembhard,False,2.5,126,2023-04-09T16:45:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,caesars,player_rebounds_over_under,andrew nembhard,True,2.5,-174,2023-04-09T16:45:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_rebounds_over_under,andrew nembhard,False,3.5,105,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_rebounds_over_under,andrew nembhard,False,2.5,-190,2023-04-09T17:45:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_rebounds_over_under,andrew nembhard,False,1.5,130,2023-04-09T18:00:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_rebounds_over_under,andrew nembhard,True,3.5,154,2023-04-09T19:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_rebounds_over_under,andrew nembhard,True,2.5,145,2023-04-09T17:45:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_rebounds_over_under,andrew nembhard,True,1.5,-175,2023-04-09T18:00:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_rebounds_over_under,andrew nembhard,False,4.5,-260,2023-04-09T18:45:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_rebounds_over_under,andrew nembhard,False,3.5,-210,2023-04-09T19:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_rebounds_over_under,andrew nembhard,False,2.5,-188,2023-04-09T17:45:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_rebounds_over_under,andrew nembhard,False,1.5,146,2023-04-09T18:00:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_rebounds_over_under,andrew nembhard,True,4.5,188,2023-04-09T18:45:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_rebounds_over_under,andrew nembhard,True,3.5,-140,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_steals_over_under,andrew nembhard,True,2.5,580,2023-04-09T19:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,caesars,player_steals_over_under,andrew nembhard,False,0.5,118,2023-04-09T16:45:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_steals_over_under,andrew nembhard,False,1.5,-500,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,caesars,player_threes_over_under,andrew nembhard,False,1.5,-179,2023-04-09T16:45:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,caesars,player_threes_over_under,andrew nembhard,True,1.5,129,2023-04-09T16:45:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_threes_over_under,andrew nembhard,False,1.5,-270,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_threes_over_under,andrew nembhard,False,0.5,140,2023-04-09T18:00:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_threes_over_under,andrew nembhard,True,1.5,195,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_threes_over_under,andrew nembhard,True,0.5,-190,2023-04-09T18:00:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_threes_over_under,andrew nembhard,False,1.5,-600,2023-04-09T19:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_threes_over_under,andrew nembhard,False,0.5,140,2023-04-09T18:00:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_threes_over_under,andrew nembhard,True,1.5,370,2023-04-09T19:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_threes_over_under,andrew nembhard,True,0.5,-188,2023-04-09T18:00:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_rebounds_over_under,andrew nembhard,True,2.5,140,2023-04-09T17:45:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,caesars,player_steals_over_under,andrew nembhard,True,0.5,-163,2023-04-09T16:45:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_steals_over_under,andrew nembhard,False,1.5,-500,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_steals_over_under,andrew nembhard,False,0.5,-115,2023-04-09T17:30:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_steals_over_under,andrew nembhard,True,1.5,330,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_steals_over_under,andrew nembhard,True,0.5,-115,2023-04-09T17:30:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_steals_over_under,andrew nembhard,False,2.5,-1200,2023-04-09T19:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_steals_over_under,andrew nembhard,False,0.5,-118,2023-04-09T17:30:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_rebounds_over_under,andrew nembhard,True,1.5,-198,2023-04-09T18:00:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_assists_over_under,andrew nembhard,False,7.5,-154,2023-04-09T18:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,caesars,player_points_over_under,andrew nembhard,True,13.5,-121,2023-04-09T16:45:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,caesars,player_blocks_over_under,andrew nembhard,True,0.5,311,2023-04-09T16:45:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,caesars,player_blocks_over_under,andrew nembhard,False,0.5,-504,2023-04-09T16:45:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_points_over_under,andrew nembhard,True,13.5,104,2023-04-09T18:00:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_points_over_under,andrew nembhard,True,14.5,126,2023-04-09T18:45:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_points_over_under,andrew nembhard,True,16.5,-188,2023-04-09T19:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_points_over_under,andrew nembhard,False,13.5,-138,2023-04-09T18:00:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_points_over_under,andrew nembhard,False,14.5,-168,2023-04-09T18:45:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_blocks_over_under,andrew nembhard,False,0.5,-500,2023-04-09T16:45:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_points_over_under,andrew nembhard,False,16.5,140,2023-04-09T19:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_points_over_under,andrew nembhard,True,13.5,-160,2023-04-09T18:45:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_points_over_under,andrew nembhard,False,14.5,-110,2023-04-09T17:30:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_points_over_under,andrew nembhard,False,13.5,120,2023-04-09T18:45:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_points_over_under,andrew nembhard,False,12.5,105,2023-04-09T18:00:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_points_over_under,andrew nembhard,True,16.5,-105,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_points_over_under,andrew nembhard,True,15.5,-140,2023-04-09T18:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_points_over_under,andrew nembhard,True,14.5,-120,2023-04-09T17:30:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_points_over_under,andrew nembhard,True,12.5,-135,2023-04-09T18:00:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,caesars,player_points_over_under,andrew nembhard,False,13.5,-113,2023-04-09T16:45:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_blocks_over_under,andrew nembhard,True,0.5,370,2023-04-09T16:45:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_blocks_over_under,andrew nembhard,True,0.5,1000,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_points_over_under,andrew nembhard,False,16.5,-125,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_points_over_under,andrew nembhard,False,15.5,105,2023-04-09T18:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_assists_over_under,andrew nembhard,True,6.5,-162,2023-04-09T18:45:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_assists_over_under,andrew nembhard,True,7.5,116,2023-04-09T18:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_assists_over_under,andrew nembhard,True,8.5,-188,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_assists_over_under,andrew nembhard,True,10.5,178,2023-04-09T19:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_assists_over_under,andrew nembhard,False,6.5,122,2023-04-09T18:45:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_blocks_over_under,andrew nembhard,False,0.5,-10000,2023-04-09T19:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_assists_over_under,andrew nembhard,False,8.5,140,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_assists_over_under,andrew nembhard,True,6.5,-155,2023-04-09T18:45:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_assists_over_under,andrew nembhard,True,7.5,115,2023-04-09T18:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_assists_over_under,andrew nembhard,True,8.5,-185,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_assists_over_under,andrew nembhard,False,6.5,115,2023-04-09T18:45:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_assists_over_under,andrew nembhard,False,7.5,-150,2023-04-09T18:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_assists_over_under,andrew nembhard,False,8.5,135,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,caesars,player_assists_over_under,andrew nembhard,True,7.5,-133,2023-04-09T16:45:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_assists_over_under,andrew nembhard,False,10.5,-245,2023-04-09T19:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,caesars,player_assists_over_under,andrew nembhard,False,7.5,-103,2023-04-09T16:45:01,New York Knicks,Indiana Pacers
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_assists_over_under,andrew nembhard,True,8.5,-122,2023-10-26T00:55:12,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_steals_over_under,andrew nembhard,False,0.5,-10000,2023-10-26T01:15:30,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_blocks_over_under,andrew nembhard,True,0.5,1000,2023-10-26T00:50:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_assists_over_under,andrew nembhard,False,8.5,-105,2023-10-26T01:00:29,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_assists_over_under,andrew nembhard,True,8.5,-135,2023-10-26T01:00:29,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_assists_over_under,andrew nembhard,False,11.5,-220,2023-10-26T01:00:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_assists_over_under,andrew nembhard,False,10.5,-5000,2023-10-26T01:20:27,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_assists_over_under,andrew nembhard,False,9.5,-170,2023-10-26T00:45:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_assists_over_under,andrew nembhard,False,8.5,-115,2023-10-26T01:00:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_assists_over_under,andrew nembhard,True,11.5,160,2023-10-26T01:00:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_assists_over_under,andrew nembhard,True,10.5,1000,2023-10-26T01:20:27,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_assists_over_under,andrew nembhard,True,9.5,125,2023-10-26T00:45:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_assists_over_under,andrew nembhard,True,8.5,-115,2023-10-26T01:00:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_assists_over_under,andrew nembhard,False,10.5,-158,2023-10-26T01:15:30,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_assists_over_under,andrew nembhard,False,9.5,-192,2023-10-26T00:50:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_assists_over_under,andrew nembhard,True,10.5,120,2023-10-26T01:15:30,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_assists_over_under,andrew nembhard,True,9.5,142,2023-10-26T00:50:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_blocks_over_under,andrew nembhard,True,1.5,1000,2023-10-26T01:05:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_blocks_over_under,andrew nembhard,False,0.5,-100000,2023-10-26T01:15:30,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_assists_over_under,andrew nembhard,False,8.5,-108,2023-10-26T00:55:12,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,andrew nembhard,True,10.5,-115,2023-10-26T00:41:24,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_blocks_over_under,andrew nembhard,False,1.5,-50000,2023-10-26T01:10:14,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_steals_over_under,andrew nembhard,True,0.5,1000,2023-10-26T01:10:14,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_rebounds_over_under,andrew nembhard,False,2.5,-102,2023-10-26T00:55:12,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_rebounds_over_under,andrew nembhard,False,1.5,146,2023-10-26T00:45:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_rebounds_over_under,andrew nembhard,True,4.5,280,2023-10-26T01:15:30,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_rebounds_over_under,andrew nembhard,True,2.5,-130,2023-10-26T00:55:12,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_rebounds_over_under,andrew nembhard,True,1.5,-198,2023-10-26T00:45:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,andrew nembhard,False,12.5,-115,2023-10-26T01:00:29,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_rebounds_over_under,andrew nembhard,False,4.5,-420,2023-10-26T01:15:30,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,andrew nembhard,False,13.5,100,2023-10-26T01:05:18,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,andrew nembhard,False,12.5,-6000,2023-10-26T01:20:27,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,andrew nembhard,False,11.5,110,2023-10-26T00:45:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,andrew nembhard,False,10.5,-115,2023-10-26T00:41:24,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,andrew nembhard,True,13.5,-135,2023-10-26T01:05:18,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,andrew nembhard,True,12.5,1100,2023-10-26T01:20:27,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,andrew nembhard,True,12.5,-125,2023-10-26T01:00:29,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,andrew nembhard,True,11.5,-145,2023-10-26T00:45:04,Indiana Pacers,Washington Wizards
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_rebounds_over_under,andrew nembhard,False,2.5,-340,2023-10-29T01:45:11,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_rebounds_over_under,andrew nembhard,False,1.5,130,2023-10-29T01:05:14,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_rebounds_over_under,andrew nembhard,False,0.5,150,2023-10-29T00:21:57,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_rebounds_over_under,andrew nembhard,True,2.5,240,2023-10-29T01:45:11,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_rebounds_over_under,andrew nembhard,True,1.5,-170,2023-10-29T01:05:14,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_rebounds_over_under,andrew nembhard,True,0.5,-205,2023-10-29T00:21:57,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_rebounds_over_under,andrew nembhard,False,0.5,158,2023-10-29T00:20:26,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_rebounds_over_under,andrew nembhard,False,1.5,130,2023-10-29T01:05:07,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_rebounds_over_under,andrew nembhard,True,2.5,240,2023-10-29T01:45:07,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_rebounds_over_under,andrew nembhard,True,1.5,-174,2023-10-29T01:05:07,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_rebounds_over_under,andrew nembhard,True,0.5,-215,2023-10-29T00:20:26,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_rebounds_over_under,andrew nembhard,True,1.5,-160,2023-10-28T23:55:04,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_points_over_under,andrew nembhard,False,6.5,-115,2023-10-28T23:55:04,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_rebounds_over_under,andrew nembhard,False,2.5,-350,2023-10-29T01:45:07,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_rebounds_over_under,andrew nembhard,False,1.5,110,2023-10-28T23:55:04,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_steals_over_under,andrew nembhard,True,2.5,1000,2023-10-29T01:45:11,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_steals_over_under,andrew nembhard,True,1.5,310,2023-10-29T00:20:26,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_points_over_under,andrew nembhard,True,6.5,-125,2023-10-28T23:55:04,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_threes_over_under,andrew nembhard,False,0.5,-1800,2023-10-29T01:45:11,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_threes_over_under,andrew nembhard,True,0.5,700,2023-10-29T01:45:11,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_steals_over_under,andrew nembhard,False,0.5,-240,2023-10-28T23:55:04,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_steals_over_under,andrew nembhard,True,0.5,160,2023-10-28T23:55:04,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_steals_over_under,andrew nembhard,False,2.5,-5000,2023-10-29T01:45:11,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_steals_over_under,andrew nembhard,True,0.5,182,2023-10-29T00:01:37,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_steals_over_under,andrew nembhard,False,1.5,-400,2023-10-29T00:16:47,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_steals_over_under,andrew nembhard,True,1.5,275,2023-10-29T00:16:47,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_steals_over_under,andrew nembhard,True,0.5,185,2023-10-29T00:00:04,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_steals_over_under,andrew nembhard,False,2.5,-4000,2023-10-29T01:45:07,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_steals_over_under,andrew nembhard,False,1.5,-470,2023-10-29T00:20:26,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_steals_over_under,andrew nembhard,False,0.5,-250,2023-10-29T00:01:37,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_steals_over_under,andrew nembhard,True,2.5,1000,2023-10-29T01:45:07,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_steals_over_under,andrew nembhard,False,0.5,-260,2023-10-29T00:00:04,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,andrew nembhard,False,8.5,-130,2023-10-29T00:00:04,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_blocks_over_under,andrew nembhard,False,0.5,-50000,2023-10-29T01:45:07,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,andrew nembhard,False,6.5,-140,2023-10-29T00:30:04,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_assists_over_under,andrew nembhard,True,2.5,126,2023-10-29T01:40:21,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_assists_over_under,andrew nembhard,True,3.5,225,2023-10-29T01:45:07,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_assists_over_under,andrew nembhard,False,2.5,-168,2023-10-29T01:40:21,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_assists_over_under,andrew nembhard,False,3.5,-330,2023-10-29T01:45:07,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,pinnacle,player_assists_over_under,andrew nembhard,True,3.5,-127,2023-10-28T23:15:59,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,pinnacle,player_assists_over_under,andrew nembhard,False,3.5,-104,2023-10-28T23:15:59,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_assists_over_under,andrew nembhard,True,2.5,105,2023-10-29T01:40:38,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_assists_over_under,andrew nembhard,True,3.5,225,2023-10-29T01:45:11,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_assists_over_under,andrew nembhard,False,2.5,-135,2023-10-29T01:40:38,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_assists_over_under,andrew nembhard,False,3.5,-320,2023-10-29T01:45:11,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_assists_over_under,andrew nembhard,True,2.5,-125,2023-10-29T00:25:05,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_assists_over_under,andrew nembhard,True,3.5,-115,2023-10-29T00:17:01,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_assists_over_under,andrew nembhard,False,2.5,-115,2023-10-29T00:25:05,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_assists_over_under,andrew nembhard,False,3.5,-125,2023-10-29T00:17:01,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_blocks_over_under,andrew nembhard,True,0.5,1000,2023-10-29T01:15:09,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_threes_over_under,andrew nembhard,True,0.5,-125,2023-10-28T23:55:04,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_blocks_over_under,andrew nembhard,True,0.5,475,2023-10-28T23:40:28,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,andrew nembhard,False,5.5,-125,2023-10-29T01:10:16,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,andrew nembhard,False,4.5,-190,2023-10-29T01:45:11,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,andrew nembhard,False,3.5,100,2023-10-29T01:40:38,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,andrew nembhard,False,2.5,-340,2023-10-29T01:35:13,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,andrew nembhard,True,8.5,100,2023-10-29T00:00:04,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,andrew nembhard,True,7.5,-105,2023-10-29T00:05:05,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,andrew nembhard,False,7.5,-125,2023-10-29T00:05:05,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,andrew nembhard,True,6.5,105,2023-10-29T00:30:04,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,andrew nembhard,True,4.5,140,2023-10-29T01:45:11,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,andrew nembhard,True,3.5,-130,2023-10-29T01:40:38,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,andrew nembhard,True,2.5,235,2023-10-29T01:35:13,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_blocks_over_under,andrew nembhard,False,0.5,-700,2023-10-28T23:42:26,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_blocks_over_under,andrew nembhard,True,0.5,400,2023-10-28T23:42:26,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_blocks_over_under,andrew nembhard,False,0.5,-700,2023-10-28T23:40:28,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,andrew nembhard,True,5.5,-105,2023-10-29T00:41:00,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_threes_over_under,andrew nembhard,False,0.5,-115,2023-10-28T23:55:04,Cleveland Cavaliers,Indiana Pacers

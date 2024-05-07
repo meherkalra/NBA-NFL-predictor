@@ -1,0 +1,1177 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_steals_over_under,alperen sengun,False,0.5,-130,2023-03-23T00:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_rebounds_over_under,alperen sengun,True,8.5,116,2023-03-23T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_rebounds_over_under,alperen sengun,False,5.5,-118,2023-03-23T01:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_rebounds_over_under,alperen sengun,False,6.5,106,2023-03-23T01:15:02,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_rebounds_over_under,alperen sengun,False,7.5,118,2023-03-23T01:45:02,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_rebounds_over_under,alperen sengun,False,8.5,-154,2023-03-23T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_steals_over_under,alperen sengun,True,0.5,-102,2023-03-23T00:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_steals_over_under,alperen sengun,True,1.5,178,2023-03-23T01:15:02,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_steals_over_under,alperen sengun,True,2.5,490,2023-03-23T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_steals_over_under,alperen sengun,False,1.5,-245,2023-03-23T01:15:02,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_rebounds_over_under,alperen sengun,True,7.5,-158,2023-03-23T01:45:02,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_steals_over_under,alperen sengun,False,2.5,-900,2023-03-23T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_threes_over_under,alperen sengun,False,0.5,-7000,2023-03-23T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,186125fb8d90bb69c83e1117d37678d4,fanduel,player_assists_over_under,alperen sengun,True,3.5,-148,2023-03-20T18:00:02,Houston Rockets,Golden State Warriors
+2023-03-22,186125fb8d90bb69c83e1117d37678d4,fanduel,player_assists_over_under,alperen sengun,False,3.5,122,2023-03-20T18:15:01,Houston Rockets,Golden State Warriors
+2023-03-22,186125fb8d90bb69c83e1117d37678d4,fanduel,player_points_over_under,alperen sengun,True,13.5,-120,2023-03-20T18:15:01,Houston Rockets,Golden State Warriors
+2023-03-22,186125fb8d90bb69c83e1117d37678d4,fanduel,player_points_over_under,alperen sengun,True,14.5,102,2023-03-20T17:30:01,Houston Rockets,Golden State Warriors
+2023-03-22,186125fb8d90bb69c83e1117d37678d4,fanduel,player_points_over_under,alperen sengun,False,13.5,-102,2023-03-20T18:00:02,Houston Rockets,Golden State Warriors
+2023-03-22,186125fb8d90bb69c83e1117d37678d4,fanduel,player_points_over_under,alperen sengun,False,14.5,-130,2023-03-20T17:30:01,Houston Rockets,Golden State Warriors
+2023-03-22,186125fb8d90bb69c83e1117d37678d4,fanduel,player_rebounds_over_under,alperen sengun,False,9.5,-138,2023-03-20T18:00:02,Houston Rockets,Golden State Warriors
+2023-03-22,186125fb8d90bb69c83e1117d37678d4,fanduel,player_rebounds_over_under,alperen sengun,False,8.5,110,2023-03-20T17:30:01,Houston Rockets,Golden State Warriors
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_threes_over_under,alperen sengun,True,0.5,1000,2023-03-23T01:45:02,Memphis Grizzlies,Houston Rockets
+2023-03-22,186125fb8d90bb69c83e1117d37678d4,fanduel,player_rebounds_over_under,alperen sengun,True,9.5,112,2023-03-20T18:15:01,Houston Rockets,Golden State Warriors
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_rebounds_over_under,alperen sengun,True,6.5,-140,2023-03-23T01:15:02,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_points_over_under,alperen sengun,False,25.5,-154,2023-03-23T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_assists_over_under,alperen sengun,True,2.5,-130,2023-03-23T01:15:02,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_assists_over_under,alperen sengun,True,3.5,-166,2023-03-23T01:45:02,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_assists_over_under,alperen sengun,True,4.5,-108,2023-03-23T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_assists_over_under,alperen sengun,False,2.5,-102,2023-03-23T01:15:02,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_assists_over_under,alperen sengun,False,3.5,124,2023-03-23T01:45:02,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_assists_over_under,alperen sengun,False,4.5,-122,2023-03-23T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_blocks_over_under,alperen sengun,True,0.5,450,2023-03-23T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_blocks_over_under,alperen sengun,False,0.5,-800,2023-03-23T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_rebounds_over_under,alperen sengun,True,5.5,-112,2023-03-23T01:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_points_over_under,alperen sengun,True,12.5,-128,2023-03-22T23:00:02,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_points_over_under,alperen sengun,True,16.5,100,2023-03-23T00:45:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_points_over_under,alperen sengun,True,21.5,116,2023-03-23T01:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_points_over_under,alperen sengun,True,23.5,-188,2023-03-23T01:45:02,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_points_over_under,alperen sengun,True,25.5,116,2023-03-23T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_points_over_under,alperen sengun,False,12.5,104,2023-03-22T23:00:02,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_points_over_under,alperen sengun,False,13.5,-122,2023-03-23T00:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_points_over_under,alperen sengun,False,16.5,-132,2023-03-23T00:45:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_points_over_under,alperen sengun,False,21.5,-154,2023-03-23T01:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_points_over_under,alperen sengun,False,23.5,140,2023-03-23T01:45:02,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_points_over_under,alperen sengun,True,13.5,100,2023-03-23T00:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,186125fb8d90bb69c83e1117d37678d4,fanduel,player_rebounds_over_under,alperen sengun,True,8.5,-140,2023-03-20T17:30:01,Houston Rockets,Golden State Warriors
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_points_over_under,alperen sengun,False,14.5,-146,2023-03-25T00:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_rebounds_over_under,alperen sengun,True,5.5,290,2023-03-25T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_points_over_under,alperen sengun,True,9.5,104,2023-03-25T01:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_assists_over_under,alperen sengun,True,2.5,630,2023-03-25T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_assists_over_under,alperen sengun,True,3.5,-125,2023-03-25T00:15:02,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_assists_over_under,alperen sengun,False,1.5,162,2023-03-25T01:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_assists_over_under,alperen sengun,False,2.5,-1400,2023-03-25T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_assists_over_under,alperen sengun,False,3.5,-106,2023-03-25T00:15:02,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_assists_over_under,alperen sengun,False,4.5,-144,2023-03-24T20:15:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_blocks_over_under,alperen sengun,True,0.5,1000,2023-03-25T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_blocks_over_under,alperen sengun,False,0.5,-10000,2023-03-25T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_points_over_under,alperen sengun,True,7.5,178,2023-03-25T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_points_over_under,alperen sengun,True,8.5,-200,2023-03-25T01:45:02,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_points_over_under,alperen sengun,True,10.5,114,2023-03-25T01:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_points_over_under,alperen sengun,True,13.5,108,2023-03-25T00:45:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_points_over_under,alperen sengun,True,14.5,110,2023-03-25T00:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_points_over_under,alperen sengun,False,7.5,-245,2023-03-25T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_points_over_under,alperen sengun,False,8.5,148,2023-03-25T01:45:02,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_points_over_under,alperen sengun,False,9.5,-138,2023-03-25T01:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_points_over_under,alperen sengun,False,10.5,-152,2023-03-25T01:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_assists_over_under,alperen sengun,True,1.5,-220,2023-03-25T01:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_rebounds_over_under,alperen sengun,True,6.5,148,2023-03-25T01:45:02,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_assists_over_under,alperen sengun,True,4.5,118,2023-03-24T20:15:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_rebounds_over_under,alperen sengun,True,9.5,104,2023-03-25T00:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_points_over_under,alperen sengun,False,13.5,-144,2023-03-25T00:45:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_rebounds_over_under,alperen sengun,True,8.5,-128,2023-03-25T00:45:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_threes_over_under,alperen sengun,True,0.5,1000,2023-03-25T01:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_steals_over_under,alperen sengun,False,1.5,-10000,2023-03-25T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_steals_over_under,alperen sengun,False,0.5,-310,2023-03-25T01:15:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_steals_over_under,alperen sengun,True,1.5,1000,2023-03-25T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_threes_over_under,alperen sengun,False,0.5,-100000,2023-03-25T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_rebounds_over_under,alperen sengun,False,9.5,-138,2023-03-25T00:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_rebounds_over_under,alperen sengun,False,8.5,-104,2023-03-25T00:45:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_rebounds_over_under,alperen sengun,False,6.5,-200,2023-03-25T01:45:02,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_steals_over_under,alperen sengun,True,0.5,220,2023-03-25T01:15:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_rebounds_over_under,alperen sengun,False,5.5,-440,2023-03-25T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_points_over_under,alperen sengun,False,9.5,-136,2023-03-26T23:15:02,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_points_over_under,alperen sengun,False,10.5,102,2023-03-26T23:00:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_points_over_under,alperen sengun,False,11.5,-148,2023-03-26T22:30:02,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_points_over_under,alperen sengun,False,12.5,-114,2023-03-26T22:45:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_points_over_under,alperen sengun,False,13.5,120,2023-03-27T00:00:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_points_over_under,alperen sengun,False,14.5,-125,2023-03-27T00:15:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_rebounds_over_under,alperen sengun,False,8.5,-230,2023-03-27T00:15:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_rebounds_over_under,alperen sengun,False,7.5,-220,2023-03-27T00:00:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_rebounds_over_under,alperen sengun,False,6.5,-205,2023-03-26T23:30:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_rebounds_over_under,alperen sengun,True,8.5,168,2023-03-27T00:15:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_rebounds_over_under,alperen sengun,True,6.5,152,2023-03-26T23:30:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_points_over_under,alperen sengun,False,7.5,-158,2023-03-26T23:30:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_rebounds_over_under,alperen sengun,True,7.5,162,2023-03-27T00:00:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_steals_over_under,alperen sengun,False,0.5,-4000,2023-03-27T00:15:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_points_over_under,alperen sengun,True,14.5,-106,2023-03-27T00:15:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_blocks_over_under,alperen sengun,True,0.5,550,2023-03-27T00:00:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_points_over_under,alperen sengun,True,12.5,-114,2023-03-26T22:45:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_assists_over_under,alperen sengun,False,4.5,-670,2023-03-27T00:15:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_assists_over_under,alperen sengun,False,3.5,-132,2023-03-26T23:15:02,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_assists_over_under,alperen sengun,False,2.5,132,2023-03-26T23:00:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_assists_over_under,alperen sengun,True,4.5,400,2023-03-27T00:15:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_assists_over_under,alperen sengun,True,3.5,100,2023-03-26T23:15:02,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_assists_over_under,alperen sengun,True,2.5,-178,2023-03-26T23:00:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_points_over_under,alperen sengun,True,13.5,-160,2023-03-27T00:00:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_threes_over_under,alperen sengun,True,0.5,1000,2023-03-26T23:30:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_blocks_over_under,alperen sengun,False,0.5,-1100,2023-03-27T00:00:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_blocks_over_under,alperen sengun,False,1.5,-5000,2023-03-27T00:15:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_points_over_under,alperen sengun,True,7.5,118,2023-03-26T23:30:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_points_over_under,alperen sengun,True,9.5,102,2023-03-26T23:15:02,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_points_over_under,alperen sengun,True,10.5,-136,2023-03-26T23:00:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_points_over_under,alperen sengun,True,11.5,112,2023-03-26T22:30:02,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_blocks_over_under,alperen sengun,True,1.5,1000,2023-03-27T00:15:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_threes_over_under,alperen sengun,False,0.5,-100000,2023-03-27T00:15:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_steals_over_under,alperen sengun,True,0.5,1000,2023-03-27T00:15:01,Cleveland Cavaliers,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_assists_over_under,alperen sengun,True,3.5,114,2023-03-27T23:00:02,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_assists_over_under,alperen sengun,True,2.5,136,2023-03-28T01:00:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_assists_over_under,alperen sengun,False,1.5,-1100,2023-03-28T01:45:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_assists_over_under,alperen sengun,False,2.5,-182,2023-03-28T01:00:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_assists_over_under,alperen sengun,False,3.5,-140,2023-03-27T23:00:02,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_blocks_over_under,alperen sengun,True,0.5,580,2023-03-28T01:30:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_blocks_over_under,alperen sengun,True,1.5,1000,2023-03-28T01:45:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_blocks_over_under,alperen sengun,False,0.5,-1200,2023-03-28T01:30:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_blocks_over_under,alperen sengun,False,1.5,-10000,2023-03-28T01:45:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_points_over_under,alperen sengun,True,11.5,132,2023-03-28T01:45:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_points_over_under,alperen sengun,True,12.5,122,2023-03-28T01:00:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_points_over_under,alperen sengun,True,13.5,146,2023-03-28T01:30:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_points_over_under,alperen sengun,True,14.5,-104,2023-03-28T00:30:02,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_assists_over_under,alperen sengun,True,1.5,550,2023-03-28T01:45:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_points_over_under,alperen sengun,True,15.5,-138,2023-03-28T00:15:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_points_over_under,alperen sengun,False,12.5,-162,2023-03-28T01:00:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_points_over_under,alperen sengun,False,13.5,-198,2023-03-28T01:30:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_points_over_under,alperen sengun,False,14.5,-128,2023-03-28T00:30:02,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_points_over_under,alperen sengun,False,15.5,104,2023-03-28T00:15:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_rebounds_over_under,alperen sengun,True,5.5,250,2023-03-28T01:45:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_rebounds_over_under,alperen sengun,True,6.5,162,2023-03-28T01:30:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_rebounds_over_under,alperen sengun,True,7.5,-154,2023-03-28T01:00:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_rebounds_over_under,alperen sengun,False,5.5,-360,2023-03-28T01:45:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_rebounds_over_under,alperen sengun,False,6.5,-220,2023-03-28T01:30:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_rebounds_over_under,alperen sengun,False,7.5,116,2023-03-28T01:00:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_steals_over_under,alperen sengun,True,0.5,1000,2023-03-28T01:45:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_steals_over_under,alperen sengun,False,0.5,-10000,2023-03-28T01:45:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_points_over_under,alperen sengun,False,11.5,-178,2023-03-28T01:45:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_threes_over_under,alperen sengun,True,1.5,1000,2023-03-28T01:15:02,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_threes_over_under,alperen sengun,False,1.5,-100000,2023-03-28T01:45:01,New York Knicks,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_blocks_over_under,alperen sengun,False,0.5,-1000,2023-03-30T01:30:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_rebounds_over_under,alperen sengun,True,6.5,118,2023-03-30T00:15:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_rebounds_over_under,alperen sengun,True,7.5,-104,2023-03-30T01:30:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_rebounds_over_under,alperen sengun,True,8.5,-108,2023-03-29T23:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_rebounds_over_under,alperen sengun,True,10.5,-136,2023-03-30T01:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_rebounds_over_under,alperen sengun,False,5.5,-112,2023-03-30T01:00:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_rebounds_over_under,alperen sengun,False,6.5,-158,2023-03-30T00:15:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_rebounds_over_under,alperen sengun,False,7.5,-128,2023-03-30T01:30:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_rebounds_over_under,alperen sengun,False,8.5,-122,2023-03-29T23:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_rebounds_over_under,alperen sengun,False,10.5,102,2023-03-30T01:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_steals_over_under,alperen sengun,True,0.5,410,2023-03-30T01:30:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_steals_over_under,alperen sengun,True,1.5,880,2023-03-30T01:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_steals_over_under,alperen sengun,False,0.5,-700,2023-03-30T01:30:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_steals_over_under,alperen sengun,False,1.5,-3000,2023-03-30T01:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_threes_over_under,alperen sengun,True,0.5,1000,2023-03-30T01:15:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_threes_over_under,alperen sengun,False,0.5,-10000,2023-03-30T01:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_rebounds_over_under,alperen sengun,True,5.5,-118,2023-03-30T01:00:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_blocks_over_under,alperen sengun,False,1.5,-3500,2023-03-30T01:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_points_over_under,alperen sengun,False,22.5,-194,2023-03-30T01:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_points_over_under,alperen sengun,False,18.5,-102,2023-03-30T01:30:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_blocks_over_under,alperen sengun,True,1.5,920,2023-03-30T01:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_blocks_over_under,alperen sengun,True,0.5,520,2023-03-30T01:30:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_points_over_under,alperen sengun,True,13.5,-118,2023-03-29T23:15:02,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_assists_over_under,alperen sengun,False,1.5,188,2023-03-30T01:00:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_assists_over_under,alperen sengun,True,3.5,114,2023-03-29T23:30:02,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_assists_over_under,alperen sengun,True,2.5,230,2023-03-30T01:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_assists_over_under,alperen sengun,True,1.5,-260,2023-03-30T01:00:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_points_over_under,alperen sengun,True,14.5,-110,2023-03-29T23:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_points_over_under,alperen sengun,True,17.5,112,2023-03-30T00:30:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_points_over_under,alperen sengun,True,18.5,-130,2023-03-30T01:30:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_points_over_under,alperen sengun,True,19.5,124,2023-03-30T01:15:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_points_over_under,alperen sengun,True,22.5,144,2023-03-30T01:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_points_over_under,alperen sengun,False,13.5,-104,2023-03-29T23:15:02,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_points_over_under,alperen sengun,False,14.5,-120,2023-03-29T23:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_points_over_under,alperen sengun,False,17.5,-148,2023-03-30T00:30:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_points_over_under,alperen sengun,False,19.5,-166,2023-03-30T01:15:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_assists_over_under,alperen sengun,False,2.5,-330,2023-03-30T01:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_assists_over_under,alperen sengun,False,3.5,-140,2023-03-29T23:30:02,Brooklyn Nets,Houston Rockets
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_assists_over_under,alperen sengun,False,4.5,-152,2023-04-01T00:20:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_assists_over_under,alperen sengun,True,8.5,182,2023-04-01T01:58:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_assists_over_under,alperen sengun,True,5.5,128,2023-04-01T00:26:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_assists_over_under,alperen sengun,True,4.5,114,2023-04-01T00:20:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_assists_over_under,alperen sengun,True,3.5,-142,2023-04-01T00:06:02,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_assists_over_under,alperen sengun,False,5.5,-172,2023-04-01T00:26:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_assists_over_under,alperen sengun,False,7.5,-250,2023-04-01T02:26:02,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_assists_over_under,alperen sengun,False,8.5,-250,2023-04-01T01:58:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_assists_over_under,alperen sengun,False,9.5,-205,2023-04-01T01:28:02,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_assists_over_under,alperen sengun,True,9.5,152,2023-04-01T01:28:02,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_blocks_over_under,alperen sengun,True,0.5,880,2023-04-01T02:26:02,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_points_over_under,alperen sengun,True,12.5,-114,2023-04-01T02:10:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_points_over_under,alperen sengun,True,13.5,-158,2023-04-01T02:16:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_points_over_under,alperen sengun,True,14.5,146,2023-04-01T02:14:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_assists_over_under,alperen sengun,False,3.5,116,2023-04-01T00:06:02,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_points_over_under,alperen sengun,True,15.5,188,2023-04-01T02:26:02,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_points_over_under,alperen sengun,True,16.5,102,2023-04-01T01:28:02,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_points_over_under,alperen sengun,True,17.5,-106,2023-04-01T00:26:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_points_over_under,alperen sengun,False,12.5,-114,2023-04-01T02:10:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_blocks_over_under,alperen sengun,False,0.5,-3000,2023-04-01T02:26:02,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_points_over_under,alperen sengun,False,13.5,118,2023-04-01T02:16:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_assists_over_under,alperen sengun,True,7.5,182,2023-04-01T02:26:02,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_points_over_under,alperen sengun,False,15.5,-260,2023-04-01T02:26:02,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_threes_over_under,alperen sengun,False,0.5,-50000,2023-04-01T02:26:02,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_threes_over_under,alperen sengun,True,0.5,1000,2023-04-01T02:00:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_steals_over_under,alperen sengun,False,1.5,-670,2023-04-01T02:06:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_steals_over_under,alperen sengun,False,0.5,-3000,2023-04-01T02:26:02,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_steals_over_under,alperen sengun,True,1.5,400,2023-04-01T02:06:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_steals_over_under,alperen sengun,True,0.5,880,2023-04-01T02:26:02,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_rebounds_over_under,alperen sengun,False,12.5,108,2023-04-01T02:26:02,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_points_over_under,alperen sengun,False,14.5,-198,2023-04-01T02:14:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_rebounds_over_under,alperen sengun,False,10.5,114,2023-04-01T02:06:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_rebounds_over_under,alperen sengun,False,9.5,116,2023-04-01T00:52:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_rebounds_over_under,alperen sengun,False,11.5,110,2023-04-01T02:10:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_rebounds_over_under,alperen sengun,True,12.5,-144,2023-04-01T02:26:02,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_rebounds_over_under,alperen sengun,True,11.5,-146,2023-04-01T02:10:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_rebounds_over_under,alperen sengun,True,10.5,-152,2023-04-01T02:06:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_rebounds_over_under,alperen sengun,True,9.5,-154,2023-04-01T00:52:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_rebounds_over_under,alperen sengun,True,8.5,-134,2023-04-01T00:08:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_points_over_under,alperen sengun,False,17.5,-125,2023-04-01T00:26:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_points_over_under,alperen sengun,False,16.5,-136,2023-04-01T01:28:02,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_rebounds_over_under,alperen sengun,False,8.5,110,2023-04-01T00:08:01,Houston Rockets,Detroit Pistons
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,alperen sengun,False,18.5,-7000,2023-04-03T01:10:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_assists_over_under,alperen sengun,False,4.5,-128,2023-04-03T00:24:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_assists_over_under,alperen sengun,True,3.5,-138,2023-04-02T23:08:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_assists_over_under,alperen sengun,True,4.5,-104,2023-04-03T00:24:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_assists_over_under,alperen sengun,True,5.5,1000,2023-04-03T01:10:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_assists_over_under,alperen sengun,False,3.5,112,2023-04-02T23:08:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_assists_over_under,alperen sengun,False,5.5,-100000,2023-04-03T01:10:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,alperen sengun,True,9.5,-110,2023-04-02T23:38:02,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_blocks_over_under,alperen sengun,True,1.5,140,2023-04-02T23:40:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,alperen sengun,False,16.5,188,2023-04-03T01:04:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,alperen sengun,False,15.5,-122,2023-04-03T00:24:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,alperen sengun,False,14.5,-102,2023-04-03T00:26:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,alperen sengun,False,13.5,-102,2023-04-02T23:06:02,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,alperen sengun,False,12.5,-112,2023-04-02T23:14:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,alperen sengun,False,11.5,-144,2023-04-02T23:20:02,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,alperen sengun,False,10.5,-110,2023-04-02T23:44:02,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,alperen sengun,False,9.5,-120,2023-04-02T23:38:02,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,alperen sengun,False,8.5,-108,2023-04-02T23:42:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,alperen sengun,True,18.5,1000,2023-04-03T01:10:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,alperen sengun,True,17.5,116,2023-04-03T01:00:02,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_blocks_over_under,alperen sengun,True,0.5,-102,2023-04-02T23:20:02,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,alperen sengun,True,16.5,-260,2023-04-03T01:04:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,alperen sengun,True,14.5,-130,2023-04-03T00:26:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,alperen sengun,True,13.5,-120,2023-04-02T23:06:02,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,alperen sengun,True,12.5,-118,2023-04-02T23:14:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,alperen sengun,True,10.5,-120,2023-04-02T23:44:02,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,alperen sengun,True,8.5,-122,2023-04-02T23:42:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_blocks_over_under,alperen sengun,False,3.5,-100000,2023-04-03T01:10:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_blocks_over_under,alperen sengun,False,2.5,-310,2023-04-03T00:22:02,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_blocks_over_under,alperen sengun,False,1.5,-188,2023-04-02T23:40:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_blocks_over_under,alperen sengun,False,0.5,-130,2023-04-02T23:20:02,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_blocks_over_under,alperen sengun,True,3.5,1000,2023-04-03T01:04:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_blocks_over_under,alperen sengun,True,2.5,220,2023-04-03T00:22:02,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,alperen sengun,True,15.5,-108,2023-04-03T00:24:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,alperen sengun,True,11.5,108,2023-04-02T23:20:02,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,alperen sengun,False,17.5,-154,2023-04-03T01:00:02,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_threes_over_under,alperen sengun,False,0.5,-100000,2023-04-03T01:08:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_threes_over_under,alperen sengun,True,0.5,1000,2023-04-03T00:36:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_steals_over_under,alperen sengun,False,2.5,-100000,2023-04-03T01:10:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_steals_over_under,alperen sengun,False,1.5,-490,2023-04-03T00:42:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_steals_over_under,alperen sengun,False,0.5,-275,2023-04-03T00:26:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_steals_over_under,alperen sengun,True,2.5,1000,2023-04-03T01:08:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_steals_over_under,alperen sengun,True,1.5,320,2023-04-03T00:42:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_steals_over_under,alperen sengun,True,0.5,198,2023-04-03T00:26:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_rebounds_over_under,alperen sengun,False,16.5,-230,2023-04-03T00:58:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_rebounds_over_under,alperen sengun,False,15.5,-50000,2023-04-03T01:10:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_rebounds_over_under,alperen sengun,False,14.5,134,2023-04-03T00:28:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_rebounds_over_under,alperen sengun,True,7.5,-154,2023-04-02T23:24:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_rebounds_over_under,alperen sengun,False,13.5,116,2023-04-03T00:22:02,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_rebounds_over_under,alperen sengun,True,8.5,-130,2023-04-02T23:44:02,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_rebounds_over_under,alperen sengun,True,9.5,106,2023-04-02T23:38:02,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_rebounds_over_under,alperen sengun,True,11.5,-114,2023-04-03T00:12:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_rebounds_over_under,alperen sengun,False,11.5,-114,2023-04-03T00:12:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_rebounds_over_under,alperen sengun,False,9.5,-140,2023-04-02T23:38:02,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_rebounds_over_under,alperen sengun,False,8.5,-102,2023-04-02T23:44:02,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_rebounds_over_under,alperen sengun,False,7.5,116,2023-04-02T23:24:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_rebounds_over_under,alperen sengun,True,16.5,168,2023-04-03T00:58:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_rebounds_over_under,alperen sengun,True,15.5,1000,2023-04-03T01:10:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_rebounds_over_under,alperen sengun,True,14.5,-180,2023-04-03T00:28:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_rebounds_over_under,alperen sengun,False,12.5,-118,2023-04-03T00:20:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_rebounds_over_under,alperen sengun,True,13.5,-154,2023-04-03T00:22:02,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_rebounds_over_under,alperen sengun,True,12.5,-112,2023-04-03T00:20:01,Houston Rockets,Los Angeles Lakers
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_points_over_under,alperen sengun,True,15.5,-120,2023-04-05T00:55:42,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_assists_over_under,alperen sengun,True,3.5,-155,2023-04-04T22:40:45,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_assists_over_under,alperen sengun,True,4.5,115,2023-04-04T19:51:15,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_assists_over_under,alperen sengun,True,3.5,-145,2023-04-05T00:36:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_assists_over_under,alperen sengun,True,4.5,-215,2023-04-05T01:45:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_assists_over_under,alperen sengun,True,5.5,-175,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_assists_over_under,alperen sengun,False,3.5,125,2023-04-04T22:40:45,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_assists_over_under,alperen sengun,False,4.5,-165,2023-04-04T19:51:15,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_assists_over_under,alperen sengun,False,3.5,110,2023-04-05T00:36:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_assists_over_under,alperen sengun,False,4.5,155,2023-04-05T01:45:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_assists_over_under,alperen sengun,False,5.5,130,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_blocks_over_under,alperen sengun,True,0.5,168,2023-04-05T01:15:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_points_over_under,alperen sengun,True,16.5,-120,2023-04-05T00:42:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_blocks_over_under,alperen sengun,True,1.5,390,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_blocks_over_under,alperen sengun,False,1.5,-650,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_blocks_over_under,alperen sengun,True,0.5,-175,2023-04-04T19:51:15,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_blocks_over_under,alperen sengun,True,0.5,160,2023-04-05T01:00:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_blocks_over_under,alperen sengun,True,1.5,370,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_blocks_over_under,alperen sengun,False,0.5,140,2023-04-04T19:51:15,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_blocks_over_under,alperen sengun,False,0.5,-220,2023-04-05T01:00:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_blocks_over_under,alperen sengun,False,1.5,-600,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_points_over_under,alperen sengun,True,11.5,-125,2023-04-05T00:18:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_points_over_under,alperen sengun,True,13.5,-122,2023-04-05T00:24:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_points_over_under,alperen sengun,True,14.5,-130,2023-04-05T01:15:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_points_over_under,alperen sengun,True,17.5,106,2023-04-05T00:48:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_rebounds_over_under,alperen sengun,True,8.5,-115,2023-04-04T22:40:45,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_blocks_over_under,alperen sengun,False,0.5,-230,2023-04-05T01:15:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_points_over_under,alperen sengun,True,23.5,114,2023-04-05T01:45:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_assists_over_under,alperen sengun,False,6.5,-178,2023-04-05T00:55:42,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_rebounds_over_under,alperen sengun,False,9.5,-108,2023-04-05T00:55:42,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_rebounds_over_under,alperen sengun,False,8.5,118,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_rebounds_over_under,alperen sengun,True,11.5,116,2023-04-05T00:30:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_rebounds_over_under,alperen sengun,True,10.5,130,2023-04-05T01:15:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_rebounds_over_under,alperen sengun,True,9.5,-122,2023-04-05T00:55:42,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_rebounds_over_under,alperen sengun,True,8.5,-158,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,alperen sengun,False,23.5,-140,2023-04-05T01:45:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,alperen sengun,False,22.5,135,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,alperen sengun,False,18.5,130,2023-04-05T01:30:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,alperen sengun,False,16.5,-115,2023-04-05T00:36:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,alperen sengun,False,14.5,-105,2023-04-05T01:00:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,alperen sengun,False,13.5,100,2023-04-04T23:14:32,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,alperen sengun,False,14.5,-130,2023-04-04T22:40:45,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_points_over_under,alperen sengun,True,22.5,-188,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,alperen sengun,True,23.5,105,2023-04-05T01:45:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,alperen sengun,True,18.5,-170,2023-04-05T01:30:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,alperen sengun,True,16.5,-115,2023-04-05T00:36:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,alperen sengun,True,14.5,-125,2023-04-05T01:00:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,alperen sengun,True,13.5,-130,2023-04-04T23:14:32,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,alperen sengun,True,14.5,100,2023-04-04T22:40:45,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_points_over_under,alperen sengun,False,23.5,-152,2023-04-05T01:45:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_points_over_under,alperen sengun,False,22.5,140,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_points_over_under,alperen sengun,False,17.5,-140,2023-04-05T00:48:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_points_over_under,alperen sengun,False,16.5,-110,2023-04-05T00:42:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_points_over_under,alperen sengun,False,15.5,-110,2023-04-05T00:55:42,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_points_over_under,alperen sengun,False,14.5,-102,2023-04-05T01:15:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_points_over_under,alperen sengun,False,13.5,-108,2023-04-05T00:24:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_points_over_under,alperen sengun,False,11.5,-106,2023-04-05T00:18:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,alperen sengun,True,22.5,-180,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_assists_over_under,alperen sengun,False,5.5,138,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_rebounds_over_under,alperen sengun,False,11.5,-150,2023-04-05T00:30:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_assists_over_under,alperen sengun,False,3.5,112,2023-04-05T00:42:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_steals_over_under,alperen sengun,True,3.5,350,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_steals_over_under,alperen sengun,False,0.5,140,2023-04-04T19:51:15,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_steals_over_under,alperen sengun,False,0.5,140,2023-04-04T23:14:32,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_steals_over_under,alperen sengun,False,2.5,-190,2023-04-05T01:00:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_steals_over_under,alperen sengun,False,3.5,-550,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_threes_over_under,alperen sengun,True,0.5,390,2023-04-05T00:18:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_threes_over_under,alperen sengun,True,1.5,630,2023-04-05T01:00:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_threes_over_under,alperen sengun,True,2.5,1000,2023-04-05T01:45:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_assists_over_under,alperen sengun,False,4.5,158,2023-04-05T01:45:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_threes_over_under,alperen sengun,False,1.5,-1400,2023-04-05T01:00:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_threes_over_under,alperen sengun,False,2.5,-5000,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_threes_over_under,alperen sengun,True,0.5,320,2023-04-04T19:51:15,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_threes_over_under,alperen sengun,True,0.5,320,2023-04-04T23:14:32,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_threes_over_under,alperen sengun,False,0.5,-425,2023-04-04T19:51:15,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_threes_over_under,alperen sengun,False,0.5,-425,2023-04-04T23:14:32,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_steals_over_under,alperen sengun,True,2.5,140,2023-04-05T01:00:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_steals_over_under,alperen sengun,True,0.5,-175,2023-04-04T23:14:32,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_threes_over_under,alperen sengun,False,0.5,-650,2023-04-05T00:18:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_steals_over_under,alperen sengun,False,3.5,-600,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_steals_over_under,alperen sengun,True,0.5,-175,2023-04-04T19:51:15,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_assists_over_under,alperen sengun,True,6.5,132,2023-04-05T00:55:42,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_assists_over_under,alperen sengun,True,5.5,-186,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_assists_over_under,alperen sengun,True,4.5,-215,2023-04-05T01:45:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_assists_over_under,alperen sengun,True,3.5,-148,2023-04-05T00:42:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_rebounds_over_under,alperen sengun,True,8.5,-155,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_rebounds_over_under,alperen sengun,True,10.5,120,2023-04-05T01:00:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_rebounds_over_under,alperen sengun,True,11.5,115,2023-04-05T00:30:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_rebounds_over_under,alperen sengun,False,11.5,-154,2023-04-05T00:30:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_rebounds_over_under,alperen sengun,False,8.5,115,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_rebounds_over_under,alperen sengun,False,10.5,-165,2023-04-05T01:00:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_rebounds_over_under,alperen sengun,False,10.5,-174,2023-04-05T01:15:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_steals_over_under,alperen sengun,True,0.5,-146,2023-04-05T00:18:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_steals_over_under,alperen sengun,True,2.5,154,2023-04-05T01:15:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_steals_over_under,alperen sengun,True,3.5,370,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_steals_over_under,alperen sengun,False,0.5,110,2023-04-05T00:18:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_rebounds_over_under,alperen sengun,False,8.5,-115,2023-04-04T22:40:45,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_steals_over_under,alperen sengun,False,2.5,-210,2023-04-05T01:15:01,Houston Rockets,Denver Nuggets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_points_over_under,alperen sengun,False,10.5,-104,2023-04-08T00:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_points_over_under,alperen sengun,False,12.5,148,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_points_over_under,alperen sengun,False,13.5,112,2023-04-08T01:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_points_over_under,alperen sengun,True,8.5,-105,2023-04-08T00:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_points_over_under,alperen sengun,False,16.5,-105,2023-04-07T22:45:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_points_over_under,alperen sengun,False,8.5,100,2023-04-08T00:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_points_over_under,alperen sengun,True,10.5,-120,2023-04-08T00:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_points_over_under,alperen sengun,False,14.5,-160,2023-04-08T00:45:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_points_over_under,alperen sengun,True,16.5,-115,2023-04-07T22:45:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_points_over_under,alperen sengun,True,8.5,-132,2023-04-08T00:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_points_over_under,alperen sengun,True,13.5,-148,2023-04-08T01:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_points_over_under,alperen sengun,True,12.5,-200,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_points_over_under,alperen sengun,True,10.5,-128,2023-04-08T00:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,betmgm,player_blocks_over_under,alperen sengun,False,0.5,160,2023-04-07T18:20:05,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,betmgm,player_blocks_over_under,alperen sengun,True,0.5,-225,2023-04-07T18:20:05,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,caesars,player_blocks_over_under,alperen sengun,False,0.5,152,2023-04-07T20:12:09,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,caesars,player_blocks_over_under,alperen sengun,True,0.5,-214,2023-04-07T20:12:09,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_blocks_over_under,alperen sengun,False,0.5,-195,2023-04-08T00:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_blocks_over_under,alperen sengun,True,1.5,900,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_points_over_under,alperen sengun,True,14.5,120,2023-04-08T00:45:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_blocks_over_under,alperen sengun,False,1.5,-3000,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_points_over_under,alperen sengun,True,16.5,-120,2023-04-06T17:30:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_blocks_over_under,alperen sengun,True,0.5,145,2023-04-08T00:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_rebounds_over_under,alperen sengun,True,9.5,-145,2023-04-07T23:15:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_rebounds_over_under,alperen sengun,False,20.5,-106,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_rebounds_over_under,alperen sengun,False,17.5,-120,2023-04-08T00:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_rebounds_over_under,alperen sengun,False,14.5,114,2023-04-08T00:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_rebounds_over_under,alperen sengun,False,13.5,106,2023-04-08T00:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_rebounds_over_under,alperen sengun,False,11.5,-136,2023-04-07T16:45:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_rebounds_over_under,alperen sengun,False,10.5,-154,2023-04-07T23:15:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_rebounds_over_under,alperen sengun,True,20.5,-125,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_rebounds_over_under,alperen sengun,True,17.5,-110,2023-04-08T00:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_rebounds_over_under,alperen sengun,True,14.5,-152,2023-04-08T00:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_rebounds_over_under,alperen sengun,True,13.5,-140,2023-04-08T00:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_rebounds_over_under,alperen sengun,True,11.5,106,2023-04-07T16:45:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_rebounds_over_under,alperen sengun,True,10.5,116,2023-04-07T23:15:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,betmgm,player_points_over_under,alperen sengun,False,16.5,-110,2023-04-07T18:20:05,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,betmgm,player_points_over_under,alperen sengun,True,16.5,-120,2023-04-07T18:20:05,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,caesars,player_points_over_under,alperen sengun,False,16.5,-113,2023-04-07T20:12:09,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,caesars,player_points_over_under,alperen sengun,True,16.5,-121,2023-04-07T20:12:09,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_points_over_under,alperen sengun,False,16.5,-110,2023-04-06T17:30:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_points_over_under,alperen sengun,False,14.5,-165,2023-04-08T00:45:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_points_over_under,alperen sengun,False,13.5,105,2023-04-08T01:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_rebounds_over_under,alperen sengun,False,11.5,-145,2023-04-07T21:30:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_points_over_under,alperen sengun,False,10.5,-110,2023-04-08T00:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_points_over_under,alperen sengun,False,8.5,-125,2023-04-08T00:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_rebounds_over_under,alperen sengun,True,10.5,-140,2023-04-06T17:30:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_rebounds_over_under,alperen sengun,True,11.5,115,2023-04-07T21:30:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_rebounds_over_under,alperen sengun,True,12.5,-145,2023-04-07T23:45:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_rebounds_over_under,alperen sengun,True,13.5,-135,2023-04-08T00:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_blocks_over_under,alperen sengun,False,1.5,-3500,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_blocks_over_under,alperen sengun,False,0.5,-205,2023-04-08T00:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_blocks_over_under,alperen sengun,True,1.5,920,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_blocks_over_under,alperen sengun,True,0.5,152,2023-04-08T00:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,betmgm,player_assists_over_under,alperen sengun,False,4.5,-160,2023-04-07T18:20:05,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,betmgm,player_assists_over_under,alperen sengun,True,4.5,120,2023-04-07T18:20:05,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,caesars,player_assists_over_under,alperen sengun,False,4.5,-160,2023-04-07T20:12:09,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,caesars,player_assists_over_under,alperen sengun,True,4.5,116,2023-04-07T20:12:09,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_assists_over_under,alperen sengun,False,4.5,-135,2023-04-07T14:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_assists_over_under,alperen sengun,False,3.5,-400,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_assists_over_under,alperen sengun,False,2.5,110,2023-04-08T01:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_points_over_under,alperen sengun,True,14.5,125,2023-04-08T00:45:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_assists_over_under,alperen sengun,True,4.5,105,2023-04-07T14:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_assists_over_under,alperen sengun,True,2.5,-145,2023-04-08T01:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_assists_over_under,alperen sengun,False,4.5,-130,2023-04-07T22:45:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_assists_over_under,alperen sengun,False,3.5,-400,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_assists_over_under,alperen sengun,False,2.5,116,2023-04-08T01:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_points_over_under,alperen sengun,True,13.5,-140,2023-04-08T01:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_assists_over_under,alperen sengun,True,4.5,106,2023-04-07T22:45:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_assists_over_under,alperen sengun,True,3.5,270,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_assists_over_under,alperen sengun,True,2.5,-154,2023-04-08T01:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_rebounds_over_under,alperen sengun,True,20.5,-120,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_rebounds_over_under,alperen sengun,True,18.5,105,2023-04-08T00:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_rebounds_over_under,alperen sengun,True,14.5,-145,2023-04-08T00:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_assists_over_under,alperen sengun,True,3.5,275,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_points_over_under,alperen sengun,True,12.5,-185,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_points_over_under,alperen sengun,False,12.5,140,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_rebounds_over_under,alperen sengun,False,10.5,110,2023-04-06T17:30:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_steals_over_under,alperen sengun,False,0.5,158,2023-04-07T23:15:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_steals_over_under,alperen sengun,True,2.5,920,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_steals_over_under,alperen sengun,True,0.5,-215,2023-04-07T23:15:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,betmgm,player_rebounds_over_under,alperen sengun,False,11.5,-145,2023-04-07T23:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,betmgm,player_rebounds_over_under,alperen sengun,False,10.5,110,2023-04-07T18:20:05,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,betmgm,player_rebounds_over_under,alperen sengun,True,11.5,105,2023-04-07T21:15:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,betmgm,player_rebounds_over_under,alperen sengun,True,10.5,-145,2023-04-07T18:20:05,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_steals_over_under,alperen sengun,False,2.5,-3500,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,caesars,player_rebounds_over_under,alperen sengun,False,11.5,-139,2023-04-07T21:15:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,caesars,player_rebounds_over_under,alperen sengun,True,11.5,102,2023-04-07T21:15:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,caesars,player_rebounds_over_under,alperen sengun,True,10.5,-148,2023-04-07T20:12:09,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_rebounds_over_under,alperen sengun,False,20.5,-110,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_rebounds_over_under,alperen sengun,False,18.5,-140,2023-04-08T00:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_rebounds_over_under,alperen sengun,False,14.5,110,2023-04-08T00:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_rebounds_over_under,alperen sengun,False,13.5,105,2023-04-08T00:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_rebounds_over_under,alperen sengun,False,12.5,110,2023-04-07T23:45:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,caesars,player_rebounds_over_under,alperen sengun,False,10.5,108,2023-04-07T20:12:09,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_steals_over_under,alperen sengun,True,0.5,-205,2023-04-07T23:15:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_rebounds_over_under,alperen sengun,False,9.5,110,2023-04-07T23:15:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_steals_over_under,alperen sengun,False,0.5,155,2023-04-07T23:15:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,betmgm,player_threes_over_under,alperen sengun,False,0.5,-350,2023-04-07T18:20:05,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,betmgm,player_threes_over_under,alperen sengun,True,0.5,250,2023-04-07T18:20:05,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,caesars,player_threes_over_under,alperen sengun,False,0.5,-354,2023-04-07T20:12:09,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,caesars,player_threes_over_under,alperen sengun,True,0.5,236,2023-04-07T20:12:09,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_threes_over_under,alperen sengun,False,1.5,-5000,2023-04-08T00:45:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_steals_over_under,alperen sengun,True,2.5,900,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_threes_over_under,alperen sengun,True,1.5,1000,2023-04-08T00:45:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_threes_over_under,alperen sengun,True,0.5,750,2023-04-08T00:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_threes_over_under,alperen sengun,False,0.5,-2000,2023-04-08T00:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_threes_over_under,alperen sengun,False,0.5,-2200,2023-04-08T00:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_threes_over_under,alperen sengun,True,1.5,1000,2023-04-08T00:45:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_threes_over_under,alperen sengun,True,0.5,800,2023-04-08T00:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,betmgm,player_steals_over_under,alperen sengun,False,0.5,175,2023-04-07T18:20:05,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,betmgm,player_steals_over_under,alperen sengun,True,0.5,-250,2023-04-07T18:20:05,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,caesars,player_steals_over_under,alperen sengun,False,0.5,172,2023-04-07T20:12:09,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,caesars,player_steals_over_under,alperen sengun,True,0.5,-244,2023-04-07T20:12:09,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_steals_over_under,alperen sengun,False,2.5,-3000,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_threes_over_under,alperen sengun,False,1.5,-50000,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_blocks_over_under,alperen sengun,True,1.5,-162,2023-04-09T17:15:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_blocks_over_under,alperen sengun,True,2.5,640,2023-04-09T19:00:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_blocks_over_under,alperen sengun,False,1.5,122,2023-04-09T17:15:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_blocks_over_under,alperen sengun,False,2.5,-1450,2023-04-09T19:00:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_blocks_over_under,alperen sengun,True,0.5,-155,2023-04-09T01:00:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_blocks_over_under,alperen sengun,True,1.5,-155,2023-04-09T17:15:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_blocks_over_under,alperen sengun,True,2.5,700,2023-04-09T19:00:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_points_over_under,alperen sengun,True,11.5,118,2023-04-09T18:15:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_blocks_over_under,alperen sengun,False,1.5,115,2023-04-09T17:15:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_blocks_over_under,alperen sengun,False,2.5,-1600,2023-04-09T19:00:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,caesars,player_blocks_over_under,alperen sengun,True,0.5,-157,2023-04-08T23:00:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,caesars,player_blocks_over_under,alperen sengun,False,0.5,114,2023-04-08T23:00:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,betmgm,player_blocks_over_under,alperen sengun,True,0.5,-165,2023-04-09T17:00:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,betmgm,player_blocks_over_under,alperen sengun,False,0.5,125,2023-04-09T17:00:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_points_over_under,alperen sengun,True,9.5,-112,2023-04-09T18:00:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,barstool,player_assists_over_under,alperen sengun,True,4.5,-124,2023-04-09T17:00:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_blocks_over_under,alperen sengun,False,0.5,125,2023-04-09T01:00:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,betmgm,player_assists_over_under,alperen sengun,False,4.5,100,2023-04-09T17:00:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_assists_over_under,alperen sengun,True,6.5,115,2023-04-09T19:00:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,caesars,player_assists_over_under,alperen sengun,False,4.5,118,2023-04-09T17:00:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_points_over_under,alperen sengun,True,13.5,-162,2023-04-09T19:00:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_assists_over_under,alperen sengun,True,5.5,-110,2023-04-09T17:30:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_assists_over_under,alperen sengun,True,6.5,104,2023-04-09T19:00:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_assists_over_under,alperen sengun,True,7.5,178,2023-04-09T18:45:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_assists_over_under,alperen sengun,False,4.5,-192,2023-04-09T18:15:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_assists_over_under,alperen sengun,False,5.5,-120,2023-04-09T17:30:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_assists_over_under,alperen sengun,False,6.5,-138,2023-04-09T19:00:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,betmgm,player_assists_over_under,alperen sengun,True,4.5,-130,2023-04-09T15:15:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_assists_over_under,alperen sengun,False,7.5,-245,2023-04-09T18:45:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_assists_over_under,alperen sengun,True,5.5,-110,2023-04-09T17:30:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_assists_over_under,alperen sengun,True,7.5,175,2023-04-09T18:45:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_assists_over_under,alperen sengun,False,4.5,-185,2023-04-09T18:15:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_assists_over_under,alperen sengun,False,5.5,-120,2023-04-09T17:30:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_assists_over_under,alperen sengun,False,6.5,-155,2023-04-09T19:00:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_assists_over_under,alperen sengun,False,7.5,-240,2023-04-09T18:45:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,caesars,player_assists_over_under,alperen sengun,True,4.5,-163,2023-04-09T17:00:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_assists_over_under,alperen sengun,True,4.5,140,2023-04-09T18:15:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_assists_over_under,alperen sengun,True,4.5,142,2023-04-09T18:15:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,betmgm,player_threes_over_under,alperen sengun,False,0.5,-350,2023-04-09T14:30:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_points_over_under,alperen sengun,True,16.5,100,2023-04-09T16:30:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_steals_over_under,alperen sengun,False,0.5,-158,2023-04-09T18:15:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_steals_over_under,alperen sengun,True,2.5,520,2023-04-09T19:00:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_steals_over_under,alperen sengun,True,1.5,174,2023-04-09T18:30:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_steals_over_under,alperen sengun,True,0.5,118,2023-04-09T18:15:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,barstool,player_rebounds_over_under,alperen sengun,True,10.5,-137,2023-04-09T15:15:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,betmgm,player_rebounds_over_under,alperen sengun,False,10.5,-105,2023-04-09T14:30:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,betmgm,player_rebounds_over_under,alperen sengun,True,10.5,-125,2023-04-09T14:30:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,caesars,player_rebounds_over_under,alperen sengun,False,10.5,-108,2023-04-08T23:00:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,caesars,player_rebounds_over_under,alperen sengun,True,10.5,-127,2023-04-08T23:00:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_rebounds_over_under,alperen sengun,False,14.5,-125,2023-04-09T18:45:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_rebounds_over_under,alperen sengun,False,13.5,-220,2023-04-09T19:00:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_rebounds_over_under,alperen sengun,False,11.5,-105,2023-04-09T18:30:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_rebounds_over_under,alperen sengun,False,10.5,110,2023-04-09T17:15:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_rebounds_over_under,alperen sengun,False,9.5,-160,2023-04-09T18:00:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_rebounds_over_under,alperen sengun,False,8.5,105,2023-04-09T18:15:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_steals_over_under,alperen sengun,False,1.5,-240,2023-04-09T18:30:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_rebounds_over_under,alperen sengun,True,14.5,-105,2023-04-09T18:45:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_steals_over_under,alperen sengun,False,2.5,-1000,2023-04-09T19:00:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_steals_over_under,alperen sengun,True,1.5,165,2023-04-09T18:30:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,betmgm,player_threes_over_under,alperen sengun,True,0.5,240,2023-04-09T14:30:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,caesars,player_threes_over_under,alperen sengun,False,0.5,-339,2023-04-08T23:00:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,caesars,player_threes_over_under,alperen sengun,True,0.5,227,2023-04-08T23:00:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_threes_over_under,alperen sengun,False,0.5,-3000,2023-04-09T18:45:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_threes_over_under,alperen sengun,True,0.5,900,2023-04-09T18:45:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_threes_over_under,alperen sengun,False,0.5,-7000,2023-04-09T19:00:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_threes_over_under,alperen sengun,True,0.5,1000,2023-04-09T19:00:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,betmgm,player_steals_over_under,alperen sengun,False,1.5,-225,2023-04-09T17:00:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,betmgm,player_steals_over_under,alperen sengun,True,1.5,170,2023-04-09T17:00:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,caesars,player_steals_over_under,alperen sengun,False,1.5,-234,2023-04-08T23:00:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,caesars,player_steals_over_under,alperen sengun,True,1.5,165,2023-04-08T23:00:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_steals_over_under,alperen sengun,False,2.5,-1000,2023-04-09T19:00:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_steals_over_under,alperen sengun,False,1.5,-225,2023-04-09T18:30:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_steals_over_under,alperen sengun,False,0.5,-155,2023-04-09T18:15:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_steals_over_under,alperen sengun,True,2.5,500,2023-04-09T19:00:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_steals_over_under,alperen sengun,True,0.5,115,2023-04-09T18:15:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_rebounds_over_under,alperen sengun,True,13.5,165,2023-04-09T19:00:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_rebounds_over_under,alperen sengun,True,11.5,-125,2023-04-09T18:30:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_rebounds_over_under,alperen sengun,True,10.5,-145,2023-04-09T17:15:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_points_over_under,alperen sengun,False,14.5,-115,2023-04-09T17:15:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_points_over_under,alperen sengun,False,13.5,100,2023-04-09T19:00:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_points_over_under,alperen sengun,False,11.5,-155,2023-04-09T18:15:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_points_over_under,alperen sengun,False,9.5,-120,2023-04-09T18:00:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_points_over_under,alperen sengun,True,15.5,-130,2023-04-09T18:45:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_points_over_under,alperen sengun,True,14.5,-115,2023-04-09T17:15:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_points_over_under,alperen sengun,True,13.5,-130,2023-04-09T19:00:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_points_over_under,alperen sengun,True,11.5,115,2023-04-09T18:15:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_points_over_under,alperen sengun,True,9.5,-110,2023-04-09T18:00:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_points_over_under,alperen sengun,False,16.5,-122,2023-04-09T16:30:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_points_over_under,alperen sengun,False,15.5,100,2023-04-09T18:45:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_points_over_under,alperen sengun,False,14.5,100,2023-04-09T17:15:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_points_over_under,alperen sengun,False,13.5,122,2023-04-09T19:00:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_points_over_under,alperen sengun,False,11.5,-158,2023-04-09T18:15:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_points_over_under,alperen sengun,False,9.5,-118,2023-04-09T18:00:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_points_over_under,alperen sengun,False,15.5,100,2023-04-09T18:45:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,caesars,player_points_over_under,alperen sengun,True,15.5,-104,2023-04-09T16:30:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,caesars,player_points_over_under,alperen sengun,False,15.5,-131,2023-04-09T16:30:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,betmgm,player_points_over_under,alperen sengun,True,15.5,-115,2023-04-09T14:30:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_rebounds_over_under,alperen sengun,True,9.5,120,2023-04-09T18:00:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_rebounds_over_under,alperen sengun,True,8.5,-140,2023-04-09T18:15:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_rebounds_over_under,alperen sengun,False,14.5,-118,2023-04-09T18:45:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_rebounds_over_under,alperen sengun,False,13.5,-192,2023-04-09T19:00:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_rebounds_over_under,alperen sengun,False,11.5,-104,2023-04-09T18:30:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_rebounds_over_under,alperen sengun,False,10.5,-104,2023-04-09T17:00:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_rebounds_over_under,alperen sengun,False,9.5,-128,2023-04-09T17:45:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_points_over_under,alperen sengun,True,15.5,-132,2023-04-09T18:45:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_rebounds_over_under,alperen sengun,False,8.5,108,2023-04-09T18:15:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_rebounds_over_under,alperen sengun,True,13.5,142,2023-04-09T19:00:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_rebounds_over_under,alperen sengun,True,11.5,-128,2023-04-09T18:30:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_rebounds_over_under,alperen sengun,True,10.5,-118,2023-04-09T17:00:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_rebounds_over_under,alperen sengun,True,9.5,-104,2023-04-09T17:45:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_rebounds_over_under,alperen sengun,True,8.5,-144,2023-04-09T18:15:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,barstool,player_points_over_under,alperen sengun,True,15.5,-115,2023-04-09T17:00:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,betmgm,player_points_over_under,alperen sengun,False,15.5,-115,2023-04-09T14:30:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_rebounds_over_under,alperen sengun,True,14.5,-112,2023-04-09T18:45:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_points_over_under,alperen sengun,True,14.5,-132,2023-04-09T17:15:01,Washington Wizards,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_assists_over_under,alperen sengun,True,3.5,-114,2023-10-25T23:20:37,Orlando Magic,Houston Rockets
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_threes_over_under,alperen sengun,False,0.5,-360,2023-10-24T03:50:30,Denver Nuggets,Los Angeles Lakers
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_points_over_under,alperen sengun,False,15.5,-188,2023-10-26T01:15:31,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_points_over_under,alperen sengun,False,14.5,-280,2023-10-26T01:25:16,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_points_over_under,alperen sengun,False,13.5,-113,2023-10-25T23:20:37,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_points_over_under,alperen sengun,True,23.5,-111,2023-10-26T00:00:15,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_points_over_under,alperen sengun,True,21.5,-136,2023-10-25T23:56:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_points_over_under,alperen sengun,True,20.5,100,2023-10-26T00:10:40,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_points_over_under,alperen sengun,True,19.5,-118,2023-10-26T00:30:33,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_points_over_under,alperen sengun,True,18.5,110,2023-10-26T00:35:14,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_points_over_under,alperen sengun,True,17.5,-125,2023-10-26T00:41:05,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_points_over_under,alperen sengun,True,16.5,116,2023-10-26T00:50:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_points_over_under,alperen sengun,True,15.5,146,2023-10-26T01:15:31,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_points_over_under,alperen sengun,True,14.5,210,2023-10-26T01:25:16,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_points_over_under,alperen sengun,True,13.5,-113,2023-10-25T23:20:37,Orlando Magic,Houston Rockets
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,alperen sengun,False,16.5,-215,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,alperen sengun,False,15.5,-165,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,alperen sengun,False,13.5,100,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,alperen sengun,False,12.5,135,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,alperen sengun,True,16.5,165,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,alperen sengun,True,15.5,130,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_points_over_under,alperen sengun,False,16.5,-148,2023-10-26T00:50:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_points_over_under,alperen sengun,False,17.5,-102,2023-10-26T00:41:05,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_points_over_under,alperen sengun,False,18.5,-140,2023-10-26T00:35:14,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_points_over_under,alperen sengun,False,19.5,-108,2023-10-26T00:30:33,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,alperen sengun,False,15.5,-150,2023-10-26T01:00:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,alperen sengun,False,14.5,-6000,2023-10-26T01:25:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,alperen sengun,False,16.5,-210,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,alperen sengun,False,15.5,-155,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,alperen sengun,False,13.5,125,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,alperen sengun,False,12.5,150,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,alperen sengun,True,22.5,-105,2023-10-25T23:55:08,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,alperen sengun,True,20.5,-110,2023-10-26T00:30:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,alperen sengun,True,18.5,-110,2023-10-26T00:41:24,Orlando Magic,Houston Rockets
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,alperen sengun,True,13.5,-130,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,alperen sengun,True,17.5,110,2023-10-26T00:45:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,alperen sengun,True,15.5,115,2023-10-26T01:00:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,alperen sengun,True,14.5,1100,2023-10-26T01:25:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,alperen sengun,True,16.5,160,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,alperen sengun,True,15.5,120,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,alperen sengun,True,13.5,-160,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,alperen sengun,True,12.5,-195,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_points_over_under,alperen sengun,False,23.5,-115,2023-10-26T00:00:15,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_points_over_under,alperen sengun,False,21.5,106,2023-10-25T23:56:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_points_over_under,alperen sengun,False,20.5,-128,2023-10-26T00:10:40,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,alperen sengun,True,16.5,-105,2023-10-26T00:50:08,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,alperen sengun,False,16.5,-125,2023-10-26T00:50:08,Orlando Magic,Houston Rockets
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,alperen sengun,True,12.5,-175,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_blocks_over_under,alperen sengun,False,0.5,-375,2023-10-26T00:45:14,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_assists_over_under,alperen sengun,False,6.5,-6000,2023-10-26T01:20:27,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_assists_over_under,alperen sengun,False,5.5,-150,2023-10-25T23:55:08,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_assists_over_under,alperen sengun,False,4.5,100,2023-10-26T00:30:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_assists_over_under,alperen sengun,False,3.5,-115,2023-10-25T23:20:08,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_assists_over_under,alperen sengun,True,7.5,120,2023-10-26T00:41:24,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_assists_over_under,alperen sengun,True,6.5,1100,2023-10-26T01:20:27,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_assists_over_under,alperen sengun,True,5.5,115,2023-10-25T23:55:08,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_assists_over_under,alperen sengun,True,4.5,-135,2023-10-26T00:30:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_assists_over_under,alperen sengun,True,3.5,-115,2023-10-25T23:20:08,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,pinnacle,player_assists_over_under,alperen sengun,False,3.5,102,2023-10-25T14:31:19,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,pinnacle,player_assists_over_under,alperen sengun,True,3.5,-135,2023-10-25T14:31:19,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_assists_over_under,alperen sengun,False,7.5,-162,2023-10-26T00:41:05,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_assists_over_under,alperen sengun,False,6.5,-20000,2023-10-26T01:25:16,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_assists_over_under,alperen sengun,False,5.5,-136,2023-10-25T23:56:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_assists_over_under,alperen sengun,False,4.5,104,2023-10-26T00:30:33,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_assists_over_under,alperen sengun,False,3.5,-114,2023-10-25T23:20:37,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_assists_over_under,alperen sengun,True,7.5,122,2023-10-26T00:41:05,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_assists_over_under,alperen sengun,True,6.5,1000,2023-10-26T01:20:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_assists_over_under,alperen sengun,True,4.5,-138,2023-10-26T00:30:33,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_assists_over_under,alperen sengun,False,7.5,-160,2023-10-26T00:41:24,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betmgm,player_assists_over_under,alperen sengun,True,3.5,-115,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betmgm,player_assists_over_under,alperen sengun,False,3.5,-120,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_assists_over_under,alperen sengun,True,2.5,-300,2023-10-25T11:10:14,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_blocks_over_under,alperen sengun,True,0.5,235,2023-10-26T00:45:14,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betmgm,player_blocks_over_under,alperen sengun,False,0.5,125,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betmgm,player_blocks_over_under,alperen sengun,True,0.5,-165,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_blocks_over_under,alperen sengun,False,0.5,-6000,2023-10-26T01:05:18,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_blocks_over_under,alperen sengun,True,0.5,1000,2023-10-26T01:05:18,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_blocks_over_under,alperen sengun,False,0.5,-100000,2023-10-26T01:20:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_blocks_over_under,alperen sengun,True,0.5,1000,2023-10-26T01:05:14,Orlando Magic,Houston Rockets
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_blocks_over_under,alperen sengun,False,0.5,130,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_blocks_over_under,alperen sengun,True,0.5,-170,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betrivers,player_blocks_over_under,alperen sengun,True,0.5,-182,2023-10-25T23:01:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betrivers,player_assists_over_under,alperen sengun,True,4.5,165,2023-10-25T23:01:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_assists_over_under,alperen sengun,False,7.5,-165,2023-10-26T00:40:39,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_assists_over_under,alperen sengun,False,5.5,-140,2023-10-25T23:55:05,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_assists_over_under,alperen sengun,False,4.5,100,2023-10-26T00:30:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_assists_over_under,alperen sengun,False,3.5,-120,2023-10-25T23:20:09,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_assists_over_under,alperen sengun,False,2.5,210,2023-10-25T11:10:14,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_assists_over_under,alperen sengun,True,7.5,115,2023-10-26T00:40:39,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_assists_over_under,alperen sengun,True,5.5,100,2023-10-25T23:55:05,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_assists_over_under,alperen sengun,True,4.5,-140,2023-10-26T00:30:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_assists_over_under,alperen sengun,True,3.5,-120,2023-10-25T23:20:09,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betrivers,player_assists_over_under,alperen sengun,True,3.5,-143,2023-10-25T23:01:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,alperen sengun,False,17.5,-145,2023-10-26T00:45:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_assists_over_under,alperen sengun,True,5.5,102,2023-10-25T23:56:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,alperen sengun,False,20.5,-125,2023-10-26T00:30:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betmgm,player_steals_over_under,alperen sengun,True,0.5,-190,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_steals_over_under,alperen sengun,False,0.5,-20000,2023-10-26T01:10:27,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_steals_over_under,alperen sengun,True,0.5,1200,2023-10-26T01:10:27,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_steals_over_under,alperen sengun,False,0.5,-100000,2023-10-26T01:20:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_steals_over_under,alperen sengun,True,0.5,1000,2023-10-26T01:10:04,Orlando Magic,Houston Rockets
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_steals_over_under,alperen sengun,False,0.5,135,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_steals_over_under,alperen sengun,True,0.5,-175,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betrivers,player_rebounds_over_under,alperen sengun,True,10.5,170,2023-10-25T23:01:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betrivers,player_rebounds_over_under,alperen sengun,True,9.5,-103,2023-10-25T23:01:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betrivers,player_rebounds_over_under,alperen sengun,True,8.5,-180,2023-10-25T23:01:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_rebounds_over_under,alperen sengun,False,12.5,-110,2023-10-26T00:30:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_rebounds_over_under,alperen sengun,False,11.5,-115,2023-10-26T00:40:39,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_rebounds_over_under,alperen sengun,False,10.5,-160,2023-10-26T00:50:51,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_rebounds_over_under,alperen sengun,False,9.5,-110,2023-10-26T00:10:24,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_rebounds_over_under,alperen sengun,False,8.5,110,2023-10-25T18:56:23,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_rebounds_over_under,alperen sengun,True,12.5,-130,2023-10-26T00:30:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_rebounds_over_under,alperen sengun,True,11.5,-125,2023-10-26T00:40:39,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_rebounds_over_under,alperen sengun,True,10.5,110,2023-10-26T00:50:51,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_rebounds_over_under,alperen sengun,True,9.5,-130,2023-10-26T00:10:24,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,alperen sengun,False,18.5,-120,2023-10-26T00:41:24,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_steals_over_under,alperen sengun,True,0.5,165,2023-10-26T00:35:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_steals_over_under,alperen sengun,False,0.5,-250,2023-10-26T00:35:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betrivers,player_steals_over_under,alperen sengun,True,0.5,-182,2023-10-25T23:01:07,Orlando Magic,Houston Rockets
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_steals_over_under,alperen sengun,False,0.5,135,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_steals_over_under,alperen sengun,True,0.5,-175,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,alperen sengun,False,16.5,-215,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,alperen sengun,False,15.5,-165,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,alperen sengun,False,13.5,100,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,alperen sengun,False,12.5,135,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,alperen sengun,True,16.5,165,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,alperen sengun,True,15.5,130,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,alperen sengun,True,13.5,-130,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_rebounds_over_under,alperen sengun,True,8.5,-140,2023-10-25T18:56:23,Orlando Magic,Houston Rockets
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,alperen sengun,True,12.5,-175,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_blocks_over_under,alperen sengun,True,0.5,-170,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_threes_over_under,alperen sengun,False,0.5,-425,2023-10-25T23:16:13,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_threes_over_under,alperen sengun,True,0.5,260,2023-10-25T23:16:13,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betmgm,player_threes_over_under,alperen sengun,False,0.5,-400,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betmgm,player_threes_over_under,alperen sengun,True,0.5,275,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_threes_over_under,alperen sengun,False,0.5,-300,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_threes_over_under,alperen sengun,True,0.5,230,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_threes_over_under,alperen sengun,False,0.5,-600,2023-10-25T23:40:05,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_threes_over_under,alperen sengun,True,0.5,370,2023-10-25T23:40:05,Orlando Magic,Houston Rockets
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_blocks_over_under,alperen sengun,False,0.5,130,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betmgm,player_rebounds_over_under,alperen sengun,False,9.5,-130,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betmgm,player_steals_over_under,alperen sengun,False,0.5,140,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_rebounds_over_under,alperen sengun,False,12.5,-105,2023-10-26T00:30:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betrivers,player_points_over_under,alperen sengun,True,13.5,-141,2023-10-25T23:01:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betrivers,player_points_over_under,alperen sengun,True,12.5,-210,2023-10-25T23:01:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betrivers,player_points_over_under,alperen sengun,True,11.5,-335,2023-10-25T23:01:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_points_over_under,alperen sengun,False,20.5,-135,2023-10-26T00:30:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_points_over_under,alperen sengun,False,18.5,-125,2023-10-26T00:40:39,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_points_over_under,alperen sengun,False,17.5,-130,2023-10-25T23:45:46,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_points_over_under,alperen sengun,False,16.5,-130,2023-10-26T00:50:51,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_points_over_under,alperen sengun,False,15.5,-125,2023-10-25T23:40:13,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_points_over_under,alperen sengun,False,13.5,105,2023-10-25T11:10:14,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betrivers,player_points_over_under,alperen sengun,True,14.5,-103,2023-10-25T23:01:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_points_over_under,alperen sengun,True,20.5,-105,2023-10-26T00:30:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_points_over_under,alperen sengun,True,17.5,-110,2023-10-25T23:45:46,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_points_over_under,alperen sengun,True,16.5,-110,2023-10-26T00:50:51,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_points_over_under,alperen sengun,True,15.5,-115,2023-10-25T23:40:13,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_points_over_under,alperen sengun,True,14.5,-135,2023-10-25T23:25:12,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_points_over_under,alperen sengun,True,13.5,-135,2023-10-25T11:10:14,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betmgm,player_points_over_under,alperen sengun,False,14.5,-120,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betmgm,player_points_over_under,alperen sengun,True,14.5,-110,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betmgm,player_rebounds_over_under,alperen sengun,True,9.5,-105,2023-10-25T23:15:06,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_points_over_under,alperen sengun,False,22.5,-125,2023-10-25T23:55:08,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_points_over_under,alperen sengun,True,18.5,-115,2023-10-26T00:40:39,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betrivers,player_points_over_under,alperen sengun,True,15.5,130,2023-10-25T23:01:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,player_points_over_under,alperen sengun,False,14.5,-105,2023-10-25T23:25:12,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_rebounds_over_under,alperen sengun,True,8.5,1000,2023-10-26T01:25:16,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,betrivers,player_points_over_under,alperen sengun,True,16.5,175,2023-10-25T23:01:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_rebounds_over_under,alperen sengun,False,10.5,-150,2023-10-26T00:50:08,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_rebounds_over_under,alperen sengun,False,9.5,105,2023-10-26T01:00:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_rebounds_over_under,alperen sengun,False,8.5,-5000,2023-10-26T01:25:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_rebounds_over_under,alperen sengun,True,12.5,-120,2023-10-26T00:30:07,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_rebounds_over_under,alperen sengun,True,11.5,-120,2023-10-26T00:41:24,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_rebounds_over_under,alperen sengun,True,10.5,115,2023-10-26T00:50:08,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_rebounds_over_under,alperen sengun,True,9.5,-140,2023-10-26T01:00:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_rebounds_over_under,alperen sengun,True,8.5,1000,2023-10-26T01:25:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,pinnacle,player_rebounds_over_under,alperen sengun,False,9.5,-134,2023-10-25T14:31:19,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,player_rebounds_over_under,alperen sengun,False,11.5,-110,2023-10-26T00:41:24,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_rebounds_over_under,alperen sengun,False,12.5,-106,2023-10-26T00:30:33,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,pinnacle,player_rebounds_over_under,alperen sengun,True,9.5,101,2023-10-25T14:31:19,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_rebounds_over_under,alperen sengun,True,10.5,116,2023-10-26T00:50:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_rebounds_over_under,alperen sengun,True,11.5,-118,2023-10-26T00:41:05,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_rebounds_over_under,alperen sengun,True,12.5,-125,2023-10-26T00:30:33,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_rebounds_over_under,alperen sengun,True,9.5,-140,2023-10-26T01:00:15,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_rebounds_over_under,alperen sengun,False,9.5,106,2023-10-26T01:00:15,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_rebounds_over_under,alperen sengun,False,10.5,-154,2023-10-26T00:50:04,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_rebounds_over_under,alperen sengun,False,11.5,-112,2023-10-26T00:41:05,Orlando Magic,Houston Rockets
+2023-10-25,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,player_rebounds_over_under,alperen sengun,False,8.5,-6000,2023-10-26T01:25:16,Orlando Magic,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,alperen sengun,False,17.5,148,2023-10-28T02:00:38,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,alperen sengun,False,23.5,-138,2023-10-28T02:40:04,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,alperen sengun,False,22.5,-172,2023-10-28T02:30:08,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,alperen sengun,False,21.5,-184,2023-10-28T02:20:10,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,alperen sengun,False,20.5,-148,2023-10-28T02:10:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,alperen sengun,False,19.5,132,2023-10-28T02:15:04,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,alperen sengun,False,25.5,-460,2023-10-28T02:45:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,alperen sengun,False,18.5,-146,2023-10-28T01:57:13,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,alperen sengun,False,16.5,126,2023-10-28T01:57:13,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,alperen sengun,True,23.5,108,2023-10-28T02:40:04,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,alperen sengun,False,14.5,-108,2023-10-28T00:55:16,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,alperen sengun,False,13.5,-122,2023-10-28T01:00:34,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,alperen sengun,False,12.5,-111,2023-10-28T01:32:22,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,alperen sengun,True,22.5,134,2023-10-28T02:30:08,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,alperen sengun,True,21.5,142,2023-10-28T02:20:10,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,alperen sengun,True,20.5,116,2023-10-28T02:10:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,alperen sengun,True,19.5,-170,2023-10-28T02:15:04,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,alperen sengun,True,18.5,114,2023-10-28T01:57:13,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,pinnacle,player_points_over_under,alperen sengun,True,15.5,-125,2023-10-26T21:30:57,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,alperen sengun,False,15.5,-148,2023-10-28T01:50:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,pinnacle,player_points_over_under,alperen sengun,False,15.5,-106,2023-10-26T21:30:57,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,alperen sengun,False,17.5,-200,2023-10-28T00:11:20,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,alperen sengun,True,14.5,-150,2023-10-28T00:11:20,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,alperen sengun,False,16.5,-155,2023-10-28T00:11:20,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,alperen sengun,False,14.5,115,2023-10-28T00:11:20,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,alperen sengun,False,13.5,165,2023-10-28T00:11:20,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,alperen sengun,True,25.5,1100,2023-10-28T02:45:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,alperen sengun,True,23.5,170,2023-10-28T02:40:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,alperen sengun,True,22.5,-125,2023-10-28T02:30:42,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,alperen sengun,True,21.5,155,2023-10-28T02:25:08,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,alperen sengun,True,20.5,-160,2023-10-28T02:10:08,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,alperen sengun,True,19.5,-185,2023-10-28T02:05:04,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,alperen sengun,True,18.5,110,2023-10-28T02:01:46,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,alperen sengun,True,17.5,-120,2023-10-28T01:55:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,alperen sengun,True,16.5,105,2023-10-28T01:45:09,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,alperen sengun,True,15.5,-115,2023-10-28T01:40:12,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,alperen sengun,True,14.5,-125,2023-10-28T01:35:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,alperen sengun,True,13.5,105,2023-10-28T01:10:13,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,alperen sengun,True,12.5,-135,2023-10-28T01:30:54,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,alperen sengun,True,11.5,-125,2023-10-28T01:25:08,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,alperen sengun,True,17.5,155,2023-10-28T00:11:20,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,alperen sengun,True,16.5,120,2023-10-28T00:11:20,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,alperen sengun,True,13.5,-210,2023-10-28T00:11:20,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,alperen sengun,True,17.5,-192,2023-10-28T02:00:38,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,pinnacle,player_assists_over_under,alperen sengun,False,4.5,-169,2023-10-26T21:30:57,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,alperen sengun,True,15.5,116,2023-10-28T01:50:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_assists_over_under,alperen sengun,True,6.5,105,2023-10-28T01:35:06,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_assists_over_under,alperen sengun,True,5.5,125,2023-10-28T01:05:18,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_assists_over_under,alperen sengun,True,4.5,-170,2023-10-28T01:26:14,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_assists_over_under,alperen sengun,True,3.5,-150,2023-10-28T00:20:10,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betmgm,player_assists_over_under,alperen sengun,False,4.5,-165,2023-10-27T16:30:51,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betmgm,player_assists_over_under,alperen sengun,False,3.5,120,2023-10-27T17:15:04,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betmgm,player_assists_over_under,alperen sengun,True,4.5,125,2023-10-27T16:30:51,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betmgm,player_assists_over_under,alperen sengun,True,3.5,-160,2023-10-27T17:15:04,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_assists_over_under,alperen sengun,False,7.5,-10000,2023-10-28T02:45:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_assists_over_under,alperen sengun,False,6.5,-425,2023-10-28T02:15:46,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_assists_over_under,alperen sengun,False,5.5,-110,2023-10-28T02:01:46,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_assists_over_under,alperen sengun,False,4.5,110,2023-10-28T01:25:08,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_assists_over_under,alperen sengun,False,3.5,110,2023-10-28T00:20:14,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_assists_over_under,alperen sengun,True,7.5,1200,2023-10-28T02:45:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_assists_over_under,alperen sengun,True,6.5,280,2023-10-28T02:15:46,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_assists_over_under,alperen sengun,True,5.5,-120,2023-10-28T02:01:46,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_assists_over_under,alperen sengun,True,4.5,-145,2023-10-28T01:25:08,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_assists_over_under,alperen sengun,True,3.5,-150,2023-10-28T00:20:14,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,alperen sengun,False,11.5,-105,2023-10-28T01:25:08,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_assists_over_under,alperen sengun,False,3.5,105,2023-10-28T00:20:10,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_assists_over_under,alperen sengun,False,4.5,120,2023-10-28T01:26:14,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_assists_over_under,alperen sengun,False,5.5,-180,2023-10-28T01:05:18,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_assists_over_under,alperen sengun,False,6.5,-150,2023-10-28T01:35:06,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,alperen sengun,True,14.5,-118,2023-10-28T00:55:16,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,alperen sengun,True,13.5,-104,2023-10-28T01:00:34,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,alperen sengun,True,12.5,-115,2023-10-28T01:32:22,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betrivers,player_blocks_over_under,alperen sengun,True,0.5,-162,2023-10-28T00:00:10,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_blocks_over_under,alperen sengun,False,1.5,-450,2023-10-27T10:10:04,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_blocks_over_under,alperen sengun,False,0.5,-350,2023-10-28T01:35:06,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_blocks_over_under,alperen sengun,True,1.5,280,2023-10-27T10:10:04,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_blocks_over_under,alperen sengun,True,0.5,220,2023-10-28T01:35:06,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betmgm,player_blocks_over_under,alperen sengun,False,0.5,110,2023-10-27T17:15:04,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_points_over_under,alperen sengun,True,16.5,-162,2023-10-28T01:57:13,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betmgm,player_blocks_over_under,alperen sengun,True,0.5,-150,2023-10-27T16:45:28,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_blocks_over_under,alperen sengun,False,0.5,-360,2023-10-28T01:35:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_blocks_over_under,alperen sengun,True,1.5,1100,2023-10-28T02:40:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_blocks_over_under,alperen sengun,True,0.5,245,2023-10-28T01:35:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_blocks_over_under,alperen sengun,False,1.5,-100000,2023-10-28T02:45:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_blocks_over_under,alperen sengun,False,0.5,-300,2023-10-28T01:32:22,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_blocks_over_under,alperen sengun,True,1.5,1000,2023-10-28T02:45:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_blocks_over_under,alperen sengun,True,0.5,210,2023-10-28T01:32:22,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betrivers,player_assists_over_under,alperen sengun,True,4.5,100,2023-10-28T00:11:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betrivers,player_assists_over_under,alperen sengun,True,3.5,-175,2023-10-28T00:11:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_blocks_over_under,alperen sengun,False,1.5,-6000,2023-10-28T02:40:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,alperen sengun,False,12.5,105,2023-10-28T01:30:54,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_rebounds_over_under,alperen sengun,True,9.5,-125,2023-10-28T00:15:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,alperen sengun,False,14.5,-105,2023-10-28T01:35:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_steals_over_under,alperen sengun,True,2.5,1000,2023-10-28T02:35:47,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_steals_over_under,alperen sengun,True,1.5,470,2023-10-28T02:00:38,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_steals_over_under,alperen sengun,True,0.5,320,2023-10-28T01:50:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betrivers,player_rebounds_over_under,alperen sengun,True,10.5,138,2023-10-28T00:00:10,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betrivers,player_rebounds_over_under,alperen sengun,True,9.5,-121,2023-10-28T00:11:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betrivers,player_rebounds_over_under,alperen sengun,True,8.5,-210,2023-10-28T00:00:10,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_rebounds_over_under,alperen sengun,False,13.5,-140,2023-10-28T01:58:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_rebounds_over_under,alperen sengun,False,12.5,-115,2023-10-28T01:30:28,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_rebounds_over_under,alperen sengun,False,9.5,-105,2023-10-28T00:15:18,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_rebounds_over_under,alperen sengun,True,13.5,100,2023-10-28T01:58:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_rebounds_over_under,alperen sengun,True,12.5,-125,2023-10-28T01:30:28,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_rebounds_over_under,alperen sengun,True,9.5,-125,2023-10-28T00:15:18,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betmgm,player_rebounds_over_under,alperen sengun,False,9.5,100,2023-10-27T16:45:28,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betmgm,player_rebounds_over_under,alperen sengun,True,9.5,-135,2023-10-27T17:05:09,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_rebounds_over_under,alperen sengun,False,15.5,-195,2023-10-28T02:30:42,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_rebounds_over_under,alperen sengun,False,14.5,-1400,2023-10-28T02:45:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_rebounds_over_under,alperen sengun,False,13.5,-210,2023-10-28T02:25:08,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_rebounds_over_under,alperen sengun,False,12.5,105,2023-10-28T01:30:54,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_rebounds_over_under,alperen sengun,False,9.5,-105,2023-10-28T00:15:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_steals_over_under,alperen sengun,False,0.5,-490,2023-10-28T01:50:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_rebounds_over_under,alperen sengun,True,15.5,145,2023-10-28T02:30:42,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_steals_over_under,alperen sengun,False,1.5,-850,2023-10-28T02:00:38,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_steals_over_under,alperen sengun,True,0.5,310,2023-10-28T01:50:23,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,pinnacle,player_assists_over_under,alperen sengun,True,4.5,125,2023-10-26T21:30:57,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_threes_over_under,alperen sengun,True,1.5,2200,2023-10-27T14:06:03,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_threes_over_under,alperen sengun,True,0.5,260,2023-10-28T00:15:18,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betmgm,player_threes_over_under,alperen sengun,False,0.5,-400,2023-10-27T13:00:08,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betmgm,player_threes_over_under,alperen sengun,True,0.5,280,2023-10-27T17:05:09,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_threes_over_under,alperen sengun,False,0.5,-390,2023-10-28T00:11:20,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_threes_over_under,alperen sengun,True,0.5,290,2023-10-28T00:11:20,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betrivers,player_steals_over_under,alperen sengun,True,0.5,-182,2023-10-28T00:00:10,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_steals_over_under,alperen sengun,False,1.5,-325,2023-10-27T17:10:12,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_steals_over_under,alperen sengun,False,0.5,-300,2023-10-28T01:35:06,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_steals_over_under,alperen sengun,True,1.5,220,2023-10-27T17:10:12,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_steals_over_under,alperen sengun,True,0.5,200,2023-10-28T01:35:06,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betmgm,player_steals_over_under,alperen sengun,False,0.5,140,2023-10-27T17:15:04,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betmgm,player_steals_over_under,alperen sengun,True,0.5,-190,2023-10-27T17:15:04,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_steals_over_under,alperen sengun,False,2.5,-6000,2023-10-28T02:40:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_steals_over_under,alperen sengun,False,1.5,-800,2023-10-28T02:01:46,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_steals_over_under,alperen sengun,False,0.5,-475,2023-10-28T01:50:23,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_steals_over_under,alperen sengun,True,2.5,1100,2023-10-28T02:36:09,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_steals_over_under,alperen sengun,True,1.5,450,2023-10-28T01:55:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_steals_over_under,alperen sengun,False,2.5,-100000,2023-10-28T02:45:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_rebounds_over_under,alperen sengun,True,14.5,600,2023-10-28T02:45:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_rebounds_over_under,alperen sengun,True,13.5,155,2023-10-28T02:25:08,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_rebounds_over_under,alperen sengun,True,12.5,-140,2023-10-28T01:30:54,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,alperen sengun,False,12.5,-110,2023-10-28T01:30:28,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,alperen sengun,True,17.5,-125,2023-10-28T01:58:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,alperen sengun,True,16.5,-125,2023-10-28T00:20:10,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,alperen sengun,True,15.5,-120,2023-10-28T00:50:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,alperen sengun,True,14.5,-135,2023-10-28T01:35:06,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,alperen sengun,True,13.5,-130,2023-10-28T01:05:18,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,alperen sengun,True,12.5,-130,2023-10-28T01:30:28,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betmgm,player_points_over_under,alperen sengun,False,15.5,-120,2023-10-27T17:15:04,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betmgm,player_points_over_under,alperen sengun,True,15.5,-110,2023-10-27T17:15:04,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,alperen sengun,False,25.5,-6000,2023-10-28T02:45:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,alperen sengun,False,23.5,-235,2023-10-28T02:40:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,alperen sengun,False,22.5,-105,2023-10-28T02:30:42,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,alperen sengun,False,21.5,-210,2023-10-28T02:25:08,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,alperen sengun,False,20.5,120,2023-10-28T02:10:08,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,alperen sengun,False,19.5,140,2023-10-28T02:05:04,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,alperen sengun,False,18.5,-145,2023-10-28T02:01:46,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,alperen sengun,False,17.5,-110,2023-10-28T01:55:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,alperen sengun,False,16.5,-135,2023-10-28T01:45:09,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,alperen sengun,False,15.5,-115,2023-10-28T01:40:12,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,alperen sengun,False,13.5,-110,2023-10-28T01:05:18,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,alperen sengun,False,14.5,-105,2023-10-28T01:35:06,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,alperen sengun,False,15.5,-120,2023-10-28T00:50:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,alperen sengun,False,16.5,-115,2023-10-28T00:20:10,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,pinnacle,player_rebounds_over_under,alperen sengun,False,9.5,-108,2023-10-26T21:30:57,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,pinnacle,player_rebounds_over_under,alperen sengun,True,9.5,-123,2023-10-26T21:30:57,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_rebounds_over_under,alperen sengun,False,15.5,-205,2023-10-28T02:30:08,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_rebounds_over_under,alperen sengun,False,14.5,-1450,2023-10-28T02:45:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_rebounds_over_under,alperen sengun,False,13.5,-220,2023-10-28T02:25:09,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_rebounds_over_under,alperen sengun,False,12.5,128,2023-10-28T01:57:13,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_rebounds_over_under,alperen sengun,False,9.5,-104,2023-10-28T00:10:10,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_rebounds_over_under,alperen sengun,True,15.5,152,2023-10-28T02:30:08,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_rebounds_over_under,alperen sengun,True,14.5,640,2023-10-28T02:45:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,alperen sengun,False,13.5,-140,2023-10-28T01:10:13,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_rebounds_over_under,alperen sengun,True,13.5,162,2023-10-28T02:25:09,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_rebounds_over_under,alperen sengun,True,9.5,-118,2023-10-28T00:10:10,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betrivers,player_points_over_under,alperen sengun,True,18.5,215,2023-10-27T12:46:03,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betrivers,player_points_over_under,alperen sengun,True,17.5,180,2023-10-28T00:11:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betrivers,player_points_over_under,alperen sengun,True,16.5,135,2023-10-28T00:00:10,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betrivers,player_points_over_under,alperen sengun,True,15.5,105,2023-10-28T00:00:10,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betrivers,player_points_over_under,alperen sengun,True,14.5,-129,2023-10-28T00:11:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betrivers,player_points_over_under,alperen sengun,True,13.5,-182,2023-10-28T00:11:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,betrivers,player_points_over_under,alperen sengun,True,12.5,-275,2023-10-28T00:11:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,alperen sengun,False,17.5,-115,2023-10-28T01:58:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_rebounds_over_under,alperen sengun,True,12.5,-172,2023-10-28T01:57:13,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_assists_over_under,alperen sengun,False,7.5,-5000,2023-10-28T02:45:15,San Antonio Spurs,Houston Rockets
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,alperen sengun,False,15.5,-125,2023-10-30T00:10:05,Houston Rockets,Golden State Warriors
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_assists_over_under,alperen sengun,False,5.5,-112,2023-10-28T02:00:38,San Antonio Spurs,Houston Rockets
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,alperen sengun,True,16.5,105,2023-10-29T23:15:13,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,alperen sengun,True,15.5,-105,2023-10-29T13:05:19,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,alperen sengun,True,14.5,-145,2023-10-29T23:15:13,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,alperen sengun,True,13.5,-205,2023-10-29T23:15:13,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,alperen sengun,True,12.5,-225,2023-10-29T13:05:19,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,pinnacle,player_points_over_under,alperen sengun,False,15.5,-120,2023-10-29T22:10:05,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,pinnacle,player_points_over_under,alperen sengun,True,15.5,-111,2023-10-29T22:10:05,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_points_over_under,alperen sengun,False,20.5,-128,2023-10-30T00:45:20,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_points_over_under,alperen sengun,False,19.5,-590,2023-10-30T01:30:23,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_points_over_under,alperen sengun,False,18.5,-210,2023-10-30T01:20:36,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_points_over_under,alperen sengun,False,17.5,-102,2023-10-30T01:25:18,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_points_over_under,alperen sengun,False,16.5,-125,2023-10-29T16:10:09,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_points_over_under,alperen sengun,False,15.5,108,2023-10-30T00:20:33,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_points_over_under,alperen sengun,False,14.5,-122,2023-10-30T00:05:14,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_points_over_under,alperen sengun,False,13.5,-115,2023-10-29T23:30:44,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_points_over_under,alperen sengun,False,12.5,-115,2023-10-29T23:35:22,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_points_over_under,alperen sengun,False,11.5,-115,2023-10-29T23:40:23,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_points_over_under,alperen sengun,False,10.5,-113,2023-10-30T00:00:23,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_points_over_under,alperen sengun,False,9.5,100,2023-10-29T23:55:12,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,alperen sengun,True,17.5,160,2023-10-29T23:15:13,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_points_over_under,alperen sengun,True,20.5,100,2023-10-30T00:45:20,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,alperen sengun,True,9.5,-105,2023-10-30T00:01:37,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,alperen sengun,True,11.5,-110,2023-10-30T00:05:07,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,alperen sengun,False,12.5,-120,2023-10-29T23:35:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,alperen sengun,False,11.5,-120,2023-10-30T00:05:07,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,alperen sengun,False,10.5,100,2023-10-29T23:45:16,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,alperen sengun,False,9.5,-130,2023-10-30T00:01:37,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,alperen sengun,False,17.5,-205,2023-10-29T23:15:13,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,alperen sengun,False,16.5,-140,2023-10-29T23:15:13,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,alperen sengun,False,15.5,-120,2023-10-29T13:05:19,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,alperen sengun,False,14.5,115,2023-10-29T23:15:13,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,alperen sengun,False,13.5,160,2023-10-29T23:15:13,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,alperen sengun,False,12.5,175,2023-10-29T13:05:19,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,alperen sengun,True,20.5,-115,2023-10-30T00:45:46,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,alperen sengun,True,19.5,550,2023-10-30T01:30:40,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,alperen sengun,True,18.5,-145,2023-10-30T01:20:32,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,alperen sengun,True,17.5,115,2023-10-30T01:25:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,alperen sengun,True,16.5,-110,2023-10-30T00:25:23,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,alperen sengun,True,15.5,-115,2023-10-30T00:10:05,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,alperen sengun,True,14.5,-125,2023-10-29T13:05:19,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,alperen sengun,True,13.5,-110,2023-10-29T23:20:17,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,alperen sengun,True,12.5,-110,2023-10-29T23:35:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,alperen sengun,True,10.5,-130,2023-10-29T23:45:16,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_points_over_under,alperen sengun,True,19.5,122,2023-10-30T01:05:13,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_points_over_under,alperen sengun,True,18.5,162,2023-10-30T01:20:36,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_points_over_under,alperen sengun,True,17.5,-125,2023-10-30T01:25:18,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_assists_over_under,alperen sengun,True,4.5,100,2023-10-30T00:35:23,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_assists_over_under,alperen sengun,False,7.5,-3000,2023-10-30T01:30:40,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_assists_over_under,alperen sengun,False,6.5,-190,2023-10-30T01:20:32,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_assists_over_under,alperen sengun,False,5.5,-155,2023-10-30T00:40:44,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_assists_over_under,alperen sengun,False,4.5,-140,2023-10-30T00:35:22,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_assists_over_under,alperen sengun,True,7.5,900,2023-10-30T01:30:40,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_assists_over_under,alperen sengun,True,6.5,140,2023-10-30T01:20:32,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_assists_over_under,alperen sengun,True,5.5,115,2023-10-30T00:40:44,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_assists_over_under,alperen sengun,True,4.5,105,2023-10-30T00:35:22,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,pinnacle,player_assists_over_under,alperen sengun,False,4.5,102,2023-10-29T22:10:05,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,pinnacle,player_assists_over_under,alperen sengun,True,4.5,-134,2023-10-29T22:10:05,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_assists_over_under,alperen sengun,False,7.5,-3500,2023-10-30T01:30:23,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_assists_over_under,alperen sengun,False,6.5,-194,2023-10-30T01:20:36,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_assists_over_under,alperen sengun,False,5.5,-158,2023-10-30T00:40:05,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_assists_over_under,alperen sengun,False,4.5,-144,2023-10-30T00:30:06,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_assists_over_under,alperen sengun,True,7.5,920,2023-10-30T01:30:23,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_assists_over_under,alperen sengun,True,6.5,144,2023-10-30T01:20:36,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_assists_over_under,alperen sengun,True,5.5,118,2023-10-30T00:40:05,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_assists_over_under,alperen sengun,True,4.5,108,2023-10-30T00:30:06,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_assists_over_under,alperen sengun,True,5.5,110,2023-10-30T00:40:22,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_assists_over_under,alperen sengun,True,6.5,105,2023-10-29T23:50:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_assists_over_under,alperen sengun,False,4.5,-140,2023-10-30T00:35:23,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_assists_over_under,alperen sengun,False,5.5,-160,2023-10-30T00:40:22,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_points_over_under,alperen sengun,True,16.5,-102,2023-10-29T16:10:09,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_points_over_under,alperen sengun,True,15.5,-138,2023-10-30T00:20:33,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_points_over_under,alperen sengun,True,14.5,-104,2023-10-30T00:05:14,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_points_over_under,alperen sengun,True,13.5,-111,2023-10-29T23:30:44,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_points_over_under,alperen sengun,True,12.5,-111,2023-10-29T23:35:22,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_points_over_under,alperen sengun,True,11.5,-111,2023-10-29T23:40:23,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_points_over_under,alperen sengun,True,10.5,-113,2023-10-30T00:00:23,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_points_over_under,alperen sengun,True,9.5,-128,2023-10-29T23:55:12,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,betrivers,player_blocks_over_under,alperen sengun,True,0.5,-130,2023-10-29T23:00:43,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,alperen sengun,False,13.5,-120,2023-10-29T23:20:17,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_blocks_over_under,alperen sengun,False,1.5,-600,2023-10-29T21:35:12,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_blocks_over_under,alperen sengun,True,1.5,350,2023-10-29T21:35:12,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_blocks_over_under,alperen sengun,True,0.5,260,2023-10-30T00:40:22,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_blocks_over_under,alperen sengun,False,0.5,-3000,2023-10-30T01:20:32,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_blocks_over_under,alperen sengun,True,0.5,850,2023-10-30T01:20:32,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_blocks_over_under,alperen sengun,False,0.5,-100000,2023-10-30T01:30:23,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_blocks_over_under,alperen sengun,True,0.5,1000,2023-10-30T01:25:18,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,betrivers,player_assists_over_under,alperen sengun,True,5.5,120,2023-10-29T23:00:43,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,betrivers,player_assists_over_under,alperen sengun,True,4.5,-139,2023-10-29T23:00:43,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_assists_over_under,alperen sengun,False,6.5,-150,2023-10-29T23:50:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_blocks_over_under,alperen sengun,False,0.5,-425,2023-10-30T00:40:22,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,alperen sengun,False,14.5,-105,2023-10-29T13:05:19,Houston Rockets,Golden State Warriors
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_threes_over_under,alperen sengun,False,0.5,-425,2023-10-28T00:15:18,San Antonio Spurs,Houston Rockets
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,alperen sengun,False,16.5,-120,2023-10-30T00:25:23,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_rebounds_over_under,alperen sengun,False,7.5,-125,2023-10-30T00:30:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_rebounds_over_under,alperen sengun,False,6.5,-170,2023-10-30T01:05:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_rebounds_over_under,alperen sengun,False,5.5,-140,2023-10-30T01:21:37,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_rebounds_over_under,alperen sengun,True,10.5,-125,2023-10-29T23:15:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_rebounds_over_under,alperen sengun,True,9.5,-110,2023-10-29T23:25:11,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_rebounds_over_under,alperen sengun,True,8.5,110,2023-10-30T00:25:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_rebounds_over_under,alperen sengun,True,7.5,-115,2023-10-30T00:30:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_rebounds_over_under,alperen sengun,True,6.5,120,2023-10-30T01:05:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_rebounds_over_under,alperen sengun,True,5.5,100,2023-10-30T01:21:37,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_rebounds_over_under,alperen sengun,False,10.5,-105,2023-10-29T23:20:17,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_rebounds_over_under,alperen sengun,False,9.5,-125,2023-10-29T23:20:17,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_rebounds_over_under,alperen sengun,False,8.5,-160,2023-10-30T00:45:46,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_rebounds_over_under,alperen sengun,False,7.5,-125,2023-10-30T00:30:43,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_rebounds_over_under,alperen sengun,False,6.5,-220,2023-10-30T01:20:32,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_rebounds_over_under,alperen sengun,False,5.5,-700,2023-10-30T01:30:40,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_rebounds_over_under,alperen sengun,True,10.5,-125,2023-10-29T23:20:17,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_rebounds_over_under,alperen sengun,True,9.5,-110,2023-10-29T23:20:17,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_rebounds_over_under,alperen sengun,True,8.5,120,2023-10-30T00:45:46,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_rebounds_over_under,alperen sengun,True,7.5,-105,2023-10-30T00:30:43,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_rebounds_over_under,alperen sengun,False,8.5,-160,2023-10-30T00:25:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_rebounds_over_under,alperen sengun,False,9.5,-130,2023-10-29T23:25:11,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_rebounds_over_under,alperen sengun,False,10.5,-105,2023-10-29T23:15:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,betrivers,player_rebounds_over_under,alperen sengun,True,9.5,-167,2023-10-29T23:00:43,Houston Rockets,Golden State Warriors
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_assists_over_under,alperen sengun,False,4.5,124,2023-10-28T01:25:19,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_assists_over_under,alperen sengun,False,3.5,116,2023-10-28T00:20:16,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_assists_over_under,alperen sengun,True,7.5,1000,2023-10-28T02:45:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_assists_over_under,alperen sengun,True,6.5,270,2023-10-28T02:15:04,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_assists_over_under,alperen sengun,True,5.5,-118,2023-10-28T02:00:38,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_assists_over_under,alperen sengun,True,4.5,-166,2023-10-28T01:25:19,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_assists_over_under,alperen sengun,True,3.5,-152,2023-10-28T00:20:16,San Antonio Spurs,Houston Rockets
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_threes_over_under,alperen sengun,False,0.5,-300,2023-10-29T23:15:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_threes_over_under,alperen sengun,True,0.5,210,2023-10-29T23:15:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_rebounds_over_under,alperen sengun,True,6.5,165,2023-10-30T01:20:32,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_threes_over_under,alperen sengun,False,0.5,-280,2023-10-29T23:15:13,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,betrivers,player_steals_over_under,alperen sengun,True,0.5,-240,2023-10-29T23:00:43,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_steals_over_under,alperen sengun,False,0.5,-350,2023-10-30T00:40:22,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_steals_over_under,alperen sengun,True,0.5,220,2023-10-30T00:40:22,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_steals_over_under,alperen sengun,False,0.5,-8000,2023-10-30T01:25:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_steals_over_under,alperen sengun,True,0.5,1100,2023-10-30T01:25:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_steals_over_under,alperen sengun,False,0.5,-100000,2023-10-30T01:30:23,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_steals_over_under,alperen sengun,True,0.5,1000,2023-10-30T01:25:18,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,betrivers,player_rebounds_over_under,alperen sengun,True,11.5,170,2023-10-29T23:00:43,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,betrivers,player_rebounds_over_under,alperen sengun,True,10.5,102,2023-10-29T23:00:43,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_threes_over_under,alperen sengun,True,0.5,215,2023-10-29T23:15:13,Houston Rockets,Golden State Warriors
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_assists_over_under,alperen sengun,False,6.5,-400,2023-10-28T02:15:04,San Antonio Spurs,Houston Rockets
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_rebounds_over_under,alperen sengun,True,5.5,425,2023-10-30T01:30:40,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,pinnacle,player_rebounds_over_under,alperen sengun,True,10.5,-111,2023-10-29T22:10:05,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,alperen sengun,False,13.5,-125,2023-10-29T23:25:11,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,alperen sengun,False,12.5,-125,2023-10-29T23:40:07,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,alperen sengun,False,11.5,-125,2023-10-30T00:05:05,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,alperen sengun,False,10.5,-105,2023-10-29T23:50:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,alperen sengun,False,9.5,-130,2023-10-30T00:01:10,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,alperen sengun,True,19.5,115,2023-10-30T01:15:37,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,alperen sengun,True,17.5,-125,2023-10-30T00:40:22,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,alperen sengun,True,16.5,-110,2023-10-30T00:25:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,alperen sengun,True,15.5,-120,2023-10-30T00:10:06,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,alperen sengun,True,14.5,-140,2023-10-29T21:35:12,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,alperen sengun,True,13.5,-115,2023-10-29T23:25:11,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,alperen sengun,True,12.5,-115,2023-10-29T23:40:07,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,alperen sengun,True,11.5,-115,2023-10-30T00:05:05,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,alperen sengun,True,10.5,-135,2023-10-29T23:50:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,alperen sengun,True,9.5,-110,2023-10-30T00:01:10,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,alperen sengun,False,20.5,-115,2023-10-30T00:45:46,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,alperen sengun,False,19.5,-1200,2023-10-30T01:30:40,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,alperen sengun,False,18.5,110,2023-10-30T01:20:32,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,alperen sengun,False,17.5,-155,2023-10-30T01:25:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,alperen sengun,False,14.5,110,2023-10-29T21:35:12,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,alperen sengun,False,15.5,-120,2023-10-30T00:10:06,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,alperen sengun,False,16.5,-130,2023-10-30T00:25:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,alperen sengun,False,17.5,-115,2023-10-30T00:40:22,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_rebounds_over_under,alperen sengun,False,10.5,-110,2023-10-29T23:15:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_rebounds_over_under,alperen sengun,False,9.5,-120,2023-10-29T23:25:10,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_rebounds_over_under,alperen sengun,False,8.5,-158,2023-10-30T00:25:14,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_rebounds_over_under,alperen sengun,False,7.5,-120,2023-10-30T00:30:06,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_rebounds_over_under,alperen sengun,False,6.5,-230,2023-10-30T01:20:36,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_rebounds_over_under,alperen sengun,False,5.5,-850,2023-10-30T01:30:23,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_rebounds_over_under,alperen sengun,True,10.5,-130,2023-10-29T23:15:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_rebounds_over_under,alperen sengun,True,9.5,-110,2023-10-29T23:25:10,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_rebounds_over_under,alperen sengun,True,8.5,118,2023-10-30T00:25:14,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,pinnacle,player_rebounds_over_under,alperen sengun,False,10.5,-119,2023-10-29T22:10:05,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_rebounds_over_under,alperen sengun,True,7.5,-110,2023-10-30T00:30:06,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_rebounds_over_under,alperen sengun,True,5.5,470,2023-10-30T01:30:23,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,betrivers,player_points_over_under,alperen sengun,True,18.5,210,2023-10-29T22:25:09,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,betrivers,player_points_over_under,alperen sengun,True,17.5,170,2023-10-29T23:00:43,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,betrivers,player_points_over_under,alperen sengun,True,16.5,128,2023-10-29T23:00:43,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,betrivers,player_points_over_under,alperen sengun,True,15.5,-104,2023-10-29T23:00:43,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,betrivers,player_points_over_under,alperen sengun,True,14.5,-139,2023-10-29T23:00:43,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,betrivers,player_points_over_under,alperen sengun,True,13.5,-200,2023-10-29T23:00:43,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,betrivers,player_points_over_under,alperen sengun,True,12.5,-295,2023-10-29T23:00:43,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,alperen sengun,False,19.5,-165,2023-10-30T01:15:37,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_rebounds_over_under,alperen sengun,True,6.5,168,2023-10-30T01:20:36,Houston Rockets,Golden State Warriors
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_threes_over_under,alperen sengun,False,1.5,-10000,2023-10-27T14:06:03,San Antonio Spurs,Houston Rockets

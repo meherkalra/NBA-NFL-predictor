@@ -1,0 +1,964 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_assists_over_under,bennedict mathurin,False,2.5,-470,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_assists_over_under,bennedict mathurin,True,0.5,-130,2023-03-21T00:30:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_assists_over_under,bennedict mathurin,True,1.5,154,2023-03-21T00:45:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_assists_over_under,bennedict mathurin,True,2.5,310,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_assists_over_under,bennedict mathurin,False,0.5,-102,2023-03-21T00:30:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_assists_over_under,bennedict mathurin,False,1.5,-210,2023-03-21T00:45:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_blocks_over_under,bennedict mathurin,True,0.5,1000,2023-03-21T00:45:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_blocks_over_under,bennedict mathurin,False,0.5,-10000,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,bennedict mathurin,True,15.5,108,2023-03-20T23:15:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,bennedict mathurin,True,16.5,-132,2023-03-21T00:30:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,bennedict mathurin,True,17.5,-144,2023-03-20T23:45:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,bennedict mathurin,True,19.5,-114,2023-03-21T01:00:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,bennedict mathurin,False,15.5,-144,2023-03-20T23:15:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,bennedict mathurin,False,16.5,100,2023-03-21T00:30:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,bennedict mathurin,True,18.5,-104,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,bennedict mathurin,False,18.5,-128,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_threes_over_under,bennedict mathurin,False,1.5,-650,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_threes_over_under,bennedict mathurin,True,1.5,390,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_steals_over_under,bennedict mathurin,False,1.5,-1450,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,bennedict mathurin,False,17.5,108,2023-03-20T23:45:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_steals_over_under,bennedict mathurin,True,1.5,640,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_steals_over_under,bennedict mathurin,True,0.5,168,2023-03-21T00:00:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_steals_over_under,bennedict mathurin,False,0.5,-230,2023-03-21T00:00:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_rebounds_over_under,bennedict mathurin,False,2.5,-114,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_rebounds_over_under,bennedict mathurin,True,3.5,154,2023-03-21T00:45:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_rebounds_over_under,bennedict mathurin,True,2.5,-114,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,bennedict mathurin,False,19.5,-114,2023-03-21T01:00:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_rebounds_over_under,bennedict mathurin,False,3.5,-210,2023-03-21T00:45:01,Charlotte Hornets,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_points_over_under,bennedict mathurin,False,18.5,-102,2023-03-22T23:45:01,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_rebounds_over_under,bennedict mathurin,False,4.5,-118,2023-03-23T00:15:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_rebounds_over_under,bennedict mathurin,True,2.5,164,2023-03-23T01:45:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_rebounds_over_under,bennedict mathurin,True,3.5,154,2023-03-23T01:00:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_rebounds_over_under,bennedict mathurin,True,4.5,-112,2023-03-23T00:15:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_rebounds_over_under,bennedict mathurin,False,2.5,-225,2023-03-23T01:45:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_rebounds_over_under,bennedict mathurin,False,3.5,-210,2023-03-23T01:00:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_assists_over_under,bennedict mathurin,True,1.5,154,2023-03-23T00:15:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_assists_over_under,bennedict mathurin,True,0.5,370,2023-03-23T01:45:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_steals_over_under,bennedict mathurin,True,1.5,800,2023-03-23T01:45:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_steals_over_under,bennedict mathurin,False,0.5,-245,2023-03-23T00:45:01,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_steals_over_under,bennedict mathurin,False,1.5,-2200,2023-03-23T01:45:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_threes_over_under,bennedict mathurin,True,1.5,-106,2023-03-23T00:45:01,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_threes_over_under,bennedict mathurin,True,2.5,270,2023-03-23T01:30:01,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_threes_over_under,bennedict mathurin,True,3.5,520,2023-03-23T01:45:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_threes_over_under,bennedict mathurin,False,1.5,-125,2023-03-23T00:45:01,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_points_over_under,bennedict mathurin,False,17.5,-115,2023-03-22T23:30:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_steals_over_under,bennedict mathurin,True,0.5,178,2023-03-23T00:45:01,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_points_over_under,bennedict mathurin,False,16.5,102,2023-03-23T00:00:01,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_blocks_over_under,bennedict mathurin,False,0.5,-900,2023-03-22T23:45:01,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_points_over_under,bennedict mathurin,False,14.5,106,2023-03-23T01:45:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_assists_over_under,bennedict mathurin,False,0.5,-600,2023-03-23T01:45:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_assists_over_under,bennedict mathurin,False,1.5,-210,2023-03-23T00:15:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_blocks_over_under,bennedict mathurin,True,0.5,490,2023-03-22T23:45:01,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_blocks_over_under,bennedict mathurin,True,1.5,1000,2023-03-23T01:00:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_threes_over_under,bennedict mathurin,False,2.5,-400,2023-03-23T01:30:01,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_blocks_over_under,bennedict mathurin,False,1.5,-50000,2023-03-23T01:45:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_points_over_under,bennedict mathurin,True,11.5,110,2023-03-23T01:30:01,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_points_over_under,bennedict mathurin,True,12.5,130,2023-03-23T01:15:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_points_over_under,bennedict mathurin,True,13.5,110,2023-03-23T01:00:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_points_over_under,bennedict mathurin,True,14.5,-140,2023-03-23T01:45:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_points_over_under,bennedict mathurin,True,15.5,-144,2023-03-23T00:15:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_points_over_under,bennedict mathurin,True,16.5,-136,2023-03-23T00:00:01,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_points_over_under,bennedict mathurin,True,17.5,-105,2023-03-22T23:30:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_points_over_under,bennedict mathurin,True,18.5,-130,2023-03-22T23:45:01,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_points_over_under,bennedict mathurin,False,11.5,-146,2023-03-23T01:30:01,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_points_over_under,bennedict mathurin,False,12.5,-174,2023-03-23T01:15:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_points_over_under,bennedict mathurin,False,13.5,-146,2023-03-23T01:00:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_points_over_under,bennedict mathurin,False,15.5,108,2023-03-23T00:15:02,Toronto Raptors,Indiana Pacers
+2023-03-22,fb8035881ab1c1f72a44af15d3111e50,fanduel,player_threes_over_under,bennedict mathurin,False,3.5,-1000,2023-03-23T01:45:02,Toronto Raptors,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_blocks_over_under,bennedict mathurin,True,0.5,1000,2023-03-25T00:30:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_points_over_under,bennedict mathurin,False,14.5,-110,2023-03-24T22:45:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_points_over_under,bennedict mathurin,False,10.5,-132,2023-03-25T00:00:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_points_over_under,bennedict mathurin,False,9.5,-158,2023-03-25T00:15:02,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_points_over_under,bennedict mathurin,False,6.5,106,2023-03-25T00:30:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_points_over_under,bennedict mathurin,False,3.5,-230,2023-03-25T01:00:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_points_over_under,bennedict mathurin,True,15.5,-118,2023-03-24T23:00:02,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_points_over_under,bennedict mathurin,True,14.5,-110,2023-03-24T22:45:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_points_over_under,bennedict mathurin,True,13.5,108,2023-03-24T23:15:02,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_points_over_under,bennedict mathurin,True,12.5,-122,2023-03-24T23:45:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_points_over_under,bennedict mathurin,True,10.5,100,2023-03-25T00:00:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_points_over_under,bennedict mathurin,True,9.5,118,2023-03-25T00:15:02,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_points_over_under,bennedict mathurin,True,6.5,-140,2023-03-25T00:30:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_points_over_under,bennedict mathurin,True,3.5,168,2023-03-25T01:00:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_blocks_over_under,bennedict mathurin,False,0.5,-100000,2023-03-25T01:00:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_assists_over_under,bennedict mathurin,False,2.5,-3000,2023-03-25T01:00:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_assists_over_under,bennedict mathurin,False,1.5,-162,2023-03-25T00:00:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_assists_over_under,bennedict mathurin,False,0.5,-110,2023-03-24T23:30:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_assists_over_under,bennedict mathurin,True,2.5,880,2023-03-25T01:00:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_assists_over_under,bennedict mathurin,True,1.5,122,2023-03-25T00:00:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_assists_over_under,bennedict mathurin,True,0.5,-122,2023-03-24T23:30:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_points_over_under,bennedict mathurin,False,12.5,-108,2023-03-24T23:45:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_points_over_under,bennedict mathurin,False,13.5,-144,2023-03-24T23:15:02,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_rebounds_over_under,bennedict mathurin,False,3.5,-106,2023-03-24T23:45:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_points_over_under,bennedict mathurin,False,15.5,-104,2023-03-24T23:00:02,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_rebounds_over_under,bennedict mathurin,True,1.5,240,2023-03-25T01:00:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_rebounds_over_under,bennedict mathurin,True,2.5,164,2023-03-25T00:30:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_rebounds_over_under,bennedict mathurin,True,3.5,-125,2023-03-24T23:45:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_rebounds_over_under,bennedict mathurin,False,1.5,-350,2023-03-25T01:00:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_rebounds_over_under,bennedict mathurin,False,2.5,-225,2023-03-25T00:30:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_steals_over_under,bennedict mathurin,True,0.5,1000,2023-03-25T01:00:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_steals_over_under,bennedict mathurin,False,0.5,-4000,2023-03-25T01:00:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_threes_over_under,bennedict mathurin,True,0.5,750,2023-03-25T01:00:01,Boston Celtics,Indiana Pacers
+2023-03-24,b2e562f028c3b626f7cf45cdc7ef69ef,fanduel,player_threes_over_under,bennedict mathurin,False,0.5,-2000,2023-03-25T01:00:01,Boston Celtics,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_points_over_under,bennedict mathurin,True,11.5,-130,2023-03-25T21:45:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_points_over_under,bennedict mathurin,True,13.5,100,2023-03-25T21:30:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_points_over_under,bennedict mathurin,True,15.5,-102,2023-03-25T21:00:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_points_over_under,bennedict mathurin,False,5.5,142,2023-03-25T23:00:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_points_over_under,bennedict mathurin,False,6.5,-102,2023-03-25T22:30:02,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_assists_over_under,bennedict mathurin,True,1.5,550,2023-03-25T23:00:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_blocks_over_under,bennedict mathurin,True,0.5,1000,2023-03-25T22:45:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_assists_over_under,bennedict mathurin,False,1.5,-1100,2023-03-25T23:00:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_assists_over_under,bennedict mathurin,False,0.5,-182,2023-03-25T22:00:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_points_over_under,bennedict mathurin,True,6.5,-130,2023-03-25T22:30:02,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_assists_over_under,bennedict mathurin,True,0.5,134,2023-03-25T22:00:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_points_over_under,bennedict mathurin,True,5.5,-192,2023-03-25T23:00:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_points_over_under,bennedict mathurin,True,9.5,-102,2023-03-25T22:15:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_blocks_over_under,bennedict mathurin,False,0.5,-10000,2023-03-25T23:00:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_points_over_under,bennedict mathurin,False,11.5,-102,2023-03-25T21:45:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_threes_over_under,bennedict mathurin,False,0.5,-900,2023-03-25T23:00:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_threes_over_under,bennedict mathurin,True,0.5,490,2023-03-25T23:00:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_steals_over_under,bennedict mathurin,False,1.5,-2200,2023-03-25T23:00:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_steals_over_under,bennedict mathurin,False,0.5,-900,2023-03-25T22:45:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_steals_over_under,bennedict mathurin,True,1.5,800,2023-03-25T23:00:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_steals_over_under,bennedict mathurin,True,0.5,490,2023-03-25T22:45:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_rebounds_over_under,bennedict mathurin,False,3.5,-158,2023-03-25T21:15:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_points_over_under,bennedict mathurin,False,9.5,-130,2023-03-25T22:15:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_rebounds_over_under,bennedict mathurin,False,2.5,-182,2023-03-25T23:00:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_rebounds_over_under,bennedict mathurin,False,1.5,138,2023-03-25T22:45:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_rebounds_over_under,bennedict mathurin,True,3.5,118,2023-03-25T21:15:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_rebounds_over_under,bennedict mathurin,True,2.5,134,2023-03-25T23:00:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_rebounds_over_under,bennedict mathurin,True,1.5,-186,2023-03-25T22:45:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_points_over_under,bennedict mathurin,False,15.5,-120,2023-03-25T21:00:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_points_over_under,bennedict mathurin,False,13.5,-132,2023-03-25T21:30:01,Atlanta Hawks,Indiana Pacers
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,bennedict mathurin,False,15.5,-140,2023-03-27T23:45:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,bennedict mathurin,True,23.5,140,2023-03-28T01:00:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,bennedict mathurin,True,21.5,132,2023-03-28T01:15:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,bennedict mathurin,True,18.5,100,2023-03-28T00:15:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,bennedict mathurin,True,17.5,-122,2023-03-27T23:00:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,bennedict mathurin,True,16.5,-114,2023-03-28T00:00:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,bennedict mathurin,True,15.5,106,2023-03-27T23:45:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_blocks_over_under,bennedict mathurin,True,1.5,1000,2023-03-28T00:45:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_blocks_over_under,bennedict mathurin,False,0.5,-2000,2023-03-28T00:15:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,bennedict mathurin,False,16.5,-114,2023-03-28T00:00:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_blocks_over_under,bennedict mathurin,True,0.5,750,2023-03-28T00:15:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_assists_over_under,bennedict mathurin,False,1.5,-1100,2023-03-28T01:15:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_assists_over_under,bennedict mathurin,False,0.5,-320,2023-03-28T01:00:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_assists_over_under,bennedict mathurin,True,1.5,550,2023-03-28T01:15:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_blocks_over_under,bennedict mathurin,False,1.5,-50000,2023-03-28T01:15:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_threes_over_under,bennedict mathurin,False,2.5,-1200,2023-03-28T01:15:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_threes_over_under,bennedict mathurin,True,2.5,580,2023-03-28T01:15:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_threes_over_under,bennedict mathurin,False,0.5,-144,2023-03-28T00:30:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,bennedict mathurin,False,23.5,-188,2023-03-28T01:00:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_rebounds_over_under,bennedict mathurin,True,2.5,210,2023-03-28T01:15:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_rebounds_over_under,bennedict mathurin,True,3.5,-106,2023-03-28T00:30:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_rebounds_over_under,bennedict mathurin,True,4.5,116,2023-03-28T00:00:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_rebounds_over_under,bennedict mathurin,True,5.5,142,2023-03-27T23:30:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_rebounds_over_under,bennedict mathurin,False,2.5,-300,2023-03-28T01:15:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_threes_over_under,bennedict mathurin,False,1.5,-260,2023-03-27T23:30:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_rebounds_over_under,bennedict mathurin,False,3.5,-125,2023-03-28T00:30:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_assists_over_under,bennedict mathurin,True,0.5,225,2023-03-28T01:00:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_steals_over_under,bennedict mathurin,True,0.5,1000,2023-03-28T01:15:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_steals_over_under,bennedict mathurin,False,0.5,-4000,2023-03-28T01:15:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_threes_over_under,bennedict mathurin,True,0.5,108,2023-03-28T00:30:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_threes_over_under,bennedict mathurin,True,1.5,188,2023-03-27T23:30:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,bennedict mathurin,False,21.5,-178,2023-03-28T01:15:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_rebounds_over_under,bennedict mathurin,False,4.5,-154,2023-03-28T00:00:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_rebounds_over_under,bennedict mathurin,False,5.5,-192,2023-03-27T23:30:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,bennedict mathurin,False,17.5,100,2023-03-27T23:00:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,bennedict mathurin,False,18.5,-132,2023-03-28T00:15:01,Indiana Pacers,Dallas Mavericks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_threes_over_under,bennedict mathurin,True,1.5,370,2023-03-30T01:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,bennedict mathurin,False,17.5,-118,2023-03-30T00:00:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,bennedict mathurin,False,16.5,-114,2023-03-29T23:15:02,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,bennedict mathurin,True,21.5,146,2023-03-30T01:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,bennedict mathurin,True,20.5,-132,2023-03-30T00:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,bennedict mathurin,True,19.5,-146,2023-03-29T23:45:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,bennedict mathurin,True,18.5,-104,2023-03-29T22:30:02,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,bennedict mathurin,True,17.5,-112,2023-03-30T00:00:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,bennedict mathurin,True,16.5,-114,2023-03-29T23:15:02,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_blocks_over_under,bennedict mathurin,False,0.5,-10000,2023-03-30T01:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_blocks_over_under,bennedict mathurin,True,0.5,1000,2023-03-30T00:45:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_assists_over_under,bennedict mathurin,False,2.5,-490,2023-03-30T01:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_assists_over_under,bennedict mathurin,False,1.5,104,2023-03-29T23:15:02,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_assists_over_under,bennedict mathurin,True,2.5,320,2023-03-30T01:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_assists_over_under,bennedict mathurin,True,1.5,-138,2023-03-29T23:15:02,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_threes_over_under,bennedict mathurin,True,2.5,194,2023-03-29T23:45:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_threes_over_under,bennedict mathurin,False,2.5,-270,2023-03-29T23:45:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,bennedict mathurin,False,18.5,-118,2023-03-29T22:30:02,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,bennedict mathurin,False,19.5,110,2023-03-29T23:45:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_rebounds_over_under,bennedict mathurin,True,6.5,-194,2023-03-30T00:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,bennedict mathurin,False,21.5,-198,2023-03-30T01:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,bennedict mathurin,False,20.5,100,2023-03-30T00:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_steals_over_under,bennedict mathurin,False,1.5,-330,2023-03-30T00:30:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_steals_over_under,bennedict mathurin,False,2.5,-2000,2023-03-30T01:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_steals_over_under,bennedict mathurin,True,2.5,750,2023-03-30T01:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_steals_over_under,bennedict mathurin,True,1.5,230,2023-03-30T00:30:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_steals_over_under,bennedict mathurin,True,0.5,-136,2023-03-29T23:15:02,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_rebounds_over_under,bennedict mathurin,False,8.5,-178,2023-03-30T01:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_rebounds_over_under,bennedict mathurin,False,7.5,162,2023-03-30T01:00:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_rebounds_over_under,bennedict mathurin,False,6.5,144,2023-03-30T00:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_steals_over_under,bennedict mathurin,False,0.5,102,2023-03-29T23:15:02,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_rebounds_over_under,bennedict mathurin,False,4.5,140,2023-03-29T23:30:02,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_rebounds_over_under,bennedict mathurin,False,3.5,124,2023-03-29T22:45:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_rebounds_over_under,bennedict mathurin,True,8.5,132,2023-03-30T01:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_rebounds_over_under,bennedict mathurin,True,7.5,-220,2023-03-30T01:00:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_threes_over_under,bennedict mathurin,False,1.5,-600,2023-03-30T01:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_rebounds_over_under,bennedict mathurin,True,5.5,-136,2023-03-29T23:45:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_rebounds_over_under,bennedict mathurin,True,4.5,-188,2023-03-29T23:30:02,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_rebounds_over_under,bennedict mathurin,False,5.5,102,2023-03-29T23:45:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_rebounds_over_under,bennedict mathurin,True,3.5,-150,2023-03-29T22:45:01,Indiana Pacers,Milwaukee Bucks
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,bennedict mathurin,True,18.5,-138,2023-03-31T23:16:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,bennedict mathurin,True,21.5,102,2023-04-01T00:06:02,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,bennedict mathurin,True,20.5,114,2023-04-01T00:56:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,bennedict mathurin,True,15.5,110,2023-04-01T01:18:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,bennedict mathurin,True,22.5,102,2023-04-01T00:02:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,bennedict mathurin,True,23.5,110,2023-03-31T23:58:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,bennedict mathurin,True,19.5,-152,2023-04-01T00:12:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,bennedict mathurin,True,14.5,136,2023-04-01T01:24:02,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_blocks_over_under,bennedict mathurin,True,0.5,1000,2023-04-01T01:10:02,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_blocks_over_under,bennedict mathurin,False,0.5,-10000,2023-04-01T01:24:02,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_assists_over_under,bennedict mathurin,False,2.5,136,2023-03-31T23:16:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_assists_over_under,bennedict mathurin,False,1.5,-245,2023-04-01T00:06:02,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_assists_over_under,bennedict mathurin,False,0.5,-670,2023-04-01T01:26:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_assists_over_under,bennedict mathurin,True,2.5,-182,2023-03-31T23:16:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,bennedict mathurin,True,24.5,106,2023-03-31T23:52:02,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_assists_over_under,bennedict mathurin,True,1.5,178,2023-04-01T00:06:02,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_assists_over_under,bennedict mathurin,True,0.5,400,2023-04-01T01:26:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,bennedict mathurin,True,13.5,-130,2023-04-01T01:26:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,bennedict mathurin,False,13.5,-102,2023-04-01T01:26:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,bennedict mathurin,False,23.5,-146,2023-03-31T23:58:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,bennedict mathurin,False,15.5,-146,2023-04-01T01:18:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_rebounds_over_under,bennedict mathurin,True,6.5,126,2023-04-01T00:54:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_rebounds_over_under,bennedict mathurin,False,5.5,-166,2023-04-01T00:14:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_rebounds_over_under,bennedict mathurin,False,6.5,-168,2023-04-01T00:54:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_steals_over_under,bennedict mathurin,False,0.5,-3000,2023-04-01T01:26:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_threes_over_under,bennedict mathurin,True,1.5,520,2023-04-01T01:26:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_threes_over_under,bennedict mathurin,True,2.5,188,2023-03-31T23:54:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_threes_over_under,bennedict mathurin,False,1.5,-1000,2023-04-01T01:26:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_threes_over_under,bennedict mathurin,False,2.5,-260,2023-03-31T23:54:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,bennedict mathurin,False,14.5,-182,2023-04-01T01:24:02,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_rebounds_over_under,bennedict mathurin,True,5.5,124,2023-04-01T00:14:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_rebounds_over_under,bennedict mathurin,True,3.5,-118,2023-03-31T23:28:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,bennedict mathurin,False,24.5,-140,2023-03-31T23:52:02,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,bennedict mathurin,False,22.5,-136,2023-04-01T00:02:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_rebounds_over_under,bennedict mathurin,False,4.5,-250,2023-04-01T01:26:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,bennedict mathurin,False,21.5,-136,2023-04-01T00:06:02,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,bennedict mathurin,False,20.5,-152,2023-04-01T00:56:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,bennedict mathurin,False,19.5,114,2023-04-01T00:12:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,bennedict mathurin,False,18.5,104,2023-03-31T23:16:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_rebounds_over_under,bennedict mathurin,True,4.5,182,2023-04-01T01:26:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_steals_over_under,bennedict mathurin,True,0.5,880,2023-04-01T01:26:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_rebounds_over_under,bennedict mathurin,False,3.5,-112,2023-03-31T23:28:01,Indiana Pacers,Oklahoma City Thunder
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_blocks_over_under,bennedict mathurin,False,1.5,-2000,2023-04-03T01:30:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,bennedict mathurin,False,18.5,-230,2023-04-03T02:24:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,bennedict mathurin,False,17.5,-130,2023-04-03T02:18:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,bennedict mathurin,False,16.5,114,2023-04-03T02:20:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,bennedict mathurin,False,15.5,116,2023-04-03T01:38:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,bennedict mathurin,True,21.5,102,2023-04-03T00:48:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,bennedict mathurin,True,20.5,102,2023-04-03T00:58:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,bennedict mathurin,True,19.5,116,2023-04-03T02:02:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,bennedict mathurin,True,18.5,168,2023-04-03T02:24:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,bennedict mathurin,True,17.5,-102,2023-04-03T02:18:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,bennedict mathurin,False,19.5,-154,2023-04-03T02:02:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,bennedict mathurin,True,16.5,-152,2023-04-03T02:20:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_blocks_over_under,bennedict mathurin,False,2.5,-100000,2023-04-03T02:24:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_blocks_over_under,bennedict mathurin,False,0.5,-850,2023-04-03T00:34:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_blocks_over_under,bennedict mathurin,True,2.5,1000,2023-04-03T01:48:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_blocks_over_under,bennedict mathurin,True,1.5,750,2023-04-03T01:30:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_blocks_over_under,bennedict mathurin,True,0.5,470,2023-04-03T00:34:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_assists_over_under,bennedict mathurin,False,1.5,-270,2023-04-03T00:32:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_assists_over_under,bennedict mathurin,False,0.5,-2000,2023-04-03T02:24:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_assists_over_under,bennedict mathurin,True,1.5,194,2023-04-03T00:32:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_assists_over_under,bennedict mathurin,True,0.5,750,2023-04-03T02:24:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,bennedict mathurin,True,15.5,-154,2023-04-03T01:38:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,bennedict mathurin,False,20.5,-136,2023-04-03T00:58:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,bennedict mathurin,True,22.5,100,2023-04-03T00:18:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,bennedict mathurin,False,22.5,-132,2023-04-03T00:18:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_threes_over_under,bennedict mathurin,False,2.5,-260,2023-04-03T00:24:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_threes_over_under,bennedict mathurin,False,1.5,-2000,2023-04-03T02:24:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_threes_over_under,bennedict mathurin,True,2.5,188,2023-04-03T00:24:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_threes_over_under,bennedict mathurin,True,1.5,750,2023-04-03T02:24:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_steals_over_under,bennedict mathurin,False,0.5,-4000,2023-04-03T02:24:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,bennedict mathurin,False,21.5,-136,2023-04-03T00:48:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_rebounds_over_under,bennedict mathurin,False,9.5,-390,2023-04-03T02:24:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_rebounds_over_under,bennedict mathurin,False,8.5,-138,2023-04-03T02:18:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_rebounds_over_under,bennedict mathurin,False,7.5,-102,2023-04-03T02:16:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_rebounds_over_under,bennedict mathurin,False,6.5,-108,2023-04-03T00:22:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_steals_over_under,bennedict mathurin,True,0.5,1000,2023-04-03T02:24:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_rebounds_over_under,bennedict mathurin,False,4.5,-134,2023-04-02T23:56:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_rebounds_over_under,bennedict mathurin,False,3.5,118,2023-04-03T00:16:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_rebounds_over_under,bennedict mathurin,True,9.5,265,2023-04-03T02:24:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_rebounds_over_under,bennedict mathurin,True,8.5,104,2023-04-03T02:18:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_rebounds_over_under,bennedict mathurin,True,7.5,-130,2023-04-03T02:16:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_rebounds_over_under,bennedict mathurin,True,6.5,-122,2023-04-03T00:22:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_rebounds_over_under,bennedict mathurin,True,5.5,-130,2023-04-03T00:20:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_rebounds_over_under,bennedict mathurin,True,4.5,110,2023-04-02T23:56:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_rebounds_over_under,bennedict mathurin,True,3.5,-158,2023-04-03T00:16:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_rebounds_over_under,bennedict mathurin,False,5.5,-102,2023-04-03T00:20:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,bennedict mathurin,False,16.5,-130,2023-04-05T23:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,bennedict mathurin,False,15.5,100,2023-04-06T00:45:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,bennedict mathurin,False,14.5,-125,2023-04-06T01:00:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,bennedict mathurin,False,13.5,-165,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,bennedict mathurin,False,10.5,105,2023-04-06T00:00:02,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,bennedict mathurin,False,18.5,-125,2023-04-04T22:40:45,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,bennedict mathurin,True,13.5,125,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,bennedict mathurin,True,16.5,100,2023-04-05T23:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,bennedict mathurin,True,15.5,-135,2023-04-06T00:45:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,bennedict mathurin,True,14.5,-105,2023-04-06T01:00:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,bennedict mathurin,False,18.5,-125,2023-04-04T23:14:32,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,bennedict mathurin,True,10.5,-140,2023-04-06T00:00:02,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,bennedict mathurin,True,18.5,-105,2023-04-04T23:14:32,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_rebounds_over_under,bennedict mathurin,True,4.5,-130,2023-04-05T23:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_assists_over_under,bennedict mathurin,False,1.5,-180,2023-04-05T23:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_rebounds_over_under,bennedict mathurin,True,6.5,140,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_rebounds_over_under,bennedict mathurin,False,4.5,-102,2023-04-05T23:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_rebounds_over_under,bennedict mathurin,False,5.5,142,2023-04-06T01:00:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_rebounds_over_under,bennedict mathurin,False,6.5,-188,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_rebounds_over_under,bennedict mathurin,True,4.5,-130,2023-04-04T22:40:45,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_rebounds_over_under,bennedict mathurin,True,4.5,-125,2023-04-05T13:45:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_rebounds_over_under,bennedict mathurin,True,5.5,-185,2023-04-06T01:00:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_rebounds_over_under,bennedict mathurin,True,6.5,190,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_rebounds_over_under,bennedict mathurin,False,4.5,100,2023-04-04T22:40:45,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_rebounds_over_under,bennedict mathurin,False,4.5,-105,2023-04-05T13:45:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_rebounds_over_under,bennedict mathurin,False,5.5,135,2023-04-06T01:00:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_rebounds_over_under,bennedict mathurin,False,6.5,-260,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_steals_over_under,bennedict mathurin,True,0.5,800,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,bennedict mathurin,True,18.5,-105,2023-04-04T22:40:45,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_rebounds_over_under,bennedict mathurin,True,5.5,-192,2023-04-06T01:00:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_points_over_under,bennedict mathurin,False,18.5,-124,2023-04-05T23:00:02,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_blocks_over_under,bennedict mathurin,True,0.5,1000,2023-04-06T01:00:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_points_over_under,bennedict mathurin,False,15.5,102,2023-04-06T00:45:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_points_over_under,bennedict mathurin,True,13.5,-154,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_points_over_under,bennedict mathurin,True,11.5,108,2023-04-06T00:00:02,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_blocks_over_under,bennedict mathurin,False,0.5,-5000,2023-04-06T01:00:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_blocks_over_under,bennedict mathurin,False,0.5,-320,2023-04-04T22:40:45,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_blocks_over_under,bennedict mathurin,True,0.5,1000,2023-04-06T01:00:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_blocks_over_under,bennedict mathurin,True,0.5,250,2023-04-04T22:40:45,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_blocks_over_under,bennedict mathurin,False,0.5,-10000,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_steals_over_under,bennedict mathurin,False,0.5,-2200,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_assists_over_under,bennedict mathurin,False,3.5,-1100,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_assists_over_under,bennedict mathurin,False,2.5,100,2023-04-06T00:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_points_over_under,bennedict mathurin,True,16.5,-102,2023-04-05T23:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_assists_over_under,bennedict mathurin,False,0.5,120,2023-04-06T00:00:02,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_assists_over_under,bennedict mathurin,True,3.5,550,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_points_over_under,bennedict mathurin,False,16.5,-130,2023-04-05T23:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_assists_over_under,bennedict mathurin,True,2.5,-135,2023-04-06T00:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_assists_over_under,bennedict mathurin,True,0.5,-160,2023-04-06T00:00:02,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_assists_over_under,bennedict mathurin,False,3.5,-700,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_assists_over_under,bennedict mathurin,False,2.5,102,2023-04-06T00:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_assists_over_under,bennedict mathurin,False,1.5,-192,2023-04-05T23:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_assists_over_under,bennedict mathurin,False,0.5,126,2023-04-06T00:00:02,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_assists_over_under,bennedict mathurin,True,3.5,410,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_assists_over_under,bennedict mathurin,True,2.5,-136,2023-04-06T00:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_assists_over_under,bennedict mathurin,True,1.5,142,2023-04-05T23:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_assists_over_under,bennedict mathurin,True,0.5,-168,2023-04-06T00:00:02,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_points_over_under,bennedict mathurin,True,18.5,102,2023-04-05T23:00:02,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_points_over_under,bennedict mathurin,False,11.5,-144,2023-04-06T00:00:02,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_points_over_under,bennedict mathurin,False,13.5,116,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_points_over_under,bennedict mathurin,False,14.5,-125,2023-04-06T01:00:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_assists_over_under,bennedict mathurin,True,1.5,135,2023-04-05T23:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_steals_over_under,bennedict mathurin,True,0.5,-140,2023-04-04T22:40:45,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_points_over_under,bennedict mathurin,True,15.5,-136,2023-04-06T00:45:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_steals_over_under,bennedict mathurin,False,0.5,110,2023-04-04T22:40:45,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_points_over_under,bennedict mathurin,True,14.5,-106,2023-04-06T01:00:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_steals_over_under,bennedict mathurin,True,0.5,900,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_threes_over_under,bennedict mathurin,False,0.5,-1400,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_threes_over_under,bennedict mathurin,False,1.5,-155,2023-04-04T22:40:45,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_threes_over_under,bennedict mathurin,True,1.5,145,2023-04-05T23:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_threes_over_under,bennedict mathurin,True,0.5,650,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_threes_over_under,bennedict mathurin,False,1.5,-200,2023-04-05T23:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_threes_over_under,bennedict mathurin,False,1.5,-205,2023-04-05T23:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_threes_over_under,bennedict mathurin,False,0.5,-1000,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_threes_over_under,bennedict mathurin,True,1.5,152,2023-04-05T23:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_threes_over_under,bennedict mathurin,True,0.5,520,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_steals_over_under,bennedict mathurin,False,0.5,-3000,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_threes_over_under,bennedict mathurin,True,1.5,125,2023-04-04T22:40:45,Indiana Pacers,New York Knicks
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_steals_over_under,bennedict mathurin,False,0.5,120,2023-04-07T21:30:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_steals_over_under,bennedict mathurin,True,1.5,165,2023-04-08T00:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_steals_over_under,bennedict mathurin,True,2.5,1100,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_steals_over_under,bennedict mathurin,False,0.5,115,2023-04-07T23:15:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_steals_over_under,bennedict mathurin,False,1.5,-225,2023-04-08T00:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_steals_over_under,bennedict mathurin,False,2.5,-8000,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_steals_over_under,bennedict mathurin,True,0.5,-154,2023-04-07T20:12:09,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_steals_over_under,bennedict mathurin,False,0.5,112,2023-04-07T20:12:09,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_steals_over_under,bennedict mathurin,True,0.5,-160,2023-04-07T21:30:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_threes_over_under,bennedict mathurin,True,0.5,750,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_threes_over_under,bennedict mathurin,True,1.5,135,2023-04-07T23:15:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_threes_over_under,bennedict mathurin,False,0.5,-2000,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_threes_over_under,bennedict mathurin,False,1.5,-192,2023-04-07T23:15:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_threes_over_under,bennedict mathurin,True,0.5,800,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_steals_over_under,bennedict mathurin,True,0.5,-155,2023-04-07T21:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_threes_over_under,bennedict mathurin,False,0.5,-2500,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_threes_over_under,bennedict mathurin,False,1.5,-185,2023-04-07T23:15:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_threes_over_under,bennedict mathurin,True,1.5,123,2023-04-07T21:30:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_threes_over_under,bennedict mathurin,False,1.5,-169,2023-04-07T21:30:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_threes_over_under,bennedict mathurin,True,1.5,125,2023-04-07T21:30:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_threes_over_under,bennedict mathurin,False,1.5,-165,2023-04-07T21:30:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_threes_over_under,bennedict mathurin,True,1.5,142,2023-04-07T23:15:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_steals_over_under,bennedict mathurin,False,2.5,-4000,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_rebounds_over_under,bennedict mathurin,False,4.5,110,2023-04-07T19:43:23,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_steals_over_under,bennedict mathurin,False,0.5,116,2023-04-07T23:15:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_rebounds_over_under,bennedict mathurin,True,5.5,118,2023-04-07T23:15:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_rebounds_over_under,bennedict mathurin,False,2.5,132,2023-04-08T00:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_rebounds_over_under,bennedict mathurin,False,3.5,-270,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_rebounds_over_under,bennedict mathurin,False,4.5,-172,2023-04-08T00:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_rebounds_over_under,bennedict mathurin,False,5.5,-158,2023-04-07T23:15:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_rebounds_over_under,bennedict mathurin,True,2.5,-150,2023-04-08T00:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_rebounds_over_under,bennedict mathurin,True,3.5,235,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_rebounds_over_under,bennedict mathurin,True,4.5,125,2023-04-08T00:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_rebounds_over_under,bennedict mathurin,True,5.5,120,2023-04-07T23:15:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_rebounds_over_under,bennedict mathurin,False,3.5,-340,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_steals_over_under,bennedict mathurin,False,1.5,-240,2023-04-08T00:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_rebounds_over_under,bennedict mathurin,False,4.5,-165,2023-04-08T00:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_rebounds_over_under,bennedict mathurin,True,4.5,-157,2023-04-07T20:12:09,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_rebounds_over_under,bennedict mathurin,True,5.5,-113,2023-04-07T21:30:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_rebounds_over_under,bennedict mathurin,False,4.5,114,2023-04-07T20:12:09,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_rebounds_over_under,bennedict mathurin,False,5.5,-121,2023-04-07T21:30:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_rebounds_over_under,bennedict mathurin,True,4.5,-145,2023-04-07T19:43:23,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_rebounds_over_under,bennedict mathurin,True,5.5,100,2023-04-07T21:30:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_rebounds_over_under,bennedict mathurin,False,5.5,-130,2023-04-07T21:30:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_steals_over_under,bennedict mathurin,True,0.5,-154,2023-04-07T23:15:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_steals_over_under,bennedict mathurin,True,1.5,174,2023-04-08T00:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_steals_over_under,bennedict mathurin,True,2.5,1000,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_rebounds_over_under,bennedict mathurin,False,5.5,-155,2023-04-07T23:15:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_rebounds_over_under,bennedict mathurin,False,2.5,115,2023-04-08T00:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_assists_over_under,bennedict mathurin,True,2.5,198,2023-04-08T01:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_rebounds_over_under,bennedict mathurin,True,4.5,128,2023-04-08T00:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_points_over_under,bennedict mathurin,True,20.5,100,2023-04-07T23:30:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_points_over_under,bennedict mathurin,True,19.5,-110,2023-04-07T21:30:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_points_over_under,bennedict mathurin,True,18.5,-138,2023-04-07T23:15:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_points_over_under,bennedict mathurin,True,17.5,108,2023-04-08T00:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_points_over_under,bennedict mathurin,True,16.5,-168,2023-04-08T00:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_points_over_under,bennedict mathurin,True,15.5,102,2023-04-08T01:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_assists_over_under,bennedict mathurin,True,3.5,520,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_assists_over_under,bennedict mathurin,False,1.5,164,2023-04-08T00:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_assists_over_under,bennedict mathurin,False,2.5,-275,2023-04-08T01:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_assists_over_under,bennedict mathurin,False,3.5,-1000,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_assists_over_under,bennedict mathurin,True,1.5,-225,2023-04-08T00:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_assists_over_under,bennedict mathurin,True,2.5,195,2023-04-08T01:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_assists_over_under,bennedict mathurin,False,1.5,165,2023-04-08T00:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_assists_over_under,bennedict mathurin,False,2.5,-270,2023-04-08T01:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_assists_over_under,bennedict mathurin,False,3.5,-1200,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_assists_over_under,bennedict mathurin,True,1.5,-194,2023-04-07T21:30:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_assists_over_under,bennedict mathurin,False,1.5,139,2023-04-07T21:30:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_assists_over_under,bennedict mathurin,True,1.5,-200,2023-04-07T21:30:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_assists_over_under,bennedict mathurin,False,1.5,145,2023-04-07T21:30:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_blocks_over_under,bennedict mathurin,True,0.5,1000,2023-04-08T01:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_blocks_over_under,bennedict mathurin,False,0.5,-50000,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_blocks_over_under,bennedict mathurin,True,0.5,1100,2023-04-08T01:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_blocks_over_under,bennedict mathurin,False,0.5,-8000,2023-04-08T01:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_blocks_over_under,bennedict mathurin,True,0.5,172,2023-04-07T21:30:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_blocks_over_under,bennedict mathurin,False,0.5,-244,2023-04-07T21:30:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_blocks_over_under,bennedict mathurin,True,0.5,185,2023-04-07T21:30:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_blocks_over_under,bennedict mathurin,False,0.5,-250,2023-04-07T21:30:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_assists_over_under,bennedict mathurin,True,1.5,-225,2023-04-08T00:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_points_over_under,bennedict mathurin,True,13.5,134,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_points_over_under,bennedict mathurin,False,13.5,-180,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_points_over_under,bennedict mathurin,False,15.5,-136,2023-04-08T01:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_assists_over_under,bennedict mathurin,True,3.5,600,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_points_over_under,bennedict mathurin,False,17.5,-144,2023-04-08T00:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_rebounds_over_under,bennedict mathurin,True,2.5,-178,2023-04-08T00:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_points_over_under,bennedict mathurin,False,16.5,126,2023-04-08T00:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_points_over_under,bennedict mathurin,False,20.5,-125,2023-04-07T21:30:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_points_over_under,bennedict mathurin,False,19.5,-130,2023-04-07T18:20:05,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_points_over_under,bennedict mathurin,False,18.5,-110,2023-04-07T19:43:23,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_points_over_under,bennedict mathurin,True,20.5,-105,2023-04-07T21:30:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_points_over_under,bennedict mathurin,True,19.5,-105,2023-04-07T18:20:05,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_points_over_under,bennedict mathurin,True,18.5,-120,2023-04-07T19:43:23,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_points_over_under,bennedict mathurin,False,20.5,-127,2023-04-07T21:30:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_rebounds_over_under,bennedict mathurin,True,3.5,194,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_points_over_under,bennedict mathurin,True,20.5,-108,2023-04-07T21:30:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_points_over_under,bennedict mathurin,True,18.5,-123,2023-04-07T20:12:09,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_points_over_under,bennedict mathurin,False,20.5,-125,2023-04-07T21:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_points_over_under,bennedict mathurin,False,19.5,100,2023-04-07T23:30:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_points_over_under,bennedict mathurin,False,18.5,105,2023-04-07T23:15:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_points_over_under,bennedict mathurin,False,18.5,-111,2023-04-07T20:12:09,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_points_over_under,bennedict mathurin,False,16.5,120,2023-04-08T00:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_points_over_under,bennedict mathurin,False,18.5,104,2023-04-07T23:15:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_points_over_under,bennedict mathurin,False,17.5,-110,2023-04-07T23:45:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_points_over_under,bennedict mathurin,False,19.5,-110,2023-04-07T21:30:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_points_over_under,bennedict mathurin,False,20.5,-132,2023-04-07T23:30:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_points_over_under,bennedict mathurin,True,12.5,-255,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_points_over_under,bennedict mathurin,True,16.5,-155,2023-04-08T00:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_points_over_under,bennedict mathurin,True,15.5,105,2023-04-08T01:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_points_over_under,bennedict mathurin,True,18.5,-140,2023-04-07T23:15:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_points_over_under,bennedict mathurin,True,19.5,-135,2023-04-07T23:30:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_points_over_under,bennedict mathurin,True,20.5,-105,2023-04-07T21:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_points_over_under,bennedict mathurin,False,12.5,185,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_points_over_under,bennedict mathurin,False,15.5,-140,2023-04-08T01:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_points_over_under,bennedict mathurin,True,17.5,-120,2023-04-07T23:45:02,Indiana Pacers,Detroit Pistons
+2023-04-09,72dffda73530d054c05ae325c0a6d330,caesars,player_assists_over_under,bennedict mathurin,False,1.5,123,2023-04-09T16:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_assists_over_under,bennedict mathurin,False,3.5,105,2023-04-09T18:45:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_assists_over_under,bennedict mathurin,False,4.5,-155,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,caesars,player_assists_over_under,bennedict mathurin,True,1.5,-169,2023-04-09T16:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_blocks_over_under,bennedict mathurin,True,0.5,1000,2023-04-09T19:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_points_over_under,bennedict mathurin,True,17.5,-132,2023-04-09T17:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_blocks_over_under,bennedict mathurin,True,0.5,800,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_blocks_over_under,bennedict mathurin,False,0.5,-2500,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,caesars,player_blocks_over_under,bennedict mathurin,True,0.5,213,2023-04-09T16:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,caesars,player_blocks_over_under,bennedict mathurin,False,0.5,-314,2023-04-09T16:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_points_over_under,bennedict mathurin,True,22.5,-108,2023-04-09T17:30:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_blocks_over_under,bennedict mathurin,False,0.5,-7000,2023-04-09T19:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_assists_over_under,bennedict mathurin,False,2.5,-195,2023-04-09T18:00:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_assists_over_under,bennedict mathurin,True,1.5,-178,2023-04-09T17:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_assists_over_under,bennedict mathurin,True,4.5,115,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_assists_over_under,bennedict mathurin,True,2.5,145,2023-04-09T18:00:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_assists_over_under,bennedict mathurin,True,1.5,-175,2023-04-09T17:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_assists_over_under,bennedict mathurin,False,6.5,-350,2023-04-09T19:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_assists_over_under,bennedict mathurin,False,4.5,-162,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_assists_over_under,bennedict mathurin,False,3.5,104,2023-04-09T18:45:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_assists_over_under,bennedict mathurin,False,2.5,-200,2023-04-09T18:00:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_assists_over_under,bennedict mathurin,False,1.5,132,2023-04-09T17:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_assists_over_under,bennedict mathurin,True,6.5,240,2023-04-09T19:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_assists_over_under,bennedict mathurin,True,4.5,122,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_assists_over_under,bennedict mathurin,True,3.5,-138,2023-04-09T18:45:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_assists_over_under,bennedict mathurin,True,2.5,148,2023-04-09T18:00:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_points_over_under,bennedict mathurin,True,24.5,-125,2023-04-09T19:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_assists_over_under,bennedict mathurin,False,1.5,130,2023-04-09T17:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_points_over_under,bennedict mathurin,True,25.5,100,2023-04-09T18:00:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_points_over_under,bennedict mathurin,False,26.5,105,2023-04-09T18:45:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_points_over_under,bennedict mathurin,True,29.5,102,2023-04-09T18:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_rebounds_over_under,bennedict mathurin,True,4.5,-160,2023-04-09T18:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_rebounds_over_under,bennedict mathurin,True,5.5,-105,2023-04-09T17:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_rebounds_over_under,bennedict mathurin,False,3.5,-165,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_rebounds_over_under,bennedict mathurin,False,4.5,120,2023-04-09T18:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_rebounds_over_under,bennedict mathurin,False,5.5,-130,2023-04-09T17:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,caesars,player_rebounds_over_under,bennedict mathurin,True,5.5,-109,2023-04-09T16:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,caesars,player_rebounds_over_under,bennedict mathurin,False,5.5,-125,2023-04-09T16:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_steals_over_under,bennedict mathurin,True,0.5,630,2023-04-09T19:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_steals_over_under,bennedict mathurin,False,0.5,-1400,2023-04-09T19:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_steals_over_under,bennedict mathurin,True,0.5,350,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_steals_over_under,bennedict mathurin,False,0.5,-550,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,caesars,player_steals_over_under,bennedict mathurin,True,0.5,-139,2023-04-09T16:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,caesars,player_steals_over_under,bennedict mathurin,False,0.5,102,2023-04-09T16:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_threes_over_under,bennedict mathurin,True,1.5,154,2023-04-09T17:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_threes_over_under,bennedict mathurin,True,2.5,400,2023-04-09T19:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_threes_over_under,bennedict mathurin,False,1.5,-210,2023-04-09T17:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_threes_over_under,bennedict mathurin,False,2.5,-670,2023-04-09T19:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_threes_over_under,bennedict mathurin,True,1.5,145,2023-04-09T16:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_threes_over_under,bennedict mathurin,True,2.5,200,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_threes_over_under,bennedict mathurin,False,1.5,-195,2023-04-09T17:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_threes_over_under,bennedict mathurin,False,2.5,-280,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,caesars,player_threes_over_under,bennedict mathurin,True,1.5,136,2023-04-09T16:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,caesars,player_threes_over_under,bennedict mathurin,False,1.5,-189,2023-04-09T16:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_rebounds_over_under,bennedict mathurin,True,3.5,125,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_rebounds_over_under,bennedict mathurin,False,5.5,-136,2023-04-09T17:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_rebounds_over_under,bennedict mathurin,False,4.5,122,2023-04-09T18:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_rebounds_over_under,bennedict mathurin,False,3.5,106,2023-04-09T19:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_points_over_under,bennedict mathurin,True,30.5,110,2023-04-09T18:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_points_over_under,bennedict mathurin,False,17.5,100,2023-04-09T17:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_points_over_under,bennedict mathurin,False,22.5,-122,2023-04-09T17:30:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_points_over_under,bennedict mathurin,False,24.5,-106,2023-04-09T19:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_points_over_under,bennedict mathurin,False,25.5,-132,2023-04-09T18:00:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_points_over_under,bennedict mathurin,False,26.5,112,2023-04-09T18:45:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_points_over_under,bennedict mathurin,False,29.5,-136,2023-04-09T18:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_points_over_under,bennedict mathurin,False,30.5,-146,2023-04-09T18:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_points_over_under,bennedict mathurin,True,17.5,-135,2023-04-09T17:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_points_over_under,bennedict mathurin,True,18.5,-120,2023-04-09T16:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_points_over_under,bennedict mathurin,True,22.5,-110,2023-04-09T17:30:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_points_over_under,bennedict mathurin,True,26.5,-148,2023-04-09T18:45:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_points_over_under,bennedict mathurin,True,24.5,-140,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_points_over_under,bennedict mathurin,True,29.5,100,2023-04-09T18:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_points_over_under,bennedict mathurin,False,17.5,100,2023-04-09T17:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_points_over_under,bennedict mathurin,False,18.5,-110,2023-04-09T16:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_points_over_under,bennedict mathurin,False,22.5,-120,2023-04-09T17:30:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_points_over_under,bennedict mathurin,False,24.5,105,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_points_over_under,bennedict mathurin,False,29.5,-135,2023-04-09T18:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,caesars,player_points_over_under,bennedict mathurin,True,18.5,-119,2023-04-09T16:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,caesars,player_points_over_under,bennedict mathurin,False,18.5,-115,2023-04-09T16:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_rebounds_over_under,bennedict mathurin,True,3.5,-140,2023-04-09T19:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_rebounds_over_under,bennedict mathurin,True,4.5,-162,2023-04-09T18:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_rebounds_over_under,bennedict mathurin,True,5.5,102,2023-04-09T17:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_points_over_under,bennedict mathurin,True,26.5,-135,2023-04-09T18:45:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_assists_over_under,bennedict mathurin,True,3.5,-135,2023-04-09T18:45:02,New York Knicks,Indiana Pacers
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_assists_over_under,bennedict mathurin,True,0.5,-200,2023-10-25T23:45:17,Indiana Pacers,Washington Wizards
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_threes_over_under,bennedict mathurin,False,1.5,-260,2023-10-24T18:00:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,bennedict mathurin,False,15.5,-105,2023-10-25T23:26:00,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,bennedict mathurin,False,14.5,-105,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,bennedict mathurin,False,13.5,-125,2023-10-25T23:41:13,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,bennedict mathurin,False,12.5,-115,2023-10-25T23:51:11,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,bennedict mathurin,False,17.5,-215,2023-10-25T21:45:11,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,bennedict mathurin,False,16.5,-145,2023-10-25T21:45:11,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,bennedict mathurin,False,15.5,-125,2023-10-25T18:55:16,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,bennedict mathurin,False,14.5,105,2023-10-25T21:45:11,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,bennedict mathurin,False,13.5,155,2023-10-25T21:45:11,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,bennedict mathurin,False,12.5,180,2023-10-25T18:55:16,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,bennedict mathurin,True,21.5,100,2023-10-26T00:10:25,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,bennedict mathurin,True,20.5,130,2023-10-26T01:05:18,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,bennedict mathurin,True,19.5,-120,2023-10-26T01:10:27,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,bennedict mathurin,True,18.5,1200,2023-10-26T01:16:01,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,bennedict mathurin,False,17.5,-105,2023-10-26T01:00:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,bennedict mathurin,True,17.5,-125,2023-10-26T01:00:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,bennedict mathurin,True,14.5,-125,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,bennedict mathurin,True,13.5,-105,2023-10-25T23:41:13,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,bennedict mathurin,True,12.5,-115,2023-10-25T23:51:11,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,bennedict mathurin,True,17.5,165,2023-10-25T21:45:11,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,bennedict mathurin,True,16.5,115,2023-10-25T21:45:11,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,bennedict mathurin,True,15.5,-105,2023-10-25T18:55:16,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,bennedict mathurin,True,13.5,-200,2023-10-25T21:45:11,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,bennedict mathurin,True,12.5,-235,2023-10-25T18:55:16,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,pinnacle,player_points_over_under,bennedict mathurin,False,15.5,100,2023-10-25T21:25:29,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,pinnacle,player_points_over_under,bennedict mathurin,False,14.5,-101,2023-10-25T15:25:05,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,pinnacle,player_points_over_under,bennedict mathurin,True,15.5,-133,2023-10-25T21:25:29,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,pinnacle,player_points_over_under,bennedict mathurin,True,14.5,-131,2023-10-25T15:25:05,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,bennedict mathurin,False,21.5,-130,2023-10-26T00:10:24,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,bennedict mathurin,False,20.5,-111,2023-10-26T00:25:17,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,bennedict mathurin,True,15.5,-125,2023-10-25T23:26:00,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,bennedict mathurin,False,19.5,-111,2023-10-26T00:30:16,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,bennedict mathurin,False,18.5,-20000,2023-10-26T01:16:01,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,bennedict mathurin,False,20.5,-175,2023-10-26T01:05:18,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betrivers,player_points_over_under,bennedict mathurin,True,18.5,200,2023-10-25T23:15:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betrivers,player_points_over_under,bennedict mathurin,True,17.5,155,2023-10-25T23:15:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betrivers,player_points_over_under,bennedict mathurin,True,16.5,120,2023-10-25T23:15:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betrivers,player_points_over_under,bennedict mathurin,True,15.5,-109,2023-10-25T23:15:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betrivers,player_points_over_under,bennedict mathurin,True,14.5,-148,2023-10-25T23:15:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betrivers,player_points_over_under,bennedict mathurin,True,13.5,-210,2023-10-25T23:15:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betrivers,player_points_over_under,bennedict mathurin,True,12.5,-315,2023-10-25T23:15:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,bennedict mathurin,False,20.5,100,2023-10-26T00:25:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,bennedict mathurin,False,19.5,-105,2023-10-26T00:30:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,bennedict mathurin,False,18.5,-120,2023-10-26T00:40:39,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,bennedict mathurin,False,17.5,-125,2023-10-26T01:00:29,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,bennedict mathurin,False,16.5,-105,2023-10-26T00:55:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,bennedict mathurin,False,15.5,-110,2023-10-25T23:25:12,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,bennedict mathurin,False,14.5,-120,2023-10-25T23:20:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,bennedict mathurin,False,19.5,-110,2023-10-26T01:10:27,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,bennedict mathurin,False,13.5,-135,2023-10-25T23:55:05,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,bennedict mathurin,True,20.5,-140,2023-10-26T00:25:06,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,bennedict mathurin,True,19.5,-135,2023-10-26T00:30:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,bennedict mathurin,True,18.5,-120,2023-10-26T00:40:39,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,bennedict mathurin,True,17.5,-115,2023-10-26T01:00:29,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,bennedict mathurin,True,16.5,-135,2023-10-26T00:55:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,bennedict mathurin,True,15.5,-130,2023-10-25T23:25:12,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,bennedict mathurin,True,14.5,-120,2023-10-25T23:20:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,bennedict mathurin,True,13.5,-105,2023-10-25T23:55:05,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,bennedict mathurin,True,12.5,-125,2023-10-25T23:50:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_points_over_under,bennedict mathurin,False,15.5,-130,2023-10-25T21:45:19,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_points_over_under,bennedict mathurin,False,14.5,105,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_points_over_under,bennedict mathurin,True,15.5,-105,2023-10-25T21:45:19,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_points_over_under,bennedict mathurin,True,14.5,-140,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,bennedict mathurin,False,21.5,-130,2023-10-26T00:10:25,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_points_over_under,bennedict mathurin,False,12.5,-115,2023-10-25T23:50:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,bennedict mathurin,False,18.5,-146,2023-10-26T00:41:16,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,bennedict mathurin,False,17.5,-138,2023-10-26T01:05:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,bennedict mathurin,False,16.5,-148,2023-10-26T00:50:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_assists_over_under,bennedict mathurin,False,1.5,-240,2023-10-25T23:30:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_assists_over_under,bennedict mathurin,False,0.5,300,2023-10-25T11:10:14,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_assists_over_under,bennedict mathurin,True,2.5,375,2023-10-25T11:10:14,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_assists_over_under,bennedict mathurin,True,1.5,160,2023-10-25T23:30:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_assists_over_under,bennedict mathurin,True,0.5,-450,2023-10-25T11:10:14,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_assists_over_under,bennedict mathurin,False,1.5,-150,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_assists_over_under,bennedict mathurin,True,1.5,110,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_assists_over_under,bennedict mathurin,False,5.5,-800,2023-10-26T01:10:27,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_assists_over_under,bennedict mathurin,False,4.5,-195,2023-10-26T00:56:12,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_assists_over_under,bennedict mathurin,False,3.5,-120,2023-10-26T00:30:07,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_assists_over_under,bennedict mathurin,False,2.5,105,2023-10-26T00:10:25,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_assists_over_under,bennedict mathurin,False,1.5,135,2023-10-26T00:00:19,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_assists_over_under,bennedict mathurin,False,0.5,135,2023-10-25T23:55:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_assists_over_under,bennedict mathurin,True,5.5,450,2023-10-26T01:10:27,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_assists_over_under,bennedict mathurin,False,2.5,-600,2023-10-25T11:10:14,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_assists_over_under,bennedict mathurin,True,4.5,145,2023-10-26T00:56:12,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_assists_over_under,bennedict mathurin,True,2.5,-140,2023-10-26T00:10:25,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_assists_over_under,bennedict mathurin,True,1.5,-180,2023-10-26T00:00:19,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_assists_over_under,bennedict mathurin,True,0.5,-180,2023-10-25T23:55:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_assists_over_under,bennedict mathurin,False,5.5,-100000,2023-10-26T01:15:30,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_assists_over_under,bennedict mathurin,False,4.5,-205,2023-10-26T00:55:12,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_assists_over_under,bennedict mathurin,False,3.5,-130,2023-10-26T00:30:16,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_assists_over_under,bennedict mathurin,False,2.5,110,2023-10-26T00:10:24,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_assists_over_under,bennedict mathurin,False,1.5,172,2023-10-25T23:50:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_assists_over_under,bennedict mathurin,False,0.5,148,2023-10-25T23:45:17,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_assists_over_under,bennedict mathurin,True,5.5,1000,2023-10-26T01:15:30,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_assists_over_under,bennedict mathurin,True,4.5,152,2023-10-26T00:55:12,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_assists_over_under,bennedict mathurin,True,3.5,-102,2023-10-26T00:30:16,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_assists_over_under,bennedict mathurin,True,2.5,-146,2023-10-26T00:10:24,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_assists_over_under,bennedict mathurin,True,1.5,-235,2023-10-25T23:50:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_assists_over_under,bennedict mathurin,True,3.5,-110,2023-10-26T00:30:07,Indiana Pacers,Washington Wizards
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_blocks_over_under,bennedict mathurin,True,0.5,185,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_blocks_over_under,bennedict mathurin,False,0.5,-240,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_blocks_over_under,bennedict mathurin,True,0.5,1000,2023-10-26T01:15:30,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,bennedict mathurin,False,15.5,-125,2023-10-26T01:00:20,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,bennedict mathurin,False,14.5,-115,2023-10-25T23:30:14,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,bennedict mathurin,False,13.5,-111,2023-10-25T23:55:05,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,bennedict mathurin,False,12.5,-118,2023-10-25T23:45:17,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,bennedict mathurin,True,21.5,102,2023-10-26T00:10:24,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,bennedict mathurin,True,20.5,-115,2023-10-26T00:25:17,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,bennedict mathurin,True,19.5,-115,2023-10-26T00:30:16,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,bennedict mathurin,True,18.5,114,2023-10-26T00:41:16,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,bennedict mathurin,True,17.5,108,2023-10-26T01:05:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,bennedict mathurin,True,16.5,116,2023-10-26T00:50:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,bennedict mathurin,True,15.5,-102,2023-10-26T01:00:20,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,bennedict mathurin,True,14.5,-111,2023-10-25T23:30:14,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,bennedict mathurin,True,13.5,-115,2023-10-25T23:55:05,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_points_over_under,bennedict mathurin,True,12.5,-108,2023-10-25T23:45:17,Indiana Pacers,Washington Wizards
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,bennedict mathurin,False,14.5,100,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,bennedict mathurin,False,16.5,-170,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,bennedict mathurin,False,15.5,-130,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_blocks_over_under,bennedict mathurin,False,0.5,-100000,2023-10-26T01:15:30,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_blocks_over_under,bennedict mathurin,True,0.5,950,2023-10-26T01:10:27,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_blocks_over_under,bennedict mathurin,False,0.5,-3500,2023-10-26T01:10:27,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_blocks_over_under,bennedict mathurin,True,0.5,185,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_blocks_over_under,bennedict mathurin,False,0.5,-250,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_blocks_over_under,bennedict mathurin,True,0.5,260,2023-10-26T00:00:05,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_rebounds_over_under,bennedict mathurin,True,4.5,1000,2023-10-26T01:15:30,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_blocks_over_under,bennedict mathurin,False,0.5,-425,2023-10-26T00:00:05,Indiana Pacers,Washington Wizards
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,bennedict mathurin,True,13.5,-175,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,bennedict mathurin,True,15.5,100,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,bennedict mathurin,True,16.5,135,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,bennedict mathurin,True,14.5,-125,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,bennedict mathurin,False,12.5,180,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,bennedict mathurin,False,13.5,135,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,bennedict mathurin,True,12.5,-235,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_rebounds_over_under,bennedict mathurin,True,5.5,130,2023-10-26T00:30:16,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_points_over_under,bennedict mathurin,True,14.5,-135,2023-10-25T21:45:11,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_rebounds_over_under,bennedict mathurin,False,4.5,-10000,2023-10-26T01:15:30,Indiana Pacers,Washington Wizards
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,bennedict mathurin,True,13.5,-175,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,bennedict mathurin,True,12.5,-235,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_blocks_over_under,bennedict mathurin,False,0.5,-240,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_blocks_over_under,bennedict mathurin,True,0.5,185,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_threes_over_under,bennedict mathurin,False,1.5,-180,2023-10-26T00:30:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_threes_over_under,bennedict mathurin,False,0.5,105,2023-10-25T23:55:05,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_threes_over_under,bennedict mathurin,True,1.5,125,2023-10-26T00:30:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_threes_over_under,bennedict mathurin,True,0.5,-150,2023-10-25T23:55:05,Indiana Pacers,Washington Wizards
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,bennedict mathurin,True,15.5,100,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_threes_over_under,bennedict mathurin,False,1.5,-250,2023-10-25T21:35:15,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_threes_over_under,bennedict mathurin,True,1.5,170,2023-10-25T21:35:15,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_threes_over_under,bennedict mathurin,True,0.5,-250,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_threes_over_under,bennedict mathurin,False,2.5,-1000,2023-10-26T01:10:27,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_threes_over_under,bennedict mathurin,False,1.5,-475,2023-10-26T01:00:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_threes_over_under,bennedict mathurin,False,0.5,100,2023-10-25T23:51:11,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_threes_over_under,bennedict mathurin,True,2.5,500,2023-10-26T01:10:27,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_threes_over_under,bennedict mathurin,True,1.5,310,2023-10-26T01:00:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_threes_over_under,bennedict mathurin,True,0.5,-130,2023-10-25T23:51:11,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_threes_over_under,bennedict mathurin,False,0.5,180,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,bennedict mathurin,True,16.5,135,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,bennedict mathurin,True,14.5,-125,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,bennedict mathurin,True,15.5,100,2023-10-23T19:40:05,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_threes_over_under,bennedict mathurin,False,0.5,170,2023-10-23T13:40:32,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_threes_over_under,bennedict mathurin,True,1.5,190,2023-10-24T18:00:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_threes_over_under,bennedict mathurin,True,0.5,-230,2023-10-23T13:40:32,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_steals_over_under,bennedict mathurin,False,0.5,105,2023-10-23T13:20:04,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_steals_over_under,bennedict mathurin,True,0.5,-132,2023-10-23T13:20:04,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_steals_over_under,bennedict mathurin,False,0.5,100,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_steals_over_under,bennedict mathurin,True,0.5,-125,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_rebounds_over_under,bennedict mathurin,False,4.5,-120,2023-10-23T16:10:09,Denver Nuggets,Los Angeles Lakers
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_rebounds_over_under,bennedict mathurin,True,6.5,128,2023-10-26T00:55:12,Indiana Pacers,Washington Wizards
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,bennedict mathurin,False,15.5,-130,2023-10-23T19:40:20,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,bennedict mathurin,False,14.5,100,2023-10-24T18:00:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,bennedict mathurin,True,15.5,100,2023-10-23T19:40:20,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,bennedict mathurin,True,14.5,-130,2023-10-24T18:00:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,bennedict mathurin,False,15.5,-125,2023-10-23T19:40:05,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,bennedict mathurin,False,14.5,100,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,bennedict mathurin,False,16.5,-170,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,bennedict mathurin,False,15.5,-130,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,bennedict mathurin,False,13.5,135,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,bennedict mathurin,False,12.5,180,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,pinnacle,player_threes_over_under,bennedict mathurin,False,1.5,-255,2023-10-25T21:30:15,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,pinnacle,player_threes_over_under,bennedict mathurin,True,1.5,176,2023-10-25T21:30:15,Indiana Pacers,Washington Wizards
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_rebounds_over_under,bennedict mathurin,True,4.5,-110,2023-10-23T16:10:09,Denver Nuggets,Los Angeles Lakers
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_threes_over_under,bennedict mathurin,True,0.5,-152,2023-10-25T23:40:05,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_rebounds_over_under,bennedict mathurin,False,5.5,-174,2023-10-26T00:30:16,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_rebounds_over_under,bennedict mathurin,False,6.5,-172,2023-10-26T00:55:12,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_rebounds_over_under,bennedict mathurin,True,4.5,120,2023-10-26T01:10:27,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_rebounds_over_under,bennedict mathurin,True,5.5,125,2023-10-26T00:25:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_rebounds_over_under,bennedict mathurin,True,6.5,130,2023-10-26T01:00:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_rebounds_over_under,bennedict mathurin,False,4.5,-155,2023-10-26T01:10:27,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_rebounds_over_under,bennedict mathurin,False,5.5,-170,2023-10-26T00:25:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_rebounds_over_under,bennedict mathurin,False,6.5,-175,2023-10-26T01:00:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_rebounds_over_under,bennedict mathurin,True,4.5,-125,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_rebounds_over_under,bennedict mathurin,False,4.5,-105,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_rebounds_over_under,bennedict mathurin,True,3.5,-230,2023-10-25T11:10:14,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_rebounds_over_under,bennedict mathurin,True,4.5,105,2023-10-26T00:50:51,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_rebounds_over_under,bennedict mathurin,True,5.5,130,2023-10-26T00:30:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_rebounds_over_under,bennedict mathurin,True,6.5,110,2023-10-26T01:00:29,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_steals_over_under,bennedict mathurin,False,1.5,-174,2023-10-25T23:55:05,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_steals_over_under,bennedict mathurin,False,0.5,-172,2023-10-25T23:45:17,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_steals_over_under,bennedict mathurin,True,2.5,1000,2023-10-26T01:15:30,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_steals_over_under,bennedict mathurin,True,1.5,130,2023-10-25T23:55:05,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_steals_over_under,bennedict mathurin,True,0.5,128,2023-10-25T23:45:17,Indiana Pacers,Washington Wizards
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_steals_over_under,bennedict mathurin,False,0.5,100,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_steals_over_under,bennedict mathurin,True,0.5,-125,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betrivers,player_rebounds_over_under,bennedict mathurin,True,4.5,104,2023-10-25T23:15:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betrivers,player_rebounds_over_under,bennedict mathurin,True,3.5,-225,2023-10-25T23:15:09,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_rebounds_over_under,bennedict mathurin,False,6.5,-160,2023-10-26T01:00:29,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_rebounds_over_under,bennedict mathurin,False,5.5,-185,2023-10-26T00:30:04,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_rebounds_over_under,bennedict mathurin,False,4.5,-150,2023-10-26T00:50:51,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_threes_over_under,bennedict mathurin,False,0.5,114,2023-10-25T23:40:05,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_rebounds_over_under,bennedict mathurin,False,3.5,170,2023-10-25T11:10:14,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_steals_over_under,bennedict mathurin,False,0.5,-160,2023-10-25T23:51:11,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_steals_over_under,bennedict mathurin,True,0.5,120,2023-10-25T23:51:11,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_steals_over_under,bennedict mathurin,True,1.5,135,2023-10-25T23:55:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_steals_over_under,bennedict mathurin,True,2.5,850,2023-10-26T01:10:27,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_steals_over_under,bennedict mathurin,False,1.5,-180,2023-10-25T23:55:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,draftkings,player_steals_over_under,bennedict mathurin,False,2.5,-2500,2023-10-26T01:10:27,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,fanduel,player_steals_over_under,bennedict mathurin,False,2.5,-100000,2023-10-26T01:15:30,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_steals_over_under,bennedict mathurin,True,0.5,-130,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_steals_over_under,bennedict mathurin,True,0.5,115,2023-10-25T23:55:05,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_steals_over_under,bennedict mathurin,True,1.5,350,2023-10-25T22:50:16,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_steals_over_under,bennedict mathurin,True,2.5,260,2023-10-26T00:40:39,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_steals_over_under,bennedict mathurin,False,0.5,-165,2023-10-25T23:55:05,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_steals_over_under,bennedict mathurin,False,1.5,-600,2023-10-25T22:50:16,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,barstool,player_steals_over_under,bennedict mathurin,False,2.5,-425,2023-10-26T00:40:39,Indiana Pacers,Washington Wizards
+2023-10-25,04ebbb84dbf8f85789639293d764e98c,betmgm,player_steals_over_under,bennedict mathurin,False,0.5,-105,2023-10-25T23:20:08,Indiana Pacers,Washington Wizards
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,bennedict mathurin,False,13.5,125,2023-10-28T22:10:06,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,bennedict mathurin,False,12.5,150,2023-10-28T22:10:06,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,bennedict mathurin,True,16.5,-120,2023-10-29T01:15:29,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,bennedict mathurin,False,15.5,-140,2023-10-29T01:20:11,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,bennedict mathurin,True,14.5,-115,2023-10-29T01:35:13,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,bennedict mathurin,False,14.5,125,2023-10-28T22:06:13,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,bennedict mathurin,True,15.5,105,2023-10-29T01:20:11,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,bennedict mathurin,False,14.5,-115,2023-10-29T01:35:13,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,bennedict mathurin,False,15.5,-160,2023-10-28T22:10:06,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,bennedict mathurin,False,17.5,-185,2023-10-28T22:06:13,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,bennedict mathurin,False,16.5,-110,2023-10-29T01:15:29,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_points_over_under,bennedict mathurin,True,11.5,-120,2023-10-29T00:30:09,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_points_over_under,bennedict mathurin,True,12.5,-130,2023-10-29T00:25:05,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_points_over_under,bennedict mathurin,True,13.5,-105,2023-10-29T00:20:08,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_points_over_under,bennedict mathurin,True,14.5,-120,2023-10-29T00:40:05,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,bennedict mathurin,False,13.5,-900,2023-10-29T01:40:38,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_points_over_under,bennedict mathurin,True,15.5,-105,2023-10-29T01:06:41,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,bennedict mathurin,False,12.5,-120,2023-10-29T00:25:46,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_points_over_under,bennedict mathurin,True,17.5,-110,2023-10-28T23:45:07,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,bennedict mathurin,False,16.5,-175,2023-10-28T22:10:06,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_points_over_under,bennedict mathurin,False,11.5,-120,2023-10-29T00:30:09,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_points_over_under,bennedict mathurin,False,13.5,-135,2023-10-29T00:20:08,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_points_over_under,bennedict mathurin,False,14.5,-120,2023-10-29T00:40:05,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_points_over_under,bennedict mathurin,False,15.5,-135,2023-10-29T01:06:41,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_points_over_under,bennedict mathurin,False,16.5,-125,2023-10-29T00:55:06,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_points_over_under,bennedict mathurin,False,17.5,-130,2023-10-28T23:45:07,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,betrivers,player_points_over_under,bennedict mathurin,True,15.5,-129,2023-10-28T23:45:07,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,betrivers,player_points_over_under,bennedict mathurin,True,16.5,-117,2023-10-28T23:20:07,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_rebounds_over_under,bennedict mathurin,True,0.5,1000,2023-10-29T01:45:07,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,bennedict mathurin,False,11.5,-125,2023-10-29T00:25:46,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_points_over_under,bennedict mathurin,False,12.5,-110,2023-10-29T00:25:05,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_points_over_under,bennedict mathurin,True,16.5,-115,2023-10-29T00:55:06,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_rebounds_over_under,bennedict mathurin,True,1.5,162,2023-10-29T01:20:59,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_rebounds_over_under,bennedict mathurin,True,2.5,130,2023-10-29T00:55:03,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,betrivers,player_rebounds_over_under,bennedict mathurin,True,4.5,-103,2023-10-28T23:45:07,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_steals_over_under,bennedict mathurin,True,0.5,1000,2023-10-29T01:40:21,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_steals_over_under,bennedict mathurin,False,0.5,-100000,2023-10-29T01:45:07,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_steals_over_under,bennedict mathurin,True,0.5,700,2023-10-29T01:35:13,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_steals_over_under,bennedict mathurin,False,0.5,-1800,2023-10-29T01:35:13,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_steals_over_under,bennedict mathurin,True,0.5,220,2023-10-29T01:06:41,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_steals_over_under,bennedict mathurin,False,0.5,-350,2023-10-29T01:06:41,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_threes_over_under,bennedict mathurin,True,0.5,-250,2023-10-28T23:56:01,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_threes_over_under,bennedict mathurin,True,1.5,178,2023-10-28T23:50:03,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_rebounds_over_under,bennedict mathurin,False,4.5,-165,2023-10-28T23:50:13,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_threes_over_under,bennedict mathurin,False,0.5,188,2023-10-28T23:56:01,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,pinnacle,player_threes_over_under,bennedict mathurin,True,1.5,141,2023-10-28T23:00:06,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,pinnacle,player_threes_over_under,bennedict mathurin,False,1.5,-194,2023-10-28T23:00:06,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_threes_over_under,bennedict mathurin,True,1.5,400,2023-10-29T01:35:13,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_threes_over_under,bennedict mathurin,True,2.5,160,2023-10-28T23:50:05,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_threes_over_under,bennedict mathurin,False,1.5,-650,2023-10-29T01:35:13,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_threes_over_under,bennedict mathurin,False,2.5,-215,2023-10-28T23:50:05,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_threes_over_under,bennedict mathurin,True,1.5,105,2023-10-29T01:06:41,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_threes_over_under,bennedict mathurin,True,2.5,145,2023-10-28T23:50:13,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_threes_over_under,bennedict mathurin,False,1.5,-150,2023-10-29T01:06:41,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_threes_over_under,bennedict mathurin,False,1.5,-245,2023-10-28T23:50:03,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_rebounds_over_under,bennedict mathurin,False,3.5,-170,2023-10-29T00:20:08,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_rebounds_over_under,bennedict mathurin,False,2.5,-165,2023-10-29T00:55:06,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_rebounds_over_under,bennedict mathurin,False,1.5,-215,2023-10-29T01:20:17,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_rebounds_over_under,bennedict mathurin,True,3.5,120,2023-10-29T00:20:26,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_rebounds_over_under,bennedict mathurin,True,4.5,124,2023-10-28T23:50:03,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_rebounds_over_under,bennedict mathurin,False,0.5,-20000,2023-10-29T01:45:07,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_rebounds_over_under,bennedict mathurin,False,1.5,-220,2023-10-29T01:20:59,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_rebounds_over_under,bennedict mathurin,False,2.5,-174,2023-10-29T00:55:03,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_rebounds_over_under,bennedict mathurin,False,3.5,-160,2023-10-29T00:20:26,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_rebounds_over_under,bennedict mathurin,False,4.5,-166,2023-10-28T23:50:03,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_rebounds_over_under,bennedict mathurin,True,0.5,600,2023-10-29T01:40:38,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_rebounds_over_under,bennedict mathurin,True,1.5,155,2023-10-29T01:20:11,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_rebounds_over_under,bennedict mathurin,True,2.5,125,2023-10-29T01:00:07,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_rebounds_over_under,bennedict mathurin,True,3.5,125,2023-10-29T00:21:57,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_rebounds_over_under,bennedict mathurin,True,4.5,120,2023-10-28T23:50:05,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_rebounds_over_under,bennedict mathurin,False,0.5,-1400,2023-10-29T01:40:38,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_rebounds_over_under,bennedict mathurin,False,1.5,-210,2023-10-29T01:20:11,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_rebounds_over_under,bennedict mathurin,False,2.5,-165,2023-10-29T01:00:07,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_rebounds_over_under,bennedict mathurin,False,3.5,-165,2023-10-29T00:21:57,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_rebounds_over_under,bennedict mathurin,False,4.5,-165,2023-10-28T23:50:05,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_rebounds_over_under,bennedict mathurin,True,1.5,145,2023-10-29T01:20:17,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_rebounds_over_under,bennedict mathurin,True,2.5,115,2023-10-29T00:55:06,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_rebounds_over_under,bennedict mathurin,True,3.5,120,2023-10-29T00:20:08,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_rebounds_over_under,bennedict mathurin,True,4.5,115,2023-10-28T23:50:13,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,bennedict mathurin,True,13.5,475,2023-10-29T01:40:38,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,bennedict mathurin,True,12.5,-110,2023-10-29T00:25:46,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_blocks_over_under,bennedict mathurin,False,0.5,-8000,2023-10-29T01:35:13,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,bennedict mathurin,True,17.5,145,2023-10-28T22:06:13,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,5ede552cdf581985eec76466a053c9d8,draftkings,player_points_over_under,bennedict mathurin,False,12.5,115,2023-10-30T05:10:11,Indiana Pacers,Chicago Bulls
+2023-10-28,5ede552cdf581985eec76466a053c9d8,draftkings,player_points_over_under,bennedict mathurin,False,13.5,-135,2023-10-29T19:40:08,Indiana Pacers,Chicago Bulls
+2023-10-28,5ede552cdf581985eec76466a053c9d8,draftkings,player_points_over_under,bennedict mathurin,False,14.5,-155,2023-10-30T05:10:11,Indiana Pacers,Chicago Bulls
+2023-10-28,5ede552cdf581985eec76466a053c9d8,draftkings,player_points_over_under,bennedict mathurin,False,15.5,-210,2023-10-30T05:10:11,Indiana Pacers,Chicago Bulls
+2023-10-28,5ede552cdf581985eec76466a053c9d8,draftkings,player_points_over_under,bennedict mathurin,False,12.5,100,2023-10-29T19:40:08,Indiana Pacers,Chicago Bulls
+2023-10-28,5ede552cdf581985eec76466a053c9d8,draftkings,player_points_over_under,bennedict mathurin,False,13.5,-115,2023-10-30T04:40:50,Indiana Pacers,Chicago Bulls
+2023-10-28,5ede552cdf581985eec76466a053c9d8,barstool,player_points_over_under,bennedict mathurin,True,13.5,-110,2023-10-30T05:10:04,Indiana Pacers,Chicago Bulls
+2023-10-28,5ede552cdf581985eec76466a053c9d8,draftkings,player_points_over_under,bennedict mathurin,False,11.5,160,2023-10-30T05:10:11,Indiana Pacers,Chicago Bulls
+2023-10-28,5ede552cdf581985eec76466a053c9d8,barstool,player_points_over_under,bennedict mathurin,False,13.5,-120,2023-10-30T05:10:04,Indiana Pacers,Chicago Bulls
+2023-10-28,5ede552cdf581985eec76466a053c9d8,fanduel,player_rebounds_over_under,bennedict mathurin,False,3.5,-130,2023-10-30T05:55:04,Indiana Pacers,Chicago Bulls
+2023-10-28,5ede552cdf581985eec76466a053c9d8,draftkings,player_rebounds_over_under,bennedict mathurin,True,3.5,-105,2023-10-30T05:10:11,Indiana Pacers,Chicago Bulls
+2023-10-28,5ede552cdf581985eec76466a053c9d8,draftkings,player_rebounds_over_under,bennedict mathurin,False,3.5,-120,2023-10-30T05:10:11,Indiana Pacers,Chicago Bulls
+2023-10-28,5ede552cdf581985eec76466a053c9d8,barstool,player_rebounds_over_under,bennedict mathurin,True,3.5,-110,2023-10-30T05:10:04,Indiana Pacers,Chicago Bulls
+2023-10-28,5ede552cdf581985eec76466a053c9d8,barstool,player_rebounds_over_under,bennedict mathurin,False,3.5,-120,2023-10-30T05:10:04,Indiana Pacers,Chicago Bulls
+2023-10-28,5ede552cdf581985eec76466a053c9d8,draftkings,player_steals_over_under,bennedict mathurin,True,0.5,-110,2023-10-30T05:10:11,Indiana Pacers,Chicago Bulls
+2023-10-28,5ede552cdf581985eec76466a053c9d8,draftkings,player_steals_over_under,bennedict mathurin,False,0.5,-120,2023-10-30T05:10:11,Indiana Pacers,Chicago Bulls
+2023-10-28,5ede552cdf581985eec76466a053c9d8,fanduel,player_rebounds_over_under,bennedict mathurin,True,3.5,102,2023-10-30T05:55:04,Indiana Pacers,Chicago Bulls
+2023-10-28,5ede552cdf581985eec76466a053c9d8,draftkings,player_points_over_under,bennedict mathurin,False,10.5,185,2023-10-29T19:40:08,Indiana Pacers,Chicago Bulls
+2023-10-28,5ede552cdf581985eec76466a053c9d8,draftkings,player_points_over_under,bennedict mathurin,True,13.5,-110,2023-10-30T04:40:50,Indiana Pacers,Chicago Bulls
+2023-10-28,5ede552cdf581985eec76466a053c9d8,draftkings,player_points_over_under,bennedict mathurin,True,12.5,-125,2023-10-29T19:40:08,Indiana Pacers,Chicago Bulls
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_threes_over_under,bennedict mathurin,False,2.5,-215,2023-10-28T23:50:13,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,5ede552cdf581985eec76466a053c9d8,barstool,player_assists_over_under,bennedict mathurin,True,1.5,110,2023-10-30T05:10:04,Indiana Pacers,Chicago Bulls
+2023-10-28,5ede552cdf581985eec76466a053c9d8,barstool,player_assists_over_under,bennedict mathurin,False,1.5,-140,2023-10-30T05:10:04,Indiana Pacers,Chicago Bulls
+2023-10-28,5ede552cdf581985eec76466a053c9d8,draftkings,player_blocks_over_under,bennedict mathurin,True,0.5,250,2023-10-30T05:10:11,Indiana Pacers,Chicago Bulls
+2023-10-28,5ede552cdf581985eec76466a053c9d8,draftkings,player_blocks_over_under,bennedict mathurin,False,0.5,-330,2023-10-30T05:10:11,Indiana Pacers,Chicago Bulls
+2023-10-28,5ede552cdf581985eec76466a053c9d8,fanduel,player_points_over_under,bennedict mathurin,True,13.5,-115,2023-10-30T05:25:05,Indiana Pacers,Chicago Bulls
+2023-10-28,5ede552cdf581985eec76466a053c9d8,fanduel,player_points_over_under,bennedict mathurin,False,13.5,-111,2023-10-30T05:25:05,Indiana Pacers,Chicago Bulls
+2023-10-28,5ede552cdf581985eec76466a053c9d8,pinnacle,player_points_over_under,bennedict mathurin,True,12.5,-120,2023-10-29T22:20:20,Indiana Pacers,Chicago Bulls
+2023-10-28,5ede552cdf581985eec76466a053c9d8,pinnacle,player_points_over_under,bennedict mathurin,True,13.5,-111,2023-10-29T23:30:18,Indiana Pacers,Chicago Bulls
+2023-10-28,5ede552cdf581985eec76466a053c9d8,pinnacle,player_points_over_under,bennedict mathurin,False,12.5,-110,2023-10-29T22:20:20,Indiana Pacers,Chicago Bulls
+2023-10-28,5ede552cdf581985eec76466a053c9d8,pinnacle,player_points_over_under,bennedict mathurin,False,13.5,-120,2023-10-29T23:30:18,Indiana Pacers,Chicago Bulls
+2023-10-28,5ede552cdf581985eec76466a053c9d8,draftkings,player_points_over_under,bennedict mathurin,True,10.5,-240,2023-10-29T19:40:08,Indiana Pacers,Chicago Bulls
+2023-10-28,5ede552cdf581985eec76466a053c9d8,draftkings,player_points_over_under,bennedict mathurin,True,11.5,-210,2023-10-30T05:10:11,Indiana Pacers,Chicago Bulls
+2023-10-28,5ede552cdf581985eec76466a053c9d8,draftkings,player_points_over_under,bennedict mathurin,True,12.5,-150,2023-10-30T05:10:11,Indiana Pacers,Chicago Bulls
+2023-10-28,5ede552cdf581985eec76466a053c9d8,draftkings,player_points_over_under,bennedict mathurin,True,13.5,105,2023-10-29T19:40:08,Indiana Pacers,Chicago Bulls
+2023-10-28,5ede552cdf581985eec76466a053c9d8,draftkings,player_points_over_under,bennedict mathurin,True,14.5,120,2023-10-30T05:10:11,Indiana Pacers,Chicago Bulls
+2023-10-28,5ede552cdf581985eec76466a053c9d8,draftkings,player_points_over_under,bennedict mathurin,True,15.5,160,2023-10-30T05:10:11,Indiana Pacers,Chicago Bulls
+2023-10-28,5ede552cdf581985eec76466a053c9d8,fanduel,player_threes_over_under,bennedict mathurin,True,1.5,176,2023-10-30T06:00:41,Indiana Pacers,Chicago Bulls
+2023-10-28,5ede552cdf581985eec76466a053c9d8,fanduel,player_threes_over_under,bennedict mathurin,False,1.5,-230,2023-10-30T06:00:41,Indiana Pacers,Chicago Bulls
+2023-10-28,5ede552cdf581985eec76466a053c9d8,pinnacle,player_threes_over_under,bennedict mathurin,True,1.5,158,2023-10-29T23:30:18,Indiana Pacers,Chicago Bulls
+2023-10-28,5ede552cdf581985eec76466a053c9d8,pinnacle,player_threes_over_under,bennedict mathurin,False,1.5,-222,2023-10-29T23:30:18,Indiana Pacers,Chicago Bulls
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_points_over_under,bennedict mathurin,True,13.5,-115,2023-10-28T23:50:03,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_points_over_under,bennedict mathurin,True,14.5,-122,2023-10-28T23:45:26,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_points_over_under,bennedict mathurin,True,15.5,-122,2023-10-28T23:40:44,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_points_over_under,bennedict mathurin,True,16.5,-104,2023-10-28T22:10:58,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_points_over_under,bennedict mathurin,False,13.5,-113,2023-10-28T23:50:03,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_points_over_under,bennedict mathurin,False,14.5,-104,2023-10-28T23:45:26,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_points_over_under,bennedict mathurin,False,15.5,-104,2023-10-28T23:40:44,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_points_over_under,bennedict mathurin,False,16.5,-118,2023-10-28T22:10:58,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,pinnacle,player_points_over_under,bennedict mathurin,True,14.5,-145,2023-10-28T23:00:06,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,pinnacle,player_points_over_under,bennedict mathurin,True,15.5,-145,2023-10-28T20:10:21,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,pinnacle,player_points_over_under,bennedict mathurin,False,14.5,110,2023-10-28T23:00:06,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,pinnacle,player_points_over_under,bennedict mathurin,False,15.5,110,2023-10-28T20:10:21,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,bennedict mathurin,True,12.5,-195,2023-10-28T22:10:06,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,bennedict mathurin,True,13.5,-155,2023-10-28T22:10:06,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,bennedict mathurin,True,14.5,-160,2023-10-28T22:06:13,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,bennedict mathurin,True,15.5,125,2023-10-28T22:10:06,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,bennedict mathurin,True,16.5,140,2023-10-28T22:10:06,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_blocks_over_under,bennedict mathurin,False,0.5,-450,2023-10-29T00:10:04,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,bennedict mathurin,True,11.5,-105,2023-10-29T00:25:46,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_blocks_over_under,bennedict mathurin,True,0.5,270,2023-10-29T00:10:04,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_blocks_over_under,bennedict mathurin,False,0.5,-100000,2023-10-29T01:45:07,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,5ede552cdf581985eec76466a053c9d8,draftkings,player_threes_over_under,bennedict mathurin,True,0.5,-230,2023-10-29T19:40:08,Indiana Pacers,Chicago Bulls
+2023-10-28,5ede552cdf581985eec76466a053c9d8,draftkings,player_threes_over_under,bennedict mathurin,True,1.5,160,2023-10-29T23:15:13,Indiana Pacers,Chicago Bulls
+2023-10-28,5ede552cdf581985eec76466a053c9d8,draftkings,player_threes_over_under,bennedict mathurin,False,0.5,175,2023-10-29T19:40:08,Indiana Pacers,Chicago Bulls
+2023-10-28,5ede552cdf581985eec76466a053c9d8,draftkings,player_threes_over_under,bennedict mathurin,False,1.5,-210,2023-10-29T23:15:13,Indiana Pacers,Chicago Bulls
+2023-10-28,5ede552cdf581985eec76466a053c9d8,barstool,player_threes_over_under,bennedict mathurin,True,1.5,160,2023-10-30T05:10:04,Indiana Pacers,Chicago Bulls
+2023-10-28,5ede552cdf581985eec76466a053c9d8,barstool,player_threes_over_under,bennedict mathurin,False,1.5,-220,2023-10-30T05:10:04,Indiana Pacers,Chicago Bulls
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_assists_over_under,bennedict mathurin,True,0.5,-110,2023-10-29T01:00:05,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_assists_over_under,bennedict mathurin,True,1.5,1000,2023-10-29T01:45:07,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_assists_over_under,bennedict mathurin,False,0.5,-120,2023-10-29T01:00:05,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_assists_over_under,bennedict mathurin,False,1.5,-100000,2023-10-29T01:45:07,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_assists_over_under,bennedict mathurin,True,0.5,-105,2023-10-29T01:00:07,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_assists_over_under,bennedict mathurin,True,1.5,380,2023-10-29T01:35:13,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_assists_over_under,bennedict mathurin,False,0.5,-125,2023-10-29T01:00:07,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_assists_over_under,bennedict mathurin,False,1.5,-650,2023-10-29T01:35:13,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_assists_over_under,bennedict mathurin,True,1.5,150,2023-10-29T00:10:04,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_assists_over_under,bennedict mathurin,False,1.5,-225,2023-10-29T00:10:04,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_blocks_over_under,bennedict mathurin,True,0.5,1000,2023-10-29T01:20:59,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_blocks_over_under,bennedict mathurin,True,0.5,1100,2023-10-29T01:35:13,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,betrivers,player_threes_over_under,bennedict mathurin,True,1.5,138,2023-10-28T23:45:07,Cleveland Cavaliers,Indiana Pacers

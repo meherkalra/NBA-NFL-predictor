@@ -1,0 +1,623 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-20,3980a7a0eaf6d7cc9d0a2b73027acffa,fanduel,player_points_over_under,kris dunn,False,12.5,-110,2023-03-21T00:45:01,Utah Jazz,Sacramento Kings
+2023-03-20,3980a7a0eaf6d7cc9d0a2b73027acffa,fanduel,player_points_over_under,kris dunn,True,12.5,-110,2023-03-21T00:45:01,Utah Jazz,Sacramento Kings
+2023-03-20,3980a7a0eaf6d7cc9d0a2b73027acffa,fanduel,player_assists_over_under,kris dunn,False,5.5,-104,2023-03-21T01:00:02,Utah Jazz,Sacramento Kings
+2023-03-20,3980a7a0eaf6d7cc9d0a2b73027acffa,fanduel,player_assists_over_under,kris dunn,True,5.5,-118,2023-03-21T01:00:02,Utah Jazz,Sacramento Kings
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_assists_over_under,kris dunn,False,6.5,-132,2023-03-23T01:45:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,kris dunn,False,5.5,104,2023-03-23T02:45:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,kris dunn,True,16.5,140,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,kris dunn,True,10.5,104,2023-03-23T01:00:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,kris dunn,True,9.5,-154,2023-03-23T01:45:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,kris dunn,True,7.5,116,2023-03-23T02:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,kris dunn,True,6.5,-130,2023-03-23T02:30:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,kris dunn,True,5.5,-138,2023-03-23T02:45:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_blocks_over_under,kris dunn,False,0.5,-5000,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_assists_over_under,kris dunn,False,5.5,-154,2023-03-23T02:00:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,kris dunn,False,6.5,-102,2023-03-23T02:30:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_assists_over_under,kris dunn,False,4.5,-114,2023-03-23T02:30:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_assists_over_under,kris dunn,False,3.5,-102,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_assists_over_under,kris dunn,True,6.5,100,2023-03-23T01:45:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_assists_over_under,kris dunn,True,5.5,116,2023-03-23T02:00:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_assists_over_under,kris dunn,True,4.5,-114,2023-03-23T02:30:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_assists_over_under,kris dunn,True,3.5,-130,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_blocks_over_under,kris dunn,True,0.5,1000,2023-03-23T03:00:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,kris dunn,False,7.5,-154,2023-03-23T02:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,kris dunn,True,11.5,-108,2023-03-23T03:00:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,kris dunn,False,10.5,-128,2023-03-23T01:00:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_threes_over_under,kris dunn,False,0.5,-2000,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_threes_over_under,kris dunn,True,0.5,750,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_steals_over_under,kris dunn,False,1.5,-900,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,kris dunn,False,9.5,116,2023-03-23T01:45:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_steals_over_under,kris dunn,True,1.5,490,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_steals_over_under,kris dunn,True,0.5,-270,2023-03-23T01:30:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_rebounds_over_under,kris dunn,False,7.5,-154,2023-03-23T02:00:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_rebounds_over_under,kris dunn,False,6.5,-166,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_steals_over_under,kris dunn,False,0.5,194,2023-03-23T01:30:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_rebounds_over_under,kris dunn,False,3.5,114,2023-03-23T01:00:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_rebounds_over_under,kris dunn,True,7.5,116,2023-03-23T02:00:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_rebounds_over_under,kris dunn,True,6.5,124,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_rebounds_over_under,kris dunn,True,4.5,-140,2023-03-23T01:30:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_rebounds_over_under,kris dunn,True,3.5,-140,2023-03-23T01:00:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,kris dunn,False,16.5,-188,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,kris dunn,False,11.5,-122,2023-03-23T03:00:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_rebounds_over_under,kris dunn,False,4.5,106,2023-03-23T01:30:01,Utah Jazz,Portland Trail Blazers
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_points_over_under,kris dunn,True,12.5,-114,2023-03-25T01:30:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_points_over_under,kris dunn,True,13.5,-140,2023-03-25T01:15:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_points_over_under,kris dunn,False,3.5,-138,2023-03-25T03:00:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_points_over_under,kris dunn,False,5.5,130,2023-03-25T02:45:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,0dfe28413e2e7cff29283c697981fb7c,fanduel,player_steals_over_under,kris dunn,False,0.5,-600,2023-03-26T04:00:01,Sacramento Kings,Utah Jazz
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_points_over_under,kris dunn,False,8.5,112,2023-03-25T02:00:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_points_over_under,kris dunn,False,13.5,106,2023-03-25T01:15:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_points_over_under,kris dunn,False,11.5,-130,2023-03-25T01:45:02,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_points_over_under,kris dunn,False,12.5,-114,2023-03-25T01:30:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_rebounds_over_under,kris dunn,True,2.5,132,2023-03-25T02:45:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_points_over_under,kris dunn,True,11.5,-102,2023-03-25T01:45:02,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_rebounds_over_under,kris dunn,True,3.5,112,2023-03-25T02:15:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_points_over_under,kris dunn,False,9.5,-146,2023-03-25T02:15:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_points_over_under,kris dunn,True,9.5,110,2023-03-25T02:15:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_points_over_under,kris dunn,False,7.5,100,2023-03-25T02:30:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_points_over_under,kris dunn,True,7.5,-132,2023-03-25T02:30:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_points_over_under,kris dunn,True,5.5,-174,2023-03-25T02:45:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_points_over_under,kris dunn,True,3.5,104,2023-03-25T03:00:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_blocks_over_under,kris dunn,False,0.5,-7000,2023-03-25T03:00:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_blocks_over_under,kris dunn,True,0.5,1000,2023-03-25T03:00:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_assists_over_under,kris dunn,False,7.5,-146,2023-03-25T01:30:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_assists_over_under,kris dunn,False,5.5,-104,2023-03-25T02:45:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_assists_over_under,kris dunn,False,4.5,-125,2023-03-25T03:00:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_assists_over_under,kris dunn,True,7.5,110,2023-03-25T01:30:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_assists_over_under,kris dunn,True,5.5,-128,2023-03-25T02:45:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_assists_over_under,kris dunn,True,4.5,-106,2023-03-25T03:00:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,0dfe28413e2e7cff29283c697981fb7c,fanduel,player_steals_over_under,kris dunn,True,0.5,370,2023-03-26T04:00:01,Sacramento Kings,Utah Jazz
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_rebounds_over_under,kris dunn,True,4.5,122,2023-03-25T01:30:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_points_over_under,kris dunn,True,8.5,-148,2023-03-25T02:00:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_rebounds_over_under,kris dunn,False,2.5,-178,2023-03-25T02:45:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,0dfe28413e2e7cff29283c697981fb7c,fanduel,player_points_over_under,kris dunn,False,7.5,122,2023-03-26T04:00:01,Sacramento Kings,Utah Jazz
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_rebounds_over_under,kris dunn,False,4.5,-162,2023-03-25T01:30:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,0dfe28413e2e7cff29283c697981fb7c,fanduel,player_rebounds_over_under,kris dunn,False,4.5,-154,2023-03-26T03:15:02,Sacramento Kings,Utah Jazz
+2023-03-25,0dfe28413e2e7cff29283c697981fb7c,fanduel,player_rebounds_over_under,kris dunn,False,3.5,-125,2023-03-26T04:00:01,Sacramento Kings,Utah Jazz
+2023-03-25,0dfe28413e2e7cff29283c697981fb7c,fanduel,player_rebounds_over_under,kris dunn,True,4.5,116,2023-03-26T03:15:02,Sacramento Kings,Utah Jazz
+2023-03-25,0dfe28413e2e7cff29283c697981fb7c,fanduel,player_rebounds_over_under,kris dunn,True,3.5,-106,2023-03-26T04:00:01,Sacramento Kings,Utah Jazz
+2023-03-25,0dfe28413e2e7cff29283c697981fb7c,fanduel,player_points_over_under,kris dunn,False,12.5,-122,2023-03-26T02:30:01,Sacramento Kings,Utah Jazz
+2023-03-25,0dfe28413e2e7cff29283c697981fb7c,fanduel,player_points_over_under,kris dunn,False,10.5,120,2023-03-26T03:30:01,Sacramento Kings,Utah Jazz
+2023-03-25,0dfe28413e2e7cff29283c697981fb7c,fanduel,player_points_over_under,kris dunn,False,9.5,-106,2023-03-26T03:00:01,Sacramento Kings,Utah Jazz
+2023-03-25,0dfe28413e2e7cff29283c697981fb7c,fanduel,player_points_over_under,kris dunn,False,8.5,-154,2023-03-26T03:45:02,Sacramento Kings,Utah Jazz
+2023-03-25,0dfe28413e2e7cff29283c697981fb7c,fanduel,player_steals_over_under,kris dunn,False,1.5,-205,2023-03-26T02:15:02,Sacramento Kings,Utah Jazz
+2023-03-25,0dfe28413e2e7cff29283c697981fb7c,fanduel,player_points_over_under,kris dunn,True,12.5,-108,2023-03-26T02:30:01,Sacramento Kings,Utah Jazz
+2023-03-25,0dfe28413e2e7cff29283c697981fb7c,fanduel,player_points_over_under,kris dunn,True,10.5,-160,2023-03-26T03:30:01,Sacramento Kings,Utah Jazz
+2023-03-25,0dfe28413e2e7cff29283c697981fb7c,fanduel,player_points_over_under,kris dunn,True,9.5,-125,2023-03-26T03:00:01,Sacramento Kings,Utah Jazz
+2023-03-25,0dfe28413e2e7cff29283c697981fb7c,fanduel,player_points_over_under,kris dunn,True,8.5,116,2023-03-26T03:45:02,Sacramento Kings,Utah Jazz
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_rebounds_over_under,kris dunn,False,3.5,-148,2023-03-25T02:15:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,0dfe28413e2e7cff29283c697981fb7c,fanduel,player_points_over_under,kris dunn,True,7.5,-162,2023-03-26T04:00:01,Sacramento Kings,Utah Jazz
+2023-03-25,0dfe28413e2e7cff29283c697981fb7c,fanduel,player_blocks_over_under,kris dunn,True,0.5,1000,2023-03-26T03:45:02,Sacramento Kings,Utah Jazz
+2023-03-25,0dfe28413e2e7cff29283c697981fb7c,fanduel,player_assists_over_under,kris dunn,False,7.5,-152,2023-03-26T03:15:02,Sacramento Kings,Utah Jazz
+2023-03-25,0dfe28413e2e7cff29283c697981fb7c,fanduel,player_assists_over_under,kris dunn,False,6.5,-270,2023-03-26T03:45:02,Sacramento Kings,Utah Jazz
+2023-03-25,0dfe28413e2e7cff29283c697981fb7c,fanduel,player_assists_over_under,kris dunn,False,5.5,138,2023-03-26T04:00:01,Sacramento Kings,Utah Jazz
+2023-03-25,0dfe28413e2e7cff29283c697981fb7c,fanduel,player_assists_over_under,kris dunn,True,7.5,114,2023-03-26T03:15:02,Sacramento Kings,Utah Jazz
+2023-03-25,0dfe28413e2e7cff29283c697981fb7c,fanduel,player_assists_over_under,kris dunn,True,6.5,194,2023-03-26T03:45:02,Sacramento Kings,Utah Jazz
+2023-03-25,0dfe28413e2e7cff29283c697981fb7c,fanduel,player_assists_over_under,kris dunn,True,5.5,-186,2023-03-26T04:00:01,Sacramento Kings,Utah Jazz
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_threes_over_under,kris dunn,False,0.5,-2200,2023-03-25T03:00:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_threes_over_under,kris dunn,True,0.5,800,2023-03-25T03:00:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_steals_over_under,kris dunn,False,1.5,-230,2023-03-25T01:15:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_steals_over_under,kris dunn,False,0.5,-1100,2023-03-25T03:00:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_steals_over_under,kris dunn,True,1.5,168,2023-03-25T01:15:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,395be07e885d22f1a2e1c1775ba624e8,fanduel,player_steals_over_under,kris dunn,True,0.5,550,2023-03-25T03:00:01,Utah Jazz,Milwaukee Bucks
+2023-03-25,0dfe28413e2e7cff29283c697981fb7c,fanduel,player_blocks_over_under,kris dunn,False,0.5,-5000,2023-03-26T04:00:01,Sacramento Kings,Utah Jazz
+2023-03-25,0dfe28413e2e7cff29283c697981fb7c,fanduel,player_threes_over_under,kris dunn,True,0.5,580,2023-03-26T04:00:01,Sacramento Kings,Utah Jazz
+2023-03-25,0dfe28413e2e7cff29283c697981fb7c,fanduel,player_steals_over_under,kris dunn,True,1.5,152,2023-03-26T02:15:02,Sacramento Kings,Utah Jazz
+2023-03-25,0dfe28413e2e7cff29283c697981fb7c,fanduel,player_threes_over_under,kris dunn,False,0.5,-1200,2023-03-26T04:00:01,Sacramento Kings,Utah Jazz
+2023-03-27,d96c28233745b7e0b23269efc94df3f9,fanduel,player_assists_over_under,kris dunn,True,5.5,100,2023-03-28T01:00:01,Utah Jazz,Phoenix Suns
+2023-03-27,d96c28233745b7e0b23269efc94df3f9,fanduel,player_assists_over_under,kris dunn,False,5.5,-122,2023-03-28T01:00:01,Utah Jazz,Phoenix Suns
+2023-03-27,d96c28233745b7e0b23269efc94df3f9,fanduel,player_points_over_under,kris dunn,True,11.5,106,2023-03-28T01:00:01,Utah Jazz,Phoenix Suns
+2023-03-27,d96c28233745b7e0b23269efc94df3f9,fanduel,player_points_over_under,kris dunn,False,11.5,-130,2023-03-28T01:00:01,Utah Jazz,Phoenix Suns
+2023-03-27,d96c28233745b7e0b23269efc94df3f9,fanduel,player_rebounds_over_under,kris dunn,True,3.5,-154,2023-03-28T01:00:01,Utah Jazz,Phoenix Suns
+2023-03-27,d96c28233745b7e0b23269efc94df3f9,fanduel,player_rebounds_over_under,kris dunn,True,4.5,116,2023-03-28T00:30:02,Utah Jazz,Phoenix Suns
+2023-03-27,d96c28233745b7e0b23269efc94df3f9,fanduel,player_rebounds_over_under,kris dunn,False,3.5,126,2023-03-28T01:00:01,Utah Jazz,Phoenix Suns
+2023-03-27,d96c28233745b7e0b23269efc94df3f9,fanduel,player_rebounds_over_under,kris dunn,False,4.5,-142,2023-03-28T00:30:02,Utah Jazz,Phoenix Suns
+2023-03-29,43056536e1f256a358f25f71b7340b14,fanduel,player_rebounds_over_under,kris dunn,False,3.5,126,2023-03-29T22:00:01,San Antonio Spurs,Utah Jazz
+2023-03-29,43056536e1f256a358f25f71b7340b14,fanduel,player_rebounds_over_under,kris dunn,True,4.5,-118,2023-03-30T00:00:01,San Antonio Spurs,Utah Jazz
+2023-03-29,43056536e1f256a358f25f71b7340b14,fanduel,player_rebounds_over_under,kris dunn,True,3.5,-154,2023-03-29T22:00:01,San Antonio Spurs,Utah Jazz
+2023-03-29,43056536e1f256a358f25f71b7340b14,fanduel,player_points_over_under,kris dunn,False,12.5,-102,2023-03-29T23:45:01,San Antonio Spurs,Utah Jazz
+2023-03-29,43056536e1f256a358f25f71b7340b14,fanduel,player_rebounds_over_under,kris dunn,False,4.5,-104,2023-03-30T00:00:01,San Antonio Spurs,Utah Jazz
+2023-03-29,43056536e1f256a358f25f71b7340b14,fanduel,player_assists_over_under,kris dunn,False,5.5,116,2023-03-29T22:00:01,San Antonio Spurs,Utah Jazz
+2023-03-29,43056536e1f256a358f25f71b7340b14,fanduel,player_assists_over_under,kris dunn,True,6.5,116,2023-03-29T23:45:01,San Antonio Spurs,Utah Jazz
+2023-03-29,43056536e1f256a358f25f71b7340b14,fanduel,player_assists_over_under,kris dunn,True,5.5,-142,2023-03-29T22:00:01,San Antonio Spurs,Utah Jazz
+2023-03-29,43056536e1f256a358f25f71b7340b14,fanduel,player_points_over_under,kris dunn,True,12.5,-120,2023-03-29T23:45:01,San Antonio Spurs,Utah Jazz
+2023-03-29,43056536e1f256a358f25f71b7340b14,fanduel,player_assists_over_under,kris dunn,False,6.5,-142,2023-03-29T23:45:01,San Antonio Spurs,Utah Jazz
+2023-03-31,dccd6d118076f397970d87b441ef56b3,fanduel,player_assists_over_under,kris dunn,True,4.5,-156,2023-03-31T23:40:02,Boston Celtics,Utah Jazz
+2023-03-31,dccd6d118076f397970d87b441ef56b3,fanduel,player_assists_over_under,kris dunn,False,5.5,-154,2023-03-31T22:14:01,Boston Celtics,Utah Jazz
+2023-03-31,dccd6d118076f397970d87b441ef56b3,fanduel,player_points_over_under,kris dunn,True,12.5,100,2023-03-31T23:30:02,Boston Celtics,Utah Jazz
+2023-03-31,dccd6d118076f397970d87b441ef56b3,fanduel,player_points_over_under,kris dunn,False,12.5,-128,2023-03-31T23:40:02,Boston Celtics,Utah Jazz
+2023-03-31,dccd6d118076f397970d87b441ef56b3,fanduel,player_rebounds_over_under,kris dunn,True,3.5,-154,2023-03-31T23:40:02,Boston Celtics,Utah Jazz
+2023-03-31,dccd6d118076f397970d87b441ef56b3,fanduel,player_rebounds_over_under,kris dunn,False,3.5,120,2023-03-31T23:36:01,Boston Celtics,Utah Jazz
+2023-03-31,dccd6d118076f397970d87b441ef56b3,fanduel,player_assists_over_under,kris dunn,True,5.5,126,2023-03-31T22:14:01,Boston Celtics,Utah Jazz
+2023-03-31,dccd6d118076f397970d87b441ef56b3,fanduel,player_assists_over_under,kris dunn,False,4.5,122,2023-03-31T23:36:01,Boston Celtics,Utah Jazz
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_rebounds_over_under,kris dunn,True,2.5,390,2023-04-05T03:15:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_rebounds_over_under,kris dunn,True,3.5,155,2023-04-05T03:00:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_rebounds_over_under,kris dunn,False,3.5,-210,2023-04-05T03:00:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_rebounds_over_under,kris dunn,True,4.5,125,2023-04-05T01:00:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_rebounds_over_under,kris dunn,False,2.5,-670,2023-04-05T03:15:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_rebounds_over_under,kris dunn,True,4.5,138,2023-04-05T01:45:02,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_rebounds_over_under,kris dunn,True,3.5,154,2023-04-05T03:00:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_rebounds_over_under,kris dunn,True,2.5,400,2023-04-05T03:15:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_points_over_under,kris dunn,False,13.5,-125,2023-04-05T02:45:02,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_rebounds_over_under,kris dunn,False,4.5,-186,2023-04-05T01:45:02,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_blocks_over_under,kris dunn,True,0.5,650,2023-04-05T03:00:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_steals_over_under,kris dunn,True,1.5,1000,2023-04-05T03:15:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_rebounds_over_under,kris dunn,False,3.5,-205,2023-04-05T03:00:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_rebounds_over_under,kris dunn,False,4.5,-170,2023-04-05T01:45:02,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_steals_over_under,kris dunn,True,0.5,182,2023-04-05T02:45:02,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_points_over_under,kris dunn,False,12.5,-130,2023-04-05T01:00:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_steals_over_under,kris dunn,False,0.5,-250,2023-04-05T02:45:02,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_steals_over_under,kris dunn,False,1.5,-7000,2023-04-05T03:15:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_steals_over_under,kris dunn,True,0.5,175,2023-04-05T02:45:02,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_steals_over_under,kris dunn,True,1.5,275,2023-04-05T03:00:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_steals_over_under,kris dunn,False,0.5,-245,2023-04-05T02:45:02,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_steals_over_under,kris dunn,False,1.5,-400,2023-04-05T03:00:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_rebounds_over_under,kris dunn,False,2.5,-650,2023-04-05T03:15:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_points_over_under,kris dunn,False,11.5,-110,2023-04-05T03:00:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_assists_over_under,kris dunn,True,4.5,370,2023-04-05T03:15:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_assists_over_under,kris dunn,True,3.5,-174,2023-04-05T02:45:02,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_points_over_under,kris dunn,True,12.5,-102,2023-04-05T00:36:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_points_over_under,kris dunn,True,13.5,104,2023-04-05T01:45:02,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_points_over_under,kris dunn,False,8.5,-158,2023-04-05T03:15:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_points_over_under,kris dunn,False,9.5,110,2023-04-05T02:30:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_points_over_under,kris dunn,False,10.5,116,2023-04-05T02:15:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_points_over_under,kris dunn,False,11.5,-104,2023-04-05T03:00:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_points_over_under,kris dunn,True,11.5,-128,2023-04-05T03:00:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_points_over_under,kris dunn,False,12.5,-120,2023-04-05T00:36:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_points_over_under,kris dunn,True,8.5,115,2023-04-05T03:15:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_points_over_under,kris dunn,True,9.5,-155,2023-04-05T02:30:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_points_over_under,kris dunn,True,10.5,-155,2023-04-05T02:15:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_points_over_under,kris dunn,True,11.5,-120,2023-04-05T03:00:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_points_over_under,kris dunn,True,12.5,100,2023-04-05T01:00:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_points_over_under,kris dunn,True,13.5,-105,2023-04-05T02:45:02,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_points_over_under,kris dunn,False,13.5,-138,2023-04-05T01:45:02,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_points_over_under,kris dunn,False,10.5,115,2023-04-05T02:15:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_points_over_under,kris dunn,True,10.5,-158,2023-04-05T02:15:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_points_over_under,kris dunn,True,8.5,118,2023-04-05T03:15:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_assists_over_under,kris dunn,True,4.5,390,2023-04-05T03:15:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_assists_over_under,kris dunn,True,5.5,122,2023-04-05T01:45:02,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_assists_over_under,kris dunn,False,3.5,130,2023-04-05T02:45:02,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_assists_over_under,kris dunn,False,4.5,-650,2023-04-05T03:15:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_assists_over_under,kris dunn,False,5.5,-162,2023-04-05T01:45:02,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_assists_over_under,kris dunn,True,3.5,-170,2023-04-05T01:30:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_points_over_under,kris dunn,True,9.5,-146,2023-04-05T02:30:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_threes_over_under,kris dunn,True,0.5,1000,2023-04-05T03:15:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_assists_over_under,kris dunn,False,3.5,130,2023-04-05T01:30:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_assists_over_under,kris dunn,False,4.5,-600,2023-04-05T03:15:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_assists_over_under,kris dunn,False,5.5,-150,2023-04-05T01:45:02,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_blocks_over_under,kris dunn,True,0.5,1000,2023-04-05T03:15:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_blocks_over_under,kris dunn,False,0.5,-50000,2023-04-05T03:15:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_blocks_over_under,kris dunn,False,0.5,-1400,2023-04-05T03:00:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_assists_over_under,kris dunn,True,5.5,115,2023-04-05T01:45:02,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_threes_over_under,kris dunn,False,0.5,-10000,2023-04-05T03:15:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_points_over_under,kris dunn,False,9.5,120,2023-04-05T02:30:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_threes_over_under,kris dunn,False,0.5,-550,2023-04-05T03:00:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_threes_over_under,kris dunn,True,0.5,350,2023-04-05T03:00:01,Utah Jazz,Los Angeles Lakers
+2023-04-04,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_points_over_under,kris dunn,False,8.5,-155,2023-04-05T03:15:01,Utah Jazz,Los Angeles Lakers
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_threes_over_under,kris dunn,False,1.5,-650,2023-04-07T03:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_rebounds_over_under,kris dunn,False,3.5,-110,2023-04-07T01:45:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_rebounds_over_under,kris dunn,False,4.5,106,2023-04-07T02:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_rebounds_over_under,kris dunn,False,6.5,-210,2023-04-07T03:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_rebounds_over_under,kris dunn,True,3.5,-125,2023-04-07T01:45:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_rebounds_over_under,kris dunn,True,4.5,-145,2023-04-07T02:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_rebounds_over_under,kris dunn,True,5.5,-245,2023-04-07T03:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_rebounds_over_under,kris dunn,True,6.5,120,2023-04-07T02:45:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_rebounds_over_under,kris dunn,False,3.5,-110,2023-04-07T01:45:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_rebounds_over_under,kris dunn,False,4.5,110,2023-04-07T01:15:02,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_rebounds_over_under,kris dunn,False,5.5,175,2023-04-07T03:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_rebounds_over_under,kris dunn,False,6.5,-160,2023-04-07T02:45:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_steals_over_under,kris dunn,True,0.5,205,2023-04-07T02:45:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_steals_over_under,kris dunn,True,1.5,225,2023-04-07T03:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_steals_over_under,kris dunn,False,1.5,-320,2023-04-07T03:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_steals_over_under,kris dunn,True,0.5,205,2023-04-07T02:45:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_steals_over_under,kris dunn,True,1.5,265,2023-04-07T03:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_steals_over_under,kris dunn,False,0.5,-290,2023-04-07T02:45:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_steals_over_under,kris dunn,False,1.5,-390,2023-04-07T03:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_threes_over_under,kris dunn,True,0.5,-162,2023-04-07T01:15:02,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_threes_over_under,kris dunn,True,1.5,350,2023-04-07T03:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_threes_over_under,kris dunn,False,0.5,122,2023-04-07T01:15:02,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_threes_over_under,kris dunn,False,1.5,-550,2023-04-07T03:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_threes_over_under,kris dunn,True,0.5,-160,2023-04-07T01:15:02,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_threes_over_under,kris dunn,True,1.5,390,2023-04-07T03:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_threes_over_under,kris dunn,False,0.5,120,2023-04-07T01:15:02,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_rebounds_over_under,kris dunn,True,6.5,154,2023-04-07T03:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_steals_over_under,kris dunn,False,0.5,-290,2023-04-07T02:45:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_rebounds_over_under,kris dunn,True,4.5,-140,2023-04-07T02:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_points_over_under,kris dunn,False,19.5,105,2023-04-07T02:45:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_assists_over_under,kris dunn,False,7.5,-102,2023-04-07T01:15:02,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_assists_over_under,kris dunn,False,8.5,148,2023-04-07T03:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_assists_over_under,kris dunn,False,9.5,-174,2023-04-07T02:45:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_assists_over_under,kris dunn,True,7.5,-125,2023-04-07T01:15:02,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_assists_over_under,kris dunn,True,8.5,-135,2023-04-07T03:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_assists_over_under,kris dunn,True,9.5,125,2023-04-07T02:45:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_assists_over_under,kris dunn,False,7.5,-105,2023-04-07T01:15:02,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_assists_over_under,kris dunn,False,8.5,100,2023-04-07T03:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_assists_over_under,kris dunn,False,9.5,-170,2023-04-07T02:45:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_blocks_over_under,kris dunn,True,0.5,580,2023-04-07T03:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_blocks_over_under,kris dunn,False,0.5,-1200,2023-04-07T03:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_blocks_over_under,kris dunn,True,0.5,650,2023-04-07T03:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_rebounds_over_under,kris dunn,True,3.5,-120,2023-04-07T01:45:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_blocks_over_under,kris dunn,False,0.5,-1400,2023-04-07T03:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_points_over_under,kris dunn,True,18.5,-130,2023-04-07T02:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_points_over_under,kris dunn,True,19.5,104,2023-04-07T03:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_points_over_under,kris dunn,False,17.5,-118,2023-04-07T02:30:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_points_over_under,kris dunn,False,18.5,-102,2023-04-07T02:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_points_over_under,kris dunn,False,19.5,-138,2023-04-07T03:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_points_over_under,kris dunn,True,16.5,-140,2023-04-07T01:15:02,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_points_over_under,kris dunn,True,17.5,-115,2023-04-07T02:30:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_points_over_under,kris dunn,True,18.5,-130,2023-04-07T03:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_points_over_under,kris dunn,True,19.5,-140,2023-04-07T02:45:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_points_over_under,kris dunn,False,16.5,105,2023-04-07T01:15:02,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_points_over_under,kris dunn,False,17.5,-115,2023-04-07T02:30:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,draftkings,player_points_over_under,kris dunn,False,18.5,100,2023-04-07T03:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_points_over_under,kris dunn,True,17.5,-112,2023-04-07T02:30:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_assists_over_under,kris dunn,True,9.5,130,2023-04-07T02:45:01,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_assists_over_under,kris dunn,True,7.5,-128,2023-04-07T01:15:02,Utah Jazz,Oklahoma City Thunder
+2023-04-06,20253dfa3ec6970483a76a6f9864afee,fanduel,player_assists_over_under,kris dunn,True,8.5,-200,2023-04-07T03:00:01,Utah Jazz,Oklahoma City Thunder
+2023-04-08,23735fdf2514d20d05cce280ec28d549,betmgm,player_threes_over_under,kris dunn,True,0.5,-200,2023-04-08T15:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_blocks_over_under,kris dunn,False,1.5,-5000,2023-04-08T21:45:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_blocks_over_under,kris dunn,True,0.5,600,2023-04-08T21:15:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_blocks_over_under,kris dunn,True,1.5,1100,2023-04-08T21:45:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_blocks_over_under,kris dunn,False,0.5,-1200,2023-04-08T21:15:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_blocks_over_under,kris dunn,False,1.5,-8000,2023-04-08T21:45:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_blocks_over_under,kris dunn,True,0.5,146,2023-04-08T15:15:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_blocks_over_under,kris dunn,False,0.5,-204,2023-04-08T15:15:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,betmgm,player_blocks_over_under,kris dunn,True,0.5,150,2023-04-08T15:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,betmgm,player_blocks_over_under,kris dunn,False,0.5,-210,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_blocks_over_under,kris dunn,False,0.5,-1400,2023-04-08T21:15:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_points_over_under,kris dunn,True,17.5,-112,2023-04-08T20:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_points_over_under,kris dunn,True,20.5,-162,2023-04-08T21:45:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_points_over_under,kris dunn,True,22.5,132,2023-04-08T21:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_points_over_under,kris dunn,True,23.5,112,2023-04-08T21:15:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_points_over_under,kris dunn,False,17.5,-118,2023-04-08T20:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_points_over_under,kris dunn,False,18.5,-136,2023-04-08T20:00:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_points_over_under,kris dunn,False,20.5,122,2023-04-08T21:45:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_points_over_under,kris dunn,False,22.5,-178,2023-04-08T21:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_points_over_under,kris dunn,False,23.5,-148,2023-04-08T21:15:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_points_over_under,kris dunn,True,17.5,-115,2023-04-08T20:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_points_over_under,kris dunn,True,18.5,100,2023-04-08T20:00:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_points_over_under,kris dunn,True,18.5,102,2023-04-08T20:00:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_blocks_over_under,kris dunn,True,1.5,1000,2023-04-08T21:45:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_blocks_over_under,kris dunn,True,0.5,630,2023-04-08T21:15:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,betmgm,player_assists_over_under,kris dunn,False,8.5,110,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_assists_over_under,kris dunn,True,8.5,-132,2023-04-08T20:45:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_assists_over_under,kris dunn,True,9.5,-120,2023-04-08T21:00:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_assists_over_under,kris dunn,True,10.5,100,2023-04-08T21:15:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_assists_over_under,kris dunn,True,11.5,-178,2023-04-08T21:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_assists_over_under,kris dunn,True,12.5,-186,2023-04-08T21:45:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_assists_over_under,kris dunn,False,8.5,100,2023-04-08T20:45:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_assists_over_under,kris dunn,False,9.5,-110,2023-04-08T21:00:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_assists_over_under,kris dunn,False,10.5,-132,2023-04-08T21:15:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_assists_over_under,kris dunn,False,11.5,132,2023-04-08T21:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_assists_over_under,kris dunn,False,12.5,138,2023-04-08T21:45:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_assists_over_under,kris dunn,True,8.5,-135,2023-04-08T20:45:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_assists_over_under,kris dunn,True,9.5,-120,2023-04-08T21:00:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_assists_over_under,kris dunn,True,10.5,100,2023-04-08T19:45:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_assists_over_under,kris dunn,True,11.5,-160,2023-04-08T21:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_assists_over_under,kris dunn,True,12.5,-185,2023-04-08T21:45:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_assists_over_under,kris dunn,False,8.5,100,2023-04-08T20:45:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_assists_over_under,kris dunn,False,9.5,-110,2023-04-08T21:00:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_assists_over_under,kris dunn,False,10.5,-130,2023-04-08T19:45:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_assists_over_under,kris dunn,False,11.5,120,2023-04-08T21:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_assists_over_under,kris dunn,False,12.5,135,2023-04-08T21:45:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_assists_over_under,kris dunn,True,8.5,-115,2023-04-08T16:00:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_assists_over_under,kris dunn,False,8.5,-119,2023-04-08T16:00:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,betmgm,player_assists_over_under,kris dunn,True,8.5,-150,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_points_over_under,kris dunn,True,19.5,115,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_points_over_under,kris dunn,True,20.5,-160,2023-04-08T21:45:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_points_over_under,kris dunn,True,21.5,-160,2023-04-08T21:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_points_over_under,kris dunn,True,22.5,-120,2023-04-08T21:00:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,betmgm,player_rebounds_over_under,kris dunn,True,5.5,-145,2023-04-08T16:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,betmgm,player_rebounds_over_under,kris dunn,False,5.5,110,2023-04-08T16:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_steals_over_under,kris dunn,True,2.5,-125,2023-04-08T20:45:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_steals_over_under,kris dunn,True,3.5,550,2023-04-08T21:45:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_steals_over_under,kris dunn,False,2.5,-106,2023-04-08T20:45:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_steals_over_under,kris dunn,False,3.5,-1100,2023-04-08T21:45:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_steals_over_under,kris dunn,True,1.5,120,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_steals_over_under,kris dunn,True,2.5,-125,2023-04-08T20:45:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_steals_over_under,kris dunn,True,3.5,500,2023-04-08T21:45:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_steals_over_under,kris dunn,False,1.5,-150,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_rebounds_over_under,kris dunn,False,5.5,-104,2023-04-08T16:00:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_steals_over_under,kris dunn,False,2.5,-105,2023-04-08T20:45:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_steals_over_under,kris dunn,True,1.5,123,2023-04-08T15:15:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_steals_over_under,kris dunn,False,1.5,-169,2023-04-08T15:15:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,betmgm,player_steals_over_under,kris dunn,True,1.5,125,2023-04-08T15:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,betmgm,player_steals_over_under,kris dunn,False,1.5,-165,2023-04-08T15:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_threes_over_under,kris dunn,True,0.5,750,2023-04-08T21:45:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_threes_over_under,kris dunn,False,0.5,-2000,2023-04-08T21:45:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_threes_over_under,kris dunn,True,0.5,700,2023-04-08T21:45:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_threes_over_under,kris dunn,False,0.5,-1600,2023-04-08T21:45:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_threes_over_under,kris dunn,True,0.5,-199,2023-04-08T15:15:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_threes_over_under,kris dunn,False,0.5,143,2023-04-08T15:15:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_steals_over_under,kris dunn,False,3.5,-1000,2023-04-08T21:45:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_rebounds_over_under,kris dunn,True,5.5,-131,2023-04-08T16:00:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_rebounds_over_under,kris dunn,False,7.5,-165,2023-04-08T20:45:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_rebounds_over_under,kris dunn,False,6.5,-135,2023-04-08T21:45:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_points_over_under,kris dunn,True,23.5,110,2023-04-08T21:15:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_points_over_under,kris dunn,False,17.5,-115,2023-04-08T20:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_points_over_under,kris dunn,False,18.5,-135,2023-04-08T20:00:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_points_over_under,kris dunn,False,19.5,-145,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_points_over_under,kris dunn,False,20.5,120,2023-04-08T21:45:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_points_over_under,kris dunn,False,21.5,120,2023-04-08T21:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_points_over_under,kris dunn,False,22.5,-110,2023-04-08T21:00:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_points_over_under,kris dunn,False,23.5,-145,2023-04-08T21:15:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_points_over_under,kris dunn,True,19.5,110,2023-04-08T16:00:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_points_over_under,kris dunn,False,19.5,-151,2023-04-08T16:00:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,betmgm,player_points_over_under,kris dunn,True,18.5,-135,2023-04-08T16:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,betmgm,player_points_over_under,kris dunn,True,19.5,-110,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,betmgm,player_points_over_under,kris dunn,False,18.5,100,2023-04-08T16:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_rebounds_over_under,kris dunn,True,5.5,-130,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_rebounds_over_under,kris dunn,True,6.5,102,2023-04-08T21:45:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_rebounds_over_under,kris dunn,True,7.5,134,2023-04-08T20:45:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_rebounds_over_under,kris dunn,False,5.5,106,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_rebounds_over_under,kris dunn,False,6.5,-136,2023-04-08T21:45:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,fanduel,player_rebounds_over_under,kris dunn,False,7.5,-180,2023-04-08T20:45:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_rebounds_over_under,kris dunn,True,5.5,-125,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_rebounds_over_under,kris dunn,True,6.5,100,2023-04-08T21:45:02,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_rebounds_over_under,kris dunn,True,7.5,125,2023-04-08T20:45:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_rebounds_over_under,kris dunn,False,5.5,-105,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,betmgm,player_threes_over_under,kris dunn,False,0.5,150,2023-04-08T15:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,betmgm,player_points_over_under,kris dunn,False,19.5,-120,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_assists_over_under,kris dunn,True,7.5,-146,2023-04-09T19:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,caesars,player_threes_over_under,kris dunn,False,0.5,104,2023-04-09T03:30:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_points_over_under,kris dunn,False,15.5,102,2023-04-09T20:00:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_points_over_under,kris dunn,False,16.5,-130,2023-04-09T20:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_points_over_under,kris dunn,False,17.5,-104,2023-04-09T20:15:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_points_over_under,kris dunn,False,18.5,-158,2023-04-09T21:00:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_points_over_under,kris dunn,False,19.5,-124,2023-04-09T14:15:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_points_over_under,kris dunn,False,21.5,108,2023-04-09T21:15:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_points_over_under,kris dunn,False,24.5,-106,2023-04-09T21:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_points_over_under,kris dunn,True,15.5,-130,2023-04-09T20:00:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_points_over_under,kris dunn,True,16.5,-105,2023-04-09T20:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_points_over_under,kris dunn,True,17.5,-155,2023-04-09T21:00:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_points_over_under,kris dunn,True,24.5,-125,2023-04-09T21:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_points_over_under,kris dunn,True,18.5,-120,2023-04-09T18:30:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_points_over_under,kris dunn,True,21.5,-140,2023-04-09T21:15:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_points_over_under,kris dunn,True,24.5,-130,2023-04-09T21:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_points_over_under,kris dunn,False,15.5,100,2023-04-09T20:00:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_points_over_under,kris dunn,False,16.5,-125,2023-04-09T20:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_points_over_under,kris dunn,False,17.5,120,2023-04-09T21:00:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_points_over_under,kris dunn,False,18.5,-110,2023-04-09T18:30:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_points_over_under,kris dunn,False,19.5,-130,2023-04-09T03:30:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_points_over_under,kris dunn,False,21.5,105,2023-04-09T21:15:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_points_over_under,kris dunn,False,24.5,-105,2023-04-09T21:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,caesars,player_points_over_under,kris dunn,True,18.5,-129,2023-04-09T17:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_points_over_under,kris dunn,True,19.5,100,2023-04-09T03:30:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_points_over_under,kris dunn,True,21.5,-144,2023-04-09T21:15:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_points_over_under,kris dunn,True,19.5,102,2023-04-09T14:15:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_points_over_under,kris dunn,True,18.5,118,2023-04-09T21:00:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_assists_over_under,kris dunn,True,8.5,-114,2023-04-09T20:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_assists_over_under,kris dunn,True,9.5,154,2023-04-09T21:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_assists_over_under,kris dunn,False,7.5,110,2023-04-09T19:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_assists_over_under,kris dunn,False,8.5,-114,2023-04-09T20:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_assists_over_under,kris dunn,False,9.5,-210,2023-04-09T21:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_assists_over_under,kris dunn,True,7.5,-150,2023-04-09T19:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_assists_over_under,kris dunn,True,8.5,-115,2023-04-09T20:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_assists_over_under,kris dunn,True,9.5,145,2023-04-09T21:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_assists_over_under,kris dunn,False,7.5,115,2023-04-09T19:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_assists_over_under,kris dunn,False,8.5,-115,2023-04-09T20:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_assists_over_under,kris dunn,False,9.5,-195,2023-04-09T21:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,caesars,player_assists_over_under,kris dunn,True,8.5,-115,2023-04-09T17:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,caesars,player_assists_over_under,kris dunn,True,9.5,-127,2023-04-09T03:30:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,caesars,player_assists_over_under,kris dunn,False,8.5,-119,2023-04-09T17:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_blocks_over_under,kris dunn,True,0.5,920,2023-04-09T21:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_blocks_over_under,kris dunn,False,0.5,-3500,2023-04-09T21:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_blocks_over_under,kris dunn,True,0.5,900,2023-04-09T21:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_blocks_over_under,kris dunn,False,0.5,-3000,2023-04-09T21:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,caesars,player_blocks_over_under,kris dunn,True,0.5,133,2023-04-09T03:30:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,caesars,player_blocks_over_under,kris dunn,False,0.5,-184,2023-04-09T03:30:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_points_over_under,kris dunn,True,15.5,-136,2023-04-09T20:00:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_points_over_under,kris dunn,True,16.5,-102,2023-04-09T20:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_points_over_under,kris dunn,True,17.5,-128,2023-04-09T20:15:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,caesars,player_points_over_under,kris dunn,True,19.5,-106,2023-04-09T03:30:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,caesars,player_points_over_under,kris dunn,False,18.5,-106,2023-04-09T17:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,caesars,player_assists_over_under,kris dunn,False,9.5,-108,2023-04-09T03:30:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_rebounds_over_under,kris dunn,True,3.5,-182,2023-04-09T20:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_steals_over_under,kris dunn,True,1.5,350,2023-04-09T21:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_steals_over_under,kris dunn,True,2.5,136,2023-04-09T19:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_steals_over_under,kris dunn,False,1.5,-550,2023-04-09T21:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_steals_over_under,kris dunn,False,2.5,-182,2023-04-09T19:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_steals_over_under,kris dunn,True,1.5,340,2023-04-09T21:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_steals_over_under,kris dunn,True,2.5,130,2023-04-09T19:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_steals_over_under,kris dunn,False,1.5,-525,2023-04-09T21:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_steals_over_under,kris dunn,False,2.5,-175,2023-04-09T19:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,caesars,player_steals_over_under,kris dunn,True,1.5,114,2023-04-09T03:30:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,caesars,player_steals_over_under,kris dunn,False,1.5,-157,2023-04-09T03:30:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_threes_over_under,kris dunn,True,0.5,116,2023-04-09T20:00:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_threes_over_under,kris dunn,True,1.5,390,2023-04-09T21:15:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_threes_over_under,kris dunn,True,2.5,640,2023-04-09T21:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_threes_over_under,kris dunn,False,0.5,-154,2023-04-09T20:00:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_threes_over_under,kris dunn,False,1.5,-650,2023-04-09T21:15:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_threes_over_under,kris dunn,True,0.5,115,2023-04-09T20:00:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_threes_over_under,kris dunn,True,1.5,370,2023-04-09T21:15:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_threes_over_under,kris dunn,True,2.5,650,2023-04-09T21:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_threes_over_under,kris dunn,False,0.5,-150,2023-04-09T20:00:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_threes_over_under,kris dunn,False,1.5,-600,2023-04-09T21:15:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_threes_over_under,kris dunn,False,2.5,-1400,2023-04-09T21:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,caesars,player_threes_over_under,kris dunn,True,0.5,-142,2023-04-09T03:30:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,caesars,player_points_over_under,kris dunn,False,19.5,-129,2023-04-09T03:30:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,caesars,player_rebounds_over_under,kris dunn,False,6.5,-125,2023-04-09T03:30:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,caesars,player_rebounds_over_under,kris dunn,False,5.5,116,2023-04-09T17:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_threes_over_under,kris dunn,False,2.5,-1450,2023-04-09T21:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,caesars,player_rebounds_over_under,kris dunn,True,5.5,-160,2023-04-09T17:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_rebounds_over_under,kris dunn,True,4.5,124,2023-04-09T20:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,caesars,player_rebounds_over_under,kris dunn,True,6.5,-109,2023-04-09T03:30:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_rebounds_over_under,kris dunn,True,5.5,124,2023-04-09T20:15:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_rebounds_over_under,kris dunn,True,6.5,110,2023-04-09T16:30:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_rebounds_over_under,kris dunn,True,8.5,-108,2023-04-09T21:15:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_rebounds_over_under,kris dunn,True,9.5,-180,2023-04-09T21:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_rebounds_over_under,kris dunn,False,4.5,-166,2023-04-09T20:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_rebounds_over_under,kris dunn,False,5.5,-166,2023-04-09T20:15:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_rebounds_over_under,kris dunn,False,6.5,-134,2023-04-09T16:30:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_rebounds_over_under,kris dunn,False,8.5,-122,2023-04-09T21:15:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_rebounds_over_under,kris dunn,False,9.5,134,2023-04-09T21:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_rebounds_over_under,kris dunn,True,3.5,-180,2023-04-09T20:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,fanduel,player_rebounds_over_under,kris dunn,False,3.5,136,2023-04-09T20:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_rebounds_over_under,kris dunn,True,5.5,125,2023-04-09T21:00:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_rebounds_over_under,kris dunn,True,4.5,125,2023-04-09T20:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_rebounds_over_under,kris dunn,False,6.5,-125,2023-04-09T03:30:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_rebounds_over_under,kris dunn,False,5.5,-165,2023-04-09T21:00:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_rebounds_over_under,kris dunn,False,8.5,-120,2023-04-09T21:15:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_rebounds_over_under,kris dunn,False,3.5,135,2023-04-09T20:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_rebounds_over_under,kris dunn,False,4.5,-165,2023-04-09T20:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_rebounds_over_under,kris dunn,True,9.5,-175,2023-04-09T21:30:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_rebounds_over_under,kris dunn,True,8.5,-110,2023-04-09T21:15:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_rebounds_over_under,kris dunn,True,6.5,-105,2023-04-09T03:30:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_rebounds_over_under,kris dunn,False,9.5,130,2023-04-09T21:30:02,Los Angeles Lakers,Utah Jazz
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,fanduel,player_blocks_over_under,kris dunn,True,0.5,1000,2023-10-28T03:20:08,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,fanduel,player_blocks_over_under,kris dunn,False,0.5,-10000,2023-10-28T03:50:07,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,draftkings,player_blocks_over_under,kris dunn,True,0.5,350,2023-10-28T02:01:46,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,barstool,player_assists_over_under,kris dunn,False,3.5,-165,2023-10-28T02:20:41,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,draftkings,player_blocks_over_under,kris dunn,False,0.5,-475,2023-10-28T02:01:46,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,barstool,player_blocks_over_under,kris dunn,True,0.5,320,2023-10-28T01:45:15,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,barstool,player_blocks_over_under,kris dunn,False,0.5,-550,2023-10-28T01:45:15,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,draftkings,player_points_over_under,kris dunn,True,4.5,550,2023-10-28T03:55:37,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,draftkings,player_points_over_under,kris dunn,True,2.5,120,2023-10-28T03:15:04,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,draftkings,player_points_over_under,kris dunn,True,3.5,100,2023-10-28T02:55:07,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,draftkings,player_points_over_under,kris dunn,True,6.5,105,2023-10-27T18:10:21,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,draftkings,player_points_over_under,kris dunn,False,0.5,-215,2023-10-28T03:50:04,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,barstool,player_assists_over_under,kris dunn,False,2.5,105,2023-10-28T02:10:05,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,draftkings,player_points_over_under,kris dunn,False,2.5,-160,2023-10-28T03:15:04,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,draftkings,player_points_over_under,kris dunn,False,3.5,-130,2023-10-28T02:55:07,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,draftkings,player_points_over_under,kris dunn,True,0.5,160,2023-10-28T03:50:04,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,barstool,player_assists_over_under,kris dunn,True,3.5,115,2023-10-28T02:20:41,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,fanduel,player_assists_over_under,kris dunn,True,3.0,1000,2023-10-28T03:55:10,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,draftkings,player_assists_over_under,kris dunn,False,3.5,-1200,2023-10-28T03:55:37,Utah Jazz,LA Clippers
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_steals_over_under,kris dunn,False,1.5,-375,2023-10-29T02:10:08,Phoenix Suns,Utah Jazz
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,draftkings,player_points_over_under,kris dunn,False,4.5,-1200,2023-10-28T03:55:37,Utah Jazz,LA Clippers
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_threes_over_under,kris dunn,True,0.5,195,2023-10-29T02:15:05,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_threes_over_under,kris dunn,False,0.5,-255,2023-10-29T02:15:05,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_threes_over_under,kris dunn,True,0.5,185,2023-10-29T02:15:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_threes_over_under,kris dunn,False,0.5,-275,2023-10-29T02:15:04,Phoenix Suns,Utah Jazz
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,fanduel,player_assists_over_under,kris dunn,True,2.5,174,2023-10-28T03:50:07,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,barstool,player_assists_over_under,kris dunn,True,2.5,-150,2023-10-28T02:10:05,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,fanduel,player_assists_over_under,kris dunn,True,3.5,126,2023-10-28T02:20:10,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,fanduel,player_assists_over_under,kris dunn,False,3.0,1000,2023-10-28T03:55:10,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,fanduel,player_assists_over_under,kris dunn,False,3.5,-168,2023-10-28T02:20:10,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,pinnacle,player_assists_over_under,kris dunn,True,3.5,123,2023-10-28T00:10:15,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,pinnacle,player_assists_over_under,kris dunn,False,3.5,-164,2023-10-28T00:10:15,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,draftkings,player_assists_over_under,kris dunn,True,2.5,170,2023-10-28T03:50:04,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,draftkings,player_assists_over_under,kris dunn,True,3.5,600,2023-10-28T03:55:37,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,draftkings,player_assists_over_under,kris dunn,False,2.5,-230,2023-10-28T03:50:04,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,fanduel,player_assists_over_under,kris dunn,False,2.5,-240,2023-10-28T03:50:07,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,draftkings,player_points_over_under,kris dunn,False,6.5,-130,2023-10-27T18:10:21,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,fanduel,player_steals_over_under,kris dunn,False,0.5,-132,2023-10-28T02:05:21,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,barstool,player_points_over_under,kris dunn,True,4.5,-105,2023-10-28T02:15:15,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,fanduel,player_steals_over_under,kris dunn,True,0.5,100,2023-10-28T02:05:21,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,fanduel,player_steals_over_under,kris dunn,True,1.0,1000,2023-10-28T03:55:10,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,fanduel,player_steals_over_under,kris dunn,True,1.5,520,2023-10-28T03:50:07,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,fanduel,player_steals_over_under,kris dunn,False,1.0,1000,2023-10-28T03:55:10,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,fanduel,player_steals_over_under,kris dunn,False,1.5,-1000,2023-10-28T03:50:07,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,draftkings,player_steals_over_under,kris dunn,True,0.5,-105,2023-10-28T02:10:08,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,draftkings,player_steals_over_under,kris dunn,True,1.5,1100,2023-10-28T03:55:37,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,barstool,player_rebounds_over_under,kris dunn,False,2.5,-120,2023-10-28T02:20:41,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,draftkings,player_steals_over_under,kris dunn,False,0.5,-125,2023-10-28T02:10:08,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,barstool,player_steals_over_under,kris dunn,True,0.5,-110,2023-10-28T02:10:05,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,barstool,player_steals_over_under,kris dunn,True,1.5,125,2023-10-28T02:20:41,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,barstool,player_steals_over_under,kris dunn,False,0.5,-130,2023-10-28T02:10:05,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,barstool,player_steals_over_under,kris dunn,False,1.5,-180,2023-10-28T02:20:41,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,draftkings,player_threes_over_under,kris dunn,True,0.5,240,2023-10-28T02:01:46,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,draftkings,player_threes_over_under,kris dunn,False,0.5,-320,2023-10-28T02:01:46,Utah Jazz,LA Clippers
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_steals_over_under,kris dunn,False,0.5,-130,2023-10-29T02:51:23,Phoenix Suns,Utah Jazz
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,draftkings,player_steals_over_under,kris dunn,False,1.5,-8000,2023-10-28T03:55:37,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,barstool,player_points_over_under,kris dunn,True,3.5,-150,2023-10-28T02:20:41,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,barstool,player_rebounds_over_under,kris dunn,False,1.5,-110,2023-10-28T02:15:15,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,barstool,player_rebounds_over_under,kris dunn,True,1.5,-130,2023-10-28T02:15:15,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,barstool,player_points_over_under,kris dunn,True,5.5,-130,2023-10-28T01:55:19,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,barstool,player_points_over_under,kris dunn,True,6.5,105,2023-10-27T18:10:15,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,barstool,player_points_over_under,kris dunn,False,3.5,105,2023-10-28T02:20:41,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,barstool,player_points_over_under,kris dunn,False,4.5,-135,2023-10-28T02:15:15,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,barstool,player_points_over_under,kris dunn,False,5.5,-110,2023-10-28T01:55:19,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,barstool,player_points_over_under,kris dunn,False,6.5,-135,2023-10-27T18:10:15,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,fanduel,player_rebounds_over_under,kris dunn,True,1.0,1000,2023-10-28T03:55:10,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,barstool,player_rebounds_over_under,kris dunn,True,2.5,-120,2023-10-28T02:20:41,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,fanduel,player_rebounds_over_under,kris dunn,True,1.5,200,2023-10-28T03:50:07,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,fanduel,player_rebounds_over_under,kris dunn,False,1.0,1000,2023-10-28T03:55:10,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,fanduel,player_rebounds_over_under,kris dunn,False,1.5,-280,2023-10-28T03:50:07,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,fanduel,player_rebounds_over_under,kris dunn,False,2.5,-194,2023-10-28T03:05:08,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,draftkings,player_rebounds_over_under,kris dunn,True,1.5,600,2023-10-28T03:55:37,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,draftkings,player_rebounds_over_under,kris dunn,True,2.5,145,2023-10-28T03:05:04,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,draftkings,player_rebounds_over_under,kris dunn,False,1.5,-1200,2023-10-28T03:55:37,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,draftkings,player_rebounds_over_under,kris dunn,False,2.5,-195,2023-10-28T03:05:04,Utah Jazz,LA Clippers
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,fanduel,player_rebounds_over_under,kris dunn,True,2.5,144,2023-10-28T03:05:08,Utah Jazz,LA Clippers
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_steals_over_under,kris dunn,True,1.5,240,2023-10-29T02:10:08,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_blocks_over_under,kris dunn,False,0.5,-6000,2023-10-29T04:21:45,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_steals_over_under,kris dunn,False,1.5,-1100,2023-10-29T04:21:45,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_assists_over_under,kris dunn,False,2.5,-165,2023-10-29T02:51:23,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_assists_over_under,kris dunn,False,3.5,-160,2023-10-29T02:26:40,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_blocks_over_under,kris dunn,True,0.5,1000,2023-10-29T04:11:10,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_blocks_over_under,kris dunn,False,0.5,-10000,2023-10-29T04:25:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_blocks_over_under,kris dunn,True,0.5,1000,2023-10-29T04:21:45,Phoenix Suns,Utah Jazz
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,barstool,player_threes_over_under,kris dunn,True,0.5,230,2023-10-28T01:45:15,Utah Jazz,LA Clippers
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_blocks_over_under,kris dunn,True,0.5,250,2023-10-29T02:26:40,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_blocks_over_under,kris dunn,True,1.5,2200,2023-10-29T01:50:12,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_blocks_over_under,kris dunn,False,0.5,-400,2023-10-29T02:26:40,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_blocks_over_under,kris dunn,False,1.5,-10000,2023-10-29T01:50:12,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_points_over_under,kris dunn,True,3.5,-154,2023-10-29T02:50:49,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_points_over_under,kris dunn,True,4.5,-132,2023-10-29T02:45:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_points_over_under,kris dunn,True,5.5,116,2023-10-29T02:40:08,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_points_over_under,kris dunn,True,6.5,102,2023-10-29T02:30:07,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_points_over_under,kris dunn,False,3.5,120,2023-10-29T02:50:49,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_assists_over_under,kris dunn,True,3.5,110,2023-10-29T02:26:40,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_assists_over_under,kris dunn,True,2.5,115,2023-10-29T02:51:23,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_assists_over_under,kris dunn,False,3.5,-500,2023-10-29T04:25:37,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_assists_over_under,kris dunn,False,2.5,-160,2023-10-29T02:51:20,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_assists_over_under,kris dunn,True,0.5,122,2023-10-29T04:00:16,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_assists_over_under,kris dunn,True,1.5,182,2023-10-29T04:20:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_assists_over_under,kris dunn,True,2.5,320,2023-10-29T04:25:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_assists_over_under,kris dunn,True,3.5,116,2023-10-29T02:25:31,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_assists_over_under,kris dunn,False,0.5,-162,2023-10-29T04:00:16,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_assists_over_under,kris dunn,False,1.5,-250,2023-10-29T04:20:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_assists_over_under,kris dunn,False,2.5,-500,2023-10-29T04:25:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_points_over_under,kris dunn,False,4.5,104,2023-10-29T02:45:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_assists_over_under,kris dunn,False,3.5,-154,2023-10-29T02:25:31,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,pinnacle,player_assists_over_under,kris dunn,False,3.5,-163,2023-10-28T19:40:43,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_assists_over_under,kris dunn,True,0.5,120,2023-10-29T04:00:21,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_assists_over_under,kris dunn,True,1.5,120,2023-10-29T04:21:45,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_assists_over_under,kris dunn,True,2.5,120,2023-10-29T02:51:20,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_assists_over_under,kris dunn,True,3.5,320,2023-10-29T04:25:37,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_assists_over_under,kris dunn,False,0.5,-160,2023-10-29T04:00:21,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_assists_over_under,kris dunn,False,1.5,-155,2023-10-29T04:21:45,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,pinnacle,player_assists_over_under,kris dunn,True,3.5,121,2023-10-28T19:40:43,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_points_over_under,kris dunn,False,5.5,-148,2023-10-29T02:40:08,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_points_over_under,kris dunn,False,6.5,-130,2023-10-29T02:30:07,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,kris dunn,True,2.5,115,2023-10-29T04:00:21,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_rebounds_over_under,kris dunn,True,2.5,700,2023-10-29T04:25:37,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_rebounds_over_under,kris dunn,False,1.5,-255,2023-10-29T04:00:21,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_rebounds_over_under,kris dunn,False,2.5,-1800,2023-10-29T04:25:37,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_rebounds_over_under,kris dunn,True,1.5,-130,2023-10-29T02:51:23,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_rebounds_over_under,kris dunn,True,2.5,125,2023-10-29T02:30:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_rebounds_over_under,kris dunn,False,1.5,-110,2023-10-29T02:51:23,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_rebounds_over_under,kris dunn,False,2.5,-180,2023-10-29T02:30:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_rebounds_over_under,kris dunn,True,1.5,185,2023-10-29T04:00:21,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_steals_over_under,kris dunn,True,0.5,580,2023-10-29T04:15:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_steals_over_under,kris dunn,True,2.5,1000,2023-10-29T04:25:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_steals_over_under,kris dunn,False,0.5,-1200,2023-10-29T04:15:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_steals_over_under,kris dunn,False,1.5,-2000,2023-10-29T04:20:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_steals_over_under,kris dunn,False,2.5,-5000,2023-10-29T04:25:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_steals_over_under,kris dunn,True,0.5,550,2023-10-29T04:15:10,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_steals_over_under,kris dunn,True,1.5,550,2023-10-29T04:21:45,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_steals_over_under,kris dunn,False,0.5,-1100,2023-10-29T04:15:10,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_steals_over_under,kris dunn,True,1.5,750,2023-10-29T04:20:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_steals_over_under,kris dunn,True,0.5,-110,2023-10-29T02:51:23,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_rebounds_over_under,kris dunn,False,2.5,-900,2023-10-29T04:25:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_rebounds_over_under,kris dunn,True,2.5,490,2023-10-29T04:25:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,kris dunn,True,3.5,-150,2023-10-29T03:55:11,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,kris dunn,True,4.5,350,2023-10-29T04:25:37,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,kris dunn,True,5.5,-115,2023-10-29T04:10:54,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,kris dunn,True,6.5,105,2023-10-29T02:30:18,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,kris dunn,False,2.5,-150,2023-10-29T04:00:21,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,kris dunn,False,3.5,115,2023-10-29T03:55:11,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,kris dunn,False,4.5,-550,2023-10-29T04:25:37,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_rebounds_over_under,kris dunn,False,1.5,116,2023-10-29T04:05:05,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,kris dunn,False,5.5,-115,2023-10-29T04:10:54,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_points_over_under,kris dunn,True,4.5,-130,2023-10-29T02:51:23,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_points_over_under,kris dunn,True,5.5,-140,2023-10-29T02:30:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_points_over_under,kris dunn,True,6.5,-130,2023-10-29T02:26:40,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_points_over_under,kris dunn,False,4.5,-110,2023-10-29T02:51:23,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_points_over_under,kris dunn,False,5.5,100,2023-10-29T02:30:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_points_over_under,kris dunn,False,6.5,-110,2023-10-29T02:26:40,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_rebounds_over_under,kris dunn,True,1.5,-154,2023-10-29T04:05:05,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,kris dunn,False,6.5,-140,2023-10-29T02:30:18,Phoenix Suns,Utah Jazz
+2023-10-28,36cc02aebbd57205da4ee51be27f1424,barstool,player_threes_over_under,kris dunn,False,0.5,-350,2023-10-28T01:45:15,Utah Jazz,LA Clippers

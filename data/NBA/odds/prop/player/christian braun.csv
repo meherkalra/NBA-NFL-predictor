@@ -1,0 +1,787 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_rebounds_over_under,christian braun,False,3.5,-800,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_threes_over_under,christian braun,False,0.5,-7000,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_threes_over_under,christian braun,True,0.5,1000,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_steals_over_under,christian braun,False,0.5,-7000,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_steals_over_under,christian braun,True,0.5,1000,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_rebounds_over_under,christian braun,False,4.5,-260,2023-03-23T00:45:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_rebounds_over_under,christian braun,False,2.5,-144,2023-03-22T23:45:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_rebounds_over_under,christian braun,True,3.5,450,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_rebounds_over_under,christian braun,True,2.5,108,2023-03-22T23:45:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,christian braun,False,3.5,116,2023-03-22T23:30:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,christian braun,False,2.5,-188,2023-03-23T00:45:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_rebounds_over_under,christian braun,True,4.5,188,2023-03-23T00:45:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,christian braun,True,3.5,-152,2023-03-22T23:30:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,christian braun,False,0.5,-320,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_assists_over_under,christian braun,True,2.5,920,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_assists_over_under,christian braun,False,1.5,-205,2023-03-23T00:30:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_assists_over_under,christian braun,False,2.5,-3500,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_assists_over_under,christian braun,True,1.5,152,2023-03-23T00:30:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_blocks_over_under,christian braun,False,0.5,-50000,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,christian braun,True,0.5,225,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,christian braun,True,2.5,140,2023-03-23T00:45:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_blocks_over_under,christian braun,True,0.5,1000,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,christian braun,True,4.5,102,2023-04-01T03:40:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_assists_over_under,christian braun,True,1.5,490,2023-04-01T04:42:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_assists_over_under,christian braun,True,2.5,188,2023-04-01T03:36:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_assists_over_under,christian braun,False,1.5,-900,2023-04-01T04:42:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_blocks_over_under,christian braun,True,0.5,1000,2023-04-01T04:34:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_blocks_over_under,christian braun,True,1.5,750,2023-04-01T04:28:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_blocks_over_under,christian braun,False,0.5,-50000,2023-04-01T04:42:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_blocks_over_under,christian braun,False,1.5,-2000,2023-04-01T04:28:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,christian braun,True,3.5,-166,2023-04-01T03:56:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,christian braun,True,5.5,-108,2023-04-01T04:08:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_assists_over_under,christian braun,False,2.5,-260,2023-04-01T03:36:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,christian braun,True,7.5,112,2023-04-01T03:18:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_threes_over_under,christian braun,False,1.5,-2000,2023-04-01T04:42:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_threes_over_under,christian braun,False,0.5,-215,2023-04-01T04:24:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_threes_over_under,christian braun,True,1.5,750,2023-04-01T04:42:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_threes_over_under,christian braun,True,0.5,158,2023-04-01T04:24:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_steals_over_under,christian braun,False,1.5,-3500,2023-04-01T04:42:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_steals_over_under,christian braun,False,0.5,-182,2023-04-01T03:34:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_steals_over_under,christian braun,True,1.5,920,2023-04-01T04:42:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_steals_over_under,christian braun,True,0.5,134,2023-04-01T03:34:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,christian braun,True,6.5,124,2023-04-01T04:10:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_rebounds_over_under,christian braun,False,3.5,182,2023-04-01T04:24:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_rebounds_over_under,christian braun,False,2.5,130,2023-04-01T04:06:02,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_rebounds_over_under,christian braun,True,5.5,310,2023-04-01T04:42:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_rebounds_over_under,christian braun,True,3.5,-250,2023-04-01T04:24:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_rebounds_over_under,christian braun,True,2.5,-174,2023-04-01T04:06:02,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,christian braun,False,12.5,-240,2023-04-01T04:40:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_rebounds_over_under,christian braun,False,5.5,-470,2023-04-01T04:42:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,christian braun,True,8.5,-174,2023-04-01T04:24:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,christian braun,False,11.5,-114,2023-04-01T04:42:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,christian braun,True,9.5,116,2023-04-01T02:50:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,christian braun,True,10.5,-188,2023-04-01T04:30:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,christian braun,True,11.5,-118,2023-04-01T04:42:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,christian braun,False,3.5,124,2023-04-01T03:56:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,christian braun,False,4.5,-136,2023-04-01T03:40:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,christian braun,True,12.5,174,2023-04-01T04:40:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,christian braun,False,6.5,-166,2023-04-01T04:10:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,christian braun,False,7.5,-148,2023-04-01T03:18:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,christian braun,False,8.5,130,2023-04-01T04:24:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,christian braun,False,9.5,-154,2023-04-01T02:50:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,christian braun,False,10.5,140,2023-04-01T04:30:01,Phoenix Suns,Denver Nuggets
+2023-03-31,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,christian braun,False,5.5,-122,2023-04-01T04:08:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_points_over_under,christian braun,True,16.5,-194,2023-04-07T04:00:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_points_over_under,christian braun,False,14.5,122,2023-04-07T03:30:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_points_over_under,christian braun,True,17.5,-152,2023-04-07T03:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_points_over_under,christian braun,False,9.5,-106,2023-04-07T02:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_points_over_under,christian braun,False,10.5,-138,2023-04-07T02:30:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_points_over_under,christian braun,False,11.5,114,2023-04-07T03:15:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_points_over_under,christian braun,False,16.5,144,2023-04-07T04:00:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_points_over_under,christian braun,True,17.5,-150,2023-04-07T03:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_points_over_under,christian braun,True,9.5,-120,2023-04-07T02:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_points_over_under,christian braun,True,10.5,100,2023-04-07T02:30:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_points_over_under,christian braun,True,11.5,-145,2023-04-07T03:15:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_points_over_under,christian braun,True,14.5,-160,2023-04-07T03:30:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_points_over_under,christian braun,True,16.5,-185,2023-04-07T04:00:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_points_over_under,christian braun,True,14.5,-162,2023-04-07T03:30:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_points_over_under,christian braun,False,17.5,114,2023-04-07T03:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_points_over_under,christian braun,True,11.5,-152,2023-04-07T03:15:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_blocks_over_under,christian braun,True,0.5,1000,2023-04-07T04:00:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_points_over_under,christian braun,True,9.5,-125,2023-04-07T02:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_points_over_under,christian braun,False,10.5,-135,2023-04-07T02:30:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_assists_over_under,christian braun,True,1.5,-245,2023-04-07T03:15:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_assists_over_under,christian braun,True,3.5,198,2023-04-07T04:00:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_assists_over_under,christian braun,False,1.5,178,2023-04-07T03:15:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_assists_over_under,christian braun,False,3.5,-275,2023-04-07T04:00:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_assists_over_under,christian braun,True,1.5,-230,2023-04-07T03:00:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_points_over_under,christian braun,True,10.5,104,2023-04-07T02:30:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_assists_over_under,christian braun,True,2.5,125,2023-04-07T02:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_assists_over_under,christian braun,False,1.5,170,2023-04-07T03:00:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_assists_over_under,christian braun,False,2.5,-170,2023-04-07T02:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_assists_over_under,christian braun,False,3.5,-260,2023-04-07T04:00:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_blocks_over_under,christian braun,False,0.5,-4000,2023-04-07T04:00:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_blocks_over_under,christian braun,True,0.5,1000,2023-04-07T04:00:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_blocks_over_under,christian braun,False,0.5,-5000,2023-04-07T04:00:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_assists_over_under,christian braun,True,3.5,190,2023-04-07T04:00:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_points_over_under,christian braun,False,11.5,110,2023-04-07T03:15:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_points_over_under,christian braun,False,9.5,-110,2023-04-07T02:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_points_over_under,christian braun,False,16.5,140,2023-04-07T04:00:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_threes_over_under,christian braun,False,2.5,-400,2023-04-07T04:00:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_threes_over_under,christian braun,False,1.5,-170,2023-04-07T03:30:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_threes_over_under,christian braun,False,0.5,100,2023-04-07T03:00:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_threes_over_under,christian braun,True,2.5,275,2023-04-07T04:00:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_threes_over_under,christian braun,True,1.5,130,2023-04-07T03:30:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_threes_over_under,christian braun,True,0.5,-135,2023-04-07T03:00:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_threes_over_under,christian braun,False,2.5,-420,2023-04-07T04:00:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_threes_over_under,christian braun,False,1.5,-178,2023-04-07T03:30:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_threes_over_under,christian braun,False,0.5,104,2023-04-07T03:15:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_threes_over_under,christian braun,True,2.5,280,2023-04-07T04:00:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_threes_over_under,christian braun,True,1.5,132,2023-04-07T03:30:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_threes_over_under,christian braun,True,0.5,-138,2023-04-07T03:15:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_steals_over_under,christian braun,False,1.5,-195,2023-04-07T02:00:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_steals_over_under,christian braun,False,0.5,-115,2023-04-07T03:00:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_steals_over_under,christian braun,True,2.5,310,2023-04-07T04:00:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_steals_over_under,christian braun,False,2.5,-475,2023-04-07T04:00:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_steals_over_under,christian braun,True,0.5,-115,2023-04-07T03:00:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_points_over_under,christian braun,False,14.5,120,2023-04-07T03:30:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_points_over_under,christian braun,False,17.5,115,2023-04-07T03:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_rebounds_over_under,christian braun,True,4.5,-174,2023-04-07T04:00:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_rebounds_over_under,christian braun,True,5.5,158,2023-04-07T03:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_steals_over_under,christian braun,True,1.5,145,2023-04-07T02:00:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_rebounds_over_under,christian braun,False,5.5,-215,2023-04-07T03:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_rebounds_over_under,christian braun,True,4.5,-170,2023-04-07T04:00:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_rebounds_over_under,christian braun,True,5.5,155,2023-04-07T03:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_rebounds_over_under,christian braun,False,4.5,130,2023-04-07T04:00:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_rebounds_over_under,christian braun,False,5.5,-205,2023-04-07T03:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_steals_over_under,christian braun,True,0.5,-118,2023-04-07T03:15:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_steals_over_under,christian braun,True,2.5,320,2023-04-07T04:00:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_steals_over_under,christian braun,False,0.5,-112,2023-04-07T03:15:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_steals_over_under,christian braun,False,2.5,-490,2023-04-07T04:00:02,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_rebounds_over_under,christian braun,False,4.5,125,2023-04-07T04:00:02,Phoenix Suns,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_blocks_over_under,christian braun,False,0.5,-265,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_rebounds_over_under,christian braun,True,3.5,-154,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_points_over_under,christian braun,True,8.5,100,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_points_over_under,christian braun,False,8.5,-130,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_points_over_under,christian braun,True,8.5,-104,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_points_over_under,christian braun,False,8.5,-131,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_rebounds_over_under,christian braun,True,3.5,-150,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_rebounds_over_under,christian braun,False,3.5,120,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_rebounds_over_under,christian braun,False,3.5,112,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_blocks_over_under,christian braun,True,0.5,210,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_steals_over_under,christian braun,False,1.5,-210,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_steals_over_under,christian braun,True,1.5,159,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_steals_over_under,christian braun,False,1.5,-224,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_threes_over_under,christian braun,True,0.5,-185,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_threes_over_under,christian braun,False,0.5,150,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_threes_over_under,christian braun,True,0.5,-189,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_threes_over_under,christian braun,False,0.5,136,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_steals_over_under,christian braun,True,1.5,170,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_steals_over_under,christian braun,False,1.5,-192,2023-04-09T19:45:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_steals_over_under,christian braun,True,0.5,475,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_steals_over_under,christian braun,True,1.5,140,2023-04-09T19:45:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_steals_over_under,christian braun,False,0.5,-900,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_threes_over_under,christian braun,True,1.5,-118,2023-04-09T19:45:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,caesars,player_steals_over_under,christian braun,True,1.5,110,2023-04-09T19:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,caesars,player_steals_over_under,christian braun,False,1.5,-151,2023-04-09T19:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_steals_over_under,christian braun,True,1.5,142,2023-04-09T19:45:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_threes_over_under,christian braun,False,1.5,-112,2023-04-09T19:45:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_steals_over_under,christian braun,False,1.5,-185,2023-04-09T19:45:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,caesars,player_rebounds_over_under,christian braun,False,5.5,-151,2023-04-09T19:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_rebounds_over_under,christian braun,False,4.5,-115,2023-04-09T20:45:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_rebounds_over_under,christian braun,False,5.5,105,2023-04-09T19:45:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_threes_over_under,christian braun,True,0.5,500,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_rebounds_over_under,christian braun,False,3.5,-205,2023-04-09T21:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_rebounds_over_under,christian braun,False,2.5,-160,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_rebounds_over_under,christian braun,True,5.5,-140,2023-04-09T19:45:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_rebounds_over_under,christian braun,True,4.5,-115,2023-04-09T20:45:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_rebounds_over_under,christian braun,True,3.5,155,2023-04-09T21:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_rebounds_over_under,christian braun,True,2.5,120,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_rebounds_over_under,christian braun,False,5.5,106,2023-04-09T19:45:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_rebounds_over_under,christian braun,True,5.5,-140,2023-04-09T19:45:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,caesars,player_points_over_under,christian braun,False,13.5,-121,2023-04-09T19:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,caesars,player_rebounds_over_under,christian braun,True,5.5,110,2023-04-09T19:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_threes_over_under,christian braun,True,1.5,175,2023-04-09T20:00:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,caesars,player_threes_over_under,christian braun,False,1.5,106,2023-04-09T19:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_threes_over_under,christian braun,False,1.5,-245,2023-04-09T20:00:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_assists_over_under,christian braun,True,3.5,154,2023-04-09T19:45:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,caesars,player_points_over_under,christian braun,True,13.5,-113,2023-04-09T19:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_assists_over_under,christian braun,False,3.5,-210,2023-04-09T19:45:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_assists_over_under,christian braun,True,0.5,310,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_assists_over_under,christian braun,True,1.5,180,2023-04-09T20:45:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_assists_over_under,christian braun,True,2.5,125,2023-04-09T19:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_assists_over_under,christian braun,True,3.5,145,2023-04-09T19:45:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_assists_over_under,christian braun,False,0.5,-475,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_assists_over_under,christian braun,False,1.5,-245,2023-04-09T20:45:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_assists_over_under,christian braun,False,2.5,-155,2023-04-09T19:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_assists_over_under,christian braun,False,3.5,-195,2023-04-09T19:45:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,caesars,player_assists_over_under,christian braun,True,2.5,116,2023-04-09T19:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,caesars,player_assists_over_under,christian braun,False,2.5,-160,2023-04-09T19:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_blocks_over_under,christian braun,True,0.5,198,2023-04-09T19:45:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_blocks_over_under,christian braun,False,0.5,-275,2023-04-09T19:45:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_blocks_over_under,christian braun,True,0.5,700,2023-04-09T21:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_blocks_over_under,christian braun,False,0.5,-1600,2023-04-09T21:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,caesars,player_blocks_over_under,christian braun,True,0.5,165,2023-04-09T19:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,caesars,player_blocks_over_under,christian braun,False,0.5,-234,2023-04-09T19:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_points_over_under,christian braun,True,16.5,100,2023-04-09T19:45:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,fanduel,player_points_over_under,christian braun,False,16.5,-132,2023-04-09T19:45:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_points_over_under,christian braun,True,13.5,-140,2023-04-09T19:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,caesars,player_threes_over_under,christian braun,True,1.5,-145,2023-04-09T19:15:01,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_threes_over_under,christian braun,False,0.5,-1000,2023-04-09T21:30:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_points_over_under,christian braun,False,13.5,110,2023-04-09T19:30:02,Denver Nuggets,Sacramento Kings
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_threes_over_under,christian braun,False,0.5,-250,2023-04-20T01:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_assists_over_under,christian braun,False,0.5,-140,2023-04-20T01:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_assists_over_under,christian braun,True,0.5,105,2023-04-20T01:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_threes_over_under,christian braun,True,0.5,175,2023-04-20T01:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_threes_over_under,christian braun,False,0.5,-230,2023-04-20T01:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_threes_over_under,christian braun,True,0.5,185,2023-04-20T01:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_steals_over_under,christian braun,True,0.5,110,2023-04-20T01:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_steals_over_under,christian braun,False,0.5,-140,2023-04-20T01:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_steals_over_under,christian braun,True,0.5,110,2023-04-20T01:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_rebounds_over_under,christian braun,False,2.5,-135,2023-04-20T01:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_steals_over_under,christian braun,False,0.5,-145,2023-04-20T01:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_rebounds_over_under,christian braun,False,2.5,-130,2023-04-20T01:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_rebounds_over_under,christian braun,True,2.5,100,2023-04-20T01:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_points_over_under,christian braun,False,3.5,105,2023-04-20T01:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_points_over_under,christian braun,True,3.5,-140,2023-04-20T01:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_blocks_over_under,christian braun,False,0.5,-400,2023-04-20T01:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_blocks_over_under,christian braun,True,0.5,280,2023-04-20T01:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_blocks_over_under,christian braun,False,0.5,-380,2023-04-20T01:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_rebounds_over_under,christian braun,True,2.5,100,2023-04-20T01:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_blocks_over_under,christian braun,True,0.5,290,2023-04-20T01:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_rebounds_over_under,christian braun,False,1.5,140,2023-04-23T20:45:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_steals_over_under,christian braun,True,0.5,130,2023-04-23T20:15:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_steals_over_under,christian braun,False,0.5,-160,2023-04-23T20:15:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_steals_over_under,christian braun,True,0.5,125,2023-04-23T20:15:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_threes_over_under,christian braun,True,0.5,190,2023-04-23T20:15:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,pinnacle,player_threes_over_under,christian braun,True,0.5,184,2023-04-23T20:15:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,pinnacle,player_threes_over_under,christian braun,False,0.5,-268,2023-04-23T20:15:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_threes_over_under,christian braun,False,0.5,-235,2023-04-23T20:15:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_rebounds_over_under,christian braun,True,1.5,-190,2023-04-23T20:45:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_steals_over_under,christian braun,False,0.5,-165,2023-04-23T20:15:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,pinnacle,player_rebounds_over_under,christian braun,False,1.5,143,2023-04-23T20:45:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_blocks_over_under,christian braun,True,0.5,370,2023-04-23T20:15:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_points_over_under,christian braun,False,3.5,100,2023-04-23T20:45:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_points_over_under,christian braun,True,3.5,-130,2023-04-23T20:15:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,pinnacle,player_points_over_under,christian braun,False,3.5,-101,2023-04-23T20:45:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,pinnacle,player_points_over_under,christian braun,True,3.5,-132,2023-04-23T20:45:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_blocks_over_under,christian braun,False,0.5,-550,2023-04-23T20:15:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_blocks_over_under,christian braun,True,0.5,350,2023-04-23T20:15:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_blocks_over_under,christian braun,False,0.5,-500,2023-04-23T20:15:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_assists_over_under,christian braun,False,0.5,-145,2023-04-23T20:15:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_threes_over_under,christian braun,True,0.5,180,2023-04-23T20:15:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_assists_over_under,christian braun,True,0.5,110,2023-04-23T20:15:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,pinnacle,player_rebounds_over_under,christian braun,True,1.5,-197,2023-04-23T20:45:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_threes_over_under,christian braun,False,0.5,-250,2023-04-23T20:15:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,pinnacle,player_assists_over_under,christian braun,True,0.5,110,2023-04-23T20:15:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,pinnacle,player_assists_over_under,christian braun,False,0.5,-146,2023-04-23T20:15:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_blocks_over_under,christian braun,True,0.5,350,2023-04-25T22:30:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_blocks_over_under,christian braun,False,0.5,-550,2023-04-25T22:30:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,pinnacle,player_points_over_under,christian braun,True,2.5,-143,2023-04-25T22:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,pinnacle,player_points_over_under,christian braun,True,3.5,106,2023-04-24T15:45:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,pinnacle,player_points_over_under,christian braun,False,2.5,107,2023-04-25T22:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,pinnacle,player_points_over_under,christian braun,False,3.5,-141,2023-04-24T15:45:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_points_over_under,christian braun,True,2.5,-140,2023-04-25T22:30:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_points_over_under,christian braun,False,2.5,105,2023-04-25T22:30:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,pinnacle,player_rebounds_over_under,christian braun,True,1.5,-213,2023-04-25T22:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,pinnacle,player_rebounds_over_under,christian braun,True,2.5,151,2023-04-24T15:45:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,pinnacle,player_rebounds_over_under,christian braun,False,1.5,152,2023-04-25T22:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,pinnacle,player_rebounds_over_under,christian braun,False,2.5,-210,2023-04-24T15:45:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_rebounds_over_under,christian braun,True,1.5,-200,2023-04-25T22:30:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_rebounds_over_under,christian braun,False,1.5,150,2023-04-25T22:30:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_steals_over_under,christian braun,True,0.5,150,2023-04-25T22:30:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_steals_over_under,christian braun,False,0.5,-185,2023-04-25T22:30:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_steals_over_under,christian braun,True,0.5,145,2023-04-25T22:30:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_steals_over_under,christian braun,False,0.5,-190,2023-04-25T22:30:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,pinnacle,player_threes_over_under,christian braun,True,0.5,208,2023-04-25T22:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,pinnacle,player_threes_over_under,christian braun,False,0.5,-314,2023-04-25T22:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_threes_over_under,christian braun,True,0.5,210,2023-04-25T22:30:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_threes_over_under,christian braun,False,0.5,-265,2023-04-25T22:30:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_threes_over_under,christian braun,False,0.5,-275,2023-04-25T22:30:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_blocks_over_under,christian braun,True,0.5,333,2023-04-25T22:30:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_blocks_over_under,christian braun,False,0.5,-475,2023-04-25T22:30:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_threes_over_under,christian braun,True,0.5,200,2023-04-25T22:30:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_assists_over_under,christian braun,False,0.5,-115,2023-04-25T22:30:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_assists_over_under,christian braun,True,0.5,-120,2023-04-25T22:30:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,pinnacle,player_assists_over_under,christian braun,False,0.5,-113,2023-04-25T22:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,pinnacle,player_assists_over_under,christian braun,True,0.5,-117,2023-04-25T22:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-29,932d59ce51817c331550ddc99a1235b3,draftkings,player_blocks_over_under,christian braun,True,0.5,430,2023-04-30T00:15:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,betmgm,player_threes_over_under,christian braun,False,0.5,-210,2023-04-30T00:15:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,betmgm,player_threes_over_under,christian braun,True,0.5,155,2023-04-30T00:15:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,draftkings,player_threes_over_under,christian braun,False,0.5,-205,2023-04-30T00:15:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,draftkings,player_threes_over_under,christian braun,True,0.5,165,2023-04-30T00:15:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,pinnacle,player_threes_over_under,christian braun,False,0.5,-225,2023-04-30T00:15:01,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,pinnacle,player_threes_over_under,christian braun,True,0.5,160,2023-04-30T00:15:01,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,betmgm,player_steals_over_under,christian braun,False,0.5,-275,2023-04-30T00:15:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,betmgm,player_steals_over_under,christian braun,True,0.5,190,2023-04-30T00:15:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,betmgm,player_assists_over_under,christian braun,False,0.5,-140,2023-04-30T00:15:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,draftkings,player_steals_over_under,christian braun,False,0.5,-250,2023-04-30T00:15:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,betmgm,player_rebounds_over_under,christian braun,False,1.5,-105,2023-04-30T00:15:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,betmgm,player_rebounds_over_under,christian braun,True,1.5,-125,2023-04-30T00:15:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,pinnacle,player_rebounds_over_under,christian braun,False,1.5,-105,2023-04-30T00:15:01,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,pinnacle,player_rebounds_over_under,christian braun,True,1.5,-127,2023-04-30T00:15:01,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,betmgm,player_points_over_under,christian braun,False,3.5,-140,2023-04-30T00:15:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,betmgm,player_points_over_under,christian braun,True,3.5,105,2023-04-30T00:15:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,pinnacle,player_points_over_under,christian braun,True,3.5,107,2023-04-30T00:15:01,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,betmgm,player_blocks_over_under,christian braun,False,0.5,-650,2023-04-30T00:15:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,betmgm,player_blocks_over_under,christian braun,True,0.5,400,2023-04-30T00:15:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,draftkings,player_blocks_over_under,christian braun,False,0.5,-600,2023-04-30T00:15:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,pinnacle,player_assists_over_under,christian braun,True,0.5,107,2023-04-30T00:15:01,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,pinnacle,player_assists_over_under,christian braun,False,0.5,-143,2023-04-30T00:15:01,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,draftkings,player_steals_over_under,christian braun,True,0.5,200,2023-04-30T00:15:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,betmgm,player_assists_over_under,christian braun,True,0.5,105,2023-04-30T00:15:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,pinnacle,player_points_over_under,christian braun,False,3.5,-143,2023-04-30T00:15:01,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,pinnacle,player_threes_over_under,christian braun,False,0.5,-394,2023-04-28T03:00:01,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,betmgm,player_steals_over_under,christian braun,True,0.5,170,2023-05-01T23:00:01,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,draftkings,player_threes_over_under,christian braun,True,0.5,190,2023-05-01T23:00:01,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,draftkings,player_threes_over_under,christian braun,False,0.5,-235,2023-05-01T23:00:01,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,betmgm,player_threes_over_under,christian braun,True,0.5,180,2023-05-01T23:00:01,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,betmgm,player_threes_over_under,christian braun,False,0.5,-250,2023-05-01T23:00:01,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,draftkings,player_steals_over_under,christian braun,False,0.5,-220,2023-05-01T23:00:01,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,draftkings,player_steals_over_under,christian braun,True,0.5,180,2023-05-01T23:00:01,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,betmgm,player_rebounds_over_under,christian braun,False,1.5,110,2023-05-01T23:00:01,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,betmgm,player_rebounds_over_under,christian braun,True,1.5,-150,2023-05-01T23:00:01,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,pinnacle,player_rebounds_over_under,christian braun,False,1.5,-105,2023-04-28T03:00:01,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,pinnacle,player_rebounds_over_under,christian braun,True,1.5,-127,2023-04-28T03:00:01,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,betmgm,player_points_over_under,christian braun,False,2.5,100,2023-05-01T23:00:01,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,betmgm,player_points_over_under,christian braun,True,2.5,-135,2023-05-01T23:00:01,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,pinnacle,player_points_over_under,christian braun,False,3.5,-141,2023-04-28T03:00:01,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,pinnacle,player_points_over_under,christian braun,True,3.5,106,2023-04-28T03:00:01,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,betmgm,player_blocks_over_under,christian braun,False,0.5,-650,2023-05-01T23:00:01,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,betmgm,player_blocks_over_under,christian braun,True,0.5,375,2023-05-01T23:00:01,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,draftkings,player_blocks_over_under,christian braun,False,0.5,-570,2023-05-01T23:00:01,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,draftkings,player_blocks_over_under,christian braun,True,0.5,410,2023-05-01T23:00:01,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,betmgm,player_assists_over_under,christian braun,False,0.5,-140,2023-05-01T23:00:01,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,betmgm,player_assists_over_under,christian braun,True,0.5,105,2023-05-01T23:00:01,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,pinnacle,player_assists_over_under,christian braun,False,0.5,-204,2023-04-28T03:00:01,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,pinnacle,player_assists_over_under,christian braun,True,0.5,147,2023-04-28T03:00:01,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,pinnacle,player_threes_over_under,christian braun,True,0.5,244,2023-04-28T03:00:01,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,betmgm,player_steals_over_under,christian braun,False,0.5,-225,2023-05-01T23:00:01,Denver Nuggets,Phoenix Suns
+2023-05-05,23dfe19c76c874e16c253d990953713c,draftkings,player_blocks_over_under,christian braun,False,0.5,-520,2023-05-05T17:45:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,draftkings,player_blocks_over_under,christian braun,True,0.5,380,2023-05-05T17:45:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,betmgm,player_assists_over_under,christian braun,False,0.5,-145,2023-05-05T17:45:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,betmgm,player_assists_over_under,christian braun,True,0.5,110,2023-05-05T17:45:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,pinnacle,player_assists_over_under,christian braun,False,3.5,-185,2023-05-02T15:30:02,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,pinnacle,player_assists_over_under,christian braun,False,0.5,-146,2023-05-05T17:45:02,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,betmgm,player_steals_over_under,christian braun,False,0.5,-190,2023-05-05T17:45:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,betmgm,player_blocks_over_under,christian braun,True,0.5,360,2023-05-05T17:45:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,betmgm,player_threes_over_under,christian braun,False,0.5,-275,2023-05-05T17:45:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,betmgm,player_threes_over_under,christian braun,True,0.5,190,2023-05-05T17:45:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,draftkings,player_threes_over_under,christian braun,False,0.5,-250,2023-05-05T17:45:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,draftkings,player_threes_over_under,christian braun,True,0.5,200,2023-05-05T17:45:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,pinnacle,player_threes_over_under,christian braun,False,1.5,-274,2023-05-02T15:30:02,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,pinnacle,player_threes_over_under,christian braun,False,0.5,-290,2023-05-05T17:45:02,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,pinnacle,player_threes_over_under,christian braun,True,1.5,187,2023-05-02T15:30:02,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,pinnacle,player_threes_over_under,christian braun,True,0.5,195,2023-05-05T17:45:02,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,betmgm,player_steals_over_under,christian braun,True,0.5,140,2023-05-05T17:45:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,draftkings,player_steals_over_under,christian braun,False,0.5,-180,2023-05-05T17:45:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,draftkings,player_steals_over_under,christian braun,True,0.5,145,2023-05-05T17:45:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,betmgm,player_rebounds_over_under,christian braun,False,1.5,145,2023-05-05T17:45:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,betmgm,player_rebounds_over_under,christian braun,True,1.5,-200,2023-05-05T17:45:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,pinnacle,player_rebounds_over_under,christian braun,False,5.5,-166,2023-05-02T15:30:02,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,pinnacle,player_rebounds_over_under,christian braun,False,1.5,159,2023-05-05T22:00:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,pinnacle,player_rebounds_over_under,christian braun,True,5.5,123,2023-05-02T15:30:02,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,pinnacle,player_rebounds_over_under,christian braun,True,1.5,-222,2023-05-05T22:00:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,betmgm,player_points_over_under,christian braun,False,2.5,100,2023-05-05T17:45:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,betmgm,player_points_over_under,christian braun,True,2.5,-135,2023-05-05T17:45:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,pinnacle,player_points_over_under,christian braun,False,8.5,-132,2023-05-02T15:30:02,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,pinnacle,player_points_over_under,christian braun,False,2.5,112,2023-05-05T22:30:02,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,pinnacle,player_points_over_under,christian braun,True,8.5,-100,2023-05-02T15:30:02,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,betmgm,player_blocks_over_under,christian braun,False,0.5,-600,2023-05-05T17:45:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,pinnacle,player_assists_over_under,christian braun,True,3.5,135,2023-05-02T15:30:02,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,pinnacle,player_assists_over_under,christian braun,True,0.5,110,2023-05-05T17:45:02,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,pinnacle,player_points_over_under,christian braun,True,2.5,-151,2023-05-05T22:30:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_assists_over_under,christian braun,False,0.5,-151,2023-05-07T21:30:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,draftkings,player_rebounds_over_under,christian braun,False,2.5,-175,2023-05-07T23:45:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,betmgm,player_rebounds_over_under,christian braun,True,2.5,145,2023-05-07T16:15:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,betmgm,player_rebounds_over_under,christian braun,False,2.5,-200,2023-05-07T16:15:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,draftkings,player_steals_over_under,christian braun,True,0.5,150,2023-05-07T16:15:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,draftkings,player_steals_over_under,christian braun,False,0.5,-185,2023-05-07T16:15:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,betmgm,player_steals_over_under,christian braun,True,0.5,145,2023-05-07T16:15:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,betmgm,player_steals_over_under,christian braun,False,0.5,-190,2023-05-07T16:15:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_threes_over_under,christian braun,True,0.5,214,2023-05-07T16:15:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_threes_over_under,christian braun,False,0.5,-328,2023-05-07T16:15:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_threes_over_under,christian braun,False,1.5,-274,2023-05-06T15:45:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,draftkings,player_threes_over_under,christian braun,True,0.5,225,2023-05-07T16:15:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,draftkings,player_threes_over_under,christian braun,False,0.5,-285,2023-05-07T16:15:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,betmgm,player_threes_over_under,christian braun,True,0.5,210,2023-05-07T16:15:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,betmgm,player_threes_over_under,christian braun,False,0.5,-300,2023-05-07T16:15:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_assists_over_under,christian braun,False,3.5,-185,2023-05-06T15:45:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,draftkings,player_rebounds_over_under,christian braun,True,2.5,140,2023-05-07T23:45:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_rebounds_over_under,christian braun,False,5.5,-166,2023-05-06T15:45:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_threes_over_under,christian braun,True,1.5,187,2023-05-06T15:45:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_rebounds_over_under,christian braun,True,5.5,123,2023-05-06T15:45:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_assists_over_under,christian braun,True,3.5,135,2023-05-06T15:45:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_rebounds_over_under,christian braun,False,2.5,-207,2023-05-07T16:15:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_assists_over_under,christian braun,True,0.5,112,2023-05-07T21:30:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,betmgm,player_assists_over_under,christian braun,True,0.5,125,2023-05-07T16:15:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,betmgm,player_assists_over_under,christian braun,False,0.5,-165,2023-05-07T16:15:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,draftkings,player_blocks_over_under,christian braun,False,0.5,-520,2023-05-07T16:15:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,betmgm,player_blocks_over_under,christian braun,True,0.5,360,2023-05-07T16:15:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,betmgm,player_blocks_over_under,christian braun,False,0.5,-600,2023-05-07T16:15:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,draftkings,player_blocks_over_under,christian braun,True,0.5,380,2023-05-07T16:15:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_points_over_under,christian braun,True,2.5,-125,2023-05-07T21:45:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_points_over_under,christian braun,True,8.5,-100,2023-05-06T15:45:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_points_over_under,christian braun,False,2.5,-106,2023-05-07T21:45:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_points_over_under,christian braun,False,8.5,-132,2023-05-06T15:45:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_rebounds_over_under,christian braun,True,2.5,149,2023-05-07T16:15:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,betmgm,player_points_over_under,christian braun,True,2.5,-125,2023-05-07T16:15:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,betmgm,player_points_over_under,christian braun,False,2.5,-105,2023-05-07T16:15:01,Phoenix Suns,Denver Nuggets
+2023-05-09,b13a682fab35fa471075b948a5b48b99,betmgm,player_rebounds_over_under,christian braun,True,1.5,-200,2023-05-09T20:45:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,betmgm,player_rebounds_over_under,christian braun,False,1.5,150,2023-05-09T20:45:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,draftkings,player_steals_over_under,christian braun,True,0.5,160,2023-05-09T20:45:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,draftkings,player_steals_over_under,christian braun,False,0.5,-195,2023-05-09T20:45:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,betmgm,player_steals_over_under,christian braun,False,0.5,-210,2023-05-09T20:45:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,draftkings,player_threes_over_under,christian braun,True,0.5,225,2023-05-09T20:45:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,pinnacle,player_threes_over_under,christian braun,True,0.5,221,2023-05-09T20:45:02,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,draftkings,player_threes_over_under,christian braun,False,0.5,-285,2023-05-09T20:45:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,pinnacle,player_rebounds_over_under,christian braun,False,1.5,152,2023-05-09T20:45:02,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,pinnacle,player_threes_over_under,christian braun,False,0.5,-342,2023-05-09T20:45:02,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,betmgm,player_steals_over_under,christian braun,True,0.5,150,2023-05-09T20:45:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,pinnacle,player_rebounds_over_under,christian braun,True,1.5,-213,2023-05-09T20:45:02,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,draftkings,player_blocks_over_under,christian braun,False,0.5,-500,2023-05-09T20:45:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,betmgm,player_points_over_under,christian braun,True,2.5,-110,2023-05-09T20:45:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,pinnacle,player_points_over_under,christian braun,False,2.5,-134,2023-05-10T02:00:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,pinnacle,player_points_over_under,christian braun,True,2.5,101,2023-05-10T02:00:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,betmgm,player_blocks_over_under,christian braun,False,0.5,-550,2023-05-09T20:45:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,betmgm,player_blocks_over_under,christian braun,True,0.5,350,2023-05-09T20:45:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,draftkings,player_blocks_over_under,christian braun,True,0.5,370,2023-05-09T20:45:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,betmgm,player_assists_over_under,christian braun,False,0.5,-210,2023-05-09T20:45:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,betmgm,player_assists_over_under,christian braun,True,0.5,150,2023-05-09T20:45:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,betmgm,player_threes_over_under,christian braun,True,0.5,220,2023-05-09T20:45:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,pinnacle,player_assists_over_under,christian braun,False,0.5,-218,2023-05-09T20:45:02,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,pinnacle,player_assists_over_under,christian braun,True,0.5,155,2023-05-09T20:45:02,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,betmgm,player_points_over_under,christian braun,False,2.5,-120,2023-05-09T20:45:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,betmgm,player_threes_over_under,christian braun,False,0.5,-300,2023-05-09T20:45:01,Denver Nuggets,Phoenix Suns
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_rebounds_over_under,christian braun,True,3.5,180,2023-05-12T04:15:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,pinnacle,player_threes_over_under,christian braun,False,0.5,-514,2023-05-12T02:00:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_rebounds_over_under,christian braun,True,4.5,-138,2023-05-12T03:20:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_rebounds_over_under,christian braun,False,2.5,-440,2023-05-12T04:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_rebounds_over_under,christian braun,False,3.5,-205,2023-05-12T04:15:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_rebounds_over_under,christian braun,False,4.5,104,2023-05-12T03:20:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,pinnacle,player_rebounds_over_under,christian braun,True,1.5,-213,2023-05-12T02:00:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,pinnacle,player_rebounds_over_under,christian braun,False,1.5,152,2023-05-12T02:00:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_rebounds_over_under,christian braun,True,2.5,340,2023-05-12T04:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_rebounds_over_under,christian braun,True,4.5,-135,2023-05-12T03:20:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_rebounds_over_under,christian braun,False,2.5,-525,2023-05-12T04:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_rebounds_over_under,christian braun,False,3.5,-245,2023-05-12T04:15:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_threes_over_under,christian braun,True,0.5,300,2023-05-11T16:45:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_rebounds_over_under,christian braun,False,4.5,100,2023-05-12T03:20:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,betmgm,player_rebounds_over_under,christian braun,False,1.5,150,2023-05-11T16:45:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_steals_over_under,christian braun,True,0.5,1000,2023-05-12T04:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_steals_over_under,christian braun,False,0.5,-4000,2023-05-12T04:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_steals_over_under,christian braun,True,0.5,1100,2023-05-12T04:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_steals_over_under,christian braun,False,0.5,-8000,2023-05-12T04:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,betmgm,player_steals_over_under,christian braun,True,0.5,150,2023-05-11T16:45:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,betmgm,player_steals_over_under,christian braun,False,0.5,-210,2023-05-11T16:45:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_threes_over_under,christian braun,True,0.5,1000,2023-05-12T04:25:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_threes_over_under,christian braun,False,0.5,-10000,2023-05-12T04:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,pinnacle,player_threes_over_under,christian braun,True,0.5,293,2023-05-12T02:00:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,betmgm,player_rebounds_over_under,christian braun,True,1.5,-200,2023-05-11T16:45:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_threes_over_under,christian braun,False,0.5,-400,2023-05-11T16:45:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,betmgm,player_assists_over_under,christian braun,False,0.5,-250,2023-05-11T16:45:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,betmgm,player_threes_over_under,christian braun,False,0.5,-450,2023-05-11T16:45:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_rebounds_over_under,christian braun,True,3.5,152,2023-05-12T04:15:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_assists_over_under,christian braun,True,0.5,1000,2023-05-12T04:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_assists_over_under,christian braun,False,0.5,-5000,2023-05-12T04:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,pinnacle,player_assists_over_under,christian braun,True,0.5,189,2023-05-12T02:00:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,pinnacle,player_assists_over_under,christian braun,False,0.5,-279,2023-05-12T02:00:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,betmgm,player_assists_over_under,christian braun,True,0.5,185,2023-05-11T16:45:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_blocks_over_under,christian braun,True,0.5,1000,2023-05-12T04:25:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_blocks_over_under,christian braun,False,0.5,-50000,2023-05-12T04:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_blocks_over_under,christian braun,True,0.5,430,2023-05-11T16:45:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_blocks_over_under,christian braun,False,0.5,-600,2023-05-11T16:45:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,betmgm,player_blocks_over_under,christian braun,True,0.5,400,2023-05-11T16:45:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,betmgm,player_threes_over_under,christian braun,True,0.5,290,2023-05-11T16:45:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,betmgm,player_blocks_over_under,christian braun,False,0.5,-650,2023-05-11T16:45:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_points_over_under,christian braun,True,4.5,240,2023-05-12T04:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_points_over_under,christian braun,True,5.5,168,2023-05-12T04:20:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_points_over_under,christian braun,False,3.5,-178,2023-05-12T04:05:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_points_over_under,christian braun,False,4.5,-350,2023-05-12T04:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_points_over_under,christian braun,False,5.5,-230,2023-05-12T04:20:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,pinnacle,player_points_over_under,christian braun,True,2.5,-124,2023-05-12T02:00:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,pinnacle,player_points_over_under,christian braun,True,3.5,106,2023-05-11T15:15:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,pinnacle,player_points_over_under,christian braun,False,2.5,-106,2023-05-12T02:00:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,pinnacle,player_points_over_under,christian braun,False,3.5,-141,2023-05-11T15:15:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,betmgm,player_points_over_under,christian braun,True,2.5,-115,2023-05-11T16:45:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,betmgm,player_points_over_under,christian braun,False,2.5,-115,2023-05-11T16:45:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_points_over_under,christian braun,True,3.5,132,2023-05-12T04:05:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_rebounds_over_under,christian braun,True,2.5,290,2023-05-12T04:30:01,Phoenix Suns,Denver Nuggets
+2023-05-16,d933223ffbf092abcde745e058c486f6,draftkings,player_steals_over_under,christian braun,False,0.5,-195,2023-05-16T19:20:02,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,betmgm,player_steals_over_under,christian braun,True,0.5,150,2023-05-16T19:20:02,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,draftkings,player_threes_over_under,christian braun,True,0.5,270,2023-05-16T23:20:01,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,pinnacle,player_assists_over_under,christian braun,False,0.5,-193,2023-05-17T00:30:01,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,betmgm,player_assists_over_under,christian braun,True,0.5,150,2023-05-16T19:20:02,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,betmgm,player_assists_over_under,christian braun,False,0.5,-210,2023-05-16T19:20:02,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,draftkings,player_blocks_over_under,christian braun,True,0.5,430,2023-05-16T19:20:02,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,draftkings,player_blocks_over_under,christian braun,False,0.5,-600,2023-05-16T19:20:02,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,betmgm,player_blocks_over_under,christian braun,True,0.5,400,2023-05-16T19:20:02,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,betmgm,player_blocks_over_under,christian braun,False,0.5,-650,2023-05-16T19:20:02,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,pinnacle,player_points_over_under,christian braun,True,2.5,-135,2023-05-16T23:30:02,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,pinnacle,player_points_over_under,christian braun,False,2.5,102,2023-05-16T23:30:02,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,pinnacle,player_assists_over_under,christian braun,True,0.5,139,2023-05-17T00:30:01,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,betmgm,player_points_over_under,christian braun,True,2.5,-135,2023-05-16T19:20:02,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,pinnacle,player_rebounds_over_under,christian braun,True,1.5,-210,2023-05-16T23:30:02,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,pinnacle,player_rebounds_over_under,christian braun,False,1.5,151,2023-05-16T23:30:02,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,betmgm,player_rebounds_over_under,christian braun,True,1.5,-200,2023-05-16T19:20:02,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,betmgm,player_rebounds_over_under,christian braun,False,1.5,145,2023-05-16T19:20:02,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,draftkings,player_steals_over_under,christian braun,True,0.5,160,2023-05-16T19:20:02,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,betmgm,player_threes_over_under,christian braun,False,0.5,-400,2023-05-16T19:20:02,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,betmgm,player_threes_over_under,christian braun,True,0.5,280,2023-05-16T19:20:02,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,draftkings,player_threes_over_under,christian braun,False,0.5,-350,2023-05-16T23:20:01,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,pinnacle,player_threes_over_under,christian braun,False,0.5,-400,2023-05-17T00:30:01,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,betmgm,player_points_over_under,christian braun,False,2.5,100,2023-05-16T19:20:02,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,pinnacle,player_threes_over_under,christian braun,True,0.5,244,2023-05-17T00:30:01,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,betmgm,player_steals_over_under,christian braun,False,0.5,-210,2023-05-16T19:20:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,betmgm,player_steals_over_under,christian braun,False,0.5,-225,2023-05-17T22:40:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,pinnacle,player_assists_over_under,christian braun,False,0.5,-218,2023-05-18T17:00:01,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,pinnacle,player_assists_over_under,christian braun,True,3.5,135,2023-05-17T15:00:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,pinnacle,player_assists_over_under,christian braun,False,3.5,-185,2023-05-17T15:00:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,betmgm,player_assists_over_under,christian braun,True,0.5,150,2023-05-17T22:40:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,betmgm,player_assists_over_under,christian braun,False,0.5,-210,2023-05-17T22:40:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,draftkings,player_blocks_over_under,christian braun,True,0.5,410,2023-05-17T22:30:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,draftkings,player_blocks_over_under,christian braun,False,0.5,-570,2023-05-17T22:30:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,betmgm,player_blocks_over_under,christian braun,True,0.5,375,2023-05-17T22:40:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,betmgm,player_blocks_over_under,christian braun,False,0.5,-650,2023-05-17T22:40:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,pinnacle,player_points_over_under,christian braun,True,2.5,-118,2023-05-18T17:00:01,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,pinnacle,player_points_over_under,christian braun,True,8.5,100,2023-05-17T15:00:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,pinnacle,player_points_over_under,christian braun,False,2.5,-112,2023-05-18T17:00:01,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,pinnacle,player_points_over_under,christian braun,False,8.5,-133,2023-05-17T15:00:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,betmgm,player_points_over_under,christian braun,True,2.5,-120,2023-05-17T22:40:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,betmgm,player_steals_over_under,christian braun,True,0.5,160,2023-05-17T22:40:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,betmgm,player_points_over_under,christian braun,False,2.5,-110,2023-05-17T22:40:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,pinnacle,player_rebounds_over_under,christian braun,True,5.5,123,2023-05-17T15:00:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,pinnacle,player_rebounds_over_under,christian braun,False,1.5,116,2023-05-19T00:30:01,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,pinnacle,player_rebounds_over_under,christian braun,False,5.5,-166,2023-05-17T15:00:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,betmgm,player_rebounds_over_under,christian braun,True,1.5,-190,2023-05-17T22:40:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,betmgm,player_rebounds_over_under,christian braun,False,1.5,140,2023-05-17T22:40:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,draftkings,player_steals_over_under,christian braun,True,0.5,165,2023-05-17T22:30:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,betmgm,player_threes_over_under,christian braun,False,0.5,-400,2023-05-17T22:40:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,betmgm,player_threes_over_under,christian braun,True,0.5,280,2023-05-17T22:40:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,draftkings,player_threes_over_under,christian braun,False,0.5,-355,2023-05-18T17:30:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,draftkings,player_threes_over_under,christian braun,True,0.5,275,2023-05-18T17:30:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,draftkings,player_steals_over_under,christian braun,False,0.5,-205,2023-05-17T22:30:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,pinnacle,player_threes_over_under,christian braun,False,0.5,-486,2023-05-18T17:00:01,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,pinnacle,player_threes_over_under,christian braun,True,1.5,187,2023-05-17T15:00:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,pinnacle,player_threes_over_under,christian braun,True,0.5,282,2023-05-18T17:00:01,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,pinnacle,player_rebounds_over_under,christian braun,True,1.5,-158,2023-05-19T00:30:01,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,pinnacle,player_threes_over_under,christian braun,False,1.5,-274,2023-05-17T15:00:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,pinnacle,player_assists_over_under,christian braun,True,0.5,155,2023-05-18T17:00:01,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_threes_over_under,christian braun,True,0.5,175,2023-10-24T23:40:32,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,fanduel,player_points_over_under,christian braun,True,4.5,116,2023-10-25T00:00:10,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,fanduel,player_points_over_under,christian braun,True,5.5,102,2023-10-24T23:46:20,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,fanduel,player_points_over_under,christian braun,False,3.5,104,2023-10-25T00:40:15,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,fanduel,player_points_over_under,christian braun,False,4.5,-148,2023-10-25T00:00:10,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,fanduel,player_points_over_under,christian braun,False,5.5,-4000,2023-10-25T01:50:17,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,christian braun,True,1.5,-110,2023-10-25T01:20:11,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,christian braun,True,2.5,-135,2023-10-25T01:10:04,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_assists_over_under,christian braun,True,0.5,-210,2023-10-24T23:25:07,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,christian braun,True,3.5,220,2023-10-25T01:30:14,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,christian braun,True,4.5,100,2023-10-25T00:05:04,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,christian braun,True,5.5,850,2023-10-25T01:40:06,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,christian braun,False,1.5,-120,2023-10-25T01:20:11,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,christian braun,False,2.5,100,2023-10-25T01:10:04,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_steals_over_under,christian braun,False,0.5,110,2023-10-24T23:40:08,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_steals_over_under,christian braun,True,0.5,190,2023-10-25T00:55:25,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,fanduel,player_points_over_under,christian braun,True,3.5,-132,2023-10-25T00:40:15,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_steals_over_under,christian braun,False,0.5,-290,2023-10-25T00:55:25,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_blocks_over_under,christian braun,False,0.5,-400,2023-10-24T23:50:08,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_blocks_over_under,christian braun,False,0.5,-375,2023-10-24T23:40:08,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_assists_over_under,christian braun,False,0.5,165,2023-10-24T23:25:07,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_assists_over_under,christian braun,False,1.5,-255,2023-10-24T23:40:32,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_assists_over_under,christian braun,True,0.5,-250,2023-10-24T23:30:16,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_assists_over_under,christian braun,True,1.5,175,2023-10-24T23:40:08,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_assists_over_under,christian braun,False,0.5,175,2023-10-24T23:30:16,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_assists_over_under,christian braun,False,1.5,-250,2023-10-24T23:40:08,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_assists_over_under,christian braun,True,0.5,-250,2023-10-24T23:36:03,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_assists_over_under,christian braun,True,1.5,175,2023-10-24T23:36:03,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_assists_over_under,christian braun,True,2.5,450,2023-10-24T23:36:03,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_assists_over_under,christian braun,False,0.5,175,2023-10-24T23:36:03,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_assists_over_under,christian braun,False,1.5,-250,2023-10-24T23:36:03,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_assists_over_under,christian braun,False,2.5,-900,2023-10-24T23:36:03,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_blocks_over_under,christian braun,True,0.5,270,2023-10-24T23:40:32,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_blocks_over_under,christian braun,False,0.5,-360,2023-10-24T23:40:32,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_blocks_over_under,christian braun,True,0.5,260,2023-10-24T23:40:08,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_blocks_over_under,christian braun,True,0.5,250,2023-10-24T23:50:08,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_threes_over_under,christian braun,False,0.5,-225,2023-10-24T23:40:32,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_assists_over_under,christian braun,True,1.5,195,2023-10-24T23:40:32,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_rebounds_over_under,christian braun,True,2.5,-150,2023-10-24T23:40:32,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_steals_over_under,christian braun,False,0.5,115,2023-10-24T23:40:32,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_steals_over_under,christian braun,True,0.5,-145,2023-10-24T23:40:32,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_rebounds_over_under,christian braun,False,3.5,-125,2023-10-25T00:05:05,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_rebounds_over_under,christian braun,False,2.5,-215,2023-10-25T00:40:14,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_rebounds_over_under,christian braun,False,1.5,145,2023-10-25T00:55:25,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_rebounds_over_under,christian braun,True,3.5,-115,2023-10-25T00:05:05,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_rebounds_over_under,christian braun,True,2.5,145,2023-10-25T00:40:14,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_rebounds_over_under,christian braun,True,1.5,-215,2023-10-25T00:55:25,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_rebounds_over_under,christian braun,False,2.5,120,2023-10-24T23:40:08,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_rebounds_over_under,christian braun,True,2.5,-155,2023-10-24T23:40:08,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_rebounds_over_under,christian braun,False,2.5,115,2023-10-24T23:40:32,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_threes_over_under,christian braun,True,0.5,165,2023-10-24T23:40:08,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,christian braun,False,6.5,-195,2023-10-24T23:36:03,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,christian braun,False,5.5,-135,2023-10-24T23:45:53,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_steals_over_under,christian braun,True,0.5,-150,2023-10-24T23:40:08,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,christian braun,False,4.5,-135,2023-10-25T00:05:05,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,christian braun,True,5.5,-105,2023-10-24T23:45:53,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,christian braun,True,4.5,-105,2023-10-25T00:05:05,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_points_over_under,christian braun,False,5.5,-125,2023-10-24T23:40:08,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_points_over_under,christian braun,True,5.5,-110,2023-10-24T23:40:08,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,christian braun,False,5.5,-3000,2023-10-25T01:40:06,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,christian braun,False,4.5,-135,2023-10-25T00:05:04,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,christian braun,False,3.5,-320,2023-10-25T01:30:14,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_threes_over_under,christian braun,False,1.5,-2000,2023-10-24T23:36:03,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_threes_over_under,christian braun,False,0.5,-225,2023-10-24T23:36:03,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_threes_over_under,christian braun,True,1.5,650,2023-10-24T23:36:03,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_threes_over_under,christian braun,True,0.5,165,2023-10-24T23:36:03,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_threes_over_under,christian braun,False,0.5,-225,2023-10-24T23:40:08,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,christian braun,True,6.5,140,2023-10-24T23:36:03,Denver Nuggets,Los Angeles Lakers
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_blocks_over_under,christian braun,False,0.5,-1450,2023-10-29T21:15:07,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_blocks_over_under,christian braun,True,1.5,1000,2023-10-29T21:30:05,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_blocks_over_under,christian braun,False,1.5,-7000,2023-10-29T21:35:24,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_assists_over_under,christian braun,False,0.5,150,2023-10-29T19:45:07,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_blocks_over_under,christian braun,True,1.5,1200,2023-10-29T21:30:06,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_assists_over_under,christian braun,False,7.5,-750,2023-10-29T21:35:24,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_assists_over_under,christian braun,True,0.5,-215,2023-10-29T19:45:07,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_blocks_over_under,christian braun,True,0.5,600,2023-10-29T21:15:07,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_blocks_over_under,christian braun,True,0.5,640,2023-10-29T21:15:07,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_rebounds_over_under,christian braun,True,6.5,125,2023-10-29T21:30:06,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_threes_over_under,christian braun,True,0.5,170,2023-10-29T19:45:11,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_points_over_under,christian braun,False,11.5,-140,2023-10-29T21:30:06,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_points_over_under,christian braun,False,13.5,-240,2023-10-29T21:35:57,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_points_over_under,christian braun,True,4.5,-165,2023-10-29T19:26:06,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_points_over_under,christian braun,True,5.5,-140,2023-10-29T20:15:26,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_points_over_under,christian braun,True,6.5,100,2023-10-29T20:10:06,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_points_over_under,christian braun,True,7.5,100,2023-10-29T20:05:33,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_points_over_under,christian braun,True,8.5,-115,2023-10-29T20:20:05,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_points_over_under,christian braun,True,9.5,-120,2023-10-29T20:55:03,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_points_over_under,christian braun,False,4.5,125,2023-10-29T19:26:06,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_points_over_under,christian braun,False,5.5,100,2023-10-29T20:15:26,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_points_over_under,christian braun,False,6.5,-140,2023-10-29T20:10:06,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_points_over_under,christian braun,False,7.5,-140,2023-10-29T20:05:33,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_points_over_under,christian braun,False,8.5,-125,2023-10-29T20:20:05,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_points_over_under,christian braun,False,9.5,-120,2023-10-29T20:55:03,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_rebounds_over_under,christian braun,True,2.5,-158,2023-10-29T20:01:00,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_points_over_under,christian braun,False,9.5,-140,2023-10-29T21:11:07,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_points_over_under,christian braun,False,8.5,-115,2023-10-29T21:25:02,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_points_over_under,christian braun,False,7.5,-145,2023-10-29T20:25:09,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_points_over_under,christian braun,False,6.5,-135,2023-10-29T20:11:07,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_blocks_over_under,christian braun,False,0.5,-1200,2023-10-29T21:15:07,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_blocks_over_under,christian braun,False,1.5,-20000,2023-10-29T21:30:06,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_blocks_over_under,christian braun,True,0.5,250,2023-10-29T20:05:33,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_blocks_over_under,christian braun,True,1.5,1400,2023-10-29T19:26:06,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_blocks_over_under,christian braun,False,0.5,-400,2023-10-29T20:05:33,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_blocks_over_under,christian braun,False,1.5,-5000,2023-10-29T19:26:06,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_points_over_under,christian braun,True,4.5,-135,2023-10-29T20:00:07,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_rebounds_over_under,christian braun,True,3.5,-152,2023-10-29T20:05:37,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_points_over_under,christian braun,True,5.5,-125,2023-10-29T20:15:25,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_points_over_under,christian braun,True,7.5,110,2023-10-29T20:25:09,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_points_over_under,christian braun,True,8.5,-115,2023-10-29T21:25:02,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_points_over_under,christian braun,True,9.5,105,2023-10-29T21:11:07,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_points_over_under,christian braun,True,11.5,105,2023-10-29T21:30:06,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_points_over_under,christian braun,True,13.5,175,2023-10-29T21:35:57,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_points_over_under,christian braun,False,4.5,100,2023-10-29T20:00:07,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_points_over_under,christian braun,False,5.5,-105,2023-10-29T20:15:25,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_points_over_under,christian braun,True,6.5,100,2023-10-29T20:11:07,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_rebounds_over_under,christian braun,True,4.5,-172,2023-10-29T21:25:03,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_rebounds_over_under,christian braun,True,5.5,154,2023-10-29T21:15:07,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_rebounds_over_under,christian braun,True,6.5,114,2023-10-29T21:30:05,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_rebounds_over_under,christian braun,True,4.5,-135,2023-10-29T20:36:33,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_rebounds_over_under,christian braun,True,5.5,-115,2023-10-29T20:55:03,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_rebounds_over_under,christian braun,False,2.5,120,2023-10-29T20:00:29,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_rebounds_over_under,christian braun,False,3.5,115,2023-10-29T20:05:33,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_rebounds_over_under,christian braun,False,4.5,-105,2023-10-29T20:36:33,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_rebounds_over_under,christian braun,False,5.5,-125,2023-10-29T20:55:03,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_steals_over_under,christian braun,True,0.5,520,2023-10-29T21:30:05,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_rebounds_over_under,christian braun,True,3.5,-165,2023-10-29T20:05:33,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_steals_over_under,christian braun,True,1.5,680,2023-10-29T21:35:24,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_steals_over_under,christian braun,False,1.5,-1600,2023-10-29T21:35:24,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_steals_over_under,christian braun,True,0.5,500,2023-10-29T21:30:06,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_steals_over_under,christian braun,True,1.5,650,2023-10-29T21:35:57,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_steals_over_under,christian braun,False,0.5,-1000,2023-10-29T21:30:06,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_steals_over_under,christian braun,False,1.5,-1600,2023-10-29T21:35:57,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_steals_over_under,christian braun,True,0.5,160,2023-10-29T20:55:03,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_steals_over_under,christian braun,False,0.5,-240,2023-10-29T20:55:03,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_steals_over_under,christian braun,False,0.5,-1000,2023-10-29T21:30:05,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_threes_over_under,christian braun,False,0.5,-220,2023-10-29T19:45:11,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_rebounds_over_under,christian braun,True,2.5,-170,2023-10-29T20:00:29,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_rebounds_over_under,christian braun,False,6.5,-165,2023-10-29T21:30:06,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_rebounds_over_under,christian braun,True,7.5,148,2023-10-29T21:35:24,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_rebounds_over_under,christian braun,False,2.5,118,2023-10-29T20:01:00,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_rebounds_over_under,christian braun,False,3.5,114,2023-10-29T20:05:37,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_rebounds_over_under,christian braun,False,4.5,128,2023-10-29T21:25:03,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_rebounds_over_under,christian braun,False,5.5,-210,2023-10-29T21:15:07,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_rebounds_over_under,christian braun,False,6.5,-152,2023-10-29T21:30:05,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_rebounds_over_under,christian braun,False,7.5,-200,2023-10-29T21:35:24,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_rebounds_over_under,christian braun,False,7.5,-220,2023-10-29T21:35:57,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_rebounds_over_under,christian braun,True,2.5,-155,2023-10-29T20:00:07,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_rebounds_over_under,christian braun,True,4.5,-165,2023-10-29T21:25:02,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_rebounds_over_under,christian braun,True,5.5,145,2023-10-29T21:15:07,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_rebounds_over_under,christian braun,True,7.5,160,2023-10-29T21:35:57,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_rebounds_over_under,christian braun,False,2.5,115,2023-10-29T20:00:07,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_rebounds_over_under,christian braun,False,3.5,125,2023-10-29T20:05:32,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_rebounds_over_under,christian braun,False,4.5,120,2023-10-29T21:25:02,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_rebounds_over_under,christian braun,False,5.5,-200,2023-10-29T21:15:07,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,draftkings,player_rebounds_over_under,christian braun,True,3.5,-165,2023-10-29T20:05:32,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_assists_over_under,christian braun,False,6.5,-650,2023-10-29T21:30:05,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_assists_over_under,christian braun,True,0.5,-114,2023-10-27T23:40:04,Memphis Grizzlies,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_assists_over_under,christian braun,False,4.5,-275,2023-10-29T21:15:07,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,christian braun,False,6.5,-105,2023-10-28T00:51:24,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,christian braun,False,7.5,-185,2023-10-28T00:45:24,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,christian braun,False,8.5,-110,2023-10-27T23:52:31,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,christian braun,False,9.5,-145,2023-10-27T23:40:15,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,betmgm,player_points_over_under,christian braun,True,5.5,-120,2023-10-27T16:11:33,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,betmgm,player_points_over_under,christian braun,False,5.5,-110,2023-10-27T16:30:51,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_points_over_under,christian braun,True,5.5,-115,2023-10-27T23:31:57,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_points_over_under,christian braun,True,7.5,120,2023-10-28T00:35:20,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,christian braun,False,5.5,-8000,2023-10-28T01:21:17,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_points_over_under,christian braun,True,8.5,-120,2023-10-27T23:55:13,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_points_over_under,christian braun,False,5.5,-125,2023-10-27T23:31:57,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_points_over_under,christian braun,False,7.5,-170,2023-10-28T00:35:20,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_points_over_under,christian braun,False,8.5,-120,2023-10-27T23:55:13,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_points_over_under,christian braun,False,9.5,-150,2023-10-27T23:40:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_rebounds_over_under,christian braun,True,1.5,-200,2023-10-28T00:45:21,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_rebounds_over_under,christian braun,True,2.5,106,2023-10-28T01:01:29,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_rebounds_over_under,christian braun,True,3.5,114,2023-10-28T01:06:40,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_rebounds_over_under,christian braun,True,4.5,1000,2023-10-28T01:25:23,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_points_over_under,christian braun,True,9.5,105,2023-10-27T23:40:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,christian braun,True,9.5,110,2023-10-27T23:40:15,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,christian braun,True,8.5,-120,2023-10-27T23:52:31,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,christian braun,True,7.5,135,2023-10-28T00:35:21,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_assists_over_under,christian braun,True,1.5,370,2023-10-28T01:01:29,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_assists_over_under,christian braun,True,2.5,1000,2023-10-28T01:10:28,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_assists_over_under,christian braun,False,0.5,-114,2023-10-27T23:40:04,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_assists_over_under,christian braun,False,1.5,-600,2023-10-28T01:01:29,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_assists_over_under,christian braun,False,2.5,-100000,2023-10-28T01:25:23,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,betmgm,player_assists_over_under,christian braun,True,0.5,-225,2023-10-27T16:25:19,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,betmgm,player_assists_over_under,christian braun,False,0.5,165,2023-10-27T16:30:51,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_assists_over_under,christian braun,True,0.5,-215,2023-10-27T23:15:15,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_assists_over_under,christian braun,False,0.5,150,2023-10-27T23:15:15,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_blocks_over_under,christian braun,True,0.5,1000,2023-10-28T01:10:28,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_blocks_over_under,christian braun,False,0.5,-100000,2023-10-28T01:10:28,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_blocks_over_under,christian braun,True,0.5,850,2023-10-28T01:00:31,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_blocks_over_under,christian braun,False,0.5,-3000,2023-10-28T01:05:06,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,betmgm,player_blocks_over_under,christian braun,True,0.5,225,2023-10-27T17:45:04,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,betmgm,player_blocks_over_under,christian braun,False,0.5,-350,2023-10-27T17:45:04,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_blocks_over_under,christian braun,True,0.5,250,2023-10-27T23:36:52,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_blocks_over_under,christian braun,False,0.5,-400,2023-10-27T23:36:52,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,christian braun,True,5.5,1100,2023-10-28T01:21:17,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,christian braun,True,6.5,-130,2023-10-28T00:51:24,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_rebounds_over_under,christian braun,False,1.5,148,2023-10-28T00:45:21,Memphis Grizzlies,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_assists_over_under,christian braun,False,5.5,-380,2023-10-29T21:20:08,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_rebounds_over_under,christian braun,False,2.5,-140,2023-10-28T01:01:29,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_rebounds_over_under,christian braun,False,4.5,-50000,2023-10-28T01:25:23,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,betmgm,player_steals_over_under,christian braun,False,0.5,115,2023-10-27T16:30:51,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_steals_over_under,christian braun,True,0.5,190,2023-10-28T00:45:09,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_steals_over_under,christian braun,False,0.5,-290,2023-10-28T00:45:09,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_threes_over_under,christian braun,True,0.5,185,2023-10-27T23:15:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_threes_over_under,christian braun,False,0.5,-240,2023-10-27T23:15:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,betmgm,player_threes_over_under,christian braun,True,0.5,185,2023-10-27T16:25:19,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,betmgm,player_threes_over_under,christian braun,False,0.5,-250,2023-10-27T16:11:33,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_threes_over_under,christian braun,True,0.5,180,2023-10-27T23:15:15,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,betmgm,player_steals_over_under,christian braun,True,0.5,-155,2023-10-27T16:30:51,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_threes_over_under,christian braun,False,0.5,-260,2023-10-27T23:15:15,Memphis Grizzlies,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_assists_over_under,christian braun,True,0.5,-158,2023-10-29T20:05:37,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_assists_over_under,christian braun,True,2.5,108,2023-10-29T20:30:03,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_assists_over_under,christian braun,True,4.5,198,2023-10-29T21:15:07,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_assists_over_under,christian braun,True,5.5,260,2023-10-29T21:20:08,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_assists_over_under,christian braun,True,6.5,390,2023-10-29T21:30:05,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_assists_over_under,christian braun,True,7.5,430,2023-10-29T21:35:24,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_assists_over_under,christian braun,False,0.5,118,2023-10-29T20:05:37,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,fanduel,player_assists_over_under,christian braun,False,2.5,-144,2023-10-29T20:30:03,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_threes_over_under,christian braun,True,0.5,165,2023-10-29T19:45:07,Oklahoma City Thunder,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_steals_over_under,christian braun,False,1.5,-650,2023-10-28T01:05:06,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_steals_over_under,christian braun,False,0.5,-1400,2023-10-28T00:55:11,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_steals_over_under,christian braun,True,1.5,390,2023-10-28T01:05:06,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_rebounds_over_under,christian braun,True,1.5,-155,2023-10-27T23:52:31,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_rebounds_over_under,christian braun,True,2.5,105,2023-10-28T01:00:31,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_rebounds_over_under,christian braun,True,3.5,110,2023-10-28T01:05:06,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_rebounds_over_under,christian braun,True,4.5,1200,2023-10-28T01:21:17,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_rebounds_over_under,christian braun,False,1.5,115,2023-10-27T23:52:31,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_rebounds_over_under,christian braun,False,2.5,-140,2023-10-28T01:00:31,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_rebounds_over_under,christian braun,False,3.5,-150,2023-10-28T01:05:06,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_rebounds_over_under,christian braun,False,4.5,-20000,2023-10-28T01:21:17,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,betmgm,player_rebounds_over_under,christian braun,True,2.5,-165,2023-10-27T16:11:33,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,betmgm,player_rebounds_over_under,christian braun,False,2.5,125,2023-10-27T16:11:33,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_rebounds_over_under,christian braun,True,1.5,-170,2023-10-27T23:51:13,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_rebounds_over_under,christian braun,True,2.5,140,2023-10-28T00:45:09,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_rebounds_over_under,christian braun,False,1.5,120,2023-10-27T23:51:13,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_rebounds_over_under,christian braun,False,2.5,-200,2023-10-28T00:45:09,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_steals_over_under,christian braun,True,0.5,680,2023-10-28T00:55:07,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_steals_over_under,christian braun,True,1.5,1000,2023-10-28T01:10:28,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_steals_over_under,christian braun,False,0.5,-1600,2023-10-28T00:55:07,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_steals_over_under,christian braun,False,1.5,-100000,2023-10-28T01:25:23,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_steals_over_under,christian braun,True,0.5,650,2023-10-28T00:55:11,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_rebounds_over_under,christian braun,False,3.5,-152,2023-10-28T01:06:40,Memphis Grizzlies,Denver Nuggets
+2023-10-27,de25fc68b2ad92466dbfde1413d36bc4,barstool,player_threes_over_under,christian braun,False,0.5,-225,2023-10-29T19:45:07,Oklahoma City Thunder,Denver Nuggets

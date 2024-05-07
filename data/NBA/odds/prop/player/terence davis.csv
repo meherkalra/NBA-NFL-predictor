@@ -1,0 +1,103 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,draftkings,player_points_over_under,terence davis,True,10.5,235,2023-04-08T04:15:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,draftkings,player_rebounds_over_under,terence davis,True,2.5,145,2023-04-08T03:00:02,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,draftkings,player_rebounds_over_under,terence davis,True,1.5,750,2023-04-08T04:15:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,fanduel,player_rebounds_over_under,terence davis,False,4.5,-140,2023-04-08T02:15:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,fanduel,player_rebounds_over_under,terence davis,False,3.5,-144,2023-04-08T02:30:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,fanduel,player_rebounds_over_under,terence davis,False,2.5,-210,2023-04-08T03:00:02,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,fanduel,player_rebounds_over_under,terence davis,False,1.5,-1450,2023-04-08T04:15:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,fanduel,player_rebounds_over_under,terence davis,True,4.5,106,2023-04-08T02:15:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,fanduel,player_rebounds_over_under,terence davis,True,3.5,108,2023-04-08T02:30:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,fanduel,player_rebounds_over_under,terence davis,True,2.5,154,2023-04-08T03:00:02,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,fanduel,player_rebounds_over_under,terence davis,True,1.5,640,2023-04-08T04:15:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,caesars,player_points_over_under,terence davis,False,16.5,-108,2023-04-08T02:00:02,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,caesars,player_points_over_under,terence davis,True,16.5,-127,2023-04-08T02:00:02,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,draftkings,player_points_over_under,terence davis,False,17.5,110,2023-04-08T02:45:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,draftkings,player_points_over_under,terence davis,False,16.5,115,2023-04-08T02:00:02,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,draftkings,player_points_over_under,terence davis,False,15.5,-155,2023-04-08T03:15:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,draftkings,player_points_over_under,terence davis,False,13.5,110,2023-04-08T02:30:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,draftkings,player_points_over_under,terence davis,False,11.5,-120,2023-04-08T04:00:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,draftkings,player_points_over_under,terence davis,False,10.5,-340,2023-04-08T04:15:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,draftkings,player_points_over_under,terence davis,True,17.5,-145,2023-04-08T02:45:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,draftkings,player_points_over_under,terence davis,True,16.5,-145,2023-04-08T02:00:02,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,draftkings,player_points_over_under,terence davis,True,15.5,115,2023-04-08T03:15:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,draftkings,player_rebounds_over_under,terence davis,True,3.5,115,2023-04-08T02:30:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,draftkings,player_rebounds_over_under,terence davis,True,4.5,105,2023-04-08T02:15:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,draftkings,player_rebounds_over_under,terence davis,False,1.5,-2000,2023-04-08T04:15:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,draftkings,player_rebounds_over_under,terence davis,False,2.5,-195,2023-04-08T03:00:02,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,draftkings,player_threes_over_under,terence davis,False,3.5,-185,2023-04-08T03:15:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,draftkings,player_threes_over_under,terence davis,False,2.5,-5000,2023-04-08T04:15:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,draftkings,player_threes_over_under,terence davis,True,3.5,140,2023-04-08T03:15:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,draftkings,player_threes_over_under,terence davis,True,2.5,1000,2023-04-08T04:15:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,fanduel,player_threes_over_under,terence davis,False,3.5,-192,2023-04-08T03:15:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,fanduel,player_threes_over_under,terence davis,False,2.5,-3000,2023-04-08T04:15:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,fanduel,player_threes_over_under,terence davis,True,3.5,142,2023-04-08T03:15:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,fanduel,player_threes_over_under,terence davis,True,2.5,880,2023-04-08T04:15:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,caesars,player_steals_over_under,terence davis,False,1.5,-204,2023-04-08T01:45:02,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,caesars,player_steals_over_under,terence davis,True,1.5,146,2023-04-08T01:45:02,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,draftkings,player_points_over_under,terence davis,True,13.5,-145,2023-04-08T02:30:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,draftkings,player_steals_over_under,terence davis,False,1.5,-400,2023-04-08T03:45:02,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,draftkings,player_steals_over_under,terence davis,True,1.5,275,2023-04-08T03:45:02,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,draftkings,player_steals_over_under,terence davis,True,0.5,125,2023-04-08T03:15:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,fanduel,player_steals_over_under,terence davis,False,1.5,-10000,2023-04-08T04:15:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,fanduel,player_steals_over_under,terence davis,False,0.5,-172,2023-04-08T03:15:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,fanduel,player_steals_over_under,terence davis,True,1.5,1000,2023-04-08T04:15:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,fanduel,player_steals_over_under,terence davis,True,0.5,128,2023-04-08T03:15:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,caesars,player_rebounds_over_under,terence davis,False,4.5,-117,2023-04-08T01:45:02,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,caesars,player_rebounds_over_under,terence davis,True,4.5,-117,2023-04-08T01:45:02,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,draftkings,player_rebounds_over_under,terence davis,False,4.5,-140,2023-04-08T02:15:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,draftkings,player_rebounds_over_under,terence davis,False,3.5,-150,2023-04-08T02:30:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,draftkings,player_steals_over_under,terence davis,False,0.5,-165,2023-04-08T03:15:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,draftkings,player_points_over_under,terence davis,True,11.5,-110,2023-04-08T04:00:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,caesars,player_threes_over_under,terence davis,False,2.5,133,2023-04-08T01:45:02,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,fanduel,player_points_over_under,terence davis,False,17.5,112,2023-04-08T02:45:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,caesars,player_threes_over_under,terence davis,True,2.5,-184,2023-04-08T01:45:02,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,fanduel,player_assists_over_under,terence davis,True,2.5,920,2023-04-08T04:15:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,fanduel,player_assists_over_under,terence davis,False,2.5,-3500,2023-04-08T04:15:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,draftkings,player_assists_over_under,terence davis,True,1.5,-205,2023-04-08T02:30:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,draftkings,player_assists_over_under,terence davis,True,2.5,1000,2023-04-08T04:15:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,draftkings,player_assists_over_under,terence davis,False,1.5,150,2023-04-08T02:30:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,draftkings,player_assists_over_under,terence davis,False,2.5,-5000,2023-04-08T04:15:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,caesars,player_assists_over_under,terence davis,True,2.5,-163,2023-04-08T02:00:02,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,caesars,player_assists_over_under,terence davis,False,2.5,118,2023-04-08T02:00:02,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,fanduel,player_blocks_over_under,terence davis,False,0.5,-100000,2023-04-08T04:15:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,draftkings,player_blocks_over_under,terence davis,True,0.5,750,2023-04-08T03:45:02,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,fanduel,player_blocks_over_under,terence davis,True,0.5,1000,2023-04-08T04:15:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,caesars,player_blocks_over_under,terence davis,True,0.5,165,2023-04-08T01:45:02,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,fanduel,player_points_over_under,terence davis,False,15.5,-158,2023-04-08T03:15:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,fanduel,player_points_over_under,terence davis,False,14.5,-136,2023-04-08T02:30:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,fanduel,player_points_over_under,terence davis,False,11.5,100,2023-04-08T04:00:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,draftkings,player_blocks_over_under,terence davis,False,0.5,-2000,2023-04-08T03:45:02,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,fanduel,player_points_over_under,terence davis,True,17.5,-148,2023-04-08T02:45:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,fanduel,player_points_over_under,terence davis,False,10.5,-250,2023-04-08T04:15:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,fanduel,player_points_over_under,terence davis,True,14.5,102,2023-04-08T02:30:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,fanduel,player_points_over_under,terence davis,True,11.5,-132,2023-04-08T04:00:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,fanduel,player_points_over_under,terence davis,True,10.5,182,2023-04-08T04:15:01,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,caesars,player_blocks_over_under,terence davis,False,0.5,-234,2023-04-08T01:45:02,Sacramento Kings,Golden State Warriors
+2023-04-07,a939a597b2d71bb51973febd05cbe64d,fanduel,player_points_over_under,terence davis,True,15.5,118,2023-04-08T03:15:01,Sacramento Kings,Golden State Warriors
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,caesars,player_points_over_under,terence davis,True,9.5,-109,2023-04-09T19:00:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_blocks_over_under,terence davis,True,0.5,540,2023-04-09T19:00:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_blocks_over_under,terence davis,False,0.5,-810,2023-04-09T19:00:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_points_over_under,terence davis,True,9.5,-115,2023-04-09T19:00:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_points_over_under,terence davis,False,9.5,-115,2023-04-09T19:00:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,caesars,player_points_over_under,terence davis,False,9.5,-125,2023-04-09T19:00:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,caesars,player_threes_over_under,terence davis,True,1.5,-142,2023-04-09T19:00:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_rebounds_over_under,terence davis,False,2.5,-110,2023-04-09T19:00:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_steals_over_under,terence davis,True,0.5,-155,2023-04-09T19:00:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_steals_over_under,terence davis,False,0.5,125,2023-04-09T19:00:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_threes_over_under,terence davis,True,1.5,-135,2023-04-09T19:00:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_threes_over_under,terence davis,False,1.5,105,2023-04-09T19:00:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,caesars,player_threes_over_under,terence davis,False,1.5,104,2023-04-09T19:00:02,Denver Nuggets,Sacramento Kings
+2023-04-09,ce69d429fe544c1a4f0e725732f14749,draftkings,player_rebounds_over_under,terence davis,True,2.5,-120,2023-04-09T19:00:02,Denver Nuggets,Sacramento Kings
+2023-04-28,0cefbb259938c3104b19a118d40bb4fe,fanduel,player_assists_over_under,terence davis,False,0.5,-100000,2023-04-27T03:45:02,Sacramento Kings,Golden State Warriors
+2023-04-28,0cefbb259938c3104b19a118d40bb4fe,fanduel,player_blocks_over_under,terence davis,True,0.5,1000,2023-04-27T02:15:02,Sacramento Kings,Golden State Warriors
+2023-04-28,0cefbb259938c3104b19a118d40bb4fe,fanduel,player_blocks_over_under,terence davis,False,0.5,-100000,2023-04-27T03:45:02,Sacramento Kings,Golden State Warriors
+2023-04-28,0cefbb259938c3104b19a118d40bb4fe,fanduel,player_points_over_under,terence davis,True,0.5,1000,2023-04-27T04:00:01,Sacramento Kings,Golden State Warriors
+2023-04-28,0cefbb259938c3104b19a118d40bb4fe,fanduel,player_points_over_under,terence davis,False,0.5,-100000,2023-04-27T04:30:02,Sacramento Kings,Golden State Warriors
+2023-04-28,0cefbb259938c3104b19a118d40bb4fe,fanduel,player_steals_over_under,terence davis,True,0.5,1000,2023-04-27T02:15:02,Sacramento Kings,Golden State Warriors
+2023-04-28,0cefbb259938c3104b19a118d40bb4fe,fanduel,player_rebounds_over_under,terence davis,False,0.5,-100000,2023-04-27T04:30:02,Sacramento Kings,Golden State Warriors
+2023-04-28,0cefbb259938c3104b19a118d40bb4fe,fanduel,player_steals_over_under,terence davis,False,0.5,-100000,2023-04-27T02:45:01,Sacramento Kings,Golden State Warriors
+2023-04-28,0cefbb259938c3104b19a118d40bb4fe,fanduel,player_threes_over_under,terence davis,True,0.5,1000,2023-04-27T02:15:02,Sacramento Kings,Golden State Warriors
+2023-04-28,0cefbb259938c3104b19a118d40bb4fe,fanduel,player_threes_over_under,terence davis,False,0.5,-100000,2023-04-27T04:00:01,Sacramento Kings,Golden State Warriors
+2023-04-28,0cefbb259938c3104b19a118d40bb4fe,fanduel,player_rebounds_over_under,terence davis,True,0.5,1000,2023-04-27T03:45:02,Sacramento Kings,Golden State Warriors
+2023-04-28,0cefbb259938c3104b19a118d40bb4fe,fanduel,player_assists_over_under,terence davis,True,0.5,1000,2023-04-27T02:15:02,Sacramento Kings,Golden State Warriors

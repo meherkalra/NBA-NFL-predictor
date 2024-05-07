@@ -1,0 +1,413 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_threes_over_under,trendon watford,False,0.5,-2000,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,trendon watford,True,13.5,-108,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,trendon watford,True,10.5,116,2023-03-20T02:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,trendon watford,True,9.5,-138,2023-03-20T02:30:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,trendon watford,True,8.5,118,2023-03-20T01:15:02,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,trendon watford,True,7.5,-136,2023-03-20T01:30:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,trendon watford,True,5.5,-158,2023-03-20T01:45:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,trendon watford,True,14.5,-102,2023-03-20T02:45:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_blocks_over_under,trendon watford,False,0.5,-3500,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_assists_over_under,trendon watford,False,2.5,-172,2023-03-20T01:30:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_assists_over_under,trendon watford,False,0.5,-198,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_assists_over_under,trendon watford,True,2.5,128,2023-03-20T01:30:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_assists_over_under,trendon watford,True,1.5,178,2023-03-20T02:15:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_assists_over_under,trendon watford,True,0.5,146,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_threes_over_under,trendon watford,True,0.5,750,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_blocks_over_under,trendon watford,True,0.5,920,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,trendon watford,False,5.5,118,2023-03-20T01:45:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_assists_over_under,trendon watford,False,1.5,-245,2023-03-20T02:15:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,trendon watford,False,8.5,-158,2023-03-20T01:15:02,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,trendon watford,False,7.5,102,2023-03-20T01:30:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_steals_over_under,trendon watford,False,1.5,-1000,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_steals_over_under,trendon watford,False,0.5,-162,2023-03-20T01:45:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_steals_over_under,trendon watford,True,1.5,520,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_rebounds_over_under,trendon watford,False,6.5,-118,2023-03-20T00:45:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_rebounds_over_under,trendon watford,False,4.5,-144,2023-03-20T02:45:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_rebounds_over_under,trendon watford,False,3.5,146,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_steals_over_under,trendon watford,True,0.5,122,2023-03-20T01:45:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_rebounds_over_under,trendon watford,True,4.5,108,2023-03-20T02:45:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_rebounds_over_under,trendon watford,True,3.5,-198,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,trendon watford,False,14.5,-130,2023-03-20T02:45:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,trendon watford,False,13.5,-122,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,trendon watford,False,10.5,-154,2023-03-20T02:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_rebounds_over_under,trendon watford,True,6.5,-104,2023-03-20T00:45:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,trendon watford,False,9.5,104,2023-03-20T02:30:01,Portland Trail Blazers,LA Clippers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,trendon watford,True,10.5,-152,2023-03-23T01:45:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,trendon watford,True,11.5,-122,2023-03-23T01:30:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,trendon watford,True,12.5,-146,2023-03-23T02:00:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,trendon watford,True,19.5,-122,2023-03-23T02:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,trendon watford,True,21.5,-114,2023-03-23T02:45:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,trendon watford,True,22.5,172,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_blocks_over_under,trendon watford,False,2.5,-10000,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,trendon watford,False,10.5,114,2023-03-23T01:45:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,trendon watford,True,20.5,124,2023-03-23T03:00:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_blocks_over_under,trendon watford,False,0.5,-500,2023-03-23T02:00:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_assists_over_under,trendon watford,True,5.5,104,2023-03-23T02:30:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_blocks_over_under,trendon watford,True,1.5,920,2023-03-23T03:00:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_blocks_over_under,trendon watford,True,0.5,320,2023-03-23T02:00:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_assists_over_under,trendon watford,False,5.5,-138,2023-03-23T02:30:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_assists_over_under,trendon watford,False,4.5,-320,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_assists_over_under,trendon watford,False,3.5,-148,2023-03-23T01:45:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_assists_over_under,trendon watford,False,2.5,140,2023-03-23T01:15:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_assists_over_under,trendon watford,True,4.5,225,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_assists_over_under,trendon watford,True,3.5,112,2023-03-23T01:45:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_assists_over_under,trendon watford,True,2.5,-188,2023-03-23T01:15:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,trendon watford,False,11.5,-108,2023-03-23T01:30:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_blocks_over_under,trendon watford,True,2.5,1000,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,trendon watford,False,12.5,110,2023-03-23T02:00:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_blocks_over_under,trendon watford,False,1.5,-3500,2023-03-23T03:00:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,trendon watford,False,20.5,-166,2023-03-23T03:00:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_threes_over_under,trendon watford,False,1.5,-3500,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,trendon watford,False,19.5,-108,2023-03-23T02:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_threes_over_under,trendon watford,False,0.5,-192,2023-03-23T01:45:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_threes_over_under,trendon watford,True,1.5,920,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_threes_over_under,trendon watford,True,0.5,142,2023-03-23T01:45:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_steals_over_under,trendon watford,False,1.5,-1450,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_steals_over_under,trendon watford,False,0.5,-600,2023-03-23T03:00:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_steals_over_under,trendon watford,True,0.5,370,2023-03-23T03:00:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_rebounds_over_under,trendon watford,False,9.5,-166,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_rebounds_over_under,trendon watford,False,8.5,-122,2023-03-23T02:45:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_rebounds_over_under,trendon watford,False,7.5,-132,2023-03-23T02:30:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_steals_over_under,trendon watford,True,1.5,640,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_rebounds_over_under,trendon watford,False,5.5,-154,2023-03-23T01:30:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_rebounds_over_under,trendon watford,False,4.5,118,2023-03-23T01:45:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_rebounds_over_under,trendon watford,True,9.5,124,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,trendon watford,False,21.5,-114,2023-03-23T02:45:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_rebounds_over_under,trendon watford,True,8.5,-108,2023-03-23T02:45:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_rebounds_over_under,trendon watford,True,7.5,100,2023-03-23T02:30:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_rebounds_over_under,trendon watford,True,6.5,-160,2023-03-23T02:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_rebounds_over_under,trendon watford,True,5.5,116,2023-03-23T01:30:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_rebounds_over_under,trendon watford,True,4.5,-158,2023-03-23T01:45:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_rebounds_over_under,trendon watford,False,6.5,120,2023-03-23T02:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,trendon watford,False,22.5,-235,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_points_over_under,trendon watford,False,14.5,-138,2023-03-25T02:15:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_points_over_under,trendon watford,False,15.5,-420,2023-03-25T04:00:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_points_over_under,trendon watford,False,17.5,-128,2023-03-25T03:45:02,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_rebounds_over_under,trendon watford,False,6.5,-1400,2023-03-25T04:00:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_rebounds_over_under,trendon watford,True,6.5,630,2023-03-25T04:00:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_rebounds_over_under,trendon watford,True,7.5,194,2023-03-25T03:45:02,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_rebounds_over_under,trendon watford,False,5.5,112,2023-03-24T17:30:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_points_over_under,trendon watford,False,12.5,-115,2023-03-24T17:15:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_rebounds_over_under,trendon watford,False,7.5,-270,2023-03-25T03:45:02,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_rebounds_over_under,trendon watford,True,5.5,-142,2023-03-24T17:30:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_points_over_under,trendon watford,False,11.5,-166,2023-03-25T03:30:02,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_blocks_over_under,trendon watford,True,0.5,270,2023-03-25T02:45:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_points_over_under,trendon watford,True,17.5,-104,2023-03-25T03:45:02,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_points_over_under,trendon watford,True,15.5,280,2023-03-25T04:00:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_points_over_under,trendon watford,True,14.5,104,2023-03-25T02:15:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_points_over_under,trendon watford,True,12.5,-111,2023-03-24T17:15:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_points_over_under,trendon watford,True,11.5,124,2023-03-25T03:30:02,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_points_over_under,trendon watford,True,10.5,-114,2023-03-25T02:45:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_blocks_over_under,trendon watford,False,1.5,-100000,2023-03-25T04:00:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_blocks_over_under,trendon watford,False,0.5,-400,2023-03-25T02:45:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_blocks_over_under,trendon watford,True,1.5,1000,2023-03-25T04:00:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_steals_over_under,trendon watford,True,0.5,1000,2023-03-25T04:00:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_assists_over_under,trendon watford,False,5.5,-210,2023-03-25T03:15:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_assists_over_under,trendon watford,False,3.5,-3000,2023-03-25T04:00:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_points_over_under,trendon watford,False,10.5,-114,2023-03-25T02:45:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_steals_over_under,trendon watford,False,0.5,-50000,2023-03-25T04:00:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_assists_over_under,trendon watford,True,3.5,880,2023-03-25T04:00:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_threes_over_under,trendon watford,False,0.5,-50000,2023-03-25T04:00:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_assists_over_under,trendon watford,True,5.5,154,2023-03-25T03:15:01,Portland Trail Blazers,Chicago Bulls
+2023-03-24,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_threes_over_under,trendon watford,True,0.5,1000,2023-03-25T04:00:01,Portland Trail Blazers,Chicago Bulls
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_threes_over_under,trendon watford,False,0.5,-290,2023-03-27T00:15:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_threes_over_under,trendon watford,True,0.5,205,2023-03-27T00:15:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_steals_over_under,trendon watford,False,0.5,-215,2023-03-27T00:15:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_steals_over_under,trendon watford,True,0.5,158,2023-03-27T00:15:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_rebounds_over_under,trendon watford,False,7.5,-132,2023-03-26T23:15:02,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_rebounds_over_under,trendon watford,False,6.5,-166,2023-03-27T00:00:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_rebounds_over_under,trendon watford,False,5.5,-172,2023-03-27T00:15:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_rebounds_over_under,trendon watford,True,7.5,100,2023-03-26T23:15:02,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_rebounds_over_under,trendon watford,True,5.5,128,2023-03-27T00:15:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_points_over_under,trendon watford,False,18.5,-130,2023-03-26T23:15:02,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_points_over_under,trendon watford,False,15.5,-130,2023-03-27T00:00:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_points_over_under,trendon watford,False,14.5,-125,2023-03-26T23:30:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_points_over_under,trendon watford,True,18.5,-102,2023-03-26T23:15:02,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_points_over_under,trendon watford,True,15.5,-102,2023-03-27T00:00:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_points_over_under,trendon watford,True,13.5,116,2023-03-27T00:15:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_blocks_over_under,trendon watford,False,0.5,-650,2023-03-27T00:15:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_blocks_over_under,trendon watford,True,0.5,390,2023-03-27T00:15:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_assists_over_under,trendon watford,False,4.5,-166,2023-03-26T23:15:02,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_assists_over_under,trendon watford,False,2.5,-102,2023-03-27T00:00:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_assists_over_under,trendon watford,False,1.5,154,2023-03-27T00:15:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_assists_over_under,trendon watford,True,4.5,124,2023-03-26T23:15:02,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_assists_over_under,trendon watford,True,2.5,-130,2023-03-27T00:00:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_assists_over_under,trendon watford,True,1.5,-210,2023-03-27T00:15:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_points_over_under,trendon watford,False,13.5,-154,2023-03-27T00:15:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_points_over_under,trendon watford,True,14.5,-106,2023-03-26T23:30:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-26,e76e7a58bddb5af5edfed77ad7c6a8de,fanduel,player_rebounds_over_under,trendon watford,True,6.5,124,2023-03-27T00:00:01,Portland Trail Blazers,Oklahoma City Thunder
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_points_over_under,trendon watford,True,11.5,142,2023-04-01T03:42:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_points_over_under,trendon watford,False,8.5,-4000,2023-04-01T04:12:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_points_over_under,trendon watford,True,13.5,114,2023-04-01T02:52:02,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_points_over_under,trendon watford,True,12.5,-102,2023-04-01T03:22:02,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_points_over_under,trendon watford,True,10.5,154,2023-04-01T04:04:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_points_over_under,trendon watford,True,9.5,128,2023-04-01T04:06:02,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_points_over_under,trendon watford,True,8.5,1000,2023-04-01T04:12:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_blocks_over_under,trendon watford,False,0.5,-100000,2023-04-01T04:08:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_points_over_under,trendon watford,False,10.5,-210,2023-04-01T04:04:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_blocks_over_under,trendon watford,True,0.5,1000,2023-04-01T04:00:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_assists_over_under,trendon watford,False,3.5,-210,2023-04-01T03:06:02,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_assists_over_under,trendon watford,False,2.5,-50000,2023-04-01T04:12:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_assists_over_under,trendon watford,False,1.5,158,2023-04-01T03:58:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_assists_over_under,trendon watford,True,4.5,140,2023-04-01T02:26:02,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_assists_over_under,trendon watford,True,3.5,154,2023-04-01T03:06:02,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_assists_over_under,trendon watford,True,2.5,1000,2023-04-01T04:12:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_assists_over_under,trendon watford,True,1.5,-215,2023-04-01T03:58:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_assists_over_under,trendon watford,False,4.5,-192,2023-04-01T02:26:02,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_points_over_under,trendon watford,False,11.5,-192,2023-04-01T03:42:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_points_over_under,trendon watford,False,9.5,-172,2023-04-01T04:06:02,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_points_over_under,trendon watford,False,13.5,-152,2023-04-01T02:52:02,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_threes_over_under,trendon watford,False,0.5,-100000,2023-04-01T04:12:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_threes_over_under,trendon watford,True,0.5,1000,2023-04-01T04:08:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_steals_over_under,trendon watford,False,1.5,-100000,2023-04-01T04:10:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_steals_over_under,trendon watford,False,0.5,-1200,2023-04-01T04:02:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_steals_over_under,trendon watford,True,1.5,1000,2023-04-01T04:08:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_steals_over_under,trendon watford,True,0.5,580,2023-04-01T04:02:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_rebounds_over_under,trendon watford,False,5.5,-148,2023-04-01T02:08:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_points_over_under,trendon watford,False,12.5,-130,2023-04-01T03:22:02,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_rebounds_over_under,trendon watford,False,3.5,110,2023-04-01T04:02:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_rebounds_over_under,trendon watford,False,4.5,-50000,2023-04-01T04:12:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_rebounds_over_under,trendon watford,False,1.5,110,2023-04-01T03:56:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_rebounds_over_under,trendon watford,True,5.5,120,2023-04-01T02:08:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_rebounds_over_under,trendon watford,True,4.5,1000,2023-04-01T04:12:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_rebounds_over_under,trendon watford,True,3.5,-146,2023-04-01T04:02:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_rebounds_over_under,trendon watford,True,2.5,188,2023-04-01T03:46:02,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_rebounds_over_under,trendon watford,True,1.5,-146,2023-04-01T03:56:01,Portland Trail Blazers,Sacramento Kings
+2023-03-31,0fc0acd27223d25c43a2347799d41ca6,fanduel,player_rebounds_over_under,trendon watford,False,2.5,-260,2023-04-01T03:46:02,Portland Trail Blazers,Sacramento Kings
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_points_over_under,trendon watford,False,12.5,-122,2023-04-02T19:24:02,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_points_over_under,trendon watford,True,12.5,100,2023-04-02T19:24:02,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_points_over_under,trendon watford,True,19.5,118,2023-04-02T21:00:02,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_points_over_under,trendon watford,True,16.5,-114,2023-04-02T20:20:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_points_over_under,trendon watford,True,15.5,-140,2023-04-02T19:48:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_blocks_over_under,trendon watford,False,0.5,-3000,2023-04-02T21:10:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_points_over_under,trendon watford,True,18.5,118,2023-04-02T21:08:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_assists_over_under,trendon watford,False,3.5,-240,2023-04-02T21:00:02,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_assists_over_under,trendon watford,False,2.5,122,2023-04-02T21:10:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_assists_over_under,trendon watford,True,3.5,174,2023-04-02T21:00:02,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_assists_over_under,trendon watford,True,2.5,-162,2023-04-02T21:10:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_points_over_under,trendon watford,False,15.5,106,2023-04-02T19:48:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_blocks_over_under,trendon watford,True,0.5,880,2023-04-02T21:10:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_points_over_under,trendon watford,False,16.5,-114,2023-04-02T20:20:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_points_over_under,trendon watford,True,17.5,-168,2023-04-02T21:10:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_points_over_under,trendon watford,False,18.5,-158,2023-04-02T21:08:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_points_over_under,trendon watford,False,17.5,126,2023-04-02T21:10:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_threes_over_under,trendon watford,False,0.5,-700,2023-04-02T21:10:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_threes_over_under,trendon watford,True,0.5,410,2023-04-02T21:10:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_steals_over_under,trendon watford,True,0.5,350,2023-04-02T21:10:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_rebounds_over_under,trendon watford,False,4.5,-245,2023-04-02T21:10:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_rebounds_over_under,trendon watford,False,3.5,116,2023-04-02T20:56:02,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_steals_over_under,trendon watford,False,0.5,-550,2023-04-02T21:10:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_rebounds_over_under,trendon watford,True,4.5,178,2023-04-02T21:10:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_rebounds_over_under,trendon watford,True,3.5,-154,2023-04-02T20:56:02,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_rebounds_over_under,trendon watford,True,2.5,-188,2023-04-02T20:54:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_points_over_under,trendon watford,False,19.5,-158,2023-04-02T21:00:02,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-02,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,player_rebounds_over_under,trendon watford,False,2.5,140,2023-04-02T20:54:01,Minnesota Timberwolves,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_points_over_under,trendon watford,True,16.5,320,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_points_over_under,trendon watford,True,14.5,114,2023-04-07T01:30:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_points_over_under,trendon watford,True,12.5,110,2023-04-07T01:15:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_points_over_under,trendon watford,True,17.5,-114,2023-04-07T00:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_points_over_under,trendon watford,True,18.5,100,2023-04-07T02:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_points_over_under,trendon watford,False,12.5,-158,2023-04-07T01:15:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_points_over_under,trendon watford,False,14.5,-152,2023-04-07T01:30:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_points_over_under,trendon watford,False,16.5,-500,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_points_over_under,trendon watford,False,17.5,-106,2023-04-07T00:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_points_over_under,trendon watford,False,18.5,-132,2023-04-07T02:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_points_over_under,trendon watford,True,14.5,110,2023-04-07T01:30:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_points_over_under,trendon watford,False,18.5,-130,2023-04-07T02:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_points_over_under,trendon watford,True,18.5,100,2023-04-07T02:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_points_over_under,trendon watford,False,12.5,-150,2023-04-07T01:15:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_points_over_under,trendon watford,False,14.5,-150,2023-04-07T01:30:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_points_over_under,trendon watford,False,16.5,-1000,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_points_over_under,trendon watford,True,12.5,118,2023-04-07T01:15:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_rebounds_over_under,trendon watford,True,5.5,-102,2023-04-07T01:30:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_rebounds_over_under,trendon watford,True,6.5,880,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_rebounds_over_under,trendon watford,False,5.5,-130,2023-04-07T01:30:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_rebounds_over_under,trendon watford,False,6.5,-3000,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_rebounds_over_under,trendon watford,True,5.5,-105,2023-04-07T01:30:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_rebounds_over_under,trendon watford,True,6.5,1100,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_points_over_under,trendon watford,True,16.5,500,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_blocks_over_under,trendon watford,False,1.5,-3000,2023-04-07T02:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_assists_over_under,trendon watford,False,3.5,-130,2023-04-07T02:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_blocks_over_under,trendon watford,True,1.5,900,2023-04-07T02:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_rebounds_over_under,trendon watford,False,5.5,-130,2023-04-07T01:30:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_threes_over_under,trendon watford,False,0.5,-1000,2023-04-07T02:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_threes_over_under,trendon watford,True,0.5,500,2023-04-07T02:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_threes_over_under,trendon watford,False,0.5,-100000,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_threes_over_under,trendon watford,True,0.5,1000,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_steals_over_under,trendon watford,False,0.5,-750,2023-04-07T02:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_steals_over_under,trendon watford,True,0.5,425,2023-04-07T02:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_steals_over_under,trendon watford,False,0.5,-50000,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_steals_over_under,trendon watford,True,0.5,1000,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_blocks_over_under,trendon watford,False,0.5,-250,2023-04-07T00:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_assists_over_under,trendon watford,True,1.5,-245,2023-04-07T01:30:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_assists_over_under,trendon watford,True,3.5,1000,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_assists_over_under,trendon watford,False,1.5,178,2023-04-07T01:30:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_assists_over_under,trendon watford,False,2.5,-138,2023-04-07T01:15:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_assists_over_under,trendon watford,False,3.5,-4000,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_assists_over_under,trendon watford,True,2.5,-235,2023-04-07T01:30:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_assists_over_under,trendon watford,True,3.5,100,2023-04-07T02:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_assists_over_under,trendon watford,False,2.5,170,2023-04-07T01:30:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_blocks_over_under,trendon watford,True,1.5,1000,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_blocks_over_under,trendon watford,False,1.5,-100000,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_blocks_over_under,trendon watford,True,0.5,200,2023-04-07T00:00:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,fanduel,player_assists_over_under,trendon watford,True,2.5,104,2023-04-07T01:15:02,San Antonio Spurs,Portland Trail Blazers
+2023-04-06,e32cebe03996038ae3f304c8a073b0fc,draftkings,player_rebounds_over_under,trendon watford,False,6.5,-8000,2023-04-07T02:15:01,San Antonio Spurs,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_assists_over_under,trendon watford,True,2.5,-174,2023-04-08T21:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_rebounds_over_under,trendon watford,False,5.5,-140,2023-04-08T20:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_rebounds_over_under,trendon watford,True,5.5,120,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_assists_over_under,trendon watford,False,2.5,130,2023-04-08T21:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,trendon watford,False,26.5,-180,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,trendon watford,False,24.5,-145,2023-04-08T21:45:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_threes_over_under,trendon watford,True,0.5,160,2023-04-08T20:45:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_threes_over_under,trendon watford,False,2.5,-1200,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_threes_over_under,trendon watford,False,0.5,-230,2023-04-08T20:45:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_threes_over_under,trendon watford,True,2.5,580,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_threes_over_under,trendon watford,True,0.5,168,2023-04-08T20:45:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_points_over_under,trendon watford,True,11.5,-111,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_assists_over_under,trendon watford,True,3.5,132,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,betmgm,player_steals_over_under,trendon watford,True,0.5,-155,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_steals_over_under,trendon watford,False,0.5,112,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_steals_over_under,trendon watford,True,0.5,-154,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_steals_over_under,trendon watford,False,0.5,-750,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_steals_over_under,trendon watford,True,0.5,425,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_steals_over_under,trendon watford,False,0.5,-800,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_steals_over_under,trendon watford,True,0.5,450,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,betmgm,player_steals_over_under,trendon watford,False,0.5,115,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_rebounds_over_under,trendon watford,False,5.5,-166,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_points_over_under,trendon watford,False,11.5,-123,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_rebounds_over_under,trendon watford,True,3.5,-130,2023-04-08T21:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_threes_over_under,trendon watford,False,2.5,-1100,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_threes_over_under,trendon watford,True,0.5,-108,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_threes_over_under,trendon watford,False,0.5,-127,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_rebounds_over_under,trendon watford,False,4.5,-140,2023-04-08T20:45:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_rebounds_over_under,trendon watford,False,3.5,-105,2023-04-08T21:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_rebounds_over_under,trendon watford,False,2.5,155,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_rebounds_over_under,trendon watford,True,5.5,105,2023-04-08T20:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_rebounds_over_under,trendon watford,True,2.5,-220,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_rebounds_over_under,trendon watford,True,4.5,105,2023-04-08T20:45:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_rebounds_over_under,trendon watford,True,2.5,-215,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_rebounds_over_under,trendon watford,False,5.5,-148,2023-04-08T20:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_rebounds_over_under,trendon watford,False,4.5,-146,2023-04-08T20:45:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_rebounds_over_under,trendon watford,False,3.5,-102,2023-04-08T21:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_rebounds_over_under,trendon watford,False,2.5,162,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_rebounds_over_under,trendon watford,True,5.5,112,2023-04-08T20:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_rebounds_over_under,trendon watford,True,4.5,110,2023-04-08T20:45:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_rebounds_over_under,trendon watford,True,3.5,-125,2023-04-08T21:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_threes_over_under,trendon watford,False,0.5,-220,2023-04-08T20:45:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_threes_over_under,trendon watford,True,2.5,550,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,trendon watford,False,9.5,-120,2023-04-08T20:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_points_over_under,trendon watford,True,24.5,110,2023-04-08T21:45:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_points_over_under,trendon watford,True,26.5,144,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_points_over_under,trendon watford,False,9.5,-120,2023-04-08T20:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_points_over_under,trendon watford,False,13.5,-130,2023-04-08T20:45:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_points_over_under,trendon watford,False,23.5,102,2023-04-08T21:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_points_over_under,trendon watford,False,24.5,-146,2023-04-08T21:45:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_points_over_under,trendon watford,True,23.5,-136,2023-04-08T21:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_points_over_under,trendon watford,False,26.5,-194,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,trendon watford,True,11.5,-110,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,trendon watford,True,13.5,-105,2023-04-08T20:45:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,trendon watford,True,23.5,-135,2023-04-08T21:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,trendon watford,False,23.5,100,2023-04-08T21:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,trendon watford,False,13.5,-125,2023-04-08T20:45:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,trendon watford,False,11.5,-120,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,trendon watford,True,9.5,-110,2023-04-08T20:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,trendon watford,True,24.5,110,2023-04-08T21:45:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_points_over_under,trendon watford,True,13.5,-102,2023-04-08T20:45:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_blocks_over_under,trendon watford,False,0.5,-214,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_assists_over_under,trendon watford,False,3.5,-178,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_assists_over_under,trendon watford,True,2.5,-165,2023-04-08T21:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_assists_over_under,trendon watford,True,3.5,130,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_assists_over_under,trendon watford,False,2.5,125,2023-04-08T21:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_assists_over_under,trendon watford,False,3.5,-175,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_assists_over_under,trendon watford,True,2.5,-109,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_points_over_under,trendon watford,True,9.5,-110,2023-04-08T20:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_assists_over_under,trendon watford,False,2.5,-125,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_blocks_over_under,trendon watford,False,1.5,-3000,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_blocks_over_under,trendon watford,True,0.5,165,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_blocks_over_under,trendon watford,True,1.5,750,2023-04-08T21:45:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_blocks_over_under,trendon watford,False,0.5,-205,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_blocks_over_under,trendon watford,False,1.5,-2000,2023-04-08T21:45:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_blocks_over_under,trendon watford,True,0.5,152,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_blocks_over_under,trendon watford,True,1.5,880,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,trendon watford,True,26.5,135,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_assists_over_under,trendon watford,True,4.5,750,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_assists_over_under,trendon watford,True,5.5,100,2023-04-09T20:00:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_assists_over_under,trendon watford,True,5.5,100,2023-04-09T20:00:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_assists_over_under,trendon watford,False,3.5,150,2023-04-09T20:45:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_assists_over_under,trendon watford,False,4.5,-2000,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_assists_over_under,trendon watford,False,5.5,-130,2023-04-09T20:00:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,caesars,player_assists_over_under,trendon watford,True,3.5,-106,2023-04-09T18:45:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,caesars,player_assists_over_under,trendon watford,False,3.5,-129,2023-04-09T18:45:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_blocks_over_under,trendon watford,True,0.5,520,2023-04-09T20:45:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_blocks_over_under,trendon watford,True,1.5,1000,2023-04-09T21:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_blocks_over_under,trendon watford,False,0.5,-1000,2023-04-09T20:45:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_blocks_over_under,trendon watford,False,1.5,-100000,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_blocks_over_under,trendon watford,True,0.5,550,2023-04-09T20:45:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_blocks_over_under,trendon watford,True,1.5,900,2023-04-09T21:00:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_assists_over_under,trendon watford,False,5.5,-132,2023-04-09T20:00:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_assists_over_under,trendon watford,True,3.5,-205,2023-04-09T20:45:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_blocks_over_under,trendon watford,False,1.5,-3000,2023-04-09T21:00:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,caesars,player_blocks_over_under,trendon watford,False,0.5,-194,2023-04-09T19:00:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_points_over_under,trendon watford,True,11.5,198,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_points_over_under,trendon watford,True,12.5,148,2023-04-09T21:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_points_over_under,trendon watford,True,13.5,132,2023-04-09T21:00:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_points_over_under,trendon watford,True,15.5,118,2023-04-09T20:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_points_over_under,trendon watford,True,17.5,-114,2023-04-09T20:00:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_points_over_under,trendon watford,False,11.5,-275,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_points_over_under,trendon watford,False,12.5,-200,2023-04-09T21:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_points_over_under,trendon watford,False,13.5,-178,2023-04-09T21:00:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_points_over_under,trendon watford,False,15.5,-158,2023-04-09T20:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_points_over_under,trendon watford,False,17.5,-114,2023-04-09T20:00:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_points_over_under,trendon watford,True,11.5,195,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_assists_over_under,trendon watford,False,4.5,-2200,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,caesars,player_blocks_over_under,trendon watford,True,0.5,139,2023-04-09T19:00:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_blocks_over_under,trendon watford,False,0.5,-1100,2023-04-09T20:45:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_points_over_under,trendon watford,False,11.5,-270,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_points_over_under,trendon watford,True,13.5,130,2023-04-09T21:00:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_rebounds_over_under,trendon watford,False,5.5,-135,2023-04-09T20:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_rebounds_over_under,trendon watford,False,6.5,-125,2023-04-09T20:00:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,caesars,player_rebounds_over_under,trendon watford,True,6.5,-103,2023-04-09T19:00:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,caesars,player_rebounds_over_under,trendon watford,False,6.5,-133,2023-04-09T19:00:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_steals_over_under,trendon watford,True,0.5,1000,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_steals_over_under,trendon watford,False,0.5,-10000,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_steals_over_under,trendon watford,True,0.5,700,2023-04-09T21:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_steals_over_under,trendon watford,False,0.5,-1600,2023-04-09T21:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,caesars,player_steals_over_under,trendon watford,True,0.5,-224,2023-04-09T19:00:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_rebounds_over_under,trendon watford,False,4.5,-800,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,caesars,player_steals_over_under,trendon watford,False,0.5,159,2023-04-09T19:00:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_threes_over_under,trendon watford,True,1.5,1000,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_threes_over_under,trendon watford,False,0.5,-106,2023-04-09T19:45:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_threes_over_under,trendon watford,False,1.5,-50000,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_threes_over_under,trendon watford,True,0.5,-125,2023-04-09T19:45:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_threes_over_under,trendon watford,True,1.5,900,2023-04-09T21:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_threes_over_under,trendon watford,False,0.5,-105,2023-04-09T19:45:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_threes_over_under,trendon watford,False,1.5,-3000,2023-04-09T21:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,caesars,player_threes_over_under,trendon watford,True,0.5,-142,2023-04-09T18:45:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,caesars,player_threes_over_under,trendon watford,False,0.5,104,2023-04-09T18:45:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_threes_over_under,trendon watford,True,0.5,-125,2023-04-09T19:45:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_points_over_under,trendon watford,True,12.5,140,2023-04-09T21:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_rebounds_over_under,trendon watford,False,3.5,100,2023-04-09T20:45:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_rebounds_over_under,trendon watford,True,5.5,105,2023-04-09T20:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_points_over_under,trendon watford,True,14.5,-150,2023-04-09T20:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_points_over_under,trendon watford,True,15.5,-115,2023-04-09T19:45:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_points_over_under,trendon watford,True,17.5,-125,2023-04-09T20:00:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_points_over_under,trendon watford,False,12.5,-190,2023-04-09T21:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_points_over_under,trendon watford,False,13.5,-175,2023-04-09T21:00:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_points_over_under,trendon watford,False,14.5,115,2023-04-09T20:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_points_over_under,trendon watford,False,15.5,-115,2023-04-09T19:45:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_points_over_under,trendon watford,False,17.5,-105,2023-04-09T20:00:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,caesars,player_points_over_under,trendon watford,True,14.5,-131,2023-04-09T18:45:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_rebounds_over_under,trendon watford,True,6.5,-105,2023-04-09T20:00:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,caesars,player_points_over_under,trendon watford,False,14.5,-104,2023-04-09T18:45:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_rebounds_over_under,trendon watford,True,4.5,490,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_rebounds_over_under,trendon watford,True,5.5,104,2023-04-09T20:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_rebounds_over_under,trendon watford,True,6.5,-102,2023-04-09T20:00:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_rebounds_over_under,trendon watford,False,3.5,148,2023-04-09T20:45:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_rebounds_over_under,trendon watford,False,4.5,-900,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_rebounds_over_under,trendon watford,False,5.5,-138,2023-04-09T20:15:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_rebounds_over_under,trendon watford,False,6.5,-130,2023-04-09T20:00:01,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_rebounds_over_under,trendon watford,True,3.5,-130,2023-04-09T20:45:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,draftkings,player_rebounds_over_under,trendon watford,True,4.5,450,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_rebounds_over_under,trendon watford,True,3.5,-200,2023-04-09T20:45:02,Portland Trail Blazers,Golden State Warriors
+2023-04-09,0ea4a98effa090cfe4948810a74cd9de,fanduel,player_assists_over_under,trendon watford,True,4.5,800,2023-04-09T21:30:02,Portland Trail Blazers,Golden State Warriors

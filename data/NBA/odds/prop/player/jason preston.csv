@@ -1,0 +1,13 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-04-18,6b75807644756c992b6db9d82ba5381d,fanduel,player_assists_over_under,jason preston,True,0.5,1000,2023-04-26T02:15:02,Phoenix Suns,LA Clippers
+2023-04-18,6b75807644756c992b6db9d82ba5381d,fanduel,player_assists_over_under,jason preston,False,0.5,-100000,2023-04-26T02:15:02,Phoenix Suns,LA Clippers
+2023-04-18,6b75807644756c992b6db9d82ba5381d,fanduel,player_blocks_over_under,jason preston,True,0.5,1000,2023-04-26T02:15:02,Phoenix Suns,LA Clippers
+2023-04-18,6b75807644756c992b6db9d82ba5381d,fanduel,player_blocks_over_under,jason preston,False,0.5,-100000,2023-04-26T03:00:01,Phoenix Suns,LA Clippers
+2023-04-18,6b75807644756c992b6db9d82ba5381d,fanduel,player_points_over_under,jason preston,True,0.5,1000,2023-04-26T03:30:01,Phoenix Suns,LA Clippers
+2023-04-18,6b75807644756c992b6db9d82ba5381d,fanduel,player_points_over_under,jason preston,False,0.5,-100000,2023-04-26T04:30:01,Phoenix Suns,LA Clippers
+2023-04-18,6b75807644756c992b6db9d82ba5381d,fanduel,player_rebounds_over_under,jason preston,True,0.5,1000,2023-04-26T03:30:01,Phoenix Suns,LA Clippers
+2023-04-18,6b75807644756c992b6db9d82ba5381d,fanduel,player_rebounds_over_under,jason preston,False,0.5,-100000,2023-04-26T04:15:01,Phoenix Suns,LA Clippers
+2023-04-18,6b75807644756c992b6db9d82ba5381d,fanduel,player_steals_over_under,jason preston,True,0.5,1000,2023-04-26T02:15:02,Phoenix Suns,LA Clippers
+2023-04-18,6b75807644756c992b6db9d82ba5381d,fanduel,player_steals_over_under,jason preston,False,0.5,-100000,2023-04-26T03:00:01,Phoenix Suns,LA Clippers
+2023-04-18,6b75807644756c992b6db9d82ba5381d,fanduel,player_threes_over_under,jason preston,True,0.5,1000,2023-04-26T02:15:02,Phoenix Suns,LA Clippers
+2023-04-18,6b75807644756c992b6db9d82ba5381d,fanduel,player_threes_over_under,jason preston,False,0.5,-100000,2023-04-26T03:00:01,Phoenix Suns,LA Clippers

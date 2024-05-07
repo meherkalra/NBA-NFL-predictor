@@ -1,0 +1,322 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_assists_over_under,zion williamson,True,2.5,-260,2023-10-26T01:51:13,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_assists_over_under,zion williamson,True,3.5,400,2023-10-26T02:26:11,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_assists_over_under,zion williamson,True,4.5,130,2023-10-26T01:10:04,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_assists_over_under,zion williamson,False,2.5,188,2023-10-26T01:51:13,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_assists_over_under,zion williamson,False,3.5,-670,2023-10-26T02:26:11,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_assists_over_under,zion williamson,False,4.5,-174,2023-10-26T01:10:04,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_assists_over_under,zion williamson,True,2.5,-230,2023-10-26T01:45:04,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_assists_over_under,zion williamson,True,3.5,600,2023-10-26T02:31:10,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_assists_over_under,zion williamson,True,4.5,125,2023-10-26T01:05:18,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_assists_over_under,zion williamson,False,2.5,170,2023-10-26T01:45:04,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_assists_over_under,zion williamson,False,3.5,-1200,2023-10-26T02:31:10,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_assists_over_under,zion williamson,False,4.5,-170,2023-10-26T01:05:18,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,betmgm,player_assists_over_under,zion williamson,True,3.5,-130,2023-10-26T00:40:59,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,betmgm,player_assists_over_under,zion williamson,False,3.5,-105,2023-10-26T00:40:59,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_assists_over_under,zion williamson,True,2.5,-340,2023-10-25T11:10:14,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_assists_over_under,zion williamson,True,3.5,110,2023-10-26T01:41:22,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_assists_over_under,zion williamson,True,4.5,120,2023-10-26T01:11:03,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_assists_over_under,zion williamson,False,2.5,235,2023-10-25T11:10:14,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_assists_over_under,zion williamson,False,3.5,-160,2023-10-26T01:41:22,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_assists_over_under,zion williamson,False,4.5,-170,2023-10-26T01:11:03,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,betrivers,player_assists_over_under,zion williamson,True,3.5,-134,2023-10-26T00:10:55,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,betrivers,player_assists_over_under,zion williamson,True,4.5,175,2023-10-26T00:10:55,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_blocks_over_under,zion williamson,True,0.5,1000,2023-10-26T02:26:11,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_blocks_over_under,zion williamson,False,0.5,-8000,2023-10-26T02:26:11,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_blocks_over_under,zion williamson,True,0.5,850,2023-10-26T02:20:25,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_blocks_over_under,zion williamson,False,0.5,-3000,2023-10-26T02:20:25,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,betmgm,player_blocks_over_under,zion williamson,True,0.5,120,2023-10-26T00:40:59,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,betmgm,player_blocks_over_under,zion williamson,False,0.5,-160,2023-10-26T00:40:59,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_blocks_over_under,zion williamson,True,0.5,270,2023-10-26T01:35:04,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_blocks_over_under,zion williamson,False,0.5,-450,2023-10-26T01:35:04,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,zion williamson,True,13.5,-160,2023-10-26T02:15:08,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,zion williamson,True,14.5,-136,2023-10-26T02:15:08,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,zion williamson,True,15.5,120,2023-10-26T02:20:15,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,zion williamson,True,16.5,-113,2023-10-26T02:00:40,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,zion williamson,True,17.5,-108,2023-10-26T01:10:04,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,zion williamson,True,18.5,-104,2023-10-26T01:51:13,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,zion williamson,True,19.5,122,2023-10-26T02:26:11,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,zion williamson,True,20.5,-122,2023-10-26T00:55:47,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,zion williamson,True,21.5,-120,2023-10-26T00:45:41,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,zion williamson,True,23.5,-130,2023-10-26T02:30:11,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,zion williamson,True,24.5,-115,2023-10-26T00:25:27,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,zion williamson,True,25.5,-125,2023-10-26T00:20:06,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,zion williamson,False,13.5,124,2023-10-26T02:15:08,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,zion williamson,False,14.5,106,2023-10-26T02:15:08,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,zion williamson,False,15.5,-154,2023-10-26T02:20:15,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,zion williamson,False,16.5,-113,2023-10-26T02:00:40,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,zion williamson,False,17.5,-118,2023-10-26T01:10:04,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,zion williamson,False,18.5,-122,2023-10-26T01:51:13,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,zion williamson,False,19.5,-156,2023-10-26T02:26:11,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,zion williamson,False,20.5,-104,2023-10-26T00:55:47,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,zion williamson,False,21.5,-106,2023-10-26T00:45:41,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,zion williamson,False,23.5,102,2023-10-26T02:30:11,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,zion williamson,False,24.5,-111,2023-10-26T00:25:27,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,zion williamson,False,25.5,-102,2023-10-26T00:20:06,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,zion williamson,True,22.5,-185,2023-10-26T00:10:25,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,zion williamson,True,23.5,-150,2023-10-26T00:10:25,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,zion williamson,True,25.5,105,2023-10-26T00:10:25,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,zion williamson,True,26.5,130,2023-10-26T00:10:25,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,zion williamson,True,14.5,-155,2023-10-26T02:16:10,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,zion williamson,True,15.5,105,2023-10-26T02:05:38,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,zion williamson,True,16.5,-130,2023-10-26T02:20:25,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,zion williamson,True,17.5,-110,2023-10-26T01:16:01,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,zion williamson,True,18.5,115,2023-10-26T02:25:15,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,zion williamson,True,19.5,105,2023-10-26T01:50:43,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,zion williamson,True,20.5,100,2023-10-26T01:45:04,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,zion williamson,True,22.5,-115,2023-10-26T00:41:24,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,zion williamson,True,23.5,115,2023-10-26T02:31:10,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,zion williamson,True,24.5,-110,2023-10-26T00:21:23,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,zion williamson,True,26.5,-115,2023-10-26T00:21:23,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,zion williamson,False,22.5,145,2023-10-26T00:10:25,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,zion williamson,False,23.5,120,2023-10-26T00:10:25,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,zion williamson,False,25.5,-135,2023-10-26T00:10:25,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,zion williamson,False,26.5,-165,2023-10-26T00:10:25,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,zion williamson,False,14.5,115,2023-10-26T02:16:10,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,zion williamson,False,15.5,-135,2023-10-26T02:05:38,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,zion williamson,False,16.5,100,2023-10-26T02:00:14,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,zion williamson,False,17.5,-120,2023-10-26T01:16:01,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,zion williamson,False,18.5,-150,2023-10-26T02:25:15,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,zion williamson,False,19.5,-140,2023-10-26T01:50:43,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,zion williamson,False,20.5,-130,2023-10-26T01:45:04,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,zion williamson,False,22.5,-115,2023-10-26T00:41:24,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,zion williamson,False,23.5,-155,2023-10-26T02:31:10,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,zion williamson,False,24.5,-120,2023-10-26T00:21:23,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,zion williamson,False,26.5,-115,2023-10-26T00:21:23,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,betmgm,player_points_over_under,zion williamson,True,24.5,-125,2023-10-26T00:40:59,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,betmgm,player_points_over_under,zion williamson,False,24.5,-105,2023-10-26T00:40:59,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_points_over_under,zion williamson,True,18.5,100,2023-10-26T02:00:20,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_points_over_under,zion williamson,True,19.5,-105,2023-10-26T01:41:22,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_points_over_under,zion williamson,True,20.5,-115,2023-10-26T00:55:09,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_points_over_under,zion williamson,True,22.5,-120,2023-10-26T00:40:39,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_points_over_under,zion williamson,True,23.5,-110,2023-10-26T00:50:51,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_points_over_under,zion williamson,True,24.5,-125,2023-10-26T00:16:01,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_points_over_under,zion williamson,True,25.5,-125,2023-10-26T00:20:06,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_points_over_under,zion williamson,False,18.5,-140,2023-10-26T02:00:20,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_points_over_under,zion williamson,False,19.5,-135,2023-10-26T01:41:22,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_points_over_under,zion williamson,False,20.5,-125,2023-10-26T00:55:09,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_points_over_under,zion williamson,False,22.5,-120,2023-10-26T00:40:39,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_points_over_under,zion williamson,False,23.5,-130,2023-10-26T00:50:51,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_points_over_under,zion williamson,False,24.5,-105,2023-10-26T00:16:01,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_points_over_under,zion williamson,False,25.5,-115,2023-10-26T00:20:06,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,betrivers,player_points_over_under,zion williamson,True,20.5,-375,2023-10-26T00:10:55,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,betrivers,player_points_over_under,zion williamson,True,21.5,-265,2023-10-26T00:10:55,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,betrivers,player_points_over_under,zion williamson,True,22.5,-186,2023-10-26T00:10:55,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,betrivers,player_points_over_under,zion williamson,True,23.5,-139,2023-10-26T00:10:55,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,betrivers,player_points_over_under,zion williamson,True,24.5,-107,2023-10-26T00:10:55,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,betrivers,player_points_over_under,zion williamson,True,25.5,118,2023-10-26T00:10:55,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,betrivers,player_points_over_under,zion williamson,True,26.5,148,2023-10-26T00:10:55,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,betrivers,player_points_over_under,zion williamson,True,27.5,185,2023-10-26T00:10:55,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_rebounds_over_under,zion williamson,True,3.5,-172,2023-10-26T01:35:14,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_rebounds_over_under,zion williamson,True,4.5,-166,2023-10-26T02:10:12,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_rebounds_over_under,zion williamson,True,5.5,178,2023-10-26T02:15:08,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_rebounds_over_under,zion williamson,True,6.5,-186,2023-10-26T02:20:15,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_rebounds_over_under,zion williamson,True,7.5,194,2023-10-26T02:30:11,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_rebounds_over_under,zion williamson,False,3.5,128,2023-10-26T01:35:14,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_rebounds_over_under,zion williamson,False,4.5,124,2023-10-26T02:10:12,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_rebounds_over_under,zion williamson,False,5.5,-245,2023-10-26T02:15:08,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_rebounds_over_under,zion williamson,False,6.5,138,2023-10-26T02:20:15,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_rebounds_over_under,zion williamson,False,7.5,-270,2023-10-26T02:30:11,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_rebounds_over_under,zion williamson,True,3.5,-170,2023-10-26T01:35:04,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_rebounds_over_under,zion williamson,True,4.5,-240,2023-10-26T02:16:10,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_rebounds_over_under,zion williamson,True,5.5,-165,2023-10-26T02:00:14,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_rebounds_over_under,zion williamson,True,6.5,-180,2023-10-26T02:20:25,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_rebounds_over_under,zion williamson,True,7.5,230,2023-10-26T02:31:10,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_rebounds_over_under,zion williamson,False,3.5,125,2023-10-26T01:35:04,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_rebounds_over_under,zion williamson,False,4.5,175,2023-10-26T02:16:10,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_rebounds_over_under,zion williamson,False,5.5,120,2023-10-26T02:00:14,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_rebounds_over_under,zion williamson,False,6.5,135,2023-10-26T02:20:25,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_rebounds_over_under,zion williamson,False,7.5,-330,2023-10-26T02:31:10,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,betmgm,player_rebounds_over_under,zion williamson,True,6.5,-105,2023-10-26T00:40:59,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,betmgm,player_rebounds_over_under,zion williamson,False,6.5,-130,2023-10-26T00:40:59,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_rebounds_over_under,zion williamson,True,3.5,-170,2023-10-26T01:35:04,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_rebounds_over_under,zion williamson,True,4.5,105,2023-10-26T01:11:03,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_rebounds_over_under,zion williamson,True,5.5,-160,2023-10-26T02:00:20,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_rebounds_over_under,zion williamson,True,6.5,110,2023-10-26T00:20:06,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_rebounds_over_under,zion williamson,True,7.5,160,2023-10-25T11:10:14,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_rebounds_over_under,zion williamson,False,3.5,120,2023-10-26T01:35:04,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_rebounds_over_under,zion williamson,False,4.5,-150,2023-10-26T01:11:03,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_rebounds_over_under,zion williamson,False,5.5,110,2023-10-26T02:00:20,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_rebounds_over_under,zion williamson,False,6.5,-160,2023-10-26T00:20:06,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_rebounds_over_under,zion williamson,False,7.5,-210,2023-10-25T11:10:14,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,betrivers,player_rebounds_over_under,zion williamson,True,5.5,-215,2023-10-26T00:10:55,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,betrivers,player_rebounds_over_under,zion williamson,True,6.5,-109,2023-10-26T00:10:55,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,betrivers,player_rebounds_over_under,zion williamson,True,7.5,175,2023-10-26T00:10:55,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_steals_over_under,zion williamson,True,0.5,1000,2023-10-26T02:26:11,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_steals_over_under,zion williamson,False,0.5,-5000,2023-10-26T02:30:11,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_steals_over_under,zion williamson,True,0.5,1200,2023-10-26T02:31:10,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_steals_over_under,zion williamson,False,0.5,-20000,2023-10-26T02:31:10,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,betmgm,player_steals_over_under,zion williamson,True,0.5,-190,2023-10-26T00:40:59,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,betmgm,player_steals_over_under,zion williamson,False,0.5,140,2023-10-26T00:40:59,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_steals_over_under,zion williamson,True,0.5,235,2023-10-26T02:00:20,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_steals_over_under,zion williamson,True,1.5,275,2023-10-25T16:00:04,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_steals_over_under,zion williamson,False,0.5,-375,2023-10-26T02:00:20,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,barstool,player_steals_over_under,zion williamson,False,1.5,-400,2023-10-25T16:00:04,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_threes_over_under,zion williamson,True,0.5,380,2023-10-25T19:57:42,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_threes_over_under,zion williamson,False,0.5,-525,2023-10-25T19:57:42,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,betmgm,player_threes_over_under,zion williamson,True,0.5,360,2023-10-25T20:00:13,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,betmgm,player_threes_over_under,zion williamson,False,0.5,-600,2023-10-25T20:00:13,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_assists_over_under,zion williamson,True,4.5,130,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_assists_over_under,zion williamson,False,4.5,-165,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_blocks_over_under,zion williamson,True,0.5,130,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_blocks_over_under,zion williamson,False,0.5,-165,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,zion williamson,False,24.5,-105,2023-10-24T01:55:53,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_steals_over_under,zion williamson,True,0.5,-180,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_steals_over_under,zion williamson,False,0.5,140,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_assists_over_under,zion williamson,True,3.5,-155,2023-10-23T21:50:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_assists_over_under,zion williamson,True,4.5,130,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_assists_over_under,zion williamson,False,3.5,120,2023-10-23T21:50:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_assists_over_under,zion williamson,False,4.5,-165,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_assists_over_under,zion williamson,True,3.5,-160,2023-10-23T21:50:04,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_assists_over_under,zion williamson,True,4.5,125,2023-10-24T18:00:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_assists_over_under,zion williamson,False,3.5,120,2023-10-23T21:50:04,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_assists_over_under,zion williamson,False,4.5,-165,2023-10-24T18:00:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_blocks_over_under,zion williamson,True,0.5,130,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_blocks_over_under,zion williamson,False,0.5,-165,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_blocks_over_under,zion williamson,True,0.5,125,2023-10-23T19:25:20,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_blocks_over_under,zion williamson,False,0.5,-165,2023-10-23T19:25:20,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,zion williamson,True,22.5,-160,2023-10-23T19:21:31,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,zion williamson,True,23.5,-125,2023-10-23T19:21:31,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,zion williamson,True,25.5,125,2023-10-23T19:21:31,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,zion williamson,True,26.5,155,2023-10-23T19:21:31,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,zion williamson,True,24.5,-110,2023-10-23T19:21:31,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,zion williamson,False,22.5,125,2023-10-23T19:21:31,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,zion williamson,False,23.5,100,2023-10-23T19:21:31,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,zion williamson,False,25.5,-160,2023-10-23T19:21:31,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,zion williamson,False,26.5,-200,2023-10-23T19:21:31,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,zion williamson,False,24.5,-105,2023-10-24T05:50:05,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,zion williamson,True,24.5,-110,2023-10-23T19:25:20,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,zion williamson,False,24.5,-120,2023-10-23T19:25:20,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_rebounds_over_under,zion williamson,True,6.5,-105,2023-10-23T19:21:31,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_rebounds_over_under,zion williamson,False,6.5,-120,2023-10-23T19:21:31,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_rebounds_over_under,zion williamson,True,5.5,-190,2023-10-24T18:00:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_rebounds_over_under,zion williamson,True,6.5,-105,2023-10-24T00:15:32,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_rebounds_over_under,zion williamson,False,5.5,145,2023-10-24T18:00:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_rebounds_over_under,zion williamson,False,6.5,-125,2023-10-24T00:15:32,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_steals_over_under,zion williamson,True,0.5,-180,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_steals_over_under,zion williamson,False,0.5,140,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_steals_over_under,zion williamson,True,0.5,-175,2023-10-23T19:25:20,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_steals_over_under,zion williamson,False,0.5,135,2023-10-23T19:25:20,Denver Nuggets,Los Angeles Lakers
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_assists_over_under,zion williamson,True,2.5,1000,2023-10-29T01:15:09,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_assists_over_under,zion williamson,True,3.5,134,2023-10-29T00:30:35,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_assists_over_under,zion williamson,True,4.5,146,2023-10-28T23:50:03,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_assists_over_under,zion williamson,False,2.5,-100000,2023-10-29T01:15:09,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_assists_over_under,zion williamson,False,3.5,-180,2023-10-29T00:30:35,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_assists_over_under,zion williamson,False,4.5,-198,2023-10-28T23:50:03,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,pinnacle,player_assists_over_under,zion williamson,True,3.5,-136,2023-10-28T03:56:00,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,pinnacle,player_assists_over_under,zion williamson,False,3.5,102,2023-10-28T03:56:00,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_assists_over_under,zion williamson,True,2.5,295,2023-10-29T01:10:16,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_assists_over_under,zion williamson,True,3.5,130,2023-10-29T00:30:04,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_assists_over_under,zion williamson,True,4.5,105,2023-10-28T23:22:02,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_assists_over_under,zion williamson,False,2.5,-450,2023-10-29T01:10:16,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_assists_over_under,zion williamson,False,3.5,-175,2023-10-29T00:30:04,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_assists_over_under,zion williamson,False,4.5,-135,2023-10-28T23:22:02,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,barstool,player_assists_over_under,zion williamson,True,3.5,125,2023-10-29T00:30:09,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,barstool,player_assists_over_under,zion williamson,True,4.5,100,2023-10-28T23:20:59,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,barstool,player_assists_over_under,zion williamson,False,3.5,-180,2023-10-29T00:30:09,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,barstool,player_assists_over_under,zion williamson,False,4.5,-140,2023-10-28T23:20:59,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,betrivers,player_assists_over_under,zion williamson,True,3.5,-137,2023-10-28T17:06:39,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,betrivers,player_assists_over_under,zion williamson,True,4.5,117,2023-10-28T10:40:09,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_blocks_over_under,zion williamson,True,0.5,1000,2023-10-29T01:15:09,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_blocks_over_under,zion williamson,False,0.5,-100000,2023-10-29T01:15:09,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_blocks_over_under,zion williamson,True,0.5,1200,2023-10-29T01:10:16,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_blocks_over_under,zion williamson,False,0.5,-10000,2023-10-29T01:10:16,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,barstool,player_blocks_over_under,zion williamson,True,0.5,250,2023-10-29T00:00:54,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,barstool,player_blocks_over_under,zion williamson,False,0.5,-400,2023-10-29T00:00:54,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,betrivers,player_blocks_over_under,zion williamson,True,0.5,132,2023-10-28T17:06:39,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_points_over_under,zion williamson,True,24.5,-104,2023-10-28T23:15:15,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_points_over_under,zion williamson,True,25.5,-112,2023-10-28T23:15:15,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_points_over_under,zion williamson,True,26.5,100,2023-10-28T17:10:05,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_points_over_under,zion williamson,False,24.5,-122,2023-10-28T23:15:15,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_points_over_under,zion williamson,False,25.5,-108,2023-10-28T23:15:15,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_points_over_under,zion williamson,False,26.5,-128,2023-10-28T17:10:05,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,pinnacle,player_points_over_under,zion williamson,True,25.5,-114,2023-10-28T03:56:00,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,pinnacle,player_points_over_under,zion williamson,False,25.5,-116,2023-10-28T03:56:00,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_points_over_under,zion williamson,True,22.5,-185,2023-10-28T08:11:08,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_points_over_under,zion williamson,True,23.5,-190,2023-10-28T23:05:18,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_points_over_under,zion williamson,True,24.5,-130,2023-10-28T23:05:18,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_points_over_under,zion williamson,True,25.5,-125,2023-10-28T16:22:05,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_points_over_under,zion williamson,True,26.5,105,2023-10-28T23:05:18,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_points_over_under,zion williamson,True,27.5,130,2023-10-28T23:05:18,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_points_over_under,zion williamson,True,28.5,145,2023-10-28T16:22:05,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_points_over_under,zion williamson,True,21.5,-140,2023-10-29T01:00:07,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_points_over_under,zion williamson,True,22.5,-125,2023-10-28T23:31:08,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_points_over_under,zion williamson,True,23.5,-140,2023-10-29T01:10:16,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_points_over_under,zion williamson,True,24.5,-110,2023-10-29T00:50:26,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_points_over_under,zion williamson,True,25.5,-130,2023-10-29T00:45:50,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_points_over_under,zion williamson,True,26.5,105,2023-10-29T01:05:14,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_points_over_under,zion williamson,True,27.5,-125,2023-10-28T23:35:31,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_points_over_under,zion williamson,False,22.5,145,2023-10-28T08:11:08,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_points_over_under,zion williamson,False,23.5,145,2023-10-28T23:05:18,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_points_over_under,zion williamson,False,24.5,105,2023-10-28T23:05:18,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_points_over_under,zion williamson,False,25.5,100,2023-10-28T16:22:05,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_points_over_under,zion williamson,False,26.5,-130,2023-10-28T23:05:18,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_points_over_under,zion williamson,False,27.5,-165,2023-10-28T23:05:18,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_points_over_under,zion williamson,False,28.5,-190,2023-10-28T16:22:05,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_points_over_under,zion williamson,False,21.5,105,2023-10-29T01:00:07,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_points_over_under,zion williamson,False,22.5,-105,2023-10-28T23:31:08,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_points_over_under,zion williamson,False,23.5,105,2023-10-29T01:10:16,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_points_over_under,zion williamson,False,24.5,-120,2023-10-29T00:50:26,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_points_over_under,zion williamson,False,25.5,100,2023-10-29T00:45:50,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_points_over_under,zion williamson,False,26.5,-135,2023-10-29T00:41:00,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_points_over_under,zion williamson,False,27.5,-105,2023-10-28T23:35:31,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,barstool,player_points_over_under,zion williamson,True,21.5,-130,2023-10-29T00:30:09,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,barstool,player_points_over_under,zion williamson,True,22.5,-105,2023-10-29T00:25:05,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,barstool,player_points_over_under,zion williamson,True,23.5,-115,2023-10-29T00:20:08,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,barstool,player_points_over_under,zion williamson,True,24.5,-120,2023-10-29T00:05:06,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,barstool,player_points_over_under,zion williamson,True,25.5,-130,2023-10-29T00:00:54,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,barstool,player_points_over_under,zion williamson,True,26.5,-105,2023-10-29T00:40:05,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,barstool,player_points_over_under,zion williamson,True,28.5,140,2023-10-28T16:10:32,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,barstool,player_points_over_under,zion williamson,False,21.5,-110,2023-10-29T00:30:09,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,barstool,player_points_over_under,zion williamson,False,22.5,-135,2023-10-29T00:25:05,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,barstool,player_points_over_under,zion williamson,False,23.5,-125,2023-10-29T00:20:08,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,barstool,player_points_over_under,zion williamson,False,24.5,-120,2023-10-29T00:05:06,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,barstool,player_points_over_under,zion williamson,False,25.5,-110,2023-10-29T00:00:54,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,barstool,player_points_over_under,zion williamson,False,26.5,-135,2023-10-29T00:40:05,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,barstool,player_points_over_under,zion williamson,False,28.5,-195,2023-10-28T16:10:32,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,betrivers,player_points_over_under,zion williamson,True,21.5,-109,2023-10-29T00:30:06,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,betrivers,player_points_over_under,zion williamson,True,22.5,-118,2023-10-29T00:25:05,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,betrivers,player_points_over_under,zion williamson,True,23.5,-118,2023-10-29T00:20:13,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,betrivers,player_points_over_under,zion williamson,True,24.5,-118,2023-10-29T00:05:05,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,betrivers,player_points_over_under,zion williamson,True,25.5,-112,2023-10-28T17:06:39,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,betrivers,player_points_over_under,zion williamson,True,26.5,-122,2023-10-29T00:41:40,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,betrivers,player_points_over_under,zion williamson,True,27.5,140,2023-10-28T17:06:39,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,betrivers,player_points_over_under,zion williamson,True,28.5,175,2023-10-28T17:06:39,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_rebounds_over_under,zion williamson,True,3.5,-138,2023-10-29T00:20:26,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_rebounds_over_under,zion williamson,True,4.5,124,2023-10-28T23:56:01,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_rebounds_over_under,zion williamson,True,5.5,1000,2023-10-29T01:15:09,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_rebounds_over_under,zion williamson,True,6.5,162,2023-10-29T00:50:46,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_rebounds_over_under,zion williamson,False,3.5,104,2023-10-29T00:20:26,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_rebounds_over_under,zion williamson,False,4.5,-166,2023-10-28T23:56:01,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_rebounds_over_under,zion williamson,False,5.5,-100000,2023-10-29T01:15:09,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_rebounds_over_under,zion williamson,False,6.5,-220,2023-10-29T00:50:46,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,pinnacle,player_rebounds_over_under,zion williamson,True,6.5,-117,2023-10-28T03:56:00,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,pinnacle,player_rebounds_over_under,zion williamson,False,6.5,-113,2023-10-28T03:56:00,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_rebounds_over_under,zion williamson,True,3.5,-135,2023-10-29T00:21:57,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_rebounds_over_under,zion williamson,True,4.5,120,2023-10-28T23:55:08,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_rebounds_over_under,zion williamson,True,5.5,135,2023-10-29T01:10:16,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_rebounds_over_under,zion williamson,True,6.5,155,2023-10-29T00:50:26,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_rebounds_over_under,zion williamson,False,3.5,105,2023-10-29T00:21:57,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_rebounds_over_under,zion williamson,False,4.5,-160,2023-10-28T23:55:08,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_rebounds_over_under,zion williamson,False,5.5,-180,2023-10-29T01:10:16,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_rebounds_over_under,zion williamson,False,6.5,-210,2023-10-29T00:50:26,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,barstool,player_rebounds_over_under,zion williamson,True,3.5,-140,2023-10-29T00:20:08,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,barstool,player_rebounds_over_under,zion williamson,True,4.5,125,2023-10-29T00:05:06,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,barstool,player_rebounds_over_under,zion williamson,True,5.5,-190,2023-10-29T00:35:06,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,barstool,player_rebounds_over_under,zion williamson,True,6.5,-115,2023-10-29T00:40:05,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,barstool,player_rebounds_over_under,zion williamson,False,3.5,100,2023-10-29T00:20:08,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,barstool,player_rebounds_over_under,zion williamson,False,4.5,-180,2023-10-29T00:05:06,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,barstool,player_rebounds_over_under,zion williamson,False,5.5,135,2023-10-29T00:35:06,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,barstool,player_rebounds_over_under,zion williamson,False,6.5,-125,2023-10-29T00:40:05,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,betrivers,player_rebounds_over_under,zion williamson,True,5.5,-240,2023-10-28T17:06:39,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,betrivers,player_rebounds_over_under,zion williamson,True,6.5,-121,2023-10-28T17:06:39,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,betrivers,player_rebounds_over_under,zion williamson,True,7.5,150,2023-10-28T17:06:39,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_steals_over_under,zion williamson,True,0.5,680,2023-10-29T01:10:50,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_steals_over_under,zion williamson,True,1.5,1000,2023-10-29T01:15:09,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_steals_over_under,zion williamson,False,0.5,-1600,2023-10-29T01:10:50,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_steals_over_under,zion williamson,False,1.5,-100000,2023-10-29T01:15:09,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_steals_over_under,zion williamson,True,0.5,900,2023-10-29T01:10:16,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_steals_over_under,zion williamson,False,0.5,-3000,2023-10-29T01:10:16,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,barstool,player_steals_over_under,zion williamson,True,0.5,260,2023-10-29T00:35:06,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,barstool,player_steals_over_under,zion williamson,False,0.5,-425,2023-10-29T00:35:06,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,betrivers,player_steals_over_under,zion williamson,True,0.5,-162,2023-10-28T17:06:39,New Orleans Pelicans,New York Knicks

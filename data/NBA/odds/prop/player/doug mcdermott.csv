@@ -1,0 +1,23 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_threes_over_under,doug mcdermott,False,1.5,134,2023-03-22T00:00:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_points_over_under,doug mcdermott,False,11.5,-114,2023-03-21T23:45:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_points_over_under,doug mcdermott,True,11.5,-106,2023-03-21T23:45:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_threes_over_under,doug mcdermott,True,1.5,-172,2023-03-22T00:00:01,New Orleans Pelicans,San Antonio Spurs
+2023-04-02,43056536e1f256a358f25f71b7340b14,fanduel,player_threes_over_under,doug mcdermott,False,1.5,126,2023-03-29T23:45:01,San Antonio Spurs,Utah Jazz
+2023-04-02,43056536e1f256a358f25f71b7340b14,fanduel,player_threes_over_under,doug mcdermott,True,1.5,-162,2023-03-29T23:45:01,San Antonio Spurs,Utah Jazz
+2023-04-02,43056536e1f256a358f25f71b7340b14,fanduel,player_rebounds_over_under,doug mcdermott,False,2.5,-134,2023-03-30T00:00:01,San Antonio Spurs,Utah Jazz
+2023-04-02,43056536e1f256a358f25f71b7340b14,fanduel,player_rebounds_over_under,doug mcdermott,True,2.5,110,2023-03-30T00:00:01,San Antonio Spurs,Utah Jazz
+2023-04-02,43056536e1f256a358f25f71b7340b14,fanduel,player_points_over_under,doug mcdermott,False,10.5,-120,2023-03-30T00:00:01,San Antonio Spurs,Utah Jazz
+2023-04-02,43056536e1f256a358f25f71b7340b14,fanduel,player_points_over_under,doug mcdermott,True,10.5,-102,2023-03-30T00:00:01,San Antonio Spurs,Utah Jazz
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_threes_over_under,doug mcdermott,False,1.5,125,2023-04-05T01:45:02,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_blocks_over_under,doug mcdermott,True,0.5,750,2023-04-05T01:45:02,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_steals_over_under,doug mcdermott,True,0.5,185,2023-04-05T01:45:02,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_rebounds_over_under,doug mcdermott,False,2.5,-185,2023-04-05T01:45:02,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_rebounds_over_under,doug mcdermott,True,2.5,150,2023-04-05T01:45:02,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_points_over_under,doug mcdermott,False,10.5,-110,2023-04-05T01:45:02,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_points_over_under,doug mcdermott,True,10.5,-120,2023-04-05T01:45:02,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,fanduel,player_points_over_under,doug mcdermott,False,10.5,-108,2023-04-05T02:00:02,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,fanduel,player_points_over_under,doug mcdermott,True,10.5,-114,2023-04-05T02:00:02,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_blocks_over_under,doug mcdermott,False,0.5,-1300,2023-04-05T01:45:02,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_steals_over_under,doug mcdermott,False,0.5,-230,2023-04-05T01:45:02,Phoenix Suns,San Antonio Spurs
+2023-04-04,1fdef5f2a4f4568e2e1f6288c5949919,draftkings,player_threes_over_under,doug mcdermott,True,1.5,-155,2023-04-05T01:45:02,Phoenix Suns,San Antonio Spurs

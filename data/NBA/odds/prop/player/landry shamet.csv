@@ -1,0 +1,447 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_points_over_under,landry shamet,False,8.5,102,2023-03-23T02:15:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_points_over_under,landry shamet,True,8.5,-130,2023-03-23T02:15:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_points_over_under,landry shamet,True,9.5,100,2023-03-23T01:30:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_points_over_under,landry shamet,False,9.5,-122,2023-03-23T01:30:01,Los Angeles Lakers,Phoenix Suns
+2023-03-25,328e99caf39c9771fa6195341d27ba07,fanduel,player_points_over_under,landry shamet,False,8.5,-128,2023-03-26T01:45:01,Phoenix Suns,Philadelphia 76ers
+2023-03-25,328e99caf39c9771fa6195341d27ba07,fanduel,player_points_over_under,landry shamet,True,8.5,104,2023-03-26T01:45:01,Phoenix Suns,Philadelphia 76ers
+2023-04-07,25cde6329053b8107760088193660ecf,caesars,player_rebounds_over_under,landry shamet,True,2.5,-142,2023-04-08T02:30:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,fanduel,player_steals_over_under,landry shamet,True,1.5,174,2023-04-08T03:30:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_points_over_under,landry shamet,True,10.5,130,2023-04-08T04:15:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_points_over_under,landry shamet,True,11.5,-110,2023-04-08T04:00:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_points_over_under,landry shamet,True,12.5,-110,2023-04-08T02:45:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_points_over_under,landry shamet,True,13.5,100,2023-04-08T03:15:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_points_over_under,landry shamet,True,14.5,-105,2023-04-08T02:15:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_points_over_under,landry shamet,False,7.5,100,2023-04-08T04:30:02,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_points_over_under,landry shamet,False,10.5,-170,2023-04-08T04:15:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_points_over_under,landry shamet,False,11.5,-120,2023-04-08T04:00:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_points_over_under,landry shamet,False,12.5,-120,2023-04-08T02:45:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_points_over_under,landry shamet,False,13.5,-130,2023-04-08T03:15:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_points_over_under,landry shamet,False,14.5,-125,2023-04-08T02:15:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,caesars,player_points_over_under,landry shamet,True,14.5,-103,2023-04-08T02:30:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,fanduel,player_steals_over_under,landry shamet,True,0.5,-122,2023-04-08T02:45:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,fanduel,player_rebounds_over_under,landry shamet,True,2.5,-106,2023-04-08T02:45:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,fanduel,player_rebounds_over_under,landry shamet,True,3.5,-210,2023-04-08T03:15:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,fanduel,player_rebounds_over_under,landry shamet,True,4.5,490,2023-04-08T04:30:02,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,fanduel,player_rebounds_over_under,landry shamet,False,2.5,-125,2023-04-08T02:45:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,fanduel,player_rebounds_over_under,landry shamet,False,3.5,154,2023-04-08T03:15:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_rebounds_over_under,landry shamet,True,2.5,-110,2023-04-08T02:45:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_rebounds_over_under,landry shamet,True,3.5,-205,2023-04-08T03:15:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_rebounds_over_under,landry shamet,True,4.5,450,2023-04-08T04:30:02,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_rebounds_over_under,landry shamet,False,2.5,-120,2023-04-08T02:45:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_rebounds_over_under,landry shamet,False,3.5,150,2023-04-08T03:15:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_rebounds_over_under,landry shamet,False,4.5,-800,2023-04-08T04:30:02,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,caesars,player_rebounds_over_under,landry shamet,False,2.5,104,2023-04-08T02:30:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,caesars,player_points_over_under,landry shamet,False,14.5,-133,2023-04-08T02:30:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,fanduel,player_assists_over_under,landry shamet,False,4.5,-260,2023-04-08T04:00:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_points_over_under,landry shamet,True,7.5,-135,2023-04-08T04:30:02,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,fanduel,player_assists_over_under,landry shamet,True,3.5,-166,2023-04-08T03:45:02,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,fanduel,player_assists_over_under,landry shamet,True,4.5,188,2023-04-08T04:00:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,fanduel,player_assists_over_under,landry shamet,True,5.5,390,2023-04-08T04:30:02,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,fanduel,player_assists_over_under,landry shamet,False,3.5,124,2023-04-08T03:45:02,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,fanduel,player_assists_over_under,landry shamet,False,5.5,-650,2023-04-08T04:30:02,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_assists_over_under,landry shamet,True,3.5,-165,2023-04-08T03:45:02,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_assists_over_under,landry shamet,True,4.5,170,2023-04-08T04:00:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_assists_over_under,landry shamet,True,5.5,370,2023-04-08T04:30:02,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_assists_over_under,landry shamet,False,3.5,120,2023-04-08T03:30:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_assists_over_under,landry shamet,False,4.5,-230,2023-04-08T04:00:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_assists_over_under,landry shamet,False,5.5,-600,2023-04-08T04:30:02,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,caesars,player_assists_over_under,landry shamet,True,3.5,-119,2023-04-08T02:30:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,caesars,player_assists_over_under,landry shamet,False,3.5,-115,2023-04-08T02:30:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,fanduel,player_blocks_over_under,landry shamet,True,0.5,1000,2023-04-08T04:00:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,fanduel,player_blocks_over_under,landry shamet,False,0.5,-100000,2023-04-08T04:30:02,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_blocks_over_under,landry shamet,True,0.5,390,2023-04-08T02:15:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_blocks_over_under,landry shamet,False,0.5,-540,2023-04-08T02:15:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,fanduel,player_points_over_under,landry shamet,False,14.5,-115,2023-04-08T02:30:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,fanduel,player_points_over_under,landry shamet,False,13.5,-138,2023-04-08T03:15:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,fanduel,player_points_over_under,landry shamet,False,12.5,-120,2023-04-08T02:45:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,fanduel,player_points_over_under,landry shamet,False,11.5,-148,2023-04-08T04:00:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,fanduel,player_points_over_under,landry shamet,False,10.5,-178,2023-04-08T04:15:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,fanduel,player_points_over_under,landry shamet,False,7.5,102,2023-04-08T04:30:02,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,fanduel,player_steals_over_under,landry shamet,True,2.5,310,2023-04-08T04:00:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,fanduel,player_points_over_under,landry shamet,True,14.5,-105,2023-04-08T02:30:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,fanduel,player_points_over_under,landry shamet,True,12.5,-110,2023-04-08T02:45:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,fanduel,player_points_over_under,landry shamet,True,11.5,112,2023-04-08T04:00:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,fanduel,player_points_over_under,landry shamet,True,10.5,132,2023-04-08T04:15:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,fanduel,player_points_over_under,landry shamet,True,7.5,-136,2023-04-08T04:30:02,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,caesars,player_blocks_over_under,landry shamet,False,0.5,-579,2023-04-08T02:15:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,caesars,player_blocks_over_under,landry shamet,True,0.5,345,2023-04-08T02:15:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,fanduel,player_points_over_under,landry shamet,True,13.5,104,2023-04-08T03:15:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,fanduel,player_steals_over_under,landry shamet,True,3.5,1000,2023-04-08T04:30:02,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,fanduel,player_rebounds_over_under,landry shamet,False,4.5,-900,2023-04-08T04:30:02,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,fanduel,player_steals_over_under,landry shamet,False,1.5,-240,2023-04-08T03:30:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,fanduel,player_steals_over_under,landry shamet,False,0.5,-108,2023-04-08T02:45:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_threes_over_under,landry shamet,False,0.5,180,2023-04-07T01:45:01,Phoenix Suns,Denver Nuggets
+2023-04-07,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_threes_over_under,landry shamet,True,0.5,-220,2023-04-07T01:45:01,Phoenix Suns,Denver Nuggets
+2023-04-07,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_steals_over_under,landry shamet,False,0.5,-175,2023-04-07T01:45:01,Phoenix Suns,Denver Nuggets
+2023-04-07,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_steals_over_under,landry shamet,True,0.5,140,2023-04-07T01:45:01,Phoenix Suns,Denver Nuggets
+2023-04-07,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_blocks_over_under,landry shamet,False,0.5,-1100,2023-04-07T01:45:01,Phoenix Suns,Denver Nuggets
+2023-04-07,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_blocks_over_under,landry shamet,True,0.5,675,2023-04-07T01:45:01,Phoenix Suns,Denver Nuggets
+2023-04-07,25cde6329053b8107760088193660ecf,caesars,player_threes_over_under,landry shamet,False,2.5,-166,2023-04-08T02:30:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,caesars,player_threes_over_under,landry shamet,True,2.5,120,2023-04-08T02:30:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_threes_over_under,landry shamet,False,1.5,105,2023-04-08T03:00:02,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_threes_over_under,landry shamet,True,2.5,550,2023-04-08T04:30:02,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_threes_over_under,landry shamet,True,1.5,-145,2023-04-08T03:00:02,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,fanduel,player_threes_over_under,landry shamet,False,2.5,-1200,2023-04-08T04:30:02,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,fanduel,player_threes_over_under,landry shamet,False,1.5,108,2023-04-08T03:00:02,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_threes_over_under,landry shamet,False,2.5,-1100,2023-04-08T04:30:02,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,fanduel,player_threes_over_under,landry shamet,True,1.5,-144,2023-04-08T03:00:02,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,fanduel,player_steals_over_under,landry shamet,False,2.5,-470,2023-04-08T04:00:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,fanduel,player_threes_over_under,landry shamet,True,2.5,580,2023-04-08T04:30:02,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_steals_over_under,landry shamet,True,0.5,-120,2023-04-08T02:45:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_steals_over_under,landry shamet,True,1.5,165,2023-04-08T03:30:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_steals_over_under,landry shamet,True,2.5,285,2023-04-08T04:00:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_steals_over_under,landry shamet,True,3.5,400,2023-04-08T04:15:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_steals_over_under,landry shamet,False,0.5,-110,2023-04-08T02:45:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,fanduel,player_steals_over_under,landry shamet,False,3.5,-7000,2023-04-08T04:30:02,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_steals_over_under,landry shamet,False,2.5,-425,2023-04-08T04:00:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,caesars,player_steals_over_under,landry shamet,False,0.5,108,2023-04-08T02:15:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_steals_over_under,landry shamet,False,3.5,-700,2023-04-08T04:15:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,caesars,player_steals_over_under,landry shamet,True,0.5,-148,2023-04-08T02:15:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_steals_over_under,landry shamet,False,1.5,-225,2023-04-08T03:30:01,Los Angeles Lakers,Phoenix Suns
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_rebounds_over_under,landry shamet,True,4.5,152,2023-04-09T21:00:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_rebounds_over_under,landry shamet,True,3.5,1000,2023-04-09T21:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,caesars,player_points_over_under,landry shamet,False,13.5,-103,2023-04-09T19:15:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_assists_over_under,landry shamet,True,5.5,-140,2023-04-09T20:15:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_assists_over_under,landry shamet,True,6.5,880,2023-04-09T21:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_assists_over_under,landry shamet,False,5.5,106,2023-04-09T20:15:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_assists_over_under,landry shamet,False,6.5,-3000,2023-04-09T21:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_assists_over_under,landry shamet,False,7.5,-245,2023-04-09T21:15:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_assists_over_under,landry shamet,True,4.5,110,2023-04-09T19:15:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_assists_over_under,landry shamet,True,5.5,-140,2023-04-09T20:15:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,caesars,player_points_over_under,landry shamet,True,13.5,-133,2023-04-09T19:15:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_rebounds_over_under,landry shamet,False,3.5,-4000,2023-04-09T21:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_assists_over_under,landry shamet,True,7.5,178,2023-04-09T21:15:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_rebounds_over_under,landry shamet,False,4.5,-205,2023-04-09T21:00:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,caesars,player_steals_over_under,landry shamet,False,0.5,146,2023-04-09T19:15:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_rebounds_over_under,landry shamet,True,3.5,1000,2023-04-09T21:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_rebounds_over_under,landry shamet,True,4.5,155,2023-04-09T21:00:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_rebounds_over_under,landry shamet,False,2.5,125,2023-04-09T19:15:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_rebounds_over_under,landry shamet,False,3.5,-5000,2023-04-09T21:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_rebounds_over_under,landry shamet,False,4.5,-210,2023-04-09T21:00:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,caesars,player_rebounds_over_under,landry shamet,True,2.5,-163,2023-04-09T19:15:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,caesars,player_rebounds_over_under,landry shamet,False,2.5,118,2023-04-09T19:15:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_steals_over_under,landry shamet,True,0.5,1000,2023-04-09T21:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_steals_over_under,landry shamet,False,0.5,-50000,2023-04-09T21:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_steals_over_under,landry shamet,True,0.5,700,2023-04-09T21:30:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_steals_over_under,landry shamet,False,0.5,-1600,2023-04-09T21:30:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,caesars,player_steals_over_under,landry shamet,True,0.5,-204,2023-04-09T19:15:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_points_over_under,landry shamet,False,13.5,100,2023-04-09T19:15:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_threes_over_under,landry shamet,True,1.5,-205,2023-04-09T20:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_rebounds_over_under,landry shamet,True,2.5,-155,2023-04-09T19:15:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_points_over_under,landry shamet,False,12.5,-115,2023-04-09T19:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_points_over_under,landry shamet,True,15.5,114,2023-04-09T21:30:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_points_over_under,landry shamet,False,9.5,-105,2023-04-09T21:00:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_threes_over_under,landry shamet,True,2.5,102,2023-04-09T21:15:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_assists_over_under,landry shamet,False,4.5,-140,2023-04-09T19:15:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_assists_over_under,landry shamet,False,5.5,105,2023-04-09T20:15:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_assists_over_under,landry shamet,False,6.5,-2500,2023-04-09T21:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_assists_over_under,landry shamet,False,7.5,-240,2023-04-09T21:15:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,caesars,player_assists_over_under,landry shamet,True,4.5,104,2023-04-09T19:15:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,caesars,player_assists_over_under,landry shamet,False,4.5,-142,2023-04-09T19:15:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_blocks_over_under,landry shamet,True,0.5,1000,2023-04-09T21:30:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_blocks_over_under,landry shamet,False,0.5,-100000,2023-04-09T21:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_blocks_over_under,landry shamet,True,0.5,320,2023-04-09T19:15:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_blocks_over_under,landry shamet,False,0.5,-425,2023-04-09T19:15:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,caesars,player_blocks_over_under,landry shamet,True,0.5,287,2023-04-09T19:15:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,caesars,player_blocks_over_under,landry shamet,False,0.5,-454,2023-04-09T19:15:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_points_over_under,landry shamet,True,9.5,-140,2023-04-09T21:00:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_points_over_under,landry shamet,True,11.5,102,2023-04-09T20:00:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_points_over_under,landry shamet,True,12.5,-112,2023-04-09T19:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_points_over_under,landry shamet,True,14.5,290,2023-04-09T21:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_points_over_under,landry shamet,False,9.5,106,2023-04-09T21:00:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_points_over_under,landry shamet,False,11.5,-136,2023-04-09T20:00:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_points_over_under,landry shamet,False,12.5,-118,2023-04-09T19:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_points_over_under,landry shamet,False,14.5,-440,2023-04-09T21:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_points_over_under,landry shamet,False,15.5,-152,2023-04-09T21:30:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_points_over_under,landry shamet,True,9.5,-125,2023-04-09T21:00:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_points_over_under,landry shamet,True,11.5,-105,2023-04-09T20:00:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_points_over_under,landry shamet,True,12.5,-115,2023-04-09T19:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_points_over_under,landry shamet,True,13.5,-130,2023-04-09T19:15:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_points_over_under,landry shamet,True,14.5,265,2023-04-09T21:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_points_over_under,landry shamet,True,15.5,115,2023-04-09T21:30:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_assists_over_under,landry shamet,True,7.5,175,2023-04-09T21:15:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_points_over_under,landry shamet,False,11.5,-125,2023-04-09T20:00:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_threes_over_under,landry shamet,True,3.5,1000,2023-04-09T21:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_assists_over_under,landry shamet,True,6.5,800,2023-04-09T21:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_threes_over_under,landry shamet,False,2.5,-136,2023-04-09T21:15:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_points_over_under,landry shamet,False,14.5,-390,2023-04-09T21:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_threes_over_under,landry shamet,False,1.5,152,2023-04-09T20:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,caesars,player_threes_over_under,landry shamet,False,2.5,-169,2023-04-09T19:15:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,caesars,player_threes_over_under,landry shamet,True,2.5,123,2023-04-09T19:15:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_threes_over_under,landry shamet,False,3.5,-475,2023-04-09T21:30:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_points_over_under,landry shamet,False,15.5,-155,2023-04-09T21:30:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_threes_over_under,landry shamet,False,1.5,140,2023-04-09T21:00:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_threes_over_under,landry shamet,True,3.5,310,2023-04-09T21:30:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_threes_over_under,landry shamet,True,2.5,100,2023-04-09T21:15:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_threes_over_under,landry shamet,False,3.5,-7000,2023-04-09T21:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_threes_over_under,landry shamet,False,2.5,-135,2023-04-09T21:15:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_threes_over_under,landry shamet,True,1.5,-185,2023-04-09T21:00:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,draftkings,player_steals_over_under,landry shamet,False,0.5,-135,2023-04-19T00:45:02,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,draftkings,player_steals_over_under,landry shamet,True,0.5,105,2023-04-19T00:45:02,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,fanduel,player_points_over_under,landry shamet,False,7.5,-128,2023-04-19T01:45:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,fanduel,player_points_over_under,landry shamet,False,6.5,112,2023-04-19T01:00:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,fanduel,player_points_over_under,landry shamet,True,7.5,104,2023-04-19T02:00:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,fanduel,player_points_over_under,landry shamet,True,6.5,-138,2023-04-19T01:00:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,draftkings,player_blocks_over_under,landry shamet,False,0.5,-810,2023-04-19T00:45:02,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,draftkings,player_blocks_over_under,landry shamet,True,0.5,540,2023-04-19T00:45:02,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,draftkings,player_threes_over_under,landry shamet,False,1.5,-205,2023-04-19T01:15:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,draftkings,player_threes_over_under,landry shamet,True,1.5,165,2023-04-19T01:15:01,Phoenix Suns,LA Clippers
+2023-04-20,2fb312686cb06a76fb7575f153280c76,draftkings,player_steals_over_under,landry shamet,False,0.5,-190,2023-04-20T16:00:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,betmgm,player_steals_over_under,landry shamet,True,0.5,150,2023-04-20T16:00:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,betmgm,player_steals_over_under,landry shamet,False,0.5,-200,2023-04-20T16:00:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,draftkings,player_threes_over_under,landry shamet,True,0.5,-195,2023-04-20T20:30:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,draftkings,player_threes_over_under,landry shamet,False,0.5,160,2023-04-20T20:30:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,betmgm,player_threes_over_under,landry shamet,True,0.5,-200,2023-04-20T20:30:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,betmgm,player_threes_over_under,landry shamet,False,0.5,150,2023-04-20T20:30:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,draftkings,player_steals_over_under,landry shamet,True,0.5,155,2023-04-20T16:00:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,betmgm,player_rebounds_over_under,landry shamet,False,1.5,-200,2023-04-20T20:30:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,betmgm,player_assists_over_under,landry shamet,True,1.5,135,2023-04-20T20:30:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,betmgm,player_assists_over_under,landry shamet,False,1.5,-185,2023-04-20T20:30:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,draftkings,player_blocks_over_under,landry shamet,True,0.5,850,2023-04-20T16:00:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,draftkings,player_blocks_over_under,landry shamet,False,0.5,-1600,2023-04-20T16:00:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,betmgm,player_blocks_over_under,landry shamet,True,0.5,750,2023-04-20T16:00:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,betmgm,player_blocks_over_under,landry shamet,False,0.5,-2000,2023-04-20T16:00:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,fanduel,player_points_over_under,landry shamet,True,4.5,-142,2023-04-21T02:30:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,fanduel,player_points_over_under,landry shamet,False,4.5,116,2023-04-21T02:30:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,betmgm,player_points_over_under,landry shamet,True,4.5,-120,2023-04-20T16:00:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,betmgm,player_points_over_under,landry shamet,False,4.5,-110,2023-04-20T16:00:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,betmgm,player_rebounds_over_under,landry shamet,True,1.5,150,2023-04-20T20:30:01,LA Clippers,Phoenix Suns
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_assists_over_under,landry shamet,False,0.5,-550,2023-04-26T04:30:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_assists_over_under,landry shamet,True,0.5,350,2023-04-26T04:30:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_threes_over_under,landry shamet,False,1.5,-800,2023-04-26T04:30:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_threes_over_under,landry shamet,False,0.5,-650,2023-04-26T03:45:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_threes_over_under,landry shamet,True,1.5,450,2023-04-26T04:30:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_steals_over_under,landry shamet,False,0.5,-2000,2023-04-26T04:30:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_threes_over_under,landry shamet,True,0.5,390,2023-04-26T03:45:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_blocks_over_under,landry shamet,True,0.5,1000,2023-04-26T02:45:02,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_blocks_over_under,landry shamet,False,0.5,-50000,2023-04-26T04:30:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_points_over_under,landry shamet,True,3.5,-210,2023-04-26T04:30:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_points_over_under,landry shamet,True,4.5,174,2023-04-26T04:00:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_points_over_under,landry shamet,True,1.5,194,2023-04-26T03:45:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_points_over_under,landry shamet,False,3.5,154,2023-04-26T04:30:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_points_over_under,landry shamet,False,4.5,-240,2023-04-26T04:00:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_rebounds_over_under,landry shamet,True,0.5,270,2023-04-26T04:30:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_rebounds_over_under,landry shamet,False,0.5,-400,2023-04-26T04:30:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_steals_over_under,landry shamet,True,0.5,750,2023-04-26T04:30:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_points_over_under,landry shamet,False,1.5,-270,2023-04-26T03:45:01,Phoenix Suns,LA Clippers
+2023-05-07,5d17247333898dcef28978afbae3d4b6,draftkings,player_steals_over_under,landry shamet,False,0.5,-180,2023-05-07T23:45:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_rebounds_over_under,landry shamet,False,5.5,-166,2023-05-06T15:45:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,betmgm,player_rebounds_over_under,landry shamet,True,1.5,145,2023-05-07T23:45:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,betmgm,player_rebounds_over_under,landry shamet,False,1.5,-190,2023-05-07T23:45:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,draftkings,player_steals_over_under,landry shamet,True,0.5,145,2023-05-07T23:45:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,betmgm,player_steals_over_under,landry shamet,True,0.5,140,2023-05-07T23:45:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_threes_over_under,landry shamet,False,1.5,-274,2023-05-06T15:45:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_threes_over_under,landry shamet,True,0.5,-159,2023-05-07T23:45:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_threes_over_under,landry shamet,True,1.5,187,2023-05-06T15:45:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_threes_over_under,landry shamet,False,0.5,118,2023-05-07T23:45:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_rebounds_over_under,landry shamet,False,1.5,-179,2023-05-08T00:00:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,draftkings,player_threes_over_under,landry shamet,True,0.5,-150,2023-05-07T23:45:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,draftkings,player_threes_over_under,landry shamet,False,0.5,120,2023-05-07T23:45:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,betmgm,player_steals_over_under,landry shamet,False,0.5,-190,2023-05-07T23:45:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_rebounds_over_under,landry shamet,True,5.5,123,2023-05-06T15:45:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_points_over_under,landry shamet,True,8.5,-106,2023-05-06T15:45:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,betmgm,player_points_over_under,landry shamet,False,4.5,-115,2023-05-07T23:45:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,betmgm,player_points_over_under,landry shamet,True,4.5,-115,2023-05-07T23:45:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_points_over_under,landry shamet,False,8.5,-125,2023-05-06T15:45:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_points_over_under,landry shamet,False,4.5,-114,2023-05-07T23:45:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_points_over_under,landry shamet,True,4.5,-116,2023-05-07T23:45:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,betmgm,player_blocks_over_under,landry shamet,False,0.5,-1600,2023-05-07T23:45:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,betmgm,player_blocks_over_under,landry shamet,True,0.5,675,2023-05-07T23:45:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,draftkings,player_blocks_over_under,landry shamet,False,0.5,-1300,2023-05-07T23:45:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,draftkings,player_blocks_over_under,landry shamet,True,0.5,750,2023-05-07T23:45:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,betmgm,player_assists_over_under,landry shamet,False,1.5,-145,2023-05-07T23:45:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,betmgm,player_assists_over_under,landry shamet,True,1.5,110,2023-05-07T23:45:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_assists_over_under,landry shamet,False,1.5,-148,2023-05-07T23:45:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_assists_over_under,landry shamet,True,3.5,135,2023-05-06T15:45:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_assists_over_under,landry shamet,True,1.5,111,2023-05-07T23:45:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_rebounds_over_under,landry shamet,True,1.5,131,2023-05-08T00:00:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_assists_over_under,landry shamet,False,3.5,-185,2023-05-06T15:45:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,betmgm,player_threes_over_under,landry shamet,False,0.5,115,2023-05-07T23:45:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,betmgm,player_threes_over_under,landry shamet,True,0.5,-155,2023-05-07T23:45:01,Phoenix Suns,Denver Nuggets
+2023-05-09,b13a682fab35fa471075b948a5b48b99,betmgm,player_threes_over_under,landry shamet,False,1.5,-145,2023-05-10T01:45:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,fanduel,player_points_over_under,landry shamet,True,4.5,-136,2023-05-10T03:15:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,fanduel,player_points_over_under,landry shamet,True,5.5,100,2023-05-10T03:30:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,fanduel,player_points_over_under,landry shamet,True,6.5,102,2023-05-10T02:30:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,fanduel,player_points_over_under,landry shamet,False,1.5,182,2023-05-10T04:15:02,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,fanduel,player_points_over_under,landry shamet,False,2.5,106,2023-05-10T04:00:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,fanduel,player_points_over_under,landry shamet,False,3.5,-120,2023-05-10T03:45:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,fanduel,player_points_over_under,landry shamet,False,4.5,102,2023-05-10T03:15:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,fanduel,player_points_over_under,landry shamet,False,5.5,-132,2023-05-10T03:30:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,fanduel,player_points_over_under,landry shamet,False,6.5,-136,2023-05-10T02:30:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,pinnacle,player_points_over_under,landry shamet,True,6.5,-116,2023-05-10T02:00:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,pinnacle,player_points_over_under,landry shamet,False,6.5,-115,2023-05-10T02:00:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,draftkings,player_points_over_under,landry shamet,True,1.5,-245,2023-05-10T04:15:02,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,draftkings,player_points_over_under,landry shamet,True,2.5,-140,2023-05-10T04:00:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,draftkings,player_points_over_under,landry shamet,True,3.5,-110,2023-05-10T03:45:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,draftkings,player_points_over_under,landry shamet,True,4.5,-130,2023-05-10T03:15:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,draftkings,player_points_over_under,landry shamet,True,5.5,100,2023-05-10T03:30:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,draftkings,player_points_over_under,landry shamet,True,6.5,100,2023-05-10T02:30:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,fanduel,player_points_over_under,landry shamet,True,3.5,-110,2023-05-10T03:45:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,fanduel,player_points_over_under,landry shamet,True,2.5,-140,2023-05-10T04:00:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,fanduel,player_points_over_under,landry shamet,True,1.5,-250,2023-05-10T04:15:02,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,betmgm,player_blocks_over_under,landry shamet,False,0.5,-800,2023-05-10T01:45:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,fanduel,player_assists_over_under,landry shamet,True,1.5,-118,2023-05-10T02:15:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,fanduel,player_assists_over_under,landry shamet,True,2.5,270,2023-05-10T04:15:02,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,fanduel,player_assists_over_under,landry shamet,False,1.5,-112,2023-05-10T02:15:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,fanduel,player_assists_over_under,landry shamet,False,2.5,-400,2023-05-10T04:15:02,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,pinnacle,player_assists_over_under,landry shamet,True,1.5,-106,2023-05-10T02:00:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,pinnacle,player_assists_over_under,landry shamet,False,1.5,-125,2023-05-10T02:00:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,draftkings,player_assists_over_under,landry shamet,True,1.5,-120,2023-05-10T02:15:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,draftkings,player_assists_over_under,landry shamet,True,2.5,265,2023-05-10T04:15:02,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,draftkings,player_points_over_under,landry shamet,False,1.5,175,2023-05-10T04:15:02,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,draftkings,player_assists_over_under,landry shamet,False,1.5,-110,2023-05-10T02:15:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,betmgm,player_assists_over_under,landry shamet,True,1.5,-120,2023-05-10T01:45:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,betmgm,player_assists_over_under,landry shamet,False,1.5,-110,2023-05-10T01:45:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,fanduel,player_blocks_over_under,landry shamet,True,0.5,520,2023-05-10T02:15:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,fanduel,player_blocks_over_under,landry shamet,True,1.5,1000,2023-05-10T03:45:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,fanduel,player_blocks_over_under,landry shamet,False,0.5,-1000,2023-05-10T02:15:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,fanduel,player_blocks_over_under,landry shamet,False,1.5,-50000,2023-05-10T04:15:02,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,draftkings,player_blocks_over_under,landry shamet,True,0.5,500,2023-05-10T01:45:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,draftkings,player_blocks_over_under,landry shamet,False,0.5,-750,2023-05-10T01:45:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,draftkings,player_assists_over_under,landry shamet,False,2.5,-390,2023-05-10T04:15:02,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,draftkings,player_points_over_under,landry shamet,False,2.5,105,2023-05-10T04:00:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,betmgm,player_blocks_over_under,landry shamet,True,0.5,475,2023-05-10T01:45:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,draftkings,player_points_over_under,landry shamet,False,4.5,100,2023-05-10T03:15:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,betmgm,player_rebounds_over_under,landry shamet,False,1.5,-105,2023-05-10T01:45:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,fanduel,player_steals_over_under,landry shamet,True,0.5,750,2023-05-10T04:15:02,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,fanduel,player_steals_over_under,landry shamet,False,0.5,-2000,2023-05-10T04:15:02,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,draftkings,player_steals_over_under,landry shamet,True,0.5,700,2023-05-10T04:15:02,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,draftkings,player_steals_over_under,landry shamet,False,0.5,-1600,2023-05-10T04:15:02,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,betmgm,player_steals_over_under,landry shamet,True,0.5,100,2023-05-10T01:45:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,betmgm,player_steals_over_under,landry shamet,False,0.5,-135,2023-05-10T01:45:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,fanduel,player_threes_over_under,landry shamet,True,1.5,124,2023-05-10T02:30:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,betmgm,player_rebounds_over_under,landry shamet,True,1.5,-125,2023-05-10T01:45:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,fanduel,player_threes_over_under,landry shamet,False,0.5,-490,2023-05-10T04:15:02,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,pinnacle,player_threes_over_under,landry shamet,True,1.5,111,2023-05-10T01:45:02,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,pinnacle,player_threes_over_under,landry shamet,False,1.5,-148,2023-05-10T01:45:02,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,draftkings,player_threes_over_under,landry shamet,True,0.5,310,2023-05-10T04:15:02,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,draftkings,player_threes_over_under,landry shamet,True,1.5,125,2023-05-10T02:30:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,draftkings,player_threes_over_under,landry shamet,False,0.5,-475,2023-05-10T04:15:02,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,draftkings,player_threes_over_under,landry shamet,False,1.5,-165,2023-05-10T02:30:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,draftkings,player_points_over_under,landry shamet,False,3.5,-120,2023-05-10T03:45:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,betmgm,player_threes_over_under,landry shamet,True,1.5,110,2023-05-10T01:45:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,fanduel,player_threes_over_under,landry shamet,False,1.5,-166,2023-05-10T02:30:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,draftkings,player_rebounds_over_under,landry shamet,False,4.5,-245,2023-05-10T03:30:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,fanduel,player_threes_over_under,landry shamet,True,0.5,320,2023-05-10T04:15:02,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,draftkings,player_rebounds_over_under,landry shamet,False,2.5,-115,2023-05-10T02:30:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,draftkings,player_points_over_under,landry shamet,False,5.5,-130,2023-05-10T03:30:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,draftkings,player_points_over_under,landry shamet,False,6.5,-135,2023-05-10T02:30:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,draftkings,player_rebounds_over_under,landry shamet,False,3.5,-370,2023-05-10T04:15:02,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,betmgm,player_points_over_under,landry shamet,True,6.5,-125,2023-05-10T01:45:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,betmgm,player_points_over_under,landry shamet,False,6.5,-105,2023-05-10T01:45:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,fanduel,player_rebounds_over_under,landry shamet,True,1.5,-128,2023-05-10T02:15:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,fanduel,player_rebounds_over_under,landry shamet,True,2.5,-112,2023-05-10T02:30:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,fanduel,player_rebounds_over_under,landry shamet,True,4.5,188,2023-05-10T03:30:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,fanduel,player_rebounds_over_under,landry shamet,False,1.5,-104,2023-05-10T02:15:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,fanduel,player_rebounds_over_under,landry shamet,False,2.5,-118,2023-05-10T02:30:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,fanduel,player_rebounds_over_under,landry shamet,True,3.5,265,2023-05-10T04:15:02,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,draftkings,player_rebounds_over_under,landry shamet,True,4.5,180,2023-05-10T03:30:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,fanduel,player_rebounds_over_under,landry shamet,False,4.5,-260,2023-05-10T03:30:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,pinnacle,player_rebounds_over_under,landry shamet,True,1.5,-127,2023-05-10T01:45:02,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,pinnacle,player_rebounds_over_under,landry shamet,False,1.5,-105,2023-05-10T01:45:02,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,draftkings,player_rebounds_over_under,landry shamet,True,1.5,-125,2023-05-10T02:15:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,draftkings,player_rebounds_over_under,landry shamet,True,2.5,-115,2023-05-10T02:30:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,draftkings,player_rebounds_over_under,landry shamet,True,3.5,255,2023-05-10T04:15:02,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,fanduel,player_rebounds_over_under,landry shamet,False,3.5,-390,2023-05-10T04:15:02,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,draftkings,player_rebounds_over_under,landry shamet,False,1.5,-105,2023-05-10T02:15:01,Denver Nuggets,Phoenix Suns
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,pinnacle,player_points_over_under,landry shamet,True,7.5,-117,2023-05-11T15:15:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_points_over_under,landry shamet,True,10.5,-110,2023-05-12T02:50:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_points_over_under,landry shamet,False,10.5,-120,2023-05-12T02:50:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_points_over_under,landry shamet,False,9.5,-102,2023-05-12T04:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_points_over_under,landry shamet,False,5.5,140,2023-05-12T03:40:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_points_over_under,landry shamet,False,7.5,-125,2023-05-12T04:10:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_points_over_under,landry shamet,False,6.5,146,2023-05-12T04:20:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,pinnacle,player_points_over_under,landry shamet,True,9.5,104,2023-05-12T02:00:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_points_over_under,landry shamet,False,8.5,-138,2023-05-12T03:45:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,pinnacle,player_points_over_under,landry shamet,False,7.5,-113,2023-05-11T15:15:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_points_over_under,landry shamet,False,6.5,140,2023-05-12T04:20:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_points_over_under,landry shamet,True,5.5,-185,2023-05-12T03:40:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_points_over_under,landry shamet,True,6.5,-190,2023-05-12T04:20:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_points_over_under,landry shamet,True,7.5,-115,2023-05-12T04:10:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_points_over_under,landry shamet,True,8.5,105,2023-05-12T03:45:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_points_over_under,landry shamet,True,9.5,110,2023-05-12T04:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_points_over_under,landry shamet,True,10.5,-115,2023-05-12T02:50:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_points_over_under,landry shamet,False,5.5,135,2023-05-12T03:40:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_points_over_under,landry shamet,False,7.5,-115,2023-05-12T04:10:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_points_over_under,landry shamet,True,9.5,-130,2023-05-12T04:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_points_over_under,landry shamet,False,8.5,-135,2023-05-12T03:45:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,pinnacle,player_points_over_under,landry shamet,False,9.5,-137,2023-05-12T02:00:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_points_over_under,landry shamet,True,8.5,104,2023-05-12T03:45:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_assists_over_under,landry shamet,False,2.5,-440,2023-05-12T04:25:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_points_over_under,landry shamet,True,6.5,-198,2023-05-12T04:20:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_points_over_under,landry shamet,False,9.5,-145,2023-05-12T04:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_assists_over_under,landry shamet,True,2.5,290,2023-05-12T04:25:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_assists_over_under,landry shamet,True,3.5,370,2023-05-12T04:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_assists_over_under,landry shamet,False,1.5,130,2023-05-12T03:40:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_assists_over_under,landry shamet,False,3.5,-600,2023-05-12T04:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,pinnacle,player_assists_over_under,landry shamet,True,2.5,103,2023-05-12T02:00:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,pinnacle,player_assists_over_under,landry shamet,False,2.5,-137,2023-05-12T02:00:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_assists_over_under,landry shamet,True,1.5,-170,2023-05-12T03:40:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_assists_over_under,landry shamet,True,2.5,285,2023-05-12T04:25:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_assists_over_under,landry shamet,True,3.5,450,2023-05-12T04:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_points_over_under,landry shamet,True,7.5,-106,2023-05-12T04:10:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_assists_over_under,landry shamet,False,1.5,125,2023-05-12T03:40:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_assists_over_under,landry shamet,False,3.5,-800,2023-05-12T04:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,betmgm,player_assists_over_under,landry shamet,True,2.5,-120,2023-05-12T01:40:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,betmgm,player_assists_over_under,landry shamet,False,2.5,-115,2023-05-12T01:40:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_blocks_over_under,landry shamet,True,0.5,1000,2023-05-12T03:25:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_blocks_over_under,landry shamet,False,0.5,-100000,2023-05-12T04:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_blocks_over_under,landry shamet,True,0.5,430,2023-05-12T01:50:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_blocks_over_under,landry shamet,False,0.5,-600,2023-05-12T01:50:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,betmgm,player_blocks_over_under,landry shamet,True,0.5,400,2023-05-12T01:50:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,betmgm,player_blocks_over_under,landry shamet,False,0.5,-650,2023-05-12T01:50:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_points_over_under,landry shamet,True,5.5,-188,2023-05-12T03:40:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_assists_over_under,landry shamet,False,2.5,-425,2023-05-12T04:25:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_points_over_under,landry shamet,False,10.5,-115,2023-05-12T02:50:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_threes_over_under,landry shamet,True,1.5,-110,2023-05-12T03:40:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,betmgm,player_points_over_under,landry shamet,False,9.5,-120,2023-05-12T01:40:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_steals_over_under,landry shamet,True,0.5,1000,2023-05-12T04:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_steals_over_under,landry shamet,False,0.5,-4000,2023-05-12T04:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_steals_over_under,landry shamet,True,0.5,900,2023-05-12T04:20:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_steals_over_under,landry shamet,False,0.5,-3000,2023-05-12T04:20:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,betmgm,player_steals_over_under,landry shamet,True,0.5,-125,2023-05-12T01:40:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,betmgm,player_steals_over_under,landry shamet,False,0.5,-105,2023-05-12T01:40:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_threes_over_under,landry shamet,True,1.5,-112,2023-05-12T03:40:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_threes_over_under,landry shamet,True,2.5,370,2023-05-12T04:20:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_threes_over_under,landry shamet,True,3.5,490,2023-05-12T04:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_threes_over_under,landry shamet,False,1.5,-118,2023-05-12T03:40:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_threes_over_under,landry shamet,False,2.5,-600,2023-05-12T04:20:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_threes_over_under,landry shamet,False,3.5,-900,2023-05-12T04:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,pinnacle,player_threes_over_under,landry shamet,True,1.5,-187,2023-05-12T02:00:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,pinnacle,player_threes_over_under,landry shamet,False,1.5,137,2023-05-12T02:00:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_threes_over_under,landry shamet,True,2.5,350,2023-05-12T04:15:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_threes_over_under,landry shamet,True,3.5,550,2023-05-12T04:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_threes_over_under,landry shamet,False,1.5,-120,2023-05-12T03:40:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_threes_over_under,landry shamet,False,2.5,-550,2023-05-12T04:15:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_threes_over_under,landry shamet,False,3.5,-1100,2023-05-12T04:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,betmgm,player_threes_over_under,landry shamet,True,1.5,-185,2023-05-12T01:40:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,betmgm,player_threes_over_under,landry shamet,False,1.5,135,2023-05-12T01:40:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,betmgm,player_rebounds_over_under,landry shamet,False,2.5,-115,2023-05-12T01:40:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,betmgm,player_rebounds_over_under,landry shamet,True,2.5,-115,2023-05-12T01:40:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_rebounds_over_under,landry shamet,False,6.5,-800,2023-05-12T04:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_rebounds_over_under,landry shamet,False,5.5,-425,2023-05-12T04:25:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_rebounds_over_under,landry shamet,True,2.5,102,2023-05-12T02:20:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_rebounds_over_under,landry shamet,True,3.5,152,2023-05-12T02:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_rebounds_over_under,landry shamet,True,4.5,-118,2023-05-12T03:45:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_rebounds_over_under,landry shamet,True,5.5,290,2023-05-12T04:25:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_rebounds_over_under,landry shamet,True,6.5,370,2023-05-12T04:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_rebounds_over_under,landry shamet,False,2.5,-136,2023-05-12T02:20:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_rebounds_over_under,landry shamet,False,3.5,-205,2023-05-12T02:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_rebounds_over_under,landry shamet,False,4.5,-112,2023-05-12T03:45:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_rebounds_over_under,landry shamet,False,5.5,-440,2023-05-12T04:25:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_rebounds_over_under,landry shamet,False,6.5,-600,2023-05-12T04:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,betmgm,player_points_over_under,landry shamet,True,9.5,-115,2023-05-12T01:40:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,pinnacle,player_rebounds_over_under,landry shamet,True,1.5,-197,2023-05-11T15:15:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,pinnacle,player_rebounds_over_under,landry shamet,False,1.5,143,2023-05-11T15:15:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,pinnacle,player_rebounds_over_under,landry shamet,False,2.5,-120,2023-05-12T02:00:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_rebounds_over_under,landry shamet,True,2.5,105,2023-05-12T02:20:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_rebounds_over_under,landry shamet,True,3.5,140,2023-05-12T02:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_rebounds_over_under,landry shamet,True,4.5,-120,2023-05-12T03:45:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_rebounds_over_under,landry shamet,True,5.5,285,2023-05-12T04:25:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_rebounds_over_under,landry shamet,True,6.5,450,2023-05-12T04:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_rebounds_over_under,landry shamet,False,2.5,-140,2023-05-12T02:20:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_rebounds_over_under,landry shamet,False,3.5,-190,2023-05-12T02:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_rebounds_over_under,landry shamet,False,4.5,-110,2023-05-12T03:45:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,pinnacle,player_rebounds_over_under,landry shamet,True,2.5,-110,2023-05-12T02:00:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_assists_over_under,landry shamet,True,1.5,-174,2023-05-12T03:40:02,Phoenix Suns,Denver Nuggets

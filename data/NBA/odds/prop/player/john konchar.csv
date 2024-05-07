@@ -1,0 +1,257 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_steals_over_under,john konchar,False,2.5,-138,2023-04-09T20:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_points_over_under,john konchar,False,3.5,-220,2023-04-09T21:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_points_over_under,john konchar,True,11.5,-102,2023-04-09T20:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_points_over_under,john konchar,True,10.5,-125,2023-04-09T20:00:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_points_over_under,john konchar,True,9.5,-108,2023-04-09T19:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_points_over_under,john konchar,True,8.5,-140,2023-04-09T19:45:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_points_over_under,john konchar,True,4.5,126,2023-04-09T21:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_points_over_under,john konchar,True,3.5,162,2023-04-09T21:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,caesars,player_blocks_over_under,john konchar,False,0.5,-145,2023-04-09T19:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,caesars,player_blocks_over_under,john konchar,True,0.5,106,2023-04-09T19:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_blocks_over_under,john konchar,False,2.5,-3000,2023-04-09T21:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_points_over_under,john konchar,False,4.5,-168,2023-04-09T21:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_blocks_over_under,john konchar,False,1.5,-155,2023-04-09T20:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_blocks_over_under,john konchar,True,2.5,900,2023-04-09T21:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_blocks_over_under,john konchar,True,1.5,115,2023-04-09T20:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_blocks_over_under,john konchar,True,0.5,120,2023-04-09T20:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_blocks_over_under,john konchar,False,2.5,-3500,2023-04-09T21:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_blocks_over_under,john konchar,False,1.5,-158,2023-04-09T20:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_blocks_over_under,john konchar,False,0.5,-160,2023-04-09T20:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_blocks_over_under,john konchar,True,2.5,920,2023-04-09T21:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_blocks_over_under,john konchar,True,1.5,118,2023-04-09T20:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_blocks_over_under,john konchar,True,0.5,120,2023-04-09T20:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,caesars,player_assists_over_under,john konchar,False,3.5,-108,2023-04-09T19:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_blocks_over_under,john konchar,False,0.5,-160,2023-04-09T20:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_points_over_under,john konchar,False,8.5,106,2023-04-09T19:45:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_points_over_under,john konchar,False,9.5,-112,2023-04-09T19:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_points_over_under,john konchar,False,10.5,-106,2023-04-09T20:00:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_rebounds_over_under,john konchar,False,9.5,128,2023-04-09T21:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_rebounds_over_under,john konchar,False,8.5,-140,2023-04-09T19:45:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_rebounds_over_under,john konchar,True,15.5,-114,2023-04-09T21:00:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_rebounds_over_under,john konchar,True,13.5,-114,2023-04-09T20:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_rebounds_over_under,john konchar,True,11.5,-110,2023-04-09T20:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_rebounds_over_under,john konchar,True,10.5,-112,2023-04-09T21:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_rebounds_over_under,john konchar,True,9.5,-172,2023-04-09T21:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_rebounds_over_under,john konchar,True,8.5,106,2023-04-09T19:45:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,caesars,player_points_over_under,john konchar,False,9.5,-111,2023-04-09T19:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,caesars,player_points_over_under,john konchar,True,9.5,-123,2023-04-09T19:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_points_over_under,john konchar,False,11.5,-130,2023-04-09T20:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_points_over_under,john konchar,False,10.5,-105,2023-04-09T20:00:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_points_over_under,john konchar,False,9.5,110,2023-04-09T19:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_points_over_under,john konchar,False,8.5,100,2023-04-09T19:45:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_points_over_under,john konchar,False,4.5,-165,2023-04-09T21:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_points_over_under,john konchar,False,3.5,-255,2023-04-09T21:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_points_over_under,john konchar,True,11.5,100,2023-04-09T20:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_points_over_under,john konchar,True,10.5,-125,2023-04-09T20:00:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_points_over_under,john konchar,True,9.5,-140,2023-04-09T19:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_points_over_under,john konchar,True,8.5,-130,2023-04-09T19:45:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_points_over_under,john konchar,True,4.5,125,2023-04-09T21:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_points_over_under,john konchar,True,3.5,185,2023-04-09T21:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_points_over_under,john konchar,False,11.5,-130,2023-04-09T20:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,caesars,player_assists_over_under,john konchar,True,3.5,-127,2023-04-09T19:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_assists_over_under,john konchar,False,5.5,-135,2023-04-09T20:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_assists_over_under,john konchar,False,4.5,-140,2023-04-09T20:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_assists_over_under,john konchar,False,3.5,-155,2023-04-09T19:45:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_rebounds_over_under,john konchar,False,13.5,-115,2023-04-09T20:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_rebounds_over_under,john konchar,False,15.5,-115,2023-04-09T21:00:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,caesars,player_rebounds_over_under,john konchar,True,7.5,106,2023-04-09T19:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,caesars,player_rebounds_over_under,john konchar,False,7.5,-145,2023-04-09T19:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_steals_over_under,john konchar,True,1.5,370,2023-04-09T21:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_steals_over_under,john konchar,True,2.5,104,2023-04-09T20:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_steals_over_under,john konchar,False,1.5,-600,2023-04-09T21:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_steals_over_under,john konchar,True,1.5,390,2023-04-09T21:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_steals_over_under,john konchar,True,2.5,105,2023-04-09T20:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_steals_over_under,john konchar,False,1.5,-650,2023-04-09T21:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_steals_over_under,john konchar,False,2.5,-135,2023-04-09T20:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,caesars,player_steals_over_under,john konchar,True,1.5,-111,2023-04-09T19:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,caesars,player_steals_over_under,john konchar,False,1.5,-123,2023-04-09T19:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_threes_over_under,john konchar,True,0.5,370,2023-04-09T21:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_threes_over_under,john konchar,True,1.5,102,2023-04-09T20:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_threes_over_under,john konchar,False,0.5,-600,2023-04-09T21:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_threes_over_under,john konchar,False,1.5,-136,2023-04-09T20:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_threes_over_under,john konchar,True,0.5,390,2023-04-09T21:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_threes_over_under,john konchar,True,1.5,100,2023-04-09T20:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_threes_over_under,john konchar,False,0.5,-650,2023-04-09T21:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_threes_over_under,john konchar,False,1.5,-135,2023-04-09T20:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,caesars,player_threes_over_under,john konchar,True,1.5,-113,2023-04-09T19:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,caesars,player_threes_over_under,john konchar,False,1.5,-121,2023-04-09T19:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_rebounds_over_under,john konchar,False,11.5,-120,2023-04-09T20:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_rebounds_over_under,john konchar,False,10.5,-118,2023-04-09T21:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_rebounds_over_under,john konchar,False,10.5,-120,2023-04-09T21:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_rebounds_over_under,john konchar,False,8.5,-145,2023-04-09T19:45:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_assists_over_under,john konchar,False,2.5,-220,2023-04-09T21:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_assists_over_under,john konchar,True,5.5,100,2023-04-09T20:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_assists_over_under,john konchar,True,4.5,105,2023-04-09T20:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_assists_over_under,john konchar,True,3.5,115,2023-04-09T19:45:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_assists_over_under,john konchar,True,2.5,160,2023-04-09T21:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_assists_over_under,john konchar,False,5.5,-132,2023-04-09T20:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_assists_over_under,john konchar,False,4.5,-138,2023-04-09T20:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_assists_over_under,john konchar,False,3.5,-158,2023-04-09T19:45:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_assists_over_under,john konchar,False,2.5,-205,2023-04-09T21:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_assists_over_under,john konchar,True,5.5,100,2023-04-09T20:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_assists_over_under,john konchar,True,4.5,104,2023-04-09T20:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_assists_over_under,john konchar,True,3.5,118,2023-04-09T19:45:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_assists_over_under,john konchar,True,2.5,152,2023-04-09T21:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_rebounds_over_under,john konchar,False,13.5,-114,2023-04-09T20:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_rebounds_over_under,john konchar,False,15.5,-114,2023-04-09T21:00:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_rebounds_over_under,john konchar,True,7.5,110,2023-04-09T19:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_rebounds_over_under,john konchar,True,8.5,110,2023-04-09T19:45:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_rebounds_over_under,john konchar,True,9.5,-145,2023-04-09T21:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_rebounds_over_under,john konchar,True,10.5,-110,2023-04-09T21:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_rebounds_over_under,john konchar,True,11.5,-110,2023-04-09T20:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_rebounds_over_under,john konchar,True,13.5,-115,2023-04-09T20:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_rebounds_over_under,john konchar,True,15.5,-115,2023-04-09T21:00:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_rebounds_over_under,john konchar,False,7.5,-140,2023-04-09T19:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,draftkings,player_rebounds_over_under,john konchar,False,9.5,110,2023-04-09T21:30:02,Oklahoma City Thunder,Memphis Grizzlies
+2023-04-09,33f1e4868b344c3bb39a1e68e7278c02,fanduel,player_rebounds_over_under,john konchar,False,11.5,-120,2023-04-09T20:15:01,Oklahoma City Thunder,Memphis Grizzlies
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_assists_over_under,john konchar,True,1.5,194,2023-10-28T00:55:07,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_steals_over_under,john konchar,True,1.5,150,2023-10-28T00:40:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_points_over_under,john konchar,False,4.5,-140,2023-10-28T00:45:09,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_points_over_under,john konchar,True,4.5,100,2023-10-28T00:45:09,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,john konchar,False,4.5,-135,2023-10-28T00:45:24,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,john konchar,False,3.5,105,2023-10-28T00:45:24,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,john konchar,False,2.5,-8000,2023-10-28T01:25:08,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,john konchar,True,4.5,105,2023-10-28T00:45:24,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,john konchar,True,3.5,-140,2023-10-28T00:45:24,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_points_over_under,john konchar,True,2.5,1100,2023-10-28T01:25:08,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_blocks_over_under,john konchar,False,2.5,-100000,2023-10-28T01:25:23,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_blocks_over_under,john konchar,True,2.5,1000,2023-10-28T01:20:20,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_blocks_over_under,john konchar,True,1.5,920,2023-10-28T01:10:28,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_assists_over_under,john konchar,False,2.5,-8000,2023-10-28T01:25:23,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_assists_over_under,john konchar,False,1.5,-270,2023-10-28T00:55:07,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_assists_over_under,john konchar,True,2.5,1000,2023-10-28T01:25:23,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_steals_over_under,john konchar,False,1.5,-225,2023-10-28T00:40:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_rebounds_over_under,john konchar,True,5.5,-140,2023-10-28T00:55:07,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_rebounds_over_under,john konchar,True,6.5,850,2023-10-28T01:25:23,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_blocks_over_under,john konchar,False,1.5,-3500,2023-10-28T01:10:28,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_rebounds_over_under,john konchar,False,5.5,106,2023-10-28T00:55:07,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_steals_over_under,john konchar,False,1.5,-800,2023-10-28T01:15:46,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_rebounds_over_under,john konchar,True,7.5,-114,2023-10-28T01:10:28,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_steals_over_under,john konchar,True,1.5,475,2023-10-28T01:15:46,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_steals_over_under,john konchar,False,1.5,-50000,2023-10-28T01:25:23,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_steals_over_under,john konchar,True,1.5,1000,2023-10-28T01:25:23,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_rebounds_over_under,john konchar,False,5.5,120,2023-10-28T00:40:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_rebounds_over_under,john konchar,True,6.5,-140,2023-10-28T00:50:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_rebounds_over_under,john konchar,True,5.5,-170,2023-10-28T00:40:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,barstool,player_rebounds_over_under,john konchar,False,6.5,100,2023-10-28T00:50:05,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_rebounds_over_under,john konchar,False,6.5,-2500,2023-10-28T01:25:08,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_rebounds_over_under,john konchar,False,5.5,105,2023-10-28T00:55:11,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_rebounds_over_under,john konchar,True,7.5,-115,2023-10-28T01:10:13,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_rebounds_over_under,john konchar,True,6.5,800,2023-10-28T01:25:08,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_rebounds_over_under,john konchar,True,5.5,-140,2023-10-28T00:55:11,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_rebounds_over_under,john konchar,False,7.5,-114,2023-10-28T01:10:28,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,draftkings,player_rebounds_over_under,john konchar,False,7.5,-115,2023-10-28T01:10:13,Memphis Grizzlies,Denver Nuggets
+2023-10-27,14a8cbe914ca50ec6301efbb2a09a906,fanduel,player_rebounds_over_under,john konchar,False,6.5,-2500,2023-10-28T01:25:23,Memphis Grizzlies,Denver Nuggets
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_rebounds_over_under,john konchar,True,8.5,105,2023-10-29T00:40:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,john konchar,False,7.5,-105,2023-10-29T00:10:30,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,john konchar,False,8.5,-180,2023-10-29T00:50:26,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,john konchar,False,9.5,-5000,2023-10-29T01:25:35,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_rebounds_over_under,john konchar,True,5.5,-165,2023-10-28T23:50:13,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_rebounds_over_under,john konchar,True,4.5,-115,2023-10-28T23:30:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_rebounds_over_under,john konchar,True,6.5,-105,2023-10-28T23:45:07,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,john konchar,False,6.5,-115,2023-10-29T01:00:07,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_rebounds_over_under,john konchar,True,7.5,-130,2023-10-29T00:10:04,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,john konchar,False,10.5,-150,2023-10-29T01:05:14,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,john konchar,False,5.5,120,2023-10-28T23:45:23,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,john konchar,False,10.5,-158,2023-10-29T01:05:07,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,john konchar,True,10.5,110,2023-10-29T01:05:14,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,john konchar,True,9.5,1000,2023-10-29T01:25:35,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,john konchar,True,8.5,135,2023-10-29T00:50:26,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,john konchar,True,7.5,-125,2023-10-29T00:10:30,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,john konchar,True,6.5,-115,2023-10-29T01:00:07,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,john konchar,True,5.5,-155,2023-10-28T23:45:23,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,john konchar,True,4.5,-110,2023-10-28T23:31:08,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,john konchar,False,9.5,-20000,2023-10-29T01:30:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,john konchar,False,8.5,-182,2023-10-29T00:50:46,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,john konchar,False,7.5,-106,2023-10-29T00:10:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_rebounds_over_under,john konchar,False,4.5,-125,2023-10-28T23:30:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,john konchar,False,6.5,-110,2023-10-29T01:00:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_rebounds_over_under,john konchar,False,4.5,-125,2023-10-28T23:31:08,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_rebounds_over_under,john konchar,False,5.5,115,2023-10-28T23:50:13,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_steals_over_under,john konchar,False,2.5,-8000,2023-10-29T01:15:29,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_rebounds_over_under,john konchar,False,7.5,-110,2023-10-29T00:10:04,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_threes_over_under,john konchar,False,1.5,-4000,2023-10-29T01:10:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_threes_over_under,john konchar,False,0.5,-450,2023-10-29T00:45:50,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_threes_over_under,john konchar,True,1.5,1000,2023-10-29T01:10:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_threes_over_under,john konchar,True,0.5,300,2023-10-29T00:45:50,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_steals_over_under,john konchar,False,1.5,-200,2023-10-29T00:40:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_steals_over_under,john konchar,False,0.5,125,2023-10-28T23:35:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_steals_over_under,john konchar,True,1.5,140,2023-10-29T00:40:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_steals_over_under,john konchar,True,0.5,-180,2023-10-28T23:35:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_steals_over_under,john konchar,False,3.5,-1400,2023-10-29T01:10:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,john konchar,False,5.5,102,2023-10-28T23:50:03,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_steals_over_under,john konchar,False,1.5,-225,2023-10-29T00:50:26,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_steals_over_under,john konchar,False,0.5,125,2023-10-28T23:35:31,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_steals_over_under,john konchar,True,3.5,650,2023-10-29T01:10:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_steals_over_under,john konchar,True,2.5,1100,2023-10-29T01:15:29,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_steals_over_under,john konchar,True,1.5,165,2023-10-29T00:50:26,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_steals_over_under,john konchar,True,0.5,-165,2023-10-28T23:35:31,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_steals_over_under,john konchar,False,3.5,-1600,2023-10-29T01:10:50,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_steals_over_under,john konchar,False,2.5,-100000,2023-10-29T01:20:59,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_steals_over_under,john konchar,False,1.5,-230,2023-10-29T00:50:46,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_steals_over_under,john konchar,False,0.5,128,2023-10-28T23:30:04,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_steals_over_under,john konchar,True,3.5,680,2023-10-29T01:10:50,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_steals_over_under,john konchar,True,2.5,1000,2023-10-29T01:15:09,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_steals_over_under,john konchar,True,1.5,168,2023-10-29T00:50:46,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_steals_over_under,john konchar,True,0.5,-174,2023-10-28T23:30:04,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_rebounds_over_under,john konchar,False,8.5,-150,2023-10-29T00:40:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_rebounds_over_under,john konchar,False,6.5,-135,2023-10-28T23:45:07,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,john konchar,False,4.5,120,2023-10-28T23:27:04,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,john konchar,False,2.5,-110,2023-10-28T23:45:23,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,john konchar,True,9.5,1000,2023-10-29T01:25:31,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_blocks_over_under,john konchar,True,0.5,120,2023-10-28T23:35:31,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_blocks_over_under,john konchar,False,2.5,-100000,2023-10-29T01:20:59,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_blocks_over_under,john konchar,False,1.5,-1200,2023-10-29T01:00:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_blocks_over_under,john konchar,False,0.5,-166,2023-10-28T23:30:04,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_blocks_over_under,john konchar,True,2.5,1000,2023-10-29T01:15:09,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_blocks_over_under,john konchar,True,1.5,580,2023-10-29T01:00:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_blocks_over_under,john konchar,True,0.5,124,2023-10-28T23:30:04,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_assists_over_under,john konchar,False,2.5,-200,2023-10-29T00:00:54,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_assists_over_under,john konchar,False,1.5,-190,2023-10-28T23:45:07,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_assists_over_under,john konchar,True,2.5,140,2023-10-29T00:00:54,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_assists_over_under,john konchar,True,1.5,135,2023-10-28T23:45:07,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_blocks_over_under,john konchar,True,1.5,650,2023-10-29T01:00:07,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_assists_over_under,john konchar,False,2.5,-225,2023-10-29T00:00:04,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_assists_over_under,john konchar,False,0.5,165,2023-10-28T23:45:23,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_assists_over_under,john konchar,True,2.5,165,2023-10-29T00:00:04,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_assists_over_under,john konchar,True,1.5,800,2023-10-29T01:15:29,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_assists_over_under,john konchar,True,0.5,-220,2023-10-28T23:45:23,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_assists_over_under,john konchar,False,2.5,-245,2023-10-29T00:01:37,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_assists_over_under,john konchar,False,1.5,-100000,2023-10-29T01:30:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_assists_over_under,john konchar,False,0.5,158,2023-10-28T23:45:26,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_assists_over_under,john konchar,True,2.5,178,2023-10-29T00:01:37,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_assists_over_under,john konchar,True,1.5,1000,2023-10-29T01:20:59,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_assists_over_under,john konchar,True,0.5,-215,2023-10-28T23:45:26,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_threes_over_under,john konchar,True,0.5,125,2023-10-28T23:35:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_assists_over_under,john konchar,False,1.5,-2000,2023-10-29T01:15:29,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_blocks_over_under,john konchar,True,2.5,850,2023-10-29T01:10:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_blocks_over_under,john konchar,False,0.5,-160,2023-10-28T23:35:31,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_blocks_over_under,john konchar,False,1.5,-1400,2023-10-29T01:00:07,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,john konchar,True,8.5,136,2023-10-29T00:50:46,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,john konchar,True,7.5,-125,2023-10-29T00:10:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,john konchar,True,6.5,-120,2023-10-29T01:00:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,john konchar,True,5.5,-136,2023-10-28T23:50:03,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,john konchar,True,4.5,-160,2023-10-28T23:27:04,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_points_over_under,john konchar,False,4.5,-170,2023-10-29T00:17:01,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_points_over_under,john konchar,False,3.5,-140,2023-10-28T23:45:07,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_points_over_under,john konchar,False,2.5,-115,2023-10-28T23:50:13,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_points_over_under,john konchar,True,4.5,120,2023-10-29T00:17:01,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_points_over_under,john konchar,True,3.5,100,2023-10-28T23:45:07,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_points_over_under,john konchar,True,2.5,-125,2023-10-28T23:50:13,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,john konchar,False,8.5,-245,2023-10-29T01:00:07,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,john konchar,False,5.5,-1600,2023-10-29T01:15:29,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,john konchar,False,4.5,-185,2023-10-29T00:45:50,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,john konchar,False,3.5,135,2023-10-29T00:50:26,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,john konchar,True,8.5,180,2023-10-29T01:00:07,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,john konchar,True,5.5,650,2023-10-29T01:15:29,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,john konchar,True,4.5,140,2023-10-29T00:45:50,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,john konchar,True,3.5,-180,2023-10-29T00:50:26,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_points_over_under,john konchar,True,2.5,-120,2023-10-28T23:45:23,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_blocks_over_under,john konchar,False,1.5,-425,2023-10-29T00:40:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_blocks_over_under,john konchar,False,0.5,-150,2023-10-28T23:35:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_blocks_over_under,john konchar,True,1.5,260,2023-10-29T00:40:05,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_blocks_over_under,john konchar,True,0.5,105,2023-10-28T23:35:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,draftkings,player_blocks_over_under,john konchar,False,2.5,-3000,2023-10-29T01:10:16,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,fanduel,player_rebounds_over_under,john konchar,True,10.5,118,2023-10-29T01:05:07,Washington Wizards,Memphis Grizzlies
+2023-10-28,23c5a2389ecae108083e3f2bb1d40a04,barstool,player_threes_over_under,john konchar,False,0.5,-180,2023-10-28T23:35:16,Washington Wizards,Memphis Grizzlies

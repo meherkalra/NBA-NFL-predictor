@@ -1,0 +1,415 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_assists_over_under,dean wade,False,1.5,-3500,2023-04-03T02:24:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_assists_over_under,dean wade,True,0.5,800,2023-04-03T02:22:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_assists_over_under,dean wade,True,1.5,920,2023-04-03T02:24:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_assists_over_under,dean wade,False,0.5,-2200,2023-04-03T02:22:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_blocks_over_under,dean wade,True,0.5,1000,2023-04-03T02:20:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_blocks_over_under,dean wade,False,0.5,-7000,2023-04-03T02:22:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,dean wade,True,3.5,-130,2023-04-03T02:18:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,dean wade,True,4.5,182,2023-04-03T01:58:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,dean wade,True,5.5,182,2023-04-03T02:24:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,dean wade,True,6.5,138,2023-04-03T01:00:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,dean wade,False,4.5,-250,2023-04-03T01:58:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,dean wade,False,5.5,-250,2023-04-03T02:24:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,dean wade,False,6.5,-186,2023-04-03T01:00:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_rebounds_over_under,dean wade,True,3.5,-125,2023-04-03T00:10:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,dean wade,False,3.5,-102,2023-04-03T02:18:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_rebounds_over_under,dean wade,True,5.5,250,2023-04-03T02:24:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_threes_over_under,dean wade,False,1.5,-3000,2023-04-03T02:24:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_threes_over_under,dean wade,False,0.5,106,2023-04-03T00:28:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_rebounds_over_under,dean wade,True,4.5,110,2023-04-03T02:16:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_threes_over_under,dean wade,True,0.5,-140,2023-04-03T00:28:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_steals_over_under,dean wade,False,0.5,-4000,2023-04-03T02:24:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_steals_over_under,dean wade,True,0.5,1000,2023-04-03T02:24:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_threes_over_under,dean wade,True,1.5,880,2023-04-03T02:24:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_rebounds_over_under,dean wade,False,5.5,-360,2023-04-03T02:24:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_rebounds_over_under,dean wade,False,4.5,-146,2023-04-03T02:16:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_rebounds_over_under,dean wade,False,3.5,-102,2023-04-03T00:10:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_rebounds_over_under,dean wade,True,6.5,136,2023-04-03T01:02:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_rebounds_over_under,dean wade,False,6.5,-182,2023-04-03T01:02:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_blocks_over_under,dean wade,True,0.5,155,2023-04-04T22:40:45,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_steals_over_under,dean wade,True,0.5,520,2023-04-05T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_blocks_over_under,dean wade,True,0.5,800,2023-04-05T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_blocks_over_under,dean wade,False,0.5,-2200,2023-04-05T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_blocks_over_under,dean wade,True,0.5,800,2023-04-05T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_assists_over_under,dean wade,False,1.5,-800,2023-04-05T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_assists_over_under,dean wade,False,0.5,-166,2023-04-04T23:54:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_assists_over_under,dean wade,True,1.5,450,2023-04-05T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_assists_over_under,dean wade,True,0.5,124,2023-04-04T23:54:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_steals_over_under,dean wade,True,0.5,550,2023-04-05T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_steals_over_under,dean wade,True,0.5,-125,2023-04-04T22:40:45,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_steals_over_under,dean wade,False,0.5,-1100,2023-04-05T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_threes_over_under,dean wade,True,0.5,128,2023-04-05T00:24:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_threes_over_under,dean wade,True,1.5,320,2023-04-05T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_threes_over_under,dean wade,False,0.5,-172,2023-04-05T00:24:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_threes_over_under,dean wade,False,1.5,-500,2023-04-05T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_threes_over_under,dean wade,True,1.5,190,2023-04-04T22:40:45,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_threes_over_under,dean wade,True,0.5,-145,2023-04-04T23:38:37,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_threes_over_under,dean wade,True,1.5,370,2023-04-05T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_threes_over_under,dean wade,False,1.5,-235,2023-04-04T22:40:45,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_blocks_over_under,dean wade,False,0.5,-2500,2023-04-05T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_steals_over_under,dean wade,False,0.5,-105,2023-04-04T22:40:45,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_blocks_over_under,dean wade,False,0.5,-190,2023-04-04T22:40:45,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_rebounds_over_under,dean wade,False,1.5,104,2023-04-05T00:12:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_points_over_under,dean wade,True,3.5,-200,2023-04-05T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_rebounds_over_under,dean wade,False,3.5,-140,2023-04-05T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_rebounds_over_under,dean wade,False,2.5,130,2023-04-05T00:36:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_rebounds_over_under,dean wade,False,3.5,-120,2023-04-04T22:40:45,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_rebounds_over_under,dean wade,True,3.5,105,2023-04-05T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_rebounds_over_under,dean wade,True,2.5,-175,2023-04-05T00:36:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_rebounds_over_under,dean wade,True,3.5,-110,2023-04-04T22:40:45,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_rebounds_over_under,dean wade,False,3.5,-108,2023-04-05T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_rebounds_over_under,dean wade,False,2.5,118,2023-04-05T00:48:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_threes_over_under,dean wade,False,0.5,110,2023-04-04T23:38:37,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_points_over_under,dean wade,True,2.5,144,2023-04-05T00:24:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_rebounds_over_under,dean wade,True,3.5,-122,2023-04-05T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_rebounds_over_under,dean wade,True,1.5,-138,2023-04-05T00:12:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_points_over_under,dean wade,False,4.5,-220,2023-04-05T00:36:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_points_over_under,dean wade,False,3.5,110,2023-04-05T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_points_over_under,dean wade,True,4.5,160,2023-04-05T00:36:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_points_over_under,dean wade,True,3.5,-145,2023-04-05T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_points_over_under,dean wade,False,4.5,-180,2023-04-05T00:42:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_points_over_under,dean wade,False,3.5,148,2023-04-05T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_points_over_under,dean wade,False,2.5,-194,2023-04-05T00:24:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_points_over_under,dean wade,True,4.5,134,2023-04-05T00:42:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_rebounds_over_under,dean wade,True,2.5,-158,2023-04-05T00:48:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,draftkings,player_threes_over_under,dean wade,False,1.5,-600,2023-04-05T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-04,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,player_steals_over_under,dean wade,False,0.5,-1000,2023-04-05T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_assists_over_under,dean wade,False,1.5,-185,2023-04-07T00:30:02,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_steals_over_under,dean wade,False,1.5,-10000,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_steals_over_under,dean wade,True,1.5,1000,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_rebounds_over_under,dean wade,False,7.5,170,2023-04-07T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_rebounds_over_under,dean wade,False,6.5,-1200,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_rebounds_over_under,dean wade,False,5.5,-125,2023-04-07T00:15:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_rebounds_over_under,dean wade,False,4.5,115,2023-04-06T23:45:02,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_rebounds_over_under,dean wade,True,7.5,-230,2023-04-07T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_rebounds_over_under,dean wade,True,6.5,600,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_rebounds_over_under,dean wade,True,4.5,-155,2023-04-06T23:45:02,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_rebounds_over_under,dean wade,False,7.5,168,2023-04-07T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_rebounds_over_under,dean wade,False,6.5,-700,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_steals_over_under,dean wade,True,0.5,-190,2023-04-06T23:15:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_rebounds_over_under,dean wade,False,5.5,-128,2023-04-07T00:15:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_rebounds_over_under,dean wade,True,7.5,-230,2023-04-07T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_rebounds_over_under,dean wade,True,6.5,410,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_rebounds_over_under,dean wade,True,5.5,-104,2023-04-07T00:15:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_rebounds_over_under,dean wade,True,4.5,-154,2023-04-06T23:45:02,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_points_over_under,dean wade,False,9.5,-125,2023-04-07T00:30:02,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_points_over_under,dean wade,False,8.5,-105,2023-04-07T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_points_over_under,dean wade,False,7.5,-600,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_points_over_under,dean wade,False,6.5,-155,2023-04-06T23:45:02,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_points_over_under,dean wade,True,9.5,-105,2023-04-07T00:30:02,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_points_over_under,dean wade,True,8.5,-125,2023-04-07T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_assists_over_under,dean wade,False,2.5,-330,2023-04-07T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_rebounds_over_under,dean wade,False,4.5,116,2023-04-06T23:45:02,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_steals_over_under,dean wade,True,1.5,390,2023-04-07T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_rebounds_over_under,dean wade,True,5.5,-105,2023-04-07T00:15:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_steals_over_under,dean wade,False,0.5,145,2023-04-06T21:45:02,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_assists_over_under,dean wade,True,2.5,230,2023-04-07T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_assists_over_under,dean wade,True,1.5,140,2023-04-07T00:30:02,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_points_over_under,dean wade,True,7.5,370,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_assists_over_under,dean wade,False,1.5,-178,2023-04-07T00:30:02,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_assists_over_under,dean wade,True,2.5,1000,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_assists_over_under,dean wade,True,1.5,132,2023-04-07T00:30:02,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_blocks_over_under,dean wade,True,0.5,1000,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_blocks_over_under,dean wade,False,0.5,-100000,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_blocks_over_under,dean wade,True,0.5,750,2023-04-07T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_blocks_over_under,dean wade,False,0.5,-2000,2023-04-07T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_points_over_under,dean wade,True,6.5,118,2023-04-06T23:45:02,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_points_over_under,dean wade,True,7.5,265,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_assists_over_under,dean wade,False,2.5,-5000,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_points_over_under,dean wade,True,9.5,-125,2023-04-07T00:30:02,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_points_over_under,dean wade,True,8.5,-118,2023-04-07T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_steals_over_under,dean wade,False,1.5,-650,2023-04-07T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_threes_over_under,dean wade,False,1.5,-4000,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_threes_over_under,dean wade,True,1.5,205,2023-04-07T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_threes_over_under,dean wade,False,1.5,-290,2023-04-07T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_threes_over_under,dean wade,True,1.5,1000,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_points_over_under,dean wade,False,9.5,-106,2023-04-07T00:30:02,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_points_over_under,dean wade,False,8.5,-112,2023-04-07T00:45:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_points_over_under,dean wade,False,7.5,-390,2023-04-07T01:00:01,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,player_points_over_under,dean wade,False,6.5,-158,2023-04-06T23:45:02,Orlando Magic,Cleveland Cavaliers
+2023-04-06,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,player_points_over_under,dean wade,True,6.5,115,2023-04-06T23:45:02,Orlando Magic,Cleveland Cavaliers
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_steals_over_under,dean wade,False,3.5,-2500,2023-04-09T19:00:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,caesars,player_steals_over_under,dean wade,True,0.5,-174,2023-04-09T16:00:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,caesars,player_steals_over_under,dean wade,False,0.5,126,2023-04-09T16:00:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,betmgm,player_steals_over_under,dean wade,True,0.5,-175,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,betmgm,player_steals_over_under,dean wade,False,0.5,130,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,fanduel,player_threes_over_under,dean wade,True,2.5,164,2023-04-09T18:30:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,fanduel,player_threes_over_under,dean wade,True,3.5,550,2023-04-09T19:00:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,fanduel,player_threes_over_under,dean wade,False,2.5,-225,2023-04-09T18:30:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,fanduel,player_threes_over_under,dean wade,False,3.5,-1100,2023-04-09T19:00:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_threes_over_under,dean wade,False,2.5,-215,2023-04-09T18:30:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_threes_over_under,dean wade,True,2.5,160,2023-04-09T18:30:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_threes_over_under,dean wade,True,3.5,500,2023-04-09T19:00:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_threes_over_under,dean wade,False,1.5,-135,2023-04-09T16:00:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_threes_over_under,dean wade,False,3.5,-1000,2023-04-09T19:00:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,caesars,player_threes_over_under,dean wade,True,1.5,100,2023-04-09T16:00:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,caesars,player_threes_over_under,dean wade,False,1.5,-137,2023-04-09T16:00:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,betmgm,player_threes_over_under,dean wade,True,1.5,100,2023-04-09T16:45:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,betmgm,player_threes_over_under,dean wade,False,1.5,-135,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_steals_over_under,dean wade,False,2.5,-260,2023-04-09T18:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_threes_over_under,dean wade,True,1.5,105,2023-04-09T16:00:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_steals_over_under,dean wade,False,1.5,-115,2023-04-09T17:30:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,caesars,player_rebounds_over_under,dean wade,True,4.5,-121,2023-04-09T16:00:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_steals_over_under,dean wade,True,3.5,800,2023-04-09T19:00:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_points_over_under,dean wade,True,10.5,-130,2023-04-09T18:45:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_points_over_under,dean wade,True,9.5,-105,2023-04-09T19:00:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_points_over_under,dean wade,True,8.5,-180,2023-04-09T18:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_points_over_under,dean wade,True,7.5,-205,2023-04-09T18:30:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,fanduel,player_points_over_under,dean wade,False,9.5,-108,2023-04-09T17:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,fanduel,player_points_over_under,dean wade,True,9.5,-122,2023-04-09T17:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,betmgm,player_blocks_over_under,dean wade,False,0.5,-160,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,betmgm,player_blocks_over_under,dean wade,True,0.5,120,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,caesars,player_blocks_over_under,dean wade,False,0.5,-154,2023-04-09T16:00:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,caesars,player_blocks_over_under,dean wade,True,0.5,112,2023-04-09T16:00:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_blocks_over_under,dean wade,False,1.5,-8000,2023-04-09T19:00:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_blocks_over_under,dean wade,False,0.5,-155,2023-04-09T16:00:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_blocks_over_under,dean wade,True,1.5,1100,2023-04-09T19:00:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_blocks_over_under,dean wade,True,0.5,125,2023-04-09T16:00:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,fanduel,player_blocks_over_under,dean wade,False,1.5,-5000,2023-04-09T19:00:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,fanduel,player_blocks_over_under,dean wade,True,1.5,1000,2023-04-09T19:00:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,betmgm,player_assists_over_under,dean wade,False,1.5,-130,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,caesars,player_assists_over_under,dean wade,False,1.5,-129,2023-04-09T16:00:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,caesars,player_assists_over_under,dean wade,True,1.5,-106,2023-04-09T16:00:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_assists_over_under,dean wade,False,1.5,-1000,2023-04-09T19:00:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_assists_over_under,dean wade,True,1.5,500,2023-04-09T19:00:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,fanduel,player_assists_over_under,dean wade,False,1.5,-168,2023-04-09T17:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,fanduel,player_assists_over_under,dean wade,True,1.5,126,2023-04-09T17:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_points_over_under,dean wade,True,11.5,-115,2023-04-09T17:30:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_points_over_under,dean wade,False,7.5,150,2023-04-09T18:30:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_points_over_under,dean wade,False,8.5,135,2023-04-09T18:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_points_over_under,dean wade,False,9.5,-125,2023-04-09T19:00:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_steals_over_under,dean wade,True,2.5,190,2023-04-09T18:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_steals_over_under,dean wade,True,1.5,-115,2023-04-09T17:30:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_steals_over_under,dean wade,True,0.5,-165,2023-04-09T16:00:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,fanduel,player_steals_over_under,dean wade,False,1.5,-114,2023-04-09T17:30:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,fanduel,player_steals_over_under,dean wade,True,1.5,-114,2023-04-09T17:30:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,betmgm,player_rebounds_over_under,dean wade,False,4.5,-110,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,betmgm,player_rebounds_over_under,dean wade,True,4.5,-120,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,caesars,player_rebounds_over_under,dean wade,False,4.5,-113,2023-04-09T16:00:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_rebounds_over_under,dean wade,False,6.5,-160,2023-04-09T17:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_rebounds_over_under,dean wade,False,5.5,-130,2023-04-09T17:30:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_rebounds_over_under,dean wade,False,4.5,-180,2023-04-09T18:30:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_steals_over_under,dean wade,False,0.5,135,2023-04-09T16:00:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_rebounds_over_under,dean wade,False,3.5,-235,2023-04-09T19:00:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_rebounds_over_under,dean wade,True,5.5,-105,2023-04-09T17:30:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_rebounds_over_under,dean wade,True,4.5,135,2023-04-09T18:30:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_rebounds_over_under,dean wade,True,3.5,170,2023-04-09T19:00:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,fanduel,player_rebounds_over_under,dean wade,False,6.5,-172,2023-04-09T17:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,fanduel,player_rebounds_over_under,dean wade,True,6.5,128,2023-04-09T17:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,betmgm,player_points_over_under,dean wade,False,7.5,-115,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,betmgm,player_points_over_under,dean wade,True,7.5,-120,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,caesars,player_points_over_under,dean wade,False,7.5,-109,2023-04-09T16:00:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,caesars,player_points_over_under,dean wade,True,7.5,-125,2023-04-09T16:00:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_points_over_under,dean wade,False,11.5,-115,2023-04-09T17:30:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_points_over_under,dean wade,False,10.5,100,2023-04-09T18:45:02,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,draftkings,player_rebounds_over_under,dean wade,True,6.5,120,2023-04-09T17:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-04-09,9e23e612052b02a613af4d1f0ff73abb,betmgm,player_assists_over_under,dean wade,True,1.5,-105,2023-04-09T16:15:01,Cleveland Cavaliers,Charlotte Hornets
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,fanduel,player_assists_over_under,dean wade,True,0.5,1000,2023-10-28T02:00:35,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,barstool,player_threes_over_under,dean wade,False,1.5,-125,2023-10-28T00:40:05,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,fanduel,player_points_over_under,dean wade,False,7.5,-140,2023-10-28T01:10:11,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,fanduel,player_points_over_under,dean wade,False,8.5,-100000,2023-10-28T02:11:13,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,draftkings,player_points_over_under,dean wade,True,2.5,-160,2023-10-28T00:26:03,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,draftkings,player_points_over_under,dean wade,True,3.5,100,2023-10-28T00:30:05,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,draftkings,player_points_over_under,dean wade,True,4.5,-105,2023-10-28T00:20:14,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,draftkings,player_points_over_under,dean wade,True,5.5,-120,2023-10-28T01:00:31,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,draftkings,player_points_over_under,dean wade,True,6.5,175,2023-10-28T01:45:09,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,draftkings,player_points_over_under,dean wade,True,7.5,-125,2023-10-28T01:10:13,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,draftkings,player_points_over_under,dean wade,True,8.5,1100,2023-10-28T02:05:04,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,fanduel,player_points_over_under,dean wade,False,6.5,-146,2023-10-28T01:45:10,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,draftkings,player_points_over_under,dean wade,False,2.5,120,2023-10-28T00:26:03,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,draftkings,player_points_over_under,dean wade,False,4.5,-125,2023-10-28T00:20:14,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,draftkings,player_points_over_under,dean wade,False,5.5,-110,2023-10-28T01:00:31,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,draftkings,player_points_over_under,dean wade,False,6.5,-235,2023-10-28T01:45:09,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,draftkings,player_points_over_under,dean wade,False,7.5,-105,2023-10-28T01:10:13,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,draftkings,player_points_over_under,dean wade,False,8.5,-6000,2023-10-28T02:05:04,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,barstool,player_points_over_under,dean wade,True,3.5,105,2023-10-28T00:35:20,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,barstool,player_points_over_under,dean wade,True,4.5,-110,2023-10-28T00:20:10,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,barstool,player_points_over_under,dean wade,True,5.5,-160,2023-10-28T00:40:05,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,barstool,player_points_over_under,dean wade,True,6.5,-105,2023-10-27T23:45:07,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,draftkings,player_points_over_under,dean wade,False,3.5,-135,2023-10-28T00:30:05,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,barstool,player_points_over_under,dean wade,False,3.5,-150,2023-10-28T00:35:20,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,fanduel,player_points_over_under,dean wade,False,5.5,-115,2023-10-28T01:00:34,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,fanduel,player_points_over_under,dean wade,False,3.5,-120,2023-10-28T00:30:05,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,fanduel,player_assists_over_under,dean wade,True,1.5,178,2023-10-28T00:00:32,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,fanduel,player_assists_over_under,dean wade,False,0.5,-100000,2023-10-28T02:11:13,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,fanduel,player_assists_over_under,dean wade,False,1.5,-245,2023-10-28T00:00:32,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,draftkings,player_assists_over_under,dean wade,True,0.5,1000,2023-10-28T02:01:46,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,draftkings,player_assists_over_under,dean wade,True,1.5,135,2023-10-27T23:31:10,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,draftkings,player_assists_over_under,dean wade,False,0.5,-5000,2023-10-28T02:01:46,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,draftkings,player_assists_over_under,dean wade,False,1.5,-180,2023-10-27T23:31:10,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,barstool,player_assists_over_under,dean wade,True,1.5,135,2023-10-27T23:45:07,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,barstool,player_assists_over_under,dean wade,False,1.5,-190,2023-10-27T23:45:07,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,fanduel,player_points_over_under,dean wade,False,4.5,-150,2023-10-28T00:20:16,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,fanduel,player_blocks_over_under,dean wade,True,0.5,1000,2023-10-28T01:50:05,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,draftkings,player_blocks_over_under,dean wade,True,0.5,1000,2023-10-28T01:50:23,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,draftkings,player_blocks_over_under,dean wade,False,0.5,-5000,2023-10-28T01:50:23,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,barstool,player_blocks_over_under,dean wade,True,0.5,250,2023-10-28T00:20:10,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,barstool,player_blocks_over_under,dean wade,False,0.5,-400,2023-10-28T00:20:10,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,fanduel,player_points_over_under,dean wade,True,3.5,-106,2023-10-28T00:30:05,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,fanduel,player_points_over_under,dean wade,True,4.5,118,2023-10-28T00:20:16,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,fanduel,player_points_over_under,dean wade,True,5.5,-111,2023-10-28T01:00:34,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,fanduel,player_points_over_under,dean wade,True,6.5,114,2023-10-28T01:45:10,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,fanduel,player_points_over_under,dean wade,True,7.5,110,2023-10-28T01:10:11,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,fanduel,player_blocks_over_under,dean wade,False,0.5,-100000,2023-10-28T02:06:09,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,barstool,player_points_over_under,dean wade,False,4.5,-130,2023-10-28T00:20:10,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,fanduel,player_points_over_under,dean wade,True,8.5,340,2023-10-28T01:55:23,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,barstool,player_points_over_under,dean wade,False,6.5,-125,2023-10-27T23:45:07,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,draftkings,player_steals_over_under,dean wade,True,1.5,600,2023-10-28T01:40:12,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,draftkings,player_steals_over_under,dean wade,True,2.5,1100,2023-10-28T02:01:46,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,draftkings,player_steals_over_under,dean wade,False,0.5,105,2023-10-27T23:45:15,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,draftkings,player_steals_over_under,dean wade,False,1.5,-1200,2023-10-28T01:40:12,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,draftkings,player_steals_over_under,dean wade,False,2.5,-8000,2023-10-28T02:01:46,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,barstool,player_steals_over_under,dean wade,True,0.5,-140,2023-10-27T23:45:07,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,barstool,player_steals_over_under,dean wade,True,1.5,170,2023-10-28T00:40:05,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,barstool,player_steals_over_under,dean wade,False,0.5,110,2023-10-27T23:45:07,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,barstool,player_steals_over_under,dean wade,False,1.5,-260,2023-10-28T00:40:05,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,draftkings,player_steals_over_under,dean wade,True,0.5,-140,2023-10-27T23:45:15,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,pinnacle,player_threes_over_under,dean wade,False,1.5,-153,2023-10-27T23:10:05,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,draftkings,player_threes_over_under,dean wade,True,1.5,105,2023-10-28T01:00:31,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,draftkings,player_threes_over_under,dean wade,True,2.5,850,2023-10-28T02:01:46,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,draftkings,player_threes_over_under,dean wade,False,0.5,110,2023-10-28T00:30:05,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,draftkings,player_threes_over_under,dean wade,False,1.5,-140,2023-10-28T01:00:31,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,draftkings,player_threes_over_under,dean wade,False,2.5,-3000,2023-10-28T02:01:46,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,barstool,player_threes_over_under,dean wade,True,0.5,-140,2023-10-28T00:35:20,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,barstool,player_threes_over_under,dean wade,True,1.5,-115,2023-10-28T00:40:05,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,barstool,player_threes_over_under,dean wade,False,0.5,100,2023-10-28T00:35:20,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,barstool,player_points_over_under,dean wade,False,5.5,110,2023-10-28T00:40:05,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,draftkings,player_threes_over_under,dean wade,True,0.5,-145,2023-10-28T00:30:05,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,fanduel,player_steals_over_under,dean wade,False,2.5,-100000,2023-10-28T02:06:09,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,pinnacle,player_threes_over_under,dean wade,True,1.5,114,2023-10-27T23:10:05,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,fanduel,player_steals_over_under,dean wade,True,2.5,1000,2023-10-28T02:00:35,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,fanduel,player_rebounds_over_under,dean wade,True,5.5,1000,2023-10-28T02:11:13,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,fanduel,player_steals_over_under,dean wade,False,1.5,-1450,2023-10-28T01:45:10,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,fanduel,player_rebounds_over_under,dean wade,True,6.5,116,2023-10-28T01:10:11,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,fanduel,player_rebounds_over_under,dean wade,True,7.5,142,2023-10-28T00:45:07,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,fanduel,player_rebounds_over_under,dean wade,False,5.5,-100000,2023-10-28T02:11:13,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,fanduel,player_rebounds_over_under,dean wade,False,6.5,-154,2023-10-28T01:10:11,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,fanduel,player_rebounds_over_under,dean wade,False,7.5,-192,2023-10-28T00:45:07,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,draftkings,player_rebounds_over_under,dean wade,True,5.5,1100,2023-10-28T02:10:08,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,draftkings,player_rebounds_over_under,dean wade,True,6.5,115,2023-10-28T01:10:13,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,draftkings,player_rebounds_over_under,dean wade,True,7.5,140,2023-10-28T00:45:24,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,draftkings,player_rebounds_over_under,dean wade,False,4.5,-105,2023-10-27T23:45:15,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,draftkings,player_rebounds_over_under,dean wade,True,4.5,-125,2023-10-27T23:45:15,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,draftkings,player_rebounds_over_under,dean wade,False,5.5,-6000,2023-10-28T02:10:08,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,draftkings,player_rebounds_over_under,dean wade,False,6.5,-150,2023-10-28T01:10:13,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,draftkings,player_rebounds_over_under,dean wade,False,7.5,-185,2023-10-28T00:45:24,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,barstool,player_rebounds_over_under,dean wade,True,4.5,-125,2023-10-27T23:45:07,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,barstool,player_rebounds_over_under,dean wade,True,6.5,-110,2023-10-28T00:35:20,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,barstool,player_rebounds_over_under,dean wade,True,7.5,120,2023-10-28T00:40:05,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,barstool,player_rebounds_over_under,dean wade,False,4.5,-105,2023-10-27T23:45:07,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,barstool,player_rebounds_over_under,dean wade,False,6.5,-130,2023-10-28T00:35:20,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,barstool,player_rebounds_over_under,dean wade,False,7.5,-170,2023-10-28T00:40:05,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-27,0c6162d6c90f9fc161fb06ac0ad46e38,fanduel,player_steals_over_under,dean wade,True,1.5,640,2023-10-28T01:45:10,Cleveland Cavaliers,Oklahoma City Thunder
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_rebounds_over_under,dean wade,True,4.5,-114,2023-10-29T01:10:50,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_rebounds_over_under,dean wade,True,5.5,116,2023-10-28T23:50:03,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_rebounds_over_under,dean wade,False,3.5,-250,2023-10-29T01:45:07,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_rebounds_over_under,dean wade,False,4.5,-114,2023-10-29T01:10:50,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_rebounds_over_under,dean wade,False,5.5,-154,2023-10-28T23:50:03,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_rebounds_over_under,dean wade,True,2.5,-225,2023-10-29T01:25:35,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,pinnacle,player_rebounds_over_under,dean wade,False,5.5,-149,2023-10-28T23:10:33,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_rebounds_over_under,dean wade,True,4.5,-135,2023-10-29T01:10:16,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_rebounds_over_under,dean wade,True,3.5,175,2023-10-29T01:45:11,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_rebounds_over_under,dean wade,True,3.5,182,2023-10-29T01:45:07,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,pinnacle,player_rebounds_over_under,dean wade,True,5.5,112,2023-10-28T23:10:33,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_points_over_under,dean wade,False,8.5,-130,2023-10-28T23:45:07,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_points_over_under,dean wade,True,5.5,-115,2023-10-29T00:25:05,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_points_over_under,dean wade,False,6.5,-120,2023-10-29T00:10:04,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_points_over_under,dean wade,False,5.5,-125,2023-10-29T00:25:05,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_points_over_under,dean wade,False,4.5,-120,2023-10-29T00:40:05,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_points_over_under,dean wade,False,3.5,-160,2023-10-29T00:55:06,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_points_over_under,dean wade,False,2.5,-135,2023-10-29T01:10:28,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_points_over_under,dean wade,True,8.5,-110,2023-10-28T23:45:07,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_points_over_under,dean wade,True,7.5,-140,2023-10-28T23:50:13,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_points_over_under,dean wade,True,6.5,-120,2023-10-29T00:10:04,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_points_over_under,dean wade,True,4.5,-120,2023-10-29T00:40:05,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_rebounds_over_under,dean wade,True,5.5,115,2023-10-28T23:50:05,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_points_over_under,dean wade,True,3.5,110,2023-10-29T00:55:06,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_points_over_under,dean wade,False,7.5,100,2023-10-28T23:50:13,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_rebounds_over_under,dean wade,False,2.5,165,2023-10-29T01:25:35,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_threes_over_under,dean wade,False,1.5,-190,2023-10-29T01:15:29,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_rebounds_over_under,dean wade,False,4.5,100,2023-10-29T01:10:16,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_points_over_under,dean wade,True,2.5,-105,2023-10-29T01:10:28,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_threes_over_under,dean wade,True,1.5,160,2023-10-29T00:25:05,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_threes_over_under,dean wade,True,0.5,125,2023-10-29T01:10:28,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_threes_over_under,dean wade,False,2.5,-800,2023-10-29T01:45:11,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_threes_over_under,dean wade,False,0.5,-130,2023-10-29T01:10:16,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_threes_over_under,dean wade,True,2.5,450,2023-10-29T01:45:11,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_threes_over_under,dean wade,True,1.5,140,2023-10-29T01:15:29,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_threes_over_under,dean wade,True,0.5,-105,2023-10-29T01:10:16,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,pinnacle,player_threes_over_under,dean wade,False,1.5,112,2023-10-28T23:10:33,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,pinnacle,player_threes_over_under,dean wade,True,1.5,-149,2023-10-28T23:10:33,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_steals_over_under,dean wade,False,2.5,-1400,2023-10-28T22:45:08,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_steals_over_under,dean wade,False,0.5,-260,2023-10-29T01:06:41,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_steals_over_under,dean wade,True,2.5,550,2023-10-28T22:45:08,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_steals_over_under,dean wade,True,0.5,170,2023-10-29T01:06:41,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_steals_over_under,dean wade,False,0.5,-2500,2023-10-29T01:45:11,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_steals_over_under,dean wade,True,0.5,800,2023-10-29T01:45:11,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_steals_over_under,dean wade,False,0.5,-3000,2023-10-29T01:45:07,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_steals_over_under,dean wade,True,0.5,880,2023-10-29T01:45:07,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_rebounds_over_under,dean wade,False,5.5,-160,2023-10-28T23:50:13,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_rebounds_over_under,dean wade,False,4.5,-130,2023-10-29T01:10:28,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_rebounds_over_under,dean wade,False,3.5,110,2023-10-29T01:06:41,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_rebounds_over_under,dean wade,True,5.5,110,2023-10-28T23:50:13,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_rebounds_over_under,dean wade,True,4.5,-110,2023-10-29T01:10:28,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_rebounds_over_under,dean wade,True,3.5,-160,2023-10-29T01:06:41,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_rebounds_over_under,dean wade,False,5.5,-150,2023-10-28T23:50:05,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_rebounds_over_under,dean wade,False,3.5,-240,2023-10-29T01:45:11,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,dean wade,False,8.5,-120,2023-10-29T01:20:11,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_assists_over_under,dean wade,True,3.5,500,2023-10-29T01:45:11,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,dean wade,False,6.5,-330,2023-10-29T01:45:11,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_blocks_over_under,dean wade,False,0.5,-325,2023-10-29T00:10:04,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_blocks_over_under,dean wade,True,0.5,210,2023-10-29T00:10:04,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_blocks_over_under,dean wade,False,1.5,-5000,2023-10-29T01:40:38,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_blocks_over_under,dean wade,False,0.5,-600,2023-10-29T00:30:04,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_blocks_over_under,dean wade,True,1.5,1000,2023-10-29T01:40:38,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_blocks_over_under,dean wade,True,0.5,370,2023-10-29T00:30:04,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_blocks_over_under,dean wade,False,1.5,-50000,2023-10-29T01:45:07,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_blocks_over_under,dean wade,False,0.5,-600,2023-10-29T00:30:35,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_blocks_over_under,dean wade,True,1.5,1000,2023-10-29T01:30:16,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_blocks_over_under,dean wade,True,0.5,370,2023-10-29T00:30:35,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_assists_over_under,dean wade,False,1.5,-140,2023-10-29T00:10:04,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_points_over_under,dean wade,True,6.5,-125,2023-10-28T23:50:03,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_assists_over_under,dean wade,True,1.5,100,2023-10-29T00:10:04,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_assists_over_under,dean wade,False,2.5,-155,2023-10-29T01:05:14,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_assists_over_under,dean wade,False,1.5,-105,2023-10-29T00:41:00,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_threes_over_under,dean wade,False,0.5,-180,2023-10-29T01:10:28,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_assists_over_under,dean wade,True,2.5,115,2023-10-29T01:05:14,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_assists_over_under,dean wade,True,1.5,-125,2023-10-29T00:41:00,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_assists_over_under,dean wade,False,3.5,-1000,2023-10-29T01:45:07,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_assists_over_under,dean wade,False,2.5,-136,2023-10-29T01:00:05,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_assists_over_under,dean wade,False,1.5,-106,2023-10-29T00:40:11,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_assists_over_under,dean wade,True,3.5,520,2023-10-29T01:45:07,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_assists_over_under,dean wade,True,2.5,102,2023-10-29T01:00:05,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_assists_over_under,dean wade,True,1.5,-125,2023-10-29T00:40:11,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_assists_over_under,dean wade,False,3.5,-900,2023-10-29T01:45:11,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_points_over_under,dean wade,True,7.5,-106,2023-10-28T23:45:26,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_points_over_under,dean wade,True,8.5,104,2023-10-28T23:40:44,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_points_over_under,dean wade,False,6.5,-102,2023-10-28T23:50:03,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,dean wade,False,5.5,-145,2023-10-29T01:15:29,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,dean wade,False,4.5,-110,2023-10-29T00:41:00,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,dean wade,False,3.5,-150,2023-10-29T00:55:18,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,dean wade,False,2.5,110,2023-10-29T01:10:16,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,dean wade,False,10.5,-205,2023-10-28T23:40:28,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,dean wade,False,9.5,-150,2023-10-28T23:40:28,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,dean wade,False,8.5,-135,2023-10-28T22:55:04,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,dean wade,False,7.5,130,2023-10-28T23:40:28,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,dean wade,False,6.5,185,2023-10-28T23:40:28,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,dean wade,True,8.5,-110,2023-10-29T01:20:11,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,dean wade,True,7.5,-125,2023-10-29T01:25:35,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,dean wade,True,6.5,230,2023-10-29T01:45:11,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,dean wade,True,5.5,110,2023-10-29T01:15:29,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,dean wade,True,4.5,-120,2023-10-29T00:41:00,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,dean wade,True,3.5,110,2023-10-29T00:55:18,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,dean wade,True,2.5,-145,2023-10-29T01:10:16,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,dean wade,True,10.5,155,2023-10-28T23:40:28,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,dean wade,True,9.5,115,2023-10-28T23:40:28,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,dean wade,True,8.5,105,2023-10-28T22:55:04,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,dean wade,True,7.5,-170,2023-10-28T23:40:28,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,dean wade,True,6.5,-245,2023-10-28T23:40:28,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,pinnacle,player_points_over_under,dean wade,False,8.5,-112,2023-10-28T23:10:33,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,pinnacle,player_points_over_under,dean wade,True,8.5,-118,2023-10-28T23:10:33,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_points_over_under,dean wade,False,8.5,-132,2023-10-28T23:40:44,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,player_points_over_under,dean wade,False,7.5,-120,2023-10-28T23:45:26,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,player_points_over_under,dean wade,False,7.5,-105,2023-10-29T01:25:35,Cleveland Cavaliers,Indiana Pacers
+2023-10-28,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,player_threes_over_under,dean wade,False,1.5,-240,2023-10-29T00:25:05,Cleveland Cavaliers,Indiana Pacers

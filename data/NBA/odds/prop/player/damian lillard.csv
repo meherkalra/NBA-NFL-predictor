@@ -1,0 +1,568 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_blocks_over_under,damian lillard,True,0.5,410,2023-03-20T02:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,damian lillard,False,36.5,-120,2023-03-19T20:15:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,damian lillard,False,35.5,-108,2023-03-20T00:45:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,damian lillard,False,34.5,100,2023-03-20T01:15:02,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,damian lillard,False,31.5,-112,2023-03-20T02:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,damian lillard,False,30.5,-106,2023-03-20T01:45:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,damian lillard,False,29.5,-152,2023-03-20T02:45:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,damian lillard,False,28.5,-125,2023-03-20T01:30:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,damian lillard,False,26.5,104,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,damian lillard,True,36.5,-102,2023-03-19T20:15:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,damian lillard,True,35.5,-112,2023-03-20T01:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,damian lillard,True,34.5,-132,2023-03-20T01:15:02,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,damian lillard,True,31.5,-118,2023-03-20T02:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,damian lillard,True,30.5,-125,2023-03-20T01:45:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,damian lillard,True,29.5,114,2023-03-20T02:45:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,damian lillard,True,28.5,-106,2023-03-20T01:30:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,damian lillard,True,26.5,-138,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_blocks_over_under,damian lillard,False,1.5,-4000,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_rebounds_over_under,damian lillard,True,4.5,-144,2023-03-20T01:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_blocks_over_under,damian lillard,False,0.5,-700,2023-03-20T02:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_rebounds_over_under,damian lillard,True,5.5,-160,2023-03-20T01:45:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_rebounds_over_under,damian lillard,True,7.5,118,2023-03-20T02:45:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_threes_over_under,damian lillard,False,3.5,-136,2023-03-20T02:15:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_threes_over_under,damian lillard,False,2.5,-205,2023-03-20T02:45:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_threes_over_under,damian lillard,False,1.5,162,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_threes_over_under,damian lillard,True,4.5,102,2023-03-20T01:15:02,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_threes_over_under,damian lillard,True,3.5,102,2023-03-20T02:15:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_threes_over_under,damian lillard,True,2.5,152,2023-03-20T02:45:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_threes_over_under,damian lillard,True,1.5,-220,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_steals_over_under,damian lillard,False,1.5,-550,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_steals_over_under,damian lillard,False,0.5,118,2023-03-20T01:30:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_steals_over_under,damian lillard,True,1.5,350,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_steals_over_under,damian lillard,True,0.5,-158,2023-03-20T01:30:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_rebounds_over_under,damian lillard,False,8.5,-270,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_rebounds_over_under,damian lillard,False,7.5,-158,2023-03-20T02:45:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_rebounds_over_under,damian lillard,False,6.5,106,2023-03-20T02:15:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_rebounds_over_under,damian lillard,False,5.5,120,2023-03-20T01:45:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_rebounds_over_under,damian lillard,False,4.5,118,2023-03-20T01:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_rebounds_over_under,damian lillard,True,8.5,194,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_rebounds_over_under,damian lillard,True,6.5,-140,2023-03-20T02:15:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_threes_over_under,damian lillard,False,4.5,-136,2023-03-20T01:15:02,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_assists_over_under,damian lillard,False,10.5,-162,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_blocks_over_under,damian lillard,True,1.5,1000,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_assists_over_under,damian lillard,False,9.5,-118,2023-03-20T02:30:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_assists_over_under,damian lillard,False,7.5,-130,2023-03-20T01:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_assists_over_under,damian lillard,False,6.5,-102,2023-03-20T01:15:02,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_assists_over_under,damian lillard,True,10.5,122,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_assists_over_under,damian lillard,True,9.5,-114,2023-03-20T02:30:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_assists_over_under,damian lillard,True,7.5,106,2023-03-20T01:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_assists_over_under,damian lillard,True,6.5,-130,2023-03-20T01:15:02,Portland Trail Blazers,LA Clippers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_rebounds_over_under,damian lillard,False,5.5,134,2023-03-23T03:00:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_rebounds_over_under,damian lillard,False,4.5,112,2023-03-23T01:00:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_rebounds_over_under,damian lillard,True,6.5,174,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_rebounds_over_under,damian lillard,True,5.5,-180,2023-03-23T03:00:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,damian lillard,False,35.5,-112,2023-03-23T02:30:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,damian lillard,False,37.5,-120,2023-03-23T01:00:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,damian lillard,False,36.5,100,2023-03-23T00:30:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_rebounds_over_under,damian lillard,False,6.5,-240,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_rebounds_over_under,damian lillard,True,4.5,-138,2023-03-23T01:00:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_steals_over_under,damian lillard,True,0.5,750,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_threes_over_under,damian lillard,True,3.5,104,2023-03-23T02:30:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_threes_over_under,damian lillard,True,1.5,152,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_threes_over_under,damian lillard,True,2.5,-106,2023-03-23T02:45:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,damian lillard,False,33.5,-132,2023-03-23T02:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_threes_over_under,damian lillard,True,4.5,118,2023-03-23T01:30:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_threes_over_under,damian lillard,True,5.5,126,2023-03-23T01:15:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_threes_over_under,damian lillard,False,1.5,-205,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_threes_over_under,damian lillard,False,2.5,-125,2023-03-23T02:45:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_threes_over_under,damian lillard,False,3.5,-138,2023-03-23T02:30:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_threes_over_under,damian lillard,False,4.5,-158,2023-03-23T01:30:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_threes_over_under,damian lillard,False,5.5,-172,2023-03-23T01:15:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_steals_over_under,damian lillard,False,0.5,-2000,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_blocks_over_under,damian lillard,True,0.5,1000,2023-03-23T03:00:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_assists_over_under,damian lillard,False,13.5,-154,2023-03-23T02:30:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,damian lillard,False,27.5,138,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_assists_over_under,damian lillard,False,12.5,-132,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_assists_over_under,damian lillard,False,11.5,-182,2023-03-23T03:00:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_assists_over_under,damian lillard,False,10.5,-125,2023-03-23T02:00:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_assists_over_under,damian lillard,False,9.5,-138,2023-03-23T01:45:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_assists_over_under,damian lillard,False,7.5,-112,2023-03-23T01:00:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_assists_over_under,damian lillard,False,6.5,104,2023-03-23T01:15:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_assists_over_under,damian lillard,True,13.5,116,2023-03-23T02:30:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_assists_over_under,damian lillard,True,12.5,100,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_assists_over_under,damian lillard,True,11.5,136,2023-03-23T03:00:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_blocks_over_under,damian lillard,False,0.5,-10000,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_assists_over_under,damian lillard,True,9.5,104,2023-03-23T01:45:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_assists_over_under,damian lillard,True,7.5,-108,2023-03-23T01:00:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_assists_over_under,damian lillard,True,6.5,-138,2023-03-23T01:15:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,damian lillard,False,31.5,-104,2023-03-23T02:45:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_threes_over_under,damian lillard,False,4.5,-104,2023-03-24T17:15:01,Portland Trail Blazers,Chicago Bulls
+2023-03-22,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_rebounds_over_under,damian lillard,False,5.5,-130,2023-03-24T17:30:01,Portland Trail Blazers,Chicago Bulls
+2023-03-22,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_rebounds_over_under,damian lillard,True,5.5,102,2023-03-24T17:30:01,Portland Trail Blazers,Chicago Bulls
+2023-03-22,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_points_over_under,damian lillard,False,35.5,-118,2023-03-24T17:15:01,Portland Trail Blazers,Chicago Bulls
+2023-03-22,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_points_over_under,damian lillard,True,35.5,-108,2023-03-24T17:15:01,Portland Trail Blazers,Chicago Bulls
+2023-03-22,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_assists_over_under,damian lillard,False,7.5,-104,2023-03-24T17:15:01,Portland Trail Blazers,Chicago Bulls
+2023-03-22,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_assists_over_under,damian lillard,True,7.5,-122,2023-03-24T17:15:01,Portland Trail Blazers,Chicago Bulls
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,damian lillard,True,27.5,-186,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,damian lillard,True,31.5,-128,2023-03-23T02:45:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,damian lillard,True,32.5,-128,2023-03-23T01:45:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,damian lillard,True,33.5,100,2023-03-23T02:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,damian lillard,True,35.5,-118,2023-03-23T02:30:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,damian lillard,True,36.5,-122,2023-03-23T00:30:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,damian lillard,True,37.5,-102,2023-03-23T01:00:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,cd740a9be22ad50d77ea7ce0df7601bf,fanduel,player_threes_over_under,damian lillard,True,4.5,-122,2023-03-24T17:15:01,Portland Trail Blazers,Chicago Bulls
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_assists_over_under,damian lillard,True,10.5,-106,2023-03-23T02:00:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,damian lillard,False,32.5,-104,2023-03-23T01:45:02,Utah Jazz,Portland Trail Blazers
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,damian lillard,False,7.5,-120,2023-10-30T00:55:05,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_points_over_under,damian lillard,False,31.5,-115,2023-10-29T19:15:24,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,betrivers,player_points_over_under,damian lillard,True,26.5,-335,2023-10-29T23:00:43,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,betrivers,player_points_over_under,damian lillard,True,27.5,-250,2023-10-29T23:00:43,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,betrivers,player_points_over_under,damian lillard,True,28.5,-195,2023-10-29T23:00:43,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,betrivers,player_points_over_under,damian lillard,True,29.5,-152,2023-10-29T23:00:43,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,betrivers,player_points_over_under,damian lillard,True,30.5,-122,2023-10-29T23:00:43,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,betrivers,player_points_over_under,damian lillard,True,31.5,100,2023-10-29T23:00:43,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,betrivers,player_points_over_under,damian lillard,True,32.5,120,2023-10-29T23:00:43,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,betrivers,player_points_over_under,damian lillard,True,33.5,145,2023-10-29T23:00:43,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,betrivers,player_points_over_under,damian lillard,True,34.5,175,2023-10-29T23:00:43,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_points_over_under,damian lillard,False,30.5,-115,2023-10-29T23:15:03,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,betrivers,player_points_over_under,damian lillard,True,35.5,210,2023-10-29T23:00:43,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_rebounds_over_under,damian lillard,True,5.5,152,2023-10-30T00:40:05,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_rebounds_over_under,damian lillard,True,6.5,140,2023-10-30T00:15:20,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_rebounds_over_under,damian lillard,False,4.5,-100000,2023-10-30T01:15:21,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_rebounds_over_under,damian lillard,False,5.5,-205,2023-10-30T00:40:05,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_rebounds_over_under,damian lillard,False,6.5,-188,2023-10-30T00:15:20,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_rebounds_over_under,damian lillard,True,4.5,110,2023-10-30T01:10:25,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_rebounds_over_under,damian lillard,True,5.5,160,2023-10-30T00:45:46,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_rebounds_over_under,damian lillard,True,6.5,125,2023-10-30T00:15:07,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_rebounds_over_under,damian lillard,False,4.5,-145,2023-10-30T01:10:25,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_rebounds_over_under,damian lillard,False,5.5,-215,2023-10-30T00:45:46,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_rebounds_over_under,damian lillard,True,4.5,1000,2023-10-30T01:15:21,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_rebounds_over_under,damian lillard,False,6.5,-170,2023-10-30T00:15:07,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_points_over_under,damian lillard,False,29.5,-115,2023-10-29T23:20:26,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_points_over_under,damian lillard,False,23.5,-125,2023-10-30T00:05:05,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,damian lillard,False,14.5,-110,2023-10-30T00:15:07,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,damian lillard,False,20.5,-125,2023-10-30T00:01:37,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,damian lillard,False,23.5,-115,2023-10-29T23:55:07,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,damian lillard,False,24.5,-110,2023-10-29T23:30:32,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,damian lillard,False,25.5,-110,2023-10-29T23:30:32,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,damian lillard,False,28.5,-120,2023-10-29T23:25:24,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,damian lillard,False,29.5,-110,2023-10-29T23:15:13,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,damian lillard,False,30.5,-105,2023-10-29T23:10:05,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,damian lillard,False,31.5,-120,2023-10-29T19:11:08,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_points_over_under,damian lillard,True,8.5,-115,2023-10-30T00:45:31,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_points_over_under,damian lillard,False,25.5,-115,2023-10-29T23:30:47,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_points_over_under,damian lillard,True,10.5,-125,2023-10-30T00:40:22,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_points_over_under,damian lillard,True,14.5,-125,2023-10-30T00:15:21,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_points_over_under,damian lillard,True,23.5,-115,2023-10-30T00:05:05,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_points_over_under,damian lillard,True,25.5,-125,2023-10-29T23:30:47,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_points_over_under,damian lillard,True,29.5,-125,2023-10-29T23:20:26,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_points_over_under,damian lillard,True,30.5,-115,2023-10-29T23:15:03,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_points_over_under,damian lillard,True,31.5,-115,2023-10-29T19:15:24,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_points_over_under,damian lillard,False,8.5,-125,2023-10-30T00:45:31,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_points_over_under,damian lillard,False,10.5,-115,2023-10-30T00:40:22,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_points_over_under,damian lillard,False,12.5,-110,2023-10-30T00:30:04,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_points_over_under,damian lillard,False,14.5,-115,2023-10-30T00:15:21,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_points_over_under,damian lillard,True,12.5,-130,2023-10-30T00:30:04,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_rebounds_over_under,damian lillard,True,4.5,-105,2023-10-29T23:20:26,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_rebounds_over_under,damian lillard,True,5.5,-105,2023-10-30T00:40:22,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_rebounds_over_under,damian lillard,True,6.5,120,2023-10-30T00:15:21,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_threes_over_under,damian lillard,False,2.5,-290,2023-10-30T00:50:07,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_threes_over_under,damian lillard,False,3.5,134,2023-10-30T00:00:23,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_threes_over_under,damian lillard,False,4.5,-180,2023-10-29T23:20:42,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,pinnacle,player_threes_over_under,damian lillard,True,4.5,125,2023-10-29T19:35:29,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,pinnacle,player_threes_over_under,damian lillard,False,4.5,-165,2023-10-29T19:35:29,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_threes_over_under,damian lillard,True,1.5,-125,2023-10-30T01:10:25,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_threes_over_under,damian lillard,True,2.5,130,2023-10-30T00:15:07,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_threes_over_under,damian lillard,True,3.5,105,2023-10-30T00:01:37,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_threes_over_under,damian lillard,True,4.5,125,2023-10-29T23:25:24,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_threes_over_under,damian lillard,False,1.5,-105,2023-10-30T01:10:25,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_threes_over_under,damian lillard,False,1.5,138,2023-10-30T00:55:14,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_threes_over_under,damian lillard,False,2.5,-170,2023-10-30T00:15:07,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_threes_over_under,damian lillard,False,4.5,-170,2023-10-29T23:25:24,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_threes_over_under,damian lillard,True,1.5,125,2023-10-30T00:45:31,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_threes_over_under,damian lillard,True,2.5,120,2023-10-30T00:15:21,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_threes_over_under,damian lillard,True,3.5,-165,2023-10-30T00:05:05,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_threes_over_under,damian lillard,True,4.5,120,2023-10-29T23:25:11,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_threes_over_under,damian lillard,False,1.5,-180,2023-10-30T00:45:31,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_threes_over_under,damian lillard,False,2.5,-170,2023-10-30T00:15:21,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_threes_over_under,damian lillard,False,3.5,115,2023-10-30T00:05:05,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_threes_over_under,damian lillard,False,4.5,-170,2023-10-29T23:25:11,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,betrivers,player_threes_over_under,damian lillard,True,3.5,-195,2023-10-29T19:20:13,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_threes_over_under,damian lillard,False,3.5,-140,2023-10-30T00:01:37,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_threes_over_under,damian lillard,True,4.5,134,2023-10-29T23:20:42,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_threes_over_under,damian lillard,True,3.5,-180,2023-10-30T00:00:23,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_threes_over_under,damian lillard,True,2.5,205,2023-10-30T00:45:20,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_rebounds_over_under,damian lillard,False,4.5,-135,2023-10-29T23:20:26,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_rebounds_over_under,damian lillard,False,5.5,-135,2023-10-30T00:40:22,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_rebounds_over_under,damian lillard,False,6.5,-170,2023-10-30T00:15:21,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,betrivers,player_rebounds_over_under,damian lillard,True,4.5,-134,2023-10-29T23:00:43,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,betrivers,player_rebounds_over_under,damian lillard,True,5.5,155,2023-10-29T23:00:43,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_steals_over_under,damian lillard,True,0.5,-166,2023-10-29T23:25:10,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_steals_over_under,damian lillard,True,1.5,300,2023-10-30T00:45:20,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_steals_over_under,damian lillard,True,2.5,1000,2023-10-30T01:15:21,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_steals_over_under,damian lillard,False,0.5,124,2023-10-29T23:25:10,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_steals_over_under,damian lillard,False,1.5,-450,2023-10-30T00:45:20,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_steals_over_under,damian lillard,False,2.5,-100000,2023-10-30T01:15:21,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_steals_over_under,damian lillard,True,0.5,-165,2023-10-29T23:25:24,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_steals_over_under,damian lillard,True,1.5,340,2023-10-30T00:40:44,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_steals_over_under,damian lillard,True,2.5,550,2023-10-30T01:10:25,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_steals_over_under,damian lillard,False,0.5,125,2023-10-29T23:25:24,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_steals_over_under,damian lillard,False,1.5,-525,2023-10-30T00:40:44,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_steals_over_under,damian lillard,False,2.5,-1000,2023-10-30T01:10:25,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_steals_over_under,damian lillard,True,0.5,-170,2023-10-29T23:25:11,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_steals_over_under,damian lillard,True,1.5,165,2023-10-30T00:30:04,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_steals_over_under,damian lillard,False,0.5,120,2023-10-29T23:25:11,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_steals_over_under,damian lillard,False,1.5,-250,2023-10-30T00:30:04,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,betrivers,player_steals_over_under,damian lillard,True,0.5,-155,2023-10-29T23:00:43,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_threes_over_under,damian lillard,True,1.5,-186,2023-10-30T00:55:14,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,damian lillard,False,13.5,-125,2023-10-30T00:35:22,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,damian lillard,False,8.5,-135,2023-10-30T00:50:03,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,damian lillard,False,12.5,-105,2023-10-30T00:30:43,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_assists_over_under,damian lillard,True,5.5,1000,2023-10-30T01:15:21,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,damian lillard,True,33.5,130,2023-10-29T19:11:08,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,damian lillard,True,32.5,125,2023-10-29T23:01:25,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,damian lillard,True,31.5,110,2023-10-29T23:01:25,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,damian lillard,True,30.5,-120,2023-10-29T19:11:08,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,damian lillard,True,29.5,-140,2023-10-29T23:01:25,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,damian lillard,True,28.5,-195,2023-10-29T23:01:25,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,pinnacle,player_points_over_under,damian lillard,False,31.5,-150,2023-10-29T19:35:29,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,pinnacle,player_points_over_under,damian lillard,False,30.5,-130,2023-10-29T19:35:29,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,pinnacle,player_points_over_under,damian lillard,True,31.5,114,2023-10-29T19:35:29,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,pinnacle,player_points_over_under,damian lillard,True,30.5,-101,2023-10-29T19:35:29,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,damian lillard,True,3.5,125,2023-10-30T01:05:12,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,damian lillard,False,31.5,-122,2023-10-29T22:25:04,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,damian lillard,False,28.5,-108,2023-10-29T23:20:42,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,damian lillard,False,27.5,-118,2023-10-29T23:25:10,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,damian lillard,False,25.5,-122,2023-10-29T23:30:44,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,damian lillard,False,24.5,-120,2023-10-29T23:35:22,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,damian lillard,False,23.5,-104,2023-10-30T00:00:23,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,damian lillard,False,22.5,-115,2023-10-30T00:00:23,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,damian lillard,False,17.5,-115,2023-10-30T00:10:16,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,damian lillard,False,14.5,-118,2023-10-30T00:15:20,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,damian lillard,False,13.5,-132,2023-10-30T00:30:06,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,damian lillard,False,12.5,-102,2023-10-30T00:35:31,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,damian lillard,False,30.5,-110,2023-10-29T23:15:03,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,damian lillard,False,11.5,-132,2023-10-30T00:35:31,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,damian lillard,True,5.5,-130,2023-10-30T01:00:35,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,damian lillard,True,7.5,-110,2023-10-30T00:55:05,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,damian lillard,False,6.5,100,2023-10-30T01:10:25,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,damian lillard,False,5.5,-105,2023-10-30T01:00:35,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,damian lillard,False,3.5,-165,2023-10-30T01:05:12,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,damian lillard,False,33.5,-170,2023-10-29T19:11:08,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,damian lillard,False,32.5,-160,2023-10-29T23:01:25,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,damian lillard,False,31.5,-140,2023-10-29T23:01:25,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,damian lillard,False,30.5,-105,2023-10-29T19:11:08,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,damian lillard,False,29.5,110,2023-10-29T23:01:25,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,damian lillard,False,28.5,150,2023-10-29T23:01:25,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,damian lillard,True,31.5,-105,2023-10-29T19:11:08,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,damian lillard,True,6.5,-130,2023-10-30T01:10:25,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,damian lillard,True,30.5,-125,2023-10-29T23:10:05,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,damian lillard,True,28.5,-110,2023-10-29T23:25:24,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,damian lillard,True,25.5,-120,2023-10-29T23:30:32,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,damian lillard,True,24.5,-120,2023-10-29T23:30:32,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,damian lillard,True,23.5,-115,2023-10-29T23:55:07,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,damian lillard,True,20.5,-105,2023-10-30T00:01:37,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,damian lillard,True,14.5,-120,2023-10-30T00:15:07,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,damian lillard,True,13.5,-105,2023-10-30T00:35:22,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,damian lillard,True,12.5,-125,2023-10-30T00:30:43,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,damian lillard,True,10.5,-120,2023-10-30T00:40:44,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,damian lillard,True,8.5,100,2023-10-30T00:50:03,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,damian lillard,True,29.5,-120,2023-10-29T23:15:13,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,damian lillard,False,9.5,100,2023-10-30T00:50:07,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,damian lillard,False,10.5,-110,2023-10-30T00:40:44,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,damian lillard,False,7.5,120,2023-10-30T00:55:14,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_assists_over_under,damian lillard,False,5.5,-140,2023-10-30T00:40:22,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_assists_over_under,damian lillard,False,4.5,105,2023-10-30T00:45:31,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_assists_over_under,damian lillard,True,7.5,-105,2023-10-29T23:15:03,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_assists_over_under,damian lillard,True,6.5,105,2023-10-30T00:01:10,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_assists_over_under,damian lillard,True,5.5,100,2023-10-30T00:40:22,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_assists_over_under,damian lillard,True,4.5,-150,2023-10-30T00:45:31,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_assists_over_under,damian lillard,False,7.5,-125,2023-10-29T23:10:05,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_assists_over_under,damian lillard,False,6.5,-145,2023-10-30T00:01:37,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_assists_over_under,damian lillard,False,5.5,-160,2023-10-30T00:50:03,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_assists_over_under,damian lillard,False,4.5,155,2023-10-30T01:10:25,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_assists_over_under,damian lillard,False,6.5,-150,2023-10-30T00:01:10,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_assists_over_under,damian lillard,True,7.5,-105,2023-10-29T23:10:05,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_assists_over_under,damian lillard,True,5.5,120,2023-10-30T00:50:03,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_assists_over_under,damian lillard,True,4.5,-210,2023-10-30T01:10:25,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,pinnacle,player_assists_over_under,damian lillard,False,7.5,-116,2023-10-29T21:10:31,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,pinnacle,player_assists_over_under,damian lillard,True,7.5,-113,2023-10-29T21:10:31,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_assists_over_under,damian lillard,False,7.5,-124,2023-10-29T23:15:03,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_assists_over_under,damian lillard,False,6.5,-146,2023-10-30T00:00:23,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_assists_over_under,damian lillard,False,5.5,-100000,2023-10-30T01:15:21,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_assists_over_under,damian lillard,False,4.5,148,2023-10-30T01:10:31,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_assists_over_under,damian lillard,True,7.5,102,2023-10-29T23:15:03,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_assists_over_under,damian lillard,True,6.5,110,2023-10-30T00:00:23,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_assists_over_under,damian lillard,True,6.5,110,2023-10-30T00:01:37,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_assists_over_under,damian lillard,False,7.5,-125,2023-10-29T23:15:03,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,betrivers,player_assists_over_under,damian lillard,True,6.5,-157,2023-10-29T23:00:43,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,betrivers,player_assists_over_under,damian lillard,True,7.5,-110,2023-10-29T23:00:43,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,damian lillard,True,31.5,100,2023-10-29T22:25:04,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,damian lillard,True,30.5,-110,2023-10-29T23:15:03,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,damian lillard,True,28.5,-118,2023-10-29T23:20:42,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,damian lillard,True,27.5,-108,2023-10-29T23:25:10,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,damian lillard,True,25.5,-104,2023-10-29T23:30:44,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,damian lillard,True,24.5,-106,2023-10-29T23:35:22,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,damian lillard,True,23.5,-122,2023-10-30T00:00:23,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,damian lillard,True,22.5,-108,2023-10-30T00:00:23,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,damian lillard,True,17.5,-111,2023-10-30T00:10:16,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,damian lillard,True,14.5,-108,2023-10-30T00:15:20,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,damian lillard,True,13.5,104,2023-10-30T00:30:06,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,damian lillard,True,12.5,-125,2023-10-30T00:35:31,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,damian lillard,True,11.5,104,2023-10-30T00:35:31,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,damian lillard,True,9.5,-130,2023-10-30T00:50:07,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,damian lillard,True,8.5,-136,2023-10-30T00:40:05,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,damian lillard,True,7.5,-154,2023-10-30T00:55:14,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_blocks_over_under,damian lillard,False,0.5,-425,2023-10-29T23:55:15,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_blocks_over_under,damian lillard,True,0.5,260,2023-10-29T23:55:15,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_blocks_over_under,damian lillard,False,0.5,-8000,2023-10-30T00:50:03,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_blocks_over_under,damian lillard,True,0.5,1100,2023-10-30T00:50:03,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_blocks_over_under,damian lillard,False,0.5,-100000,2023-10-30T01:15:21,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_blocks_over_under,damian lillard,True,0.5,1000,2023-10-30T00:45:20,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,betrivers,player_assists_over_under,damian lillard,True,8.5,130,2023-10-29T23:00:43,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_assists_over_under,damian lillard,True,4.5,-200,2023-10-30T01:10:31,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,damian lillard,False,8.5,106,2023-10-30T00:40:05,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_assists_over_under,damian lillard,True,4.5,700,2023-10-27T02:15:28,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,4622c02f9bd1df188631c86e04036049,draftkings,player_steals_over_under,damian lillard,False,0.5,110,2023-10-24T17:36:30,Denver Nuggets,Los Angeles Lakers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,damian lillard,True,26.5,-105,2023-10-26T23:40:25,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,damian lillard,True,25.5,-130,2023-10-26T21:05:36,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,damian lillard,True,24.5,-150,2023-10-26T23:40:25,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,damian lillard,True,23.5,-195,2023-10-26T23:40:25,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,pinnacle,player_points_over_under,damian lillard,False,27.5,-123,2023-10-25T19:35:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,pinnacle,player_points_over_under,damian lillard,False,26.5,-119,2023-10-26T21:05:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,pinnacle,player_points_over_under,damian lillard,False,25.5,-111,2023-10-26T23:40:06,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,pinnacle,player_points_over_under,damian lillard,True,27.5,-108,2023-10-25T19:35:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,pinnacle,player_points_over_under,damian lillard,True,26.5,-111,2023-10-26T21:05:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,pinnacle,player_points_over_under,damian lillard,True,25.5,-118,2023-10-26T23:40:06,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_points_over_under,damian lillard,False,39.5,-20000,2023-10-27T02:20:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_points_over_under,damian lillard,False,37.5,-128,2023-10-27T02:15:28,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_points_over_under,damian lillard,False,35.5,-164,2023-10-27T02:10:07,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_points_over_under,damian lillard,False,34.5,-120,2023-10-27T00:45:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_points_over_under,damian lillard,False,33.5,-186,2023-10-27T02:05:28,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_points_over_under,damian lillard,False,32.5,102,2023-10-27T01:10:29,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_points_over_under,damian lillard,False,31.5,-125,2023-10-27T01:35:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_points_over_under,damian lillard,False,30.5,-136,2023-10-27T01:50:09,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_points_over_under,damian lillard,False,29.5,110,2023-10-27T01:50:09,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_points_over_under,damian lillard,False,28.5,-125,2023-10-27T02:00:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_points_over_under,damian lillard,False,27.5,-122,2023-10-26T22:35:24,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_points_over_under,damian lillard,False,26.5,-120,2023-10-26T23:05:21,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_points_over_under,damian lillard,False,25.5,-125,2023-10-26T23:45:30,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_points_over_under,damian lillard,False,24.5,-111,2023-10-27T00:00:49,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_points_over_under,damian lillard,False,23.5,-128,2023-10-27T00:11:01,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_points_over_under,damian lillard,False,22.5,-118,2023-10-27T00:15:22,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_points_over_under,damian lillard,False,21.5,102,2023-10-27T00:25:08,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,damian lillard,True,27.5,125,2023-10-26T23:40:25,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,damian lillard,True,28.5,140,2023-10-26T21:05:36,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,damian lillard,True,29.5,140,2023-10-25T14:15:07,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,damian lillard,True,21.5,-130,2023-10-27T00:20:13,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,damian lillard,False,28.5,-130,2023-10-27T02:00:10,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,damian lillard,False,27.5,-120,2023-10-25T14:15:07,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,damian lillard,False,26.5,-105,2023-10-26T21:05:36,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,damian lillard,False,25.5,-120,2023-10-26T23:45:36,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,damian lillard,False,24.5,-115,2023-10-27T00:00:31,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,damian lillard,False,22.5,-120,2023-10-27T00:15:13,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,damian lillard,False,21.5,-105,2023-10-27T00:20:13,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,damian lillard,False,29.5,-185,2023-10-25T14:15:07,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,damian lillard,False,28.5,-180,2023-10-26T21:05:36,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,damian lillard,False,27.5,-160,2023-10-26T23:40:25,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,damian lillard,False,26.5,-120,2023-10-26T23:40:25,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,damian lillard,False,25.5,100,2023-10-26T21:05:36,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,damian lillard,False,24.5,115,2023-10-26T23:40:25,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_points_over_under,damian lillard,True,37.5,100,2023-10-27T02:15:28,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,damian lillard,False,23.5,150,2023-10-26T23:40:25,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,damian lillard,True,36.5,115,2023-10-27T02:11:08,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,damian lillard,True,34.5,-105,2023-10-27T00:45:20,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,damian lillard,True,33.5,-115,2023-10-27T02:05:08,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,damian lillard,True,32.5,100,2023-10-27T01:41:47,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,damian lillard,True,31.5,105,2023-10-27T01:55:13,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,damian lillard,True,30.5,105,2023-10-27T02:00:10,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,damian lillard,True,29.5,-140,2023-10-27T01:35:07,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,damian lillard,True,28.5,100,2023-10-27T02:00:10,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,damian lillard,True,27.5,-105,2023-10-25T14:15:07,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,damian lillard,True,26.5,-120,2023-10-26T21:05:36,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,damian lillard,True,25.5,-110,2023-10-26T23:45:36,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,damian lillard,True,24.5,-115,2023-10-27T00:00:31,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,damian lillard,True,22.5,-110,2023-10-27T00:15:13,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,damian lillard,True,37.5,140,2023-10-27T02:15:37,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,damian lillard,False,29.5,105,2023-10-27T01:35:07,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_points_over_under,damian lillard,True,35.5,128,2023-10-27T02:10:07,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_points_over_under,damian lillard,True,33.5,146,2023-10-27T02:05:28,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_assists_over_under,damian lillard,True,8.5,180,2023-10-26T23:05:06,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_assists_over_under,damian lillard,True,7.5,-125,2023-10-27T00:30:18,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_assists_over_under,damian lillard,True,6.5,105,2023-10-27T01:25:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_assists_over_under,damian lillard,True,5.5,105,2023-10-27T02:00:29,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betmgm,player_assists_over_under,damian lillard,False,7.5,-145,2023-10-26T23:35:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betmgm,player_assists_over_under,damian lillard,True,7.5,110,2023-10-26T23:35:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_assists_over_under,damian lillard,False,8.5,-150,2023-10-26T23:50:15,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_assists_over_under,damian lillard,False,7.5,-120,2023-10-27T00:26:24,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_assists_over_under,damian lillard,False,6.5,-195,2023-10-27T01:25:11,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_assists_over_under,damian lillard,False,5.5,-135,2023-10-27T02:00:10,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_assists_over_under,damian lillard,False,4.5,-1600,2023-10-27T02:15:37,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_assists_over_under,damian lillard,True,8.5,110,2023-10-26T23:50:15,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_assists_over_under,damian lillard,True,7.5,-110,2023-10-27T00:26:24,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_assists_over_under,damian lillard,True,6.5,145,2023-10-27T01:25:11,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_assists_over_under,damian lillard,True,5.5,105,2023-10-27T02:00:10,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_assists_over_under,damian lillard,True,4.5,650,2023-10-27T02:15:37,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,pinnacle,player_assists_over_under,damian lillard,False,7.5,-161,2023-10-26T23:40:06,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,pinnacle,player_assists_over_under,damian lillard,True,7.5,123,2023-10-26T23:40:06,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_assists_over_under,damian lillard,False,8.5,-154,2023-10-26T23:50:19,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_assists_over_under,damian lillard,False,7.5,-120,2023-10-27T00:30:56,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_assists_over_under,damian lillard,False,6.5,-205,2023-10-27T01:25:23,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_assists_over_under,damian lillard,False,5.5,-118,2023-10-27T02:00:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_assists_over_under,damian lillard,False,4.5,-1800,2023-10-27T02:15:28,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_assists_over_under,damian lillard,True,8.5,116,2023-10-26T23:50:19,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_assists_over_under,damian lillard,True,7.5,-110,2023-10-27T00:30:56,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_assists_over_under,damian lillard,True,6.5,152,2023-10-27T01:25:23,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_assists_over_under,damian lillard,True,5.5,-112,2023-10-27T02:00:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_assists_over_under,damian lillard,False,5.5,-150,2023-10-27T02:00:29,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_assists_over_under,damian lillard,False,6.5,-150,2023-10-27T01:25:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_assists_over_under,damian lillard,False,7.5,-115,2023-10-27T00:30:18,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_assists_over_under,damian lillard,False,8.5,-260,2023-10-26T23:05:06,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_points_over_under,damian lillard,True,32.5,-130,2023-10-27T01:10:29,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_points_over_under,damian lillard,True,31.5,-102,2023-10-27T01:35:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_points_over_under,damian lillard,True,30.5,106,2023-10-27T01:50:09,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_points_over_under,damian lillard,True,29.5,-140,2023-10-27T01:50:09,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_points_over_under,damian lillard,True,28.5,-102,2023-10-27T02:00:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_points_over_under,damian lillard,True,27.5,100,2023-10-26T22:35:24,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_points_over_under,damian lillard,True,26.5,-102,2023-10-26T23:05:21,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_points_over_under,damian lillard,True,25.5,-102,2023-10-26T23:45:30,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_points_over_under,damian lillard,True,24.5,-115,2023-10-27T00:00:49,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_points_over_under,damian lillard,True,23.5,100,2023-10-27T00:11:01,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_points_over_under,damian lillard,True,22.5,-108,2023-10-27T00:15:22,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_points_over_under,damian lillard,True,21.5,-130,2023-10-27T00:25:08,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_blocks_over_under,damian lillard,False,1.5,-10000,2023-10-26T23:35:38,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_points_over_under,damian lillard,True,34.5,-106,2023-10-27T00:45:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_blocks_over_under,damian lillard,False,0.5,-425,2023-10-26T23:45:03,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_blocks_over_under,damian lillard,True,0.5,260,2023-10-26T23:45:03,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betmgm,player_blocks_over_under,damian lillard,False,0.5,-400,2023-10-26T23:35:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betmgm,player_blocks_over_under,damian lillard,True,0.5,270,2023-10-26T23:35:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_blocks_over_under,damian lillard,False,0.5,-10000,2023-10-27T01:55:13,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_blocks_over_under,damian lillard,True,0.5,1200,2023-10-27T01:55:13,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_blocks_over_under,damian lillard,False,0.5,-100000,2023-10-27T02:15:28,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_blocks_over_under,damian lillard,True,0.5,1000,2023-10-27T01:50:09,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betrivers,player_assists_over_under,damian lillard,True,9.5,185,2023-10-26T17:15:10,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betrivers,player_assists_over_under,damian lillard,True,8.5,135,2023-10-26T23:26:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betrivers,player_assists_over_under,damian lillard,True,7.5,-105,2023-10-26T23:26:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betrivers,player_assists_over_under,damian lillard,True,6.5,-148,2023-10-26T23:26:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betrivers,player_assists_over_under,damian lillard,True,5.5,-215,2023-10-26T20:25:30,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betrivers,player_assists_over_under,damian lillard,True,4.5,-278,2023-10-26T08:10:21,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_blocks_over_under,damian lillard,True,1.5,2200,2023-10-26T23:35:38,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,betrivers,player_threes_over_under,damian lillard,True,4.5,125,2023-10-29T23:00:43,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,damian lillard,False,30.5,-140,2023-10-27T02:00:10,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,damian lillard,False,32.5,-130,2023-10-27T01:41:47,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_steals_over_under,damian lillard,True,1.5,300,2023-10-26T21:05:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_steals_over_under,damian lillard,True,0.5,270,2023-10-27T01:25:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betmgm,player_steals_over_under,damian lillard,False,0.5,115,2023-10-26T23:35:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betmgm,player_steals_over_under,damian lillard,True,0.5,-150,2023-10-26T23:35:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_steals_over_under,damian lillard,False,0.5,-6000,2023-10-27T02:11:08,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_steals_over_under,damian lillard,True,0.5,1000,2023-10-27T02:11:08,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_steals_over_under,damian lillard,False,0.5,-50000,2023-10-27T02:15:28,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_steals_over_under,damian lillard,True,0.5,1000,2023-10-27T02:10:07,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betrivers,player_rebounds_over_under,damian lillard,True,4.5,107,2023-10-26T23:26:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betrivers,player_rebounds_over_under,damian lillard,True,3.5,-210,2023-10-26T23:26:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_rebounds_over_under,damian lillard,False,8.5,-180,2023-10-27T01:25:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_rebounds_over_under,damian lillard,False,7.5,-165,2023-10-27T00:50:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_rebounds_over_under,damian lillard,False,6.5,-135,2023-10-27T01:20:43,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_rebounds_over_under,damian lillard,False,5.5,125,2023-10-27T00:25:08,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_rebounds_over_under,damian lillard,False,4.5,115,2023-10-27T00:15:09,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_rebounds_over_under,damian lillard,True,8.5,125,2023-10-27T01:25:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_rebounds_over_under,damian lillard,True,7.5,115,2023-10-27T00:50:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_rebounds_over_under,damian lillard,True,6.5,-105,2023-10-27T01:20:43,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_rebounds_over_under,damian lillard,True,5.5,-180,2023-10-27T00:25:08,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_rebounds_over_under,damian lillard,True,4.5,-165,2023-10-27T00:15:09,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betmgm,player_rebounds_over_under,damian lillard,False,4.5,-145,2023-10-26T23:35:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betmgm,player_rebounds_over_under,damian lillard,True,4.5,105,2023-10-26T23:35:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_rebounds_over_under,damian lillard,False,8.5,-2000,2023-10-27T02:15:37,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_rebounds_over_under,damian lillard,False,7.5,140,2023-10-27T01:50:16,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_rebounds_over_under,damian lillard,False,6.5,-125,2023-10-27T01:20:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_rebounds_over_under,damian lillard,False,5.5,130,2023-10-27T00:15:13,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_rebounds_over_under,damian lillard,False,4.5,125,2023-10-27T00:15:13,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_steals_over_under,damian lillard,False,0.5,-450,2023-10-27T01:25:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_steals_over_under,damian lillard,False,1.5,-500,2023-10-26T21:05:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betrivers,player_steals_over_under,damian lillard,True,0.5,-143,2023-10-26T23:26:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_threes_over_under,damian lillard,True,2.5,-125,2023-10-27T00:25:08,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,damian lillard,True,26.5,-120,2023-10-24T17:45:07,Denver Nuggets,Los Angeles Lakers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betrivers,player_threes_over_under,damian lillard,True,4.5,155,2023-10-26T23:26:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betrivers,player_threes_over_under,damian lillard,True,3.5,-150,2023-10-26T23:26:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_threes_over_under,damian lillard,False,4.5,-185,2023-10-27T00:40:20,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_threes_over_under,damian lillard,False,3.5,-140,2023-10-27T01:25:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_threes_over_under,damian lillard,False,2.5,105,2023-10-27T02:00:29,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_threes_over_under,damian lillard,True,4.5,130,2023-10-27T00:40:20,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_threes_over_under,damian lillard,True,3.5,100,2023-10-27T01:25:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_threes_over_under,damian lillard,True,2.5,-150,2023-10-27T02:00:29,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betmgm,player_threes_over_under,damian lillard,False,4.5,-160,2023-10-26T21:05:29,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betmgm,player_threes_over_under,damian lillard,False,3.5,115,2023-10-26T23:35:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betmgm,player_threes_over_under,damian lillard,True,4.5,120,2023-10-26T21:05:29,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betmgm,player_threes_over_under,damian lillard,True,3.5,-155,2023-10-26T23:35:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_rebounds_over_under,damian lillard,False,3.5,-105,2023-10-26T23:45:36,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_threes_over_under,damian lillard,False,4.5,-4000,2023-10-27T02:15:37,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_threes_over_under,damian lillard,False,2.5,-130,2023-10-27T02:00:10,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_threes_over_under,damian lillard,True,4.5,950,2023-10-27T02:15:37,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_threes_over_under,damian lillard,True,3.5,310,2023-10-27T02:11:08,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_threes_over_under,damian lillard,True,2.5,100,2023-10-27T02:00:10,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,pinnacle,player_threes_over_under,damian lillard,False,4.5,-162,2023-10-26T21:05:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,pinnacle,player_threes_over_under,damian lillard,False,3.5,105,2023-10-26T23:40:06,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,pinnacle,player_threes_over_under,damian lillard,True,4.5,120,2023-10-26T21:05:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,pinnacle,player_threes_over_under,damian lillard,True,3.5,-140,2023-10-26T23:40:06,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_threes_over_under,damian lillard,False,4.5,-200,2023-10-27T00:41:01,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_threes_over_under,damian lillard,False,3.5,108,2023-10-27T01:10:29,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_threes_over_under,damian lillard,False,2.5,-106,2023-10-27T00:25:08,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_threes_over_under,damian lillard,True,4.5,148,2023-10-27T00:41:01,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_threes_over_under,damian lillard,True,3.5,-144,2023-10-27T01:10:29,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_threes_over_under,damian lillard,False,3.5,-600,2023-10-27T02:11:08,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,damian lillard,False,31.5,-140,2023-10-27T01:55:13,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_rebounds_over_under,damian lillard,True,8.5,750,2023-10-27T02:15:37,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_rebounds_over_under,damian lillard,True,6.5,-105,2023-10-27T01:20:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_points_over_under,damian lillard,False,28.5,-110,2023-10-27T00:30:18,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_points_over_under,damian lillard,False,27.5,-125,2023-10-26T21:05:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_points_over_under,damian lillard,False,26.5,-105,2023-10-26T09:50:44,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_points_over_under,damian lillard,False,25.5,-125,2023-10-26T23:45:03,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_points_over_under,damian lillard,False,24.5,-120,2023-10-27T00:01:00,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_points_over_under,damian lillard,False,22.5,-130,2023-10-27T00:15:09,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_points_over_under,damian lillard,False,21.5,-105,2023-10-27T00:25:08,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_points_over_under,damian lillard,True,33.5,-105,2023-10-27T01:11:54,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_points_over_under,damian lillard,True,32.5,-135,2023-10-27T01:20:43,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_points_over_under,damian lillard,True,31.5,100,2023-10-27T01:55:42,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_points_over_under,damian lillard,True,30.5,-150,2023-10-27T02:10:53,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_points_over_under,damian lillard,True,29.5,-140,2023-10-27T02:00:29,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_points_over_under,damian lillard,True,28.5,-130,2023-10-27T00:30:18,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_points_over_under,damian lillard,True,27.5,-105,2023-10-26T21:05:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_points_over_under,damian lillard,True,26.5,-125,2023-10-26T09:50:44,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_points_over_under,damian lillard,True,25.5,-115,2023-10-26T23:45:03,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_points_over_under,damian lillard,True,24.5,-120,2023-10-27T00:01:00,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_points_over_under,damian lillard,True,22.5,-110,2023-10-27T00:15:09,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_points_over_under,damian lillard,True,21.5,-135,2023-10-27T00:25:08,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betmgm,player_points_over_under,damian lillard,False,26.5,-120,2023-10-26T21:05:29,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betmgm,player_points_over_under,damian lillard,False,25.5,-110,2023-10-26T23:35:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betmgm,player_points_over_under,damian lillard,True,26.5,-110,2023-10-26T21:05:29,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betmgm,player_points_over_under,damian lillard,True,25.5,-120,2023-10-26T23:35:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,damian lillard,False,37.5,-190,2023-10-27T02:15:37,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,damian lillard,False,36.5,-150,2023-10-27T02:11:08,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,damian lillard,False,34.5,-125,2023-10-27T00:45:20,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,damian lillard,False,33.5,-115,2023-10-27T02:05:08,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_points_over_under,damian lillard,False,29.5,100,2023-10-27T02:00:29,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_points_over_under,damian lillard,False,30.5,105,2023-10-27T02:10:53,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_points_over_under,damian lillard,False,31.5,-140,2023-10-27T01:55:42,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_points_over_under,damian lillard,False,32.5,-105,2023-10-27T01:20:43,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_rebounds_over_under,damian lillard,True,5.5,-170,2023-10-27T00:15:13,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_rebounds_over_under,damian lillard,True,4.5,-165,2023-10-27T00:15:13,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_rebounds_over_under,damian lillard,True,3.5,-125,2023-10-26T23:45:36,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_rebounds_over_under,damian lillard,False,8.5,-2200,2023-10-27T02:15:28,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_rebounds_over_under,damian lillard,False,7.5,148,2023-10-27T01:50:09,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_rebounds_over_under,damian lillard,False,6.5,-140,2023-10-27T01:20:13,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_rebounds_over_under,damian lillard,False,5.5,134,2023-10-27T00:25:08,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_rebounds_over_under,damian lillard,False,4.5,130,2023-10-27T00:15:22,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_rebounds_over_under,damian lillard,False,3.5,-104,2023-10-26T23:50:19,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_rebounds_over_under,damian lillard,True,8.5,800,2023-10-27T02:15:28,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_rebounds_over_under,damian lillard,True,7.5,-200,2023-10-27T01:50:09,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_rebounds_over_under,damian lillard,True,6.5,106,2023-10-27T01:20:13,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_rebounds_over_under,damian lillard,True,5.5,-180,2023-10-27T00:25:08,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_rebounds_over_under,damian lillard,True,7.5,-190,2023-10-27T01:50:16,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_rebounds_over_under,damian lillard,True,4.5,-174,2023-10-27T00:15:22,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betrivers,player_points_over_under,damian lillard,True,33.5,-117,2023-10-27T01:10:43,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betrivers,player_points_over_under,damian lillard,True,31.5,-114,2023-10-27T01:15:11,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betrivers,player_points_over_under,damian lillard,True,30.5,195,2023-10-26T23:26:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betrivers,player_points_over_under,damian lillard,True,29.5,160,2023-10-26T23:26:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betrivers,player_points_over_under,damian lillard,True,28.5,-114,2023-10-27T00:30:12,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betrivers,player_points_over_under,damian lillard,True,27.5,110,2023-10-26T23:26:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betrivers,player_points_over_under,damian lillard,True,26.5,-113,2023-10-26T23:40:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betrivers,player_points_over_under,damian lillard,True,25.5,-141,2023-10-26T23:26:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betrivers,player_points_over_under,damian lillard,True,24.5,-114,2023-10-26T23:50:10,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betrivers,player_points_over_under,damian lillard,True,23.5,-114,2023-10-27T00:05:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betrivers,player_points_over_under,damian lillard,True,22.5,-114,2023-10-27T00:30:12,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betrivers,player_points_over_under,damian lillard,True,21.5,-114,2023-10-27T00:25:36,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_points_over_under,damian lillard,False,33.5,-135,2023-10-27T01:11:54,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_rebounds_over_under,damian lillard,True,3.5,-128,2023-10-26T23:50:19,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,betrivers,player_threes_over_under,damian lillard,True,5.5,200,2023-10-29T19:16:19,Milwaukee Bucks,Atlanta Hawks

@@ -1,0 +1,337 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_points_over_under,isaiah jackson,True,11.5,114,2023-03-25T21:45:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_steals_over_under,isaiah jackson,False,3.5,-1400,2023-03-25T23:00:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_steals_over_under,isaiah jackson,False,2.5,-500,2023-03-25T22:45:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_steals_over_under,isaiah jackson,False,1.5,-188,2023-03-25T21:45:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_steals_over_under,isaiah jackson,False,0.5,-118,2023-03-25T21:15:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_steals_over_under,isaiah jackson,True,3.5,630,2023-03-25T23:00:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_steals_over_under,isaiah jackson,True,2.5,320,2023-03-25T22:30:02,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_steals_over_under,isaiah jackson,True,1.5,140,2023-03-25T21:45:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_assists_over_under,isaiah jackson,True,1.5,640,2023-03-25T23:00:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_rebounds_over_under,isaiah jackson,False,7.5,-118,2023-03-25T21:30:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_rebounds_over_under,isaiah jackson,False,6.5,-235,2023-03-25T23:00:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_rebounds_over_under,isaiah jackson,False,5.5,-194,2023-03-25T22:45:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_rebounds_over_under,isaiah jackson,True,7.5,-112,2023-03-25T21:30:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_rebounds_over_under,isaiah jackson,True,6.5,172,2023-03-25T23:00:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_rebounds_over_under,isaiah jackson,True,5.5,144,2023-03-25T22:45:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_points_over_under,isaiah jackson,False,15.5,104,2023-03-25T23:00:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_points_over_under,isaiah jackson,False,12.5,-136,2023-03-25T21:30:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_points_over_under,isaiah jackson,False,11.5,-152,2023-03-25T21:45:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_points_over_under,isaiah jackson,False,10.5,100,2023-03-25T21:00:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_points_over_under,isaiah jackson,True,15.5,-138,2023-03-25T23:00:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_points_over_under,isaiah jackson,True,12.5,102,2023-03-25T21:30:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_points_over_under,isaiah jackson,True,10.5,-122,2023-03-25T21:00:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_blocks_over_under,isaiah jackson,False,1.5,-180,2023-03-25T21:45:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_blocks_over_under,isaiah jackson,False,0.5,-310,2023-03-25T23:00:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_blocks_over_under,isaiah jackson,True,1.5,134,2023-03-25T21:45:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_blocks_over_under,isaiah jackson,True,0.5,220,2023-03-25T23:00:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_assists_over_under,isaiah jackson,False,1.5,-1450,2023-03-25T23:00:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_assists_over_under,isaiah jackson,False,0.5,-290,2023-03-25T22:15:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_threes_over_under,isaiah jackson,True,0.5,1000,2023-03-25T21:30:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_threes_over_under,isaiah jackson,False,0.5,-100000,2023-03-25T23:00:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_steals_over_under,isaiah jackson,True,0.5,-112,2023-03-25T21:15:01,Atlanta Hawks,Indiana Pacers
+2023-03-25,c7d580c181e83c84596e36eb06afe5ae,fanduel,player_assists_over_under,isaiah jackson,True,0.5,205,2023-03-25T22:15:01,Atlanta Hawks,Indiana Pacers
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,isaiah jackson,True,10.5,-110,2023-03-27T23:00:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,isaiah jackson,True,11.5,-128,2023-03-27T22:00:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,isaiah jackson,True,12.5,-102,2023-03-27T22:30:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,isaiah jackson,False,10.5,-110,2023-03-27T23:00:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,isaiah jackson,False,12.5,-120,2023-03-27T22:30:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_rebounds_over_under,isaiah jackson,True,6.5,102,2023-03-27T23:00:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_points_over_under,isaiah jackson,False,11.5,104,2023-03-27T22:00:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_rebounds_over_under,isaiah jackson,False,6.5,-124,2023-03-27T23:00:02,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_rebounds_over_under,isaiah jackson,False,7.5,-140,2023-03-27T22:15:01,Indiana Pacers,Dallas Mavericks
+2023-03-27,4c2a0613a09da303ee30dd8a8102d0fe,fanduel,player_rebounds_over_under,isaiah jackson,True,7.5,114,2023-03-27T22:15:01,Indiana Pacers,Dallas Mavericks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,isaiah jackson,True,8.5,-200,2023-03-30T01:00:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,isaiah jackson,True,14.5,-106,2023-03-29T23:15:02,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,isaiah jackson,False,7.5,174,2023-03-30T01:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,isaiah jackson,False,8.5,148,2023-03-30T01:00:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,isaiah jackson,True,12.5,114,2023-03-29T23:45:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,isaiah jackson,True,10.5,134,2023-03-30T00:45:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,isaiah jackson,True,9.5,-114,2023-03-30T00:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,isaiah jackson,True,7.5,-240,2023-03-30T01:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_assists_over_under,isaiah jackson,True,1.5,630,2023-03-30T01:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_blocks_over_under,isaiah jackson,False,2.5,-188,2023-03-29T23:45:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_blocks_over_under,isaiah jackson,False,1.5,128,2023-03-30T00:00:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_assists_over_under,isaiah jackson,True,0.5,-215,2023-03-29T23:15:02,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,isaiah jackson,False,9.5,-114,2023-03-30T00:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_assists_over_under,isaiah jackson,False,0.5,158,2023-03-29T23:15:02,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_assists_over_under,isaiah jackson,False,1.5,-1400,2023-03-30T01:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_blocks_over_under,isaiah jackson,True,1.5,-172,2023-03-30T00:00:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_blocks_over_under,isaiah jackson,False,3.5,-650,2023-03-30T01:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,isaiah jackson,False,10.5,-180,2023-03-30T00:45:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_rebounds_over_under,isaiah jackson,True,6.5,-152,2023-03-29T23:45:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,isaiah jackson,False,14.5,-125,2023-03-29T23:15:02,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_threes_over_under,isaiah jackson,False,0.5,-50000,2023-03-30T01:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_threes_over_under,isaiah jackson,True,0.5,1000,2023-03-30T00:30:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_steals_over_under,isaiah jackson,False,0.5,-3000,2023-03-30T01:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_points_over_under,isaiah jackson,False,12.5,-152,2023-03-29T23:45:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_rebounds_over_under,isaiah jackson,False,6.5,114,2023-03-29T23:45:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_rebounds_over_under,isaiah jackson,False,5.5,-182,2023-03-30T00:45:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_steals_over_under,isaiah jackson,True,0.5,880,2023-03-30T01:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_rebounds_over_under,isaiah jackson,False,3.5,100,2023-03-30T01:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_blocks_over_under,isaiah jackson,True,2.5,140,2023-03-29T23:45:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_rebounds_over_under,isaiah jackson,True,5.5,136,2023-03-30T00:45:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_rebounds_over_under,isaiah jackson,True,4.5,114,2023-03-30T01:00:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_rebounds_over_under,isaiah jackson,True,3.5,-132,2023-03-30T01:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_rebounds_over_under,isaiah jackson,False,4.5,-152,2023-03-30T01:00:01,Indiana Pacers,Milwaukee Bucks
+2023-03-29,8d7dc281d4c5e2c860ea552357500bd2,fanduel,player_blocks_over_under,isaiah jackson,True,3.5,390,2023-03-30T01:15:01,Indiana Pacers,Milwaukee Bucks
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,isaiah jackson,True,9.5,-106,2023-03-31T23:04:01,Indiana Pacers,Oklahoma City Thunder
+2023-03-31,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,player_points_over_under,isaiah jackson,False,9.5,-114,2023-03-31T23:04:01,Indiana Pacers,Oklahoma City Thunder
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_rebounds_over_under,isaiah jackson,False,6.5,-166,2023-04-03T00:22:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_steals_over_under,isaiah jackson,True,0.5,1000,2023-04-03T02:18:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_steals_over_under,isaiah jackson,False,0.5,-50000,2023-04-03T02:24:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_assists_over_under,isaiah jackson,False,1.5,-50000,2023-04-03T02:24:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_rebounds_over_under,isaiah jackson,False,4.5,-210,2023-04-03T01:34:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_assists_over_under,isaiah jackson,False,0.5,-270,2023-04-03T01:30:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_assists_over_under,isaiah jackson,True,1.5,1000,2023-04-03T02:18:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_assists_over_under,isaiah jackson,True,0.5,194,2023-04-03T01:30:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_blocks_over_under,isaiah jackson,True,2.5,1000,2023-04-03T02:22:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_blocks_over_under,isaiah jackson,False,1.5,194,2023-04-03T00:56:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_blocks_over_under,isaiah jackson,False,2.5,-5000,2023-04-03T02:24:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,isaiah jackson,True,3.5,320,2023-04-03T02:24:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,isaiah jackson,True,4.5,-118,2023-04-03T02:14:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,isaiah jackson,True,5.5,142,2023-04-03T01:58:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,isaiah jackson,True,6.5,116,2023-04-03T01:32:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,isaiah jackson,True,7.5,110,2023-04-03T01:28:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,isaiah jackson,True,8.5,102,2023-04-03T01:04:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,isaiah jackson,True,9.5,124,2023-04-03T00:56:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_rebounds_over_under,isaiah jackson,False,5.5,-180,2023-04-03T01:28:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,isaiah jackson,False,3.5,-490,2023-04-03T02:24:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,isaiah jackson,False,5.5,-192,2023-04-03T01:58:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,isaiah jackson,False,6.5,-154,2023-04-03T01:32:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,isaiah jackson,False,7.5,-146,2023-04-03T01:28:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,isaiah jackson,False,8.5,-136,2023-04-03T01:04:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,isaiah jackson,False,9.5,-166,2023-04-03T00:56:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_rebounds_over_under,isaiah jackson,True,2.5,410,2023-04-03T02:24:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_rebounds_over_under,isaiah jackson,True,3.5,168,2023-04-03T02:14:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_rebounds_over_under,isaiah jackson,True,4.5,154,2023-04-03T01:34:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_rebounds_over_under,isaiah jackson,True,5.5,134,2023-04-03T01:28:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_rebounds_over_under,isaiah jackson,True,6.5,124,2023-04-03T00:22:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_threes_over_under,isaiah jackson,True,0.5,1000,2023-04-03T00:14:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_rebounds_over_under,isaiah jackson,False,2.5,-700,2023-04-03T02:24:02,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_blocks_over_under,isaiah jackson,True,1.5,-270,2023-04-03T00:56:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_points_over_under,isaiah jackson,False,4.5,-112,2023-04-03T02:14:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_rebounds_over_under,isaiah jackson,False,3.5,-230,2023-04-03T02:14:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-02,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,player_threes_over_under,isaiah jackson,False,0.5,-100000,2023-04-03T01:38:01,Cleveland Cavaliers,Indiana Pacers
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_points_over_under,isaiah jackson,True,7.5,102,2023-04-05T23:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_rebounds_over_under,isaiah jackson,False,8.5,-420,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_rebounds_over_under,isaiah jackson,True,5.5,-165,2023-04-05T23:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_rebounds_over_under,isaiah jackson,True,6.5,120,2023-04-06T00:00:02,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_rebounds_over_under,isaiah jackson,True,7.5,145,2023-04-06T01:00:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_rebounds_over_under,isaiah jackson,True,8.5,340,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_rebounds_over_under,isaiah jackson,False,5.5,125,2023-04-05T23:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_rebounds_over_under,isaiah jackson,False,6.5,-160,2023-04-06T00:00:02,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_rebounds_over_under,isaiah jackson,False,7.5,-195,2023-04-06T01:00:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_rebounds_over_under,isaiah jackson,False,8.5,-525,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_steals_over_under,isaiah jackson,True,0.5,1000,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_rebounds_over_under,isaiah jackson,False,7.5,-200,2023-04-06T01:00:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_steals_over_under,isaiah jackson,False,0.5,-50000,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_steals_over_under,isaiah jackson,False,0.5,-1200,2023-04-06T01:00:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_threes_over_under,isaiah jackson,False,0.5,-100000,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_threes_over_under,isaiah jackson,True,0.5,1000,2023-04-05T22:45:02,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_threes_over_under,isaiah jackson,False,0.5,-2100,2023-04-05T22:45:02,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_blocks_over_under,isaiah jackson,True,1.5,900,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_blocks_over_under,isaiah jackson,False,1.5,-3000,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_blocks_over_under,isaiah jackson,True,1.5,880,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_assists_over_under,isaiah jackson,False,0.5,-7000,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_assists_over_under,isaiah jackson,True,0.5,1000,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_blocks_over_under,isaiah jackson,False,1.5,-3000,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_steals_over_under,isaiah jackson,True,0.5,600,2023-04-06T01:00:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_rebounds_over_under,isaiah jackson,False,6.5,-158,2023-04-06T00:00:02,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_threes_over_under,isaiah jackson,True,0.5,1000,2023-04-06T00:00:02,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_rebounds_over_under,isaiah jackson,True,8.5,280,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_points_over_under,isaiah jackson,True,8.5,-132,2023-04-06T00:00:02,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_rebounds_over_under,isaiah jackson,False,5.5,124,2023-04-05T23:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_points_over_under,isaiah jackson,True,10.5,188,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_points_over_under,isaiah jackson,True,11.5,-154,2023-04-06T01:00:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_points_over_under,isaiah jackson,True,12.5,106,2023-04-06T00:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_points_over_under,isaiah jackson,False,8.5,100,2023-04-06T00:00:02,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_points_over_under,isaiah jackson,False,10.5,-260,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_points_over_under,isaiah jackson,False,11.5,116,2023-04-06T01:00:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_points_over_under,isaiah jackson,False,12.5,-140,2023-04-06T00:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,isaiah jackson,True,7.5,-110,2023-04-05T23:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,isaiah jackson,True,8.5,-125,2023-04-06T00:00:02,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_points_over_under,isaiah jackson,False,7.5,-136,2023-04-05T23:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,isaiah jackson,True,11.5,-150,2023-04-06T01:00:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_rebounds_over_under,isaiah jackson,True,6.5,118,2023-04-06T00:00:02,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,isaiah jackson,True,10.5,235,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_rebounds_over_under,isaiah jackson,True,5.5,-166,2023-04-05T23:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,fanduel,player_rebounds_over_under,isaiah jackson,True,7.5,148,2023-04-06T01:00:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,isaiah jackson,False,11.5,115,2023-04-06T01:00:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,isaiah jackson,False,12.5,-140,2023-04-06T00:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,isaiah jackson,False,10.5,-340,2023-04-06T01:15:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,isaiah jackson,False,8.5,-105,2023-04-06T00:00:02,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,isaiah jackson,False,7.5,-120,2023-04-05T23:30:01,Indiana Pacers,New York Knicks
+2023-04-05,20856586723ae25f4687806c60dcc3de,draftkings,player_points_over_under,isaiah jackson,True,12.5,105,2023-04-06T00:15:01,Indiana Pacers,New York Knicks
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_points_over_under,isaiah jackson,False,12.5,-110,2023-04-07T22:30:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_points_over_under,isaiah jackson,False,13.5,135,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_points_over_under,isaiah jackson,False,14.5,-165,2023-04-08T00:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_points_over_under,isaiah jackson,False,10.5,-105,2023-04-08T00:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_points_over_under,isaiah jackson,False,11.5,-120,2023-04-07T23:15:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_points_over_under,isaiah jackson,False,15.5,-125,2023-04-08T01:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_points_over_under,isaiah jackson,True,12.5,-105,2023-04-07T22:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_points_over_under,isaiah jackson,True,12.5,-109,2023-04-07T21:30:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_points_over_under,isaiah jackson,False,12.5,-125,2023-04-07T21:30:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_points_over_under,isaiah jackson,False,12.5,-125,2023-04-07T22:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_rebounds_over_under,isaiah jackson,True,6.5,-114,2023-04-08T00:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_points_over_under,isaiah jackson,False,9.5,-135,2023-04-07T23:45:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_rebounds_over_under,isaiah jackson,True,7.5,-140,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_points_over_under,isaiah jackson,False,17.5,-150,2023-04-08T00:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_points_over_under,isaiah jackson,True,17.5,115,2023-04-08T00:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_points_over_under,isaiah jackson,False,13.5,158,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_points_over_under,isaiah jackson,True,14.5,125,2023-04-08T00:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_points_over_under,isaiah jackson,True,13.5,-180,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_points_over_under,isaiah jackson,True,12.5,-120,2023-04-07T22:30:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_points_over_under,isaiah jackson,True,11.5,-110,2023-04-07T23:15:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_points_over_under,isaiah jackson,True,10.5,-125,2023-04-08T00:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_points_over_under,isaiah jackson,True,9.5,100,2023-04-07T23:45:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_points_over_under,isaiah jackson,False,17.5,-158,2023-04-08T00:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_points_over_under,isaiah jackson,False,15.5,-118,2023-04-08T01:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_points_over_under,isaiah jackson,False,14.5,-144,2023-04-08T00:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_points_over_under,isaiah jackson,False,11.5,-122,2023-04-07T23:15:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_points_over_under,isaiah jackson,False,10.5,116,2023-04-08T00:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_points_over_under,isaiah jackson,False,9.5,-130,2023-04-07T23:45:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_points_over_under,isaiah jackson,True,17.5,118,2023-04-08T00:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_rebounds_over_under,isaiah jackson,True,8.5,108,2023-04-07T23:45:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_points_over_under,isaiah jackson,True,15.5,-105,2023-04-08T01:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_rebounds_over_under,isaiah jackson,True,9.5,-138,2023-04-07T23:15:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_steals_over_under,isaiah jackson,True,0.5,-190,2023-04-07T22:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_rebounds_over_under,isaiah jackson,False,7.5,106,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_steals_over_under,isaiah jackson,False,0.5,145,2023-04-07T21:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_steals_over_under,isaiah jackson,False,1.5,-3000,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_steals_over_under,isaiah jackson,True,0.5,-189,2023-04-07T21:30:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_steals_over_under,isaiah jackson,False,0.5,136,2023-04-07T21:30:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_points_over_under,isaiah jackson,True,15.5,-112,2023-04-08T01:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_steals_over_under,isaiah jackson,False,0.5,140,2023-04-07T22:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_steals_over_under,isaiah jackson,True,1.5,900,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_threes_over_under,isaiah jackson,True,0.5,1000,2023-04-08T00:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_threes_over_under,isaiah jackson,True,0.5,750,2023-04-07T21:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_threes_over_under,isaiah jackson,False,0.5,-1300,2023-04-07T21:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_threes_over_under,isaiah jackson,True,0.5,572,2023-04-07T21:30:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_threes_over_under,isaiah jackson,False,0.5,-1304,2023-04-07T21:30:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_threes_over_under,isaiah jackson,True,0.5,675,2023-04-07T22:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_threes_over_under,isaiah jackson,False,0.5,-1600,2023-04-07T22:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_threes_over_under,isaiah jackson,False,0.5,-100000,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_rebounds_over_under,isaiah jackson,False,6.5,-114,2023-04-08T00:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_steals_over_under,isaiah jackson,True,0.5,-180,2023-04-07T21:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_steals_over_under,isaiah jackson,True,1.5,880,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_rebounds_over_under,isaiah jackson,False,8.5,-144,2023-04-07T23:45:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_rebounds_over_under,isaiah jackson,False,9.5,104,2023-04-07T23:15:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_rebounds_over_under,isaiah jackson,True,6.5,100,2023-04-08T00:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_rebounds_over_under,isaiah jackson,True,7.5,-120,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_rebounds_over_under,isaiah jackson,True,8.5,110,2023-04-07T23:45:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_rebounds_over_under,isaiah jackson,True,9.5,-135,2023-04-07T23:15:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_steals_over_under,isaiah jackson,False,1.5,-3000,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_rebounds_over_under,isaiah jackson,False,6.5,-135,2023-04-08T00:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_rebounds_over_under,isaiah jackson,False,8.5,-145,2023-04-07T23:45:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_rebounds_over_under,isaiah jackson,False,9.5,105,2023-04-07T23:15:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_rebounds_over_under,isaiah jackson,True,9.5,-106,2023-04-07T21:30:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_rebounds_over_under,isaiah jackson,False,9.5,-129,2023-04-07T21:30:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_rebounds_over_under,isaiah jackson,True,9.5,-105,2023-04-07T22:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_rebounds_over_under,isaiah jackson,False,9.5,-125,2023-04-07T22:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_rebounds_over_under,isaiah jackson,False,7.5,-110,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_points_over_under,isaiah jackson,True,14.5,108,2023-04-08T00:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_blocks_over_under,isaiah jackson,True,2.5,-125,2023-04-07T21:30:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_points_over_under,isaiah jackson,True,11.5,-108,2023-04-07T23:15:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_points_over_under,isaiah jackson,True,13.5,-215,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_assists_over_under,isaiah jackson,True,0.5,800,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_assists_over_under,isaiah jackson,False,0.5,-2200,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_assists_over_under,isaiah jackson,True,0.5,-244,2023-04-07T21:30:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_assists_over_under,isaiah jackson,False,0.5,172,2023-04-07T21:30:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_assists_over_under,isaiah jackson,True,0.5,-250,2023-04-07T22:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_blocks_over_under,isaiah jackson,True,0.5,-235,2023-04-08T00:30:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_blocks_over_under,isaiah jackson,True,1.5,-136,2023-04-08T00:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_blocks_over_under,isaiah jackson,True,2.5,132,2023-04-07T23:30:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_blocks_over_under,isaiah jackson,True,3.5,320,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_blocks_over_under,isaiah jackson,False,0.5,172,2023-04-08T00:30:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_blocks_over_under,isaiah jackson,False,1.5,102,2023-04-08T00:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_blocks_over_under,isaiah jackson,False,2.5,-178,2023-04-07T23:30:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_assists_over_under,isaiah jackson,False,0.5,180,2023-04-07T22:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_blocks_over_under,isaiah jackson,True,0.5,-225,2023-04-08T00:30:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_points_over_under,isaiah jackson,True,10.5,-154,2023-04-08T00:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_blocks_over_under,isaiah jackson,False,3.5,-500,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,fanduel,player_points_over_under,isaiah jackson,True,9.5,-102,2023-04-07T23:45:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_blocks_over_under,isaiah jackson,False,2.5,-110,2023-04-07T22:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,betmgm,player_blocks_over_under,isaiah jackson,True,2.5,-120,2023-04-07T22:00:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_blocks_over_under,isaiah jackson,False,3.5,-550,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,caesars,player_blocks_over_under,isaiah jackson,False,2.5,-109,2023-04-07T21:30:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_blocks_over_under,isaiah jackson,False,2.5,-185,2023-04-07T23:30:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_blocks_over_under,isaiah jackson,False,1.5,-105,2023-04-08T00:45:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_blocks_over_under,isaiah jackson,False,0.5,165,2023-04-08T00:30:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_blocks_over_under,isaiah jackson,True,3.5,350,2023-04-08T01:15:02,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_blocks_over_under,isaiah jackson,True,2.5,140,2023-04-07T23:30:01,Indiana Pacers,Detroit Pistons
+2023-04-07,653a443fe3ec6d0b91978021e7abbd53,draftkings,player_blocks_over_under,isaiah jackson,True,1.5,-130,2023-04-08T00:45:01,Indiana Pacers,Detroit Pistons
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_points_over_under,isaiah jackson,False,8.5,114,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_points_over_under,isaiah jackson,True,11.5,-102,2023-04-09T18:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_points_over_under,isaiah jackson,True,12.5,106,2023-04-09T17:30:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_points_over_under,isaiah jackson,False,7.5,114,2023-04-09T19:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_points_over_under,isaiah jackson,True,10.5,-154,2023-04-09T18:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_points_over_under,isaiah jackson,False,9.5,-158,2023-04-09T18:45:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_points_over_under,isaiah jackson,True,11.5,-105,2023-04-09T17:45:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_points_over_under,isaiah jackson,False,11.5,-130,2023-04-09T18:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_points_over_under,isaiah jackson,False,12.5,-140,2023-04-09T17:30:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_points_over_under,isaiah jackson,True,8.5,-150,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_points_over_under,isaiah jackson,True,9.5,125,2023-04-09T18:45:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_points_over_under,isaiah jackson,True,10.5,-145,2023-04-09T18:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_points_over_under,isaiah jackson,True,12.5,105,2023-04-09T17:30:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_points_over_under,isaiah jackson,True,9.5,118,2023-04-09T18:45:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_points_over_under,isaiah jackson,False,10.5,116,2023-04-09T18:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_points_over_under,isaiah jackson,True,8.5,-152,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_assists_over_under,isaiah jackson,False,3.5,-1000,2023-04-09T19:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,caesars,player_blocks_over_under,isaiah jackson,False,1.5,-108,2023-04-09T16:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_assists_over_under,isaiah jackson,True,2.5,146,2023-04-09T18:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_assists_over_under,isaiah jackson,True,3.5,520,2023-04-09T19:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_assists_over_under,isaiah jackson,False,0.5,-125,2023-04-09T18:00:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_assists_over_under,isaiah jackson,False,2.5,-198,2023-04-09T18:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,caesars,player_threes_over_under,isaiah jackson,False,0.5,-1404,2023-04-09T16:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,caesars,player_assists_over_under,isaiah jackson,True,0.5,-174,2023-04-09T16:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,caesars,player_assists_over_under,isaiah jackson,False,0.5,126,2023-04-09T16:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_points_over_under,isaiah jackson,True,7.5,-152,2023-04-09T19:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_blocks_over_under,isaiah jackson,True,1.5,270,2023-04-09T19:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_blocks_over_under,isaiah jackson,False,1.5,-400,2023-04-09T19:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_blocks_over_under,isaiah jackson,False,2.5,-235,2023-04-09T18:00:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_blocks_over_under,isaiah jackson,True,1.5,160,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_blocks_over_under,isaiah jackson,True,2.5,180,2023-04-09T18:00:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_blocks_over_under,isaiah jackson,False,1.5,-215,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_blocks_over_under,isaiah jackson,False,2.5,-245,2023-04-09T18:00:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,caesars,player_blocks_over_under,isaiah jackson,True,1.5,-127,2023-04-09T16:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_blocks_over_under,isaiah jackson,True,2.5,174,2023-04-09T18:00:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,caesars,player_threes_over_under,isaiah jackson,True,0.5,594,2023-04-09T16:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_steals_over_under,isaiah jackson,True,0.5,220,2023-04-09T18:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_threes_over_under,isaiah jackson,True,0.5,750,2023-04-09T16:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_rebounds_over_under,isaiah jackson,True,6.5,-155,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_rebounds_over_under,isaiah jackson,True,5.5,-165,2023-04-09T18:00:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_rebounds_over_under,isaiah jackson,False,8.5,114,2023-04-09T18:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_rebounds_over_under,isaiah jackson,False,7.5,-210,2023-04-09T18:45:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_rebounds_over_under,isaiah jackson,False,6.5,-235,2023-04-09T19:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_rebounds_over_under,isaiah jackson,True,8.5,-152,2023-04-09T18:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_rebounds_over_under,isaiah jackson,True,7.5,154,2023-04-09T18:45:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_rebounds_over_under,isaiah jackson,True,6.5,172,2023-04-09T19:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,caesars,player_points_over_under,isaiah jackson,False,11.5,-104,2023-04-09T16:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,caesars,player_points_over_under,isaiah jackson,True,11.5,-131,2023-04-09T16:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_points_over_under,isaiah jackson,False,12.5,-140,2023-04-09T17:30:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_points_over_under,isaiah jackson,False,11.5,-125,2023-04-09T17:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_points_over_under,isaiah jackson,False,10.5,110,2023-04-09T18:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_points_over_under,isaiah jackson,False,9.5,-170,2023-04-09T18:45:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_points_over_under,isaiah jackson,False,8.5,110,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_rebounds_over_under,isaiah jackson,True,7.5,-105,2023-04-09T17:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_threes_over_under,isaiah jackson,False,0.5,-1300,2023-04-09T16:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_rebounds_over_under,isaiah jackson,True,8.5,-145,2023-04-09T18:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_rebounds_over_under,isaiah jackson,False,6.5,115,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_threes_over_under,isaiah jackson,False,0.5,-100000,2023-04-09T19:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_threes_over_under,isaiah jackson,True,0.5,1000,2023-04-09T18:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,caesars,player_steals_over_under,isaiah jackson,False,0.5,-127,2023-04-09T16:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,caesars,player_steals_over_under,isaiah jackson,True,0.5,-108,2023-04-09T16:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_steals_over_under,isaiah jackson,False,1.5,-800,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_steals_over_under,isaiah jackson,False,0.5,-300,2023-04-09T18:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_steals_over_under,isaiah jackson,True,1.5,450,2023-04-09T19:00:02,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_steals_over_under,isaiah jackson,True,0.5,215,2023-04-09T18:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_steals_over_under,isaiah jackson,False,1.5,-2000,2023-04-09T19:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_steals_over_under,isaiah jackson,False,0.5,-310,2023-04-09T18:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_steals_over_under,isaiah jackson,True,1.5,750,2023-04-09T19:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,caesars,player_rebounds_over_under,isaiah jackson,False,7.5,-109,2023-04-09T16:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,caesars,player_rebounds_over_under,isaiah jackson,True,7.5,-125,2023-04-09T16:30:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_rebounds_over_under,isaiah jackson,False,8.5,110,2023-04-09T18:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_rebounds_over_under,isaiah jackson,False,7.5,-125,2023-04-09T17:15:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,draftkings,player_rebounds_over_under,isaiah jackson,False,5.5,125,2023-04-09T18:00:01,New York Knicks,Indiana Pacers
+2023-04-09,72dffda73530d054c05ae325c0a6d330,fanduel,player_assists_over_under,isaiah jackson,True,0.5,-106,2023-04-09T18:00:01,New York Knicks,Indiana Pacers

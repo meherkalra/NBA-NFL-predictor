@@ -1,0 +1,21 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-28,70592fec3120b0d74c1d2cd46aa81ffd,fanduel,player_points_over_under,kai jones,True,7.5,104,2023-03-29T00:00:02,Oklahoma City Thunder,Charlotte Hornets
+2023-03-28,70592fec3120b0d74c1d2cd46aa81ffd,fanduel,player_points_over_under,kai jones,False,7.5,-128,2023-03-29T00:00:02,Oklahoma City Thunder,Charlotte Hornets
+2023-03-28,70592fec3120b0d74c1d2cd46aa81ffd,fanduel,player_rebounds_over_under,kai jones,True,4.5,-144,2023-03-28T23:45:01,Oklahoma City Thunder,Charlotte Hornets
+2023-03-28,70592fec3120b0d74c1d2cd46aa81ffd,fanduel,player_rebounds_over_under,kai jones,False,4.5,118,2023-03-28T23:45:01,Oklahoma City Thunder,Charlotte Hornets
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,draftkings,player_blocks_over_under,kai jones,True,1.5,155,2023-04-04T22:40:45,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,draftkings,player_blocks_over_under,kai jones,False,1.5,-190,2023-04-04T22:40:45,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,fanduel,player_points_over_under,kai jones,True,8.5,-128,2023-04-04T22:30:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,fanduel,player_points_over_under,kai jones,True,9.5,-102,2023-04-04T22:54:02,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,fanduel,player_points_over_under,kai jones,False,8.5,104,2023-04-04T22:30:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,fanduel,player_points_over_under,kai jones,False,9.5,-120,2023-04-04T22:54:02,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,draftkings,player_points_over_under,kai jones,True,8.5,-140,2023-04-04T22:40:45,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,draftkings,player_points_over_under,kai jones,False,8.5,110,2023-04-04T22:40:45,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,fanduel,player_rebounds_over_under,kai jones,True,5.5,-144,2023-04-04T22:48:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,fanduel,player_rebounds_over_under,kai jones,True,6.5,114,2023-04-04T23:00:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,fanduel,player_rebounds_over_under,kai jones,False,5.5,118,2023-04-04T22:48:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,fanduel,player_rebounds_over_under,kai jones,False,6.5,-140,2023-04-04T23:00:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,draftkings,player_rebounds_over_under,kai jones,True,5.5,-130,2023-04-04T22:40:45,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,draftkings,player_rebounds_over_under,kai jones,False,5.5,100,2023-04-04T22:40:45,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,draftkings,player_steals_over_under,kai jones,True,0.5,-120,2023-04-04T22:40:45,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,draftkings,player_steals_over_under,kai jones,False,0.5,-110,2023-04-04T22:40:45,Charlotte Hornets,Toronto Raptors

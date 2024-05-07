@@ -1,0 +1,221 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-21,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,bradley beal,True,19.5,-106,2023-10-24T17:01:25,Memphis Grizzlies,New Orleans Pelicans
+2023-03-21,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,bradley beal,True,20.5,-106,2023-10-24T17:01:25,Memphis Grizzlies,New Orleans Pelicans
+2023-03-21,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,bradley beal,False,19.5,-120,2023-10-24T17:01:25,Memphis Grizzlies,New Orleans Pelicans
+2023-03-21,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,bradley beal,False,20.5,-120,2023-10-24T17:01:25,Memphis Grizzlies,New Orleans Pelicans
+2023-03-21,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_points_over_under,bradley beal,True,19.5,-106,2023-10-24T17:15:24,San Antonio Spurs,Dallas Mavericks
+2023-03-21,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_points_over_under,bradley beal,True,20.5,-106,2023-10-24T17:15:24,San Antonio Spurs,Dallas Mavericks
+2023-03-21,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_points_over_under,bradley beal,False,19.5,-120,2023-10-24T17:15:24,San Antonio Spurs,Dallas Mavericks
+2023-03-21,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_points_over_under,bradley beal,False,20.5,-120,2023-10-24T17:15:24,San Antonio Spurs,Dallas Mavericks
+2023-03-21,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_points_over_under,bradley beal,True,19.5,-106,2023-10-24T16:20:17,LA Clippers,Portland Trail Blazers
+2023-03-21,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_points_over_under,bradley beal,True,20.5,-106,2023-10-24T16:20:17,LA Clippers,Portland Trail Blazers
+2023-03-21,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_points_over_under,bradley beal,False,19.5,-120,2023-10-24T16:20:17,LA Clippers,Portland Trail Blazers
+2023-03-21,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_points_over_under,bradley beal,False,20.5,-120,2023-10-24T16:20:17,LA Clippers,Portland Trail Blazers
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_assists_over_under,bradley beal,True,4.5,-115,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_assists_over_under,bradley beal,False,4.5,-110,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,betmgm,player_assists_over_under,bradley beal,True,4.5,-110,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,betmgm,player_assists_over_under,bradley beal,False,4.5,-125,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_assists_over_under,bradley beal,True,3.5,-210,2023-10-24T18:40:54,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_assists_over_under,bradley beal,True,4.5,-110,2023-10-25T02:15:06,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_assists_over_under,bradley beal,True,5.5,190,2023-10-24T18:40:54,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_assists_over_under,bradley beal,False,3.5,160,2023-10-24T18:40:54,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_assists_over_under,bradley beal,False,4.5,-120,2023-10-25T02:15:06,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_assists_over_under,bradley beal,False,5.5,-260,2023-10-24T18:40:54,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,betrivers,player_assists_over_under,bradley beal,True,3.5,-275,2023-10-24T18:05:14,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,betrivers,player_assists_over_under,bradley beal,True,4.5,-117,2023-10-24T18:05:14,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,betrivers,player_assists_over_under,bradley beal,True,5.5,185,2023-10-24T18:05:14,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_blocks_over_under,bradley beal,True,0.5,135,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_blocks_over_under,bradley beal,False,0.5,-170,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,betmgm,player_blocks_over_under,bradley beal,True,0.5,130,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,betmgm,player_blocks_over_under,bradley beal,False,0.5,-175,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_blocks_over_under,bradley beal,True,0.5,135,2023-10-24T18:40:54,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_blocks_over_under,bradley beal,False,0.5,-175,2023-10-24T18:40:54,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,bradley beal,True,19.5,-106,2023-10-24T18:40:54,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,bradley beal,True,20.5,-106,2023-10-24T18:05:10,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,bradley beal,True,21.5,100,2023-10-20T06:01:05,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,bradley beal,False,19.5,-120,2023-10-24T18:40:54,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,bradley beal,False,20.5,-120,2023-10-24T18:05:10,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,bradley beal,False,21.5,-128,2023-10-20T06:01:05,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,bradley beal,True,17.5,-190,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,bradley beal,True,18.5,-145,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,bradley beal,True,20.5,105,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,bradley beal,True,21.5,135,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,bradley beal,True,19.5,-110,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,bradley beal,False,17.5,145,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,bradley beal,False,18.5,115,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,bradley beal,False,20.5,-135,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,bradley beal,False,21.5,-175,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,bradley beal,False,19.5,-115,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,betmgm,player_points_over_under,bradley beal,True,19.5,-110,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,betmgm,player_points_over_under,bradley beal,False,19.5,-120,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_points_over_under,bradley beal,True,18.5,-135,2023-10-24T18:40:54,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_points_over_under,bradley beal,True,19.5,-110,2023-10-24T18:40:54,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_points_over_under,bradley beal,True,20.5,115,2023-10-24T18:40:54,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_points_over_under,bradley beal,False,18.5,105,2023-10-24T18:40:54,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_points_over_under,bradley beal,False,19.5,-120,2023-10-24T18:40:54,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_points_over_under,bradley beal,False,20.5,-150,2023-10-24T18:40:54,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,betrivers,player_points_over_under,bradley beal,True,16.5,-305,2023-10-24T18:05:14,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,betrivers,player_points_over_under,bradley beal,True,17.5,-215,2023-10-24T18:05:14,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,betrivers,player_points_over_under,bradley beal,True,18.5,-155,2023-10-24T18:05:14,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,betrivers,player_points_over_under,bradley beal,True,19.5,-115,2023-10-24T18:05:14,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,betrivers,player_points_over_under,bradley beal,True,20.5,112,2023-10-24T18:05:14,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,betrivers,player_points_over_under,bradley beal,True,21.5,140,2023-10-24T18:05:14,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,betrivers,player_points_over_under,bradley beal,True,22.5,180,2023-10-24T18:05:14,Golden State Warriors,Phoenix Suns
+2023-03-21,9df5a18ec404f6abe1632c9244f4a5d4,fanduel,player_points_over_under,bradley beal,True,19.5,-106,2023-10-24T17:55:04,Brooklyn Nets,Cleveland Cavaliers
+2023-03-21,9df5a18ec404f6abe1632c9244f4a5d4,fanduel,player_points_over_under,bradley beal,True,20.5,-106,2023-10-24T18:00:11,Brooklyn Nets,Cleveland Cavaliers
+2023-03-21,9df5a18ec404f6abe1632c9244f4a5d4,fanduel,player_points_over_under,bradley beal,False,19.5,-120,2023-10-24T17:55:04,Brooklyn Nets,Cleveland Cavaliers
+2023-03-21,9df5a18ec404f6abe1632c9244f4a5d4,fanduel,player_points_over_under,bradley beal,False,20.5,-120,2023-10-24T18:00:11,Brooklyn Nets,Cleveland Cavaliers
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_rebounds_over_under,bradley beal,True,3.5,-160,2023-10-21T05:25:38,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_rebounds_over_under,bradley beal,True,4.5,135,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_rebounds_over_under,bradley beal,False,3.5,125,2023-10-21T05:25:38,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_rebounds_over_under,bradley beal,False,4.5,-170,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,betmgm,player_rebounds_over_under,bradley beal,True,4.5,115,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,betmgm,player_rebounds_over_under,bradley beal,False,4.5,-155,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_rebounds_over_under,bradley beal,True,3.5,-175,2023-10-24T18:40:54,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_rebounds_over_under,bradley beal,True,4.5,115,2023-10-24T18:40:54,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_rebounds_over_under,bradley beal,True,5.5,235,2023-10-24T18:40:54,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_rebounds_over_under,bradley beal,False,3.5,135,2023-10-24T18:40:54,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_rebounds_over_under,bradley beal,False,4.5,-155,2023-10-24T18:40:54,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_rebounds_over_under,bradley beal,False,5.5,-340,2023-10-24T18:40:54,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,betrivers,player_rebounds_over_under,bradley beal,True,3.5,-177,2023-10-24T18:05:14,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,betrivers,player_rebounds_over_under,bradley beal,True,4.5,132,2023-10-24T18:05:14,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_steals_over_under,bradley beal,True,0.5,-155,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_steals_over_under,bradley beal,False,0.5,120,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,betmgm,player_steals_over_under,bradley beal,True,0.5,-160,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,betmgm,player_steals_over_under,bradley beal,False,0.5,120,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_steals_over_under,bradley beal,True,0.5,-160,2023-10-24T18:40:54,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_steals_over_under,bradley beal,False,0.5,120,2023-10-24T18:40:54,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,betrivers,player_steals_over_under,bradley beal,True,0.5,-165,2023-10-24T18:05:14,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_threes_over_under,bradley beal,True,1.5,110,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_threes_over_under,bradley beal,False,1.5,-140,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,betmgm,player_threes_over_under,bradley beal,True,1.5,105,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,betmgm,player_threes_over_under,bradley beal,False,1.5,-145,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_threes_over_under,bradley beal,True,0.5,-450,2023-10-24T18:40:54,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_threes_over_under,bradley beal,True,1.5,-105,2023-10-25T02:15:06,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_threes_over_under,bradley beal,True,2.5,325,2023-10-24T18:40:54,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_threes_over_under,bradley beal,False,0.5,300,2023-10-24T18:40:54,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_threes_over_under,bradley beal,False,1.5,-125,2023-10-25T02:15:06,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_threes_over_under,bradley beal,False,2.5,-500,2023-10-24T18:40:54,Golden State Warriors,Phoenix Suns
+2023-03-21,9b3130e607f80aa4912aa184e2f4eab3,betrivers,player_threes_over_under,bradley beal,True,1.5,-112,2023-10-24T18:05:14,Golden State Warriors,Phoenix Suns
+2023-03-21,4622c02f9bd1df188631c86e04036049,draftkings,player_assists_over_under,bradley beal,True,4.5,-115,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,draftkings,player_assists_over_under,bradley beal,False,4.5,-110,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,betmgm,player_assists_over_under,bradley beal,True,4.5,-110,2023-10-24T18:01:39,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,betmgm,player_assists_over_under,bradley beal,False,4.5,-125,2023-10-24T18:01:39,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,barstool,player_assists_over_under,bradley beal,True,3.5,-210,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,barstool,player_assists_over_under,bradley beal,True,5.5,190,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,barstool,player_assists_over_under,bradley beal,False,3.5,160,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,barstool,player_assists_over_under,bradley beal,False,5.5,-260,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,betrivers,player_assists_over_under,bradley beal,True,3.5,-275,2023-10-24T18:00:16,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,betrivers,player_assists_over_under,bradley beal,True,4.5,-117,2023-10-24T18:00:16,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,betrivers,player_assists_over_under,bradley beal,True,5.5,185,2023-10-24T18:00:16,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,draftkings,player_blocks_over_under,bradley beal,True,0.5,135,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,draftkings,player_blocks_over_under,bradley beal,False,0.5,-170,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,betmgm,player_blocks_over_under,bradley beal,True,0.5,130,2023-10-24T18:01:39,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,betmgm,player_blocks_over_under,bradley beal,False,0.5,-175,2023-10-24T18:01:39,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,barstool,player_blocks_over_under,bradley beal,True,0.5,135,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,barstool,player_blocks_over_under,bradley beal,False,0.5,-175,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,bradley beal,True,17.5,-190,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,bradley beal,True,18.5,-145,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,bradley beal,True,20.5,105,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,bradley beal,True,21.5,135,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,bradley beal,True,19.5,-110,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,bradley beal,False,17.5,145,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,bradley beal,False,18.5,115,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,bradley beal,False,20.5,-135,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,bradley beal,False,21.5,-175,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,bradley beal,False,19.5,-115,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,betmgm,player_points_over_under,bradley beal,True,19.5,-110,2023-10-24T18:01:39,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,betmgm,player_points_over_under,bradley beal,False,19.5,-120,2023-10-24T18:01:39,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,bradley beal,True,18.5,-135,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,bradley beal,True,19.5,-110,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,bradley beal,True,20.5,115,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,bradley beal,False,18.5,105,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,bradley beal,False,19.5,-120,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,bradley beal,False,20.5,-150,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,betrivers,player_points_over_under,bradley beal,True,16.5,-305,2023-10-24T18:00:16,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,betrivers,player_points_over_under,bradley beal,True,17.5,-215,2023-10-24T18:00:16,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,betrivers,player_points_over_under,bradley beal,True,18.5,-155,2023-10-24T18:00:16,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,betrivers,player_points_over_under,bradley beal,True,19.5,-115,2023-10-24T18:00:16,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,betrivers,player_points_over_under,bradley beal,True,20.5,112,2023-10-24T18:00:16,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,betrivers,player_points_over_under,bradley beal,True,21.5,140,2023-10-24T18:00:16,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,betrivers,player_points_over_under,bradley beal,True,22.5,180,2023-10-24T18:00:16,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,draftkings,player_rebounds_over_under,bradley beal,True,4.5,135,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,draftkings,player_rebounds_over_under,bradley beal,False,4.5,-170,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,betmgm,player_rebounds_over_under,bradley beal,True,4.5,115,2023-10-24T18:01:39,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,betmgm,player_rebounds_over_under,bradley beal,False,4.5,-155,2023-10-24T18:01:39,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,barstool,player_rebounds_over_under,bradley beal,True,3.5,-175,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,barstool,player_rebounds_over_under,bradley beal,True,4.5,115,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,barstool,player_rebounds_over_under,bradley beal,True,5.5,235,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,barstool,player_rebounds_over_under,bradley beal,False,3.5,135,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,barstool,player_rebounds_over_under,bradley beal,False,4.5,-155,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,barstool,player_rebounds_over_under,bradley beal,False,5.5,-340,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,betrivers,player_rebounds_over_under,bradley beal,True,3.5,-177,2023-10-24T18:00:16,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,betrivers,player_rebounds_over_under,bradley beal,True,4.5,132,2023-10-24T18:00:16,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,draftkings,player_steals_over_under,bradley beal,True,0.5,-155,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,draftkings,player_steals_over_under,bradley beal,False,0.5,120,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,betmgm,player_steals_over_under,bradley beal,True,0.5,-160,2023-10-24T18:01:39,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,betmgm,player_steals_over_under,bradley beal,False,0.5,120,2023-10-24T18:01:39,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,barstool,player_steals_over_under,bradley beal,True,0.5,-160,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,barstool,player_steals_over_under,bradley beal,False,0.5,120,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,betrivers,player_steals_over_under,bradley beal,True,0.5,-165,2023-10-24T18:00:16,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,draftkings,player_threes_over_under,bradley beal,True,1.5,110,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,draftkings,player_threes_over_under,bradley beal,False,1.5,-140,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,betmgm,player_threes_over_under,bradley beal,True,1.5,105,2023-10-24T18:01:39,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,betmgm,player_threes_over_under,bradley beal,False,1.5,-145,2023-10-24T18:01:39,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,barstool,player_threes_over_under,bradley beal,True,0.5,-450,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,barstool,player_threes_over_under,bradley beal,True,2.5,325,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,barstool,player_threes_over_under,bradley beal,False,0.5,300,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,barstool,player_threes_over_under,bradley beal,False,2.5,-500,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-03-21,4622c02f9bd1df188631c86e04036049,betrivers,player_threes_over_under,bradley beal,True,1.5,-112,2023-10-24T18:00:16,Denver Nuggets,Los Angeles Lakers
+2023-03-21,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_assists_over_under,bradley beal,True,5.5,-122,2023-03-22T17:30:01,Washington Wizards,Denver Nuggets
+2023-03-21,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_assists_over_under,bradley beal,False,5.5,100,2023-03-22T17:30:01,Washington Wizards,Denver Nuggets
+2023-03-21,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,bradley beal,True,23.5,-120,2023-03-22T17:30:01,Washington Wizards,Denver Nuggets
+2023-03-21,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,bradley beal,True,24.5,-102,2023-03-22T17:45:02,Washington Wizards,Denver Nuggets
+2023-03-21,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,bradley beal,False,23.5,-102,2023-03-22T17:30:01,Washington Wizards,Denver Nuggets
+2023-03-21,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,bradley beal,False,24.5,-120,2023-03-22T17:45:02,Washington Wizards,Denver Nuggets
+2023-03-21,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_rebounds_over_under,bradley beal,True,4.5,110,2023-03-22T17:30:01,Washington Wizards,Denver Nuggets
+2023-03-21,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_rebounds_over_under,bradley beal,False,4.5,-134,2023-03-22T17:30:01,Washington Wizards,Denver Nuggets
+2023-03-21,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_threes_over_under,bradley beal,True,1.5,100,2023-03-22T16:45:01,Washington Wizards,Denver Nuggets
+2023-03-21,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_threes_over_under,bradley beal,False,1.5,-128,2023-03-22T16:45:01,Washington Wizards,Denver Nuggets
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_assists_over_under,bradley beal,True,5.5,-122,2023-03-21T23:00:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_assists_over_under,bradley beal,True,6.5,-118,2023-03-21T23:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_assists_over_under,bradley beal,True,7.5,174,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_assists_over_under,bradley beal,True,8.5,178,2023-03-22T01:00:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_assists_over_under,bradley beal,True,9.5,116,2023-03-22T00:30:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_assists_over_under,bradley beal,False,5.5,100,2023-03-21T23:00:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_assists_over_under,bradley beal,False,6.5,-112,2023-03-21T23:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_assists_over_under,bradley beal,False,7.5,-240,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_assists_over_under,bradley beal,False,8.5,-245,2023-03-22T01:00:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_assists_over_under,bradley beal,False,9.5,-154,2023-03-22T00:30:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_blocks_over_under,bradley beal,True,0.5,1000,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_blocks_over_under,bradley beal,False,0.5,-7000,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,bradley beal,True,16.5,-154,2023-03-22T01:00:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,bradley beal,True,17.5,-125,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,bradley beal,True,18.5,-112,2023-03-22T00:45:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,bradley beal,True,21.5,-146,2023-03-22T00:30:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,bradley beal,True,22.5,106,2023-03-21T23:45:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,bradley beal,True,23.5,-114,2023-03-21T23:30:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,bradley beal,True,25.5,-118,2023-03-21T23:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,bradley beal,True,26.5,-112,2023-03-21T23:00:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,bradley beal,True,27.5,-102,2023-03-21T13:45:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,bradley beal,False,16.5,116,2023-03-22T01:00:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,bradley beal,False,17.5,-106,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,bradley beal,False,18.5,-118,2023-03-22T00:45:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,bradley beal,False,21.5,110,2023-03-22T00:30:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,bradley beal,False,22.5,-140,2023-03-21T23:45:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,bradley beal,False,23.5,-114,2023-03-21T23:30:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,bradley beal,False,25.5,-112,2023-03-21T23:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,bradley beal,False,26.5,-108,2023-03-21T23:00:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,bradley beal,False,27.5,-125,2023-03-21T13:45:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_rebounds_over_under,bradley beal,True,4.5,-105,2023-03-21T23:00:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_rebounds_over_under,bradley beal,True,5.5,225,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_rebounds_over_under,bradley beal,True,6.5,164,2023-03-22T00:45:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_rebounds_over_under,bradley beal,False,4.5,-115,2023-03-21T23:00:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_rebounds_over_under,bradley beal,False,5.5,-320,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_rebounds_over_under,bradley beal,False,6.5,-225,2023-03-22T00:45:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_steals_over_under,bradley beal,True,0.5,920,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_steals_over_under,bradley beal,False,0.5,-3500,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_threes_over_under,bradley beal,True,0.5,580,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_threes_over_under,bradley beal,True,1.5,136,2023-03-21T23:45:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_threes_over_under,bradley beal,False,0.5,-1200,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_threes_over_under,bradley beal,False,1.5,-182,2023-03-21T23:45:01,Orlando Magic,Washington Wizards

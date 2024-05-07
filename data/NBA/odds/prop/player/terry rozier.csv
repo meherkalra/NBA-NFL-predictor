@@ -1,0 +1,507 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_threes_over_under,terry rozier,False,2.5,-154,2023-03-20T23:15:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,terry rozier,False,22.5,138,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,terry rozier,False,20.5,-114,2023-03-20T23:15:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,terry rozier,False,18.5,-106,2023-03-20T23:45:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,terry rozier,True,27.5,112,2023-03-21T00:45:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,terry rozier,True,25.5,102,2023-03-21T01:00:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,terry rozier,True,23.5,-152,2023-03-21T00:30:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,terry rozier,True,22.5,-186,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,terry rozier,True,20.5,-114,2023-03-20T23:15:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,terry rozier,True,19.5,-106,2023-03-20T23:30:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,terry rozier,True,18.5,-125,2023-03-20T23:45:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_blocks_over_under,terry rozier,False,0.5,-5000,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_blocks_over_under,terry rozier,True,0.5,1000,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_assists_over_under,terry rozier,False,6.5,-152,2023-03-21T01:00:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_assists_over_under,terry rozier,False,5.5,122,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_assists_over_under,terry rozier,True,6.5,114,2023-03-21T01:00:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_assists_over_under,terry rozier,True,5.5,-162,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_threes_over_under,terry rozier,False,1.5,-275,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,terry rozier,False,23.5,114,2023-03-21T00:30:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,terry rozier,False,25.5,-136,2023-03-21T01:00:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,terry rozier,False,19.5,-125,2023-03-20T23:30:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_rebounds_over_under,terry rozier,True,0.5,102,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_threes_over_under,terry rozier,True,2.5,116,2023-03-20T23:15:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_threes_over_under,terry rozier,True,1.5,198,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_steals_over_under,terry rozier,False,2.5,-650,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_steals_over_under,terry rozier,False,1.5,-112,2023-03-21T00:30:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,terry rozier,False,27.5,-148,2023-03-21T00:45:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_steals_over_under,terry rozier,True,2.5,390,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_steals_over_under,terry rozier,True,1.5,-118,2023-03-21T00:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_steals_over_under,terry rozier,True,0.5,-192,2023-03-20T23:45:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_rebounds_over_under,terry rozier,False,4.5,-130,2023-03-20T23:00:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_steals_over_under,terry rozier,False,0.5,142,2023-03-20T23:45:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_rebounds_over_under,terry rozier,False,2.5,-198,2023-03-21T00:30:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_rebounds_over_under,terry rozier,False,1.5,-160,2023-03-21T00:45:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_rebounds_over_under,terry rozier,False,0.5,-136,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_rebounds_over_under,terry rozier,True,4.5,106,2023-03-20T23:00:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_rebounds_over_under,terry rozier,True,3.5,104,2023-03-20T23:30:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_rebounds_over_under,terry rozier,True,2.5,146,2023-03-21T00:30:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_rebounds_over_under,terry rozier,True,1.5,120,2023-03-21T00:45:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_rebounds_over_under,terry rozier,False,3.5,-138,2023-03-20T23:30:01,Charlotte Hornets,Indiana Pacers
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,terry rozier,True,20.5,-104,2023-03-23T18:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,terry rozier,True,18.5,-125,2023-03-24T00:15:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_blocks_over_under,terry rozier,False,0.5,-550,2023-03-24T00:15:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_blocks_over_under,terry rozier,True,0.5,350,2023-03-24T00:15:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_assists_over_under,terry rozier,True,5.5,-160,2023-03-24T00:15:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_assists_over_under,terry rozier,False,5.5,120,2023-03-24T00:15:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_assists_over_under,terry rozier,True,6.5,114,2023-03-23T17:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,terry rozier,True,21.5,-113,2023-03-23T17:45:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_assists_over_under,terry rozier,False,6.5,-146,2023-03-23T17:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,terry rozier,True,22.5,-102,2023-03-23T16:45:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,terry rozier,False,18.5,-106,2023-03-24T00:15:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,terry rozier,False,20.5,-122,2023-03-23T18:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_threes_over_under,terry rozier,True,2.5,114,2023-03-24T00:15:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_steals_over_under,terry rozier,False,1.5,-200,2023-03-24T00:15:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_steals_over_under,terry rozier,True,1.5,148,2023-03-24T00:15:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_rebounds_over_under,terry rozier,False,4.5,-120,2023-03-24T00:15:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_threes_over_under,terry rozier,False,2.5,-152,2023-03-24T00:15:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_rebounds_over_under,terry rozier,True,4.5,-110,2023-03-24T00:15:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_rebounds_over_under,terry rozier,True,3.5,-113,2023-03-23T18:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,terry rozier,False,22.5,-125,2023-03-23T16:45:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,terry rozier,False,21.5,-113,2023-03-23T17:45:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_rebounds_over_under,terry rozier,False,3.5,-113,2023-03-23T18:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_points_over_under,terry rozier,True,16.5,-120,2023-10-26T00:05:14,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betmgm,player_points_over_under,terry rozier,False,20.5,-115,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betmgm,player_points_over_under,terry rozier,False,19.5,-120,2023-10-25T21:26:15,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betmgm,player_points_over_under,terry rozier,True,20.5,-120,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betmgm,player_points_over_under,terry rozier,True,19.5,-110,2023-10-25T21:26:15,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,terry rozier,False,24.5,-110,2023-10-26T00:15:04,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,terry rozier,False,23.5,-130,2023-10-26T00:30:07,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,terry rozier,False,22.5,-120,2023-10-26T00:35:04,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,terry rozier,False,20.5,-115,2023-10-26T00:56:12,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,terry rozier,False,19.5,-205,2023-10-26T01:25:04,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,terry rozier,False,18.5,-105,2023-10-25T23:30:05,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_points_over_under,terry rozier,True,17.5,-120,2023-10-25T23:55:05,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,terry rozier,False,16.5,-105,2023-10-26T00:00:19,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,terry rozier,False,15.5,-115,2023-10-26T00:06:16,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,terry rozier,False,22.5,-175,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,terry rozier,False,21.5,-140,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,terry rozier,False,21.5,-300,2023-10-26T01:30:07,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,terry rozier,False,17.5,-120,2023-10-25T23:55:08,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_points_over_under,terry rozier,True,22.5,-125,2023-10-26T00:35:07,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_points_over_under,terry rozier,True,19.5,-140,2023-10-26T01:20:04,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betrivers,player_points_over_under,terry rozier,True,18.5,-177,2023-10-25T23:01:07,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betrivers,player_points_over_under,terry rozier,True,17.5,-245,2023-10-25T23:01:07,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betrivers,player_points_over_under,terry rozier,True,16.5,-345,2023-10-25T23:01:07,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betrivers,player_points_over_under,terry rozier,True,15.5,-360,2023-10-25T21:45:23,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_points_over_under,terry rozier,False,24.5,-115,2023-10-26T00:16:01,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_points_over_under,terry rozier,False,23.5,-135,2023-10-26T00:30:04,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_points_over_under,terry rozier,False,22.5,-115,2023-10-26T00:35:07,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_points_over_under,terry rozier,False,21.5,-125,2023-10-26T00:40:39,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_points_over_under,terry rozier,True,18.5,-140,2023-10-25T11:10:14,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_points_over_under,terry rozier,False,20.5,-135,2023-10-26T00:55:09,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_points_over_under,terry rozier,False,18.5,110,2023-10-25T11:10:14,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_points_over_under,terry rozier,False,17.5,-120,2023-10-25T23:55:05,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_points_over_under,terry rozier,False,16.5,-120,2023-10-26T00:05:14,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_points_over_under,terry rozier,True,24.5,-125,2023-10-26T00:16:01,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_points_over_under,terry rozier,True,23.5,-105,2023-10-26T00:30:04,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,terry rozier,False,20.5,-145,2023-10-25T21:26:19,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_points_over_under,terry rozier,True,21.5,-115,2023-10-26T00:40:39,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_points_over_under,terry rozier,True,20.5,-105,2023-10-26T00:55:09,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_points_over_under,terry rozier,False,19.5,100,2023-10-26T01:20:04,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,terry rozier,False,19.5,115,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_points_over_under,terry rozier,False,15.5,102,2023-10-26T00:00:34,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,terry rozier,False,17.5,135,2023-10-25T21:26:19,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_points_over_under,terry rozier,False,21.5,-142,2023-10-26T00:45:04,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_points_over_under,terry rozier,False,20.5,-220,2023-10-26T01:20:04,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_points_over_under,terry rozier,False,19.5,-108,2023-10-26T01:25:13,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_points_over_under,terry rozier,False,18.5,-118,2023-10-25T23:30:14,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_points_over_under,terry rozier,False,17.5,-111,2023-10-25T23:35:46,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_points_over_under,terry rozier,False,16.5,104,2023-10-26T00:05:10,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betrivers,player_points_over_under,terry rozier,True,19.5,-134,2023-10-25T23:01:07,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_points_over_under,terry rozier,False,14.5,-111,2023-10-26T00:05:10,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_points_over_under,terry rozier,True,23.5,106,2023-10-26T00:30:16,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_points_over_under,terry rozier,True,22.5,200,2023-10-26T01:30:15,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_points_over_under,terry rozier,True,21.5,112,2023-10-26T00:45:04,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_points_over_under,terry rozier,True,20.5,168,2023-10-26T01:20:04,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_points_over_under,terry rozier,True,19.5,-118,2023-10-26T01:25:13,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_points_over_under,terry rozier,True,18.5,-108,2023-10-25T23:30:14,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_points_over_under,terry rozier,True,17.5,-115,2023-10-25T23:35:46,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_points_over_under,terry rozier,True,16.5,-132,2023-10-26T00:05:10,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_points_over_under,terry rozier,True,15.5,-130,2023-10-26T00:00:34,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_points_over_under,terry rozier,False,22.5,-265,2023-10-26T01:30:15,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,terry rozier,False,18.5,150,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_points_over_under,terry rozier,False,23.5,-136,2023-10-26T00:30:16,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,pinnacle,player_points_over_under,terry rozier,False,19.5,-123,2023-10-25T21:25:29,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,terry rozier,True,24.5,-120,2023-10-26T00:15:04,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,terry rozier,True,23.5,-105,2023-10-26T00:30:07,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,terry rozier,True,22.5,-110,2023-10-26T00:35:04,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,terry rozier,True,21.5,215,2023-10-26T01:30:07,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,terry rozier,True,20.5,-115,2023-10-26T00:56:12,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,terry rozier,True,19.5,150,2023-10-26T01:25:04,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,terry rozier,True,18.5,-125,2023-10-25T23:30:05,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,terry rozier,True,17.5,-110,2023-10-25T23:55:08,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,terry rozier,True,16.5,-125,2023-10-26T00:00:19,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,terry rozier,True,15.5,-115,2023-10-26T00:06:16,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,terry rozier,True,22.5,135,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,terry rozier,True,21.5,110,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,terry rozier,True,20.5,115,2023-10-25T21:26:19,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,terry rozier,True,19.5,-150,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,terry rozier,True,18.5,-195,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,terry rozier,True,17.5,-175,2023-10-25T21:26:19,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,pinnacle,player_points_over_under,terry rozier,False,20.5,-123,2023-10-25T21:25:29,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,pinnacle,player_points_over_under,terry rozier,True,19.5,-108,2023-10-25T21:25:29,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betrivers,player_points_over_under,terry rozier,True,20.5,-105,2023-10-25T23:01:07,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_steals_over_under,terry rozier,False,0.5,-10000,2023-10-26T01:30:15,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betrivers,player_points_over_under,terry rozier,True,22.5,150,2023-10-25T23:01:07,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_threes_over_under,terry rozier,False,1.5,-110,2023-10-26T00:10:24,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_threes_over_under,terry rozier,True,3.5,160,2023-10-26T00:40:39,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_threes_over_under,terry rozier,True,2.5,-115,2023-10-26T01:00:29,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_threes_over_under,terry rozier,True,1.5,-130,2023-10-26T00:10:24,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betmgm,player_threes_over_under,terry rozier,False,2.5,-115,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betmgm,player_threes_over_under,terry rozier,True,2.5,-120,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_threes_over_under,terry rozier,False,3.5,-235,2023-10-26T00:41:24,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_threes_over_under,terry rozier,False,2.5,-4000,2023-10-26T01:25:04,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_threes_over_under,terry rozier,False,1.5,100,2023-10-26T00:06:16,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_threes_over_under,terry rozier,True,3.5,170,2023-10-26T00:41:24,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_threes_over_under,terry rozier,True,2.5,950,2023-10-26T01:25:04,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_threes_over_under,terry rozier,True,1.5,-130,2023-10-26T00:06:16,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,pinnacle,player_threes_over_under,terry rozier,False,2.5,-110,2023-10-25T21:25:29,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,pinnacle,player_threes_over_under,terry rozier,True,2.5,-120,2023-10-25T21:25:29,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_threes_over_under,terry rozier,False,3.5,-270,2023-10-26T00:35:09,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_threes_over_under,terry rozier,False,2.5,-4000,2023-10-26T01:30:15,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_threes_over_under,terry rozier,False,1.5,-136,2023-10-26T00:05:10,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_threes_over_under,terry rozier,False,2.5,-125,2023-10-26T01:00:29,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_threes_over_under,terry rozier,True,3.5,194,2023-10-26T00:35:09,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_threes_over_under,terry rozier,False,3.5,-240,2023-10-26T00:40:39,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_blocks_over_under,terry rozier,True,0.5,190,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_steals_over_under,terry rozier,False,1.5,-200,2023-10-24T18:00:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_steals_over_under,terry rozier,False,0.5,225,2023-10-24T17:30:04,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_steals_over_under,terry rozier,True,1.5,150,2023-10-24T18:00:13,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_steals_over_under,terry rozier,True,0.5,-320,2023-10-24T17:30:04,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_steals_over_under,terry rozier,False,1.5,-195,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_steals_over_under,terry rozier,True,1.5,150,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,terry rozier,False,21.5,-175,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,terry rozier,False,20.5,-140,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,terry rozier,False,18.5,115,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,terry rozier,False,17.5,145,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,terry rozier,True,21.5,135,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,terry rozier,True,20.5,110,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,terry rozier,True,18.5,-150,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,terry rozier,True,17.5,-190,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_blocks_over_under,terry rozier,False,0.5,-260,2023-10-23T21:45:06,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,barstool,player_blocks_over_under,terry rozier,True,0.5,190,2023-10-23T21:45:06,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4622c02f9bd1df188631c86e04036049,draftkings,player_blocks_over_under,terry rozier,False,0.5,-245,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betrivers,player_threes_over_under,terry rozier,True,2.5,-106,2023-10-25T23:01:07,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_threes_over_under,terry rozier,True,2.5,470,2023-10-26T01:20:04,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_threes_over_under,terry rozier,True,1.5,102,2023-10-26T00:05:10,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betrivers,player_steals_over_under,terry rozier,True,1.5,150,2023-10-25T23:01:07,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_rebounds_over_under,terry rozier,True,3.5,-130,2023-10-26T00:20:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_rebounds_over_under,terry rozier,True,2.5,110,2023-10-26T00:40:39,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betmgm,player_rebounds_over_under,terry rozier,False,3.5,-125,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betmgm,player_rebounds_over_under,terry rozier,True,3.5,-105,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_rebounds_over_under,terry rozier,False,4.5,-3500,2023-10-26T01:30:07,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_rebounds_over_under,terry rozier,False,3.5,-175,2023-10-26T01:16:01,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_rebounds_over_under,terry rozier,False,2.5,-150,2023-10-26T00:41:24,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_rebounds_over_under,terry rozier,True,4.5,950,2023-10-26T01:30:07,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_rebounds_over_under,terry rozier,True,3.5,130,2023-10-26T01:16:01,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_rebounds_over_under,terry rozier,True,2.5,110,2023-10-26T00:41:24,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_rebounds_over_under,terry rozier,False,4.5,-2000,2023-10-26T01:30:15,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_rebounds_over_under,terry rozier,False,3.5,-182,2023-10-26T01:15:30,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_rebounds_over_under,terry rozier,False,2.5,-154,2023-10-26T00:41:16,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_rebounds_over_under,terry rozier,True,4.5,750,2023-10-26T01:30:15,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_rebounds_over_under,terry rozier,True,3.5,136,2023-10-26T01:15:30,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_rebounds_over_under,terry rozier,True,2.5,116,2023-10-26T00:41:16,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betrivers,player_points_over_under,terry rozier,True,23.5,185,2023-10-25T23:01:07,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_rebounds_over_under,terry rozier,True,4.5,225,2023-10-25T11:10:14,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_rebounds_over_under,terry rozier,False,2.5,-160,2023-10-26T00:40:39,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_rebounds_over_under,terry rozier,False,3.5,-110,2023-10-26T00:20:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_rebounds_over_under,terry rozier,False,4.5,-320,2023-10-25T11:10:14,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_steals_over_under,terry rozier,False,1.5,-215,2023-10-25T23:16:13,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_steals_over_under,terry rozier,False,0.5,-400,2023-10-26T01:00:29,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_steals_over_under,terry rozier,True,1.5,150,2023-10-25T23:16:13,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_steals_over_under,terry rozier,True,0.5,250,2023-10-26T01:00:29,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betmgm,player_steals_over_under,terry rozier,False,1.5,-190,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betmgm,player_steals_over_under,terry rozier,True,1.5,145,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_steals_over_under,terry rozier,False,1.5,-220,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_steals_over_under,terry rozier,False,0.5,-5000,2023-10-26T01:25:04,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betrivers,player_points_over_under,terry rozier,True,21.5,120,2023-10-25T23:01:07,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_steals_over_under,terry rozier,True,1.5,165,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_steals_over_under,terry rozier,False,1.5,-200,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_points_over_under,terry rozier,True,14.5,-115,2023-10-26T00:05:10,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_steals_over_under,terry rozier,True,1.5,182,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_steals_over_under,terry rozier,True,0.5,1000,2023-10-26T01:25:13,Charlotte Hornets,Atlanta Hawks
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_steals_over_under,terry rozier,False,1.5,-195,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_steals_over_under,terry rozier,True,1.5,150,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betrivers,player_rebounds_over_under,terry rozier,True,3.5,116,2023-10-25T23:01:07,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betrivers,player_rebounds_over_under,terry rozier,True,2.5,-225,2023-10-25T23:01:07,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_steals_over_under,terry rozier,True,0.5,1000,2023-10-26T01:25:04,Charlotte Hornets,Atlanta Hawks
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,terry rozier,False,21.5,-175,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_points_over_under,terry rozier,True,18.5,-125,2023-10-24T18:00:06,San Antonio Spurs,Dallas Mavericks
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,terry rozier,False,18.5,115,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betmgm,player_assists_over_under,terry rozier,False,4.5,100,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betmgm,player_assists_over_under,terry rozier,True,4.5,-135,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_assists_over_under,terry rozier,False,6.5,-8000,2023-10-26T01:30:07,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_assists_over_under,terry rozier,False,5.5,-230,2023-10-26T00:50:08,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_assists_over_under,terry rozier,False,4.5,150,2023-10-26T01:10:27,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_assists_over_under,terry rozier,True,6.5,1100,2023-10-26T01:30:07,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_assists_over_under,terry rozier,True,5.5,165,2023-10-26T00:50:08,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_assists_over_under,terry rozier,True,4.5,-205,2023-10-26T01:10:27,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,pinnacle,player_assists_over_under,terry rozier,False,4.5,-102,2023-10-25T21:25:29,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,pinnacle,player_assists_over_under,terry rozier,True,4.5,-129,2023-10-25T21:25:29,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_assists_over_under,terry rozier,True,3.5,-210,2023-10-25T11:10:14,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_assists_over_under,terry rozier,False,6.5,-6000,2023-10-26T01:30:15,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_assists_over_under,terry rozier,False,4.5,152,2023-10-26T01:05:04,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_assists_over_under,terry rozier,True,6.5,1000,2023-10-26T01:30:15,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_assists_over_under,terry rozier,True,5.5,174,2023-10-26T00:55:12,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_assists_over_under,terry rozier,True,4.5,-205,2023-10-26T01:05:04,Charlotte Hornets,Atlanta Hawks
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,terry rozier,False,20.5,-140,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,1eb9915d586c87719ec6934863667a14,fanduel,player_points_over_under,terry rozier,False,18.5,-102,2023-10-24T17:01:15,Milwaukee Bucks,Philadelphia 76ers
+2023-10-25,1eb9915d586c87719ec6934863667a14,fanduel,player_points_over_under,terry rozier,True,18.5,-125,2023-10-24T17:01:15,Milwaukee Bucks,Philadelphia 76ers
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_points_over_under,terry rozier,False,19.5,-122,2023-10-24T12:15:06,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_points_over_under,terry rozier,False,18.5,-102,2023-10-24T18:00:06,San Antonio Spurs,Dallas Mavericks
+2023-10-25,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_points_over_under,terry rozier,True,19.5,-104,2023-10-24T12:15:06,San Antonio Spurs,Dallas Mavericks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_assists_over_under,terry rozier,False,5.5,-240,2023-10-26T00:55:12,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_assists_over_under,terry rozier,True,4.5,-140,2023-10-25T23:25:12,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,pinnacle,player_points_over_under,terry rozier,True,20.5,-108,2023-10-25T21:25:29,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_assists_over_under,terry rozier,True,6.5,120,2023-10-26T00:05:14,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_assists_over_under,terry rozier,True,5.5,160,2023-10-26T00:55:09,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_blocks_over_under,terry rozier,False,0.5,-450,2023-10-26T00:05:14,Charlotte Hornets,Atlanta Hawks
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,terry rozier,True,17.5,-190,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,terry rozier,True,18.5,-150,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,terry rozier,True,20.5,110,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,terry rozier,True,21.5,135,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_blocks_over_under,terry rozier,True,0.5,270,2023-10-26T00:05:14,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betmgm,player_blocks_over_under,terry rozier,False,0.5,-225,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betmgm,player_blocks_over_under,terry rozier,True,0.5,170,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_blocks_over_under,terry rozier,False,0.5,-6000,2023-10-26T01:16:01,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_blocks_over_under,terry rozier,True,0.5,1100,2023-10-26T01:16:01,Charlotte Hornets,Atlanta Hawks
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,terry rozier,False,17.5,145,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_blocks_over_under,terry rozier,True,0.5,1000,2023-10-26T01:15:30,Charlotte Hornets,Atlanta Hawks
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_blocks_over_under,terry rozier,False,0.5,-245,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_blocks_over_under,terry rozier,True,0.5,190,2023-10-24T02:10:19,Golden State Warriors,Phoenix Suns
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betrivers,player_assists_over_under,terry rozier,True,5.5,175,2023-10-25T23:01:07,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betrivers,player_assists_over_under,terry rozier,True,4.5,-122,2023-10-25T23:01:07,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betrivers,player_assists_over_under,terry rozier,True,3.5,-265,2023-10-25T21:57:10,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_assists_over_under,terry rozier,False,6.5,-170,2023-10-26T00:05:14,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_assists_over_under,terry rozier,False,5.5,-240,2023-10-26T00:55:09,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_blocks_over_under,terry rozier,False,0.5,-100000,2023-10-26T01:25:13,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_assists_over_under,terry rozier,False,3.5,160,2023-10-25T11:10:14,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_assists_over_under,terry rozier,False,4.5,100,2023-10-25T23:25:12,Charlotte Hornets,Atlanta Hawks
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,terry rozier,True,14.5,-105,2023-10-28T01:05:06,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,terry rozier,True,15.5,105,2023-10-28T00:55:11,Charlotte Hornets,Detroit Pistons
+2023-10-27,8e89f1c32afb2db5b73e43a3c5ba0f5a,barstool,player_threes_over_under,terry rozier,False,2.5,-120,2023-10-30T05:15:03,Charlotte Hornets,Brooklyn Nets
+2023-10-27,8e89f1c32afb2db5b73e43a3c5ba0f5a,barstool,player_threes_over_under,terry rozier,True,2.5,-110,2023-10-30T05:15:03,Charlotte Hornets,Brooklyn Nets
+2023-10-27,8e89f1c32afb2db5b73e43a3c5ba0f5a,pinnacle,player_threes_over_under,terry rozier,True,2.5,-105,2023-10-29T22:10:05,Charlotte Hornets,Brooklyn Nets
+2023-10-27,8e89f1c32afb2db5b73e43a3c5ba0f5a,draftkings,player_threes_over_under,terry rozier,True,2.5,-110,2023-10-30T02:55:46,Charlotte Hornets,Brooklyn Nets
+2023-10-27,8e89f1c32afb2db5b73e43a3c5ba0f5a,pinnacle,player_threes_over_under,terry rozier,False,2.5,-126,2023-10-29T22:10:05,Charlotte Hornets,Brooklyn Nets
+2023-10-27,8e89f1c32afb2db5b73e43a3c5ba0f5a,fanduel,player_threes_over_under,terry rozier,False,2.5,-120,2023-10-30T05:55:04,Charlotte Hornets,Brooklyn Nets
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,terry rozier,True,23.5,150,2023-10-27T17:10:06,Charlotte Hornets,Detroit Pistons
+2023-10-27,8e89f1c32afb2db5b73e43a3c5ba0f5a,draftkings,player_threes_over_under,terry rozier,False,2.5,-120,2023-10-30T05:10:11,Charlotte Hornets,Brooklyn Nets
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,terry rozier,True,22.5,130,2023-10-27T23:15:05,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_points_over_under,terry rozier,False,20.5,-100000,2023-10-28T01:35:06,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,terry rozier,True,20.5,-135,2023-10-27T17:10:06,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,terry rozier,True,19.5,-155,2023-10-27T23:15:05,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,terry rozier,True,18.5,-195,2023-10-27T23:15:05,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,pinnacle,player_points_over_under,terry rozier,False,21.5,-148,2023-10-27T15:25:10,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,pinnacle,player_points_over_under,terry rozier,False,20.5,-128,2023-10-27T22:40:52,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,pinnacle,player_points_over_under,terry rozier,True,21.5,112,2023-10-27T15:25:10,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,pinnacle,player_points_over_under,terry rozier,True,20.5,-103,2023-10-27T22:40:52,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_points_over_under,terry rozier,False,21.5,-170,2023-10-28T01:16:02,Charlotte Hornets,Detroit Pistons
+2023-10-27,8e89f1c32afb2db5b73e43a3c5ba0f5a,fanduel,player_threes_over_under,terry rozier,True,2.5,-106,2023-10-30T05:55:04,Charlotte Hornets,Brooklyn Nets
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_points_over_under,terry rozier,False,19.5,-720,2023-10-28T01:30:55,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_points_over_under,terry rozier,False,18.5,-158,2023-10-28T01:25:23,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,terry rozier,True,21.5,110,2023-10-27T23:15:05,Charlotte Hornets,Detroit Pistons
+2023-10-27,8e89f1c32afb2db5b73e43a3c5ba0f5a,draftkings,player_steals_over_under,terry rozier,False,1.5,-215,2023-10-30T05:10:11,Charlotte Hornets,Brooklyn Nets
+2023-10-27,8e89f1c32afb2db5b73e43a3c5ba0f5a,draftkings,player_points_over_under,terry rozier,False,21.5,-145,2023-10-30T04:30:34,Charlotte Hornets,Brooklyn Nets
+2023-10-27,8e89f1c32afb2db5b73e43a3c5ba0f5a,draftkings,player_rebounds_over_under,terry rozier,False,3.5,-115,2023-10-30T04:20:23,Charlotte Hornets,Brooklyn Nets
+2023-10-27,8e89f1c32afb2db5b73e43a3c5ba0f5a,pinnacle,player_points_over_under,terry rozier,True,19.5,-122,2023-10-29T22:10:05,Charlotte Hornets,Brooklyn Nets
+2023-10-27,8e89f1c32afb2db5b73e43a3c5ba0f5a,pinnacle,player_points_over_under,terry rozier,False,19.5,-108,2023-10-29T22:10:05,Charlotte Hornets,Brooklyn Nets
+2023-10-27,8e89f1c32afb2db5b73e43a3c5ba0f5a,draftkings,player_points_over_under,terry rozier,True,17.5,-210,2023-10-30T04:20:23,Charlotte Hornets,Brooklyn Nets
+2023-10-27,8e89f1c32afb2db5b73e43a3c5ba0f5a,draftkings,player_points_over_under,terry rozier,True,18.5,-180,2023-10-30T04:30:34,Charlotte Hornets,Brooklyn Nets
+2023-10-27,8e89f1c32afb2db5b73e43a3c5ba0f5a,draftkings,player_points_over_under,terry rozier,True,19.5,-140,2023-10-30T04:30:34,Charlotte Hornets,Brooklyn Nets
+2023-10-27,8e89f1c32afb2db5b73e43a3c5ba0f5a,draftkings,player_points_over_under,terry rozier,True,20.5,100,2023-10-30T04:20:23,Charlotte Hornets,Brooklyn Nets
+2023-10-27,8e89f1c32afb2db5b73e43a3c5ba0f5a,draftkings,player_points_over_under,terry rozier,True,21.5,115,2023-10-30T04:30:34,Charlotte Hornets,Brooklyn Nets
+2023-10-27,8e89f1c32afb2db5b73e43a3c5ba0f5a,draftkings,player_points_over_under,terry rozier,True,22.5,145,2023-10-30T04:30:34,Charlotte Hornets,Brooklyn Nets
+2023-10-27,8e89f1c32afb2db5b73e43a3c5ba0f5a,draftkings,player_points_over_under,terry rozier,True,19.5,-125,2023-10-30T04:20:23,Charlotte Hornets,Brooklyn Nets
+2023-10-27,8e89f1c32afb2db5b73e43a3c5ba0f5a,draftkings,player_points_over_under,terry rozier,True,20.5,-105,2023-10-30T04:30:34,Charlotte Hornets,Brooklyn Nets
+2023-10-27,8e89f1c32afb2db5b73e43a3c5ba0f5a,draftkings,player_points_over_under,terry rozier,False,17.5,160,2023-10-30T04:20:23,Charlotte Hornets,Brooklyn Nets
+2023-10-27,8e89f1c32afb2db5b73e43a3c5ba0f5a,draftkings,player_points_over_under,terry rozier,False,18.5,140,2023-10-30T05:05:04,Charlotte Hornets,Brooklyn Nets
+2023-10-27,8e89f1c32afb2db5b73e43a3c5ba0f5a,draftkings,player_points_over_under,terry rozier,False,19.5,110,2023-10-30T04:30:34,Charlotte Hornets,Brooklyn Nets
+2023-10-27,8e89f1c32afb2db5b73e43a3c5ba0f5a,draftkings,player_points_over_under,terry rozier,False,20.5,-130,2023-10-30T04:20:23,Charlotte Hornets,Brooklyn Nets
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_points_over_under,terry rozier,False,17.5,-130,2023-10-28T00:25:30,Charlotte Hornets,Detroit Pistons
+2023-10-27,8e89f1c32afb2db5b73e43a3c5ba0f5a,draftkings,player_points_over_under,terry rozier,False,22.5,-185,2023-10-30T04:30:34,Charlotte Hornets,Brooklyn Nets
+2023-10-27,8e89f1c32afb2db5b73e43a3c5ba0f5a,draftkings,player_points_over_under,terry rozier,False,19.5,-105,2023-10-30T04:20:23,Charlotte Hornets,Brooklyn Nets
+2023-10-27,8e89f1c32afb2db5b73e43a3c5ba0f5a,draftkings,player_points_over_under,terry rozier,False,20.5,-120,2023-10-30T04:30:34,Charlotte Hornets,Brooklyn Nets
+2023-10-27,8e89f1c32afb2db5b73e43a3c5ba0f5a,barstool,player_points_over_under,terry rozier,True,20.5,-105,2023-10-30T05:00:27,Charlotte Hornets,Brooklyn Nets
+2023-10-27,8e89f1c32afb2db5b73e43a3c5ba0f5a,barstool,player_points_over_under,terry rozier,False,20.5,-125,2023-10-30T05:00:27,Charlotte Hornets,Brooklyn Nets
+2023-10-27,8e89f1c32afb2db5b73e43a3c5ba0f5a,fanduel,player_rebounds_over_under,terry rozier,True,3.5,104,2023-10-30T05:35:29,Charlotte Hornets,Brooklyn Nets
+2023-10-27,8e89f1c32afb2db5b73e43a3c5ba0f5a,fanduel,player_rebounds_over_under,terry rozier,False,3.5,-132,2023-10-30T05:35:29,Charlotte Hornets,Brooklyn Nets
+2023-10-27,8e89f1c32afb2db5b73e43a3c5ba0f5a,draftkings,player_rebounds_over_under,terry rozier,True,3.5,-110,2023-10-30T04:20:23,Charlotte Hornets,Brooklyn Nets
+2023-10-27,8e89f1c32afb2db5b73e43a3c5ba0f5a,draftkings,player_steals_over_under,terry rozier,True,1.5,165,2023-10-30T05:10:11,Charlotte Hornets,Brooklyn Nets
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_points_over_under,terry rozier,False,16.5,-138,2023-10-28T00:40:34,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_points_over_under,terry rozier,True,14.5,124,2023-10-28T01:01:29,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_points_over_under,terry rozier,False,14.5,-160,2023-10-28T01:01:29,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_assists_over_under,terry rozier,True,5.5,150,2023-10-27T16:31:11,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_assists_over_under,terry rozier,True,4.5,105,2023-10-27T23:20:30,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_assists_over_under,terry rozier,True,3.5,135,2023-10-28T00:26:52,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_assists_over_under,terry rozier,True,2.5,105,2023-10-28T00:50:05,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,betmgm,player_assists_over_under,terry rozier,False,4.5,100,2023-10-27T17:05:09,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,betmgm,player_assists_over_under,terry rozier,True,4.5,-135,2023-10-27T17:05:09,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_assists_over_under,terry rozier,False,4.5,-145,2023-10-27T23:20:30,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_assists_over_under,terry rozier,False,3.5,-190,2023-10-28T00:26:03,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_assists_over_under,terry rozier,False,2.5,-175,2023-10-28T00:40:14,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_assists_over_under,terry rozier,False,1.5,-20000,2023-10-28T01:35:05,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_assists_over_under,terry rozier,True,4.5,110,2023-10-27T23:20:30,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_assists_over_under,terry rozier,False,2.5,-150,2023-10-28T00:50:05,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_assists_over_under,terry rozier,True,3.5,140,2023-10-28T00:26:03,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_assists_over_under,terry rozier,True,1.5,1200,2023-10-28T01:35:05,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,pinnacle,player_assists_over_under,terry rozier,False,4.5,-106,2023-10-27T15:25:10,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,pinnacle,player_assists_over_under,terry rozier,True,4.5,-125,2023-10-27T15:25:10,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_assists_over_under,terry rozier,False,4.5,-154,2023-10-27T23:21:22,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_assists_over_under,terry rozier,False,3.5,-198,2023-10-28T00:25:30,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_assists_over_under,terry rozier,False,2.5,-178,2023-10-28T00:40:34,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_assists_over_under,terry rozier,False,1.5,-7000,2023-10-28T01:35:06,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_assists_over_under,terry rozier,True,4.5,116,2023-10-27T23:21:22,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_assists_over_under,terry rozier,True,3.5,146,2023-10-28T00:25:30,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_assists_over_under,terry rozier,True,2.5,132,2023-10-28T00:40:34,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_assists_over_under,terry rozier,True,1.5,1000,2023-10-28T01:35:06,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_assists_over_under,terry rozier,True,2.5,130,2023-10-28T00:40:14,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_assists_over_under,terry rozier,False,3.5,-190,2023-10-28T00:26:52,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_assists_over_under,terry rozier,False,4.5,-150,2023-10-27T23:20:30,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_assists_over_under,terry rozier,False,5.5,-215,2023-10-27T16:31:11,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_points_over_under,terry rozier,False,13.5,-104,2023-10-28T01:06:40,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_points_over_under,terry rozier,True,21.5,132,2023-10-28T01:16:02,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_points_over_under,terry rozier,True,20.5,-120,2023-10-27T23:21:22,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_points_over_under,terry rozier,True,19.5,-162,2023-10-28T01:20:20,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_points_over_under,terry rozier,True,18.5,124,2023-10-28T01:25:23,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_points_over_under,terry rozier,True,17.5,102,2023-10-28T00:25:30,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_points_over_under,terry rozier,True,16.5,108,2023-10-28T00:40:34,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_points_over_under,terry rozier,True,15.5,-104,2023-10-28T01:10:28,Charlotte Hornets,Detroit Pistons
+2023-10-27,8e89f1c32afb2db5b73e43a3c5ba0f5a,fanduel,player_points_over_under,terry rozier,False,19.5,-113,2023-10-30T05:35:29,Charlotte Hornets,Brooklyn Nets
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_points_over_under,terry rozier,True,13.5,-122,2023-10-28T01:06:40,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,betrivers,player_blocks_over_under,terry rozier,True,0.5,225,2023-10-27T11:00:10,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_blocks_over_under,terry rozier,False,1.5,-2500,2023-10-27T14:10:13,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_blocks_over_under,terry rozier,False,0.5,-425,2023-10-27T23:55:13,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_blocks_over_under,terry rozier,True,1.5,700,2023-10-27T14:10:13,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_blocks_over_under,terry rozier,True,0.5,260,2023-10-27T23:55:13,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,betmgm,player_blocks_over_under,terry rozier,False,0.5,-275,2023-10-27T15:25:04,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,betmgm,player_blocks_over_under,terry rozier,True,0.5,190,2023-10-27T17:31:32,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_blocks_over_under,terry rozier,False,0.5,-3000,2023-10-28T01:15:46,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_blocks_over_under,terry rozier,True,0.5,850,2023-10-28T01:15:46,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_blocks_over_under,terry rozier,False,0.5,-100000,2023-10-28T01:30:55,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_blocks_over_under,terry rozier,True,0.5,1000,2023-10-28T01:20:20,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,betrivers,player_assists_over_under,terry rozier,True,6.5,205,2023-10-27T09:26:25,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,betrivers,player_assists_over_under,terry rozier,True,5.5,125,2023-10-27T23:00:40,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,betrivers,player_assists_over_under,terry rozier,True,4.5,-134,2023-10-27T23:00:40,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,betrivers,player_assists_over_under,terry rozier,True,3.5,-230,2023-10-27T09:26:25,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_points_over_under,terry rozier,False,15.5,-122,2023-10-28T01:10:28,Charlotte Hornets,Detroit Pistons
+2023-10-27,8e89f1c32afb2db5b73e43a3c5ba0f5a,fanduel,player_points_over_under,terry rozier,True,19.5,-113,2023-10-30T05:35:29,Charlotte Hornets,Brooklyn Nets
+2023-10-27,8e89f1c32afb2db5b73e43a3c5ba0f5a,fanduel,player_assists_over_under,terry rozier,True,4.5,-104,2023-10-30T05:35:29,Charlotte Hornets,Brooklyn Nets
+2023-10-27,8e89f1c32afb2db5b73e43a3c5ba0f5a,draftkings,player_blocks_over_under,terry rozier,True,0.5,230,2023-10-30T00:55:05,Charlotte Hornets,Brooklyn Nets
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,betmgm,player_steals_over_under,terry rozier,True,1.5,100,2023-10-27T17:15:04,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_steals_over_under,terry rozier,False,2.5,-200,2023-10-27T23:20:30,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_steals_over_under,terry rozier,False,1.5,-4000,2023-10-28T01:25:08,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_steals_over_under,terry rozier,True,2.5,150,2023-10-27T23:20:30,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_steals_over_under,terry rozier,True,1.5,950,2023-10-28T01:25:08,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_steals_over_under,terry rozier,False,2.5,-250,2023-10-27T23:25:10,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_steals_over_under,terry rozier,False,1.5,-50000,2023-10-28T01:30:55,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_steals_over_under,terry rozier,True,2.5,182,2023-10-27T23:25:10,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_steals_over_under,terry rozier,True,1.5,1000,2023-10-28T01:30:55,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,betrivers,player_rebounds_over_under,terry rozier,True,3.5,-117,2023-10-27T23:00:40,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_rebounds_over_under,terry rozier,False,4.5,-170,2023-10-27T23:20:30,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_rebounds_over_under,terry rozier,False,3.5,-130,2023-10-27T23:15:15,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_rebounds_over_under,terry rozier,False,2.5,-190,2023-10-28T00:50:05,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_rebounds_over_under,terry rozier,True,4.5,120,2023-10-27T23:20:30,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_rebounds_over_under,terry rozier,True,3.5,100,2023-10-27T23:15:15,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_rebounds_over_under,terry rozier,True,2.5,135,2023-10-28T00:50:05,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,betmgm,player_rebounds_over_under,terry rozier,False,3.5,-130,2023-10-27T17:21:29,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,betmgm,player_rebounds_over_under,terry rozier,True,3.5,100,2023-10-27T17:10:10,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_rebounds_over_under,terry rozier,False,4.5,-165,2023-10-27T23:20:30,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_rebounds_over_under,terry rozier,False,3.5,-3000,2023-10-28T01:30:54,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_rebounds_over_under,terry rozier,False,2.5,-800,2023-10-28T01:25:08,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_rebounds_over_under,terry rozier,False,1.5,105,2023-10-28T01:10:13,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_rebounds_over_under,terry rozier,True,4.5,120,2023-10-27T23:20:30,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_rebounds_over_under,terry rozier,True,3.5,850,2023-10-28T01:30:54,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_rebounds_over_under,terry rozier,True,2.5,450,2023-10-28T01:25:08,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,betmgm,player_steals_over_under,terry rozier,False,1.5,-135,2023-10-27T17:15:04,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_rebounds_over_under,terry rozier,True,1.5,-140,2023-10-28T01:10:13,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_steals_over_under,terry rozier,True,1.5,250,2023-10-28T01:20:04,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,betrivers,player_steals_over_under,terry rozier,True,1.5,110,2023-10-27T23:00:40,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,betrivers,player_threes_over_under,terry rozier,True,2.5,-110,2023-10-27T23:00:40,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_threes_over_under,terry rozier,False,3.5,-290,2023-10-27T17:05:05,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_threes_over_under,terry rozier,False,2.5,-170,2023-10-27T23:25:17,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_threes_over_under,terry rozier,False,1.5,-240,2023-10-28T00:30:31,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_threes_over_under,terry rozier,False,0.5,-180,2023-10-28T01:20:04,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_threes_over_under,terry rozier,True,3.5,200,2023-10-27T17:05:05,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_threes_over_under,terry rozier,True,2.5,120,2023-10-27T23:25:17,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_threes_over_under,terry rozier,True,1.5,160,2023-10-28T00:30:31,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_threes_over_under,terry rozier,True,0.5,125,2023-10-28T01:20:04,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,betmgm,player_threes_over_under,terry rozier,False,2.5,-125,2023-10-27T17:31:32,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,betmgm,player_threes_over_under,terry rozier,True,2.5,-105,2023-10-27T17:10:10,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_threes_over_under,terry rozier,False,2.5,-170,2023-10-27T23:25:23,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_threes_over_under,terry rozier,False,1.5,-230,2023-10-28T00:30:05,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_threes_over_under,terry rozier,False,0.5,-5000,2023-10-28T01:30:54,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_threes_over_under,terry rozier,True,2.5,125,2023-10-27T23:25:23,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_threes_over_under,terry rozier,True,1.5,165,2023-10-28T00:30:05,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_threes_over_under,terry rozier,True,0.5,1000,2023-10-28T01:30:54,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,pinnacle,player_threes_over_under,terry rozier,False,2.5,-126,2023-10-27T17:30:05,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,pinnacle,player_threes_over_under,terry rozier,True,2.5,-105,2023-10-27T17:30:05,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_threes_over_under,terry rozier,False,2.5,-200,2023-10-27T23:25:10,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_threes_over_under,terry rozier,False,1.5,-235,2023-10-28T00:30:11,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_threes_over_under,terry rozier,False,0.5,-100000,2023-10-28T01:35:06,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_threes_over_under,terry rozier,True,2.5,148,2023-10-27T23:25:10,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_threes_over_under,terry rozier,True,1.5,172,2023-10-28T00:30:11,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_threes_over_under,terry rozier,True,0.5,270,2023-10-28T01:20:20,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_steals_over_under,terry rozier,False,1.5,-400,2023-10-28T01:20:04,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_rebounds_over_under,terry rozier,False,3.5,-10000,2023-10-28T01:35:06,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_rebounds_over_under,terry rozier,False,2.5,-900,2023-10-28T01:25:23,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_rebounds_over_under,terry rozier,False,1.5,-118,2023-10-28T01:06:40,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,terry rozier,False,20.5,-1400,2023-10-28T01:35:05,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,terry rozier,False,19.5,135,2023-10-28T01:21:17,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,terry rozier,False,18.5,-150,2023-10-28T01:25:08,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,terry rozier,False,17.5,-125,2023-10-28T00:00:07,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,terry rozier,False,16.5,-110,2023-10-28T00:40:14,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,terry rozier,False,15.5,-140,2023-10-28T00:55:11,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,terry rozier,False,23.5,-190,2023-10-27T17:10:06,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,terry rozier,False,22.5,-170,2023-10-27T23:15:05,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,terry rozier,False,21.5,-140,2023-10-27T23:15:05,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,terry rozier,False,20.5,105,2023-10-27T17:10:06,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,terry rozier,False,19.5,120,2023-10-27T23:15:05,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,terry rozier,False,18.5,150,2023-10-27T23:15:05,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,terry rozier,True,21.5,-125,2023-10-28T01:15:46,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,terry rozier,True,20.5,650,2023-10-28T01:35:05,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,terry rozier,True,19.5,-185,2023-10-28T01:21:17,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,terry rozier,True,18.5,115,2023-10-28T01:25:08,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,terry rozier,True,17.5,-105,2023-10-28T00:00:07,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,terry rozier,True,16.5,-120,2023-10-28T00:40:14,Charlotte Hornets,Detroit Pistons
+2023-10-27,8e89f1c32afb2db5b73e43a3c5ba0f5a,fanduel,player_assists_over_under,terry rozier,False,4.5,-122,2023-10-30T05:35:29,Charlotte Hornets,Brooklyn Nets
+2023-10-27,8e89f1c32afb2db5b73e43a3c5ba0f5a,pinnacle,player_assists_over_under,terry rozier,True,4.5,108,2023-10-29T22:10:05,Charlotte Hornets,Brooklyn Nets
+2023-10-27,8e89f1c32afb2db5b73e43a3c5ba0f5a,pinnacle,player_assists_over_under,terry rozier,False,4.5,-144,2023-10-29T22:10:05,Charlotte Hornets,Brooklyn Nets
+2023-10-27,8e89f1c32afb2db5b73e43a3c5ba0f5a,draftkings,player_assists_over_under,terry rozier,True,4.5,105,2023-10-30T02:20:22,Charlotte Hornets,Brooklyn Nets
+2023-10-27,8e89f1c32afb2db5b73e43a3c5ba0f5a,draftkings,player_assists_over_under,terry rozier,False,4.5,-135,2023-10-30T02:55:46,Charlotte Hornets,Brooklyn Nets
+2023-10-27,8e89f1c32afb2db5b73e43a3c5ba0f5a,barstool,player_assists_over_under,terry rozier,True,4.5,105,2023-10-30T05:15:03,Charlotte Hornets,Brooklyn Nets
+2023-10-27,8e89f1c32afb2db5b73e43a3c5ba0f5a,barstool,player_assists_over_under,terry rozier,False,4.5,-135,2023-10-30T05:15:03,Charlotte Hornets,Brooklyn Nets
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,terry rozier,False,21.5,-105,2023-10-28T01:15:46,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,betmgm,player_points_over_under,terry rozier,True,20.5,-125,2023-10-27T17:10:10,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,betmgm,player_points_over_under,terry rozier,True,21.5,-105,2023-10-27T17:10:10,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,betmgm,player_points_over_under,terry rozier,False,20.5,-105,2023-10-27T17:10:10,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_rebounds_over_under,terry rozier,True,3.5,1000,2023-10-28T01:35:06,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_rebounds_over_under,terry rozier,True,2.5,490,2023-10-28T01:25:23,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_rebounds_over_under,terry rozier,True,1.5,-112,2023-10-28T01:06:40,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,betrivers,player_points_over_under,terry rozier,True,24.5,195,2023-10-27T23:00:40,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,betrivers,player_points_over_under,terry rozier,True,23.5,155,2023-10-27T23:00:40,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,betrivers,player_points_over_under,terry rozier,True,22.5,128,2023-10-27T23:00:40,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,betrivers,player_points_over_under,terry rozier,True,21.5,102,2023-10-27T23:00:40,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,betrivers,player_points_over_under,terry rozier,True,20.5,-125,2023-10-27T23:00:40,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,betrivers,player_points_over_under,terry rozier,True,19.5,-165,2023-10-27T23:00:40,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,betrivers,player_points_over_under,terry rozier,True,18.5,-225,2023-10-27T23:00:40,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,betrivers,player_points_over_under,terry rozier,True,17.5,-305,2023-10-27T23:00:40,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_points_over_under,terry rozier,False,21.5,-110,2023-10-28T01:20:04,Charlotte Hornets,Detroit Pistons
+2023-10-27,8e89f1c32afb2db5b73e43a3c5ba0f5a,draftkings,player_blocks_over_under,terry rozier,False,0.5,-310,2023-10-30T00:55:05,Charlotte Hornets,Brooklyn Nets
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_points_over_under,terry rozier,False,20.5,-125,2023-10-27T23:25:17,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_points_over_under,terry rozier,False,17.5,-115,2023-10-28T00:00:29,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_points_over_under,terry rozier,False,16.5,-120,2023-10-28T00:50:05,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_points_over_under,terry rozier,False,15.5,-150,2023-10-28T00:56:25,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_points_over_under,terry rozier,False,14.5,-125,2023-10-28T01:01:17,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_points_over_under,terry rozier,True,21.5,-130,2023-10-28T01:20:04,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_points_over_under,terry rozier,True,20.5,-115,2023-10-27T23:25:17,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_points_over_under,terry rozier,True,18.5,-110,2023-10-28T00:10:20,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_points_over_under,terry rozier,True,17.5,-125,2023-10-28T00:00:29,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_points_over_under,terry rozier,True,16.5,-120,2023-10-28T00:50:05,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_points_over_under,terry rozier,True,15.5,105,2023-10-28T00:56:25,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_points_over_under,terry rozier,True,14.5,-115,2023-10-28T01:01:17,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,betmgm,player_points_over_under,terry rozier,False,21.5,-125,2023-10-27T17:10:10,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_points_over_under,terry rozier,False,18.5,-130,2023-10-28T00:10:20,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,terry rozier,False,14.5,-130,2023-10-28T01:05:06,Charlotte Hornets,Detroit Pistons

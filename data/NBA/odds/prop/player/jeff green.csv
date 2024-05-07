@@ -1,0 +1,951 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-25,b2b0d5a6998801918cabc1aa6e062c0c,fanduel,player_points_over_under,jeff green,False,7.5,-134,2023-03-25T19:15:02,Denver Nuggets,Milwaukee Bucks
+2023-03-25,b2b0d5a6998801918cabc1aa6e062c0c,fanduel,player_points_over_under,jeff green,False,6.5,108,2023-03-26T01:00:01,Denver Nuggets,Milwaukee Bucks
+2023-03-25,b2b0d5a6998801918cabc1aa6e062c0c,fanduel,player_points_over_under,jeff green,True,7.5,110,2023-03-25T19:15:02,Denver Nuggets,Milwaukee Bucks
+2023-03-25,b2b0d5a6998801918cabc1aa6e062c0c,fanduel,player_points_over_under,jeff green,True,6.5,-132,2023-03-26T01:00:01,Denver Nuggets,Milwaukee Bucks
+2023-03-27,40f32dd416fe998a3b5bd62a53428889,fanduel,player_points_over_under,jeff green,False,6.5,104,2023-03-28T01:30:01,Denver Nuggets,Philadelphia 76ers
+2023-03-27,40f32dd416fe998a3b5bd62a53428889,fanduel,player_points_over_under,jeff green,True,6.5,-128,2023-03-28T01:30:01,Denver Nuggets,Philadelphia 76ers
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_points_over_under,jeff green,False,7.5,108,2023-03-31T02:00:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_points_over_under,jeff green,False,8.5,-122,2023-03-31T01:15:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_rebounds_over_under,jeff green,True,2.5,-104,2023-03-31T01:45:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_rebounds_over_under,jeff green,False,2.5,-118,2023-03-31T01:45:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_points_over_under,jeff green,True,7.5,-132,2023-03-31T02:00:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_points_over_under,jeff green,True,8.5,100,2023-03-31T01:15:01,Denver Nuggets,New Orleans Pelicans
+2023-04-02,fd93bf137c84e6d69af4a6a388d385e0,fanduel,player_blocks_over_under,jeff green,True,0.5,144,2023-04-03T00:50:02,Denver Nuggets,Golden State Warriors
+2023-04-02,fd93bf137c84e6d69af4a6a388d385e0,fanduel,player_blocks_over_under,jeff green,False,2.5,-1100,2023-04-03T02:10:02,Denver Nuggets,Golden State Warriors
+2023-04-02,fd93bf137c84e6d69af4a6a388d385e0,fanduel,player_blocks_over_under,jeff green,False,1.5,-100000,2023-04-03T02:44:01,Denver Nuggets,Golden State Warriors
+2023-04-02,fd93bf137c84e6d69af4a6a388d385e0,fanduel,player_blocks_over_under,jeff green,False,0.5,-194,2023-04-03T00:50:02,Denver Nuggets,Golden State Warriors
+2023-04-02,fd93bf137c84e6d69af4a6a388d385e0,fanduel,player_blocks_over_under,jeff green,True,1.5,1000,2023-04-03T02:36:01,Denver Nuggets,Golden State Warriors
+2023-04-02,fd93bf137c84e6d69af4a6a388d385e0,fanduel,player_assists_over_under,jeff green,False,3.5,-5000,2023-04-03T02:44:01,Denver Nuggets,Golden State Warriors
+2023-04-02,fd93bf137c84e6d69af4a6a388d385e0,fanduel,player_assists_over_under,jeff green,True,2.5,154,2023-04-03T02:10:02,Denver Nuggets,Golden State Warriors
+2023-04-02,fd93bf137c84e6d69af4a6a388d385e0,fanduel,player_assists_over_under,jeff green,False,1.5,122,2023-04-03T01:54:01,Denver Nuggets,Golden State Warriors
+2023-04-02,fd93bf137c84e6d69af4a6a388d385e0,fanduel,player_assists_over_under,jeff green,False,0.5,164,2023-04-03T01:34:01,Denver Nuggets,Golden State Warriors
+2023-04-02,fd93bf137c84e6d69af4a6a388d385e0,fanduel,player_assists_over_under,jeff green,True,3.5,1000,2023-04-03T02:44:01,Denver Nuggets,Golden State Warriors
+2023-04-02,fd93bf137c84e6d69af4a6a388d385e0,fanduel,player_points_over_under,jeff green,True,9.5,-108,2023-04-03T00:44:01,Denver Nuggets,Golden State Warriors
+2023-04-02,fd93bf137c84e6d69af4a6a388d385e0,fanduel,player_assists_over_under,jeff green,True,1.5,-162,2023-04-03T01:54:01,Denver Nuggets,Golden State Warriors
+2023-04-02,fd93bf137c84e6d69af4a6a388d385e0,fanduel,player_assists_over_under,jeff green,True,0.5,-225,2023-04-03T01:34:01,Denver Nuggets,Golden State Warriors
+2023-04-02,fd93bf137c84e6d69af4a6a388d385e0,fanduel,player_assists_over_under,jeff green,False,2.5,-210,2023-04-03T02:10:02,Denver Nuggets,Golden State Warriors
+2023-04-02,fd93bf137c84e6d69af4a6a388d385e0,fanduel,player_points_over_under,jeff green,True,10.5,290,2023-04-03T02:44:01,Denver Nuggets,Golden State Warriors
+2023-04-02,fd93bf137c84e6d69af4a6a388d385e0,fanduel,player_blocks_over_under,jeff green,True,2.5,550,2023-04-03T02:10:02,Denver Nuggets,Golden State Warriors
+2023-04-02,fd93bf137c84e6d69af4a6a388d385e0,fanduel,player_points_over_under,jeff green,True,12.5,154,2023-04-03T02:26:02,Denver Nuggets,Golden State Warriors
+2023-04-02,fd93bf137c84e6d69af4a6a388d385e0,fanduel,player_threes_over_under,jeff green,True,0.5,240,2023-04-03T01:58:01,Denver Nuggets,Golden State Warriors
+2023-04-02,fd93bf137c84e6d69af4a6a388d385e0,fanduel,player_steals_over_under,jeff green,False,0.5,-50000,2023-04-03T02:44:01,Denver Nuggets,Golden State Warriors
+2023-04-02,fd93bf137c84e6d69af4a6a388d385e0,fanduel,player_steals_over_under,jeff green,True,0.5,1000,2023-04-03T02:36:01,Denver Nuggets,Golden State Warriors
+2023-04-02,fd93bf137c84e6d69af4a6a388d385e0,fanduel,player_threes_over_under,jeff green,False,1.5,-50000,2023-04-03T02:44:01,Denver Nuggets,Golden State Warriors
+2023-04-02,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,jeff green,True,8.5,-130,2023-04-01T02:38:01,Phoenix Suns,Denver Nuggets
+2023-04-02,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,jeff green,True,9.5,108,2023-04-01T02:36:01,Phoenix Suns,Denver Nuggets
+2023-04-02,fd93bf137c84e6d69af4a6a388d385e0,fanduel,player_points_over_under,jeff green,True,11.5,122,2023-04-03T02:34:01,Denver Nuggets,Golden State Warriors
+2023-04-02,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,jeff green,False,8.5,102,2023-04-01T02:40:01,Phoenix Suns,Denver Nuggets
+2023-04-02,c41c2107a371c768bceebc1dd9d2f688,fanduel,player_points_over_under,jeff green,False,9.5,-132,2023-04-01T02:36:01,Phoenix Suns,Denver Nuggets
+2023-04-02,fd93bf137c84e6d69af4a6a388d385e0,fanduel,player_rebounds_over_under,jeff green,False,4.5,-1450,2023-04-03T02:44:01,Denver Nuggets,Golden State Warriors
+2023-04-02,fd93bf137c84e6d69af4a6a388d385e0,fanduel,player_threes_over_under,jeff green,True,1.5,1000,2023-04-03T02:38:01,Denver Nuggets,Golden State Warriors
+2023-04-02,fd93bf137c84e6d69af4a6a388d385e0,fanduel,player_rebounds_over_under,jeff green,False,3.5,-152,2023-04-03T02:00:01,Denver Nuggets,Golden State Warriors
+2023-04-02,fd93bf137c84e6d69af4a6a388d385e0,fanduel,player_rebounds_over_under,jeff green,True,4.5,640,2023-04-03T02:44:01,Denver Nuggets,Golden State Warriors
+2023-04-02,fd93bf137c84e6d69af4a6a388d385e0,fanduel,player_rebounds_over_under,jeff green,True,3.5,114,2023-04-03T02:00:01,Denver Nuggets,Golden State Warriors
+2023-04-02,fd93bf137c84e6d69af4a6a388d385e0,fanduel,player_rebounds_over_under,jeff green,True,2.5,-172,2023-04-03T01:54:01,Denver Nuggets,Golden State Warriors
+2023-04-02,fd93bf137c84e6d69af4a6a388d385e0,fanduel,player_points_over_under,jeff green,False,14.5,-125,2023-04-03T01:20:02,Denver Nuggets,Golden State Warriors
+2023-04-02,fd93bf137c84e6d69af4a6a388d385e0,fanduel,player_points_over_under,jeff green,False,13.5,-182,2023-04-03T02:04:01,Denver Nuggets,Golden State Warriors
+2023-04-02,fd93bf137c84e6d69af4a6a388d385e0,fanduel,player_points_over_under,jeff green,False,12.5,-210,2023-04-03T02:26:02,Denver Nuggets,Golden State Warriors
+2023-04-02,fd93bf137c84e6d69af4a6a388d385e0,fanduel,player_points_over_under,jeff green,False,11.5,-162,2023-04-03T02:34:01,Denver Nuggets,Golden State Warriors
+2023-04-02,fd93bf137c84e6d69af4a6a388d385e0,fanduel,player_points_over_under,jeff green,False,10.5,-440,2023-04-03T02:44:01,Denver Nuggets,Golden State Warriors
+2023-04-02,fd93bf137c84e6d69af4a6a388d385e0,fanduel,player_points_over_under,jeff green,False,9.5,-122,2023-04-03T00:44:01,Denver Nuggets,Golden State Warriors
+2023-04-02,fd93bf137c84e6d69af4a6a388d385e0,fanduel,player_points_over_under,jeff green,True,14.5,-106,2023-04-03T01:20:02,Denver Nuggets,Golden State Warriors
+2023-04-02,fd93bf137c84e6d69af4a6a388d385e0,fanduel,player_points_over_under,jeff green,True,13.5,136,2023-04-03T02:04:01,Denver Nuggets,Golden State Warriors
+2023-04-02,fd93bf137c84e6d69af4a6a388d385e0,fanduel,player_rebounds_over_under,jeff green,False,2.5,128,2023-04-03T01:54:01,Denver Nuggets,Golden State Warriors
+2023-04-02,fd93bf137c84e6d69af4a6a388d385e0,fanduel,player_threes_over_under,jeff green,False,0.5,-350,2023-04-03T01:58:01,Denver Nuggets,Golden State Warriors
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_threes_over_under,jeff green,False,0.5,-105,2023-04-04T23:42:03,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_blocks_over_under,jeff green,True,0.5,200,2023-04-04T23:42:03,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_rebounds_over_under,jeff green,True,2.5,115,2023-04-04T23:42:03,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_steals_over_under,jeff green,False,0.5,-250,2023-04-04T23:42:03,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_steals_over_under,jeff green,True,0.5,200,2023-04-04T23:42:03,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_rebounds_over_under,jeff green,False,2.5,-145,2023-04-04T23:42:03,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,jeff green,False,6.5,100,2023-04-04T23:42:03,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,jeff green,True,6.5,-130,2023-04-04T23:42:03,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_blocks_over_under,jeff green,False,0.5,-250,2023-04-04T23:42:03,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_threes_over_under,jeff green,True,0.5,-125,2023-04-04T23:42:03,Houston Rockets,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_points_over_under,jeff green,True,9.5,-128,2023-04-07T01:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_blocks_over_under,jeff green,False,0.5,-300,2023-04-07T01:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_points_over_under,jeff green,False,9.5,104,2023-04-07T01:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_points_over_under,jeff green,False,10.5,-114,2023-04-07T02:00:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_points_over_under,jeff green,True,9.5,-130,2023-04-07T01:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_points_over_under,jeff green,False,9.5,100,2023-04-07T01:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_rebounds_over_under,jeff green,True,3.5,122,2023-04-07T02:00:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_rebounds_over_under,jeff green,False,3.5,-150,2023-04-07T02:00:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_rebounds_over_under,jeff green,True,3.5,120,2023-04-07T01:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_rebounds_over_under,jeff green,False,3.5,-150,2023-04-07T01:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_steals_over_under,jeff green,True,0.5,205,2023-04-07T01:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_steals_over_under,jeff green,False,0.5,-255,2023-04-07T01:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_threes_over_under,jeff green,True,0.5,-210,2023-04-07T01:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_threes_over_under,jeff green,False,0.5,170,2023-04-07T01:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,player_blocks_over_under,jeff green,True,0.5,235,2023-04-07T01:45:01,Phoenix Suns,Denver Nuggets
+2023-04-06,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,player_points_over_under,jeff green,True,10.5,-106,2023-04-07T02:00:01,Phoenix Suns,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_threes_over_under,jeff green,False,0.5,126,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_threes_over_under,jeff green,True,0.5,-174,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_blocks_over_under,jeff green,False,0.5,-280,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_threes_over_under,jeff green,False,0.5,125,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_threes_over_under,jeff green,True,0.5,-155,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_blocks_over_under,jeff green,True,0.5,220,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_steals_over_under,jeff green,True,0.5,220,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_rebounds_over_under,jeff green,False,3.5,-154,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_rebounds_over_under,jeff green,True,3.5,112,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_steals_over_under,jeff green,False,0.5,-280,2023-04-08T19:15:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_rebounds_over_under,jeff green,True,3.5,140,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_points_over_under,jeff green,False,9.5,-135,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,caesars,player_points_over_under,jeff green,True,9.5,-101,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_points_over_under,jeff green,False,9.5,-115,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_points_over_under,jeff green,True,9.5,-115,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-08,23735fdf2514d20d05cce280ec28d549,draftkings,player_rebounds_over_under,jeff green,False,3.5,-175,2023-04-08T19:30:01,Utah Jazz,Denver Nuggets
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,betmgm,player_assists_over_under,jeff green,False,0.5,145,2023-04-16T14:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_assists_over_under,jeff green,True,0.5,-118,2023-04-17T03:30:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_assists_over_under,jeff green,True,1.5,920,2023-04-17T05:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_assists_over_under,jeff green,False,0.5,-114,2023-04-17T03:30:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_assists_over_under,jeff green,False,1.5,-3500,2023-04-17T05:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,betmgm,player_assists_over_under,jeff green,True,0.5,-200,2023-04-16T14:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_blocks_over_under,jeff green,True,0.5,370,2023-04-17T04:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_blocks_over_under,jeff green,False,0.5,-600,2023-04-17T04:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_points_over_under,jeff green,False,1.5,122,2023-04-17T04:45:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,betmgm,player_points_over_under,jeff green,False,6.5,-110,2023-04-16T14:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_rebounds_over_under,jeff green,True,1.5,-136,2023-04-17T04:45:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,betmgm,player_threes_over_under,jeff green,False,0.5,-125,2023-04-16T14:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_blocks_over_under,jeff green,True,1.5,1000,2023-04-17T05:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,betmgm,player_threes_over_under,jeff green,True,0.5,-105,2023-04-16T14:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,caesars,player_threes_over_under,jeff green,False,0.5,-127,2023-04-16T14:30:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,caesars,player_threes_over_under,jeff green,True,0.5,-108,2023-04-16T14:30:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_threes_over_under,jeff green,False,0.5,-600,2023-04-17T04:45:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_threes_over_under,jeff green,True,0.5,370,2023-04-17T04:45:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_threes_over_under,jeff green,False,0.5,-7000,2023-04-17T05:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_threes_over_under,jeff green,True,0.5,1000,2023-04-17T05:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,betmgm,player_steals_over_under,jeff green,False,0.5,-350,2023-04-16T14:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,betmgm,player_points_over_under,jeff green,True,6.5,-120,2023-04-16T14:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_rebounds_over_under,jeff green,True,2.5,410,2023-04-17T05:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,betmgm,player_steals_over_under,jeff green,True,0.5,225,2023-04-16T14:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_rebounds_over_under,jeff green,False,2.5,-700,2023-04-17T05:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_rebounds_over_under,jeff green,True,1.5,-135,2023-04-17T04:45:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_rebounds_over_under,jeff green,True,2.5,400,2023-04-17T05:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_rebounds_over_under,jeff green,False,1.5,105,2023-04-17T04:45:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_rebounds_over_under,jeff green,False,2.5,-700,2023-04-17T05:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,betmgm,player_rebounds_over_under,jeff green,True,2.5,100,2023-04-16T14:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,betmgm,player_rebounds_over_under,jeff green,False,2.5,-130,2023-04-16T14:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_steals_over_under,jeff green,True,0.5,750,2023-04-17T04:45:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_steals_over_under,jeff green,True,1.5,1000,2023-04-17T05:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_steals_over_under,jeff green,False,0.5,-2000,2023-04-17T04:45:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_steals_over_under,jeff green,False,1.5,-50000,2023-04-17T05:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_rebounds_over_under,jeff green,False,1.5,102,2023-04-17T04:45:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_points_over_under,jeff green,False,6.5,-115,2023-04-17T03:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_points_over_under,jeff green,False,5.5,100,2023-04-17T03:15:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_points_over_under,jeff green,False,4.5,-140,2023-04-17T03:30:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_blocks_over_under,jeff green,False,1.5,-50000,2023-04-17T05:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_blocks_over_under,jeff green,True,0.5,340,2023-04-17T04:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_blocks_over_under,jeff green,True,1.5,650,2023-04-17T04:45:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_blocks_over_under,jeff green,False,0.5,-525,2023-04-17T04:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_blocks_over_under,jeff green,False,1.5,-1400,2023-04-17T04:45:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,betmgm,player_blocks_over_under,jeff green,True,0.5,200,2023-04-16T14:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,betmgm,player_blocks_over_under,jeff green,False,0.5,-275,2023-04-16T14:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_points_over_under,jeff green,True,0.5,164,2023-04-17T05:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_points_over_under,jeff green,True,1.5,-162,2023-04-17T04:45:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_points_over_under,jeff green,True,3.5,-148,2023-04-17T04:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_points_over_under,jeff green,True,4.5,-102,2023-04-17T03:30:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_points_over_under,jeff green,True,5.5,-132,2023-04-17T03:15:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_points_over_under,jeff green,True,6.5,-112,2023-04-17T03:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_points_over_under,jeff green,False,0.5,-225,2023-04-17T05:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_points_over_under,jeff green,False,3.5,112,2023-04-17T04:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_points_over_under,jeff green,False,4.5,-130,2023-04-17T03:30:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_points_over_under,jeff green,False,5.5,100,2023-04-17T03:15:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,fanduel,player_points_over_under,jeff green,False,6.5,-118,2023-04-17T03:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_points_over_under,jeff green,True,0.5,160,2023-04-17T05:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_points_over_under,jeff green,True,1.5,-160,2023-04-17T04:45:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_points_over_under,jeff green,True,3.5,-145,2023-04-17T04:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_points_over_under,jeff green,True,4.5,105,2023-04-17T03:30:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_points_over_under,jeff green,True,5.5,-130,2023-04-17T03:15:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_points_over_under,jeff green,True,6.5,-115,2023-04-17T03:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_points_over_under,jeff green,False,0.5,-215,2023-04-17T05:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_points_over_under,jeff green,False,1.5,120,2023-04-17T04:45:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_points_over_under,jeff green,False,3.5,110,2023-04-17T04:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_steals_over_under,jeff green,True,0.5,700,2023-04-17T04:45:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-16,16231786e51fe91ce0d304be1d4e87ca,draftkings,player_steals_over_under,jeff green,False,0.5,-1600,2023-04-17T04:45:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_rebounds_over_under,jeff green,False,2.5,-140,2023-04-18T21:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_rebounds_over_under,jeff green,True,1.5,140,2023-04-20T03:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_rebounds_over_under,jeff green,True,2.5,126,2023-04-20T01:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_rebounds_over_under,jeff green,False,0.5,-5000,2023-04-20T04:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_rebounds_over_under,jeff green,False,1.5,-188,2023-04-20T03:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_rebounds_over_under,jeff green,False,2.5,-154,2023-04-20T01:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_rebounds_over_under,jeff green,True,0.5,1100,2023-04-20T04:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_rebounds_over_under,jeff green,True,1.5,135,2023-04-20T03:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_rebounds_over_under,jeff green,True,2.5,110,2023-04-18T21:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_rebounds_over_under,jeff green,False,1.5,-180,2023-04-20T03:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_rebounds_over_under,jeff green,True,0.5,1000,2023-04-20T04:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_rebounds_over_under,jeff green,False,0.5,-8000,2023-04-20T04:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_assists_over_under,jeff green,True,2.5,1000,2023-04-20T04:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_points_over_under,jeff green,True,6.5,-115,2023-04-19T13:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_rebounds_over_under,jeff green,True,2.5,110,2023-04-19T13:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_blocks_over_under,jeff green,False,0.5,-250,2023-04-19T13:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_blocks_over_under,jeff green,True,0.5,185,2023-04-19T13:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_blocks_over_under,jeff green,False,0.5,-240,2023-04-18T21:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_blocks_over_under,jeff green,True,0.5,195,2023-04-18T21:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_blocks_over_under,jeff green,False,1.5,-100000,2023-04-20T04:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_blocks_over_under,jeff green,True,1.5,1000,2023-04-20T04:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_assists_over_under,jeff green,False,0.5,150,2023-04-19T13:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_assists_over_under,jeff green,True,0.5,-200,2023-04-19T13:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_assists_over_under,jeff green,False,2.5,-50000,2023-04-20T04:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_points_over_under,jeff green,True,12.5,-106,2023-04-20T03:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_points_over_under,jeff green,True,6.5,-122,2023-04-20T02:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_points_over_under,jeff green,True,13.5,130,2023-04-20T04:00:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_points_over_under,jeff green,False,6.5,100,2023-04-20T02:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_points_over_under,jeff green,False,11.5,-1100,2023-04-20T04:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_points_over_under,jeff green,False,12.5,-125,2023-04-20T03:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_points_over_under,jeff green,False,13.5,-174,2023-04-20T04:00:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_points_over_under,jeff green,True,6.5,-115,2023-04-18T21:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_points_over_under,jeff green,True,11.5,500,2023-04-20T04:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_points_over_under,jeff green,True,12.5,-110,2023-04-20T03:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_points_over_under,jeff green,True,13.5,120,2023-04-20T03:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_points_over_under,jeff green,False,6.5,-115,2023-04-18T21:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_points_over_under,jeff green,False,11.5,-1000,2023-04-20T04:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_points_over_under,jeff green,False,12.5,-120,2023-04-20T03:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_points_over_under,jeff green,False,13.5,-160,2023-04-20T03:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_points_over_under,jeff green,False,6.5,-115,2023-04-19T13:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_rebounds_over_under,jeff green,False,2.5,-145,2023-04-19T13:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_points_over_under,jeff green,True,11.5,550,2023-04-20T04:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_steals_over_under,jeff green,False,0.5,-100000,2023-04-20T04:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_steals_over_under,jeff green,True,0.5,1000,2023-04-20T04:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_threes_over_under,jeff green,False,0.5,-135,2023-04-19T13:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_threes_over_under,jeff green,True,0.5,100,2023-04-19T13:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_threes_over_under,jeff green,False,0.5,-130,2023-04-18T21:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_threes_over_under,jeff green,True,1.5,650,2023-04-20T04:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_threes_over_under,jeff green,True,0.5,100,2023-04-18T21:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_threes_over_under,jeff green,False,1.5,-1400,2023-04-20T04:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_threes_over_under,jeff green,True,1.5,1000,2023-04-20T04:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_steals_over_under,jeff green,False,0.5,-350,2023-04-19T13:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,betmgm,player_steals_over_under,jeff green,True,0.5,230,2023-04-20T01:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_steals_over_under,jeff green,False,0.5,-305,2023-04-18T21:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,draftkings,player_steals_over_under,jeff green,True,0.5,240,2023-04-18T21:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-19,926b45d0ebe093d38919b8b9dcbb2179,fanduel,player_threes_over_under,jeff green,False,1.5,-100000,2023-04-20T04:30:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_points_over_under,jeff green,False,7.5,-110,2023-04-22T02:00:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_points_over_under,jeff green,True,9.5,194,2023-04-22T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_points_over_under,jeff green,True,10.5,104,2023-04-22T03:30:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_points_over_under,jeff green,False,4.5,-172,2023-04-22T02:30:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_points_over_under,jeff green,False,5.5,118,2023-04-22T02:15:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_points_over_under,jeff green,False,6.5,-166,2023-04-22T03:00:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_points_over_under,jeff green,False,8.5,-650,2023-04-22T04:00:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_points_over_under,jeff green,True,8.5,700,2023-04-22T04:00:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_points_over_under,jeff green,False,10.5,-138,2023-04-22T03:30:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_points_over_under,jeff green,True,3.5,-170,2023-04-22T02:30:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_points_over_under,jeff green,True,5.5,-130,2023-04-22T02:15:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_points_over_under,jeff green,True,6.5,120,2023-04-22T03:00:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_points_over_under,jeff green,True,7.5,-110,2023-04-22T02:00:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_points_over_under,jeff green,True,8.5,390,2023-04-22T04:00:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_points_over_under,jeff green,True,9.5,185,2023-04-22T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_points_over_under,jeff green,False,9.5,-270,2023-04-22T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_points_over_under,jeff green,True,7.5,-120,2023-04-22T02:00:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_blocks_over_under,jeff green,True,0.5,1000,2023-04-22T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_points_over_under,jeff green,True,5.5,-158,2023-04-22T02:15:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_assists_over_under,jeff green,True,0.5,-260,2023-04-22T02:00:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_assists_over_under,jeff green,True,1.5,-174,2023-04-22T02:15:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_assists_over_under,jeff green,True,2.5,1000,2023-04-22T04:00:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_assists_over_under,jeff green,False,0.5,188,2023-04-22T02:00:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_assists_over_under,jeff green,False,1.5,130,2023-04-22T02:15:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_assists_over_under,jeff green,False,2.5,-10000,2023-04-22T04:00:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,betmgm,player_assists_over_under,jeff green,True,1.5,180,2023-04-21T04:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,betmgm,player_assists_over_under,jeff green,False,1.5,-250,2023-04-21T04:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_blocks_over_under,jeff green,True,0.5,1000,2023-04-22T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_blocks_over_under,jeff green,False,0.5,-100000,2023-04-22T04:00:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_points_over_under,jeff green,True,10.5,105,2023-04-22T03:30:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_blocks_over_under,jeff green,False,0.5,-5000,2023-04-22T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,betmgm,player_blocks_over_under,jeff green,True,0.5,180,2023-04-21T04:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,betmgm,player_blocks_over_under,jeff green,False,0.5,-250,2023-04-21T04:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_points_over_under,jeff green,True,4.5,128,2023-04-22T02:30:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_points_over_under,jeff green,True,6.5,124,2023-04-22T03:00:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_points_over_under,jeff green,False,3.5,125,2023-04-22T02:30:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_points_over_under,jeff green,False,9.5,-255,2023-04-22T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_points_over_under,jeff green,False,6.5,-160,2023-04-22T03:00:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_points_over_under,jeff green,False,5.5,100,2023-04-22T02:15:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_steals_over_under,jeff green,True,1.5,1100,2023-04-22T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_steals_over_under,jeff green,False,0.5,-1600,2023-04-22T03:30:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_steals_over_under,jeff green,False,1.5,-8000,2023-04-22T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,betmgm,player_steals_over_under,jeff green,True,0.5,230,2023-04-21T04:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,betmgm,player_steals_over_under,jeff green,False,0.5,-350,2023-04-21T04:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_threes_over_under,jeff green,True,0.5,188,2023-04-22T03:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_steals_over_under,jeff green,False,1.5,-100000,2023-04-22T04:00:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_threes_over_under,jeff green,True,1.5,1000,2023-04-22T04:00:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_threes_over_under,jeff green,False,1.5,-50000,2023-04-22T04:00:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_threes_over_under,jeff green,True,0.5,200,2023-04-22T03:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_threes_over_under,jeff green,True,1.5,650,2023-04-22T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_threes_over_under,jeff green,False,0.5,-280,2023-04-22T03:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_threes_over_under,jeff green,False,1.5,-1400,2023-04-22T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,betmgm,player_threes_over_under,jeff green,True,0.5,-120,2023-04-21T04:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,betmgm,player_threes_over_under,jeff green,False,0.5,-115,2023-04-21T04:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_threes_over_under,jeff green,False,0.5,-260,2023-04-22T03:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_steals_over_under,jeff green,False,0.5,-2000,2023-04-22T03:30:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_steals_over_under,jeff green,True,0.5,700,2023-04-22T03:30:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_steals_over_under,jeff green,True,0.5,750,2023-04-22T03:30:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_points_over_under,jeff green,False,7.5,-120,2023-04-22T02:00:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_points_over_under,jeff green,False,8.5,-1600,2023-04-22T04:00:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_points_over_under,jeff green,False,10.5,-140,2023-04-22T03:30:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,betmgm,player_points_over_under,jeff green,True,7.5,-135,2023-04-21T04:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_steals_over_under,jeff green,True,1.5,1000,2023-04-22T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_rebounds_over_under,jeff green,True,1.5,-158,2023-04-22T03:30:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_rebounds_over_under,jeff green,True,2.5,920,2023-04-22T04:00:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,betmgm,player_points_over_under,jeff green,False,7.5,100,2023-04-21T04:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_rebounds_over_under,jeff green,False,2.5,-3500,2023-04-22T04:00:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_rebounds_over_under,jeff green,True,1.5,-155,2023-04-22T03:30:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_rebounds_over_under,jeff green,True,2.5,190,2023-04-22T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_rebounds_over_under,jeff green,False,1.5,115,2023-04-22T03:30:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,draftkings,player_rebounds_over_under,jeff green,False,2.5,-260,2023-04-22T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,betmgm,player_rebounds_over_under,jeff green,True,2.5,105,2023-04-21T23:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,betmgm,player_rebounds_over_under,jeff green,False,2.5,-140,2023-04-21T23:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-21,d76d1641cbdeb97687e32c1d46d303ab,fanduel,player_rebounds_over_under,jeff green,False,1.5,118,2023-04-22T03:30:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,pinnacle,player_threes_over_under,jeff green,False,0.5,-123,2023-04-24T00:30:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_threes_over_under,jeff green,False,0.5,-115,2023-04-23T05:00:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_threes_over_under,jeff green,True,0.5,-120,2023-04-23T05:00:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_threes_over_under,jeff green,False,0.5,-300,2023-04-24T03:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_threes_over_under,jeff green,True,0.5,215,2023-04-24T03:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,pinnacle,player_threes_over_under,jeff green,True,0.5,-107,2023-04-24T00:30:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_blocks_over_under,jeff green,True,0.5,250,2023-04-24T02:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_threes_over_under,jeff green,True,0.5,1000,2023-04-24T03:30:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_points_over_under,jeff green,True,3.5,-135,2023-04-24T03:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_points_over_under,jeff green,True,4.5,120,2023-04-24T02:45:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_points_over_under,jeff green,True,5.5,-115,2023-04-24T02:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_points_over_under,jeff green,True,7.5,115,2023-04-24T02:00:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_points_over_under,jeff green,False,3.5,100,2023-04-24T03:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_points_over_under,jeff green,False,4.5,-160,2023-04-24T02:45:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_points_over_under,jeff green,False,5.5,-115,2023-04-24T02:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_points_over_under,jeff green,False,7.5,-150,2023-04-24T02:00:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_steals_over_under,jeff green,False,0.5,-50000,2023-04-24T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_points_over_under,jeff green,True,7.5,-135,2023-04-23T05:00:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_points_over_under,jeff green,False,7.5,100,2023-04-23T05:00:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_rebounds_over_under,jeff green,True,1.5,-148,2023-04-24T02:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_rebounds_over_under,jeff green,True,2.5,520,2023-04-24T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_rebounds_over_under,jeff green,True,3.5,168,2023-04-24T03:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_rebounds_over_under,jeff green,False,1.5,112,2023-04-24T02:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_rebounds_over_under,jeff green,False,2.5,-1000,2023-04-24T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_rebounds_over_under,jeff green,False,3.5,-230,2023-04-24T03:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,pinnacle,player_rebounds_over_under,jeff green,True,2.5,-117,2023-04-23T19:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,pinnacle,player_rebounds_over_under,jeff green,False,2.5,-113,2023-04-23T19:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_rebounds_over_under,jeff green,True,1.5,-135,2023-04-24T02:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_rebounds_over_under,jeff green,True,2.5,500,2023-04-24T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_rebounds_over_under,jeff green,True,3.5,170,2023-04-24T03:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_rebounds_over_under,jeff green,False,1.5,105,2023-04-24T02:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_rebounds_over_under,jeff green,False,2.5,-1000,2023-04-24T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_rebounds_over_under,jeff green,False,3.5,-230,2023-04-24T03:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_rebounds_over_under,jeff green,True,2.5,105,2023-04-23T05:00:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_rebounds_over_under,jeff green,False,2.5,-140,2023-04-23T05:00:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_steals_over_under,jeff green,True,0.5,1000,2023-04-24T03:30:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_threes_over_under,jeff green,False,0.5,-7000,2023-04-24T03:30:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_points_over_under,jeff green,True,0.5,150,2023-04-24T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,pinnacle,player_points_over_under,jeff green,False,7.5,-108,2023-04-23T20:45:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_points_over_under,jeff green,False,0.5,-200,2023-04-24T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_points_over_under,jeff green,False,7.5,-158,2023-04-24T02:00:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_steals_over_under,jeff green,False,0.5,-250,2023-04-23T05:00:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_steals_over_under,jeff green,True,0.5,175,2023-04-23T05:00:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_steals_over_under,jeff green,False,0.5,-650,2023-04-24T03:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_steals_over_under,jeff green,True,0.5,390,2023-04-24T03:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_assists_over_under,jeff green,True,2.5,920,2023-04-24T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_assists_over_under,jeff green,False,2.5,-3500,2023-04-24T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,pinnacle,player_assists_over_under,jeff green,True,1.5,160,2023-04-23T19:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,pinnacle,player_assists_over_under,jeff green,False,1.5,-225,2023-04-23T19:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,pinnacle,player_points_over_under,jeff green,True,7.5,-122,2023-04-23T20:45:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_assists_over_under,jeff green,False,2.5,-3000,2023-04-24T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_assists_over_under,jeff green,True,1.5,155,2023-04-23T05:00:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_assists_over_under,jeff green,False,1.5,-210,2023-04-23T05:00:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_blocks_over_under,jeff green,True,1.5,1000,2023-04-24T03:30:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_blocks_over_under,jeff green,False,0.5,-360,2023-04-24T02:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_blocks_over_under,jeff green,False,1.5,-50000,2023-04-24T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_assists_over_under,jeff green,True,2.5,900,2023-04-24T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_blocks_over_under,jeff green,True,1.5,390,2023-04-24T03:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_points_over_under,jeff green,False,5.5,100,2023-04-24T02:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_blocks_over_under,jeff green,True,0.5,245,2023-04-24T02:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_points_over_under,jeff green,False,4.5,-162,2023-04-24T02:45:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_points_over_under,jeff green,False,3.5,106,2023-04-24T03:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_points_over_under,jeff green,False,0.5,-210,2023-04-24T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_points_over_under,jeff green,True,5.5,-132,2023-04-24T02:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_points_over_under,jeff green,True,7.5,116,2023-04-24T02:00:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_points_over_under,jeff green,True,3.5,-140,2023-04-24T03:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_points_over_under,jeff green,True,0.5,154,2023-04-24T03:45:02,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_blocks_over_under,jeff green,False,0.5,-250,2023-04-23T05:00:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,betmgm,player_blocks_over_under,jeff green,True,0.5,175,2023-04-23T05:00:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_blocks_over_under,jeff green,False,1.5,-650,2023-04-24T03:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,draftkings,player_blocks_over_under,jeff green,False,0.5,-360,2023-04-24T02:15:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-23,1213614e90a3a68e33c4fa6c33871536,fanduel,player_points_over_under,jeff green,True,4.5,122,2023-04-24T02:45:01,Minnesota Timberwolves,Denver Nuggets
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_rebounds_over_under,jeff green,True,2.5,115,2023-04-24T23:15:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_steals_over_under,jeff green,True,0.5,260,2023-04-24T23:15:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_rebounds_over_under,jeff green,False,2.5,-145,2023-04-24T23:15:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_rebounds_over_under,jeff green,True,2.5,110,2023-04-25T02:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_rebounds_over_under,jeff green,False,2.5,-150,2023-04-25T02:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_steals_over_under,jeff green,False,0.5,-335,2023-04-24T23:15:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_threes_over_under,jeff green,False,0.5,-125,2023-04-25T02:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_steals_over_under,jeff green,False,0.5,-350,2023-04-25T02:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,pinnacle,player_threes_over_under,jeff green,True,0.5,-105,2023-04-25T15:45:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_threes_over_under,jeff green,True,0.5,-105,2023-04-24T23:15:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_threes_over_under,jeff green,False,0.5,-125,2023-04-24T23:15:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_threes_over_under,jeff green,True,0.5,-105,2023-04-25T02:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,pinnacle,player_rebounds_over_under,jeff green,False,2.5,-161,2023-04-25T17:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_steals_over_under,jeff green,True,0.5,250,2023-04-25T02:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,pinnacle,player_rebounds_over_under,jeff green,True,2.5,121,2023-04-25T17:15:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,pinnacle,player_threes_over_under,jeff green,False,0.5,-127,2023-04-25T15:45:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,fanduel,player_rebounds_over_under,jeff green,True,2.5,106,2023-04-26T00:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,fanduel,player_rebounds_over_under,jeff green,False,2.5,-130,2023-04-26T00:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,pinnacle,player_assists_over_under,jeff green,True,1.5,138,2023-04-25T15:45:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,pinnacle,player_assists_over_under,jeff green,False,1.5,-189,2023-04-25T15:45:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_assists_over_under,jeff green,False,1.5,-185,2023-04-25T02:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_blocks_over_under,jeff green,True,0.5,160,2023-04-24T23:15:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_blocks_over_under,jeff green,False,0.5,-195,2023-04-24T23:15:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_blocks_over_under,jeff green,True,0.5,150,2023-04-25T02:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_blocks_over_under,jeff green,False,0.5,-210,2023-04-25T02:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_assists_over_under,jeff green,True,1.5,135,2023-04-25T02:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,fanduel,player_points_over_under,jeff green,False,6.5,106,2023-04-26T01:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,pinnacle,player_points_over_under,jeff green,True,6.5,-118,2023-04-25T16:45:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,pinnacle,player_points_over_under,jeff green,False,6.5,-112,2023-04-25T16:45:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_points_over_under,jeff green,True,6.5,-105,2023-04-24T23:15:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,draftkings,player_points_over_under,jeff green,False,6.5,-125,2023-04-24T23:15:02,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_points_over_under,jeff green,True,6.5,-105,2023-04-25T02:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,fanduel,player_points_over_under,jeff green,True,6.5,-130,2023-04-26T01:00:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-25,5c5cd762c3b90adc29a76f023d2c8506,betmgm,player_points_over_under,jeff green,False,6.5,-130,2023-04-25T02:45:01,Denver Nuggets,Minnesota Timberwolves
+2023-04-29,932d59ce51817c331550ddc99a1235b3,fanduel,player_points_over_under,jeff green,False,6.5,-178,2023-04-30T01:45:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,pinnacle,player_points_over_under,jeff green,True,6.5,107,2023-04-29T22:30:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,pinnacle,player_points_over_under,jeff green,False,6.5,-143,2023-04-29T22:30:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,draftkings,player_points_over_under,jeff green,True,5.5,450,2023-04-30T02:45:01,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,draftkings,player_points_over_under,jeff green,True,6.5,130,2023-04-30T01:45:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,betmgm,player_points_over_under,jeff green,False,6.5,-140,2023-04-29T03:15:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,draftkings,player_points_over_under,jeff green,False,6.5,-170,2023-04-30T01:45:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,fanduel,player_rebounds_over_under,jeff green,True,2.5,142,2023-04-30T00:45:01,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,fanduel,player_rebounds_over_under,jeff green,True,4.5,640,2023-04-30T02:45:01,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,fanduel,player_points_over_under,jeff green,False,5.5,-470,2023-04-30T02:45:01,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,draftkings,player_points_over_under,jeff green,False,5.5,-800,2023-04-30T02:45:01,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,fanduel,player_points_over_under,jeff green,True,6.5,132,2023-04-30T01:45:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,betmgm,player_assists_over_under,jeff green,False,0.5,180,2023-04-29T03:15:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,betmgm,player_blocks_over_under,jeff green,False,0.5,-200,2023-04-29T03:15:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,betmgm,player_blocks_over_under,jeff green,True,0.5,150,2023-04-29T03:15:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,draftkings,player_blocks_over_under,jeff green,False,0.5,-5000,2023-04-30T02:30:01,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,draftkings,player_blocks_over_under,jeff green,True,0.5,1000,2023-04-30T02:30:01,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,fanduel,player_blocks_over_under,jeff green,False,0.5,-50000,2023-04-30T02:45:01,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,fanduel,player_blocks_over_under,jeff green,True,0.5,1000,2023-04-30T02:45:01,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,fanduel,player_rebounds_over_under,jeff green,True,5.5,142,2023-04-30T01:45:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,betmgm,player_assists_over_under,jeff green,True,0.5,-250,2023-04-29T03:15:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,pinnacle,player_assists_over_under,jeff green,False,0.5,166,2023-04-29T14:00:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,pinnacle,player_assists_over_under,jeff green,True,0.5,-240,2023-04-29T14:00:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,fanduel,player_assists_over_under,jeff green,False,0.5,-5000,2023-04-30T02:45:01,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,fanduel,player_assists_over_under,jeff green,True,0.5,1000,2023-04-30T02:45:01,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,fanduel,player_points_over_under,jeff green,True,5.5,310,2023-04-30T02:45:01,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,fanduel,player_rebounds_over_under,jeff green,False,2.5,-192,2023-04-30T00:45:01,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,betmgm,player_points_over_under,jeff green,True,6.5,105,2023-04-29T03:15:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,fanduel,player_rebounds_over_under,jeff green,False,5.5,-192,2023-04-30T01:45:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,fanduel,player_rebounds_over_under,jeff green,False,4.5,-1450,2023-04-30T02:45:01,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,betmgm,player_threes_over_under,jeff green,True,0.5,105,2023-04-29T03:15:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,draftkings,player_threes_over_under,jeff green,False,1.5,-2500,2023-04-30T02:30:01,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,draftkings,player_threes_over_under,jeff green,False,0.5,-175,2023-04-30T01:00:01,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,draftkings,player_threes_over_under,jeff green,True,1.5,800,2023-04-30T02:30:01,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,draftkings,player_threes_over_under,jeff green,True,0.5,130,2023-04-30T01:00:01,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,pinnacle,player_threes_over_under,jeff green,False,0.5,-144,2023-04-29T14:00:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,pinnacle,player_threes_over_under,jeff green,True,0.5,108,2023-04-29T14:00:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,fanduel,player_threes_over_under,jeff green,False,1.5,-10000,2023-04-30T02:45:01,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,fanduel,player_threes_over_under,jeff green,False,0.5,-180,2023-04-30T01:00:01,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,fanduel,player_threes_over_under,jeff green,True,1.5,1000,2023-04-30T02:45:01,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,fanduel,player_threes_over_under,jeff green,True,0.5,134,2023-04-30T01:00:01,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,betmgm,player_steals_over_under,jeff green,False,0.5,-300,2023-04-29T03:15:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,betmgm,player_threes_over_under,jeff green,False,0.5,-145,2023-04-29T03:15:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,draftkings,player_steals_over_under,jeff green,False,0.5,-1100,2023-04-30T02:15:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,betmgm,player_steals_over_under,jeff green,True,0.5,220,2023-04-29T03:15:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,pinnacle,player_rebounds_over_under,jeff green,True,2.5,138,2023-04-29T14:00:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,pinnacle,player_rebounds_over_under,jeff green,False,2.5,-189,2023-04-29T14:00:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,draftkings,player_rebounds_over_under,jeff green,True,2.5,135,2023-04-30T00:45:01,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,draftkings,player_rebounds_over_under,jeff green,True,4.5,900,2023-04-30T02:45:01,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,draftkings,player_rebounds_over_under,jeff green,True,5.5,140,2023-04-30T01:45:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,draftkings,player_rebounds_over_under,jeff green,False,2.5,-180,2023-04-30T00:45:01,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,betmgm,player_rebounds_over_under,jeff green,False,2.5,-185,2023-04-29T03:15:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,draftkings,player_rebounds_over_under,jeff green,False,5.5,-190,2023-04-30T01:45:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,draftkings,player_rebounds_over_under,jeff green,False,4.5,-3000,2023-04-30T02:45:01,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,betmgm,player_rebounds_over_under,jeff green,True,2.5,135,2023-04-29T03:15:02,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,fanduel,player_steals_over_under,jeff green,True,0.5,1000,2023-04-30T02:30:01,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,fanduel,player_steals_over_under,jeff green,False,0.5,-50000,2023-04-30T02:45:01,Denver Nuggets,Phoenix Suns
+2023-04-29,932d59ce51817c331550ddc99a1235b3,draftkings,player_steals_over_under,jeff green,True,0.5,550,2023-04-30T02:15:02,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,betmgm,player_points_over_under,jeff green,True,5.5,-130,2023-04-30T22:30:01,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,pinnacle,player_points_over_under,jeff green,False,6.5,-141,2023-04-28T03:00:01,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,pinnacle,player_points_over_under,jeff green,True,6.5,106,2023-04-28T03:00:01,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,betmgm,player_blocks_over_under,jeff green,False,0.5,-225,2023-04-30T22:30:01,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,draftkings,player_blocks_over_under,jeff green,False,0.5,-205,2023-04-30T16:45:02,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,betmgm,player_points_over_under,jeff green,False,5.5,100,2023-04-30T22:30:01,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,draftkings,player_blocks_over_under,jeff green,True,0.5,165,2023-04-30T16:45:02,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,betmgm,player_assists_over_under,jeff green,False,0.5,115,2023-04-30T22:30:01,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,betmgm,player_assists_over_under,jeff green,True,0.5,-155,2023-04-30T22:30:01,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,pinnacle,player_assists_over_under,jeff green,False,0.5,140,2023-04-28T03:00:01,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,pinnacle,player_assists_over_under,jeff green,True,0.5,-193,2023-04-28T03:00:01,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,betmgm,player_blocks_over_under,jeff green,True,0.5,160,2023-04-30T22:30:01,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,betmgm,player_threes_over_under,jeff green,False,0.5,-140,2023-04-30T22:30:01,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,draftkings,player_threes_over_under,jeff green,True,0.5,105,2023-04-30T16:45:02,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,draftkings,player_threes_over_under,jeff green,False,0.5,-135,2023-04-30T16:45:02,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,pinnacle,player_threes_over_under,jeff green,False,0.5,-158,2023-04-28T03:00:01,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,pinnacle,player_threes_over_under,jeff green,True,0.5,118,2023-04-28T03:00:01,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,betmgm,player_steals_over_under,jeff green,False,0.5,-350,2023-04-30T22:30:01,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,draftkings,player_steals_over_under,jeff green,False,0.5,-335,2023-04-30T16:45:02,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,draftkings,player_steals_over_under,jeff green,True,0.5,260,2023-04-30T16:45:02,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,betmgm,player_rebounds_over_under,jeff green,False,2.5,-175,2023-04-30T22:30:01,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,betmgm,player_rebounds_over_under,jeff green,True,2.5,130,2023-04-30T22:30:01,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,draftkings,player_rebounds_over_under,jeff green,False,2.5,-165,2023-04-30T16:45:02,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,draftkings,player_rebounds_over_under,jeff green,True,2.5,135,2023-04-30T16:45:02,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,pinnacle,player_rebounds_over_under,jeff green,False,2.5,-191,2023-04-28T03:00:01,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,pinnacle,player_rebounds_over_under,jeff green,True,2.5,140,2023-04-28T03:00:01,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,betmgm,player_threes_over_under,jeff green,True,0.5,105,2023-04-30T22:30:01,Denver Nuggets,Phoenix Suns
+2023-05-01,420fbe2764aadc65f09aa2df75ed6680,betmgm,player_steals_over_under,jeff green,True,0.5,250,2023-04-30T22:30:01,Denver Nuggets,Phoenix Suns
+2023-05-05,23dfe19c76c874e16c253d990953713c,pinnacle,player_assists_over_under,jeff green,True,0.5,-123,2023-05-06T02:00:02,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,fanduel,player_points_over_under,jeff green,False,4.5,114,2023-05-06T02:15:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,pinnacle,player_rebounds_over_under,jeff green,True,5.5,123,2023-05-03T15:30:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,pinnacle,player_rebounds_over_under,jeff green,False,2.5,-177,2023-05-06T00:30:02,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,pinnacle,player_rebounds_over_under,jeff green,False,5.5,-166,2023-05-03T15:30:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,draftkings,player_rebounds_over_under,jeff green,False,2.5,-175,2023-05-06T02:00:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,betmgm,player_rebounds_over_under,jeff green,True,2.5,130,2023-05-06T00:30:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,betmgm,player_rebounds_over_under,jeff green,False,2.5,-175,2023-05-06T00:30:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,draftkings,player_steals_over_under,jeff green,True,0.5,260,2023-05-03T19:45:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,draftkings,player_steals_over_under,jeff green,False,0.5,-335,2023-05-03T19:45:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,pinnacle,player_rebounds_over_under,jeff green,True,2.5,130,2023-05-06T00:30:02,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,betmgm,player_steals_over_under,jeff green,True,0.5,250,2023-05-05T01:45:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,pinnacle,player_threes_over_under,jeff green,True,0.5,120,2023-05-03T19:45:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,pinnacle,player_threes_over_under,jeff green,True,1.5,187,2023-05-03T15:30:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,pinnacle,player_threes_over_under,jeff green,False,0.5,-162,2023-05-03T19:45:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,pinnacle,player_threes_over_under,jeff green,False,1.5,-274,2023-05-03T15:30:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,draftkings,player_threes_over_under,jeff green,True,0.5,135,2023-05-06T02:00:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,draftkings,player_threes_over_under,jeff green,False,0.5,-165,2023-05-06T02:00:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,betmgm,player_threes_over_under,jeff green,True,0.5,120,2023-05-05T01:45:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,betmgm,player_threes_over_under,jeff green,False,0.5,-160,2023-05-05T01:45:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,betmgm,player_steals_over_under,jeff green,False,0.5,-350,2023-05-05T01:45:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,fanduel,player_rebounds_over_under,jeff green,False,2.5,-176,2023-05-06T02:00:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,draftkings,player_rebounds_over_under,jeff green,True,2.5,140,2023-05-06T02:00:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,betmgm,player_points_over_under,jeff green,False,5.5,-120,2023-05-05T01:45:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,fanduel,player_points_over_under,jeff green,True,4.5,-140,2023-05-06T02:15:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,betmgm,player_blocks_over_under,jeff green,False,0.5,-200,2023-05-05T01:45:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,betmgm,player_blocks_over_under,jeff green,True,0.5,150,2023-05-05T01:45:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,draftkings,player_blocks_over_under,jeff green,False,0.5,-190,2023-05-03T19:45:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,fanduel,player_rebounds_over_under,jeff green,True,2.5,142,2023-05-06T02:00:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,betmgm,player_assists_over_under,jeff green,False,0.5,-125,2023-05-05T01:45:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,betmgm,player_assists_over_under,jeff green,True,0.5,-105,2023-05-05T01:45:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,pinnacle,player_assists_over_under,jeff green,False,3.5,-185,2023-05-03T15:30:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,pinnacle,player_assists_over_under,jeff green,False,0.5,-109,2023-05-06T02:00:02,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,pinnacle,player_assists_over_under,jeff green,True,3.5,135,2023-05-03T15:30:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,draftkings,player_blocks_over_under,jeff green,True,0.5,155,2023-05-03T19:45:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,fanduel,player_points_over_under,jeff green,True,5.5,112,2023-05-06T02:00:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,fanduel,player_points_over_under,jeff green,False,5.5,-138,2023-05-06T02:00:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,pinnacle,player_points_over_under,jeff green,True,5.5,-102,2023-05-03T20:30:02,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,pinnacle,player_points_over_under,jeff green,True,8.5,-101,2023-05-03T15:30:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,pinnacle,player_points_over_under,jeff green,False,5.5,-130,2023-05-03T20:30:02,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,pinnacle,player_points_over_under,jeff green,False,8.5,-132,2023-05-03T15:30:01,Phoenix Suns,Denver Nuggets
+2023-05-05,23dfe19c76c874e16c253d990953713c,betmgm,player_points_over_under,jeff green,True,5.5,-110,2023-05-05T01:45:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,fanduel,player_threes_over_under,jeff green,True,1.5,580,2023-05-08T02:00:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,fanduel,player_threes_over_under,jeff green,False,0.5,-146,2023-05-08T00:15:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,fanduel,player_threes_over_under,jeff green,False,1.5,-1200,2023-05-08T02:00:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_threes_over_under,jeff green,True,0.5,107,2023-05-07T14:45:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_threes_over_under,jeff green,True,1.5,187,2023-05-06T15:45:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_threes_over_under,jeff green,False,0.5,-143,2023-05-07T14:45:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,betmgm,player_threes_over_under,jeff green,True,0.5,105,2023-05-07T14:45:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,draftkings,player_threes_over_under,jeff green,True,0.5,105,2023-05-08T00:15:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,draftkings,player_threes_over_under,jeff green,True,1.5,550,2023-05-08T02:00:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,betmgm,player_threes_over_under,jeff green,False,0.5,-140,2023-05-07T14:45:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_assists_over_under,jeff green,True,0.5,-110,2023-05-07T23:45:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,fanduel,player_threes_over_under,jeff green,True,0.5,110,2023-05-08T00:15:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,draftkings,player_threes_over_under,jeff green,False,1.5,-1100,2023-05-08T02:00:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_threes_over_under,jeff green,False,1.5,-274,2023-05-06T15:45:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,draftkings,player_threes_over_under,jeff green,False,0.5,-140,2023-05-08T00:15:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_assists_over_under,jeff green,True,3.5,135,2023-05-06T15:45:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,draftkings,player_steals_over_under,jeff green,False,0.5,-5000,2023-05-08T02:00:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_points_over_under,jeff green,True,8.5,-100,2023-05-06T15:45:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_points_over_under,jeff green,True,4.5,-124,2023-05-07T21:30:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,fanduel,player_points_over_under,jeff green,False,6.5,118,2023-05-08T00:30:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,fanduel,player_points_over_under,jeff green,False,5.5,154,2023-05-08T02:00:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,fanduel,player_points_over_under,jeff green,False,4.5,154,2023-05-08T01:00:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,fanduel,player_points_over_under,jeff green,True,6.5,-158,2023-05-08T00:30:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,fanduel,player_points_over_under,jeff green,True,5.5,-210,2023-05-08T02:00:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,fanduel,player_points_over_under,jeff green,True,4.5,-210,2023-05-08T01:00:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,betmgm,player_blocks_over_under,jeff green,False,0.5,-300,2023-05-07T14:45:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,betmgm,player_blocks_over_under,jeff green,True,0.5,220,2023-05-07T14:45:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,draftkings,player_blocks_over_under,jeff green,False,1.5,-425,2023-05-08T00:30:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_points_over_under,jeff green,False,4.5,-107,2023-05-07T21:30:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,draftkings,player_blocks_over_under,jeff green,False,0.5,-3000,2023-05-08T02:00:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,draftkings,player_blocks_over_under,jeff green,True,0.5,900,2023-05-08T02:00:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,fanduel,player_blocks_over_under,jeff green,False,1.5,-440,2023-05-08T00:30:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,fanduel,player_blocks_over_under,jeff green,False,0.5,-3500,2023-05-08T02:00:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,fanduel,player_blocks_over_under,jeff green,True,1.5,290,2023-05-08T00:30:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,fanduel,player_blocks_over_under,jeff green,True,0.5,920,2023-05-08T02:00:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,betmgm,player_assists_over_under,jeff green,False,0.5,-145,2023-05-07T14:45:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,betmgm,player_assists_over_under,jeff green,True,0.5,110,2023-05-07T14:45:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_assists_over_under,jeff green,False,3.5,-185,2023-05-06T15:45:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_assists_over_under,jeff green,False,0.5,-120,2023-05-07T23:45:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,fanduel,player_assists_over_under,jeff green,True,0.5,630,2023-05-08T02:00:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,fanduel,player_assists_over_under,jeff green,False,0.5,-1400,2023-05-08T02:00:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,draftkings,player_blocks_over_under,jeff green,True,1.5,280,2023-05-08T00:30:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_points_over_under,jeff green,False,8.5,-132,2023-05-06T15:45:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,draftkings,player_points_over_under,jeff green,True,4.5,-205,2023-05-08T01:45:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,draftkings,player_points_over_under,jeff green,True,5.5,-200,2023-05-08T02:00:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,draftkings,player_steals_over_under,jeff green,True,0.5,1000,2023-05-08T02:00:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,fanduel,player_steals_over_under,jeff green,False,0.5,-4000,2023-05-08T02:00:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,fanduel,player_steals_over_under,jeff green,True,0.5,1000,2023-05-08T02:00:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,betmgm,player_rebounds_over_under,jeff green,False,1.5,150,2023-05-07T14:45:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,betmgm,player_rebounds_over_under,jeff green,True,1.5,-200,2023-05-07T14:45:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,draftkings,player_rebounds_over_under,jeff green,False,1.5,-215,2023-05-08T02:00:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,draftkings,player_rebounds_over_under,jeff green,False,0.5,170,2023-05-08T01:30:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,draftkings,player_rebounds_over_under,jeff green,True,1.5,160,2023-05-08T02:00:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,draftkings,player_rebounds_over_under,jeff green,True,0.5,-235,2023-05-08T01:30:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_rebounds_over_under,jeff green,False,5.5,-166,2023-05-06T15:45:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_rebounds_over_under,jeff green,False,2.5,-210,2023-05-06T16:15:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_rebounds_over_under,jeff green,False,1.5,117,2023-05-07T23:45:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_rebounds_over_under,jeff green,True,5.5,123,2023-05-06T15:45:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_rebounds_over_under,jeff green,True,2.5,151,2023-05-06T16:15:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,pinnacle,player_rebounds_over_under,jeff green,True,1.5,-161,2023-05-07T23:45:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,fanduel,player_rebounds_over_under,jeff green,False,1.5,-230,2023-05-08T02:00:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,fanduel,player_rebounds_over_under,jeff green,False,0.5,182,2023-05-08T01:15:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,fanduel,player_rebounds_over_under,jeff green,True,1.5,168,2023-05-08T02:00:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,fanduel,player_rebounds_over_under,jeff green,True,0.5,-250,2023-05-08T01:15:02,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,betmgm,player_points_over_under,jeff green,False,4.5,105,2023-05-07T14:45:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,betmgm,player_points_over_under,jeff green,True,4.5,-145,2023-05-07T14:45:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,draftkings,player_points_over_under,jeff green,False,6.5,115,2023-05-08T00:30:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,draftkings,player_points_over_under,jeff green,False,5.5,145,2023-05-08T02:00:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,draftkings,player_points_over_under,jeff green,False,4.5,150,2023-05-08T01:45:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,draftkings,player_points_over_under,jeff green,True,6.5,-150,2023-05-08T00:30:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,betmgm,player_steals_over_under,jeff green,True,0.5,230,2023-05-07T14:45:01,Phoenix Suns,Denver Nuggets
+2023-05-07,5d17247333898dcef28978afbae3d4b6,betmgm,player_steals_over_under,jeff green,False,0.5,-350,2023-05-07T14:45:01,Phoenix Suns,Denver Nuggets
+2023-05-09,b13a682fab35fa471075b948a5b48b99,draftkings,player_steals_over_under,jeff green,False,0.5,-305,2023-05-08T21:45:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,pinnacle,player_assists_over_under,jeff green,False,0.5,-133,2023-05-10T02:00:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,betmgm,player_threes_over_under,jeff green,False,0.5,-140,2023-05-09T04:30:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,betmgm,player_threes_over_under,jeff green,True,0.5,105,2023-05-09T04:30:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,draftkings,player_threes_over_under,jeff green,False,0.5,-155,2023-05-09T21:45:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,draftkings,player_threes_over_under,jeff green,True,0.5,125,2023-05-09T21:45:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,pinnacle,player_threes_over_under,jeff green,False,0.5,-143,2023-05-09T15:00:02,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,pinnacle,player_threes_over_under,jeff green,True,0.5,107,2023-05-09T15:00:02,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,betmgm,player_steals_over_under,jeff green,False,0.5,-350,2023-05-09T04:30:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,betmgm,player_steals_over_under,jeff green,True,0.5,230,2023-05-09T04:30:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,pinnacle,player_assists_over_under,jeff green,True,0.5,100,2023-05-10T02:00:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,betmgm,player_rebounds_over_under,jeff green,False,2.5,-190,2023-05-09T04:30:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,betmgm,player_rebounds_over_under,jeff green,True,2.5,145,2023-05-09T04:30:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,draftkings,player_rebounds_over_under,jeff green,False,2.5,-185,2023-05-08T21:45:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,draftkings,player_rebounds_over_under,jeff green,True,2.5,150,2023-05-08T21:45:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,draftkings,player_steals_over_under,jeff green,True,0.5,240,2023-05-08T21:45:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,pinnacle,player_rebounds_over_under,jeff green,True,2.5,146,2023-05-09T15:00:02,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,betmgm,player_assists_over_under,jeff green,True,0.5,115,2023-05-09T04:30:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,betmgm,player_assists_over_under,jeff green,False,0.5,-155,2023-05-09T04:30:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,pinnacle,player_rebounds_over_under,jeff green,False,2.5,-202,2023-05-09T15:00:02,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,draftkings,player_blocks_over_under,jeff green,False,0.5,-230,2023-05-08T21:45:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,betmgm,player_blocks_over_under,jeff green,True,0.5,175,2023-05-09T04:30:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,betmgm,player_blocks_over_under,jeff green,False,0.5,-250,2023-05-09T04:30:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,draftkings,player_blocks_over_under,jeff green,True,0.5,185,2023-05-08T21:45:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,fanduel,player_points_over_under,jeff green,False,5.5,-142,2023-05-10T02:00:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,pinnacle,player_points_over_under,jeff green,True,5.5,106,2023-05-09T15:00:02,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,pinnacle,player_points_over_under,jeff green,False,5.5,-141,2023-05-09T15:00:02,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,betmgm,player_points_over_under,jeff green,True,5.5,105,2023-05-09T04:30:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,betmgm,player_points_over_under,jeff green,False,5.5,-140,2023-05-09T04:30:01,Denver Nuggets,Phoenix Suns
+2023-05-09,b13a682fab35fa471075b948a5b48b99,fanduel,player_points_over_under,jeff green,True,5.5,116,2023-05-10T02:00:01,Denver Nuggets,Phoenix Suns
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_blocks_over_under,jeff green,True,0.5,800,2023-05-12T04:15:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_assists_over_under,jeff green,True,0.5,1000,2023-05-12T04:25:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_assists_over_under,jeff green,False,0.5,-50000,2023-05-12T04:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,pinnacle,player_assists_over_under,jeff green,True,0.5,-118,2023-05-12T02:00:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,pinnacle,player_assists_over_under,jeff green,False,0.5,-113,2023-05-12T02:00:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,betmgm,player_assists_over_under,jeff green,True,0.5,105,2023-05-11T03:15:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,betmgm,player_assists_over_under,jeff green,False,0.5,-145,2023-05-11T03:15:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_blocks_over_under,jeff green,True,0.5,1000,2023-05-12T04:25:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_blocks_over_under,jeff green,False,0.5,-100000,2023-05-12T04:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_blocks_over_under,jeff green,False,0.5,-2500,2023-05-12T04:15:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_points_over_under,jeff green,True,7.5,-125,2023-05-12T03:15:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,betmgm,player_blocks_over_under,jeff green,False,0.5,-350,2023-05-11T03:15:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_rebounds_over_under,jeff green,True,0.5,-160,2023-05-12T04:10:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_rebounds_over_under,jeff green,True,1.5,125,2023-05-12T04:15:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_rebounds_over_under,jeff green,True,2.5,900,2023-05-12T04:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_rebounds_over_under,jeff green,False,0.5,120,2023-05-12T04:10:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_rebounds_over_under,jeff green,False,1.5,-165,2023-05-12T04:15:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_rebounds_over_under,jeff green,False,2.5,-3000,2023-05-12T04:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,betmgm,player_rebounds_over_under,jeff green,True,1.5,-200,2023-05-11T03:15:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,betmgm,player_rebounds_over_under,jeff green,True,2.5,150,2023-05-12T00:50:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,betmgm,player_rebounds_over_under,jeff green,False,1.5,145,2023-05-11T03:15:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,betmgm,player_rebounds_over_under,jeff green,False,2.5,-200,2023-05-12T00:50:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_steals_over_under,jeff green,True,0.5,1000,2023-05-12T04:20:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,pinnacle,player_rebounds_over_under,jeff green,False,2.5,-213,2023-05-12T02:00:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_steals_over_under,jeff green,False,0.5,-100000,2023-05-12T04:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,betmgm,player_steals_over_under,jeff green,True,0.5,270,2023-05-11T03:15:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,betmgm,player_steals_over_under,jeff green,False,0.5,-400,2023-05-11T03:15:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_threes_over_under,jeff green,True,0.5,1000,2023-05-12T04:25:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_threes_over_under,jeff green,False,0.5,-50000,2023-05-12T04:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,pinnacle,player_threes_over_under,jeff green,True,0.5,119,2023-05-12T02:00:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,pinnacle,player_threes_over_under,jeff green,False,0.5,-160,2023-05-12T02:00:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_threes_over_under,jeff green,True,0.5,500,2023-05-12T04:15:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_threes_over_under,jeff green,False,0.5,-1000,2023-05-12T04:15:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,betmgm,player_threes_over_under,jeff green,True,0.5,110,2023-05-11T03:15:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,betmgm,player_threes_over_under,jeff green,False,0.5,-145,2023-05-11T03:15:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,betmgm,player_blocks_over_under,jeff green,True,0.5,230,2023-05-11T03:15:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_steals_over_under,jeff green,True,0.5,900,2023-05-12T04:15:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,pinnacle,player_rebounds_over_under,jeff green,False,1.5,149,2023-05-11T17:00:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_steals_over_under,jeff green,False,0.5,-3000,2023-05-12T04:15:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,pinnacle,player_rebounds_over_under,jeff green,True,1.5,-207,2023-05-11T17:00:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_points_over_under,jeff green,True,4.5,550,2023-05-12T04:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,pinnacle,player_rebounds_over_under,jeff green,True,2.5,153,2023-05-12T02:00:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_points_over_under,jeff green,True,5.5,136,2023-05-12T04:15:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_points_over_under,jeff green,True,6.5,116,2023-05-12T04:00:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_points_over_under,jeff green,True,7.5,-132,2023-05-12T03:15:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_points_over_under,jeff green,False,4.5,-1100,2023-05-12T04:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_points_over_under,jeff green,False,5.5,-182,2023-05-12T04:15:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_points_over_under,jeff green,False,7.5,100,2023-05-12T03:15:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,pinnacle,player_points_over_under,jeff green,True,4.5,-121,2023-05-12T02:00:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,pinnacle,player_points_over_under,jeff green,False,4.5,-110,2023-05-12T02:00:02,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_points_over_under,jeff green,True,4.5,425,2023-05-12T04:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_points_over_under,jeff green,True,5.5,170,2023-05-12T04:15:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_points_over_under,jeff green,False,6.5,-154,2023-05-12T04:00:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_points_over_under,jeff green,False,4.5,-750,2023-05-12T04:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_rebounds_over_under,jeff green,False,1.5,-144,2023-05-12T04:15:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_points_over_under,jeff green,True,6.5,115,2023-05-12T04:00:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_rebounds_over_under,jeff green,False,0.5,138,2023-05-12T04:10:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_rebounds_over_under,jeff green,True,2.5,1000,2023-05-12T04:30:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_rebounds_over_under,jeff green,True,0.5,-186,2023-05-12T04:10:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,betmgm,player_points_over_under,jeff green,False,4.5,105,2023-05-12T00:50:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_rebounds_over_under,jeff green,True,1.5,108,2023-05-12T04:15:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,betmgm,player_points_over_under,jeff green,True,4.5,-140,2023-05-12T00:50:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_points_over_under,jeff green,False,7.5,-105,2023-05-12T03:15:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_points_over_under,jeff green,False,6.5,-150,2023-05-12T04:00:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,draftkings,player_points_over_under,jeff green,False,5.5,-230,2023-05-12T04:15:01,Phoenix Suns,Denver Nuggets
+2023-05-11,3281cf3d3d05c6afdecd6a748deaec83,fanduel,player_rebounds_over_under,jeff green,False,2.5,-4000,2023-05-12T04:30:01,Phoenix Suns,Denver Nuggets
+2023-05-16,d933223ffbf092abcde745e058c486f6,pinnacle,player_rebounds_over_under,jeff green,False,2.5,-187,2023-05-17T00:45:02,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,draftkings,player_rebounds_over_under,jeff green,False,1.5,-2500,2023-05-17T03:10:01,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,draftkings,player_rebounds_over_under,jeff green,True,2.5,140,2023-05-17T02:10:01,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,betmgm,player_rebounds_over_under,jeff green,True,2.5,135,2023-05-14T22:25:01,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,draftkings,player_rebounds_over_under,jeff green,True,1.5,800,2023-05-17T03:10:01,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,draftkings,player_rebounds_over_under,jeff green,False,2.5,-185,2023-05-17T02:10:01,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,fanduel,player_rebounds_over_under,jeff green,True,1.5,1000,2023-05-17T03:10:01,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,fanduel,player_rebounds_over_under,jeff green,False,2.5,-194,2023-05-17T02:10:01,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,fanduel,player_rebounds_over_under,jeff green,False,1.5,-5000,2023-05-17T03:10:01,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,fanduel,player_rebounds_over_under,jeff green,True,2.5,144,2023-05-17T02:10:01,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,betmgm,player_points_over_under,jeff green,False,4.5,105,2023-05-14T22:25:01,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,betmgm,player_rebounds_over_under,jeff green,False,2.5,-185,2023-05-14T22:25:01,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,betmgm,player_points_over_under,jeff green,True,4.5,-145,2023-05-14T22:25:01,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,pinnacle,player_rebounds_over_under,jeff green,True,2.5,136,2023-05-17T00:45:02,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,fanduel,player_steals_over_under,jeff green,True,0.5,1000,2023-05-17T02:40:02,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,draftkings,player_threes_over_under,jeff green,True,1.5,800,2023-05-17T03:00:02,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,draftkings,player_steals_over_under,jeff green,True,0.5,1000,2023-05-17T02:40:02,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,draftkings,player_points_over_under,jeff green,False,4.5,-125,2023-05-17T01:10:02,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,betmgm,player_threes_over_under,jeff green,True,0.5,120,2023-05-14T22:25:01,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,draftkings,player_threes_over_under,jeff green,False,1.5,-2500,2023-05-17T03:00:02,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,draftkings,player_threes_over_under,jeff green,False,0.5,-1400,2023-05-17T02:40:02,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,draftkings,player_threes_over_under,jeff green,True,0.5,650,2023-05-17T02:40:02,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,pinnacle,player_threes_over_under,jeff green,False,0.5,-166,2023-05-17T00:45:02,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,fanduel,player_steals_over_under,jeff green,False,0.5,-100000,2023-05-17T03:10:01,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,pinnacle,player_threes_over_under,jeff green,True,0.5,123,2023-05-17T00:45:02,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,fanduel,player_threes_over_under,jeff green,False,0.5,-1450,2023-05-17T02:40:02,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,fanduel,player_threes_over_under,jeff green,True,1.5,1000,2023-05-17T03:10:01,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,fanduel,player_threes_over_under,jeff green,True,0.5,640,2023-05-17T02:40:02,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,betmgm,player_steals_over_under,jeff green,False,0.5,-375,2023-05-14T22:25:01,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,betmgm,player_steals_over_under,jeff green,True,0.5,260,2023-05-14T22:25:01,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,draftkings,player_steals_over_under,jeff green,False,0.5,-5000,2023-05-17T02:40:02,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,fanduel,player_threes_over_under,jeff green,False,1.5,-100000,2023-05-17T03:10:01,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,draftkings,player_points_over_under,jeff green,False,3.5,-700,2023-05-17T03:10:01,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,fanduel,player_blocks_over_under,jeff green,False,0.5,-100000,2023-05-17T03:10:01,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,draftkings,player_points_over_under,jeff green,False,1.5,-165,2023-05-17T02:30:01,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,fanduel,player_assists_over_under,jeff green,True,0.5,1000,2023-05-17T03:10:01,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,fanduel,player_assists_over_under,jeff green,False,0.5,-50000,2023-05-17T03:10:01,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,pinnacle,player_assists_over_under,jeff green,True,0.5,-127,2023-05-17T00:45:02,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,pinnacle,player_assists_over_under,jeff green,False,0.5,-104,2023-05-17T00:45:02,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,betmgm,player_assists_over_under,jeff green,True,0.5,-125,2023-05-14T22:25:01,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,betmgm,player_assists_over_under,jeff green,False,0.5,-105,2023-05-14T22:25:01,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,fanduel,player_blocks_over_under,jeff green,True,0.5,1000,2023-05-17T02:50:01,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,draftkings,player_blocks_over_under,jeff green,True,0.5,1000,2023-05-17T03:00:02,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,draftkings,player_blocks_over_under,jeff green,False,0.5,-5000,2023-05-17T03:00:02,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,betmgm,player_blocks_over_under,jeff green,True,0.5,165,2023-05-14T22:25:01,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,betmgm,player_blocks_over_under,jeff green,False,0.5,-225,2023-05-14T22:25:01,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,fanduel,player_points_over_under,jeff green,True,0.5,-205,2023-05-17T02:40:02,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,fanduel,player_points_over_under,jeff green,True,1.5,128,2023-05-17T02:30:01,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,fanduel,player_points_over_under,jeff green,True,2.5,110,2023-05-17T02:20:01,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,fanduel,player_points_over_under,jeff green,True,3.5,750,2023-05-17T03:10:01,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,fanduel,player_points_over_under,jeff green,True,4.5,-144,2023-05-17T01:00:01,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,fanduel,player_points_over_under,jeff green,False,0.5,152,2023-05-17T02:40:02,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,draftkings,player_points_over_under,jeff green,False,0.5,140,2023-05-17T02:40:02,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,draftkings,player_points_over_under,jeff green,True,4.5,-110,2023-05-17T01:10:02,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,draftkings,player_points_over_under,jeff green,True,3.5,400,2023-05-17T03:10:01,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,draftkings,player_points_over_under,jeff green,True,2.5,125,2023-05-17T02:20:01,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,draftkings,player_points_over_under,jeff green,True,1.5,125,2023-05-17T02:30:01,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,draftkings,player_points_over_under,jeff green,True,0.5,-190,2023-05-17T02:40:02,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,draftkings,player_points_over_under,jeff green,False,2.5,-165,2023-05-17T02:20:01,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,pinnacle,player_points_over_under,jeff green,False,5.5,-132,2023-05-13T14:45:02,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,pinnacle,player_points_over_under,jeff green,True,5.5,-100,2023-05-13T14:45:02,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,pinnacle,player_points_over_under,jeff green,True,4.5,-114,2023-05-17T00:45:02,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,fanduel,player_points_over_under,jeff green,False,4.5,108,2023-05-17T01:00:01,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,fanduel,player_points_over_under,jeff green,False,3.5,-2000,2023-05-17T03:10:01,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,fanduel,player_points_over_under,jeff green,False,2.5,-146,2023-05-17T02:20:01,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,fanduel,player_points_over_under,jeff green,False,1.5,-172,2023-05-17T02:30:01,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,pinnacle,player_points_over_under,jeff green,False,4.5,-117,2023-05-17T00:45:02,Denver Nuggets,Los Angeles Lakers
+2023-05-16,d933223ffbf092abcde745e058c486f6,betmgm,player_threes_over_under,jeff green,False,0.5,-160,2023-05-14T22:25:01,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,pinnacle,player_points_over_under,jeff green,False,4.5,105,2023-05-19T00:30:01,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,betmgm,player_threes_over_under,jeff green,True,0.5,115,2023-05-17T21:40:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,draftkings,player_points_over_under,jeff green,True,4.5,135,2023-05-19T01:40:01,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,draftkings,player_points_over_under,jeff green,True,3.5,140,2023-05-19T02:30:01,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,draftkings,player_points_over_under,jeff green,True,2.5,500,2023-05-19T03:00:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,pinnacle,player_points_over_under,jeff green,False,8.5,-133,2023-05-17T15:00:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,pinnacle,player_points_over_under,jeff green,True,8.5,100,2023-05-17T15:00:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,pinnacle,player_points_over_under,jeff green,True,4.5,-137,2023-05-19T00:30:01,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,fanduel,player_points_over_under,jeff green,False,6.5,-178,2023-05-19T01:10:01,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,fanduel,player_points_over_under,jeff green,False,5.5,-158,2023-05-19T01:20:01,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,fanduel,player_points_over_under,jeff green,False,4.5,-172,2023-05-19T01:40:01,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,fanduel,player_points_over_under,jeff green,False,3.5,-192,2023-05-19T02:30:01,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,fanduel,player_points_over_under,jeff green,False,2.5,-1100,2023-05-19T03:00:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,fanduel,player_points_over_under,jeff green,True,6.5,132,2023-05-19T01:10:01,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,fanduel,player_points_over_under,jeff green,True,5.5,118,2023-05-19T01:20:01,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,fanduel,player_points_over_under,jeff green,True,4.5,128,2023-05-19T01:40:01,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,draftkings,player_points_over_under,jeff green,True,5.5,115,2023-05-19T01:20:01,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,fanduel,player_points_over_under,jeff green,True,3.5,142,2023-05-19T02:30:01,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,betmgm,player_blocks_over_under,jeff green,False,0.5,-250,2023-05-17T21:40:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,betmgm,player_blocks_over_under,jeff green,True,0.5,175,2023-05-17T21:40:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,draftkings,player_blocks_over_under,jeff green,False,0.5,-2500,2023-05-19T02:40:01,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,draftkings,player_blocks_over_under,jeff green,True,0.5,800,2023-05-19T02:40:01,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,fanduel,player_blocks_over_under,jeff green,False,0.5,-100000,2023-05-19T03:00:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,fanduel,player_blocks_over_under,jeff green,True,0.5,1000,2023-05-19T02:45:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,betmgm,player_assists_over_under,jeff green,False,0.5,-140,2023-05-17T21:40:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,betmgm,player_assists_over_under,jeff green,True,0.5,105,2023-05-17T21:40:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,pinnacle,player_assists_over_under,jeff green,False,3.5,-185,2023-05-17T15:00:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,pinnacle,player_assists_over_under,jeff green,True,3.5,135,2023-05-17T15:00:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,pinnacle,player_assists_over_under,jeff green,True,0.5,-103,2023-05-19T00:30:01,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,fanduel,player_assists_over_under,jeff green,False,0.5,-50000,2023-05-19T03:00:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,fanduel,player_assists_over_under,jeff green,True,0.5,1000,2023-05-19T02:50:01,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,betmgm,player_threes_over_under,jeff green,False,0.5,-150,2023-05-17T21:40:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,fanduel,player_points_over_under,jeff green,True,2.5,550,2023-05-19T03:00:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,draftkings,player_points_over_under,jeff green,False,2.5,-1000,2023-05-19T03:00:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,pinnacle,player_assists_over_under,jeff green,False,0.5,-129,2023-05-19T00:30:01,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,draftkings,player_points_over_under,jeff green,False,4.5,-180,2023-05-19T01:40:01,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,fanduel,player_steals_over_under,jeff green,True,0.5,1000,2023-05-19T02:40:01,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,fanduel,player_steals_over_under,jeff green,False,0.5,-100000,2023-05-19T02:50:01,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,draftkings,player_steals_over_under,jeff green,True,0.5,1100,2023-05-19T02:40:01,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,draftkings,player_steals_over_under,jeff green,False,0.5,-8000,2023-05-19T02:40:01,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,betmgm,player_steals_over_under,jeff green,True,0.5,290,2023-05-17T21:40:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,betmgm,player_steals_over_under,jeff green,False,0.5,-450,2023-05-17T21:40:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,betmgm,player_rebounds_over_under,jeff green,False,1.5,145,2023-05-17T21:40:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,fanduel,player_threes_over_under,jeff green,True,0.5,1000,2023-05-19T02:45:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,pinnacle,player_threes_over_under,jeff green,True,0.5,115,2023-05-18T17:00:01,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,pinnacle,player_threes_over_under,jeff green,True,1.5,187,2023-05-17T15:00:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,pinnacle,player_threes_over_under,jeff green,False,1.5,-274,2023-05-17T15:00:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,draftkings,player_threes_over_under,jeff green,True,0.5,900,2023-05-19T02:45:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,draftkings,player_points_over_under,jeff green,False,3.5,-185,2023-05-19T02:30:01,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,draftkings,player_threes_over_under,jeff green,False,0.5,-3000,2023-05-19T02:45:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,fanduel,player_threes_over_under,jeff green,False,0.5,-50000,2023-05-19T03:00:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,betmgm,player_rebounds_over_under,jeff green,True,1.5,-190,2023-05-17T21:40:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,pinnacle,player_threes_over_under,jeff green,False,0.5,-154,2023-05-18T17:00:01,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,draftkings,player_rebounds_over_under,jeff green,False,1.5,145,2023-05-19T01:05:01,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,draftkings,player_rebounds_over_under,jeff green,False,2.5,-3000,2023-05-19T03:00:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,betmgm,player_points_over_under,jeff green,False,4.5,-115,2023-05-18T22:35:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,fanduel,player_rebounds_over_under,jeff green,True,2.5,920,2023-05-19T03:00:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,draftkings,player_points_over_under,jeff green,False,5.5,-155,2023-05-19T01:20:01,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,fanduel,player_rebounds_over_under,jeff green,False,1.5,148,2023-05-19T01:05:01,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,fanduel,player_rebounds_over_under,jeff green,False,2.5,-3500,2023-05-19T03:00:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,fanduel,player_rebounds_over_under,jeff green,True,1.5,-200,2023-05-19T01:05:01,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,pinnacle,player_rebounds_over_under,jeff green,True,5.5,123,2023-05-17T15:00:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,draftkings,player_rebounds_over_under,jeff green,True,2.5,900,2023-05-19T03:00:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,pinnacle,player_rebounds_over_under,jeff green,True,1.5,-187,2023-05-18T22:45:01,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,draftkings,player_rebounds_over_under,jeff green,True,1.5,-195,2023-05-19T01:05:01,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,betmgm,player_points_over_under,jeff green,True,4.5,-115,2023-05-18T22:35:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,pinnacle,player_rebounds_over_under,jeff green,False,5.5,-166,2023-05-17T15:00:02,Denver Nuggets,Los Angeles Lakers
+2023-05-18,f6520508500835ab1618b3feeb3806de,pinnacle,player_rebounds_over_under,jeff green,False,1.5,136,2023-05-18T22:45:01,Denver Nuggets,Los Angeles Lakers
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jeff green,True,8.5,125,2023-10-28T01:30:54,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jeff green,False,9.5,105,2023-10-28T01:40:12,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jeff green,False,8.5,-165,2023-10-28T01:30:54,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jeff green,False,11.5,-115,2023-10-28T01:45:09,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jeff green,False,6.5,-155,2023-10-28T00:51:24,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jeff green,False,4.5,-135,2023-10-28T00:40:14,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jeff green,False,3.5,130,2023-10-28T00:45:24,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jeff green,True,11.5,-115,2023-10-28T01:45:09,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jeff green,True,10.5,950,2023-10-28T02:40:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jeff green,True,9.5,-140,2023-10-28T01:40:12,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jeff green,False,10.5,-4000,2023-10-28T02:36:09,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jeff green,False,7.5,100,2023-10-28T01:35:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_blocks_over_under,jeff green,True,0.5,270,2023-10-28T00:40:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jeff green,True,6.5,120,2023-10-28T00:51:24,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jeff green,True,4.5,105,2023-10-28T00:40:14,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jeff green,True,3.5,-175,2023-10-28T00:45:24,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_blocks_over_under,jeff green,False,0.5,-450,2023-10-28T00:40:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_blocks_over_under,jeff green,False,0.5,-10000,2023-10-28T01:55:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_blocks_over_under,jeff green,True,0.5,1200,2023-10-28T01:55:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_blocks_over_under,jeff green,False,0.5,-100000,2023-10-28T02:35:47,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_blocks_over_under,jeff green,True,0.5,1000,2023-10-28T02:00:38,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_assists_over_under,jeff green,False,0.5,-125,2023-10-28T00:10:20,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_assists_over_under,jeff green,True,0.5,-105,2023-10-28T00:10:20,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,jeff green,True,3.5,-120,2023-10-28T00:40:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_assists_over_under,jeff green,False,1.5,-100000,2023-10-28T02:45:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_assists_over_under,jeff green,False,0.5,-188,2023-10-28T00:40:06,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_points_over_under,jeff green,True,7.5,-135,2023-10-28T01:35:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,jeff green,True,8.5,115,2023-10-28T01:26:14,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_rebounds_over_under,jeff green,True,0.5,-215,2023-10-28T00:50:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,jeff green,False,8.5,-165,2023-10-28T01:26:14,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_threes_over_under,jeff green,False,0.5,-230,2023-10-28T00:11:20,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_assists_over_under,jeff green,True,1.5,1000,2023-10-28T02:00:38,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_threes_over_under,jeff green,True,0.5,175,2023-10-28T00:11:20,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_steals_over_under,jeff green,False,0.5,-450,2023-10-28T00:26:52,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_steals_over_under,jeff green,True,0.5,270,2023-10-28T00:26:52,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_steals_over_under,jeff green,False,0.5,-6000,2023-10-28T01:55:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_steals_over_under,jeff green,True,0.5,1100,2023-10-28T01:55:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_steals_over_under,jeff green,False,0.5,-100000,2023-10-28T02:35:47,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_steals_over_under,jeff green,True,0.5,1000,2023-10-28T02:00:38,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_rebounds_over_under,jeff green,False,2.5,-215,2023-10-28T01:26:14,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_rebounds_over_under,jeff green,False,1.5,150,2023-10-28T01:35:06,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_rebounds_over_under,jeff green,False,0.5,145,2023-10-28T00:50:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_points_over_under,jeff green,False,3.5,-120,2023-10-28T00:40:05,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_rebounds_over_under,jeff green,True,2.5,145,2023-10-28T01:26:14,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_rebounds_over_under,jeff green,False,2.5,-205,2023-10-28T01:25:08,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_rebounds_over_under,jeff green,False,1.5,-2500,2023-10-28T02:40:07,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_rebounds_over_under,jeff green,False,0.5,155,2023-10-28T00:51:24,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_rebounds_over_under,jeff green,True,2.5,150,2023-10-28T01:25:08,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_rebounds_over_under,jeff green,True,1.5,850,2023-10-28T02:36:09,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,draftkings,player_rebounds_over_under,jeff green,True,0.5,-210,2023-10-28T00:51:24,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_rebounds_over_under,jeff green,False,2.5,-215,2023-10-28T01:25:19,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_rebounds_over_under,jeff green,False,1.5,-50000,2023-10-28T02:45:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_rebounds_over_under,jeff green,False,0.5,164,2023-10-28T00:50:04,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_rebounds_over_under,jeff green,True,2.5,158,2023-10-28T01:25:19,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_rebounds_over_under,jeff green,True,1.5,1000,2023-10-28T02:45:15,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_rebounds_over_under,jeff green,True,0.5,-225,2023-10-28T00:50:04,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_rebounds_over_under,jeff green,True,1.5,-225,2023-10-28T01:35:06,San Antonio Spurs,Houston Rockets
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,fanduel,player_assists_over_under,jeff green,True,0.5,140,2023-10-28T00:40:06,San Antonio Spurs,Houston Rockets
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,jeff green,False,6.5,-10000,2023-10-30T01:25:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_threes_over_under,jeff green,True,0.5,115,2023-10-29T23:35:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,jeff green,False,5.5,-115,2023-10-30T00:55:05,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,jeff green,False,4.5,-185,2023-10-30T01:00:35,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,jeff green,False,3.5,-120,2023-10-30T00:50:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,jeff green,True,6.5,1200,2023-10-30T01:25:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,jeff green,True,5.5,-115,2023-10-30T00:55:05,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,jeff green,True,4.5,140,2023-10-30T01:00:35,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_points_over_under,jeff green,True,3.5,-110,2023-10-30T00:50:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_blocks_over_under,jeff green,False,0.5,-400,2023-10-29T23:35:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_blocks_over_under,jeff green,True,0.5,250,2023-10-29T23:35:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_blocks_over_under,jeff green,False,1.5,-3000,2023-10-30T01:00:35,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_blocks_over_under,jeff green,False,0.5,-1200,2023-10-30T00:45:46,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_blocks_over_under,jeff green,True,1.5,900,2023-10-30T01:00:35,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,jeff green,True,3.5,-105,2023-10-29T23:50:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_blocks_over_under,jeff green,True,0.5,600,2023-10-30T00:45:46,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_blocks_over_under,jeff green,False,0.5,-1600,2023-10-30T00:45:20,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_blocks_over_under,jeff green,True,1.5,1000,2023-10-30T01:05:13,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_blocks_over_under,jeff green,True,0.5,680,2023-10-30T00:45:20,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_assists_over_under,jeff green,False,0.5,115,2023-10-29T23:15:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_assists_over_under,jeff green,True,0.5,-150,2023-10-29T23:15:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_assists_over_under,jeff green,False,2.5,-100000,2023-10-30T01:30:23,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_assists_over_under,jeff green,False,1.5,-400,2023-10-30T00:55:14,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_assists_over_under,jeff green,False,0.5,-168,2023-10-29T23:55:12,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_assists_over_under,jeff green,True,2.5,1000,2023-10-30T01:05:13,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_assists_over_under,jeff green,True,1.5,270,2023-10-30T00:55:14,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_assists_over_under,jeff green,True,0.5,126,2023-10-29T23:55:12,Houston Rockets,Golden State Warriors
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_threes_over_under,jeff green,True,0.5,175,2023-10-28T00:15:18,San Antonio Spurs,Houston Rockets
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_blocks_over_under,jeff green,False,1.5,-100000,2023-10-30T01:20:36,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_threes_over_under,jeff green,False,0.5,-165,2023-10-29T23:35:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,jeff green,True,4.5,105,2023-10-29T23:45:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,jeff green,False,3.5,-135,2023-10-29T23:50:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_threes_over_under,jeff green,False,0.5,-1200,2023-10-30T01:00:35,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_threes_over_under,jeff green,True,0.5,600,2023-10-30T01:00:35,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_steals_over_under,jeff green,False,0.5,-425,2023-10-29T23:45:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_steals_over_under,jeff green,True,0.5,260,2023-10-29T23:45:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_steals_over_under,jeff green,False,0.5,-2500,2023-10-30T01:00:35,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_steals_over_under,jeff green,True,0.5,800,2023-10-30T01:00:35,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_steals_over_under,jeff green,False,0.5,-100000,2023-10-30T01:20:36,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_steals_over_under,jeff green,True,0.5,1000,2023-10-30T01:05:13,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_rebounds_over_under,jeff green,False,2.5,-225,2023-10-30T00:40:22,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_rebounds_over_under,jeff green,False,1.5,-140,2023-10-30T00:01:10,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_rebounds_over_under,jeff green,True,2.5,150,2023-10-30T00:40:22,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_rebounds_over_under,jeff green,True,1.5,100,2023-10-30T00:01:10,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,jeff green,True,5.5,-105,2023-10-29T23:35:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_rebounds_over_under,jeff green,False,3.5,-8000,2023-10-30T01:25:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_rebounds_over_under,jeff green,False,1.5,-135,2023-10-30T00:01:37,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_rebounds_over_under,jeff green,True,3.5,1100,2023-10-30T01:25:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_rebounds_over_under,jeff green,True,2.5,-170,2023-10-30T00:45:46,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_rebounds_over_under,jeff green,True,1.5,105,2023-10-30T00:01:37,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_rebounds_over_under,jeff green,False,3.5,-100000,2023-10-30T01:30:23,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_rebounds_over_under,jeff green,False,2.5,130,2023-10-30T00:45:20,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_rebounds_over_under,jeff green,False,1.5,-136,2023-10-30T00:00:23,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_rebounds_over_under,jeff green,True,3.5,1000,2023-10-30T01:25:18,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_rebounds_over_under,jeff green,True,2.5,-174,2023-10-30T00:45:20,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,fanduel,player_rebounds_over_under,jeff green,True,1.5,102,2023-10-30T00:00:23,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,jeff green,False,5.5,-135,2023-10-29T23:35:03,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,barstool,player_points_over_under,jeff green,False,4.5,-150,2023-10-29T23:45:04,Houston Rockets,Golden State Warriors
+2023-10-27,9c9c28844987db07b9f3a96f5265bb8a,draftkings,player_rebounds_over_under,jeff green,False,2.5,130,2023-10-30T00:45:46,Houston Rockets,Golden State Warriors
+2023-10-27,b648f3bec470d6c24c43eab0902cf083,barstool,player_threes_over_under,jeff green,False,0.5,-250,2023-10-28T00:15:18,San Antonio Spurs,Houston Rockets

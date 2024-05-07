@@ -1,0 +1,409 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_threes_over_under,nick richards,False,0.5,-100000,2023-03-20T23:15:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_assists_over_under,nick richards,True,0.5,102,2023-03-21T00:00:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_assists_over_under,nick richards,True,1.5,520,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_assists_over_under,nick richards,False,0.5,-136,2023-03-21T00:00:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_assists_over_under,nick richards,False,1.5,-1000,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_blocks_over_under,nick richards,True,0.5,-230,2023-03-21T00:00:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_blocks_over_under,nick richards,True,1.5,310,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_blocks_over_under,nick richards,False,0.5,168,2023-03-21T00:00:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_blocks_over_under,nick richards,False,1.5,-470,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,nick richards,True,9.5,114,2023-03-20T23:15:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,nick richards,True,10.5,128,2023-03-21T00:30:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,nick richards,True,11.5,118,2023-03-20T23:30:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,nick richards,True,14.5,116,2023-03-21T00:45:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,nick richards,True,15.5,102,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,nick richards,False,9.5,-152,2023-03-20T23:15:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_threes_over_under,nick richards,True,0.5,1000,2023-03-20T23:15:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,nick richards,False,11.5,-158,2023-03-20T23:30:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,nick richards,False,10.5,-172,2023-03-21T00:30:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_steals_over_under,nick richards,True,0.5,1000,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_rebounds_over_under,nick richards,False,13.5,-178,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_rebounds_over_under,nick richards,False,12.5,-112,2023-03-20T23:30:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_rebounds_over_under,nick richards,False,11.5,154,2023-03-21T00:45:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_rebounds_over_under,nick richards,False,8.5,116,2023-03-20T23:15:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_steals_over_under,nick richards,False,0.5,-5000,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_rebounds_over_under,nick richards,True,12.5,-118,2023-03-20T23:30:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_rebounds_over_under,nick richards,True,11.5,-210,2023-03-21T00:45:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_rebounds_over_under,nick richards,True,8.5,-158,2023-03-20T23:15:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,nick richards,False,15.5,-136,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_points_over_under,nick richards,False,14.5,-154,2023-03-21T00:45:01,Charlotte Hornets,Indiana Pacers
+2023-03-20,8d93fb92ce14f790a09add47ef4d5f8b,fanduel,player_rebounds_over_under,nick richards,True,13.5,132,2023-03-21T01:15:02,Charlotte Hornets,Indiana Pacers
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_points_over_under,nick richards,True,13.5,-152,2023-03-25T01:15:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_points_over_under,nick richards,True,11.5,124,2023-03-25T01:45:02,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_points_over_under,nick richards,True,10.5,116,2023-03-25T02:15:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_points_over_under,nick richards,True,9.5,-136,2023-03-25T02:30:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_blocks_over_under,nick richards,False,0.5,-670,2023-03-25T02:30:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_assists_over_under,nick richards,False,0.5,-230,2023-03-25T01:30:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_assists_over_under,nick richards,False,1.5,-1200,2023-03-25T02:30:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_assists_over_under,nick richards,True,1.5,580,2023-03-25T02:30:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_assists_over_under,nick richards,True,0.5,168,2023-03-25T01:30:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_points_over_under,nick richards,False,9.5,102,2023-03-25T02:30:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_blocks_over_under,nick richards,True,0.5,400,2023-03-25T02:30:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_points_over_under,nick richards,False,10.5,-154,2023-03-25T02:15:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_rebounds_over_under,nick richards,True,12.5,116,2023-03-25T01:15:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_points_over_under,nick richards,False,13.5,114,2023-03-25T01:15:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_rebounds_over_under,nick richards,True,8.5,106,2023-03-25T00:30:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_rebounds_over_under,nick richards,True,9.5,130,2023-03-25T02:30:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_rebounds_over_under,nick richards,True,10.5,-138,2023-03-25T02:00:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_rebounds_over_under,nick richards,True,11.5,-102,2023-03-25T01:30:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,f9b71bab32ff82972352f88176eb8194,fanduel,player_threes_over_under,nick richards,False,0.5,-100000,2023-03-24T00:15:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_rebounds_over_under,nick richards,False,8.5,-130,2023-03-25T00:30:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_rebounds_over_under,nick richards,False,9.5,-174,2023-03-25T02:30:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_rebounds_over_under,nick richards,False,10.5,104,2023-03-25T02:00:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_rebounds_over_under,nick richards,False,11.5,-128,2023-03-25T01:30:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_rebounds_over_under,nick richards,False,12.5,-154,2023-03-25T01:15:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_steals_over_under,nick richards,True,0.5,1000,2023-03-25T02:15:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_points_over_under,nick richards,False,11.5,-166,2023-03-25T01:45:02,Dallas Mavericks,Charlotte Hornets
+2023-03-24,f9b71bab32ff82972352f88176eb8194,fanduel,player_threes_over_under,nick richards,True,0.5,1000,2023-03-24T00:15:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-24,f9b71bab32ff82972352f88176eb8194,fanduel,player_rebounds_over_under,nick richards,True,10.5,164,2023-03-24T02:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-24,f9b71bab32ff82972352f88176eb8194,fanduel,player_steals_over_under,nick richards,True,0.5,1000,2023-03-24T02:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-24,f9b71bab32ff82972352f88176eb8194,fanduel,player_assists_over_under,nick richards,True,0.5,-106,2023-03-24T00:45:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-24,f9b71bab32ff82972352f88176eb8194,fanduel,player_assists_over_under,nick richards,True,1.5,550,2023-03-24T02:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-24,f9b71bab32ff82972352f88176eb8194,fanduel,player_assists_over_under,nick richards,False,0.5,-125,2023-03-24T00:45:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-24,f9b71bab32ff82972352f88176eb8194,fanduel,player_assists_over_under,nick richards,False,1.5,-1100,2023-03-24T02:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-24,f9b71bab32ff82972352f88176eb8194,fanduel,player_blocks_over_under,nick richards,True,0.5,390,2023-03-24T02:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-24,f9b71bab32ff82972352f88176eb8194,fanduel,player_blocks_over_under,nick richards,True,1.5,164,2023-03-24T00:15:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-24,f9b71bab32ff82972352f88176eb8194,fanduel,player_blocks_over_under,nick richards,False,0.5,-650,2023-03-24T02:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-24,f9b71bab32ff82972352f88176eb8194,fanduel,player_blocks_over_under,nick richards,False,1.5,-225,2023-03-24T00:15:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-24,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,nick richards,True,6.5,-160,2023-03-24T01:00:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-24,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,nick richards,True,7.5,-118,2023-03-24T01:15:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-24,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,nick richards,True,8.5,-132,2023-03-24T00:45:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-24,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,nick richards,True,9.5,114,2023-03-24T00:15:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-24,f9b71bab32ff82972352f88176eb8194,fanduel,player_steals_over_under,nick richards,False,0.5,-7000,2023-03-24T02:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-24,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,nick richards,True,10.5,130,2023-03-24T02:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-24,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,nick richards,False,6.5,120,2023-03-24T01:00:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-24,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,nick richards,False,7.5,-112,2023-03-24T01:15:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-24,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,nick richards,False,8.5,100,2023-03-24T00:45:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-24,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,nick richards,False,9.5,-152,2023-03-24T00:15:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-24,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,nick richards,False,10.5,-174,2023-03-24T02:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-24,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,nick richards,False,12.5,-166,2023-03-24T01:45:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-24,f9b71bab32ff82972352f88176eb8194,fanduel,player_rebounds_over_under,nick richards,True,8.5,-166,2023-03-24T01:15:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-24,f9b71bab32ff82972352f88176eb8194,fanduel,player_rebounds_over_under,nick richards,True,9.5,-154,2023-03-24T01:45:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_threes_over_under,nick richards,True,0.5,1000,2023-03-25T00:45:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,f9b71bab32ff82972352f88176eb8194,fanduel,player_rebounds_over_under,nick richards,False,8.5,124,2023-03-24T01:15:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-24,f9b71bab32ff82972352f88176eb8194,fanduel,player_rebounds_over_under,nick richards,False,9.5,116,2023-03-24T01:45:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-24,f9b71bab32ff82972352f88176eb8194,fanduel,player_rebounds_over_under,nick richards,False,10.5,-225,2023-03-24T02:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-24,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,nick richards,True,12.5,124,2023-03-24T01:45:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_threes_over_under,nick richards,False,0.5,-100000,2023-03-25T00:45:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,45b0e1b9f5d525eea1791f14bbdfe8ae,fanduel,player_steals_over_under,nick richards,False,0.5,-7000,2023-03-25T02:30:01,Dallas Mavericks,Charlotte Hornets
+2023-03-24,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_rebounds_over_under,nick richards,True,7.5,-134,2023-03-26T17:00:01,Charlotte Hornets,Dallas Mavericks
+2023-03-24,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_points_over_under,nick richards,False,9.5,-114,2023-03-26T17:00:01,Charlotte Hornets,Dallas Mavericks
+2023-03-24,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_points_over_under,nick richards,True,9.5,-106,2023-03-26T17:00:01,Charlotte Hornets,Dallas Mavericks
+2023-03-24,7716751f7d96fb8510d58d75f5c6c4bb,fanduel,player_rebounds_over_under,nick richards,False,7.5,110,2023-03-26T17:00:01,Charlotte Hornets,Dallas Mavericks
+2023-03-28,70592fec3120b0d74c1d2cd46aa81ffd,fanduel,player_rebounds_over_under,nick richards,False,9.5,-108,2023-03-29T01:15:01,Oklahoma City Thunder,Charlotte Hornets
+2023-03-28,70592fec3120b0d74c1d2cd46aa81ffd,fanduel,player_threes_over_under,nick richards,True,0.5,1000,2023-03-29T00:15:01,Oklahoma City Thunder,Charlotte Hornets
+2023-03-28,70592fec3120b0d74c1d2cd46aa81ffd,fanduel,player_rebounds_over_under,nick richards,True,12.5,106,2023-03-29T01:45:01,Oklahoma City Thunder,Charlotte Hornets
+2023-03-28,70592fec3120b0d74c1d2cd46aa81ffd,fanduel,player_rebounds_over_under,nick richards,True,11.5,174,2023-03-29T02:15:01,Oklahoma City Thunder,Charlotte Hornets
+2023-03-28,70592fec3120b0d74c1d2cd46aa81ffd,fanduel,player_threes_over_under,nick richards,False,0.5,-100000,2023-03-29T00:15:01,Oklahoma City Thunder,Charlotte Hornets
+2023-03-28,70592fec3120b0d74c1d2cd46aa81ffd,fanduel,player_rebounds_over_under,nick richards,True,9.5,-122,2023-03-29T01:15:01,Oklahoma City Thunder,Charlotte Hornets
+2023-03-28,70592fec3120b0d74c1d2cd46aa81ffd,fanduel,player_rebounds_over_under,nick richards,True,8.5,-118,2023-03-29T00:15:01,Oklahoma City Thunder,Charlotte Hornets
+2023-03-28,70592fec3120b0d74c1d2cd46aa81ffd,fanduel,player_points_over_under,nick richards,False,13.5,-160,2023-03-29T02:15:01,Oklahoma City Thunder,Charlotte Hornets
+2023-03-28,70592fec3120b0d74c1d2cd46aa81ffd,fanduel,player_points_over_under,nick richards,False,12.5,-174,2023-03-29T02:00:02,Oklahoma City Thunder,Charlotte Hornets
+2023-03-28,70592fec3120b0d74c1d2cd46aa81ffd,fanduel,player_points_over_under,nick richards,False,11.5,100,2023-03-28T23:00:01,Oklahoma City Thunder,Charlotte Hornets
+2023-03-28,70592fec3120b0d74c1d2cd46aa81ffd,fanduel,player_rebounds_over_under,nick richards,False,11.5,-240,2023-03-29T02:15:01,Oklahoma City Thunder,Charlotte Hornets
+2023-03-28,70592fec3120b0d74c1d2cd46aa81ffd,fanduel,player_rebounds_over_under,nick richards,False,12.5,-140,2023-03-29T01:45:01,Oklahoma City Thunder,Charlotte Hornets
+2023-03-28,70592fec3120b0d74c1d2cd46aa81ffd,fanduel,player_rebounds_over_under,nick richards,False,10.5,-142,2023-03-29T00:00:02,Oklahoma City Thunder,Charlotte Hornets
+2023-03-28,70592fec3120b0d74c1d2cd46aa81ffd,fanduel,player_rebounds_over_under,nick richards,True,10.5,116,2023-03-29T00:00:02,Oklahoma City Thunder,Charlotte Hornets
+2023-03-28,70592fec3120b0d74c1d2cd46aa81ffd,fanduel,player_rebounds_over_under,nick richards,False,8.5,-112,2023-03-29T00:15:01,Oklahoma City Thunder,Charlotte Hornets
+2023-03-28,70592fec3120b0d74c1d2cd46aa81ffd,fanduel,player_points_over_under,nick richards,False,10.5,-138,2023-03-29T01:30:02,Oklahoma City Thunder,Charlotte Hornets
+2023-03-28,70592fec3120b0d74c1d2cd46aa81ffd,fanduel,player_points_over_under,nick richards,False,9.5,-102,2023-03-29T01:15:01,Oklahoma City Thunder,Charlotte Hornets
+2023-03-28,70592fec3120b0d74c1d2cd46aa81ffd,fanduel,player_points_over_under,nick richards,True,13.5,120,2023-03-29T02:15:01,Oklahoma City Thunder,Charlotte Hornets
+2023-03-28,70592fec3120b0d74c1d2cd46aa81ffd,fanduel,player_points_over_under,nick richards,True,12.5,130,2023-03-29T02:00:02,Oklahoma City Thunder,Charlotte Hornets
+2023-03-28,70592fec3120b0d74c1d2cd46aa81ffd,fanduel,player_points_over_under,nick richards,True,11.5,-122,2023-03-28T23:00:01,Oklahoma City Thunder,Charlotte Hornets
+2023-03-28,70592fec3120b0d74c1d2cd46aa81ffd,fanduel,player_points_over_under,nick richards,True,10.5,104,2023-03-29T01:30:02,Oklahoma City Thunder,Charlotte Hornets
+2023-03-28,70592fec3120b0d74c1d2cd46aa81ffd,fanduel,player_points_over_under,nick richards,True,9.5,-130,2023-03-29T01:15:01,Oklahoma City Thunder,Charlotte Hornets
+2023-03-28,70592fec3120b0d74c1d2cd46aa81ffd,fanduel,player_blocks_over_under,nick richards,False,1.5,-200,2023-03-29T00:15:01,Oklahoma City Thunder,Charlotte Hornets
+2023-03-28,70592fec3120b0d74c1d2cd46aa81ffd,fanduel,player_blocks_over_under,nick richards,False,0.5,-800,2023-03-29T02:15:01,Oklahoma City Thunder,Charlotte Hornets
+2023-03-28,70592fec3120b0d74c1d2cd46aa81ffd,fanduel,player_blocks_over_under,nick richards,True,1.5,148,2023-03-29T00:15:01,Oklahoma City Thunder,Charlotte Hornets
+2023-03-28,70592fec3120b0d74c1d2cd46aa81ffd,fanduel,player_blocks_over_under,nick richards,True,0.5,450,2023-03-29T02:15:01,Oklahoma City Thunder,Charlotte Hornets
+2023-03-28,70592fec3120b0d74c1d2cd46aa81ffd,fanduel,player_assists_over_under,nick richards,False,0.5,-1200,2023-03-29T02:15:01,Oklahoma City Thunder,Charlotte Hornets
+2023-03-28,70592fec3120b0d74c1d2cd46aa81ffd,fanduel,player_assists_over_under,nick richards,True,0.5,580,2023-03-29T02:15:01,Oklahoma City Thunder,Charlotte Hornets
+2023-03-28,70592fec3120b0d74c1d2cd46aa81ffd,fanduel,player_steals_over_under,nick richards,True,0.5,1000,2023-03-29T02:00:02,Oklahoma City Thunder,Charlotte Hornets
+2023-03-28,70592fec3120b0d74c1d2cd46aa81ffd,fanduel,player_steals_over_under,nick richards,False,0.5,-10000,2023-03-29T02:15:01,Oklahoma City Thunder,Charlotte Hornets
+2023-03-31,39dee3e66ddefccd0037a482db303469,fanduel,player_rebounds_over_under,nick richards,False,7.5,-134,2023-03-31T22:56:01,Charlotte Hornets,Chicago Bulls
+2023-03-31,39dee3e66ddefccd0037a482db303469,fanduel,player_points_over_under,nick richards,True,9.5,100,2023-03-31T23:00:01,Charlotte Hornets,Chicago Bulls
+2023-03-31,39dee3e66ddefccd0037a482db303469,fanduel,player_points_over_under,nick richards,False,9.5,-122,2023-03-31T23:00:01,Charlotte Hornets,Chicago Bulls
+2023-03-31,39dee3e66ddefccd0037a482db303469,fanduel,player_rebounds_over_under,nick richards,True,6.5,-142,2023-03-31T23:06:01,Charlotte Hornets,Chicago Bulls
+2023-03-31,39dee3e66ddefccd0037a482db303469,fanduel,player_rebounds_over_under,nick richards,True,7.5,110,2023-03-31T22:56:01,Charlotte Hornets,Chicago Bulls
+2023-03-31,39dee3e66ddefccd0037a482db303469,fanduel,player_rebounds_over_under,nick richards,False,6.5,116,2023-03-31T23:06:01,Charlotte Hornets,Chicago Bulls
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,draftkings,player_rebounds_over_under,nick richards,False,9.5,-105,2023-04-04T22:40:45,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,draftkings,player_rebounds_over_under,nick richards,False,8.5,-255,2023-04-05T01:00:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,draftkings,player_rebounds_over_under,nick richards,False,9.5,-110,2023-04-05T00:36:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,draftkings,player_rebounds_over_under,nick richards,False,10.5,-180,2023-04-05T00:30:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,draftkings,player_rebounds_over_under,nick richards,False,11.5,-110,2023-04-04T23:14:32,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,draftkings,player_rebounds_over_under,nick richards,False,14.5,-125,2023-04-04T23:42:03,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,fanduel,player_steals_over_under,nick richards,True,0.5,1000,2023-04-05T00:48:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,draftkings,player_steals_over_under,nick richards,True,0.5,275,2023-04-04T22:40:45,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,draftkings,player_rebounds_over_under,nick richards,True,14.5,-105,2023-04-04T23:42:03,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,draftkings,player_steals_over_under,nick richards,True,0.5,800,2023-04-05T00:36:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,draftkings,player_steals_over_under,nick richards,False,0.5,-355,2023-04-04T22:40:45,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,draftkings,player_steals_over_under,nick richards,False,0.5,-2500,2023-04-05T00:36:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,fanduel,player_threes_over_under,nick richards,True,0.5,1000,2023-04-04T23:12:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,fanduel,player_threes_over_under,nick richards,False,0.5,-100000,2023-04-04T23:12:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,fanduel,player_steals_over_under,nick richards,False,0.5,-50000,2023-04-05T01:15:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,draftkings,player_blocks_over_under,nick richards,False,1.5,-110,2023-04-04T22:40:45,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,draftkings,player_blocks_over_under,nick richards,False,1.5,-210,2023-04-04T23:42:03,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,draftkings,player_rebounds_over_under,nick richards,True,9.5,-120,2023-04-05T00:36:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,fanduel,player_points_over_under,nick richards,False,14.5,-112,2023-04-04T23:54:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,fanduel,player_points_over_under,nick richards,False,13.5,-122,2023-04-05T00:36:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,draftkings,player_rebounds_over_under,nick richards,True,10.5,135,2023-04-05T00:30:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,fanduel,player_points_over_under,nick richards,False,11.5,-158,2023-04-05T01:00:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,fanduel,player_points_over_under,nick richards,True,18.5,-182,2023-04-05T01:15:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,fanduel,player_points_over_under,nick richards,True,15.5,-118,2023-04-04T23:42:03,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,fanduel,player_points_over_under,nick richards,True,14.5,-118,2023-04-04T23:54:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,fanduel,player_points_over_under,nick richards,True,13.5,-108,2023-04-05T00:36:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,fanduel,player_points_over_under,nick richards,True,12.5,-125,2023-04-05T00:48:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,fanduel,player_points_over_under,nick richards,True,11.5,118,2023-04-05T01:00:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,fanduel,player_points_over_under,nick richards,False,15.5,-112,2023-04-04T23:42:03,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,fanduel,player_assists_over_under,nick richards,True,0.5,580,2023-04-05T01:00:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,fanduel,player_assists_over_under,nick richards,False,0.5,-1200,2023-04-05T01:00:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,fanduel,player_assists_over_under,nick richards,False,1.5,-3000,2023-04-05T01:15:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,fanduel,player_blocks_over_under,nick richards,True,0.5,630,2023-04-05T01:15:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,fanduel,player_blocks_over_under,nick richards,True,1.5,194,2023-04-04T23:48:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,fanduel,player_blocks_over_under,nick richards,False,0.5,-1400,2023-04-05T01:15:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,fanduel,player_blocks_over_under,nick richards,False,1.5,-270,2023-04-04T23:48:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,draftkings,player_blocks_over_under,nick richards,True,0.5,390,2023-04-05T01:00:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,draftkings,player_blocks_over_under,nick richards,True,1.5,155,2023-04-04T23:42:03,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,draftkings,player_blocks_over_under,nick richards,True,1.5,-120,2023-04-04T22:40:45,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,draftkings,player_blocks_over_under,nick richards,False,0.5,-650,2023-04-05T01:00:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,fanduel,player_assists_over_under,nick richards,True,1.5,880,2023-04-05T01:15:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,fanduel,player_points_over_under,nick richards,False,18.5,136,2023-04-05T01:15:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,fanduel,player_points_over_under,nick richards,False,12.5,-106,2023-04-05T00:48:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,draftkings,player_points_over_under,nick richards,True,11.5,115,2023-04-05T01:00:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,draftkings,player_rebounds_over_under,nick richards,True,8.5,185,2023-04-05T01:00:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,draftkings,player_rebounds_over_under,nick richards,True,9.5,-125,2023-04-04T22:40:45,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,fanduel,player_rebounds_over_under,nick richards,False,14.5,-122,2023-04-04T23:42:03,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,fanduel,player_rebounds_over_under,nick richards,False,13.5,-154,2023-04-05T00:00:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,fanduel,player_rebounds_over_under,nick richards,False,12.5,-168,2023-04-05T00:06:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,fanduel,player_rebounds_over_under,nick richards,False,11.5,-108,2023-04-05T01:15:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,fanduel,player_rebounds_over_under,nick richards,False,10.5,-188,2023-04-05T00:30:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,draftkings,player_points_over_under,nick richards,True,13.5,-105,2023-04-04T22:40:45,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,fanduel,player_rebounds_over_under,nick richards,False,8.5,-270,2023-04-05T01:00:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,fanduel,player_rebounds_over_under,nick richards,True,14.5,-108,2023-04-04T23:42:03,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,fanduel,player_rebounds_over_under,nick richards,True,13.5,116,2023-04-05T00:00:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,fanduel,player_rebounds_over_under,nick richards,False,9.5,-154,2023-04-05T00:42:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,draftkings,player_points_over_under,nick richards,True,15.5,-115,2023-04-04T23:42:03,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,draftkings,player_points_over_under,nick richards,True,13.5,-110,2023-04-05T00:36:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,fanduel,player_rebounds_over_under,nick richards,True,12.5,126,2023-04-05T00:06:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,draftkings,player_points_over_under,nick richards,False,13.5,-125,2023-04-04T22:40:45,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,draftkings,player_points_over_under,nick richards,False,11.5,-150,2023-04-05T01:00:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,draftkings,player_points_over_under,nick richards,False,13.5,-120,2023-04-05T00:36:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,draftkings,player_rebounds_over_under,nick richards,True,11.5,-120,2023-04-04T23:14:32,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,fanduel,player_rebounds_over_under,nick richards,True,8.5,194,2023-04-05T01:00:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,fanduel,player_rebounds_over_under,nick richards,True,9.5,116,2023-04-05T00:42:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,fanduel,player_rebounds_over_under,nick richards,True,10.5,140,2023-04-05T00:30:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,fanduel,player_rebounds_over_under,nick richards,True,11.5,-122,2023-04-05T01:15:01,Charlotte Hornets,Toronto Raptors
+2023-04-04,b2710d5c8f1cd775383e279195fc7c3c,draftkings,player_points_over_under,nick richards,False,15.5,-115,2023-04-04T23:42:03,Charlotte Hornets,Toronto Raptors
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_threes_over_under,nick richards,False,0.5,-100000,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_threes_over_under,nick richards,True,0.5,1000,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_steals_over_under,nick richards,False,0.5,-425,2023-10-25T23:45:46,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_steals_over_under,nick richards,True,0.5,260,2023-10-25T23:45:46,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betmgm,player_steals_over_under,nick richards,False,0.5,-350,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betmgm,player_steals_over_under,nick richards,True,0.5,230,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_steals_over_under,nick richards,False,0.5,-4000,2023-10-26T01:05:18,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_steals_over_under,nick richards,True,0.5,950,2023-10-26T01:05:18,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_steals_over_under,nick richards,False,0.5,-100000,2023-10-26T01:15:30,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_rebounds_over_under,nick richards,False,7.5,-150,2023-10-25T11:10:14,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_blocks_over_under,nick richards,False,1.5,-225,2023-10-25T23:40:13,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_points_over_under,nick richards,True,4.5,130,2023-10-26T00:50:04,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_points_over_under,nick richards,True,5.5,104,2023-10-26T01:00:20,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_points_over_under,nick richards,True,6.5,-102,2023-10-26T00:05:10,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_points_over_under,nick richards,True,7.5,285,2023-10-26T01:25:13,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_points_over_under,nick richards,True,8.5,110,2023-10-25T23:40:05,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_points_over_under,nick richards,False,4.5,-166,2023-10-26T00:50:04,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_points_over_under,nick richards,False,5.5,-132,2023-10-26T01:00:20,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_points_over_under,nick richards,False,6.5,-125,2023-10-26T00:05:10,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_blocks_over_under,nick richards,False,0.5,-135,2023-10-26T00:40:39,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_points_over_under,nick richards,False,7.5,-670,2023-10-26T01:30:15,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,nick richards,True,6.5,-200,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,nick richards,True,8.5,105,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,nick richards,True,9.5,145,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,nick richards,True,10.5,210,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,nick richards,True,4.5,-105,2023-10-26T00:56:12,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,nick richards,True,5.5,-155,2023-10-26T01:00:04,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,nick richards,True,6.5,-120,2023-10-26T01:05:18,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,nick richards,True,7.5,1200,2023-10-26T01:20:27,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,nick richards,False,6.5,155,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_points_over_under,nick richards,False,8.5,-140,2023-10-25T23:40:05,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_blocks_over_under,nick richards,True,1.5,150,2023-10-25T23:40:13,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_blocks_over_under,nick richards,True,0.5,-105,2023-10-26T00:40:39,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betmgm,player_blocks_over_under,nick richards,True,1.5,125,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_steals_over_under,nick richards,True,0.5,1000,2023-10-26T01:10:14,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_assists_over_under,nick richards,True,0.5,178,2023-10-25T23:50:08,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_assists_over_under,nick richards,True,1.5,1000,2023-10-26T01:10:14,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_assists_over_under,nick richards,False,0.5,-245,2023-10-25T23:50:08,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_assists_over_under,nick richards,False,1.5,-100000,2023-10-26T01:15:30,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_assists_over_under,nick richards,True,0.5,105,2023-10-25T04:55:04,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_assists_over_under,nick richards,False,0.5,-135,2023-10-25T04:55:04,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betmgm,player_assists_over_under,nick richards,True,0.5,100,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betmgm,player_assists_over_under,nick richards,False,0.5,-135,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_assists_over_under,nick richards,True,0.5,105,2023-10-25T23:16:13,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_assists_over_under,nick richards,True,1.5,450,2023-10-25T11:10:14,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_assists_over_under,nick richards,False,0.5,-135,2023-10-25T23:16:13,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_assists_over_under,nick richards,False,1.5,-700,2023-10-25T11:10:14,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_blocks_over_under,nick richards,True,0.5,154,2023-10-26T00:50:04,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_blocks_over_under,nick richards,True,1.5,1000,2023-10-26T01:10:14,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_blocks_over_under,nick richards,False,0.5,-210,2023-10-26T00:50:04,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_blocks_over_under,nick richards,False,1.5,-100000,2023-10-26T01:25:13,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_blocks_over_under,nick richards,True,0.5,125,2023-10-26T00:50:08,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_blocks_over_under,nick richards,True,1.5,1200,2023-10-26T01:10:27,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_blocks_over_under,nick richards,False,0.5,-165,2023-10-26T00:50:08,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_blocks_over_under,nick richards,False,1.5,-10000,2023-10-26T01:10:27,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,nick richards,False,8.5,-135,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,nick richards,False,9.5,-190,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betmgm,player_blocks_over_under,nick richards,False,1.5,-160,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,nick richards,False,4.5,-130,2023-10-26T00:56:12,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,pinnacle,player_rebounds_over_under,nick richards,True,6.5,-114,2023-10-25T21:30:15,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,pinnacle,player_rebounds_over_under,nick richards,False,6.5,-115,2023-10-25T21:30:15,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_rebounds_over_under,nick richards,True,3.5,-195,2023-10-26T01:05:18,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_rebounds_over_under,nick richards,True,4.5,850,2023-10-26T01:20:27,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_rebounds_over_under,nick richards,True,5.5,105,2023-10-25T23:55:08,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_rebounds_over_under,nick richards,True,6.5,105,2023-10-25T23:45:08,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_rebounds_over_under,nick richards,True,7.5,-110,2023-10-25T23:30:05,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_rebounds_over_under,nick richards,False,3.5,145,2023-10-26T01:05:18,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_rebounds_over_under,nick richards,False,4.5,-3000,2023-10-26T01:20:27,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_rebounds_over_under,nick richards,False,6.5,-140,2023-10-25T23:45:08,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_rebounds_over_under,nick richards,False,7.5,-125,2023-10-25T23:30:05,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betmgm,player_rebounds_over_under,nick richards,True,6.5,-140,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betmgm,player_rebounds_over_under,nick richards,False,6.5,105,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_rebounds_over_under,nick richards,True,4.5,-105,2023-10-26T00:40:39,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_rebounds_over_under,nick richards,True,5.5,-110,2023-10-25T23:55:05,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_rebounds_over_under,nick richards,True,6.5,100,2023-10-25T23:50:08,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_rebounds_over_under,nick richards,True,7.5,115,2023-10-25T11:10:14,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_rebounds_over_under,nick richards,False,4.5,-135,2023-10-26T00:40:39,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_rebounds_over_under,nick richards,False,5.5,-130,2023-10-25T23:55:05,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,nick richards,False,10.5,-280,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_rebounds_over_under,nick richards,False,6.5,-140,2023-10-25T23:50:08,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_rebounds_over_under,nick richards,False,7.5,-114,2023-10-25T23:30:14,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_rebounds_over_under,nick richards,False,6.5,-144,2023-10-25T23:50:08,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_rebounds_over_under,nick richards,False,5.5,-140,2023-10-25T23:55:08,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_points_over_under,nick richards,True,6.5,125,2023-10-26T01:00:29,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,nick richards,False,6.5,-110,2023-10-26T01:05:18,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_rebounds_over_under,nick richards,False,5.5,-136,2023-10-25T23:55:05,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,nick richards,False,7.5,-10000,2023-10-26T01:20:27,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betmgm,player_points_over_under,nick richards,True,7.5,-140,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,betmgm,player_points_over_under,nick richards,False,7.5,105,2023-10-25T23:15:06,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_points_over_under,nick richards,True,5.5,-140,2023-10-26T00:40:39,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_points_over_under,nick richards,True,7.5,-105,2023-10-25T23:55:05,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_points_over_under,nick richards,True,8.5,100,2023-10-25T23:40:13,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_points_over_under,nick richards,True,9.5,145,2023-10-25T11:10:14,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_points_over_under,nick richards,False,6.5,-180,2023-10-26T01:00:29,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_points_over_under,nick richards,False,5.5,100,2023-10-26T00:40:39,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_points_over_under,nick richards,False,7.5,-135,2023-10-25T23:55:05,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_points_over_under,nick richards,False,8.5,-140,2023-10-25T23:40:13,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,barstool,player_points_over_under,nick richards,False,9.5,-190,2023-10-25T11:10:14,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_rebounds_over_under,nick richards,True,3.5,-205,2023-10-26T01:05:04,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_rebounds_over_under,nick richards,True,4.5,1000,2023-10-26T01:25:13,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_rebounds_over_under,nick richards,True,5.5,102,2023-10-25T23:55:05,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_rebounds_over_under,nick richards,True,6.5,108,2023-10-25T23:50:08,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_rebounds_over_under,nick richards,True,7.5,-114,2023-10-25T23:30:14,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_rebounds_over_under,nick richards,False,3.5,152,2023-10-26T01:05:04,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,fanduel,player_rebounds_over_under,nick richards,False,4.5,-50000,2023-10-26T01:30:15,Charlotte Hornets,Atlanta Hawks
+2023-10-25,4eec3d2ccf41b67f09948cb36fceee16,draftkings,player_points_over_under,nick richards,False,5.5,115,2023-10-26T01:00:04,Charlotte Hornets,Atlanta Hawks
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_points_over_under,nick richards,False,2.5,-174,2023-10-28T00:40:34,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_points_over_under,nick richards,False,5.5,-142,2023-10-27T23:40:04,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_points_over_under,nick richards,False,4.5,-125,2023-10-27T23:45:17,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_points_over_under,nick richards,False,3.5,-154,2023-10-28T00:05:10,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_points_over_under,nick richards,False,6.5,-128,2023-10-27T23:25:10,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,nick richards,False,6.5,115,2023-10-27T20:00:04,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_points_over_under,nick richards,False,0.5,-100000,2023-10-28T01:35:06,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_points_over_under,nick richards,True,7.5,-102,2023-10-27T23:00:15,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_points_over_under,nick richards,False,7.5,-120,2023-10-27T23:00:15,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_points_over_under,nick richards,True,6.5,100,2023-10-27T23:25:10,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_points_over_under,nick richards,False,1.5,-194,2023-10-28T01:01:29,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,nick richards,True,6.5,-145,2023-10-27T20:00:04,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,nick richards,True,6.5,100,2023-10-27T23:35:17,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,nick richards,True,9.5,205,2023-10-27T20:00:04,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,nick richards,True,10.5,290,2023-10-27T20:00:04,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,nick richards,True,0.5,240,2023-10-28T01:21:17,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,nick richards,True,1.5,-145,2023-10-28T01:05:06,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,nick richards,True,2.5,130,2023-10-28T00:35:21,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,nick richards,True,3.5,-105,2023-10-27T23:52:31,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,nick richards,True,4.5,110,2023-10-28T00:30:05,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,nick richards,True,5.5,100,2023-10-28T00:30:05,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,nick richards,True,7.5,-105,2023-10-27T23:25:23,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_points_over_under,nick richards,True,5.5,112,2023-10-27T23:40:04,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,nick richards,True,8.5,145,2023-10-27T20:00:04,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_points_over_under,nick richards,True,4.5,-102,2023-10-27T23:45:17,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,betmgm,player_assists_over_under,nick richards,False,0.5,-155,2023-10-27T17:15:04,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_points_over_under,nick richards,True,2.5,136,2023-10-28T00:40:34,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,nick richards,False,8.5,-185,2023-10-27T20:00:04,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_assists_over_under,nick richards,False,0.5,-100000,2023-10-28T01:25:23,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,betmgm,player_assists_over_under,nick richards,True,0.5,115,2023-10-27T17:15:04,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_assists_over_under,nick richards,True,0.5,115,2023-10-27T23:05:19,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_assists_over_under,nick richards,False,0.5,-150,2023-10-27T23:05:19,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_blocks_over_under,nick richards,True,0.5,410,2023-10-28T01:16:02,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_blocks_over_under,nick richards,True,1.5,168,2023-10-27T23:25:10,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_blocks_over_under,nick richards,True,2.5,1000,2023-10-28T01:25:23,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_blocks_over_under,nick richards,False,0.5,-700,2023-10-28T01:16:02,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_blocks_over_under,nick richards,False,1.5,-230,2023-10-27T23:25:10,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_blocks_over_under,nick richards,False,2.5,-100000,2023-10-28T01:25:23,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_blocks_over_under,nick richards,True,0.5,400,2023-10-28T01:15:46,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_blocks_over_under,nick richards,True,1.5,150,2023-10-27T23:25:23,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_blocks_over_under,nick richards,True,2.5,550,2023-10-28T01:21:17,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_blocks_over_under,nick richards,False,0.5,-700,2023-10-28T01:15:46,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_blocks_over_under,nick richards,False,1.5,-205,2023-10-27T23:25:23,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_blocks_over_under,nick richards,False,2.5,-1100,2023-10-28T01:21:17,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,betmgm,player_blocks_over_under,nick richards,True,1.5,145,2023-10-27T17:15:04,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,betmgm,player_blocks_over_under,nick richards,False,1.5,-200,2023-10-27T17:15:04,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_blocks_over_under,nick richards,True,1.5,140,2023-10-27T23:05:19,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_blocks_over_under,nick richards,False,1.5,-195,2023-10-27T23:05:19,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_points_over_under,nick richards,True,0.5,285,2023-10-28T01:30:55,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_points_over_under,nick richards,True,1.5,150,2023-10-28T01:01:29,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_points_over_under,nick richards,True,3.5,120,2023-10-28T00:05:10,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,nick richards,False,9.5,-270,2023-10-27T20:00:04,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_steals_over_under,nick richards,False,0.5,-2000,2023-10-28T01:05:06,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,nick richards,False,0.5,-350,2023-10-28T01:21:17,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_rebounds_over_under,nick richards,True,3.5,100,2023-10-28T00:26:03,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_rebounds_over_under,nick richards,True,4.5,115,2023-10-28T00:35:21,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_rebounds_over_under,nick richards,True,5.5,-105,2023-10-27T23:45:15,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_rebounds_over_under,nick richards,False,1.5,-125,2023-10-28T01:15:46,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_rebounds_over_under,nick richards,False,2.5,-230,2023-10-28T01:21:17,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_rebounds_over_under,nick richards,False,3.5,-130,2023-10-28T00:26:03,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_rebounds_over_under,nick richards,False,4.5,-150,2023-10-28T00:35:21,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_rebounds_over_under,nick richards,False,5.5,-125,2023-10-27T23:45:15,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,betmgm,player_rebounds_over_under,nick richards,True,5.5,-130,2023-10-27T17:15:04,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,betmgm,player_rebounds_over_under,nick richards,False,5.5,-105,2023-10-27T17:15:04,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_rebounds_over_under,nick richards,True,5.5,-130,2023-10-27T23:05:19,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_rebounds_over_under,nick richards,False,5.5,100,2023-10-27T23:05:19,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_steals_over_under,nick richards,True,0.5,680,2023-10-28T01:01:29,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_steals_over_under,nick richards,True,1.5,1000,2023-10-28T01:16:02,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_steals_over_under,nick richards,False,0.5,-1600,2023-10-28T01:01:29,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_steals_over_under,nick richards,False,1.5,-100000,2023-10-28T01:25:23,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_steals_over_under,nick richards,True,0.5,750,2023-10-28T01:05:06,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_steals_over_under,nick richards,True,1.5,1100,2023-10-28T01:15:46,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_steals_over_under,nick richards,False,1.5,-8000,2023-10-28T01:15:46,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,betmgm,player_steals_over_under,nick richards,True,0.5,220,2023-10-27T17:31:32,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,betmgm,player_steals_over_under,nick richards,False,0.5,-300,2023-10-27T17:15:04,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_steals_over_under,nick richards,True,0.5,220,2023-10-27T23:05:19,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_steals_over_under,nick richards,False,0.5,-325,2023-10-27T23:05:19,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_rebounds_over_under,nick richards,True,2.5,170,2023-10-28T01:21:17,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,nick richards,False,10.5,-400,2023-10-27T20:00:04,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_rebounds_over_under,nick richards,True,1.5,-105,2023-10-28T01:15:46,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,pinnacle,player_rebounds_over_under,nick richards,True,5.5,-130,2023-10-27T17:15:10,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,nick richards,False,1.5,110,2023-10-28T01:05:06,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,nick richards,False,2.5,-175,2023-10-28T00:35:21,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,nick richards,False,3.5,-125,2023-10-27T23:52:31,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,nick richards,False,4.5,-145,2023-10-28T00:30:05,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,nick richards,False,5.5,-135,2023-10-28T00:30:05,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,nick richards,False,6.5,-135,2023-10-27T23:35:17,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,draftkings,player_points_over_under,nick richards,False,7.5,-130,2023-10-27T23:25:23,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,betmgm,player_points_over_under,nick richards,True,7.5,-105,2023-10-27T17:31:32,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,betmgm,player_points_over_under,nick richards,False,7.5,-130,2023-10-27T17:15:04,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_points_over_under,nick richards,True,6.5,-130,2023-10-27T23:05:19,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_points_over_under,nick richards,True,7.5,100,2023-10-27T20:00:19,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_points_over_under,nick richards,False,6.5,100,2023-10-27T23:05:19,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,barstool,player_points_over_under,nick richards,False,7.5,-130,2023-10-27T20:00:19,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_rebounds_over_under,nick richards,True,1.5,-102,2023-10-28T01:16:02,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_rebounds_over_under,nick richards,True,2.5,1000,2023-10-28T01:25:23,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_rebounds_over_under,nick richards,True,3.5,-146,2023-10-28T00:30:11,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_rebounds_over_under,nick richards,True,4.5,118,2023-10-28T00:35:06,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_rebounds_over_under,nick richards,True,5.5,-102,2023-10-27T23:45:17,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_rebounds_over_under,nick richards,False,1.5,-130,2023-10-28T01:16:02,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_rebounds_over_under,nick richards,False,2.5,-100000,2023-10-28T01:30:55,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_rebounds_over_under,nick richards,False,3.5,110,2023-10-28T00:30:11,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_rebounds_over_under,nick richards,False,4.5,-158,2023-10-28T00:35:06,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_rebounds_over_under,nick richards,False,5.5,-130,2023-10-27T23:45:17,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,pinnacle,player_rebounds_over_under,nick richards,False,5.5,-102,2023-10-27T17:15:10,Charlotte Hornets,Detroit Pistons
+2023-10-27,c8872ae6d185dc314178da88dcf254d5,fanduel,player_assists_over_under,nick richards,True,0.5,1000,2023-10-28T01:25:23,Charlotte Hornets,Detroit Pistons

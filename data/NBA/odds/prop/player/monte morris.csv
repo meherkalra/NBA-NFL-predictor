@@ -1,0 +1,180 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_threes_over_under,monte morris,False,2.5,-1200,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,monte morris,True,14.5,148,2023-03-22T01:00:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,monte morris,True,12.5,-172,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,monte morris,True,11.5,-118,2023-03-21T23:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,monte morris,True,9.5,-124,2023-03-21T23:00:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_blocks_over_under,monte morris,False,0.5,-100000,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_blocks_over_under,monte morris,True,0.5,1000,2023-03-22T00:30:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_assists_over_under,monte morris,False,8.5,-215,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,monte morris,True,15.5,104,2023-03-22T00:30:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_assists_over_under,monte morris,False,7.5,182,2023-03-22T01:00:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_assists_over_under,monte morris,False,5.5,100,2023-03-21T23:30:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_assists_over_under,monte morris,False,4.5,106,2023-03-21T22:30:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_assists_over_under,monte morris,True,8.5,158,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_assists_over_under,monte morris,True,6.5,-110,2023-03-22T00:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_assists_over_under,monte morris,True,5.5,-132,2023-03-21T23:30:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_threes_over_under,monte morris,False,1.5,188,2023-03-21T23:30:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_assists_over_under,monte morris,True,4.5,-130,2023-03-21T22:30:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_assists_over_under,monte morris,False,6.5,-120,2023-03-22T00:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,monte morris,True,17.5,122,2023-03-22T00:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_assists_over_under,monte morris,True,7.5,-250,2023-03-22T01:00:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,monte morris,False,11.5,-112,2023-03-21T23:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_threes_over_under,monte morris,True,1.5,-260,2023-03-21T23:30:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,monte morris,False,9.5,102,2023-03-21T23:00:02,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_threes_over_under,monte morris,True,2.5,580,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_steals_over_under,monte morris,False,0.5,-4000,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_steals_over_under,monte morris,True,1.5,178,2023-03-22T00:00:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_steals_over_under,monte morris,True,0.5,1000,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_rebounds_over_under,monte morris,False,4.5,-118,2023-03-21T23:45:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_rebounds_over_under,monte morris,False,3.5,-220,2023-03-22T00:30:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_steals_over_under,monte morris,False,1.5,-245,2023-03-22T00:00:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_rebounds_over_under,monte morris,True,4.5,-112,2023-03-21T23:45:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_rebounds_over_under,monte morris,True,3.5,162,2023-03-22T00:30:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_rebounds_over_under,monte morris,True,2.5,230,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,monte morris,False,17.5,-162,2023-03-22T00:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,monte morris,False,12.5,128,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,monte morris,False,15.5,-138,2023-03-22T00:30:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_rebounds_over_under,monte morris,False,2.5,-330,2023-03-22T01:15:01,Orlando Magic,Washington Wizards
+2023-03-21,fce3d8cfb8983384b8afb68d2432b814,fanduel,player_points_over_under,monte morris,False,14.5,-200,2023-03-22T01:00:02,Orlando Magic,Washington Wizards
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,monte morris,False,8.5,-112,2023-03-23T00:00:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,monte morris,False,9.5,-110,2023-03-23T00:15:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,monte morris,False,10.5,-122,2023-03-22T23:30:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,monte morris,False,11.5,-105,2023-03-22T20:00:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_rebounds_over_under,monte morris,True,2.5,-112,2023-03-23T00:15:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_rebounds_over_under,monte morris,True,1.5,-108,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_rebounds_over_under,monte morris,True,3.5,116,2023-03-22T23:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_rebounds_over_under,monte morris,False,1.5,-122,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_rebounds_over_under,monte morris,False,2.5,-118,2023-03-23T00:15:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,monte morris,False,7.5,-180,2023-03-23T00:30:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_rebounds_over_under,monte morris,False,3.5,-142,2023-03-22T23:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,monte morris,False,12.5,-124,2023-03-22T23:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,monte morris,False,6.5,-174,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,monte morris,True,6.5,130,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,monte morris,True,12.5,102,2023-03-22T23:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,monte morris,True,11.5,-115,2023-03-22T20:00:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,monte morris,True,10.5,-106,2023-03-22T23:15:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,monte morris,True,9.5,-120,2023-03-23T00:15:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,monte morris,True,8.5,-118,2023-03-23T00:00:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,monte morris,True,7.5,134,2023-03-23T00:30:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,monte morris,True,5.5,-120,2023-03-23T00:45:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_blocks_over_under,monte morris,False,0.5,-50000,2023-03-23T00:45:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_blocks_over_under,monte morris,True,0.5,1000,2023-03-23T00:15:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_assists_over_under,monte morris,False,6.5,-230,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_assists_over_under,monte morris,False,5.5,-110,2023-03-23T00:30:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_assists_over_under,monte morris,False,4.5,134,2023-03-23T00:45:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_assists_over_under,monte morris,True,6.5,168,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_steals_over_under,monte morris,True,0.5,140,2023-03-22T23:45:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_points_over_under,monte morris,False,5.5,-110,2023-03-23T00:45:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_steals_over_under,monte morris,True,1.5,550,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_assists_over_under,monte morris,True,4.5,-180,2023-03-23T00:45:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_steals_over_under,monte morris,False,1.5,-1100,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_steals_over_under,monte morris,False,0.5,-188,2023-03-22T23:45:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_threes_over_under,monte morris,False,1.5,-225,2023-03-22T23:15:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_assists_over_under,monte morris,True,5.5,-120,2023-03-23T00:30:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_threes_over_under,monte morris,True,1.5,164,2023-03-22T23:15:01,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_threes_over_under,monte morris,True,0.5,280,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-22,72df6a2aecb8724db6d2d17116e5d4c3,fanduel,player_threes_over_under,monte morris,False,0.5,-420,2023-03-23T01:00:02,Washington Wizards,Denver Nuggets
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_assists_over_under,monte morris,True,4.5,-112,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_assists_over_under,monte morris,True,5.5,132,2023-03-25T00:45:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_assists_over_under,monte morris,True,6.5,116,2023-03-24T23:45:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_assists_over_under,monte morris,False,4.5,-118,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_assists_over_under,monte morris,False,5.5,-178,2023-03-25T00:45:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_assists_over_under,monte morris,False,6.5,-154,2023-03-24T23:45:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_blocks_over_under,monte morris,True,0.5,1000,2023-03-25T00:15:02,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_blocks_over_under,monte morris,False,0.5,-4000,2023-03-25T00:15:02,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_blocks_over_under,monte morris,False,1.5,-100000,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,monte morris,True,11.5,154,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,monte morris,True,12.5,104,2023-03-25T00:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,monte morris,False,11.5,-210,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,monte morris,False,12.5,-138,2023-03-25T00:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_rebounds_over_under,monte morris,True,2.5,188,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_rebounds_over_under,monte morris,True,3.5,-118,2023-03-25T00:15:02,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_rebounds_over_under,monte morris,False,2.5,-260,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_rebounds_over_under,monte morris,False,3.5,-112,2023-03-25T00:15:02,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_steals_over_under,monte morris,True,0.5,800,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_steals_over_under,monte morris,False,0.5,-2200,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_threes_over_under,monte morris,True,0.5,550,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_threes_over_under,monte morris,True,1.5,188,2023-03-24T23:15:02,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_threes_over_under,monte morris,False,0.5,-1100,2023-03-25T01:00:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_threes_over_under,monte morris,False,1.5,-260,2023-03-24T23:15:02,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,monte morris,True,13.5,-112,2023-03-25T00:30:01,Washington Wizards,San Antonio Spurs
+2023-03-24,8a8b4867dfce8407103697bd086cfc06,fanduel,player_points_over_under,monte morris,False,13.5,-118,2023-03-25T00:30:01,Washington Wizards,San Antonio Spurs
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_assists_over_under,monte morris,True,4.5,-138,2023-03-28T23:15:02,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_points_over_under,monte morris,True,19.5,120,2023-03-29T00:30:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_points_over_under,monte morris,False,11.5,-114,2023-03-28T23:45:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_points_over_under,monte morris,False,12.5,-154,2023-03-28T23:30:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_points_over_under,monte morris,False,17.5,-108,2023-03-29T00:15:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_points_over_under,monte morris,False,18.5,-240,2023-03-29T01:00:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_points_over_under,monte morris,False,19.5,-160,2023-03-29T00:30:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_rebounds_over_under,monte morris,True,2.5,118,2023-03-29T00:15:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_threes_over_under,monte morris,False,1.5,-1200,2023-03-29T00:45:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_rebounds_over_under,monte morris,True,3.5,198,2023-03-29T01:00:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_rebounds_over_under,monte morris,False,3.5,-275,2023-03-29T01:00:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_steals_over_under,monte morris,True,0.5,162,2023-03-28T23:45:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_steals_over_under,monte morris,True,1.5,920,2023-03-29T00:45:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_steals_over_under,monte morris,False,0.5,-220,2023-03-28T23:45:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_steals_over_under,monte morris,False,1.5,-3500,2023-03-29T00:45:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_threes_over_under,monte morris,True,0.5,-146,2023-03-28T23:45:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_rebounds_over_under,monte morris,False,2.5,-158,2023-03-29T00:15:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_threes_over_under,monte morris,True,1.5,580,2023-03-29T00:45:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_points_over_under,monte morris,True,18.5,174,2023-03-29T01:00:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_points_over_under,monte morris,True,12.5,116,2023-03-28T23:30:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_assists_over_under,monte morris,True,6.5,-180,2023-03-28T23:45:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_assists_over_under,monte morris,True,7.5,-158,2023-03-29T00:15:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_assists_over_under,monte morris,True,8.5,146,2023-03-29T00:00:02,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_assists_over_under,monte morris,True,9.5,142,2023-03-29T00:45:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_assists_over_under,monte morris,False,4.5,104,2023-03-28T23:15:02,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_assists_over_under,monte morris,False,6.5,132,2023-03-28T23:45:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_points_over_under,monte morris,True,17.5,-122,2023-03-29T00:15:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_assists_over_under,monte morris,False,7.5,118,2023-03-29T00:15:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_assists_over_under,monte morris,False,9.5,-192,2023-03-29T00:45:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_blocks_over_under,monte morris,True,1.5,920,2023-03-29T00:15:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_blocks_over_under,monte morris,True,2.5,1000,2023-03-29T00:30:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_blocks_over_under,monte morris,False,1.5,-3500,2023-03-29T00:15:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_blocks_over_under,monte morris,False,2.5,-50000,2023-03-29T00:45:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_points_over_under,monte morris,True,11.5,-114,2023-03-28T23:45:01,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_assists_over_under,monte morris,False,8.5,-198,2023-03-29T00:00:02,Washington Wizards,Boston Celtics
+2023-03-28,86f2700611aa8e73aaf7728f30b51fb4,fanduel,player_threes_over_under,monte morris,False,0.5,110,2023-03-28T23:45:01,Washington Wizards,Boston Celtics
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_threes_over_under,monte morris,False,2.5,-270,2023-03-31T23:22:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_assists_over_under,monte morris,True,4.5,-146,2023-03-31T23:50:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_threes_over_under,monte morris,False,1.5,-50000,2023-04-01T01:10:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_assists_over_under,monte morris,True,5.5,1000,2023-04-01T01:12:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_assists_over_under,monte morris,True,7.5,140,2023-04-01T00:22:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,monte morris,False,11.5,-148,2023-04-01T00:00:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,monte morris,False,12.5,-112,2023-03-31T23:50:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,monte morris,False,13.5,-144,2023-03-31T23:36:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,monte morris,False,14.5,-128,2023-03-31T23:20:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_rebounds_over_under,monte morris,True,4.5,108,2023-04-01T00:22:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_rebounds_over_under,monte morris,True,5.5,146,2023-04-01T00:00:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_rebounds_over_under,monte morris,False,3.5,-7000,2023-04-01T01:12:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_rebounds_over_under,monte morris,False,4.5,-144,2023-04-01T00:22:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_rebounds_over_under,monte morris,False,5.5,-198,2023-04-01T00:00:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_steals_over_under,monte morris,True,0.5,-125,2023-03-31T23:12:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_steals_over_under,monte morris,True,1.5,1000,2023-04-01T00:54:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_steals_over_under,monte morris,False,0.5,-106,2023-03-31T23:12:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_steals_over_under,monte morris,False,1.5,-100000,2023-04-01T01:04:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_threes_over_under,monte morris,True,1.5,1000,2023-04-01T00:56:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_threes_over_under,monte morris,True,2.5,194,2023-03-31T23:22:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,monte morris,False,10.5,-166,2023-04-01T00:06:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,monte morris,False,9.5,-160,2023-04-01T00:20:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,monte morris,False,8.5,110,2023-04-01T00:22:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,monte morris,False,6.5,100,2023-04-01T00:52:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_assists_over_under,monte morris,False,4.5,110,2023-03-31T23:50:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_assists_over_under,monte morris,False,5.5,-4000,2023-04-01T01:12:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_assists_over_under,monte morris,False,6.5,-215,2023-04-01T00:52:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_assists_over_under,monte morris,False,7.5,-188,2023-04-01T00:22:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_blocks_over_under,monte morris,True,0.5,1000,2023-04-01T00:52:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_blocks_over_under,monte morris,False,0.5,-100000,2023-04-01T00:54:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,monte morris,True,4.5,550,2023-04-01T01:12:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_assists_over_under,monte morris,True,6.5,158,2023-04-01T00:52:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,monte morris,True,6.5,-132,2023-04-01T00:52:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,monte morris,True,9.5,120,2023-04-01T00:20:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,monte morris,True,10.5,124,2023-04-01T00:06:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,monte morris,True,11.5,112,2023-04-01T00:00:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,monte morris,True,12.5,-118,2023-03-31T23:50:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,monte morris,True,13.5,108,2023-03-31T23:36:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,monte morris,True,14.5,-104,2023-03-31T23:20:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,monte morris,False,4.5,-1100,2023-04-01T01:12:02,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_points_over_under,monte morris,True,8.5,-146,2023-04-01T00:22:01,Washington Wizards,Orlando Magic
+2023-03-31,e5e549c2915bd7542fbc8445764976e1,fanduel,player_rebounds_over_under,monte morris,True,3.5,1000,2023-04-01T01:10:02,Washington Wizards,Orlando Magic

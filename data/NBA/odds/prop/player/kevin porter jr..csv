@@ -1,0 +1,581 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_rebounds_over_under,kevin porter jr.,False,5.5,-330,2023-03-21T02:15:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_points_over_under,kevin porter jr.,False,12.5,102,2023-03-21T01:15:02,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_points_over_under,kevin porter jr.,True,20.5,100,2023-03-20T21:30:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_points_over_under,kevin porter jr.,True,19.5,-108,2023-03-21T00:00:02,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_points_over_under,kevin porter jr.,True,18.5,102,2023-03-21T00:15:02,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_points_over_under,kevin porter jr.,True,17.5,-122,2023-03-21T00:30:02,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_points_over_under,kevin porter jr.,True,16.5,100,2023-03-21T01:45:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_points_over_under,kevin porter jr.,True,14.5,-220,2023-03-21T02:15:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_points_over_under,kevin porter jr.,True,13.5,-130,2023-03-21T02:00:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_points_over_under,kevin porter jr.,True,12.5,-136,2023-03-21T01:15:02,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_points_over_under,kevin porter jr.,False,13.5,-102,2023-03-21T02:00:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_rebounds_over_under,kevin porter jr.,False,6.5,-192,2023-03-21T01:15:02,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_blocks_over_under,kevin porter jr.,True,0.5,1000,2023-03-21T02:00:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_assists_over_under,kevin porter jr.,False,8.5,-122,2023-03-21T00:15:02,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_assists_over_under,kevin porter jr.,False,7.5,100,2023-03-21T00:45:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_assists_over_under,kevin porter jr.,True,4.5,-210,2023-03-21T02:00:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_assists_over_under,kevin porter jr.,True,5.5,198,2023-03-21T02:15:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_assists_over_under,kevin porter jr.,True,6.5,-106,2023-03-21T01:15:02,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_assists_over_under,kevin porter jr.,True,7.5,-132,2023-03-21T00:45:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_assists_over_under,kevin porter jr.,True,8.5,-108,2023-03-21T00:15:02,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_assists_over_under,kevin porter jr.,False,4.5,154,2023-03-21T02:00:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_blocks_over_under,kevin porter jr.,False,0.5,-50000,2023-03-21T02:15:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_assists_over_under,kevin porter jr.,False,5.5,-275,2023-03-21T02:15:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_points_over_under,kevin porter jr.,False,14.5,162,2023-03-21T02:15:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_points_over_under,kevin porter jr.,False,17.5,-108,2023-03-21T00:30:02,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_rebounds_over_under,kevin porter jr.,False,7.5,-166,2023-03-21T00:45:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_steals_over_under,kevin porter jr.,True,1.5,104,2023-03-21T01:30:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_steals_over_under,kevin porter jr.,True,2.5,370,2023-03-21T02:00:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_steals_over_under,kevin porter jr.,True,3.5,880,2023-03-21T02:15:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_steals_over_under,kevin porter jr.,False,1.5,-138,2023-03-21T01:30:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_steals_over_under,kevin porter jr.,False,2.5,-600,2023-03-21T02:00:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_steals_over_under,kevin porter jr.,False,3.5,-3000,2023-03-21T02:15:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_threes_over_under,kevin porter jr.,True,2.5,220,2023-03-21T02:00:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_threes_over_under,kevin porter jr.,True,3.5,580,2023-03-21T02:15:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_threes_over_under,kevin porter jr.,False,2.5,-310,2023-03-21T02:00:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_points_over_under,kevin porter jr.,False,16.5,-132,2023-03-21T01:45:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_threes_over_under,kevin porter jr.,False,3.5,-1200,2023-03-21T02:15:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_rebounds_over_under,kevin porter jr.,False,4.5,-106,2023-03-21T01:45:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_rebounds_over_under,kevin porter jr.,False,3.5,126,2023-03-21T02:00:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_rebounds_over_under,kevin porter jr.,True,7.5,124,2023-03-21T00:45:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_rebounds_over_under,kevin porter jr.,True,6.5,142,2023-03-21T01:15:02,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_rebounds_over_under,kevin porter jr.,True,5.5,230,2023-03-21T02:15:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_rebounds_over_under,kevin porter jr.,True,4.5,-125,2023-03-21T01:45:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_rebounds_over_under,kevin porter jr.,True,3.5,-168,2023-03-21T02:00:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_points_over_under,kevin porter jr.,False,20.5,-122,2023-03-20T21:30:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_points_over_under,kevin porter jr.,False,19.5,-112,2023-03-21T00:00:02,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_points_over_under,kevin porter jr.,False,18.5,-136,2023-03-21T00:15:02,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_assists_over_under,kevin porter jr.,False,6.5,-125,2023-03-21T01:15:02,Houston Rockets,Golden State Warriors
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_assists_over_under,kevin porter jr.,True,7.5,-160,2023-03-23T01:15:02,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_assists_over_under,kevin porter jr.,True,6.5,112,2023-03-23T00:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_threes_over_under,kevin porter jr.,True,2.5,205,2023-03-23T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_points_over_under,kevin porter jr.,False,14.5,-118,2023-03-23T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_points_over_under,kevin porter jr.,False,15.5,130,2023-03-23T01:45:02,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_points_over_under,kevin porter jr.,False,16.5,102,2023-03-23T00:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_points_over_under,kevin porter jr.,False,18.5,-115,2023-03-23T00:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_rebounds_over_under,kevin porter jr.,True,5.5,-105,2023-03-23T00:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_rebounds_over_under,kevin porter jr.,True,6.5,-132,2023-03-23T00:45:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_rebounds_over_under,kevin porter jr.,True,8.5,-162,2023-03-23T01:00:02,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_steals_over_under,kevin porter jr.,True,0.5,108,2023-03-23T01:15:02,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_rebounds_over_under,kevin porter jr.,True,9.5,-110,2023-03-23T01:15:02,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_rebounds_over_under,kevin porter jr.,True,10.5,-144,2023-03-23T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_rebounds_over_under,kevin porter jr.,True,11.5,164,2023-03-23T01:45:02,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_rebounds_over_under,kevin porter jr.,False,5.5,-115,2023-03-23T00:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_rebounds_over_under,kevin porter jr.,False,6.5,100,2023-03-23T00:45:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_rebounds_over_under,kevin porter jr.,False,8.5,122,2023-03-23T01:00:02,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_rebounds_over_under,kevin porter jr.,False,9.5,-120,2023-03-23T01:15:02,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_rebounds_over_under,kevin porter jr.,False,10.5,108,2023-03-23T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_rebounds_over_under,kevin porter jr.,False,11.5,-225,2023-03-23T01:45:02,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_points_over_under,kevin porter jr.,False,13.5,-112,2023-03-23T01:15:02,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_threes_over_under,kevin porter jr.,False,2.5,-290,2023-03-23T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_points_over_under,kevin porter jr.,True,18.5,-105,2023-03-23T00:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_points_over_under,kevin porter jr.,True,15.5,-174,2023-03-23T01:45:02,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_steals_over_under,kevin porter jr.,False,1.5,-700,2023-03-23T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_steals_over_under,kevin porter jr.,False,0.5,-144,2023-03-23T01:15:02,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_assists_over_under,kevin porter jr.,True,8.5,112,2023-03-23T01:00:02,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_assists_over_under,kevin porter jr.,True,9.5,-180,2023-03-23T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_assists_over_under,kevin porter jr.,True,10.5,126,2023-03-23T01:45:02,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_assists_over_under,kevin porter jr.,True,11.5,132,2023-03-23T01:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_assists_over_under,kevin porter jr.,False,6.5,-138,2023-03-23T00:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_assists_over_under,kevin porter jr.,False,7.5,120,2023-03-23T01:15:02,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_assists_over_under,kevin porter jr.,False,8.5,-148,2023-03-23T01:00:02,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_assists_over_under,kevin porter jr.,False,9.5,134,2023-03-23T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_assists_over_under,kevin porter jr.,False,10.5,-168,2023-03-23T01:45:02,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_assists_over_under,kevin porter jr.,False,11.5,-178,2023-03-23T01:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_blocks_over_under,kevin porter jr.,True,0.5,1000,2023-03-23T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_steals_over_under,kevin porter jr.,True,1.5,410,2023-03-23T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_blocks_over_under,kevin porter jr.,False,0.5,-5000,2023-03-23T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_points_over_under,kevin porter jr.,True,13.5,-118,2023-03-23T01:15:02,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_points_over_under,kevin porter jr.,True,14.5,-112,2023-03-23T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_points_over_under,kevin porter jr.,True,16.5,-136,2023-03-23T00:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_assists_over_under,kevin porter jr.,True,5.5,-142,2023-03-25T00:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_assists_over_under,kevin porter jr.,False,5.5,116,2023-03-25T00:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_assists_over_under,kevin porter jr.,True,7.5,750,2023-03-25T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_rebounds_over_under,kevin porter jr.,True,6.5,800,2023-03-25T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_rebounds_over_under,kevin porter jr.,False,4.5,-148,2023-03-25T00:45:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_rebounds_over_under,kevin porter jr.,False,5.5,-230,2023-03-25T01:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_rebounds_over_under,kevin porter jr.,False,6.5,-2200,2023-03-25T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_steals_over_under,kevin porter jr.,True,1.5,194,2023-03-25T01:15:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_steals_over_under,kevin porter jr.,True,2.5,1000,2023-03-25T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_steals_over_under,kevin porter jr.,False,0.5,136,2023-03-25T00:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_steals_over_under,kevin porter jr.,False,1.5,-270,2023-03-25T01:15:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_steals_over_under,kevin porter jr.,False,2.5,-50000,2023-03-25T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_threes_over_under,kevin porter jr.,True,0.5,124,2023-03-25T01:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_threes_over_under,kevin porter jr.,True,1.5,1000,2023-03-25T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_threes_over_under,kevin porter jr.,True,2.5,154,2023-03-25T00:15:02,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_threes_over_under,kevin porter jr.,False,0.5,-166,2023-03-25T01:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_threes_over_under,kevin porter jr.,False,1.5,-7000,2023-03-25T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_threes_over_under,kevin porter jr.,False,2.5,-210,2023-03-25T00:15:02,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_rebounds_over_under,kevin porter jr.,True,5.5,168,2023-03-25T01:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_assists_over_under,kevin porter jr.,True,6.5,114,2023-03-25T01:45:02,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_rebounds_over_under,kevin porter jr.,True,4.5,112,2023-03-25T00:45:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_points_over_under,kevin porter jr.,False,20.5,-420,2023-03-25T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_assists_over_under,kevin porter jr.,False,6.5,-152,2023-03-25T01:45:02,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_assists_over_under,kevin porter jr.,False,7.5,-2000,2023-03-25T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_blocks_over_under,kevin porter jr.,True,0.5,1000,2023-03-25T01:45:02,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_blocks_over_under,kevin porter jr.,False,0.5,-100000,2023-03-25T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_points_over_under,kevin porter jr.,True,14.5,104,2023-03-25T01:15:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_points_over_under,kevin porter jr.,True,15.5,-114,2023-03-25T00:15:02,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_points_over_under,kevin porter jr.,True,16.5,-130,2023-03-25T01:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_points_over_under,kevin porter jr.,True,17.5,100,2023-03-25T00:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_points_over_under,kevin porter jr.,True,18.5,-144,2023-03-25T01:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_points_over_under,kevin porter jr.,True,21.5,108,2023-03-25T01:45:02,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_points_over_under,kevin porter jr.,False,14.5,-138,2023-03-25T01:15:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_points_over_under,kevin porter jr.,False,15.5,-114,2023-03-25T00:15:02,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_points_over_under,kevin porter jr.,False,16.5,-102,2023-03-25T01:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_points_over_under,kevin porter jr.,False,17.5,-122,2023-03-25T00:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_points_over_under,kevin porter jr.,False,18.5,108,2023-03-25T01:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_points_over_under,kevin porter jr.,False,21.5,-144,2023-03-25T01:45:02,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_steals_over_under,kevin porter jr.,True,0.5,-182,2023-03-25T00:30:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_points_over_under,kevin porter jr.,True,20.5,280,2023-03-25T02:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_rebounds_over_under,kevin porter jr.,False,2.5,-152,2023-03-26T23:30:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_blocks_over_under,kevin porter jr.,True,0.5,1000,2023-03-27T00:00:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_assists_over_under,kevin porter jr.,False,5.5,-250,2023-03-27T00:00:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_assists_over_under,kevin porter jr.,False,4.5,-420,2023-03-27T00:15:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_assists_over_under,kevin porter jr.,False,3.5,100,2023-03-26T23:30:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_assists_over_under,kevin porter jr.,True,5.5,182,2023-03-27T00:00:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_assists_over_under,kevin porter jr.,True,4.5,280,2023-03-27T00:15:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_assists_over_under,kevin porter jr.,True,3.5,-132,2023-03-26T23:30:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_threes_over_under,kevin porter jr.,False,2.5,-184,2023-03-26T22:00:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_threes_over_under,kevin porter jr.,False,1.5,-245,2023-03-26T23:00:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_threes_over_under,kevin porter jr.,False,0.5,-2000,2023-03-27T00:15:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_threes_over_under,kevin porter jr.,True,2.5,142,2023-03-26T22:00:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_threes_over_under,kevin porter jr.,True,1.5,178,2023-03-26T23:00:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_threes_over_under,kevin porter jr.,True,0.5,750,2023-03-27T00:15:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_steals_over_under,kevin porter jr.,False,1.5,-4000,2023-03-27T00:15:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_steals_over_under,kevin porter jr.,True,1.5,1000,2023-03-27T00:15:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_rebounds_over_under,kevin porter jr.,False,4.5,-225,2023-03-26T23:45:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_rebounds_over_under,kevin porter jr.,False,1.5,154,2023-03-26T23:15:02,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_blocks_over_under,kevin porter jr.,False,0.5,-100000,2023-03-27T00:15:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_points_over_under,kevin porter jr.,True,6.5,-132,2023-03-27T00:15:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_rebounds_over_under,kevin porter jr.,False,3.5,-500,2023-03-27T00:15:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_points_over_under,kevin porter jr.,True,8.5,130,2023-03-26T23:45:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_rebounds_over_under,kevin porter jr.,True,1.5,-210,2023-03-26T23:15:02,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_points_over_under,kevin porter jr.,False,16.5,-110,2023-03-26T21:15:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_points_over_under,kevin porter jr.,False,15.5,-136,2023-03-26T22:15:02,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_points_over_under,kevin porter jr.,False,14.5,-130,2023-03-26T22:30:02,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_points_over_under,kevin porter jr.,False,13.5,-146,2023-03-26T22:45:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_points_over_under,kevin porter jr.,False,10.5,118,2023-03-26T23:15:02,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_rebounds_over_under,kevin porter jr.,True,4.5,164,2023-03-26T23:45:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_rebounds_over_under,kevin porter jr.,True,3.5,320,2023-03-27T00:15:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_points_over_under,kevin porter jr.,True,7.5,124,2023-03-27T00:00:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_points_over_under,kevin porter jr.,False,7.5,-166,2023-03-27T00:00:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_points_over_under,kevin porter jr.,False,6.5,100,2023-03-27T00:15:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_points_over_under,kevin porter jr.,True,16.5,-110,2023-03-26T21:15:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_points_over_under,kevin porter jr.,True,15.5,102,2023-03-26T22:15:02,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_points_over_under,kevin porter jr.,True,14.5,-102,2023-03-26T22:30:02,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_points_over_under,kevin porter jr.,True,13.5,110,2023-03-26T22:45:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_points_over_under,kevin porter jr.,True,10.5,-158,2023-03-26T23:15:02,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_points_over_under,kevin porter jr.,False,8.5,-174,2023-03-26T23:45:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_rebounds_over_under,kevin porter jr.,True,2.5,114,2023-03-26T23:30:01,Cleveland Cavaliers,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_points_over_under,kevin porter jr.,False,16.5,-118,2023-03-28T00:30:02,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_points_over_under,kevin porter jr.,False,17.5,-128,2023-03-28T00:15:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_points_over_under,kevin porter jr.,False,19.5,-144,2023-03-28T00:45:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_points_over_under,kevin porter jr.,False,14.5,102,2023-03-28T00:00:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_points_over_under,kevin porter jr.,True,26.5,-158,2023-03-28T01:45:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_points_over_under,kevin porter jr.,True,24.5,-174,2023-03-28T01:30:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_points_over_under,kevin porter jr.,True,21.5,104,2023-03-28T01:15:02,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_points_over_under,kevin porter jr.,True,19.5,108,2023-03-28T00:45:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_points_over_under,kevin porter jr.,False,18.5,-136,2023-03-28T01:00:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_points_over_under,kevin porter jr.,False,21.5,-138,2023-03-28T01:15:02,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_rebounds_over_under,kevin porter jr.,True,2.5,122,2023-03-28T01:00:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_points_over_under,kevin porter jr.,False,26.5,118,2023-03-28T01:45:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_threes_over_under,kevin porter jr.,False,3.5,-2000,2023-03-28T01:45:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_threes_over_under,kevin porter jr.,False,2.5,-166,2023-03-28T01:15:02,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_threes_over_under,kevin porter jr.,False,1.5,-210,2023-03-28T00:30:02,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_threes_over_under,kevin porter jr.,False,0.5,130,2023-03-28T01:00:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_threes_over_under,kevin porter jr.,True,3.5,750,2023-03-28T01:45:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_threes_over_under,kevin porter jr.,True,2.5,124,2023-03-28T01:15:02,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_threes_over_under,kevin porter jr.,True,1.5,154,2023-03-28T00:30:02,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_points_over_under,kevin porter jr.,True,18.5,102,2023-03-28T01:00:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_steals_over_under,kevin porter jr.,False,0.5,-5000,2023-03-28T01:45:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_steals_over_under,kevin porter jr.,True,0.5,1000,2023-03-28T01:45:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_rebounds_over_under,kevin porter jr.,False,5.5,-144,2023-03-27T23:45:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_rebounds_over_under,kevin porter jr.,False,3.5,-152,2023-03-28T00:30:02,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_rebounds_over_under,kevin porter jr.,False,2.5,-162,2023-03-28T01:00:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_rebounds_over_under,kevin porter jr.,False,1.5,-168,2023-03-28T01:15:02,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_rebounds_over_under,kevin porter jr.,False,0.5,-420,2023-03-28T01:45:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_rebounds_over_under,kevin porter jr.,True,5.5,118,2023-03-27T23:45:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_rebounds_over_under,kevin porter jr.,True,3.5,114,2023-03-28T00:30:02,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_rebounds_over_under,kevin porter jr.,True,1.5,126,2023-03-28T01:15:02,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_rebounds_over_under,kevin porter jr.,True,0.5,280,2023-03-28T01:45:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_points_over_under,kevin porter jr.,False,24.5,130,2023-03-28T01:30:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_points_over_under,kevin porter jr.,True,17.5,-104,2023-03-28T00:15:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_threes_over_under,kevin porter jr.,True,0.5,-174,2023-03-28T01:00:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_points_over_under,kevin porter jr.,True,14.5,-136,2023-03-28T00:00:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_points_over_under,kevin porter jr.,True,16.5,-112,2023-03-28T00:30:02,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_assists_over_under,kevin porter jr.,True,4.5,290,2023-03-28T01:45:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_assists_over_under,kevin porter jr.,True,5.5,136,2023-03-28T01:15:02,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_assists_over_under,kevin porter jr.,True,6.5,128,2023-03-28T00:30:02,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_assists_over_under,kevin porter jr.,False,4.5,-440,2023-03-28T01:45:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_blocks_over_under,kevin porter jr.,True,0.5,640,2023-03-28T00:45:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_assists_over_under,kevin porter jr.,False,6.5,-172,2023-03-28T00:30:02,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_blocks_over_under,kevin porter jr.,True,1.5,1000,2023-03-28T01:15:02,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_blocks_over_under,kevin porter jr.,False,0.5,-1450,2023-03-28T00:45:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_blocks_over_under,kevin porter jr.,False,1.5,-100000,2023-03-28T01:45:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_assists_over_under,kevin porter jr.,False,5.5,-182,2023-03-28T01:15:02,New York Knicks,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_points_over_under,kevin porter jr.,False,19.5,-132,2023-03-30T00:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_points_over_under,kevin porter jr.,False,17.5,-124,2023-03-29T20:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_points_over_under,kevin porter jr.,False,16.5,124,2023-03-30T01:00:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_points_over_under,kevin porter jr.,False,15.5,-136,2023-03-29T23:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_points_over_under,kevin porter jr.,False,12.5,-106,2023-03-30T00:15:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_points_over_under,kevin porter jr.,True,29.5,-152,2023-03-30T01:30:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_points_over_under,kevin porter jr.,True,28.5,148,2023-03-30T01:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_points_over_under,kevin porter jr.,True,22.5,-136,2023-03-30T01:15:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_points_over_under,kevin porter jr.,True,19.5,100,2023-03-30T00:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_points_over_under,kevin porter jr.,True,17.5,102,2023-03-29T20:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_points_over_under,kevin porter jr.,True,16.5,-166,2023-03-30T01:00:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_points_over_under,kevin porter jr.,True,12.5,-125,2023-03-30T00:15:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_blocks_over_under,kevin porter jr.,False,0.5,-50000,2023-03-30T01:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_blocks_over_under,kevin porter jr.,True,0.5,1000,2023-03-30T01:15:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_assists_over_under,kevin porter jr.,False,6.5,-215,2023-03-30T01:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_assists_over_under,kevin porter jr.,False,5.5,-200,2023-03-30T01:15:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_assists_over_under,kevin porter jr.,False,4.5,146,2023-03-30T01:00:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_assists_over_under,kevin porter jr.,False,3.5,106,2023-03-30T00:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_assists_over_under,kevin porter jr.,False,2.5,130,2023-03-30T00:30:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_assists_over_under,kevin porter jr.,True,6.5,158,2023-03-30T01:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_assists_over_under,kevin porter jr.,True,5.5,148,2023-03-30T01:15:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_assists_over_under,kevin porter jr.,True,4.5,-198,2023-03-30T01:00:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_assists_over_under,kevin porter jr.,True,3.5,-140,2023-03-30T00:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_points_over_under,kevin porter jr.,True,15.5,102,2023-03-29T23:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_points_over_under,kevin porter jr.,False,22.5,102,2023-03-30T01:15:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_points_over_under,kevin porter jr.,False,29.5,114,2023-03-30T01:30:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_rebounds_over_under,kevin porter jr.,True,4.5,-128,2023-03-29T23:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_threes_over_under,kevin porter jr.,False,2.5,-188,2023-03-30T01:15:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_threes_over_under,kevin porter jr.,False,1.5,108,2023-03-30T01:00:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_threes_over_under,kevin porter jr.,True,4.5,450,2023-03-30T01:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_threes_over_under,kevin porter jr.,True,2.5,140,2023-03-30T01:15:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_threes_over_under,kevin porter jr.,True,1.5,-144,2023-03-30T01:00:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_steals_over_under,kevin porter jr.,False,3.5,-2200,2023-03-30T01:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_steals_over_under,kevin porter jr.,False,2.5,-440,2023-03-30T01:15:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_steals_over_under,kevin porter jr.,False,1.5,-152,2023-03-30T00:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_steals_over_under,kevin porter jr.,False,0.5,-102,2023-03-30T00:15:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_steals_over_under,kevin porter jr.,True,3.5,800,2023-03-30T01:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_steals_over_under,kevin porter jr.,True,2.5,290,2023-03-30T01:15:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_steals_over_under,kevin porter jr.,True,1.5,114,2023-03-30T00:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_steals_over_under,kevin porter jr.,True,0.5,-130,2023-03-30T00:15:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_rebounds_over_under,kevin porter jr.,False,9.5,-245,2023-03-30T01:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_rebounds_over_under,kevin porter jr.,False,8.5,134,2023-03-30T01:30:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_rebounds_over_under,kevin porter jr.,False,7.5,-154,2023-03-30T00:15:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_rebounds_over_under,kevin porter jr.,False,6.5,-245,2023-03-30T01:15:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_rebounds_over_under,kevin porter jr.,False,5.5,118,2023-03-30T01:00:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_rebounds_over_under,kevin porter jr.,False,4.5,-104,2023-03-29T23:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_rebounds_over_under,kevin porter jr.,True,9.5,178,2023-03-30T01:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_rebounds_over_under,kevin porter jr.,True,8.5,-180,2023-03-30T01:30:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_rebounds_over_under,kevin porter jr.,True,6.5,178,2023-03-30T01:15:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_rebounds_over_under,kevin porter jr.,True,5.5,-158,2023-03-30T01:00:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_points_over_under,kevin porter jr.,False,28.5,-200,2023-03-30T01:45:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_rebounds_over_under,kevin porter jr.,True,7.5,116,2023-03-30T00:15:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_assists_over_under,kevin porter jr.,True,2.5,-174,2023-03-30T00:30:01,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_threes_over_under,kevin porter jr.,False,4.5,-800,2023-03-30T01:45:01,Brooklyn Nets,Houston Rockets
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_points_over_under,kevin porter jr.,False,19.5,-120,2023-03-31T23:48:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_points_over_under,kevin porter jr.,False,18.5,-104,2023-04-01T00:08:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_points_over_under,kevin porter jr.,False,17.5,100,2023-04-01T00:12:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_points_over_under,kevin porter jr.,True,32.5,144,2023-04-01T02:16:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_points_over_under,kevin porter jr.,True,31.5,148,2023-04-01T02:26:02,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_points_over_under,kevin porter jr.,True,29.5,126,2023-04-01T02:00:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_points_over_under,kevin porter jr.,True,28.5,-166,2023-04-01T02:04:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_points_over_under,kevin porter jr.,True,27.5,-112,2023-04-01T01:44:02,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_points_over_under,kevin porter jr.,True,26.5,-154,2023-04-01T01:48:02,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_points_over_under,kevin porter jr.,True,25.5,-136,2023-04-01T01:38:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_points_over_under,kevin porter jr.,True,22.5,106,2023-04-01T01:16:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_points_over_under,kevin porter jr.,True,21.5,100,2023-04-01T01:30:02,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_points_over_under,kevin porter jr.,True,20.5,-130,2023-04-01T01:08:02,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_points_over_under,kevin porter jr.,False,20.5,-102,2023-04-01T01:08:02,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_points_over_under,kevin porter jr.,True,19.5,-102,2023-03-31T23:48:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_points_over_under,kevin porter jr.,True,17.5,-132,2023-04-01T00:12:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_blocks_over_under,kevin porter jr.,False,0.5,-50000,2023-04-01T02:26:02,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_blocks_over_under,kevin porter jr.,True,0.5,1000,2023-04-01T02:06:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_assists_over_under,kevin porter jr.,False,6.5,-140,2023-04-01T00:12:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_assists_over_under,kevin porter jr.,False,5.5,-132,2023-04-01T00:26:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_assists_over_under,kevin porter jr.,False,4.5,-174,2023-04-01T01:26:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_assists_over_under,kevin porter jr.,False,3.5,-152,2023-04-01T01:38:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_assists_over_under,kevin porter jr.,False,2.5,-160,2023-04-01T02:04:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_assists_over_under,kevin porter jr.,False,1.5,-205,2023-04-01T02:26:02,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_assists_over_under,kevin porter jr.,True,6.5,106,2023-04-01T00:12:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_assists_over_under,kevin porter jr.,True,5.5,100,2023-04-01T00:26:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_assists_over_under,kevin porter jr.,True,4.5,132,2023-04-01T01:26:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_assists_over_under,kevin porter jr.,True,3.5,114,2023-04-01T01:38:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_points_over_under,kevin porter jr.,True,18.5,-118,2023-04-01T00:08:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_assists_over_under,kevin porter jr.,True,1.5,152,2023-04-01T02:26:02,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_points_over_under,kevin porter jr.,False,21.5,-132,2023-04-01T01:30:02,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_points_over_under,kevin porter jr.,False,25.5,102,2023-04-01T01:38:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_threes_over_under,kevin porter jr.,False,4.5,-250,2023-04-01T01:26:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_threes_over_under,kevin porter jr.,False,3.5,174,2023-04-01T01:30:02,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_threes_over_under,kevin porter jr.,False,2.5,-178,2023-04-01T00:12:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_threes_over_under,kevin porter jr.,True,6.5,450,2023-04-01T02:26:02,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_threes_over_under,kevin porter jr.,True,5.5,-168,2023-04-01T01:38:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_threes_over_under,kevin porter jr.,True,4.5,188,2023-04-01T01:26:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_threes_over_under,kevin porter jr.,True,3.5,-245,2023-04-01T01:30:02,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_threes_over_under,kevin porter jr.,True,2.5,132,2023-04-01T00:12:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_steals_over_under,kevin porter jr.,False,4.5,-2000,2023-04-01T02:26:02,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_steals_over_under,kevin porter jr.,False,3.5,-1000,2023-04-01T02:22:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_steals_over_under,kevin porter jr.,False,2.5,110,2023-04-01T01:06:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_steals_over_under,kevin porter jr.,False,1.5,-245,2023-04-01T00:26:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_steals_over_under,kevin porter jr.,True,4.5,750,2023-04-01T02:26:02,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_points_over_under,kevin porter jr.,False,22.5,-140,2023-04-01T01:16:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_steals_over_under,kevin porter jr.,True,3.5,520,2023-04-01T02:22:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_steals_over_under,kevin porter jr.,True,1.5,178,2023-04-01T00:26:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_rebounds_over_under,kevin porter jr.,False,5.5,-146,2023-04-01T00:12:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_rebounds_over_under,kevin porter jr.,False,4.5,-240,2023-04-01T02:04:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_rebounds_over_under,kevin porter jr.,False,3.5,-260,2023-04-01T02:26:02,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_rebounds_over_under,kevin porter jr.,True,5.5,110,2023-04-01T00:12:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_rebounds_over_under,kevin porter jr.,True,4.5,174,2023-04-01T02:04:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_rebounds_over_under,kevin porter jr.,True,3.5,188,2023-04-01T02:26:02,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_points_over_under,kevin porter jr.,False,32.5,-194,2023-04-01T02:16:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_points_over_under,kevin porter jr.,False,31.5,-200,2023-04-01T02:26:02,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_points_over_under,kevin porter jr.,False,29.5,-168,2023-04-01T02:00:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_points_over_under,kevin porter jr.,False,28.5,124,2023-04-01T02:04:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_points_over_under,kevin porter jr.,False,27.5,-118,2023-04-01T01:44:02,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_points_over_under,kevin porter jr.,False,26.5,116,2023-04-01T01:48:02,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_steals_over_under,kevin porter jr.,True,2.5,-146,2023-04-01T01:06:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_assists_over_under,kevin porter jr.,True,2.5,120,2023-04-01T02:04:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_threes_over_under,kevin porter jr.,False,6.5,-800,2023-04-01T02:26:02,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_threes_over_under,kevin porter jr.,False,5.5,126,2023-04-01T01:38:01,Houston Rockets,Detroit Pistons
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,kevin porter jr.,False,21.5,-235,2023-04-03T01:06:02,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,kevin porter jr.,False,20.5,-10000,2023-04-03T01:10:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,kevin porter jr.,False,19.5,102,2023-04-03T00:50:02,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,kevin porter jr.,False,18.5,-158,2023-04-03T01:00:02,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,kevin porter jr.,False,17.5,182,2023-04-03T01:04:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,kevin porter jr.,False,16.5,108,2023-04-02T23:54:02,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,kevin porter jr.,True,23.5,116,2023-04-03T00:36:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,kevin porter jr.,True,22.5,114,2023-04-03T00:42:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,kevin porter jr.,True,21.5,172,2023-04-03T01:06:02,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,kevin porter jr.,False,22.5,-152,2023-04-03T00:42:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_rebounds_over_under,kevin porter jr.,True,4.5,122,2023-04-03T00:24:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,kevin porter jr.,True,19.5,-136,2023-04-03T00:50:02,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,kevin porter jr.,True,18.5,118,2023-04-03T01:00:02,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,kevin porter jr.,True,17.5,-250,2023-04-03T01:04:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,kevin porter jr.,True,16.5,-144,2023-04-02T23:54:02,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_blocks_over_under,kevin porter jr.,False,0.5,-100000,2023-04-03T01:08:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_blocks_over_under,kevin porter jr.,True,0.5,1000,2023-04-03T00:44:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_assists_over_under,kevin porter jr.,False,5.5,-162,2023-04-03T00:20:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_assists_over_under,kevin porter jr.,False,4.5,-186,2023-04-03T00:34:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_assists_over_under,kevin porter jr.,False,3.5,-260,2023-04-03T00:48:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,kevin porter jr.,True,20.5,1000,2023-04-03T01:10:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,kevin porter jr.,False,23.5,-154,2023-04-03T00:36:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_rebounds_over_under,kevin porter jr.,True,2.5,410,2023-04-03T00:58:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_rebounds_over_under,kevin porter jr.,True,3.5,1000,2023-04-03T01:10:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_threes_over_under,kevin porter jr.,False,6.5,-100000,2023-04-03T01:10:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_threes_over_under,kevin porter jr.,False,5.5,-1200,2023-04-03T01:04:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_threes_over_under,kevin porter jr.,False,4.5,136,2023-04-03T00:34:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_threes_over_under,kevin porter jr.,False,3.5,-200,2023-04-02T23:54:02,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_threes_over_under,kevin porter jr.,False,2.5,130,2023-04-02T23:26:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_threes_over_under,kevin porter jr.,True,6.5,1000,2023-04-03T01:10:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_threes_over_under,kevin porter jr.,True,5.5,580,2023-04-03T01:04:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_threes_over_under,kevin porter jr.,True,4.5,-182,2023-04-03T00:34:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_threes_over_under,kevin porter jr.,True,3.5,148,2023-04-02T23:54:02,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_threes_over_under,kevin porter jr.,True,2.5,-174,2023-04-02T23:26:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_steals_over_under,kevin porter jr.,False,1.5,-100000,2023-04-03T01:10:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_steals_over_under,kevin porter jr.,False,0.5,-2200,2023-04-03T01:06:02,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_steals_over_under,kevin porter jr.,True,1.5,1000,2023-04-03T01:10:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_steals_over_under,kevin porter jr.,True,0.5,800,2023-04-03T01:06:02,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_rebounds_over_under,kevin porter jr.,False,5.5,-168,2023-04-02T23:24:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_rebounds_over_under,kevin porter jr.,False,4.5,-162,2023-04-03T00:24:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_rebounds_over_under,kevin porter jr.,False,3.5,-100000,2023-04-03T01:10:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_rebounds_over_under,kevin porter jr.,False,2.5,-700,2023-04-03T00:58:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_rebounds_over_under,kevin porter jr.,True,5.5,126,2023-04-02T23:24:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_assists_over_under,kevin porter jr.,False,2.5,-100000,2023-04-03T01:10:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_assists_over_under,kevin porter jr.,True,4.5,138,2023-04-03T00:34:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_assists_over_under,kevin porter jr.,True,5.5,122,2023-04-03T00:20:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_assists_over_under,kevin porter jr.,True,2.5,1000,2023-04-03T01:10:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_assists_over_under,kevin porter jr.,True,3.5,188,2023-04-03T00:48:01,Houston Rockets,Los Angeles Lakers
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,kevin porter jr.,True,23.5,-140,2023-04-05T01:30:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,kevin porter jr.,False,19.5,-105,2023-04-04T19:51:15,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_steals_over_under,kevin porter jr.,False,2.5,-440,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_steals_over_under,kevin porter jr.,True,1.5,140,2023-04-04T19:51:15,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_steals_over_under,kevin porter jr.,True,1.5,-180,2023-04-05T00:36:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_steals_over_under,kevin porter jr.,True,2.5,285,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_steals_over_under,kevin porter jr.,False,1.5,-175,2023-04-04T19:51:15,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_steals_over_under,kevin porter jr.,False,1.5,135,2023-04-05T00:36:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_steals_over_under,kevin porter jr.,False,2.5,-425,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_threes_over_under,kevin porter jr.,True,1.5,-154,2023-04-05T00:30:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,kevin porter jr.,True,21.5,-125,2023-04-05T01:45:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_threes_over_under,kevin porter jr.,True,2.5,152,2023-04-05T01:15:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_threes_over_under,kevin porter jr.,False,1.5,116,2023-04-05T00:30:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_threes_over_under,kevin porter jr.,False,2.5,-205,2023-04-05T01:15:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_threes_over_under,kevin porter jr.,False,4.5,-198,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_threes_over_under,kevin porter jr.,True,2.5,-110,2023-04-04T19:51:15,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_threes_over_under,kevin porter jr.,True,1.5,-145,2023-04-05T00:30:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_threes_over_under,kevin porter jr.,True,2.5,145,2023-04-05T01:00:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_threes_over_under,kevin porter jr.,True,4.5,140,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_threes_over_under,kevin porter jr.,False,2.5,-120,2023-04-04T19:51:15,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_threes_over_under,kevin porter jr.,False,1.5,110,2023-04-05T00:30:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_steals_over_under,kevin porter jr.,False,1.5,106,2023-04-05T00:55:42,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_threes_over_under,kevin porter jr.,True,4.5,146,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_steals_over_under,kevin porter jr.,True,2.5,290,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_rebounds_over_under,kevin porter jr.,False,4.5,-120,2023-04-05T01:30:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,kevin porter jr.,True,20.5,-135,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,kevin porter jr.,False,14.5,-125,2023-04-05T00:30:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,kevin porter jr.,False,16.5,-110,2023-04-05T00:36:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,kevin porter jr.,False,18.5,-140,2023-04-05T01:00:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,kevin porter jr.,False,19.5,-105,2023-04-04T23:14:32,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,kevin porter jr.,False,20.5,100,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,kevin porter jr.,False,21.5,-105,2023-04-05T01:45:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,kevin porter jr.,False,23.5,105,2023-04-05T01:30:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_rebounds_over_under,kevin porter jr.,True,2.5,104,2023-04-05T01:00:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_rebounds_over_under,kevin porter jr.,True,3.5,-174,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_rebounds_over_under,kevin porter jr.,True,4.5,-104,2023-04-04T23:30:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_rebounds_over_under,kevin porter jr.,True,5.5,-108,2023-04-04T03:48:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_rebounds_over_under,kevin porter jr.,False,2.5,-138,2023-04-05T01:00:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_rebounds_over_under,kevin porter jr.,False,3.5,130,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_rebounds_over_under,kevin porter jr.,False,4.5,-118,2023-04-04T23:30:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_rebounds_over_under,kevin porter jr.,False,5.5,-118,2023-04-04T03:48:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_rebounds_over_under,kevin porter jr.,True,4.5,-115,2023-04-04T19:51:15,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_rebounds_over_under,kevin porter jr.,True,3.5,-170,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_rebounds_over_under,kevin porter jr.,True,4.5,-110,2023-04-05T01:30:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_rebounds_over_under,kevin porter jr.,False,4.5,-115,2023-04-04T19:51:15,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_rebounds_over_under,kevin porter jr.,False,3.5,125,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_steals_over_under,kevin porter jr.,True,1.5,-140,2023-04-05T00:55:42,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,kevin porter jr.,True,19.5,-125,2023-04-04T23:14:32,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_threes_over_under,kevin porter jr.,False,4.5,-185,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,kevin porter jr.,True,16.5,-120,2023-04-05T00:36:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_assists_over_under,kevin porter jr.,False,9.5,-170,2023-04-05T01:45:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_assists_over_under,kevin porter jr.,False,8.5,180,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_assists_over_under,kevin porter jr.,False,7.5,115,2023-04-05T00:36:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_assists_over_under,kevin porter jr.,False,6.5,120,2023-04-05T01:00:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_assists_over_under,kevin porter jr.,False,5.5,-105,2023-04-04T23:14:32,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_assists_over_under,kevin porter jr.,True,5.5,-125,2023-04-04T19:51:15,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_assists_over_under,kevin porter jr.,True,9.5,130,2023-04-05T01:45:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_assists_over_under,kevin porter jr.,True,8.5,-245,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_assists_over_under,kevin porter jr.,True,7.5,-150,2023-04-05T00:36:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_assists_over_under,kevin porter jr.,True,6.5,-160,2023-04-05T01:00:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_assists_over_under,kevin porter jr.,True,5.5,-125,2023-04-04T23:14:32,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_assists_over_under,kevin porter jr.,False,9.5,-178,2023-04-05T01:45:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_assists_over_under,kevin porter jr.,False,8.5,188,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_assists_over_under,kevin porter jr.,False,7.5,154,2023-04-05T01:30:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_assists_over_under,kevin porter jr.,False,6.5,122,2023-04-05T01:15:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_assists_over_under,kevin porter jr.,False,5.5,112,2023-04-05T00:18:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_assists_over_under,kevin porter jr.,True,9.5,132,2023-04-05T01:45:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_assists_over_under,kevin porter jr.,True,8.5,-260,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_assists_over_under,kevin porter jr.,True,7.5,-210,2023-04-05T01:30:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_assists_over_under,kevin porter jr.,True,6.5,-162,2023-04-05T01:15:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_assists_over_under,kevin porter jr.,True,5.5,-148,2023-04-05T00:18:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_assists_over_under,kevin porter jr.,False,5.5,-105,2023-04-04T19:51:15,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_blocks_over_under,kevin porter jr.,True,0.5,1000,2023-04-05T01:45:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_blocks_over_under,kevin porter jr.,False,0.5,-5000,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_blocks_over_under,kevin porter jr.,True,0.5,320,2023-04-04T23:14:32,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,kevin porter jr.,True,14.5,-110,2023-04-05T00:30:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,kevin porter jr.,True,19.5,-125,2023-04-04T19:51:15,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_threes_over_under,kevin porter jr.,False,2.5,-200,2023-04-05T01:00:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_points_over_under,kevin porter jr.,False,24.5,-138,2023-04-05T01:30:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_points_over_under,kevin porter jr.,False,21.5,-102,2023-04-05T01:45:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_points_over_under,kevin porter jr.,False,20.5,102,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_points_over_under,kevin porter jr.,False,19.5,-108,2023-04-05T00:06:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_points_over_under,kevin porter jr.,False,18.5,-138,2023-04-05T01:15:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_points_over_under,kevin porter jr.,False,16.5,-122,2023-04-05T00:48:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_points_over_under,kevin porter jr.,False,15.5,104,2023-04-05T00:24:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,kevin porter jr.,True,18.5,105,2023-04-05T01:00:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_points_over_under,kevin porter jr.,False,14.5,102,2023-04-05T00:30:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_points_over_under,kevin porter jr.,True,21.5,-130,2023-04-05T01:45:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_points_over_under,kevin porter jr.,True,20.5,-136,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_points_over_under,kevin porter jr.,True,19.5,-112,2023-04-05T00:06:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_points_over_under,kevin porter jr.,True,18.5,104,2023-04-05T01:15:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_points_over_under,kevin porter jr.,True,16.5,-110,2023-04-05T00:48:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_points_over_under,kevin porter jr.,True,15.5,-138,2023-04-05T00:24:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_points_over_under,kevin porter jr.,True,14.5,-136,2023-04-05T00:30:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_blocks_over_under,kevin porter jr.,False,0.5,-440,2023-04-04T19:51:15,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_blocks_over_under,kevin porter jr.,False,0.5,-425,2023-04-04T23:14:32,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_blocks_over_under,kevin porter jr.,True,0.5,330,2023-04-04T19:51:15,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_points_over_under,kevin porter jr.,True,24.5,104,2023-04-05T01:30:01,Houston Rockets,Denver Nuggets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_rebounds_over_under,kevin porter jr.,True,3.5,122,2023-04-07T23:45:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,betmgm,player_blocks_over_under,kevin porter jr.,False,0.5,-450,2023-04-07T22:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_assists_over_under,kevin porter jr.,True,5.5,168,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_steals_over_under,kevin porter jr.,True,2.5,700,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_steals_over_under,kevin porter jr.,False,1.5,100,2023-04-08T00:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_steals_over_under,kevin porter jr.,False,2.5,-1600,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,caesars,player_steals_over_under,kevin porter jr.,True,1.5,100,2023-04-07T22:45:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,caesars,player_steals_over_under,kevin porter jr.,False,1.5,-137,2023-04-07T22:45:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,betmgm,player_steals_over_under,kevin porter jr.,True,1.5,105,2023-04-07T22:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,betmgm,player_steals_over_under,kevin porter jr.,False,1.5,-135,2023-04-07T22:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_threes_over_under,kevin porter jr.,True,1.5,-260,2023-04-08T00:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_threes_over_under,kevin porter jr.,True,2.5,400,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_steals_over_under,kevin porter jr.,True,1.5,-135,2023-04-08T00:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_threes_over_under,kevin porter jr.,False,1.5,188,2023-04-08T00:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_threes_over_under,kevin porter jr.,True,1.5,-225,2023-04-08T00:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_threes_over_under,kevin porter jr.,True,2.5,400,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_threes_over_under,kevin porter jr.,False,1.5,165,2023-04-08T00:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_threes_over_under,kevin porter jr.,False,2.5,-700,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,caesars,player_threes_over_under,kevin porter jr.,True,2.5,-145,2023-04-07T20:12:09,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,caesars,player_threes_over_under,kevin porter jr.,False,2.5,106,2023-04-07T20:12:09,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,betmgm,player_threes_over_under,kevin porter jr.,True,2.5,-145,2023-04-07T18:20:05,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,betmgm,player_threes_over_under,kevin porter jr.,False,2.5,110,2023-04-07T18:20:05,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_rebounds_over_under,kevin porter jr.,True,1.5,230,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_threes_over_under,kevin porter jr.,False,2.5,-670,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_steals_over_under,kevin porter jr.,False,2.5,-2000,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_steals_over_under,kevin porter jr.,False,1.5,102,2023-04-08T00:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_steals_over_under,kevin porter jr.,True,2.5,750,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_rebounds_over_under,kevin porter jr.,True,4.5,102,2023-04-07T23:15:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_rebounds_over_under,kevin porter jr.,False,0.5,148,2023-04-08T01:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_rebounds_over_under,kevin porter jr.,False,1.5,-330,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_rebounds_over_under,kevin porter jr.,False,2.5,-154,2023-04-08T00:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_rebounds_over_under,kevin porter jr.,False,3.5,-162,2023-04-07T23:45:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_rebounds_over_under,kevin porter jr.,False,4.5,-136,2023-04-07T23:15:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_rebounds_over_under,kevin porter jr.,True,0.5,-190,2023-04-08T01:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_rebounds_over_under,kevin porter jr.,True,1.5,-135,2023-04-08T00:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_rebounds_over_under,kevin porter jr.,True,2.5,235,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_rebounds_over_under,kevin porter jr.,True,3.5,120,2023-04-07T23:45:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_rebounds_over_under,kevin porter jr.,True,4.5,100,2023-04-07T23:15:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_rebounds_over_under,kevin porter jr.,False,0.5,140,2023-04-08T01:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_rebounds_over_under,kevin porter jr.,False,1.5,100,2023-04-08T00:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_rebounds_over_under,kevin porter jr.,False,2.5,-340,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_rebounds_over_under,kevin porter jr.,False,3.5,-155,2023-04-07T23:45:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_rebounds_over_under,kevin porter jr.,False,4.5,-130,2023-04-07T23:15:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,caesars,player_rebounds_over_under,kevin porter jr.,True,4.5,-137,2023-04-07T20:12:09,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,caesars,player_rebounds_over_under,kevin porter jr.,False,4.5,100,2023-04-07T20:12:09,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,betmgm,player_rebounds_over_under,kevin porter jr.,True,4.5,-140,2023-04-07T18:20:05,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,betmgm,player_rebounds_over_under,kevin porter jr.,False,4.5,105,2023-04-07T18:20:05,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_steals_over_under,kevin porter jr.,True,1.5,-136,2023-04-08T00:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_rebounds_over_under,kevin porter jr.,True,0.5,-200,2023-04-08T01:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,betmgm,player_points_over_under,kevin porter jr.,False,20.5,-105,2023-04-07T22:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,betmgm,player_points_over_under,kevin porter jr.,True,20.5,-125,2023-04-07T22:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,caesars,player_points_over_under,kevin porter jr.,False,20.5,-113,2023-04-07T20:12:09,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_rebounds_over_under,kevin porter jr.,True,2.5,116,2023-04-08T00:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,betmgm,player_blocks_over_under,kevin porter jr.,True,0.5,300,2023-04-07T22:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,caesars,player_blocks_over_under,kevin porter jr.,False,0.5,-429,2023-04-07T20:12:09,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,caesars,player_blocks_over_under,kevin porter jr.,True,0.5,275,2023-04-07T20:12:09,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_blocks_over_under,kevin porter jr.,False,0.5,-425,2023-04-07T22:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_blocks_over_under,kevin porter jr.,True,0.5,320,2023-04-07T22:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_blocks_over_under,kevin porter jr.,False,0.5,-50000,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_blocks_over_under,kevin porter jr.,True,0.5,1000,2023-04-08T00:45:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,betmgm,player_assists_over_under,kevin porter jr.,False,6.5,-110,2023-04-07T22:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,betmgm,player_assists_over_under,kevin porter jr.,True,6.5,-120,2023-04-07T22:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,caesars,player_assists_over_under,kevin porter jr.,False,6.5,-115,2023-04-07T22:45:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,caesars,player_assists_over_under,kevin porter jr.,True,6.5,-119,2023-04-07T22:45:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_assists_over_under,kevin porter jr.,False,5.5,-225,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_assists_over_under,kevin porter jr.,False,4.5,100,2023-04-08T00:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_assists_over_under,kevin porter jr.,True,6.5,105,2023-04-08T00:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_assists_over_under,kevin porter jr.,True,5.5,165,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_assists_over_under,kevin porter jr.,True,4.5,-135,2023-04-08T00:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_assists_over_under,kevin porter jr.,False,6.5,-128,2023-04-08T00:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_assists_over_under,kevin porter jr.,False,5.5,-230,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_assists_over_under,kevin porter jr.,False,4.5,102,2023-04-08T00:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_assists_over_under,kevin porter jr.,True,6.5,-104,2023-04-08T00:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_points_over_under,kevin porter jr.,True,20.5,-102,2023-04-07T23:15:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_assists_over_under,kevin porter jr.,True,4.5,-136,2023-04-08T00:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_points_over_under,kevin porter jr.,True,21.5,-108,2023-04-07T23:45:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_points_over_under,kevin porter jr.,True,25.5,132,2023-04-08T01:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,caesars,player_points_over_under,kevin porter jr.,True,20.5,-121,2023-04-07T20:12:09,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_points_over_under,kevin porter jr.,False,27.5,-180,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_points_over_under,kevin porter jr.,False,26.5,-120,2023-04-08T00:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_points_over_under,kevin porter jr.,False,25.5,-145,2023-04-08T00:45:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_points_over_under,kevin porter jr.,False,24.5,-110,2023-04-08T00:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_points_over_under,kevin porter jr.,False,21.5,-115,2023-04-07T23:45:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_points_over_under,kevin porter jr.,False,20.5,-125,2023-04-06T17:30:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_points_over_under,kevin porter jr.,True,27.5,135,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_points_over_under,kevin porter jr.,True,26.5,-110,2023-04-08T00:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_points_over_under,kevin porter jr.,True,25.5,110,2023-04-08T00:45:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_points_over_under,kevin porter jr.,True,24.5,-125,2023-04-08T00:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_points_over_under,kevin porter jr.,True,21.5,-115,2023-04-07T23:45:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_points_over_under,kevin porter jr.,True,20.5,-105,2023-04-06T17:30:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_points_over_under,kevin porter jr.,False,27.5,-188,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_points_over_under,kevin porter jr.,False,26.5,-122,2023-04-08T00:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_points_over_under,kevin porter jr.,False,25.5,-178,2023-04-08T01:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_points_over_under,kevin porter jr.,False,24.5,116,2023-04-08T00:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_points_over_under,kevin porter jr.,False,21.5,-122,2023-04-07T23:45:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_points_over_under,kevin porter jr.,False,20.5,-130,2023-04-07T23:15:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_points_over_under,kevin porter jr.,True,27.5,140,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_points_over_under,kevin porter jr.,True,26.5,-108,2023-04-08T00:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_points_over_under,kevin porter jr.,True,24.5,-154,2023-04-08T00:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_assists_over_under,kevin porter jr.,False,6.5,-140,2023-04-08T00:30:01,Charlotte Hornets,Houston Rockets

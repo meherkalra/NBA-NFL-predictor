@@ -1,0 +1,675 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_rebounds_over_under,malik beasley,False,2.5,114,2023-03-20T03:15:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_threes_over_under,malik beasley,True,2.5,142,2023-03-20T02:45:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_threes_over_under,malik beasley,True,1.5,124,2023-03-20T03:30:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_steals_over_under,malik beasley,False,0.5,-800,2023-03-20T03:30:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_steals_over_under,malik beasley,True,0.5,450,2023-03-20T03:30:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_rebounds_over_under,malik beasley,True,3.5,-114,2023-03-20T03:30:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_rebounds_over_under,malik beasley,False,3.5,-114,2023-03-20T03:30:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_threes_over_under,malik beasley,False,1.5,-166,2023-03-20T03:30:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_assists_over_under,malik beasley,True,0.5,-188,2023-03-20T02:30:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_assists_over_under,malik beasley,True,1.5,225,2023-03-20T03:30:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_assists_over_under,malik beasley,False,0.5,140,2023-03-20T02:30:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_assists_over_under,malik beasley,False,1.5,-320,2023-03-20T03:30:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_blocks_over_under,malik beasley,True,0.5,1000,2023-03-20T03:00:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_blocks_over_under,malik beasley,False,0.5,-10000,2023-03-20T03:15:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_threes_over_under,malik beasley,False,2.5,-192,2023-03-20T02:45:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_points_over_under,malik beasley,True,6.5,-158,2023-03-20T03:00:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_points_over_under,malik beasley,False,5.5,-146,2023-03-20T03:30:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_points_over_under,malik beasley,False,6.5,118,2023-03-20T03:00:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_points_over_under,malik beasley,False,8.5,102,2023-03-20T02:15:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_points_over_under,malik beasley,False,9.5,-162,2023-03-20T02:45:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_points_over_under,malik beasley,False,10.5,108,2023-03-20T01:45:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_points_over_under,malik beasley,True,5.5,110,2023-03-20T03:30:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_rebounds_over_under,malik beasley,True,2.5,-152,2023-03-20T03:15:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_points_over_under,malik beasley,True,12.5,-114,2023-03-20T01:30:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_points_over_under,malik beasley,True,10.5,-144,2023-03-20T01:45:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_points_over_under,malik beasley,True,9.5,122,2023-03-20T02:45:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_points_over_under,malik beasley,True,8.5,-136,2023-03-20T02:15:01,Los Angeles Lakers,Orlando Magic
+2023-03-19,89985a10d7eac7ee706f81b0fb3616a6,fanduel,player_points_over_under,malik beasley,False,12.5,-106,2023-03-20T01:30:01,Los Angeles Lakers,Orlando Magic
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_points_over_under,malik beasley,True,11.5,-102,2023-03-23T03:30:02,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_points_over_under,malik beasley,True,10.5,-154,2023-03-23T03:45:02,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_points_over_under,malik beasley,True,8.5,-136,2023-03-23T02:45:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_points_over_under,malik beasley,True,7.5,-118,2023-03-23T04:15:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_blocks_over_under,malik beasley,True,0.5,1000,2023-03-23T03:15:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_blocks_over_under,malik beasley,False,0.5,-100000,2023-03-23T04:30:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_assists_over_under,malik beasley,False,1.5,-260,2023-03-23T02:45:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_assists_over_under,malik beasley,False,0.5,-4000,2023-03-23T04:30:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_points_over_under,malik beasley,True,12.5,-132,2023-03-23T03:00:02,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_assists_over_under,malik beasley,True,0.5,1000,2023-03-23T04:30:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_points_over_under,malik beasley,True,6.5,152,2023-03-23T04:30:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_points_over_under,malik beasley,False,6.5,-205,2023-03-23T04:30:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_assists_over_under,malik beasley,True,1.5,188,2023-03-23T02:45:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_points_over_under,malik beasley,False,8.5,102,2023-03-23T02:45:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_threes_over_under,malik beasley,False,3.5,-270,2023-03-23T03:30:02,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_threes_over_under,malik beasley,False,2.5,-2000,2023-03-23T04:30:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_threes_over_under,malik beasley,False,1.5,112,2023-03-23T02:45:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_threes_over_under,malik beasley,True,3.5,194,2023-03-23T03:30:02,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_threes_over_under,malik beasley,True,2.5,750,2023-03-23T04:30:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_threes_over_under,malik beasley,True,1.5,-148,2023-03-23T02:45:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_points_over_under,malik beasley,False,7.5,-112,2023-03-23T04:15:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_steals_over_under,malik beasley,False,0.5,-10000,2023-03-23T04:30:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_steals_over_under,malik beasley,True,0.5,1000,2023-03-23T04:30:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_points_over_under,malik beasley,True,9.5,-146,2023-03-23T04:00:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_rebounds_over_under,malik beasley,False,3.5,174,2023-03-23T04:00:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_rebounds_over_under,malik beasley,False,2.5,-152,2023-03-23T02:45:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_points_over_under,malik beasley,False,9.5,110,2023-03-23T04:00:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_points_over_under,malik beasley,False,10.5,116,2023-03-23T03:45:02,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_points_over_under,malik beasley,False,11.5,-130,2023-03-23T03:30:02,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_points_over_under,malik beasley,False,12.5,100,2023-03-23T03:00:02,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_rebounds_over_under,malik beasley,True,2.5,114,2023-03-23T02:45:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_rebounds_over_under,malik beasley,True,3.5,-240,2023-03-23T04:00:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_rebounds_over_under,malik beasley,False,4.5,-1200,2023-03-23T04:30:01,Los Angeles Lakers,Phoenix Suns
+2023-03-22,ce4419d6a940929a3d3ae07adce0c084,fanduel,player_rebounds_over_under,malik beasley,True,4.5,580,2023-03-23T04:30:01,Los Angeles Lakers,Phoenix Suns
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_points_over_under,malik beasley,True,16.5,110,2023-03-25T03:30:02,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_points_over_under,malik beasley,True,15.5,-114,2023-03-25T04:00:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_points_over_under,malik beasley,True,13.5,-112,2023-03-25T04:15:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_points_over_under,malik beasley,True,10.5,-198,2023-03-25T04:30:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_assists_over_under,malik beasley,False,0.5,182,2023-03-25T03:15:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_blocks_over_under,malik beasley,True,0.5,1000,2023-03-25T03:30:02,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_assists_over_under,malik beasley,False,1.5,-1100,2023-03-25T04:30:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_assists_over_under,malik beasley,True,1.5,550,2023-03-25T04:30:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_blocks_over_under,malik beasley,False,0.5,-100000,2023-03-25T04:30:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_points_over_under,malik beasley,True,17.5,-118,2023-03-25T03:15:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_points_over_under,malik beasley,False,15.5,-118,2023-03-25T04:00:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_points_over_under,malik beasley,False,16.5,-146,2023-03-25T03:30:02,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_threes_over_under,malik beasley,False,3.5,-188,2023-03-25T04:00:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_threes_over_under,malik beasley,False,2.5,-500,2023-03-25T04:30:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_threes_over_under,malik beasley,True,3.5,140,2023-03-25T04:00:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_threes_over_under,malik beasley,True,2.5,320,2023-03-25T04:30:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_steals_over_under,malik beasley,False,2.5,-4000,2023-03-25T04:30:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_steals_over_under,malik beasley,False,1.5,-300,2023-03-25T04:00:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_points_over_under,malik beasley,False,10.5,146,2023-03-25T04:30:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_steals_over_under,malik beasley,False,0.5,-136,2023-03-25T03:00:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_steals_over_under,malik beasley,True,1.5,210,2023-03-25T04:00:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_steals_over_under,malik beasley,True,0.5,102,2023-03-25T03:00:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_rebounds_over_under,malik beasley,False,3.5,-194,2023-03-25T03:15:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_rebounds_over_under,malik beasley,True,3.5,144,2023-03-25T03:15:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_rebounds_over_under,malik beasley,True,2.5,270,2023-03-25T04:30:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_points_over_under,malik beasley,False,17.5,-112,2023-03-25T03:15:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_steals_over_under,malik beasley,True,2.5,1000,2023-03-25T04:30:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_rebounds_over_under,malik beasley,False,2.5,-400,2023-03-25T04:30:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_assists_over_under,malik beasley,True,0.5,-250,2023-03-25T03:15:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_rebounds_over_under,malik beasley,False,2.5,-390,2023-03-26T21:30:02,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_rebounds_over_under,malik beasley,False,3.5,-310,2023-03-26T21:45:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_steals_over_under,malik beasley,True,0.5,880,2023-03-26T21:45:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_steals_over_under,malik beasley,False,0.5,-3000,2023-03-26T21:45:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_threes_over_under,malik beasley,True,1.5,-138,2023-03-26T21:15:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_threes_over_under,malik beasley,True,2.5,320,2023-03-26T21:30:02,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_threes_over_under,malik beasley,True,3.5,270,2023-03-26T21:45:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_threes_over_under,malik beasley,False,1.5,104,2023-03-26T21:15:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_threes_over_under,malik beasley,False,2.5,-490,2023-03-26T21:30:02,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_threes_over_under,malik beasley,False,3.5,-400,2023-03-26T21:45:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_rebounds_over_under,malik beasley,True,2.5,265,2023-03-26T21:30:02,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_rebounds_over_under,malik beasley,True,1.5,-200,2023-03-26T21:15:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_points_over_under,malik beasley,False,10.5,-140,2023-03-26T20:00:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_points_over_under,malik beasley,False,9.5,194,2023-03-26T21:45:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_points_over_under,malik beasley,False,8.5,-110,2023-03-26T19:30:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_points_over_under,malik beasley,False,7.5,-144,2023-03-26T21:00:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_points_over_under,malik beasley,False,6.5,152,2023-03-26T21:30:02,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_points_over_under,malik beasley,True,10.5,106,2023-03-26T20:00:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_points_over_under,malik beasley,True,9.5,-270,2023-03-26T21:45:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_points_over_under,malik beasley,True,8.5,-110,2023-03-26T19:30:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_points_over_under,malik beasley,True,7.5,108,2023-03-26T21:00:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_points_over_under,malik beasley,True,6.5,-205,2023-03-26T21:30:02,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_blocks_over_under,malik beasley,False,0.5,-100000,2023-03-26T21:30:02,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_blocks_over_under,malik beasley,True,0.5,1000,2023-03-26T20:15:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_assists_over_under,malik beasley,False,2.5,-1100,2023-03-26T21:45:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_assists_over_under,malik beasley,False,1.5,-1400,2023-03-26T21:30:02,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_assists_over_under,malik beasley,False,0.5,-162,2023-03-26T21:00:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_assists_over_under,malik beasley,True,2.5,550,2023-03-26T21:45:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_assists_over_under,malik beasley,True,1.5,630,2023-03-26T21:30:02,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_assists_over_under,malik beasley,True,0.5,122,2023-03-26T21:00:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_rebounds_over_under,malik beasley,True,3.5,220,2023-03-26T21:45:01,Los Angeles Lakers,Chicago Bulls
+2023-03-26,fc7b2c990385b831b0bbb3e3109b4ac1,fanduel,player_rebounds_over_under,malik beasley,False,1.5,148,2023-03-26T21:15:01,Los Angeles Lakers,Chicago Bulls
+2023-03-29,00b7ab695415b5bf05af88374d911a3c,fanduel,player_points_over_under,malik beasley,False,7.5,100,2023-03-30T00:00:01,Chicago Bulls,Los Angeles Lakers
+2023-03-29,00b7ab695415b5bf05af88374d911a3c,fanduel,player_points_over_under,malik beasley,True,7.5,-122,2023-03-30T00:00:01,Chicago Bulls,Los Angeles Lakers
+2023-04-05,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_rebounds_over_under,malik beasley,False,2.5,110,2023-04-05T00:36:01,Utah Jazz,Los Angeles Lakers
+2023-04-05,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_threes_over_under,malik beasley,False,2.5,-160,2023-04-05T00:36:01,Utah Jazz,Los Angeles Lakers
+2023-04-05,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_threes_over_under,malik beasley,True,2.5,130,2023-04-05T00:36:01,Utah Jazz,Los Angeles Lakers
+2023-04-05,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_threes_over_under,malik beasley,False,2.5,-140,2023-04-05T00:48:01,Utah Jazz,Los Angeles Lakers
+2023-04-05,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_threes_over_under,malik beasley,True,2.5,110,2023-04-05T00:48:01,Utah Jazz,Los Angeles Lakers
+2023-04-05,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_steals_over_under,malik beasley,False,0.5,-115,2023-04-05T00:36:01,Utah Jazz,Los Angeles Lakers
+2023-04-05,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_steals_over_under,malik beasley,True,0.5,-115,2023-04-05T00:36:01,Utah Jazz,Los Angeles Lakers
+2023-04-05,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_points_over_under,malik beasley,False,9.5,-104,2023-04-05T01:00:01,Utah Jazz,Los Angeles Lakers
+2023-04-05,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_rebounds_over_under,malik beasley,True,2.5,-140,2023-04-05T00:36:01,Utah Jazz,Los Angeles Lakers
+2023-04-05,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_points_over_under,malik beasley,False,9.5,100,2023-04-05T01:00:01,Utah Jazz,Los Angeles Lakers
+2023-04-05,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_points_over_under,malik beasley,True,9.5,-130,2023-04-05T01:00:01,Utah Jazz,Los Angeles Lakers
+2023-04-05,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,player_points_over_under,malik beasley,True,9.5,-118,2023-04-05T01:00:01,Utah Jazz,Los Angeles Lakers
+2023-04-05,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_blocks_over_under,malik beasley,False,0.5,-1300,2023-04-05T00:36:01,Utah Jazz,Los Angeles Lakers
+2023-04-05,1585d13c33de670c5b1fd1370a1b3ea5,draftkings,player_blocks_over_under,malik beasley,True,0.5,750,2023-04-05T00:36:01,Utah Jazz,Los Angeles Lakers
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_threes_over_under,malik beasley,False,1.5,110,2023-04-08T02:15:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_blocks_over_under,malik beasley,True,0.5,800,2023-04-08T02:15:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,caesars,player_threes_over_under,malik beasley,True,1.5,-151,2023-04-08T02:15:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_blocks_over_under,malik beasley,False,0.5,-1450,2023-04-08T02:15:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_points_over_under,malik beasley,False,8.5,-125,2023-04-08T02:15:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,caesars,player_points_over_under,malik beasley,False,8.5,-117,2023-04-08T02:15:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_rebounds_over_under,malik beasley,True,2.5,115,2023-04-08T02:15:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,caesars,player_threes_over_under,malik beasley,False,1.5,110,2023-04-08T02:15:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_steals_over_under,malik beasley,True,0.5,115,2023-04-08T02:15:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_steals_over_under,malik beasley,False,0.5,-145,2023-04-08T02:15:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_threes_over_under,malik beasley,True,1.5,-140,2023-04-08T02:15:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_points_over_under,malik beasley,True,8.5,-105,2023-04-08T02:15:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,draftkings,player_rebounds_over_under,malik beasley,False,2.5,-145,2023-04-08T02:15:01,Los Angeles Lakers,Phoenix Suns
+2023-04-07,25cde6329053b8107760088193660ecf,caesars,player_points_over_under,malik beasley,True,8.5,-117,2023-04-08T02:15:01,Los Angeles Lakers,Phoenix Suns
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_steals_over_under,malik beasley,False,0.5,115,2023-04-09T18:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,caesars,player_threes_over_under,malik beasley,False,2.5,-154,2023-04-09T18:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,caesars,player_threes_over_under,malik beasley,True,2.5,112,2023-04-09T18:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_threes_over_under,malik beasley,False,2.5,-165,2023-04-09T19:15:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_threes_over_under,malik beasley,True,2.5,130,2023-04-09T19:15:01,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_steals_over_under,malik beasley,True,0.5,-145,2023-04-09T18:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_rebounds_over_under,malik beasley,True,2.5,-125,2023-04-09T18:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_rebounds_over_under,malik beasley,False,2.5,-105,2023-04-09T18:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,caesars,player_points_over_under,malik beasley,True,10.5,-117,2023-04-09T18:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_points_over_under,malik beasley,False,10.5,-110,2023-04-09T18:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_points_over_under,malik beasley,True,10.5,-120,2023-04-09T18:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_blocks_over_under,malik beasley,False,0.5,-1100,2023-04-09T18:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,draftkings,player_blocks_over_under,malik beasley,True,0.5,675,2023-04-09T18:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-09,ffde7eef5489472ff2e6185a1931462e,caesars,player_points_over_under,malik beasley,False,10.5,-117,2023-04-09T18:45:02,Los Angeles Lakers,Utah Jazz
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,caesars,player_threes_over_under,malik beasley,True,1.5,-127,2023-04-11T23:15:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_threes_over_under,malik beasley,False,1.5,-105,2023-04-11T23:15:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,caesars,player_threes_over_under,malik beasley,False,1.5,-108,2023-04-11T23:15:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_steals_over_under,malik beasley,True,0.5,120,2023-04-11T18:30:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_threes_over_under,malik beasley,False,1.5,-105,2023-04-11T23:15:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_steals_over_under,malik beasley,False,0.5,-160,2023-04-11T18:30:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_threes_over_under,malik beasley,True,1.5,-125,2023-04-11T23:15:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,fanduel,player_threes_over_under,malik beasley,False,1.5,122,2023-04-12T02:15:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_threes_over_under,malik beasley,True,1.5,-125,2023-04-11T23:15:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_assists_over_under,malik beasley,True,0.5,-120,2023-04-11T18:30:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_steals_over_under,malik beasley,False,0.5,-150,2023-04-11T18:30:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_steals_over_under,malik beasley,True,0.5,120,2023-04-11T18:30:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_rebounds_over_under,malik beasley,False,2.5,-200,2023-04-11T18:30:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_rebounds_over_under,malik beasley,True,2.5,145,2023-04-11T18:30:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_rebounds_over_under,malik beasley,False,2.5,-185,2023-04-11T18:30:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_rebounds_over_under,malik beasley,True,2.5,150,2023-04-11T18:30:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_points_over_under,malik beasley,False,7.5,-120,2023-04-11T18:30:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_points_over_under,malik beasley,True,7.5,-110,2023-04-11T18:30:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_points_over_under,malik beasley,False,7.5,-120,2023-04-11T18:30:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_points_over_under,malik beasley,True,7.5,-110,2023-04-11T18:30:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,fanduel,player_threes_over_under,malik beasley,True,1.5,-156,2023-04-12T02:15:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,fanduel,player_points_over_under,malik beasley,False,7.5,-122,2023-04-12T02:00:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,fanduel,player_points_over_under,malik beasley,True,7.5,100,2023-04-12T02:00:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,fanduel,player_points_over_under,malik beasley,True,6.5,-130,2023-04-12T02:15:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_blocks_over_under,malik beasley,False,0.5,-2000,2023-04-11T18:30:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_blocks_over_under,malik beasley,True,0.5,725,2023-04-11T18:30:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_blocks_over_under,malik beasley,False,0.5,-1450,2023-04-11T18:30:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,draftkings,player_blocks_over_under,malik beasley,True,0.5,800,2023-04-11T18:30:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,betmgm,player_assists_over_under,malik beasley,False,0.5,-110,2023-04-11T18:30:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-11,45b9dbf2753a0d5e874f239039ee61a9,fanduel,player_points_over_under,malik beasley,False,6.5,106,2023-04-12T02:15:01,Los Angeles Lakers,Minnesota Timberwolves
+2023-04-16,b00e76392164297c63f9aaaf35194821,draftkings,player_threes_over_under,malik beasley,False,1.5,-140,2023-04-16T16:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,caesars,player_threes_over_under,malik beasley,True,1.5,123,2023-04-16T14:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,caesars,player_threes_over_under,malik beasley,False,1.5,-169,2023-04-16T14:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,betmgm,player_threes_over_under,malik beasley,True,1.5,125,2023-04-16T14:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,betmgm,player_threes_over_under,malik beasley,False,1.5,-165,2023-04-16T14:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,betmgm,player_points_over_under,malik beasley,False,5.5,-110,2023-04-16T14:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,betmgm,player_assists_over_under,malik beasley,True,0.5,-105,2023-04-16T14:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,betmgm,player_assists_over_under,malik beasley,False,0.5,-125,2023-04-16T14:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,draftkings,player_blocks_over_under,malik beasley,True,0.5,900,2023-04-16T14:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,draftkings,player_blocks_over_under,malik beasley,False,0.5,-1700,2023-04-16T14:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,betmgm,player_blocks_over_under,malik beasley,True,0.5,800,2023-04-16T14:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,betmgm,player_blocks_over_under,malik beasley,False,0.5,-2500,2023-04-16T14:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,betmgm,player_points_over_under,malik beasley,True,5.5,-120,2023-04-16T14:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,draftkings,player_threes_over_under,malik beasley,True,1.5,110,2023-04-16T16:00:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,betmgm,player_rebounds_over_under,malik beasley,True,1.5,-125,2023-04-16T14:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,betmgm,player_rebounds_over_under,malik beasley,False,1.5,-105,2023-04-16T14:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,draftkings,player_steals_over_under,malik beasley,True,0.5,180,2023-04-16T14:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,draftkings,player_steals_over_under,malik beasley,False,0.5,-220,2023-04-16T14:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,betmgm,player_steals_over_under,malik beasley,True,0.5,170,2023-04-16T14:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-16,b00e76392164297c63f9aaaf35194821,betmgm,player_steals_over_under,malik beasley,False,0.5,-225,2023-04-16T14:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,betmgm,player_blocks_over_under,malik beasley,True,0.5,950,2023-04-19T20:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,betmgm,player_assists_over_under,malik beasley,True,0.5,120,2023-04-19T20:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_blocks_over_under,malik beasley,True,0.5,1100,2023-04-19T20:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_blocks_over_under,malik beasley,False,0.5,-2500,2023-04-19T20:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,betmgm,player_threes_over_under,malik beasley,False,1.5,-250,2023-04-19T20:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,betmgm,player_blocks_over_under,malik beasley,False,0.5,-5000,2023-04-19T20:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,betmgm,player_points_over_under,malik beasley,True,4.5,-110,2023-04-19T20:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,betmgm,player_points_over_under,malik beasley,False,4.5,-120,2023-04-19T20:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,betmgm,player_rebounds_over_under,malik beasley,True,1.5,115,2023-04-19T20:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,betmgm,player_rebounds_over_under,malik beasley,False,1.5,-155,2023-04-19T20:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_steals_over_under,malik beasley,True,0.5,205,2023-04-19T20:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_steals_over_under,malik beasley,False,0.5,-255,2023-04-19T20:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,betmgm,player_steals_over_under,malik beasley,True,0.5,195,2023-04-19T20:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,betmgm,player_steals_over_under,malik beasley,False,0.5,-275,2023-04-19T20:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_threes_over_under,malik beasley,True,1.5,180,2023-04-19T20:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,betmgm,player_assists_over_under,malik beasley,False,0.5,-160,2023-04-19T20:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,draftkings,player_threes_over_under,malik beasley,False,1.5,-220,2023-04-19T20:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-19,dc17f8f86e535282fd61c83d67a9a30b,betmgm,player_threes_over_under,malik beasley,True,1.5,175,2023-04-19T20:15:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,betmgm,player_points_over_under,malik beasley,True,4.5,-125,2023-04-22T16:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,betmgm,player_assists_over_under,malik beasley,False,0.5,-150,2023-04-22T16:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,betmgm,player_blocks_over_under,malik beasley,False,0.5,-1600,2023-04-22T16:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,betmgm,player_blocks_over_under,malik beasley,True,0.5,675,2023-04-22T16:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,betmgm,player_threes_over_under,malik beasley,False,1.5,-225,2023-04-22T16:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,betmgm,player_threes_over_under,malik beasley,True,1.5,160,2023-04-23T01:15:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_threes_over_under,malik beasley,False,1.5,-210,2023-04-22T16:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_threes_over_under,malik beasley,True,1.5,170,2023-04-22T16:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,betmgm,player_steals_over_under,malik beasley,False,0.5,-250,2023-04-22T16:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_blocks_over_under,malik beasley,False,0.5,-1300,2023-04-22T16:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_steals_over_under,malik beasley,False,0.5,-240,2023-04-22T16:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_steals_over_under,malik beasley,True,0.5,195,2023-04-22T16:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,betmgm,player_rebounds_over_under,malik beasley,False,1.5,-225,2023-04-22T16:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,betmgm,player_assists_over_under,malik beasley,True,0.5,110,2023-04-22T16:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,draftkings,player_blocks_over_under,malik beasley,True,0.5,750,2023-04-22T16:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,betmgm,player_steals_over_under,malik beasley,True,0.5,185,2023-04-22T16:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,betmgm,player_rebounds_over_under,malik beasley,True,1.5,170,2023-04-22T16:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-22,dbceb7d236106a2e8843f1a15624cedb,betmgm,player_points_over_under,malik beasley,False,4.5,-105,2023-04-22T16:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,betmgm,player_threes_over_under,malik beasley,True,0.5,-200,2023-04-24T23:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,pinnacle,player_assists_over_under,malik beasley,True,0.5,120,2023-04-24T23:10:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,betmgm,player_assists_over_under,malik beasley,True,0.5,120,2023-04-24T23:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,betmgm,player_assists_over_under,malik beasley,False,0.5,-160,2023-04-24T23:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,draftkings,player_blocks_over_under,malik beasley,True,0.5,625,2023-04-24T23:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,draftkings,player_blocks_over_under,malik beasley,False,0.5,-1000,2023-04-24T23:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,betmgm,player_blocks_over_under,malik beasley,True,0.5,575,2023-04-24T23:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,betmgm,player_blocks_over_under,malik beasley,False,0.5,-1200,2023-04-24T23:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,fanduel,player_points_over_under,malik beasley,True,3.5,-142,2023-04-25T02:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,fanduel,player_points_over_under,malik beasley,False,3.5,116,2023-04-25T02:00:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,pinnacle,player_points_over_under,malik beasley,True,4.5,-103,2023-04-24T23:10:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,pinnacle,player_points_over_under,malik beasley,False,4.5,-128,2023-04-24T23:10:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,betmgm,player_points_over_under,malik beasley,True,4.5,-105,2023-04-24T23:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,betmgm,player_threes_over_under,malik beasley,False,0.5,150,2023-04-24T23:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,betmgm,player_points_over_under,malik beasley,False,4.5,-130,2023-04-24T23:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,pinnacle,player_rebounds_over_under,malik beasley,False,1.5,-174,2023-04-24T23:10:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,betmgm,player_rebounds_over_under,malik beasley,True,1.5,125,2023-04-24T23:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,betmgm,player_rebounds_over_under,malik beasley,False,1.5,-165,2023-04-24T23:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,draftkings,player_steals_over_under,malik beasley,True,0.5,195,2023-04-24T23:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,draftkings,player_steals_over_under,malik beasley,False,0.5,-240,2023-04-24T23:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,betmgm,player_steals_over_under,malik beasley,True,0.5,185,2023-04-24T23:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,betmgm,player_steals_over_under,malik beasley,False,0.5,-250,2023-04-24T23:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,pinnacle,player_threes_over_under,malik beasley,True,0.5,-212,2023-04-24T23:10:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,pinnacle,player_threes_over_under,malik beasley,True,1.5,165,2023-04-23T19:45:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,pinnacle,player_threes_over_under,malik beasley,False,0.5,152,2023-04-24T23:10:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,pinnacle,player_threes_over_under,malik beasley,False,1.5,-234,2023-04-23T19:45:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,draftkings,player_threes_over_under,malik beasley,True,0.5,-190,2023-04-24T23:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,draftkings,player_threes_over_under,malik beasley,False,0.5,155,2023-04-24T23:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,pinnacle,player_rebounds_over_under,malik beasley,True,1.5,128,2023-04-24T23:10:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-24,c55751da43014d248c1d0bbe1c19f71a,pinnacle,player_assists_over_under,malik beasley,False,0.5,-162,2023-04-24T23:10:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,draftkings,player_steals_over_under,malik beasley,True,0.5,235,2023-04-26T21:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,betmgm,player_threes_over_under,malik beasley,True,0.5,-250,2023-04-26T21:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,betmgm,player_threes_over_under,malik beasley,False,0.5,170,2023-04-26T21:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,pinnacle,player_assists_over_under,malik beasley,True,0.5,155,2023-04-26T21:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,pinnacle,player_assists_over_under,malik beasley,False,0.5,-218,2023-04-26T21:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,betmgm,player_assists_over_under,malik beasley,True,0.5,150,2023-04-26T21:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,betmgm,player_assists_over_under,malik beasley,False,0.5,-210,2023-04-26T21:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,draftkings,player_blocks_over_under,malik beasley,True,0.5,1100,2023-04-26T21:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,draftkings,player_blocks_over_under,malik beasley,False,0.5,-2500,2023-04-26T21:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,betmgm,player_blocks_over_under,malik beasley,True,0.5,950,2023-04-26T21:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,pinnacle,player_points_over_under,malik beasley,True,3.5,-124,2023-04-26T22:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,pinnacle,player_points_over_under,malik beasley,True,4.5,-116,2023-04-25T16:00:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,pinnacle,player_points_over_under,malik beasley,False,3.5,-106,2023-04-26T22:45:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,pinnacle,player_points_over_under,malik beasley,False,4.5,-114,2023-04-25T16:00:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,betmgm,player_points_over_under,malik beasley,True,3.5,-115,2023-04-26T21:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,betmgm,player_blocks_over_under,malik beasley,False,0.5,-5000,2023-04-26T21:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,pinnacle,player_rebounds_over_under,malik beasley,True,1.5,133,2023-04-26T23:00:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,draftkings,player_threes_over_under,malik beasley,False,0.5,180,2023-04-26T21:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,betmgm,player_points_over_under,malik beasley,False,3.5,-115,2023-04-26T21:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,pinnacle,player_threes_over_under,malik beasley,False,0.5,176,2023-04-26T21:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,pinnacle,player_threes_over_under,malik beasley,True,0.5,-254,2023-04-26T21:30:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,betmgm,player_steals_over_under,malik beasley,False,0.5,-350,2023-04-26T21:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,betmgm,player_steals_over_under,malik beasley,True,0.5,225,2023-04-26T21:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,draftkings,player_threes_over_under,malik beasley,True,0.5,-220,2023-04-26T21:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,betmgm,player_rebounds_over_under,malik beasley,False,1.5,-200,2023-04-26T21:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,betmgm,player_rebounds_over_under,malik beasley,True,1.5,145,2023-04-26T21:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,pinnacle,player_rebounds_over_under,malik beasley,False,1.5,-183,2023-04-26T23:00:02,Memphis Grizzlies,Los Angeles Lakers
+2023-04-26,a49e1e84d21df8452b4727b36bd13877,draftkings,player_steals_over_under,malik beasley,False,0.5,-300,2023-04-26T21:30:01,Memphis Grizzlies,Los Angeles Lakers
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,draftkings,player_steals_over_under,malik beasley,True,0.5,220,2023-04-28T19:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,betmgm,player_threes_over_under,malik beasley,True,0.5,-250,2023-04-28T19:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,caesars,player_threes_over_under,malik beasley,False,0.5,172,2023-04-28T19:37:59,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,caesars,player_threes_over_under,malik beasley,True,0.5,-244,2023-04-28T19:37:59,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,draftkings,player_threes_over_under,malik beasley,False,0.5,165,2023-04-28T23:00:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,pinnacle,player_threes_over_under,malik beasley,False,0.5,139,2023-04-28T22:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,pinnacle,player_threes_over_under,malik beasley,True,0.5,-195,2023-04-28T22:15:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,betmgm,player_steals_over_under,malik beasley,False,0.5,-300,2023-04-28T19:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,betmgm,player_steals_over_under,malik beasley,True,0.5,210,2023-04-28T19:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,draftkings,player_steals_over_under,malik beasley,False,0.5,-280,2023-04-28T19:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,betmgm,player_threes_over_under,malik beasley,False,0.5,175,2023-04-28T19:45:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,draftkings,player_threes_over_under,malik beasley,True,0.5,-205,2023-04-28T23:00:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,betmgm,player_rebounds_over_under,malik beasley,False,1.5,-165,2023-04-28T19:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,betmgm,player_rebounds_over_under,malik beasley,True,1.5,125,2023-04-28T19:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,betmgm,player_blocks_over_under,malik beasley,False,0.5,-2000,2023-04-28T19:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,betmgm,player_points_over_under,malik beasley,False,4.5,-130,2023-04-28T19:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,betmgm,player_points_over_under,malik beasley,True,4.5,-105,2023-04-28T19:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,pinnacle,player_points_over_under,malik beasley,False,4.5,-130,2023-04-29T01:30:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,pinnacle,player_points_over_under,malik beasley,True,4.5,-102,2023-04-29T01:30:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,betmgm,player_blocks_over_under,malik beasley,True,0.5,725,2023-04-28T19:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,draftkings,player_blocks_over_under,malik beasley,False,0.5,-1450,2023-04-28T19:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,pinnacle,player_rebounds_over_under,malik beasley,False,1.5,-171,2023-04-28T19:30:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,betmgm,player_assists_over_under,malik beasley,False,0.5,-185,2023-04-28T19:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,betmgm,player_assists_over_under,malik beasley,True,0.5,135,2023-04-28T19:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,pinnacle,player_assists_over_under,malik beasley,False,0.5,-192,2023-04-28T19:30:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,pinnacle,player_assists_over_under,malik beasley,True,0.5,140,2023-04-28T19:30:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,pinnacle,player_rebounds_over_under,malik beasley,True,1.5,126,2023-04-28T19:30:02,Los Angeles Lakers,Memphis Grizzlies
+2023-04-28,5243998e9092f4a022861cc503c8ce9d,draftkings,player_blocks_over_under,malik beasley,True,0.5,800,2023-04-28T19:30:01,Los Angeles Lakers,Memphis Grizzlies
+2023-05-04,e012bab75156a2414fba68da0eee2da5,pinnacle,player_points_over_under,malik beasley,True,4.5,-103,2023-05-03T02:15:02,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,draftkings,player_points_over_under,malik beasley,False,3.5,-170,2023-05-03T02:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,draftkings,player_points_over_under,malik beasley,False,0.5,-3000,2023-05-03T04:00:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,draftkings,player_points_over_under,malik beasley,True,4.5,100,2023-05-03T02:30:02,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,draftkings,player_points_over_under,malik beasley,True,3.5,130,2023-05-03T02:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,draftkings,player_points_over_under,malik beasley,True,0.5,900,2023-05-03T04:00:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,pinnacle,player_points_over_under,malik beasley,False,4.5,-128,2023-05-03T02:15:02,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,draftkings,player_points_over_under,malik beasley,False,4.5,-130,2023-05-03T02:30:02,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,fanduel,player_points_over_under,malik beasley,False,4.5,-132,2023-05-03T02:30:02,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,fanduel,player_points_over_under,malik beasley,False,1.5,-245,2023-05-03T03:00:02,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,fanduel,player_assists_over_under,malik beasley,True,0.5,1000,2023-05-03T03:30:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,fanduel,player_assists_over_under,malik beasley,False,0.5,-100000,2023-05-03T03:30:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,pinnacle,player_assists_over_under,malik beasley,True,0.5,151,2023-05-03T02:15:02,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,pinnacle,player_assists_over_under,malik beasley,False,0.5,-211,2023-05-03T02:15:02,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,betmgm,player_assists_over_under,malik beasley,True,0.5,150,2023-05-02T15:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,betmgm,player_assists_over_under,malik beasley,False,0.5,-200,2023-05-02T15:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,fanduel,player_blocks_over_under,malik beasley,True,0.5,1000,2023-05-03T02:30:02,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,fanduel,player_blocks_over_under,malik beasley,False,0.5,-100000,2023-05-03T03:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,draftkings,player_blocks_over_under,malik beasley,True,0.5,1100,2023-05-02T15:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,draftkings,player_blocks_over_under,malik beasley,False,0.5,-2500,2023-05-02T15:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,betmgm,player_blocks_over_under,malik beasley,True,0.5,950,2023-05-02T15:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,betmgm,player_blocks_over_under,malik beasley,False,0.5,-5000,2023-05-02T15:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,fanduel,player_points_over_under,malik beasley,True,0.5,1000,2023-05-03T04:00:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,fanduel,player_points_over_under,malik beasley,True,1.5,178,2023-05-03T03:00:02,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,fanduel,player_points_over_under,malik beasley,True,3.5,134,2023-05-03T02:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,fanduel,player_points_over_under,malik beasley,True,4.5,100,2023-05-03T02:30:02,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,fanduel,player_points_over_under,malik beasley,False,0.5,-10000,2023-05-03T04:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,fanduel,player_points_over_under,malik beasley,False,3.5,-180,2023-05-03T02:45:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,betmgm,player_points_over_under,malik beasley,True,4.5,-120,2023-05-02T15:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,fanduel,player_rebounds_over_under,malik beasley,True,1.5,128,2023-05-03T02:30:02,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,fanduel,player_rebounds_over_under,malik beasley,True,0.5,1000,2023-05-03T03:30:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,draftkings,player_rebounds_over_under,malik beasley,True,1.5,120,2023-05-03T02:30:02,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,draftkings,player_rebounds_over_under,malik beasley,False,0.5,-350,2023-05-03T03:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,draftkings,player_rebounds_over_under,malik beasley,False,1.5,-160,2023-05-03T02:30:02,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,betmgm,player_rebounds_over_under,malik beasley,True,1.5,115,2023-05-02T15:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,betmgm,player_rebounds_over_under,malik beasley,False,1.5,-155,2023-05-02T15:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,fanduel,player_steals_over_under,malik beasley,True,0.5,1000,2023-05-03T03:30:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,fanduel,player_steals_over_under,malik beasley,False,0.5,-100000,2023-05-03T03:30:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,draftkings,player_steals_over_under,malik beasley,True,0.5,800,2023-05-03T03:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,draftkings,player_steals_over_under,malik beasley,False,0.5,-2500,2023-05-03T03:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,betmgm,player_steals_over_under,malik beasley,True,0.5,185,2023-05-03T01:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,betmgm,player_steals_over_under,malik beasley,False,0.5,-250,2023-05-03T01:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,fanduel,player_threes_over_under,malik beasley,True,0.5,1000,2023-05-03T03:30:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,fanduel,player_threes_over_under,malik beasley,False,0.5,-100000,2023-05-03T04:00:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,pinnacle,player_threes_over_under,malik beasley,True,0.5,-215,2023-05-03T02:15:02,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,betmgm,player_points_over_under,malik beasley,False,4.5,-110,2023-05-02T15:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,draftkings,player_threes_over_under,malik beasley,True,0.5,310,2023-05-03T03:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,draftkings,player_threes_over_under,malik beasley,False,0.5,-475,2023-05-03T03:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,betmgm,player_threes_over_under,malik beasley,True,0.5,-250,2023-05-02T15:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,betmgm,player_threes_over_under,malik beasley,False,0.5,180,2023-05-02T15:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,draftkings,player_rebounds_over_under,malik beasley,True,0.5,245,2023-05-03T03:15:01,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,pinnacle,player_rebounds_over_under,malik beasley,False,1.5,-208,2023-05-03T02:15:02,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,pinnacle,player_threes_over_under,malik beasley,False,0.5,151,2023-05-03T02:15:02,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,fanduel,player_rebounds_over_under,malik beasley,False,1.5,-172,2023-05-03T02:30:02,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,pinnacle,player_rebounds_over_under,malik beasley,True,1.5,152,2023-05-03T02:15:02,Golden State Warriors,Los Angeles Lakers
+2023-05-04,e012bab75156a2414fba68da0eee2da5,fanduel,player_rebounds_over_under,malik beasley,False,0.5,-100000,2023-05-03T04:15:01,Golden State Warriors,Los Angeles Lakers
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_rebounds_over_under,malik beasley,True,3.5,-135,2023-10-30T00:05:07,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_steals_over_under,malik beasley,True,0.5,135,2023-10-30T00:05:07,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_steals_over_under,malik beasley,False,2.5,-100000,2023-10-30T01:15:21,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_steals_over_under,malik beasley,False,1.5,-350,2023-10-30T00:30:06,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_steals_over_under,malik beasley,False,0.5,-182,2023-10-30T00:00:23,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_steals_over_under,malik beasley,True,2.5,1000,2023-10-30T01:15:21,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_steals_over_under,malik beasley,True,1.5,240,2023-10-30T00:30:06,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_steals_over_under,malik beasley,True,0.5,136,2023-10-30T00:00:23,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,betrivers,player_rebounds_over_under,malik beasley,True,3.5,106,2023-10-29T23:00:43,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,betrivers,player_rebounds_over_under,malik beasley,True,2.5,-240,2023-10-29T22:30:10,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_rebounds_over_under,malik beasley,False,5.5,-200,2023-10-30T00:35:23,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_rebounds_over_under,malik beasley,False,4.5,-185,2023-10-30T00:25:03,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_rebounds_over_under,malik beasley,False,3.5,135,2023-10-30T00:05:05,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_rebounds_over_under,malik beasley,True,5.5,140,2023-10-30T00:35:23,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_rebounds_over_under,malik beasley,True,4.5,130,2023-10-30T00:25:03,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_rebounds_over_under,malik beasley,True,3.5,-190,2023-10-30T00:05:05,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_rebounds_over_under,malik beasley,True,2.5,-170,2023-10-29T23:25:11,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_rebounds_over_under,malik beasley,False,5.5,-220,2023-10-30T00:35:22,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_rebounds_over_under,malik beasley,False,4.5,-170,2023-10-30T01:10:25,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_rebounds_over_under,malik beasley,False,3.5,100,2023-10-30T00:05:07,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_rebounds_over_under,malik beasley,False,2.5,125,2023-10-29T23:25:24,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_rebounds_over_under,malik beasley,True,5.5,160,2023-10-30T00:35:22,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_rebounds_over_under,malik beasley,True,4.5,130,2023-10-30T01:10:25,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_steals_over_under,malik beasley,True,1.5,230,2023-10-30T00:30:43,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_rebounds_over_under,malik beasley,False,2.5,120,2023-10-29T23:25:11,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_steals_over_under,malik beasley,True,2.5,500,2023-10-30T01:10:25,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_steals_over_under,malik beasley,False,1.5,-330,2023-10-30T00:30:43,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_threes_over_under,malik beasley,True,1.5,-125,2023-10-30T00:40:22,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_threes_over_under,malik beasley,False,4.5,-235,2023-10-30T01:10:25,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_threes_over_under,malik beasley,False,2.5,-155,2023-10-30T00:45:46,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_threes_over_under,malik beasley,False,1.5,-110,2023-10-30T00:40:44,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_threes_over_under,malik beasley,True,4.5,170,2023-10-30T01:10:25,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_threes_over_under,malik beasley,True,2.5,115,2023-10-30T00:45:46,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_threes_over_under,malik beasley,True,1.5,-120,2023-10-30T00:40:44,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,pinnacle,player_threes_over_under,malik beasley,False,2.5,-110,2023-10-29T19:00:19,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,pinnacle,player_threes_over_under,malik beasley,True,2.5,-119,2023-10-29T19:00:19,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_threes_over_under,malik beasley,False,4.5,-192,2023-10-30T00:55:14,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_threes_over_under,malik beasley,False,2.5,-120,2023-10-30T00:45:20,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_threes_over_under,malik beasley,False,1.5,235,2023-10-30T00:35:31,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_threes_over_under,malik beasley,True,4.5,142,2023-10-30T00:55:14,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_threes_over_under,malik beasley,True,2.5,-110,2023-10-30T00:45:20,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_threes_over_under,malik beasley,True,1.5,-340,2023-10-30T00:35:31,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_steals_over_under,malik beasley,False,1.5,-325,2023-10-30T00:30:04,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_steals_over_under,malik beasley,False,0.5,-180,2023-10-30T00:05:05,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_rebounds_over_under,malik beasley,True,2.5,-170,2023-10-29T23:25:24,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_threes_over_under,malik beasley,True,2.5,110,2023-10-30T00:05:05,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_threes_over_under,malik beasley,False,1.5,-115,2023-10-30T00:40:22,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_steals_over_under,malik beasley,True,1.5,210,2023-10-30T00:30:04,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_steals_over_under,malik beasley,True,0.5,125,2023-10-30T00:05:05,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_steals_over_under,malik beasley,False,2.5,-1000,2023-10-30T01:10:25,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_steals_over_under,malik beasley,False,0.5,-180,2023-10-30T00:05:07,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_rebounds_over_under,malik beasley,False,5.5,-230,2023-10-30T00:35:31,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_assists_over_under,malik beasley,False,2.5,-245,2023-10-29T23:55:12,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,malik beasley,True,12.5,160,2023-10-29T23:05:34,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,betrivers,player_points_over_under,malik beasley,True,9.5,-137,2023-10-29T23:00:43,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,betrivers,player_points_over_under,malik beasley,True,10.5,-106,2023-10-29T23:00:43,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,betrivers,player_points_over_under,malik beasley,True,11.5,133,2023-10-29T23:00:43,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,betrivers,player_points_over_under,malik beasley,True,12.5,175,2023-10-29T23:00:43,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_rebounds_over_under,malik beasley,True,2.5,-174,2023-10-29T23:25:10,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_rebounds_over_under,malik beasley,True,3.5,-136,2023-10-30T00:05:14,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_rebounds_over_under,malik beasley,True,4.5,1000,2023-10-30T01:15:21,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,betrivers,player_points_over_under,malik beasley,True,8.5,-210,2023-10-29T23:00:43,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_rebounds_over_under,malik beasley,True,5.5,168,2023-10-30T00:35:31,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_rebounds_over_under,malik beasley,False,3.5,102,2023-10-30T00:05:14,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,malik beasley,False,9.5,120,2023-10-29T23:05:34,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,malik beasley,False,8.5,165,2023-10-29T23:05:34,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,malik beasley,True,18.5,100,2023-10-30T01:10:25,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,malik beasley,True,13.5,-140,2023-10-30T00:45:46,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,malik beasley,True,12.5,115,2023-10-30T00:35:22,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,malik beasley,True,11.5,-145,2023-10-30T00:40:44,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_rebounds_over_under,malik beasley,False,2.5,130,2023-10-29T23:25:10,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,betrivers,player_points_over_under,malik beasley,True,7.5,-360,2023-10-29T23:00:43,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_points_over_under,malik beasley,False,13.5,-115,2023-10-30T00:01:10,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_points_over_under,malik beasley,False,12.5,-105,2023-10-30T00:05:05,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,malik beasley,False,11.5,-150,2023-10-29T23:05:34,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,malik beasley,True,10.5,105,2023-10-30T00:30:43,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,malik beasley,False,12.5,-205,2023-10-29T23:05:34,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,malik beasley,False,9.5,-125,2023-10-29T23:25:24,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,malik beasley,False,10.5,-140,2023-10-30T00:30:43,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,malik beasley,False,11.5,110,2023-10-30T00:40:44,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,malik beasley,False,12.5,-150,2023-10-30T00:35:22,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,malik beasley,False,13.5,105,2023-10-30T00:45:46,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,malik beasley,False,18.5,-130,2023-10-30T01:10:25,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_points_over_under,malik beasley,True,9.5,-130,2023-10-29T23:20:26,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_points_over_under,malik beasley,True,10.5,100,2023-10-30T00:30:04,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_points_over_under,malik beasley,True,11.5,-150,2023-10-30T00:40:22,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_points_over_under,malik beasley,True,12.5,-135,2023-10-30T00:05:05,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_points_over_under,malik beasley,True,13.5,-125,2023-10-30T00:01:10,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_points_over_under,malik beasley,False,9.5,-110,2023-10-29T23:20:26,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_points_over_under,malik beasley,False,10.5,-140,2023-10-30T00:30:04,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_points_over_under,malik beasley,False,11.5,105,2023-10-30T00:40:22,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_assists_over_under,malik beasley,True,1.5,1000,2023-10-30T01:15:21,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_assists_over_under,malik beasley,True,2.5,178,2023-10-29T23:55:12,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_assists_over_under,malik beasley,False,1.5,-100000,2023-10-30T01:15:21,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_assists_over_under,malik beasley,True,1.5,265,2023-10-30T01:10:25,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,malik beasley,True,19.5,-113,2023-10-30T00:55:14,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,malik beasley,True,20.5,100,2023-10-30T00:50:07,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,malik beasley,False,8.5,102,2023-10-29T23:20:42,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,malik beasley,False,9.5,-108,2023-10-29T23:20:42,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,malik beasley,False,10.5,-104,2023-10-29T23:55:12,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,malik beasley,False,11.5,126,2023-10-30T00:40:05,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,malik beasley,False,12.5,-115,2023-10-30T00:35:31,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,malik beasley,False,13.5,-142,2023-10-30T00:10:16,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,malik beasley,False,14.5,-130,2023-10-30T00:45:20,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,malik beasley,False,18.5,-102,2023-10-30T00:45:20,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,malik beasley,False,19.5,-113,2023-10-30T00:55:14,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,malik beasley,False,20.5,-128,2023-10-30T00:50:07,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,pinnacle,player_points_over_under,malik beasley,True,10.5,-122,2023-10-29T19:00:19,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,pinnacle,player_points_over_under,malik beasley,False,10.5,-109,2023-10-29T19:00:19,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,malik beasley,True,8.5,-215,2023-10-29T23:05:34,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,malik beasley,True,9.5,-150,2023-10-29T23:05:34,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,malik beasley,True,11.5,115,2023-10-29T23:05:34,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,malik beasley,True,18.5,-125,2023-10-30T00:45:20,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_rebounds_over_under,malik beasley,False,4.5,-100000,2023-10-30T01:15:21,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,malik beasley,True,14.5,102,2023-10-30T00:45:20,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,malik beasley,True,12.5,-111,2023-10-30T00:35:31,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_assists_over_under,malik beasley,True,2.5,170,2023-10-29T23:55:07,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_assists_over_under,malik beasley,False,1.5,-390,2023-10-30T01:10:25,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_assists_over_under,malik beasley,False,2.5,-235,2023-10-29T23:55:07,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_assists_over_under,malik beasley,True,1.5,100,2023-10-29T23:25:11,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_assists_over_under,malik beasley,True,2.5,145,2023-10-29T23:55:15,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_assists_over_under,malik beasley,False,1.5,-140,2023-10-29T23:25:11,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_assists_over_under,malik beasley,False,2.5,-215,2023-10-29T23:55:15,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_blocks_over_under,malik beasley,True,0.5,1000,2023-10-30T00:35:31,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_blocks_over_under,malik beasley,False,0.5,-100000,2023-10-30T01:15:21,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_blocks_over_under,malik beasley,True,0.5,380,2023-10-29T23:05:34,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_blocks_over_under,malik beasley,False,0.5,-525,2023-10-29T23:05:34,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_blocks_over_under,malik beasley,True,0.5,340,2023-10-29T23:15:03,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_blocks_over_under,malik beasley,False,0.5,-575,2023-10-29T23:15:03,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,malik beasley,True,8.5,-130,2023-10-29T23:20:42,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,malik beasley,True,9.5,-118,2023-10-29T23:20:42,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,malik beasley,True,10.5,-122,2023-10-29T23:55:12,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,malik beasley,True,11.5,-162,2023-10-30T00:40:05,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,fanduel,player_points_over_under,malik beasley,True,13.5,112,2023-10-30T00:10:16,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,draftkings,player_points_over_under,malik beasley,True,9.5,-110,2023-10-29T23:25:24,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_assists_over_under,malik beasley,True,0.5,138,2023-10-27T01:00:21,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betrivers,player_threes_over_under,malik beasley,True,2.5,125,2023-10-26T23:26:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,malik beasley,True,9.5,-105,2023-10-26T23:40:25,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,malik beasley,True,8.5,120,2023-10-27T01:05:07,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,malik beasley,True,7.5,100,2023-10-27T01:25:11,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,malik beasley,True,6.5,-115,2023-10-27T01:25:11,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,malik beasley,True,5.5,550,2023-10-27T02:15:37,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,malik beasley,True,11.5,180,2023-10-26T23:40:25,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,malik beasley,False,6.5,225,2023-10-26T23:30:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,malik beasley,True,10.5,130,2023-10-26T23:40:25,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,malik beasley,True,8.5,-140,2023-10-26T23:40:25,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,malik beasley,True,7.5,-205,2023-10-26T23:40:25,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,malik beasley,True,6.5,-295,2023-10-26T23:30:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,pinnacle,player_points_over_under,malik beasley,False,9.5,-123,2023-10-26T23:40:06,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,pinnacle,player_points_over_under,malik beasley,False,8.5,-103,2023-10-26T13:35:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,pinnacle,player_points_over_under,malik beasley,True,9.5,-107,2023-10-26T23:40:06,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,malik beasley,True,9.5,105,2023-10-26T23:30:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,pinnacle,player_points_over_under,malik beasley,True,8.5,-128,2023-10-26T13:35:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,malik beasley,False,7.5,160,2023-10-26T23:40:25,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,malik beasley,False,9.5,-135,2023-10-26T23:30:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_points_over_under,malik beasley,True,8.5,115,2023-10-27T01:05:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_points_over_under,malik beasley,True,7.5,-115,2023-10-27T01:20:43,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_points_over_under,malik beasley,True,6.5,-130,2023-10-27T00:45:15,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betmgm,player_points_over_under,malik beasley,False,9.5,-135,2023-10-26T21:05:29,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betmgm,player_points_over_under,malik beasley,False,8.5,100,2023-10-26T23:35:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betmgm,player_points_over_under,malik beasley,True,9.5,100,2023-10-26T21:05:29,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,malik beasley,False,8.5,110,2023-10-26T23:40:25,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betmgm,player_points_over_under,malik beasley,True,8.5,-135,2023-10-26T23:35:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,malik beasley,False,8.5,-155,2023-10-27T01:05:07,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,malik beasley,False,7.5,-130,2023-10-27T01:25:11,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,malik beasley,False,6.5,-115,2023-10-27T01:25:11,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,malik beasley,False,5.5,-1200,2023-10-27T02:15:37,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,malik beasley,False,11.5,-235,2023-10-26T23:40:25,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,malik beasley,False,10.5,-170,2023-10-26T23:40:25,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_points_over_under,malik beasley,False,9.5,-120,2023-10-26T23:40:25,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_points_over_under,malik beasley,True,9.5,-115,2023-10-26T23:40:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_points_over_under,malik beasley,False,9.5,-138,2023-10-27T00:50:08,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_points_over_under,malik beasley,False,7.5,-138,2023-10-27T00:36:46,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_assists_over_under,malik beasley,False,2.5,-475,2023-10-27T01:55:13,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_assists_over_under,malik beasley,False,1.5,-200,2023-10-27T01:05:07,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_assists_over_under,malik beasley,False,0.5,-180,2023-10-27T00:55:13,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_assists_over_under,malik beasley,True,3.5,800,2023-10-27T02:11:08,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_assists_over_under,malik beasley,True,2.5,310,2023-10-27T01:55:13,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_assists_over_under,malik beasley,True,1.5,150,2023-10-27T01:05:07,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_assists_over_under,malik beasley,False,3.5,-2500,2023-10-27T02:11:08,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_assists_over_under,malik beasley,True,0.5,135,2023-10-27T00:55:13,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_assists_over_under,malik beasley,False,2.5,-470,2023-10-27T01:55:18,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_assists_over_under,malik beasley,False,1.5,-230,2023-10-27T01:05:32,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_assists_over_under,malik beasley,False,0.5,-186,2023-10-27T01:00:21,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_assists_over_under,malik beasley,True,3.5,1000,2023-10-27T02:15:28,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_assists_over_under,malik beasley,True,2.5,310,2023-10-27T01:55:18,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_assists_over_under,malik beasley,True,1.5,168,2023-10-27T01:05:32,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_assists_over_under,malik beasley,False,3.5,-50000,2023-10-27T02:15:28,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_points_over_under,malik beasley,False,8.5,-140,2023-10-27T00:25:08,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betmgm,player_assists_over_under,malik beasley,True,1.5,150,2023-10-26T23:35:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_assists_over_under,malik beasley,True,1.5,150,2023-10-26T23:40:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_points_over_under,malik beasley,False,6.5,102,2023-10-27T00:41:01,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_points_over_under,malik beasley,True,9.5,108,2023-10-27T00:50:08,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_points_over_under,malik beasley,True,8.5,110,2023-10-27T00:25:08,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_points_over_under,malik beasley,True,7.5,108,2023-10-27T00:36:46,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_points_over_under,malik beasley,True,6.5,-130,2023-10-27T00:41:01,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_blocks_over_under,malik beasley,False,0.5,-700,2023-10-26T23:40:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betmgm,player_assists_over_under,malik beasley,False,1.5,-210,2023-10-26T23:35:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_blocks_over_under,malik beasley,True,0.5,400,2023-10-26T23:40:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betmgm,player_blocks_over_under,malik beasley,True,0.5,425,2023-10-26T23:35:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_blocks_over_under,malik beasley,False,0.5,-650,2023-10-26T23:40:25,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_blocks_over_under,malik beasley,True,0.5,475,2023-10-26T23:40:25,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_blocks_over_under,malik beasley,False,0.5,-100000,2023-10-27T02:10:07,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_blocks_over_under,malik beasley,True,0.5,1000,2023-10-27T01:05:32,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_assists_over_under,malik beasley,False,1.5,-215,2023-10-26T23:40:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betmgm,player_blocks_over_under,malik beasley,False,0.5,-750,2023-10-26T23:35:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,barstool,player_threes_over_under,malik beasley,False,2.5,-160,2023-10-30T00:05:05,Milwaukee Bucks,Atlanta Hawks
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_points_over_under,malik beasley,False,6.5,-110,2023-10-27T00:45:15,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_points_over_under,malik beasley,False,8.5,-165,2023-10-27T01:05:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_steals_over_under,malik beasley,False,0.5,-375,2023-10-27T01:05:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_steals_over_under,malik beasley,True,1.5,500,2023-10-26T17:45:29,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_steals_over_under,malik beasley,True,0.5,235,2023-10-27T01:05:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betmgm,player_steals_over_under,malik beasley,False,0.5,-120,2023-10-26T23:35:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betmgm,player_steals_over_under,malik beasley,True,0.5,-115,2023-10-26T23:35:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_steals_over_under,malik beasley,False,2.5,-5000,2023-10-27T02:11:08,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_steals_over_under,malik beasley,False,1.5,-800,2023-10-26T17:45:29,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_steals_over_under,malik beasley,False,1.5,-1200,2023-10-27T01:55:13,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_steals_over_under,malik beasley,True,2.5,1000,2023-10-27T02:11:08,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_steals_over_under,malik beasley,True,1.5,600,2023-10-27T01:55:13,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_steals_over_under,malik beasley,True,0.5,370,2023-10-27T01:10:39,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_steals_over_under,malik beasley,False,2.5,-50000,2023-10-27T02:15:28,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_steals_over_under,malik beasley,False,1.5,-2000,2023-10-27T01:55:18,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_steals_over_under,malik beasley,False,0.5,-650,2023-10-27T01:10:29,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_steals_over_under,malik beasley,False,0.5,-600,2023-10-27T01:10:39,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_steals_over_under,malik beasley,True,2.5,1000,2023-10-27T02:05:28,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_threes_over_under,malik beasley,True,1.5,-106,2023-10-27T00:25:08,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_threes_over_under,malik beasley,False,1.5,-125,2023-10-27T00:25:08,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betrivers,player_threes_over_under,malik beasley,True,1.5,-275,2023-10-26T23:26:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_threes_over_under,malik beasley,False,2.5,-180,2023-10-26T23:45:03,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_threes_over_under,malik beasley,False,1.5,-180,2023-10-27T01:25:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_threes_over_under,malik beasley,True,2.5,125,2023-10-26T23:45:03,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_threes_over_under,malik beasley,True,1.5,125,2023-10-27T01:25:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betmgm,player_threes_over_under,malik beasley,False,2.5,-165,2023-10-26T23:35:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_threes_over_under,malik beasley,True,2.5,140,2023-10-26T23:45:30,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betmgm,player_threes_over_under,malik beasley,True,2.5,125,2023-10-26T23:35:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_threes_over_under,malik beasley,False,1.5,-5000,2023-10-27T02:15:37,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_threes_over_under,malik beasley,True,2.5,145,2023-10-26T23:45:36,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_threes_over_under,malik beasley,True,1.5,1400,2023-10-27T02:15:37,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,pinnacle,player_threes_over_under,malik beasley,False,2.5,-147,2023-10-26T23:40:06,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,pinnacle,player_threes_over_under,malik beasley,True,2.5,109,2023-10-26T23:40:06,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_threes_over_under,malik beasley,False,2.5,-188,2023-10-26T23:45:30,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_threes_over_under,malik beasley,False,2.5,-180,2023-10-26T23:45:36,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_points_over_under,malik beasley,False,7.5,-125,2023-10-27T01:20:43,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_steals_over_under,malik beasley,True,1.5,750,2023-10-27T01:55:18,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_rebounds_over_under,malik beasley,False,5.5,-185,2023-10-27T00:10:15,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_rebounds_over_under,malik beasley,False,4.5,-3000,2023-10-27T02:15:28,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_rebounds_over_under,malik beasley,False,3.5,134,2023-10-27T01:10:29,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_rebounds_over_under,malik beasley,False,2.5,118,2023-10-26T23:45:30,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_rebounds_over_under,malik beasley,True,5.5,134,2023-10-27T00:05:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_rebounds_over_under,malik beasley,True,4.5,880,2023-10-27T02:15:28,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_rebounds_over_under,malik beasley,True,3.5,-180,2023-10-27T01:10:29,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_rebounds_over_under,malik beasley,False,5.5,-180,2023-10-27T00:05:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_rebounds_over_under,malik beasley,True,2.5,-158,2023-10-26T23:45:30,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betrivers,player_points_over_under,malik beasley,True,10.5,120,2023-10-26T23:26:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betrivers,player_points_over_under,malik beasley,True,9.5,-112,2023-10-26T23:26:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betrivers,player_points_over_under,malik beasley,True,8.5,-159,2023-10-26T23:26:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betrivers,player_points_over_under,malik beasley,True,7.5,-278,2023-10-26T23:26:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betrivers,player_points_over_under,malik beasley,True,6.5,-360,2023-10-26T15:20:44,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_points_over_under,malik beasley,False,9.5,-115,2023-10-26T23:40:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betrivers,player_points_over_under,malik beasley,True,11.5,170,2023-10-26T23:26:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,fanduel,player_steals_over_under,malik beasley,True,0.5,390,2023-10-27T01:10:29,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_rebounds_over_under,malik beasley,True,2.5,-155,2023-10-26T23:45:36,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_rebounds_over_under,malik beasley,True,4.5,800,2023-10-27T02:15:37,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_rebounds_over_under,malik beasley,False,4.5,-190,2023-10-27T01:05:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_rebounds_over_under,malik beasley,False,3.5,-190,2023-10-26T04:30:08,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_rebounds_over_under,malik beasley,False,2.5,110,2023-10-26T23:45:03,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_rebounds_over_under,malik beasley,True,5.5,130,2023-10-27T00:10:15,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_rebounds_over_under,malik beasley,True,4.5,135,2023-10-27T01:05:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_rebounds_over_under,malik beasley,True,3.5,145,2023-10-26T04:30:08,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_rebounds_over_under,malik beasley,True,3.5,-145,2023-10-27T01:15:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,barstool,player_rebounds_over_under,malik beasley,True,2.5,-160,2023-10-26T23:45:03,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betmgm,player_rebounds_over_under,malik beasley,True,2.5,-175,2023-10-26T23:35:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_rebounds_over_under,malik beasley,False,5.5,-180,2023-10-27T00:10:08,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_rebounds_over_under,malik beasley,False,4.5,-2500,2023-10-27T02:15:37,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_rebounds_over_under,malik beasley,False,3.5,110,2023-10-27T01:15:05,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_rebounds_over_under,malik beasley,False,2.5,115,2023-10-26T23:45:36,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,draftkings,player_rebounds_over_under,malik beasley,True,5.5,135,2023-10-27T00:10:08,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,1eb9915d586c87719ec6934863667a14,betmgm,player_rebounds_over_under,malik beasley,False,2.5,130,2023-10-26T23:35:04,Milwaukee Bucks,Philadelphia 76ers
+2023-10-26,b9d80173049b2a752e52672b1c3d46e7,betrivers,player_threes_over_under,malik beasley,True,2.5,-104,2023-10-29T23:00:43,Milwaukee Bucks,Atlanta Hawks

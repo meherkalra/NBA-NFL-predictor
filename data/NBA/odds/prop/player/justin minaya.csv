@@ -1,0 +1,17 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_blocks_over_under,justin minaya,True,0.5,100,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_blocks_over_under,justin minaya,False,0.5,-130,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,justin minaya,True,8.5,-125,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,justin minaya,False,8.5,-105,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_points_over_under,justin minaya,True,8.5,-125,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_points_over_under,justin minaya,False,8.5,-109,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_rebounds_over_under,justin minaya,True,3.5,100,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_rebounds_over_under,justin minaya,False,3.5,-130,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_rebounds_over_under,justin minaya,True,3.5,-103,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_rebounds_over_under,justin minaya,False,3.5,-133,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_steals_over_under,justin minaya,True,0.5,-115,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_steals_over_under,justin minaya,False,0.5,-115,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_threes_over_under,justin minaya,True,1.5,190,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_threes_over_under,justin minaya,False,1.5,-235,2023-04-08T19:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_threes_over_under,justin minaya,True,1.5,190,2023-04-08T20:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_threes_over_under,justin minaya,False,1.5,-274,2023-04-08T20:00:01,LA Clippers,Portland Trail Blazers

@@ -1,0 +1,209 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_rebounds_over_under,kenyon martin jr.,True,5.5,-150,2023-03-20T18:00:02,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_points_over_under,kenyon martin jr.,True,15.5,100,2023-03-20T23:45:02,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_points_over_under,kenyon martin jr.,False,13.5,-104,2023-03-20T15:30:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_points_over_under,kenyon martin jr.,False,14.5,100,2023-03-21T00:00:02,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_points_over_under,kenyon martin jr.,False,15.5,-122,2023-03-20T23:45:02,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_rebounds_over_under,kenyon martin jr.,True,6.5,-122,2023-03-20T21:45:02,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_rebounds_over_under,kenyon martin jr.,True,7.5,116,2023-03-20T23:45:02,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_points_over_under,kenyon martin jr.,True,14.5,-122,2023-03-21T00:00:02,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_rebounds_over_under,kenyon martin jr.,False,5.5,118,2023-03-20T18:00:02,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_rebounds_over_under,kenyon martin jr.,False,7.5,-142,2023-03-20T23:45:02,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_threes_over_under,kenyon martin jr.,True,0.5,-230,2023-03-20T14:15:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_threes_over_under,kenyon martin jr.,False,0.5,176,2023-03-20T14:15:01,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_rebounds_over_under,kenyon martin jr.,False,6.5,100,2023-03-20T21:45:02,Houston Rockets,Golden State Warriors
+2023-03-20,186125fb8d90bb69c83e1117d37678d4,fanduel,player_points_over_under,kenyon martin jr.,True,13.5,-122,2023-03-20T15:30:01,Houston Rockets,Golden State Warriors
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_rebounds_over_under,kenyon martin jr.,False,6.5,-144,2023-03-22T23:00:02,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_rebounds_over_under,kenyon martin jr.,False,5.5,118,2023-03-22T23:15:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_rebounds_over_under,kenyon martin jr.,True,6.5,118,2023-03-22T23:00:02,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_rebounds_over_under,kenyon martin jr.,True,5.5,-144,2023-03-22T23:15:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_points_over_under,kenyon martin jr.,False,14.5,-118,2023-03-22T23:15:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_points_over_under,kenyon martin jr.,True,14.5,-104,2023-03-22T23:15:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_points_over_under,kenyon martin jr.,False,13.5,102,2023-03-23T00:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-22,fc7a6aa7b313493a91071a7f47079456,fanduel,player_points_over_under,kenyon martin jr.,True,13.5,-124,2023-03-23T00:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_points_over_under,kenyon martin jr.,True,14.5,-110,2023-03-25T00:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_points_over_under,kenyon martin jr.,True,15.5,-102,2023-03-24T19:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_rebounds_over_under,kenyon martin jr.,False,6.5,-148,2023-03-25T00:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_rebounds_over_under,kenyon martin jr.,True,6.5,120,2023-03-25T00:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_points_over_under,kenyon martin jr.,False,14.5,-110,2023-03-25T00:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-24,ab0cf09c6a3ec8feb13d21e0206f41fc,fanduel,player_points_over_under,kenyon martin jr.,False,15.5,-120,2023-03-24T19:00:01,Memphis Grizzlies,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_points_over_under,kenyon martin jr.,True,13.5,-112,2023-03-26T21:45:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_threes_over_under,kenyon martin jr.,False,0.5,-111,2023-03-26T21:15:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_threes_over_under,kenyon martin jr.,True,0.5,-115,2023-03-26T21:15:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_rebounds_over_under,kenyon martin jr.,False,5.5,-128,2023-03-26T22:00:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_rebounds_over_under,kenyon martin jr.,True,5.5,104,2023-03-26T22:00:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_points_over_under,kenyon martin jr.,False,14.5,-122,2023-03-26T17:30:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_points_over_under,kenyon martin jr.,False,13.5,-110,2023-03-26T18:45:01,Cleveland Cavaliers,Houston Rockets
+2023-03-26,96a923ecd8e2341af443b816c2d5befe,fanduel,player_points_over_under,kenyon martin jr.,True,14.5,100,2023-03-26T17:30:01,Cleveland Cavaliers,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_points_over_under,kenyon martin jr.,True,13.5,-106,2023-03-27T23:45:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_points_over_under,kenyon martin jr.,True,14.5,102,2023-03-27T16:30:02,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_points_over_under,kenyon martin jr.,False,13.5,-114,2023-03-27T23:45:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_points_over_under,kenyon martin jr.,False,14.5,-130,2023-03-27T16:30:02,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_rebounds_over_under,kenyon martin jr.,True,5.5,106,2023-03-27T23:00:02,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_rebounds_over_under,kenyon martin jr.,True,4.5,-134,2023-03-27T22:45:01,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_rebounds_over_under,kenyon martin jr.,False,5.5,-130,2023-03-27T23:00:02,New York Knicks,Houston Rockets
+2023-03-27,48fd5d149bf965d1557ed4fc2a7c924b,fanduel,player_rebounds_over_under,kenyon martin jr.,False,4.5,110,2023-03-27T22:45:01,New York Knicks,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_points_over_under,kenyon martin jr.,False,14.5,-128,2023-03-29T19:00:02,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_points_over_under,kenyon martin jr.,False,13.5,-102,2023-03-29T23:30:02,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_points_over_under,kenyon martin jr.,True,13.5,-120,2023-03-29T23:30:02,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_rebounds_over_under,kenyon martin jr.,True,5.5,-118,2023-03-29T23:30:02,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_rebounds_over_under,kenyon martin jr.,False,5.5,-104,2023-03-29T23:30:02,Brooklyn Nets,Houston Rockets
+2023-03-29,23dac12e67fa46b1862222417158b208,fanduel,player_points_over_under,kenyon martin jr.,True,14.5,104,2023-03-29T20:45:01,Brooklyn Nets,Houston Rockets
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_rebounds_over_under,kenyon martin jr.,True,5.5,-140,2023-03-31T23:48:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_rebounds_over_under,kenyon martin jr.,False,5.5,114,2023-04-01T00:06:02,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_points_over_under,kenyon martin jr.,True,14.5,-118,2023-04-01T00:08:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_points_over_under,kenyon martin jr.,False,15.5,-122,2023-03-31T23:36:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_points_over_under,kenyon martin jr.,False,14.5,-104,2023-04-01T00:08:01,Houston Rockets,Detroit Pistons
+2023-03-31,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,player_points_over_under,kenyon martin jr.,True,15.5,100,2023-03-31T23:36:01,Houston Rockets,Detroit Pistons
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_rebounds_over_under,kenyon martin jr.,False,5.5,116,2023-04-02T23:06:02,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_rebounds_over_under,kenyon martin jr.,True,5.5,-142,2023-04-02T23:06:02,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,kenyon martin jr.,False,14.5,-105,2023-04-02T23:08:01,Houston Rockets,Los Angeles Lakers
+2023-04-02,869f17c14cf42a2ecdece166c0d153df,fanduel,player_points_over_under,kenyon martin jr.,True,14.5,-115,2023-04-02T23:08:01,Houston Rockets,Los Angeles Lakers
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_steals_over_under,kenyon martin jr.,True,0.5,110,2023-04-04T19:51:15,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,kenyon martin jr.,False,14.5,-125,2023-04-04T19:51:15,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,kenyon martin jr.,False,10.5,125,2023-04-05T01:30:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,kenyon martin jr.,False,12.5,-160,2023-04-05T01:00:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,kenyon martin jr.,False,13.5,-130,2023-04-05T01:45:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,kenyon martin jr.,False,14.5,-125,2023-04-04T23:14:32,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_rebounds_over_under,kenyon martin jr.,True,4.5,-104,2023-04-04T03:48:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_rebounds_over_under,kenyon martin jr.,True,5.5,-120,2023-04-05T00:06:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_rebounds_over_under,kenyon martin jr.,False,4.5,-122,2023-04-04T03:48:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_rebounds_over_under,kenyon martin jr.,False,5.5,-102,2023-04-05T00:06:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_rebounds_over_under,kenyon martin jr.,True,5.5,-115,2023-04-04T19:51:15,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_rebounds_over_under,kenyon martin jr.,True,3.5,-110,2023-04-05T01:30:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_rebounds_over_under,kenyon martin jr.,True,4.5,-215,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_threes_over_under,kenyon martin jr.,False,0.5,-750,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_threes_over_under,kenyon martin jr.,False,0.5,135,2023-04-04T19:51:15,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_threes_over_under,kenyon martin jr.,True,0.5,425,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,kenyon martin jr.,True,14.5,-105,2023-04-04T23:14:32,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_threes_over_under,kenyon martin jr.,True,0.5,-165,2023-04-04T19:51:15,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_steals_over_under,kenyon martin jr.,False,0.5,-1400,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_rebounds_over_under,kenyon martin jr.,True,5.5,-115,2023-04-04T23:14:32,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_rebounds_over_under,kenyon martin jr.,False,5.5,-115,2023-04-04T19:51:15,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_steals_over_under,kenyon martin jr.,False,0.5,-140,2023-04-04T19:51:15,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_rebounds_over_under,kenyon martin jr.,False,4.5,160,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_rebounds_over_under,kenyon martin jr.,False,5.5,-115,2023-04-04T23:14:32,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_steals_over_under,kenyon martin jr.,True,0.5,650,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,kenyon martin jr.,True,13.5,100,2023-04-05T01:45:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_rebounds_over_under,kenyon martin jr.,False,3.5,-120,2023-04-05T01:30:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,kenyon martin jr.,True,10.5,-165,2023-04-05T01:30:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_assists_over_under,kenyon martin jr.,True,0.5,105,2023-04-05T01:00:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_assists_over_under,kenyon martin jr.,True,1.5,300,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_assists_over_under,kenyon martin jr.,False,0.5,-140,2023-04-05T01:00:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,kenyon martin jr.,True,12.5,120,2023-04-05T01:00:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_blocks_over_under,kenyon martin jr.,True,0.5,900,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_blocks_over_under,kenyon martin jr.,True,0.5,205,2023-04-04T19:51:15,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_assists_over_under,kenyon martin jr.,False,1.5,-450,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_blocks_over_under,kenyon martin jr.,False,0.5,-255,2023-04-04T19:51:15,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_points_over_under,kenyon martin jr.,True,13.5,-122,2023-04-05T00:06:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_points_over_under,kenyon martin jr.,True,14.5,100,2023-04-04T23:31:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_points_over_under,kenyon martin jr.,False,13.5,100,2023-04-05T00:06:01,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,fanduel,player_points_over_under,kenyon martin jr.,False,14.5,-122,2023-04-04T23:31:02,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_points_over_under,kenyon martin jr.,True,14.5,-105,2023-04-04T19:51:15,Houston Rockets,Denver Nuggets
+2023-04-04,2c191c33495cd3281ff956716de00c97,draftkings,player_blocks_over_under,kenyon martin jr.,False,0.5,-3000,2023-04-05T02:00:02,Houston Rockets,Denver Nuggets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_points_over_under,kenyon martin jr.,False,14.5,135,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_points_over_under,kenyon martin jr.,False,13.5,-125,2023-04-07T23:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_points_over_under,kenyon martin jr.,False,12.5,100,2023-04-07T23:45:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_points_over_under,kenyon martin jr.,False,11.5,-115,2023-04-08T00:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_points_over_under,kenyon martin jr.,True,16.5,-115,2023-04-08T00:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_points_over_under,kenyon martin jr.,True,15.5,-115,2023-04-08T00:45:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_points_over_under,kenyon martin jr.,True,14.5,-180,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_blocks_over_under,kenyon martin jr.,True,0.5,650,2023-04-08T01:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_points_over_under,kenyon martin jr.,True,11.5,-115,2023-04-08T00:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_points_over_under,kenyon martin jr.,False,14.5,-120,2023-04-07T22:45:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_points_over_under,kenyon martin jr.,True,14.5,-102,2023-04-07T22:45:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_blocks_over_under,kenyon martin jr.,False,0.5,-1400,2023-04-08T01:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_points_over_under,kenyon martin jr.,False,15.5,-115,2023-04-08T00:45:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_assists_over_under,kenyon martin jr.,False,3.5,-1600,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_points_over_under,kenyon martin jr.,True,13.5,-105,2023-04-07T23:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_points_over_under,kenyon martin jr.,False,16.5,-115,2023-04-08T00:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_rebounds_over_under,kenyon martin jr.,False,4.5,-110,2023-04-07T23:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_rebounds_over_under,kenyon martin jr.,False,5.5,104,2023-04-07T22:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_threes_over_under,kenyon martin jr.,False,0.5,-3000,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_threes_over_under,kenyon martin jr.,True,0.5,900,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_steals_over_under,kenyon martin jr.,False,2.5,-8000,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_steals_over_under,kenyon martin jr.,False,1.5,-525,2023-04-08T00:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_steals_over_under,kenyon martin jr.,False,0.5,-145,2023-04-07T23:15:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_steals_over_under,kenyon martin jr.,True,2.5,1100,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_steals_over_under,kenyon martin jr.,True,1.5,340,2023-04-08T00:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,fanduel,player_rebounds_over_under,kenyon martin jr.,True,5.5,-128,2023-04-07T22:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_steals_over_under,kenyon martin jr.,True,0.5,110,2023-04-07T23:15:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_rebounds_over_under,kenyon martin jr.,False,6.5,-215,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_rebounds_over_under,kenyon martin jr.,False,5.5,-140,2023-04-07T23:15:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_assists_over_under,kenyon martin jr.,False,2.5,-110,2023-04-08T00:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_rebounds_over_under,kenyon martin jr.,True,7.5,120,2023-04-08T01:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_rebounds_over_under,kenyon martin jr.,True,6.5,160,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_rebounds_over_under,kenyon martin jr.,True,5.5,105,2023-04-07T23:15:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_rebounds_over_under,kenyon martin jr.,True,4.5,-120,2023-04-07T23:30:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_rebounds_over_under,kenyon martin jr.,False,7.5,-160,2023-04-08T01:00:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_assists_over_under,kenyon martin jr.,False,0.5,185,2023-04-07T23:15:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_points_over_under,kenyon martin jr.,True,12.5,-130,2023-04-07T23:45:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_assists_over_under,kenyon martin jr.,True,2.5,-120,2023-04-08T00:15:02,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_assists_over_under,kenyon martin jr.,True,0.5,-255,2023-04-07T23:15:01,Charlotte Hornets,Houston Rockets
+2023-04-07,0f242a1fdad19b8bbbe719941bf27b89,draftkings,player_assists_over_under,kenyon martin jr.,True,3.5,700,2023-04-08T01:15:02,Charlotte Hornets,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_rebounds_over_under,kenyon martin jr.,True,4.5,-115,2023-04-09T18:45:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_rebounds_over_under,kenyon martin jr.,True,5.5,140,2023-04-09T18:30:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_rebounds_over_under,kenyon martin jr.,True,6.5,-130,2023-04-09T17:30:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_rebounds_over_under,kenyon martin jr.,False,3.5,-105,2023-04-09T19:00:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_rebounds_over_under,kenyon martin jr.,False,4.5,-115,2023-04-09T18:45:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_rebounds_over_under,kenyon martin jr.,False,5.5,-190,2023-04-09T18:30:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_rebounds_over_under,kenyon martin jr.,False,6.5,100,2023-04-09T17:30:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,barstool,player_rebounds_over_under,kenyon martin jr.,True,5.5,-155,2023-04-09T17:00:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_steals_over_under,kenyon martin jr.,True,0.5,800,2023-04-09T19:00:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_steals_over_under,kenyon martin jr.,False,0.5,-2500,2023-04-09T19:00:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_threes_over_under,kenyon martin jr.,True,0.5,-162,2023-04-09T16:45:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_threes_over_under,kenyon martin jr.,True,0.5,650,2023-04-09T19:00:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_threes_over_under,kenyon martin jr.,False,0.5,-1400,2023-04-09T19:00:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_assists_over_under,kenyon martin jr.,False,1.5,-700,2023-04-09T19:00:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_assists_over_under,kenyon martin jr.,True,2.5,170,2023-04-09T17:30:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_assists_over_under,kenyon martin jr.,True,1.5,400,2023-04-09T19:00:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_rebounds_over_under,kenyon martin jr.,True,3.5,-125,2023-04-09T19:00:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_rebounds_over_under,kenyon martin jr.,False,5.5,102,2023-04-09T17:00:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_threes_over_under,kenyon martin jr.,False,0.5,128,2023-04-09T17:00:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,barstool,player_points_over_under,kenyon martin jr.,True,14.5,-110,2023-04-09T14:45:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_rebounds_over_under,kenyon martin jr.,True,5.5,-124,2023-04-09T17:00:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_assists_over_under,kenyon martin jr.,False,2.5,-235,2023-04-09T17:30:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_blocks_over_under,kenyon martin jr.,True,0.5,1000,2023-04-09T19:00:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_points_over_under,kenyon martin jr.,True,14.5,-104,2023-04-09T16:30:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,player_points_over_under,kenyon martin jr.,False,14.5,-118,2023-04-09T16:30:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_points_over_under,kenyon martin jr.,True,9.5,105,2023-04-09T18:15:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_points_over_under,kenyon martin jr.,True,10.5,-145,2023-04-09T17:45:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_points_over_under,kenyon martin jr.,True,13.5,-150,2023-04-09T19:00:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_blocks_over_under,kenyon martin jr.,False,0.5,-5000,2023-04-09T19:00:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_points_over_under,kenyon martin jr.,True,15.5,-110,2023-04-09T18:30:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_points_over_under,kenyon martin jr.,True,16.5,115,2023-04-09T18:45:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_points_over_under,kenyon martin jr.,False,9.5,-140,2023-04-09T18:15:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_points_over_under,kenyon martin jr.,False,10.5,110,2023-04-09T17:45:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_points_over_under,kenyon martin jr.,False,13.5,110,2023-04-09T19:00:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_points_over_under,kenyon martin jr.,False,14.5,-140,2023-04-09T17:30:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_points_over_under,kenyon martin jr.,False,15.5,-120,2023-04-09T18:30:01,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_points_over_under,kenyon martin jr.,True,14.5,105,2023-04-09T17:30:02,Washington Wizards,Houston Rockets
+2023-04-09,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,player_points_over_under,kenyon martin jr.,False,16.5,-155,2023-04-09T18:45:02,Washington Wizards,Houston Rockets
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,kenyon martin jr.,False,1.5,110,2023-10-26T04:45:35,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,kenyon martin jr.,False,0.5,-215,2023-10-26T04:50:27,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,kenyon martin jr.,True,6.5,105,2023-10-26T03:00:18,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,kenyon martin jr.,True,5.5,-120,2023-10-26T03:15:08,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,kenyon martin jr.,True,3.5,-110,2023-10-26T04:20:13,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_blocks_over_under,kenyon martin jr.,False,0.5,-5000,2023-10-26T04:45:35,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,kenyon martin jr.,True,1.5,-150,2023-10-26T04:45:35,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,kenyon martin jr.,True,0.5,160,2023-10-26T04:50:27,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_blocks_over_under,kenyon martin jr.,True,0.5,1000,2023-10-26T04:45:35,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_assists_over_under,kenyon martin jr.,False,0.5,100,2023-10-26T02:45:06,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,kenyon martin jr.,False,2.5,-140,2023-10-26T04:25:07,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,kenyon martin jr.,True,2.5,105,2023-10-26T04:25:07,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,kenyon martin jr.,False,3.5,-120,2023-10-26T04:20:13,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_steals_over_under,kenyon martin jr.,True,0.5,450,2023-10-26T04:25:07,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,kenyon martin jr.,False,6.5,-135,2023-10-26T03:00:18,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_rebounds_over_under,kenyon martin jr.,True,0.5,-220,2023-10-26T04:25:07,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_rebounds_over_under,kenyon martin jr.,True,1.5,170,2023-10-26T04:50:27,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_rebounds_over_under,kenyon martin jr.,True,2.5,-105,2023-10-26T03:15:08,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_rebounds_over_under,kenyon martin jr.,False,0.5,160,2023-10-26T04:25:07,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_rebounds_over_under,kenyon martin jr.,False,1.5,-235,2023-10-26T04:50:27,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_rebounds_over_under,kenyon martin jr.,False,2.5,-125,2023-10-26T03:15:08,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_steals_over_under,kenyon martin jr.,True,1.5,900,2023-10-26T04:45:35,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_steals_over_under,kenyon martin jr.,False,0.5,-800,2023-10-26T04:25:07,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_steals_over_under,kenyon martin jr.,False,1.5,-3500,2023-10-26T04:45:35,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_threes_over_under,kenyon martin jr.,True,0.5,165,2023-10-26T02:45:06,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_threes_over_under,kenyon martin jr.,False,0.5,-215,2023-10-26T02:45:06,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,kenyon martin jr.,False,5.5,-110,2023-10-26T03:15:08,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_assists_over_under,kenyon martin jr.,True,0.5,-125,2023-10-26T02:45:06,LA Clippers,Portland Trail Blazers

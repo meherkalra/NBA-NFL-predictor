@@ -1,0 +1,925 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-23,735ed59de788b6ea1681e12cde026c4e,fanduel,player_points_over_under,nicolas batum,False,6.5,104,2023-03-24T02:30:01,LA Clippers,Oklahoma City Thunder
+2023-03-23,735ed59de788b6ea1681e12cde026c4e,fanduel,player_rebounds_over_under,nicolas batum,False,3.5,114,2023-03-24T02:30:01,LA Clippers,Oklahoma City Thunder
+2023-03-23,735ed59de788b6ea1681e12cde026c4e,fanduel,player_rebounds_over_under,nicolas batum,True,3.5,-140,2023-03-24T02:30:01,LA Clippers,Oklahoma City Thunder
+2023-03-23,735ed59de788b6ea1681e12cde026c4e,fanduel,player_points_over_under,nicolas batum,True,6.5,-128,2023-03-24T02:30:01,LA Clippers,Oklahoma City Thunder
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_rebounds_over_under,nicolas batum,False,3.5,-164,2023-03-25T21:45:01,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_rebounds_over_under,nicolas batum,False,2.5,132,2023-03-26T02:15:02,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_rebounds_over_under,nicolas batum,True,3.5,134,2023-03-25T21:45:01,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_rebounds_over_under,nicolas batum,True,2.5,-162,2023-03-26T02:15:02,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_points_over_under,nicolas batum,False,6.5,-130,2023-03-25T22:30:02,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_points_over_under,nicolas batum,False,5.5,104,2023-03-26T02:30:01,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_points_over_under,nicolas batum,True,6.5,106,2023-03-25T22:30:02,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_points_over_under,nicolas batum,True,5.5,-128,2023-03-26T02:30:01,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_threes_over_under,nicolas batum,True,1.5,108,2023-03-26T02:15:02,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_threes_over_under,nicolas batum,False,1.5,-136,2023-03-26T02:30:01,LA Clippers,New Orleans Pelicans
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_points_over_under,nicolas batum,False,7.5,-110,2023-03-28T02:30:01,LA Clippers,Chicago Bulls
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_threes_over_under,nicolas batum,False,2.5,118,2023-03-28T02:45:01,LA Clippers,Chicago Bulls
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_threes_over_under,nicolas batum,False,3.5,-162,2023-03-28T03:15:01,LA Clippers,Chicago Bulls
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_threes_over_under,nicolas batum,False,5.5,158,2023-03-28T03:45:01,LA Clippers,Chicago Bulls
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_threes_over_under,nicolas batum,False,6.5,-144,2023-03-28T04:00:01,LA Clippers,Chicago Bulls
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_threes_over_under,nicolas batum,False,8.5,-350,2023-03-28T04:30:01,LA Clippers,Chicago Bulls
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_points_over_under,nicolas batum,True,19.5,108,2023-03-28T03:30:02,LA Clippers,Chicago Bulls
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_assists_over_under,nicolas batum,True,3.5,-240,2023-03-28T03:30:02,LA Clippers,Chicago Bulls
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_points_over_under,nicolas batum,True,18.5,-136,2023-03-28T03:45:01,LA Clippers,Chicago Bulls
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_points_over_under,nicolas batum,True,11.5,100,2023-03-28T03:15:01,LA Clippers,Chicago Bulls
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_points_over_under,nicolas batum,True,10.5,112,2023-03-28T02:45:01,LA Clippers,Chicago Bulls
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_points_over_under,nicolas batum,True,7.5,-110,2023-03-28T02:30:01,LA Clippers,Chicago Bulls
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_blocks_over_under,nicolas batum,False,0.5,-5000,2023-03-28T04:30:01,LA Clippers,Chicago Bulls
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_blocks_over_under,nicolas batum,True,0.5,1000,2023-03-28T04:15:01,LA Clippers,Chicago Bulls
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_assists_over_under,nicolas batum,False,4.5,-390,2023-03-28T04:30:01,LA Clippers,Chicago Bulls
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_assists_over_under,nicolas batum,False,3.5,174,2023-03-28T03:30:02,LA Clippers,Chicago Bulls
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_assists_over_under,nicolas batum,False,2.5,-198,2023-03-28T03:15:01,LA Clippers,Chicago Bulls
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_assists_over_under,nicolas batum,True,4.5,265,2023-03-28T04:30:01,LA Clippers,Chicago Bulls
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_threes_over_under,nicolas batum,True,6.5,108,2023-03-28T04:00:01,LA Clippers,Chicago Bulls
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_threes_over_under,nicolas batum,True,5.5,-215,2023-03-28T03:45:01,LA Clippers,Chicago Bulls
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_threes_over_under,nicolas batum,True,3.5,122,2023-03-28T03:15:01,LA Clippers,Chicago Bulls
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_threes_over_under,nicolas batum,True,2.5,-158,2023-03-28T02:45:01,LA Clippers,Chicago Bulls
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_points_over_under,nicolas batum,False,10.5,-148,2023-03-28T02:45:01,LA Clippers,Chicago Bulls
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_points_over_under,nicolas batum,False,11.5,-132,2023-03-28T03:15:01,LA Clippers,Chicago Bulls
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_points_over_under,nicolas batum,False,18.5,102,2023-03-28T03:45:01,LA Clippers,Chicago Bulls
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_points_over_under,nicolas batum,False,19.5,-144,2023-03-28T03:30:02,LA Clippers,Chicago Bulls
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_points_over_under,nicolas batum,False,20.5,-186,2023-03-28T04:00:01,LA Clippers,Chicago Bulls
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_points_over_under,nicolas batum,False,25.5,-245,2023-03-28T04:30:01,LA Clippers,Chicago Bulls
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_rebounds_over_under,nicolas batum,True,3.5,104,2023-03-28T04:30:01,LA Clippers,Chicago Bulls
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_rebounds_over_under,nicolas batum,True,4.5,188,2023-03-28T04:00:01,LA Clippers,Chicago Bulls
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_points_over_under,nicolas batum,True,25.5,178,2023-03-28T04:30:01,LA Clippers,Chicago Bulls
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_rebounds_over_under,nicolas batum,True,5.5,140,2023-03-28T03:30:02,LA Clippers,Chicago Bulls
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_rebounds_over_under,nicolas batum,False,4.5,-260,2023-03-28T04:00:01,LA Clippers,Chicago Bulls
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_rebounds_over_under,nicolas batum,False,5.5,-188,2023-03-28T03:30:02,LA Clippers,Chicago Bulls
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_points_over_under,nicolas batum,True,20.5,138,2023-03-28T04:00:01,LA Clippers,Chicago Bulls
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_steals_over_under,nicolas batum,True,1.5,310,2023-03-28T04:00:01,LA Clippers,Chicago Bulls
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_steals_over_under,nicolas batum,True,2.5,580,2023-03-28T04:30:01,LA Clippers,Chicago Bulls
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_steals_over_under,nicolas batum,False,0.5,106,2023-03-28T02:45:01,LA Clippers,Chicago Bulls
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_steals_over_under,nicolas batum,False,1.5,-470,2023-03-28T04:00:01,LA Clippers,Chicago Bulls
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_steals_over_under,nicolas batum,False,2.5,-1200,2023-03-28T04:30:01,LA Clippers,Chicago Bulls
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_rebounds_over_under,nicolas batum,False,3.5,-138,2023-03-28T04:30:01,LA Clippers,Chicago Bulls
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_steals_over_under,nicolas batum,True,0.5,-140,2023-03-28T02:45:01,LA Clippers,Chicago Bulls
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_threes_over_under,nicolas batum,True,8.5,240,2023-03-28T04:30:01,LA Clippers,Chicago Bulls
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_assists_over_under,nicolas batum,True,2.5,146,2023-03-28T03:15:01,LA Clippers,Chicago Bulls
+2023-03-29,43dee700681adce809f21c74b03f82d0,fanduel,player_steals_over_under,nicolas batum,True,0.5,880,2023-03-30T02:15:01,Memphis Grizzlies,LA Clippers
+2023-03-29,43dee700681adce809f21c74b03f82d0,fanduel,player_rebounds_over_under,nicolas batum,False,5.5,-138,2023-03-30T00:15:01,Memphis Grizzlies,LA Clippers
+2023-03-29,43dee700681adce809f21c74b03f82d0,fanduel,player_rebounds_over_under,nicolas batum,False,4.5,-210,2023-03-30T01:45:01,Memphis Grizzlies,LA Clippers
+2023-03-29,43dee700681adce809f21c74b03f82d0,fanduel,player_rebounds_over_under,nicolas batum,False,3.5,-290,2023-03-30T02:15:01,Memphis Grizzlies,LA Clippers
+2023-03-29,43dee700681adce809f21c74b03f82d0,fanduel,player_rebounds_over_under,nicolas batum,True,5.5,104,2023-03-30T00:15:01,Memphis Grizzlies,LA Clippers
+2023-03-29,43dee700681adce809f21c74b03f82d0,fanduel,player_rebounds_over_under,nicolas batum,True,4.5,154,2023-03-30T01:45:01,Memphis Grizzlies,LA Clippers
+2023-03-29,43dee700681adce809f21c74b03f82d0,fanduel,player_rebounds_over_under,nicolas batum,True,3.5,205,2023-03-30T02:15:01,Memphis Grizzlies,LA Clippers
+2023-03-29,43dee700681adce809f21c74b03f82d0,fanduel,player_points_over_under,nicolas batum,False,11.5,112,2023-03-30T00:15:01,Memphis Grizzlies,LA Clippers
+2023-03-29,43dee700681adce809f21c74b03f82d0,fanduel,player_points_over_under,nicolas batum,False,10.5,-154,2023-03-30T00:45:01,Memphis Grizzlies,LA Clippers
+2023-03-29,43dee700681adce809f21c74b03f82d0,fanduel,player_points_over_under,nicolas batum,False,8.5,-140,2023-03-30T01:15:01,Memphis Grizzlies,LA Clippers
+2023-03-29,43dee700681adce809f21c74b03f82d0,fanduel,player_points_over_under,nicolas batum,False,7.5,-166,2023-03-30T01:30:01,Memphis Grizzlies,LA Clippers
+2023-03-29,43dee700681adce809f21c74b03f82d0,fanduel,player_points_over_under,nicolas batum,False,6.5,-136,2023-03-30T01:45:01,Memphis Grizzlies,LA Clippers
+2023-03-29,43dee700681adce809f21c74b03f82d0,fanduel,player_steals_over_under,nicolas batum,False,0.5,-3000,2023-03-30T02:15:01,Memphis Grizzlies,LA Clippers
+2023-03-29,43dee700681adce809f21c74b03f82d0,fanduel,player_points_over_under,nicolas batum,False,5.5,154,2023-03-30T02:00:01,Memphis Grizzlies,LA Clippers
+2023-03-29,43dee700681adce809f21c74b03f82d0,fanduel,player_points_over_under,nicolas batum,True,11.5,-148,2023-03-30T00:15:01,Memphis Grizzlies,LA Clippers
+2023-03-29,43dee700681adce809f21c74b03f82d0,fanduel,player_points_over_under,nicolas batum,True,10.5,116,2023-03-30T00:45:01,Memphis Grizzlies,LA Clippers
+2023-03-29,43dee700681adce809f21c74b03f82d0,fanduel,player_points_over_under,nicolas batum,True,8.5,106,2023-03-30T01:15:01,Memphis Grizzlies,LA Clippers
+2023-03-29,43dee700681adce809f21c74b03f82d0,fanduel,player_points_over_under,nicolas batum,True,7.5,124,2023-03-30T01:30:01,Memphis Grizzlies,LA Clippers
+2023-03-29,43dee700681adce809f21c74b03f82d0,fanduel,player_points_over_under,nicolas batum,True,6.5,102,2023-03-30T01:45:01,Memphis Grizzlies,LA Clippers
+2023-03-29,43dee700681adce809f21c74b03f82d0,fanduel,player_points_over_under,nicolas batum,True,4.5,-118,2023-03-30T02:15:01,Memphis Grizzlies,LA Clippers
+2023-03-29,43dee700681adce809f21c74b03f82d0,fanduel,player_blocks_over_under,nicolas batum,False,0.5,-7000,2023-03-30T02:15:01,Memphis Grizzlies,LA Clippers
+2023-03-29,43dee700681adce809f21c74b03f82d0,fanduel,player_blocks_over_under,nicolas batum,True,0.5,1000,2023-03-30T02:15:01,Memphis Grizzlies,LA Clippers
+2023-03-29,43dee700681adce809f21c74b03f82d0,fanduel,player_assists_over_under,nicolas batum,False,1.5,-800,2023-03-30T02:15:01,Memphis Grizzlies,LA Clippers
+2023-03-29,43dee700681adce809f21c74b03f82d0,fanduel,player_assists_over_under,nicolas batum,False,0.5,154,2023-03-30T01:15:01,Memphis Grizzlies,LA Clippers
+2023-03-29,43dee700681adce809f21c74b03f82d0,fanduel,player_assists_over_under,nicolas batum,True,1.5,450,2023-03-30T02:15:01,Memphis Grizzlies,LA Clippers
+2023-03-29,43dee700681adce809f21c74b03f82d0,fanduel,player_assists_over_under,nicolas batum,True,0.5,-210,2023-03-30T01:15:01,Memphis Grizzlies,LA Clippers
+2023-03-29,43dee700681adce809f21c74b03f82d0,fanduel,player_points_over_under,nicolas batum,False,4.5,-112,2023-03-30T02:15:01,Memphis Grizzlies,LA Clippers
+2023-03-29,43dee700681adce809f21c74b03f82d0,fanduel,player_threes_over_under,nicolas batum,True,1.5,390,2023-03-30T02:15:01,Memphis Grizzlies,LA Clippers
+2023-03-29,43dee700681adce809f21c74b03f82d0,fanduel,player_points_over_under,nicolas batum,True,5.5,-210,2023-03-30T02:00:01,Memphis Grizzlies,LA Clippers
+2023-03-29,43dee700681adce809f21c74b03f82d0,fanduel,player_threes_over_under,nicolas batum,True,3.5,108,2023-03-30T00:15:01,Memphis Grizzlies,LA Clippers
+2023-03-29,43dee700681adce809f21c74b03f82d0,fanduel,player_threes_over_under,nicolas batum,False,1.5,-650,2023-03-30T02:15:01,Memphis Grizzlies,LA Clippers
+2023-03-29,43dee700681adce809f21c74b03f82d0,fanduel,player_threes_over_under,nicolas batum,False,2.5,-240,2023-03-30T01:15:01,Memphis Grizzlies,LA Clippers
+2023-03-29,43dee700681adce809f21c74b03f82d0,fanduel,player_threes_over_under,nicolas batum,False,3.5,-144,2023-03-30T00:15:01,Memphis Grizzlies,LA Clippers
+2023-03-29,43dee700681adce809f21c74b03f82d0,fanduel,player_threes_over_under,nicolas batum,True,2.5,174,2023-03-30T01:15:01,Memphis Grizzlies,LA Clippers
+2023-04-01,548b2146893eb689ffaa67764de7c95e,fanduel,player_points_over_under,nicolas batum,False,2.5,-200,2023-04-01T01:42:01,Memphis Grizzlies,LA Clippers
+2023-04-01,548b2146893eb689ffaa67764de7c95e,fanduel,player_points_over_under,nicolas batum,False,1.5,-250,2023-04-01T01:52:02,Memphis Grizzlies,LA Clippers
+2023-04-01,548b2146893eb689ffaa67764de7c95e,fanduel,player_points_over_under,nicolas batum,False,0.5,-900,2023-04-01T02:08:01,Memphis Grizzlies,LA Clippers
+2023-04-01,548b2146893eb689ffaa67764de7c95e,fanduel,player_points_over_under,nicolas batum,True,7.5,-102,2023-04-01T00:06:02,Memphis Grizzlies,LA Clippers
+2023-04-01,548b2146893eb689ffaa67764de7c95e,fanduel,player_points_over_under,nicolas batum,True,6.5,120,2023-04-01T00:54:01,Memphis Grizzlies,LA Clippers
+2023-04-01,548b2146893eb689ffaa67764de7c95e,fanduel,player_points_over_under,nicolas batum,True,5.5,124,2023-04-01T00:56:01,Memphis Grizzlies,LA Clippers
+2023-04-01,548b2146893eb689ffaa67764de7c95e,fanduel,player_points_over_under,nicolas batum,True,2.5,148,2023-04-01T01:42:01,Memphis Grizzlies,LA Clippers
+2023-04-01,548b2146893eb689ffaa67764de7c95e,fanduel,player_points_over_under,nicolas batum,True,3.5,108,2023-04-01T01:34:02,Memphis Grizzlies,LA Clippers
+2023-04-01,548b2146893eb689ffaa67764de7c95e,fanduel,player_points_over_under,nicolas batum,True,1.5,182,2023-04-01T01:52:02,Memphis Grizzlies,LA Clippers
+2023-04-01,548b2146893eb689ffaa67764de7c95e,fanduel,player_points_over_under,nicolas batum,True,0.5,490,2023-04-01T02:08:01,Memphis Grizzlies,LA Clippers
+2023-04-01,548b2146893eb689ffaa67764de7c95e,fanduel,player_blocks_over_under,nicolas batum,False,0.5,-100000,2023-04-01T02:08:01,Memphis Grizzlies,LA Clippers
+2023-04-01,548b2146893eb689ffaa67764de7c95e,fanduel,player_blocks_over_under,nicolas batum,True,0.5,1000,2023-04-01T01:54:01,Memphis Grizzlies,LA Clippers
+2023-04-01,548b2146893eb689ffaa67764de7c95e,fanduel,player_assists_over_under,nicolas batum,False,1.5,-7000,2023-04-01T02:08:01,Memphis Grizzlies,LA Clippers
+2023-04-01,548b2146893eb689ffaa67764de7c95e,fanduel,player_points_over_under,nicolas batum,True,4.5,120,2023-04-01T01:30:02,Memphis Grizzlies,LA Clippers
+2023-04-01,548b2146893eb689ffaa67764de7c95e,fanduel,player_points_over_under,nicolas batum,False,3.5,-144,2023-04-01T01:34:02,Memphis Grizzlies,LA Clippers
+2023-04-01,548b2146893eb689ffaa67764de7c95e,fanduel,player_points_over_under,nicolas batum,False,5.5,-166,2023-04-01T00:56:01,Memphis Grizzlies,LA Clippers
+2023-04-01,548b2146893eb689ffaa67764de7c95e,fanduel,player_points_over_under,nicolas batum,False,6.5,-160,2023-04-01T00:54:01,Memphis Grizzlies,LA Clippers
+2023-04-01,548b2146893eb689ffaa67764de7c95e,fanduel,player_points_over_under,nicolas batum,False,7.5,-120,2023-04-01T00:06:02,Memphis Grizzlies,LA Clippers
+2023-04-01,548b2146893eb689ffaa67764de7c95e,fanduel,player_rebounds_over_under,nicolas batum,True,3.5,880,2023-04-01T02:08:01,Memphis Grizzlies,LA Clippers
+2023-04-01,548b2146893eb689ffaa67764de7c95e,fanduel,player_rebounds_over_under,nicolas batum,True,4.5,188,2023-04-01T01:40:01,Memphis Grizzlies,LA Clippers
+2023-04-01,548b2146893eb689ffaa67764de7c95e,fanduel,player_rebounds_over_under,nicolas batum,True,5.5,148,2023-04-01T01:30:02,Memphis Grizzlies,LA Clippers
+2023-04-01,548b2146893eb689ffaa67764de7c95e,fanduel,player_rebounds_over_under,nicolas batum,False,3.5,-3000,2023-04-01T02:08:01,Memphis Grizzlies,LA Clippers
+2023-04-01,548b2146893eb689ffaa67764de7c95e,fanduel,player_rebounds_over_under,nicolas batum,False,4.5,-260,2023-04-01T01:40:01,Memphis Grizzlies,LA Clippers
+2023-04-01,548b2146893eb689ffaa67764de7c95e,fanduel,player_rebounds_over_under,nicolas batum,False,5.5,-200,2023-04-01T01:30:02,Memphis Grizzlies,LA Clippers
+2023-04-01,548b2146893eb689ffaa67764de7c95e,fanduel,player_steals_over_under,nicolas batum,True,0.5,168,2023-04-01T01:32:01,Memphis Grizzlies,LA Clippers
+2023-04-01,548b2146893eb689ffaa67764de7c95e,fanduel,player_steals_over_under,nicolas batum,True,1.5,1000,2023-04-01T02:00:01,Memphis Grizzlies,LA Clippers
+2023-04-01,548b2146893eb689ffaa67764de7c95e,fanduel,player_steals_over_under,nicolas batum,False,0.5,-230,2023-04-01T01:32:01,Memphis Grizzlies,LA Clippers
+2023-04-01,548b2146893eb689ffaa67764de7c95e,fanduel,player_steals_over_under,nicolas batum,False,1.5,-50000,2023-04-01T02:08:01,Memphis Grizzlies,LA Clippers
+2023-04-01,548b2146893eb689ffaa67764de7c95e,fanduel,player_threes_over_under,nicolas batum,True,0.5,1000,2023-04-01T02:08:01,Memphis Grizzlies,LA Clippers
+2023-04-01,548b2146893eb689ffaa67764de7c95e,fanduel,player_threes_over_under,nicolas batum,True,1.5,188,2023-04-01T01:30:02,Memphis Grizzlies,LA Clippers
+2023-04-01,548b2146893eb689ffaa67764de7c95e,fanduel,player_points_over_under,nicolas batum,False,4.5,-160,2023-04-01T01:30:02,Memphis Grizzlies,LA Clippers
+2023-04-01,548b2146893eb689ffaa67764de7c95e,fanduel,player_assists_over_under,nicolas batum,False,0.5,164,2023-04-01T01:30:02,Memphis Grizzlies,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_threes_over_under,nicolas batum,False,1.5,-245,2023-04-02T01:28:01,New Orleans Pelicans,LA Clippers
+2023-04-01,548b2146893eb689ffaa67764de7c95e,fanduel,player_assists_over_under,nicolas batum,True,0.5,-225,2023-04-01T01:30:02,Memphis Grizzlies,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_rebounds_over_under,nicolas batum,False,3.5,-10000,2023-04-02T02:46:02,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_rebounds_over_under,nicolas batum,False,2.5,178,2023-04-02T02:02:02,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_rebounds_over_under,nicolas batum,True,4.5,110,2023-04-02T00:58:01,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_rebounds_over_under,nicolas batum,True,3.5,1000,2023-04-02T02:44:01,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_rebounds_over_under,nicolas batum,True,2.5,-245,2023-04-02T02:02:02,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_points_over_under,nicolas batum,False,7.5,-158,2023-04-02T00:58:01,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_points_over_under,nicolas batum,False,6.5,-152,2023-04-02T01:28:01,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_points_over_under,nicolas batum,False,5.5,-118,2023-04-02T01:46:01,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_points_over_under,nicolas batum,False,4.5,-192,2023-04-02T02:02:02,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_points_over_under,nicolas batum,False,3.5,-225,2023-04-02T02:28:01,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_points_over_under,nicolas batum,False,2.5,-5000,2023-04-02T02:46:02,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_points_over_under,nicolas batum,True,7.5,118,2023-04-02T00:58:01,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_points_over_under,nicolas batum,True,6.5,114,2023-04-02T01:28:01,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_points_over_under,nicolas batum,True,5.5,-112,2023-04-02T01:46:01,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_assists_over_under,nicolas batum,True,1.5,-250,2023-04-02T01:24:01,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_assists_over_under,nicolas batum,True,2.5,-162,2023-04-02T01:40:02,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_points_over_under,nicolas batum,True,4.5,142,2023-04-02T02:02:02,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_threes_over_under,nicolas batum,False,0.5,-50000,2023-04-02T02:46:02,New Orleans Pelicans,LA Clippers
+2023-04-01,548b2146893eb689ffaa67764de7c95e,fanduel,player_threes_over_under,nicolas batum,False,0.5,-7000,2023-04-01T02:08:01,Memphis Grizzlies,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_threes_over_under,nicolas batum,True,1.5,178,2023-04-02T01:28:01,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_threes_over_under,nicolas batum,True,0.5,1000,2023-04-02T02:44:01,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_steals_over_under,nicolas batum,False,0.5,-100000,2023-04-02T02:44:01,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_steals_over_under,nicolas batum,True,0.5,1000,2023-04-02T02:38:01,New Orleans Pelicans,LA Clippers
+2023-04-01,548b2146893eb689ffaa67764de7c95e,fanduel,player_assists_over_under,nicolas batum,True,1.5,1000,2023-04-01T02:08:01,Memphis Grizzlies,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_rebounds_over_under,nicolas batum,False,4.5,-146,2023-04-02T00:58:01,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_blocks_over_under,nicolas batum,False,0.5,-100000,2023-04-02T02:40:01,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_blocks_over_under,nicolas batum,True,0.5,1000,2023-04-02T02:32:02,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_assists_over_under,nicolas batum,False,3.5,-100000,2023-04-02T02:46:02,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_assists_over_under,nicolas batum,False,2.5,122,2023-04-02T01:40:02,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_assists_over_under,nicolas batum,False,1.5,182,2023-04-02T01:24:01,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_assists_over_under,nicolas batum,True,3.5,1000,2023-04-02T02:40:01,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_points_over_under,nicolas batum,True,2.5,1000,2023-04-02T02:46:02,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_points_over_under,nicolas batum,True,3.5,164,2023-04-02T02:28:01,New Orleans Pelicans,LA Clippers
+2023-04-01,548b2146893eb689ffaa67764de7c95e,fanduel,player_threes_over_under,nicolas batum,False,1.5,-260,2023-04-01T01:30:02,Memphis Grizzlies,LA Clippers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,draftkings,player_rebounds_over_under,nicolas batum,False,1.5,-280,2023-04-06T04:00:02,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,fanduel,player_rebounds_over_under,nicolas batum,False,2.5,-360,2023-04-06T04:15:01,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,fanduel,player_rebounds_over_under,nicolas batum,False,3.5,-146,2023-04-06T02:45:02,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,draftkings,player_rebounds_over_under,nicolas batum,True,1.5,200,2023-04-06T04:00:02,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,draftkings,player_rebounds_over_under,nicolas batum,True,2.5,220,2023-04-06T04:15:01,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,draftkings,player_rebounds_over_under,nicolas batum,True,3.5,110,2023-04-06T02:45:02,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,draftkings,player_rebounds_over_under,nicolas batum,False,2.5,-310,2023-04-06T04:15:01,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,draftkings,player_rebounds_over_under,nicolas batum,False,3.5,-145,2023-04-06T02:45:02,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,fanduel,player_steals_over_under,nicolas batum,True,0.5,102,2023-04-06T02:30:01,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,fanduel,player_steals_over_under,nicolas batum,True,1.5,108,2023-04-06T02:45:02,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,fanduel,player_steals_over_under,nicolas batum,True,2.5,880,2023-04-06T04:15:01,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,fanduel,player_steals_over_under,nicolas batum,False,0.5,-136,2023-04-06T02:30:01,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,fanduel,player_steals_over_under,nicolas batum,False,1.5,-144,2023-04-06T02:45:02,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,fanduel,player_steals_over_under,nicolas batum,False,2.5,-3000,2023-04-06T04:15:01,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,draftkings,player_steals_over_under,nicolas batum,True,0.5,100,2023-04-06T02:30:01,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,fanduel,player_rebounds_over_under,nicolas batum,True,3.5,110,2023-04-06T02:45:02,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,draftkings,player_steals_over_under,nicolas batum,True,1.5,105,2023-04-06T02:45:02,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,draftkings,player_steals_over_under,nicolas batum,False,0.5,-130,2023-04-06T02:30:01,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,draftkings,player_steals_over_under,nicolas batum,False,1.5,-140,2023-04-06T02:45:02,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,draftkings,player_steals_over_under,nicolas batum,False,2.5,-2500,2023-04-06T04:15:01,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,fanduel,player_threes_over_under,nicolas batum,True,1.5,520,2023-04-06T04:15:01,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,fanduel,player_threes_over_under,nicolas batum,True,2.5,178,2023-04-06T02:45:02,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,fanduel,player_threes_over_under,nicolas batum,False,1.5,-1000,2023-04-06T04:15:01,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,fanduel,player_threes_over_under,nicolas batum,False,2.5,-245,2023-04-06T02:45:02,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,draftkings,player_threes_over_under,nicolas batum,True,1.5,450,2023-04-06T04:15:01,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,draftkings,player_threes_over_under,nicolas batum,True,2.5,170,2023-04-06T02:45:02,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,draftkings,player_threes_over_under,nicolas batum,False,1.5,-800,2023-04-06T04:15:01,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,draftkings,player_threes_over_under,nicolas batum,False,2.5,-230,2023-04-06T02:45:02,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,fanduel,player_assists_over_under,nicolas batum,False,0.5,-900,2023-04-06T04:15:01,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,fanduel,player_assists_over_under,nicolas batum,True,1.5,146,2023-04-06T02:45:02,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,fanduel,player_assists_over_under,nicolas batum,True,0.5,490,2023-04-06T04:15:01,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,draftkings,player_steals_over_under,nicolas batum,True,2.5,800,2023-04-06T04:15:01,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,fanduel,player_rebounds_over_under,nicolas batum,True,2.5,250,2023-04-06T04:15:01,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,fanduel,player_rebounds_over_under,nicolas batum,False,1.5,-250,2023-04-06T04:00:02,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,draftkings,player_points_over_under,nicolas batum,False,7.5,-125,2023-04-06T02:45:02,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,fanduel,player_rebounds_over_under,nicolas batum,True,1.5,182,2023-04-06T04:00:02,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,fanduel,player_points_over_under,nicolas batum,True,4.5,136,2023-04-06T03:45:01,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,fanduel,player_points_over_under,nicolas batum,True,3.5,-130,2023-04-06T04:00:02,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,draftkings,player_blocks_over_under,nicolas batum,False,0.5,-5000,2023-04-06T03:45:01,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,draftkings,player_blocks_over_under,nicolas batum,True,0.5,1000,2023-04-06T03:45:01,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,fanduel,player_blocks_over_under,nicolas batum,False,1.5,-10000,2023-04-06T04:15:01,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,fanduel,player_points_over_under,nicolas batum,True,6.5,126,2023-04-06T03:00:01,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,fanduel,player_blocks_over_under,nicolas batum,False,0.5,-10000,2023-04-06T04:00:02,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,fanduel,player_blocks_over_under,nicolas batum,True,0.5,1000,2023-04-06T03:45:01,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,draftkings,player_assists_over_under,nicolas batum,False,1.5,-190,2023-04-06T02:45:02,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,draftkings,player_assists_over_under,nicolas batum,False,0.5,-700,2023-04-06T04:15:01,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,draftkings,player_assists_over_under,nicolas batum,True,1.5,140,2023-04-06T02:45:02,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,draftkings,player_assists_over_under,nicolas batum,True,0.5,400,2023-04-06T04:15:01,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,fanduel,player_assists_over_under,nicolas batum,False,1.5,-198,2023-04-06T02:45:02,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,fanduel,player_blocks_over_under,nicolas batum,True,1.5,1000,2023-04-06T04:15:01,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,fanduel,player_points_over_under,nicolas batum,True,7.5,-104,2023-04-06T02:45:02,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,fanduel,player_points_over_under,nicolas batum,True,5.5,118,2023-04-06T04:15:01,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,fanduel,player_points_over_under,nicolas batum,False,4.5,-182,2023-04-06T03:45:01,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,draftkings,player_points_over_under,nicolas batum,False,6.5,-165,2023-04-06T03:00:01,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,draftkings,player_points_over_under,nicolas batum,False,5.5,-140,2023-04-06T04:15:01,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,draftkings,player_points_over_under,nicolas batum,False,4.5,-175,2023-04-06T03:45:01,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,fanduel,player_points_over_under,nicolas batum,False,3.5,-102,2023-04-06T04:00:02,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,draftkings,player_points_over_under,nicolas batum,True,7.5,-105,2023-04-06T02:45:02,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,draftkings,player_points_over_under,nicolas batum,True,6.5,125,2023-04-06T03:00:01,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,draftkings,player_points_over_under,nicolas batum,False,3.5,-125,2023-04-06T04:00:02,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,draftkings,player_points_over_under,nicolas batum,True,5.5,105,2023-04-06T04:15:01,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,draftkings,player_points_over_under,nicolas batum,True,4.5,130,2023-04-06T03:45:01,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,draftkings,player_points_over_under,nicolas batum,True,3.5,-105,2023-04-06T04:00:02,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,fanduel,player_points_over_under,nicolas batum,False,7.5,-128,2023-04-06T02:45:02,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,fanduel,player_points_over_under,nicolas batum,False,6.5,-168,2023-04-06T03:00:01,LA Clippers,Los Angeles Lakers
+2023-04-05,b0f1b2672fa0fee27eb27c69604efc95,fanduel,player_points_over_under,nicolas batum,False,5.5,-158,2023-04-06T04:15:01,LA Clippers,Los Angeles Lakers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_threes_over_under,nicolas batum,True,1.5,170,2023-04-08T20:45:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_threes_over_under,nicolas batum,True,1.5,178,2023-04-08T20:45:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_threes_over_under,nicolas batum,False,0.5,142,2023-04-08T21:15:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_threes_over_under,nicolas batum,False,1.5,-245,2023-04-08T20:45:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_threes_over_under,nicolas batum,False,3.5,-600,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_threes_over_under,nicolas batum,True,0.5,-180,2023-04-08T21:15:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_threes_over_under,nicolas batum,True,3.5,370,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_threes_over_under,nicolas batum,True,3.5,330,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_blocks_over_under,nicolas batum,False,0.5,-284,2023-04-08T14:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_threes_over_under,nicolas batum,False,3.5,-500,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_threes_over_under,nicolas batum,True,1.5,-135,2023-04-08T14:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_threes_over_under,nicolas batum,False,1.5,-101,2023-04-08T14:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,betmgm,player_threes_over_under,nicolas batum,True,1.5,-125,2023-04-08T16:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,betmgm,player_threes_over_under,nicolas batum,False,1.5,-105,2023-04-08T16:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,barstool,player_threes_over_under,nicolas batum,True,1.5,-122,2023-04-08T19:45:16,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_threes_over_under,nicolas batum,True,0.5,-192,2023-04-08T21:15:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_blocks_over_under,nicolas batum,True,0.5,196,2023-04-08T14:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_threes_over_under,nicolas batum,False,1.5,-230,2023-04-08T20:45:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,betmgm,player_steals_over_under,nicolas batum,False,0.5,130,2023-04-08T18:45:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_threes_over_under,nicolas batum,False,0.5,135,2023-04-08T21:15:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_steals_over_under,nicolas batum,False,0.5,126,2023-04-08T14:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_points_over_under,nicolas batum,True,4.5,104,2023-04-08T20:45:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_points_over_under,nicolas batum,True,5.5,-110,2023-04-08T20:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_points_over_under,nicolas batum,True,6.5,104,2023-04-08T20:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_points_over_under,nicolas batum,True,9.5,-132,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_points_over_under,nicolas batum,True,10.5,120,2023-04-08T21:45:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_points_over_under,nicolas batum,True,11.5,120,2023-04-08T21:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_points_over_under,nicolas batum,False,3.5,-130,2023-04-08T21:15:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_points_over_under,nicolas batum,False,4.5,-138,2023-04-08T20:45:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_points_over_under,nicolas batum,True,3.5,-102,2023-04-08T21:15:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_points_over_under,nicolas batum,False,5.5,-120,2023-04-08T20:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_points_over_under,nicolas batum,False,9.5,100,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_points_over_under,nicolas batum,False,10.5,-160,2023-04-08T21:45:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,betmgm,player_steals_over_under,nicolas batum,True,0.5,-175,2023-04-08T18:45:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,nicolas batum,True,3.5,-105,2023-04-08T21:15:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,nicolas batum,True,4.5,100,2023-04-08T20:45:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,nicolas batum,True,5.5,-110,2023-04-08T20:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,nicolas batum,True,6.5,-115,2023-04-08T14:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,nicolas batum,True,9.5,-155,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_points_over_under,nicolas batum,False,6.5,-128,2023-04-08T20:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,betmgm,player_blocks_over_under,nicolas batum,False,0.5,-300,2023-04-08T16:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,betmgm,player_blocks_over_under,nicolas batum,True,0.5,210,2023-04-08T18:45:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_assists_over_under,nicolas batum,True,2.5,118,2023-04-08T20:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_blocks_over_under,nicolas batum,False,1.5,-2500,2023-04-08T21:45:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_blocks_over_under,nicolas batum,False,0.5,-350,2023-04-08T20:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_blocks_over_under,nicolas batum,True,1.5,800,2023-04-08T21:45:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_blocks_over_under,nicolas batum,True,0.5,245,2023-04-08T20:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_blocks_over_under,nicolas batum,False,1.5,-7000,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_blocks_over_under,nicolas batum,False,0.5,-380,2023-04-08T20:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_blocks_over_under,nicolas batum,True,1.5,1000,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_blocks_over_under,nicolas batum,True,0.5,260,2023-04-08T20:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,betmgm,player_assists_over_under,nicolas batum,False,1.5,125,2023-04-08T16:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,betmgm,player_assists_over_under,nicolas batum,True,1.5,-165,2023-04-08T18:45:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_assists_over_under,nicolas batum,False,1.5,126,2023-04-08T14:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_assists_over_under,nicolas batum,True,1.5,-174,2023-04-08T14:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_assists_over_under,nicolas batum,False,3.5,-425,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_assists_over_under,nicolas batum,False,2.5,-155,2023-04-08T20:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_assists_over_under,nicolas batum,True,3.5,285,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_assists_over_under,nicolas batum,True,2.5,115,2023-04-08T20:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_assists_over_under,nicolas batum,False,3.5,-500,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_assists_over_under,nicolas batum,False,2.5,-158,2023-04-08T20:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_assists_over_under,nicolas batum,True,3.5,320,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,nicolas batum,True,10.5,115,2023-04-08T21:45:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,nicolas batum,True,11.5,115,2023-04-08T21:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_points_over_under,nicolas batum,False,11.5,-160,2023-04-08T21:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,nicolas batum,False,4.5,-130,2023-04-08T20:45:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_rebounds_over_under,nicolas batum,False,3.5,145,2023-04-08T21:15:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_rebounds_over_under,nicolas batum,False,4.5,-185,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_rebounds_over_under,nicolas batum,False,5.5,-165,2023-04-08T21:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,nicolas batum,False,3.5,-125,2023-04-08T21:15:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_rebounds_over_under,nicolas batum,False,3.5,-104,2023-04-08T14:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,betmgm,player_rebounds_over_under,nicolas batum,True,3.5,-135,2023-04-08T19:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,betmgm,player_rebounds_over_under,nicolas batum,False,3.5,100,2023-04-08T18:45:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_rebounds_over_under,nicolas batum,False,2.5,135,2023-04-08T21:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_steals_over_under,nicolas batum,True,0.5,140,2023-04-08T21:15:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_steals_over_under,nicolas batum,False,0.5,-188,2023-04-08T21:15:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_steals_over_under,nicolas batum,False,1.5,-1450,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_steals_over_under,nicolas batum,True,0.5,140,2023-04-08T21:15:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_steals_over_under,nicolas batum,True,1.5,600,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_steals_over_under,nicolas batum,False,0.5,-185,2023-04-08T21:15:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_steals_over_under,nicolas batum,False,1.5,-1200,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_steals_over_under,nicolas batum,True,0.5,-174,2023-04-08T14:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_steals_over_under,nicolas batum,True,1.5,640,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_rebounds_over_under,nicolas batum,True,5.5,125,2023-04-08T21:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_rebounds_over_under,nicolas batum,True,3.5,-131,2023-04-08T14:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,nicolas batum,False,10.5,-150,2023-04-08T21:45:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,nicolas batum,False,5.5,-120,2023-04-08T20:15:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,nicolas batum,False,6.5,-115,2023-04-08T14:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,nicolas batum,False,9.5,115,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_rebounds_over_under,nicolas batum,True,4.5,140,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_points_over_under,nicolas batum,False,11.5,-155,2023-04-08T21:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_points_over_under,nicolas batum,True,6.5,-111,2023-04-08T14:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,caesars,player_points_over_under,nicolas batum,False,6.5,-123,2023-04-08T14:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,betmgm,player_points_over_under,nicolas batum,True,6.5,-115,2023-04-08T16:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,barstool,player_points_over_under,nicolas batum,True,6.5,105,2023-04-08T19:45:16,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_rebounds_over_under,nicolas batum,True,3.5,-198,2023-04-08T21:15:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,betmgm,player_points_over_under,nicolas batum,False,6.5,-115,2023-04-08T16:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_rebounds_over_under,nicolas batum,True,5.5,128,2023-04-08T21:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_rebounds_over_under,nicolas batum,False,3.5,146,2023-04-08T21:15:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_rebounds_over_under,nicolas batum,False,4.5,-215,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_rebounds_over_under,nicolas batum,False,5.5,-172,2023-04-08T21:30:01,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_rebounds_over_under,nicolas batum,True,2.5,-185,2023-04-08T21:00:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,player_rebounds_over_under,nicolas batum,True,3.5,-195,2023-04-08T21:15:02,LA Clippers,Portland Trail Blazers
+2023-04-08,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,player_rebounds_over_under,nicolas batum,True,4.5,158,2023-04-08T22:00:01,LA Clippers,Portland Trail Blazers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_rebounds_over_under,nicolas batum,False,2.5,116,2023-04-09T19:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_rebounds_over_under,nicolas batum,True,3.5,135,2023-04-09T20:30:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_rebounds_over_under,nicolas batum,True,4.5,370,2023-04-09T21:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_rebounds_over_under,nicolas batum,False,2.5,120,2023-04-09T19:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_rebounds_over_under,nicolas batum,False,3.5,-180,2023-04-09T20:30:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_rebounds_over_under,nicolas batum,True,2.5,-160,2023-04-09T19:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_rebounds_over_under,nicolas batum,False,4.5,-650,2023-04-09T21:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_rebounds_over_under,nicolas batum,False,3.5,-188,2023-04-09T20:30:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_rebounds_over_under,nicolas batum,True,4.5,390,2023-04-09T21:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_points_over_under,nicolas batum,False,6.5,-120,2023-04-09T13:00:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_rebounds_over_under,nicolas batum,True,2.5,-154,2023-04-09T19:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,betmgm,player_points_over_under,nicolas batum,False,6.5,-125,2023-04-09T16:45:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,betmgm,player_points_over_under,nicolas batum,True,6.5,-105,2023-04-09T16:45:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,caesars,player_points_over_under,nicolas batum,False,6.5,-121,2023-04-09T13:00:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,caesars,player_points_over_under,nicolas batum,True,6.5,-113,2023-04-09T13:00:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_rebounds_over_under,nicolas batum,False,4.5,-600,2023-04-09T21:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_points_over_under,nicolas batum,False,3.5,125,2023-04-09T20:15:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_points_over_under,nicolas batum,False,4.5,-130,2023-04-09T20:00:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_points_over_under,nicolas batum,False,5.5,-115,2023-04-09T19:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_rebounds_over_under,nicolas batum,True,3.5,140,2023-04-09T20:30:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,caesars,player_rebounds_over_under,nicolas batum,True,3.5,118,2023-04-09T13:00:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,betmgm,player_threes_over_under,nicolas batum,True,1.5,100,2023-04-09T17:45:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,betmgm,player_rebounds_over_under,nicolas batum,True,3.5,125,2023-04-09T17:45:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,betmgm,player_threes_over_under,nicolas batum,False,1.5,-135,2023-04-09T16:30:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_points_over_under,nicolas batum,False,2.5,-115,2023-04-09T21:00:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,caesars,player_threes_over_under,nicolas batum,False,1.5,-137,2023-04-09T16:45:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,caesars,player_threes_over_under,nicolas batum,True,1.5,100,2023-04-09T16:45:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_threes_over_under,nicolas batum,False,1.5,-165,2023-04-09T19:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_threes_over_under,nicolas batum,False,0.5,-1600,2023-04-09T21:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_threes_over_under,nicolas batum,True,1.5,125,2023-04-09T19:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_threes_over_under,nicolas batum,True,0.5,700,2023-04-09T21:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_threes_over_under,nicolas batum,False,1.5,-172,2023-04-09T19:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_threes_over_under,nicolas batum,False,0.5,-2000,2023-04-09T21:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_threes_over_under,nicolas batum,True,1.5,128,2023-04-09T19:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_threes_over_under,nicolas batum,True,0.5,750,2023-04-09T21:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,betmgm,player_steals_over_under,nicolas batum,False,0.5,-105,2023-04-09T17:45:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,betmgm,player_steals_over_under,nicolas batum,True,0.5,-125,2023-04-09T17:45:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,caesars,player_steals_over_under,nicolas batum,False,0.5,-111,2023-04-09T16:45:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,caesars,player_steals_over_under,nicolas batum,True,0.5,-123,2023-04-09T16:45:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_steals_over_under,nicolas batum,False,0.5,-8000,2023-04-09T21:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_steals_over_under,nicolas batum,True,0.5,1100,2023-04-09T21:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_steals_over_under,nicolas batum,False,0.5,-5000,2023-04-09T21:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_steals_over_under,nicolas batum,True,0.5,1000,2023-04-09T21:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,betmgm,player_rebounds_over_under,nicolas batum,False,3.5,-165,2023-04-09T16:45:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,caesars,player_rebounds_over_under,nicolas batum,False,3.5,-163,2023-04-09T13:00:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_points_over_under,nicolas batum,False,1.5,-135,2023-04-09T21:15:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_points_over_under,nicolas batum,True,0.5,220,2023-04-09T21:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_points_over_under,nicolas batum,True,6.5,-110,2023-04-09T13:00:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_blocks_over_under,nicolas batum,True,1.5,900,2023-04-09T21:30:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_blocks_over_under,nicolas batum,True,0.5,400,2023-04-09T21:00:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_blocks_over_under,nicolas batum,False,1.5,-10000,2023-04-09T21:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_blocks_over_under,nicolas batum,False,0.5,-670,2023-04-09T21:00:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_blocks_over_under,nicolas batum,True,1.5,1000,2023-04-09T21:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_blocks_over_under,nicolas batum,True,0.5,400,2023-04-09T21:00:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,betmgm,player_assists_over_under,nicolas batum,False,1.5,-110,2023-04-09T16:30:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,betmgm,player_assists_over_under,nicolas batum,True,1.5,-120,2023-04-09T16:30:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_blocks_over_under,nicolas batum,False,0.5,-700,2023-04-09T21:00:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,caesars,player_assists_over_under,nicolas batum,False,1.5,-108,2023-04-09T13:00:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_assists_over_under,nicolas batum,False,1.5,-1400,2023-04-09T21:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_assists_over_under,nicolas batum,False,0.5,-105,2023-04-09T21:00:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_assists_over_under,nicolas batum,True,0.5,-125,2023-04-09T21:00:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_assists_over_under,nicolas batum,False,1.5,-1450,2023-04-09T21:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_assists_over_under,nicolas batum,False,0.5,100,2023-04-09T21:00:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_assists_over_under,nicolas batum,True,1.5,640,2023-04-09T21:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_assists_over_under,nicolas batum,True,0.5,-132,2023-04-09T21:00:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_points_over_under,nicolas batum,False,0.5,-310,2023-04-09T21:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,caesars,player_assists_over_under,nicolas batum,True,1.5,-127,2023-04-09T13:00:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_blocks_over_under,nicolas batum,False,1.5,-3000,2023-04-09T21:30:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_assists_over_under,nicolas batum,True,1.5,650,2023-04-09T21:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,caesars,player_blocks_over_under,nicolas batum,False,0.5,-214,2023-04-09T19:15:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,caesars,player_blocks_over_under,nicolas batum,True,0.5,152,2023-04-09T19:15:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_points_over_under,nicolas batum,True,5.5,-115,2023-04-09T19:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_points_over_under,nicolas batum,True,4.5,100,2023-04-09T20:00:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_points_over_under,nicolas batum,True,3.5,-165,2023-04-09T20:15:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_points_over_under,nicolas batum,True,1.5,105,2023-04-09T21:15:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_points_over_under,nicolas batum,False,5.5,-114,2023-04-09T19:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_points_over_under,nicolas batum,False,4.5,-138,2023-04-09T20:00:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_points_over_under,nicolas batum,False,3.5,128,2023-04-09T20:15:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_points_over_under,nicolas batum,False,2.5,-102,2023-04-09T21:00:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,player_points_over_under,nicolas batum,True,2.5,-115,2023-04-09T21:00:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_points_over_under,nicolas batum,False,0.5,-260,2023-04-09T21:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_points_over_under,nicolas batum,True,5.5,-114,2023-04-09T19:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_points_over_under,nicolas batum,True,4.5,104,2023-04-09T20:00:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_points_over_under,nicolas batum,True,3.5,-172,2023-04-09T20:15:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_points_over_under,nicolas batum,True,2.5,-130,2023-04-09T21:00:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_points_over_under,nicolas batum,True,1.5,104,2023-04-09T21:15:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_points_over_under,nicolas batum,True,0.5,188,2023-04-09T21:45:02,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,player_points_over_under,nicolas batum,False,1.5,-138,2023-04-09T21:15:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,betmgm,player_blocks_over_under,nicolas batum,False,0.5,-225,2023-04-09T19:15:01,Phoenix Suns,LA Clippers
+2023-04-09,973ef3fd178a026edb82a3c0dd1cb3e1,betmgm,player_blocks_over_under,nicolas batum,True,0.5,160,2023-04-09T19:15:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,draftkings,player_points_over_under,nicolas batum,True,7.5,115,2023-04-17T01:00:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,draftkings,player_points_over_under,nicolas batum,False,3.5,-800,2023-04-17T02:30:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,draftkings,player_points_over_under,nicolas batum,False,4.5,-160,2023-04-17T02:00:02,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,draftkings,player_points_over_under,nicolas batum,False,5.5,-125,2023-04-17T01:45:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,draftkings,player_points_over_under,nicolas batum,False,6.5,-150,2023-04-17T01:30:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,draftkings,player_points_over_under,nicolas batum,False,7.5,-155,2023-04-17T00:45:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,betmgm,player_points_over_under,nicolas batum,True,5.5,-135,2023-04-14T20:45:02,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,caesars,player_points_over_under,nicolas batum,False,5.5,-103,2023-04-14T00:00:02,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,betmgm,player_points_over_under,nicolas batum,False,5.5,100,2023-04-14T20:45:02,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,fanduel,player_rebounds_over_under,nicolas batum,True,1.5,750,2023-04-17T02:30:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,draftkings,player_points_over_under,nicolas batum,True,6.5,115,2023-04-17T01:30:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,fanduel,player_rebounds_over_under,nicolas batum,True,2.5,108,2023-04-17T01:45:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,caesars,player_points_over_under,nicolas batum,True,5.5,-133,2023-04-14T00:00:02,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,draftkings,player_points_over_under,nicolas batum,True,5.5,-105,2023-04-17T01:45:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,fanduel,player_points_over_under,nicolas batum,True,5.5,100,2023-04-17T01:45:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,draftkings,player_points_over_under,nicolas batum,True,3.5,450,2023-04-17T02:30:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,fanduel,player_points_over_under,nicolas batum,False,7.5,-158,2023-04-17T01:00:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,fanduel,player_points_over_under,nicolas batum,False,6.5,-154,2023-04-17T01:30:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,fanduel,player_points_over_under,nicolas batum,False,5.5,-132,2023-04-17T01:45:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,fanduel,player_points_over_under,nicolas batum,False,4.5,-152,2023-04-17T02:00:02,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,fanduel,player_points_over_under,nicolas batum,False,3.5,-900,2023-04-17T02:30:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,fanduel,player_points_over_under,nicolas batum,True,7.5,118,2023-04-17T01:00:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,fanduel,player_points_over_under,nicolas batum,True,6.5,116,2023-04-17T01:30:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,fanduel,player_points_over_under,nicolas batum,True,4.5,114,2023-04-17T02:00:02,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,fanduel,player_points_over_under,nicolas batum,True,3.5,490,2023-04-17T02:30:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,betmgm,player_blocks_over_under,nicolas batum,False,0.5,-210,2023-04-14T20:45:02,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,betmgm,player_blocks_over_under,nicolas batum,True,0.5,150,2023-04-16T23:45:02,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,fanduel,player_rebounds_over_under,nicolas batum,True,3.5,154,2023-04-17T01:15:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,draftkings,player_points_over_under,nicolas batum,True,4.5,120,2023-04-17T02:00:02,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,fanduel,player_rebounds_over_under,nicolas batum,False,1.5,-2000,2023-04-17T02:30:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,fanduel,player_threes_over_under,nicolas batum,True,1.5,1000,2023-04-17T02:30:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,fanduel,player_rebounds_over_under,nicolas batum,False,3.5,-210,2023-04-17T01:15:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,betmgm,player_threes_over_under,nicolas batum,False,1.5,-110,2023-04-16T19:00:02,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,betmgm,player_threes_over_under,nicolas batum,True,1.5,-120,2023-04-16T19:00:02,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,caesars,player_threes_over_under,nicolas batum,False,1.5,-135,2023-04-16T20:30:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,caesars,player_threes_over_under,nicolas batum,True,1.5,-101,2023-04-16T20:30:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,draftkings,player_threes_over_under,nicolas batum,False,2.5,-230,2023-04-17T00:30:02,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,draftkings,player_threes_over_under,nicolas batum,False,1.5,-390,2023-04-17T02:15:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,draftkings,player_threes_over_under,nicolas batum,True,2.5,165,2023-04-17T00:30:02,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,draftkings,player_threes_over_under,nicolas batum,True,1.5,265,2023-04-17T02:15:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,fanduel,player_threes_over_under,nicolas batum,False,2.5,-245,2023-04-17T00:30:02,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,fanduel,player_threes_over_under,nicolas batum,False,1.5,-7000,2023-04-17T02:30:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,fanduel,player_threes_over_under,nicolas batum,True,2.5,178,2023-04-17T00:30:02,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,caesars,player_blocks_over_under,nicolas batum,False,0.5,-214,2023-04-14T00:00:02,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,betmgm,player_steals_over_under,nicolas batum,False,0.5,105,2023-04-16T23:45:02,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,betmgm,player_steals_over_under,nicolas batum,True,0.5,-140,2023-04-16T23:45:02,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,fanduel,player_rebounds_over_under,nicolas batum,False,2.5,-144,2023-04-17T01:45:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,caesars,player_steals_over_under,nicolas batum,False,0.5,-103,2023-04-14T00:00:02,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,draftkings,player_steals_over_under,nicolas batum,False,0.5,-1000,2023-04-17T02:15:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,draftkings,player_steals_over_under,nicolas batum,True,0.5,500,2023-04-17T02:15:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,fanduel,player_steals_over_under,nicolas batum,False,0.5,-50000,2023-04-17T02:30:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,fanduel,player_steals_over_under,nicolas batum,True,0.5,1000,2023-04-17T02:30:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,betmgm,player_rebounds_over_under,nicolas batum,False,3.5,-140,2023-04-17T00:15:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,betmgm,player_rebounds_over_under,nicolas batum,True,3.5,105,2023-04-14T20:45:02,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,caesars,player_rebounds_over_under,nicolas batum,False,3.5,-148,2023-04-14T00:00:02,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,caesars,player_rebounds_over_under,nicolas batum,True,3.5,108,2023-04-14T00:00:02,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,draftkings,player_rebounds_over_under,nicolas batum,False,3.5,-190,2023-04-17T01:15:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,draftkings,player_rebounds_over_under,nicolas batum,False,2.5,-140,2023-04-17T01:45:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,draftkings,player_rebounds_over_under,nicolas batum,False,1.5,-2000,2023-04-17T02:30:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,draftkings,player_rebounds_over_under,nicolas batum,True,3.5,140,2023-04-17T01:15:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,draftkings,player_rebounds_over_under,nicolas batum,True,2.5,105,2023-04-17T01:45:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,draftkings,player_rebounds_over_under,nicolas batum,True,1.5,750,2023-04-17T02:30:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,caesars,player_steals_over_under,nicolas batum,True,0.5,-133,2023-04-14T00:00:02,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,caesars,player_blocks_over_under,nicolas batum,True,0.5,152,2023-04-14T00:00:02,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,betmgm,player_assists_over_under,nicolas batum,True,1.5,120,2023-04-16T23:45:02,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,draftkings,player_blocks_over_under,nicolas batum,True,0.5,800,2023-04-17T02:15:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,fanduel,player_assists_over_under,nicolas batum,True,1.5,-230,2023-04-17T01:00:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,fanduel,player_assists_over_under,nicolas batum,True,2.5,1000,2023-04-17T02:30:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,fanduel,player_assists_over_under,nicolas batum,False,1.5,168,2023-04-17T01:00:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,fanduel,player_assists_over_under,nicolas batum,False,2.5,-7000,2023-04-17T02:30:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,draftkings,player_assists_over_under,nicolas batum,True,2.5,285,2023-04-17T02:15:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,draftkings,player_assists_over_under,nicolas batum,False,1.5,160,2023-04-17T01:00:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,draftkings,player_blocks_over_under,nicolas batum,False,0.5,-2500,2023-04-17T02:15:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,draftkings,player_assists_over_under,nicolas batum,True,1.5,-215,2023-04-17T01:00:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,fanduel,player_blocks_over_under,nicolas batum,True,0.5,1000,2023-04-17T02:30:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,draftkings,player_assists_over_under,nicolas batum,False,2.5,-425,2023-04-17T02:15:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,caesars,player_assists_over_under,nicolas batum,True,1.5,110,2023-04-16T17:15:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,caesars,player_assists_over_under,nicolas batum,False,1.5,-151,2023-04-16T17:15:01,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,betmgm,player_assists_over_under,nicolas batum,False,1.5,-160,2023-04-16T23:45:02,Phoenix Suns,LA Clippers
+2023-04-16,af2c65ee88461115c9e157100aed05b6,fanduel,player_blocks_over_under,nicolas batum,False,0.5,-100000,2023-04-17T02:30:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,draftkings,player_threes_over_under,nicolas batum,True,1.5,170,2023-04-19T02:15:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,draftkings,player_threes_over_under,nicolas batum,False,0.5,-500,2023-04-19T04:00:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,draftkings,player_threes_over_under,nicolas batum,False,1.5,-230,2023-04-19T02:15:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,caesars,player_threes_over_under,nicolas batum,True,1.5,106,2023-04-17T15:45:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,caesars,player_threes_over_under,nicolas batum,False,1.5,-145,2023-04-17T15:45:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,betmgm,player_threes_over_under,nicolas batum,True,1.5,110,2023-04-17T15:45:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,fanduel,player_rebounds_over_under,nicolas batum,True,1.5,800,2023-04-19T04:15:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,fanduel,player_rebounds_over_under,nicolas batum,True,2.5,118,2023-04-19T03:15:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,fanduel,player_rebounds_over_under,nicolas batum,False,2.5,-158,2023-04-19T03:15:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,fanduel,player_rebounds_over_under,nicolas batum,False,1.5,-2200,2023-04-19T04:15:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,draftkings,player_threes_over_under,nicolas batum,True,0.5,330,2023-04-19T04:00:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,fanduel,player_rebounds_over_under,nicolas batum,True,3.5,114,2023-04-19T02:15:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,fanduel,player_rebounds_over_under,nicolas batum,False,3.5,-152,2023-04-19T02:15:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,betmgm,player_threes_over_under,nicolas batum,False,1.5,-145,2023-04-17T15:45:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,fanduel,player_threes_over_under,nicolas batum,False,1.5,-240,2023-04-19T02:15:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,betmgm,player_steals_over_under,nicolas batum,True,0.5,-125,2023-04-17T15:45:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,fanduel,player_threes_over_under,nicolas batum,True,1.5,174,2023-04-19T02:15:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,draftkings,player_rebounds_over_under,nicolas batum,True,2.5,115,2023-04-19T03:15:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,draftkings,player_rebounds_over_under,nicolas batum,True,3.5,110,2023-04-19T02:15:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,draftkings,player_rebounds_over_under,nicolas batum,False,1.5,-2500,2023-04-19T04:15:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,draftkings,player_rebounds_over_under,nicolas batum,False,2.5,-155,2023-04-19T03:15:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,draftkings,player_rebounds_over_under,nicolas batum,False,3.5,-145,2023-04-19T02:15:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,caesars,player_rebounds_over_under,nicolas batum,True,2.5,-166,2023-04-17T15:45:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,caesars,player_rebounds_over_under,nicolas batum,False,2.5,120,2023-04-17T15:45:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,betmgm,player_rebounds_over_under,nicolas batum,True,2.5,-165,2023-04-17T15:45:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,fanduel,player_threes_over_under,nicolas batum,False,0.5,-7000,2023-04-19T04:15:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,betmgm,player_rebounds_over_under,nicolas batum,False,2.5,125,2023-04-17T15:45:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,fanduel,player_steals_over_under,nicolas batum,False,0.5,-50000,2023-04-19T04:15:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,draftkings,player_steals_over_under,nicolas batum,True,0.5,650,2023-04-19T04:00:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,draftkings,player_steals_over_under,nicolas batum,False,0.5,-1400,2023-04-19T04:00:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,caesars,player_steals_over_under,nicolas batum,True,0.5,-137,2023-04-17T15:45:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,caesars,player_steals_over_under,nicolas batum,False,0.5,100,2023-04-17T15:45:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,betmgm,player_points_over_under,nicolas batum,False,5.5,-115,2023-04-17T15:45:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,betmgm,player_steals_over_under,nicolas batum,False,0.5,-105,2023-04-17T15:45:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,fanduel,player_threes_over_under,nicolas batum,True,0.5,1000,2023-04-19T04:15:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,fanduel,player_steals_over_under,nicolas batum,True,0.5,1000,2023-04-19T04:15:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,betmgm,player_points_over_under,nicolas batum,True,5.5,-115,2023-04-17T15:45:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,draftkings,player_points_over_under,nicolas batum,False,2.5,-120,2023-04-19T03:15:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,caesars,player_points_over_under,nicolas batum,True,5.5,-121,2023-04-17T15:45:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,caesars,player_blocks_over_under,nicolas batum,True,0.5,165,2023-04-17T15:45:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,draftkings,player_blocks_over_under,nicolas batum,False,0.5,-5000,2023-04-19T04:00:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,draftkings,player_blocks_over_under,nicolas batum,True,0.5,1000,2023-04-19T04:00:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,fanduel,player_blocks_over_under,nicolas batum,False,0.5,-100000,2023-04-19T04:15:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,fanduel,player_blocks_over_under,nicolas batum,True,0.5,1000,2023-04-19T04:00:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,betmgm,player_assists_over_under,nicolas batum,False,1.5,-145,2023-04-17T15:45:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,betmgm,player_assists_over_under,nicolas batum,True,1.5,110,2023-04-17T15:45:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,caesars,player_assists_over_under,nicolas batum,False,1.5,-145,2023-04-17T15:45:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,caesars,player_assists_over_under,nicolas batum,True,1.5,106,2023-04-17T15:45:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,draftkings,player_assists_over_under,nicolas batum,False,1.5,-500,2023-04-19T04:00:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,draftkings,player_assists_over_under,nicolas batum,False,0.5,-175,2023-04-19T03:30:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,draftkings,player_assists_over_under,nicolas batum,True,1.5,330,2023-04-19T04:00:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,fanduel,player_assists_over_under,nicolas batum,True,0.5,134,2023-04-19T03:30:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,fanduel,player_assists_over_under,nicolas batum,True,1.5,1000,2023-04-19T04:15:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,fanduel,player_assists_over_under,nicolas batum,False,0.5,-182,2023-04-19T03:30:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,fanduel,player_assists_over_under,nicolas batum,False,1.5,-7000,2023-04-19T04:15:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,draftkings,player_assists_over_under,nicolas batum,True,0.5,130,2023-04-19T03:30:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,caesars,player_blocks_over_under,nicolas batum,False,0.5,-234,2023-04-17T15:45:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,betmgm,player_blocks_over_under,nicolas batum,True,0.5,175,2023-04-17T15:45:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,betmgm,player_blocks_over_under,nicolas batum,False,0.5,-250,2023-04-17T15:45:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,fanduel,player_points_over_under,nicolas batum,True,0.5,490,2023-04-19T04:15:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,draftkings,player_points_over_under,nicolas batum,False,4.5,-140,2023-04-19T02:15:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,draftkings,player_points_over_under,nicolas batum,False,3.5,-160,2023-04-19T03:00:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,draftkings,player_points_over_under,nicolas batum,False,1.5,110,2023-04-19T03:30:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,draftkings,player_points_over_under,nicolas batum,False,0.5,-1200,2023-04-19T04:15:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,draftkings,player_points_over_under,nicolas batum,True,4.5,105,2023-04-19T02:15:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,draftkings,player_points_over_under,nicolas batum,True,3.5,120,2023-04-19T03:00:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,draftkings,player_points_over_under,nicolas batum,True,2.5,-110,2023-04-19T03:15:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,draftkings,player_points_over_under,nicolas batum,True,1.5,-150,2023-04-19T03:30:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,caesars,player_points_over_under,nicolas batum,False,5.5,-113,2023-04-17T15:45:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,draftkings,player_points_over_under,nicolas batum,True,0.5,600,2023-04-19T04:15:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,fanduel,player_points_over_under,nicolas batum,False,3.5,-166,2023-04-19T03:00:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,fanduel,player_points_over_under,nicolas batum,False,2.5,-118,2023-04-19T03:15:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,fanduel,player_points_over_under,nicolas batum,False,1.5,114,2023-04-19T03:30:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,fanduel,player_points_over_under,nicolas batum,False,0.5,-900,2023-04-19T04:15:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,fanduel,player_points_over_under,nicolas batum,True,4.5,104,2023-04-19T02:15:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,fanduel,player_points_over_under,nicolas batum,True,3.5,124,2023-04-19T03:00:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,fanduel,player_points_over_under,nicolas batum,True,2.5,-112,2023-04-19T03:15:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,fanduel,player_points_over_under,nicolas batum,True,1.5,-152,2023-04-19T03:30:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,fanduel,player_points_over_under,nicolas batum,False,4.5,-138,2023-04-19T02:15:01,Phoenix Suns,LA Clippers
+2023-04-18,7c6807f06c72b08f0789f4362d252fc6,draftkings,player_rebounds_over_under,nicolas batum,True,1.5,800,2023-04-19T04:15:01,Phoenix Suns,LA Clippers
+2023-04-20,2fb312686cb06a76fb7575f153280c76,fanduel,player_steals_over_under,nicolas batum,True,0.5,1000,2023-04-21T04:45:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,betmgm,player_threes_over_under,nicolas batum,False,1.5,-120,2023-04-21T01:15:02,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,betmgm,player_blocks_over_under,nicolas batum,False,0.5,-275,2023-04-21T01:00:02,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,fanduel,player_points_over_under,nicolas batum,True,0.5,225,2023-04-21T04:45:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,fanduel,player_points_over_under,nicolas batum,True,2.5,-158,2023-04-21T04:00:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,fanduel,player_points_over_under,nicolas batum,True,3.5,128,2023-04-21T03:45:02,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,fanduel,player_points_over_under,nicolas batum,True,4.5,-136,2023-04-21T03:00:02,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,fanduel,player_points_over_under,nicolas batum,True,5.5,-136,2023-04-21T02:45:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,fanduel,player_points_over_under,nicolas batum,True,6.5,-104,2023-04-21T02:30:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,fanduel,player_points_over_under,nicolas batum,True,7.5,-104,2023-04-20T20:15:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,fanduel,player_points_over_under,nicolas batum,False,0.5,-320,2023-04-21T04:45:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,fanduel,player_points_over_under,nicolas batum,False,2.5,118,2023-04-21T04:00:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,fanduel,player_points_over_under,nicolas batum,False,3.5,-172,2023-04-21T03:45:02,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,fanduel,player_points_over_under,nicolas batum,False,4.5,102,2023-04-21T03:00:02,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,fanduel,player_points_over_under,nicolas batum,False,5.5,102,2023-04-21T02:45:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,fanduel,player_points_over_under,nicolas batum,False,6.5,-118,2023-04-21T02:30:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,fanduel,player_points_over_under,nicolas batum,False,7.5,-122,2023-04-20T20:15:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,draftkings,player_points_over_under,nicolas batum,True,0.5,350,2023-04-21T04:45:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,draftkings,player_points_over_under,nicolas batum,True,2.5,-160,2023-04-21T04:00:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,draftkings,player_points_over_under,nicolas batum,True,3.5,125,2023-04-21T03:45:02,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,draftkings,player_points_over_under,nicolas batum,True,4.5,-130,2023-04-21T03:00:02,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,draftkings,player_blocks_over_under,nicolas batum,False,2.5,-8000,2023-04-21T04:30:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,draftkings,player_points_over_under,nicolas batum,True,5.5,-120,2023-04-21T02:45:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,draftkings,player_blocks_over_under,nicolas batum,False,1.5,-525,2023-04-21T03:15:02,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,draftkings,player_blocks_over_under,nicolas batum,True,2.5,1100,2023-04-21T04:30:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,fanduel,player_assists_over_under,nicolas batum,True,0.5,-158,2023-04-21T03:45:02,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,fanduel,player_assists_over_under,nicolas batum,True,1.5,800,2023-04-21T04:45:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,fanduel,player_assists_over_under,nicolas batum,False,0.5,118,2023-04-21T03:45:02,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,barstool,player_threes_over_under,nicolas batum,True,1.5,-110,2023-04-21T01:45:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,fanduel,player_assists_over_under,nicolas batum,False,1.5,-2200,2023-04-21T04:45:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,draftkings,player_assists_over_under,nicolas batum,True,0.5,-160,2023-04-21T03:45:02,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,draftkings,player_assists_over_under,nicolas batum,True,1.5,1100,2023-04-21T04:45:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,draftkings,player_assists_over_under,nicolas batum,False,0.5,120,2023-04-21T03:45:02,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,draftkings,player_assists_over_under,nicolas batum,False,1.5,-8000,2023-04-21T04:45:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,betmgm,player_assists_over_under,nicolas batum,True,1.5,-125,2023-04-21T01:15:02,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,betmgm,player_assists_over_under,nicolas batum,False,1.5,-105,2023-04-21T01:15:02,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,fanduel,player_blocks_over_under,nicolas batum,True,0.5,230,2023-04-21T02:45:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,fanduel,player_blocks_over_under,nicolas batum,True,1.5,350,2023-04-21T03:15:02,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,fanduel,player_blocks_over_under,nicolas batum,True,2.5,1000,2023-04-21T04:15:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,fanduel,player_blocks_over_under,nicolas batum,False,0.5,-330,2023-04-21T02:45:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,fanduel,player_blocks_over_under,nicolas batum,False,1.5,-550,2023-04-21T03:15:02,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,fanduel,player_blocks_over_under,nicolas batum,False,2.5,-50000,2023-04-21T04:45:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,draftkings,player_blocks_over_under,nicolas batum,True,0.5,230,2023-04-21T02:45:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,draftkings,player_blocks_over_under,nicolas batum,True,1.5,330,2023-04-21T03:15:02,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,draftkings,player_blocks_over_under,nicolas batum,False,0.5,-330,2023-04-21T02:45:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,draftkings,player_points_over_under,nicolas batum,True,6.5,-120,2023-04-21T02:15:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,betmgm,player_blocks_over_under,nicolas batum,True,0.5,195,2023-04-21T01:00:02,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,draftkings,player_points_over_under,nicolas batum,False,2.5,120,2023-04-21T04:00:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,draftkings,player_rebounds_over_under,nicolas batum,False,4.5,-150,2023-04-21T04:00:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,betmgm,player_rebounds_over_under,nicolas batum,True,2.5,-110,2023-04-20T04:45:02,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,betmgm,player_rebounds_over_under,nicolas batum,True,3.5,120,2023-04-21T01:15:02,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,betmgm,player_rebounds_over_under,nicolas batum,False,2.5,-120,2023-04-20T04:45:02,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,betmgm,player_rebounds_over_under,nicolas batum,False,3.5,-160,2023-04-21T01:15:02,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,fanduel,player_steals_over_under,nicolas batum,False,0.5,-5000,2023-04-21T04:45:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,draftkings,player_steals_over_under,nicolas batum,False,0.5,-1200,2023-04-21T04:30:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,betmgm,player_steals_over_under,nicolas batum,True,0.5,-185,2023-04-21T01:00:02,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,betmgm,player_steals_over_under,nicolas batum,False,0.5,135,2023-04-21T01:00:02,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,fanduel,player_threes_over_under,nicolas batum,True,0.5,880,2023-04-21T04:45:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,fanduel,player_threes_over_under,nicolas batum,True,1.5,178,2023-04-21T03:00:02,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,fanduel,player_threes_over_under,nicolas batum,False,0.5,-3000,2023-04-21T04:45:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,fanduel,player_threes_over_under,nicolas batum,False,1.5,-245,2023-04-21T03:00:02,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,draftkings,player_threes_over_under,nicolas batum,True,0.5,1100,2023-04-21T04:45:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,draftkings,player_points_over_under,nicolas batum,False,0.5,-550,2023-04-21T04:45:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,draftkings,player_threes_over_under,nicolas batum,True,1.5,175,2023-04-21T03:00:02,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,betmgm,player_threes_over_under,nicolas batum,True,1.5,-110,2023-04-21T01:15:02,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,draftkings,player_threes_over_under,nicolas batum,False,1.5,-235,2023-04-21T03:00:02,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,draftkings,player_threes_over_under,nicolas batum,False,0.5,-8000,2023-04-21T04:45:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,draftkings,player_rebounds_over_under,nicolas batum,False,3.5,-1600,2023-04-21T04:45:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,draftkings,player_rebounds_over_under,nicolas batum,False,2.5,-120,2023-04-19T21:45:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,draftkings,player_steals_over_under,nicolas batum,True,0.5,600,2023-04-21T04:30:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,draftkings,player_rebounds_over_under,nicolas batum,True,3.5,700,2023-04-21T04:45:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,draftkings,player_points_over_under,nicolas batum,False,3.5,-165,2023-04-21T03:45:02,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,draftkings,player_points_over_under,nicolas batum,False,6.5,-110,2023-04-21T02:15:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,betmgm,player_points_over_under,nicolas batum,True,5.5,100,2023-04-20T04:45:02,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,draftkings,player_rebounds_over_under,nicolas batum,True,4.5,115,2023-04-21T04:00:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,betmgm,player_points_over_under,nicolas batum,True,6.5,-120,2023-04-21T01:15:02,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,betmgm,player_points_over_under,nicolas batum,False,5.5,-135,2023-04-20T04:45:02,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,betmgm,player_points_over_under,nicolas batum,False,6.5,-110,2023-04-21T01:15:02,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,draftkings,player_points_over_under,nicolas batum,False,4.5,100,2023-04-21T03:00:02,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,barstool,player_points_over_under,nicolas batum,True,6.5,-124,2023-04-21T01:45:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,barstool,player_points_over_under,nicolas batum,True,7.5,107,2023-04-21T01:45:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,barstool,player_points_over_under,nicolas batum,True,5.5,-200,2023-04-21T01:45:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,fanduel,player_rebounds_over_under,nicolas batum,True,2.5,-168,2023-04-21T02:00:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,fanduel,player_rebounds_over_under,nicolas batum,True,3.5,490,2023-04-21T04:45:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,fanduel,player_rebounds_over_under,nicolas batum,True,4.5,118,2023-04-21T04:00:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,fanduel,player_rebounds_over_under,nicolas batum,False,2.5,140,2023-04-21T02:00:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,fanduel,player_rebounds_over_under,nicolas batum,False,3.5,-900,2023-04-21T04:45:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,fanduel,player_rebounds_over_under,nicolas batum,False,4.5,-158,2023-04-21T04:00:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,draftkings,player_rebounds_over_under,nicolas batum,True,2.5,-110,2023-04-19T21:45:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,barstool,player_points_over_under,nicolas batum,True,8.5,160,2023-04-21T01:45:01,LA Clippers,Phoenix Suns
+2023-04-20,2fb312686cb06a76fb7575f153280c76,draftkings,player_points_over_under,nicolas batum,False,5.5,-110,2023-04-21T02:45:01,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,barstool,player_points_over_under,nicolas batum,True,7.5,205,2023-04-22T18:45:02,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,fanduel,player_rebounds_over_under,nicolas batum,True,2.5,126,2023-04-22T19:30:02,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,fanduel,player_rebounds_over_under,nicolas batum,True,3.5,134,2023-04-22T18:45:02,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,fanduel,player_rebounds_over_under,nicolas batum,False,2.5,-162,2023-04-22T19:30:02,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,fanduel,player_rebounds_over_under,nicolas batum,False,3.5,-164,2023-04-22T18:45:02,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,draftkings,player_rebounds_over_under,nicolas batum,True,2.5,130,2023-04-22T19:30:02,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,barstool,player_points_over_under,nicolas batum,True,6.5,215,2023-04-22T19:00:01,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,betmgm,player_rebounds_over_under,nicolas batum,False,3.5,-165,2023-04-22T14:45:01,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,draftkings,player_rebounds_over_under,nicolas batum,False,2.5,-160,2023-04-22T19:30:02,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,draftkings,player_rebounds_over_under,nicolas batum,False,3.5,-160,2023-04-22T14:45:01,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,betmgm,player_rebounds_over_under,nicolas batum,True,2.5,125,2023-04-22T19:15:01,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,betmgm,player_rebounds_over_under,nicolas batum,True,3.5,125,2023-04-22T14:45:01,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,betmgm,player_rebounds_over_under,nicolas batum,False,2.5,-165,2023-04-22T19:15:01,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,barstool,player_rebounds_over_under,nicolas batum,True,2.5,110,2023-04-22T19:15:01,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,barstool,player_rebounds_over_under,nicolas batum,True,3.5,130,2023-04-22T19:00:01,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,barstool,player_points_over_under,nicolas batum,True,5.5,116,2023-04-22T19:15:01,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,draftkings,player_steals_over_under,nicolas batum,True,0.5,105,2023-04-22T19:15:01,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,draftkings,player_rebounds_over_under,nicolas batum,True,3.5,130,2023-04-22T14:45:01,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,barstool,player_points_over_under,nicolas batum,True,4.5,-125,2023-04-22T19:15:01,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,fanduel,player_assists_over_under,nicolas batum,False,2.5,-170,2023-04-22T14:00:01,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,betmgm,player_points_over_under,nicolas batum,False,5.5,-120,2023-04-22T14:45:01,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,draftkings,player_steals_over_under,nicolas batum,False,0.5,-135,2023-04-22T19:15:01,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,fanduel,player_assists_over_under,nicolas batum,True,1.5,140,2023-04-22T19:00:01,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,fanduel,player_assists_over_under,nicolas batum,True,2.5,138,2023-04-22T14:00:01,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,fanduel,player_assists_over_under,nicolas batum,False,1.5,-172,2023-04-22T19:00:01,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,betmgm,player_assists_over_under,nicolas batum,True,1.5,175,2023-04-22T19:15:01,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,betmgm,player_assists_over_under,nicolas batum,False,1.5,-250,2023-04-22T19:15:01,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,barstool,player_assists_over_under,nicolas batum,True,1.5,140,2023-04-22T19:00:01,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,draftkings,player_blocks_over_under,nicolas batum,False,0.5,-440,2023-04-22T19:15:01,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,betmgm,player_blocks_over_under,nicolas batum,True,0.5,320,2023-04-22T19:15:01,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,betmgm,player_blocks_over_under,nicolas batum,False,0.5,-500,2023-04-22T19:15:01,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,fanduel,player_points_over_under,nicolas batum,True,3.5,-128,2023-04-22T19:30:02,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,fanduel,player_points_over_under,nicolas batum,True,4.5,-120,2023-04-22T19:00:01,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,fanduel,player_points_over_under,nicolas batum,True,5.5,100,2023-04-22T18:45:02,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,fanduel,player_points_over_under,nicolas batum,True,6.5,110,2023-04-22T07:00:01,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,fanduel,player_points_over_under,nicolas batum,False,3.5,100,2023-04-22T19:30:02,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,fanduel,player_points_over_under,nicolas batum,False,4.5,-102,2023-04-22T19:00:01,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,fanduel,player_points_over_under,nicolas batum,False,5.5,-122,2023-04-22T18:45:02,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,fanduel,player_points_over_under,nicolas batum,False,6.5,-140,2023-04-22T07:00:01,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,betmgm,player_points_over_under,nicolas batum,True,4.5,100,2023-04-22T19:15:01,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,betmgm,player_points_over_under,nicolas batum,True,5.5,-110,2023-04-22T14:45:01,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,betmgm,player_points_over_under,nicolas batum,False,4.5,-135,2023-04-22T19:15:01,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,barstool,player_points_over_under,nicolas batum,True,3.5,-148,2023-04-22T19:15:01,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,betmgm,player_steals_over_under,nicolas batum,True,0.5,105,2023-04-22T19:15:01,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,draftkings,player_blocks_over_under,nicolas batum,True,0.5,330,2023-04-22T19:15:01,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,fanduel,player_threes_over_under,nicolas batum,True,1.5,182,2023-04-22T19:15:01,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,betmgm,player_steals_over_under,nicolas batum,False,0.5,-140,2023-04-22T19:15:01,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,barstool,player_threes_over_under,nicolas batum,True,1.5,140,2023-04-22T19:00:01,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,betmgm,player_threes_over_under,nicolas batum,False,1.5,-190,2023-04-22T14:45:01,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,betmgm,player_threes_over_under,nicolas batum,True,1.5,140,2023-04-22T14:45:01,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,betmgm,player_threes_over_under,nicolas batum,True,0.5,-210,2023-04-22T19:15:01,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,betmgm,player_threes_over_under,nicolas batum,False,0.5,155,2023-04-22T19:15:01,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,draftkings,player_threes_over_under,nicolas batum,False,0.5,160,2023-04-22T19:15:01,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,draftkings,player_threes_over_under,nicolas batum,True,1.5,145,2023-04-22T14:45:01,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,draftkings,player_threes_over_under,nicolas batum,True,0.5,-195,2023-04-22T19:15:01,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,fanduel,player_threes_over_under,nicolas batum,False,1.5,-240,2023-04-22T19:15:01,LA Clippers,Phoenix Suns
+2023-04-22,1234fd1858e9953500e385a14700b1a7,draftkings,player_threes_over_under,nicolas batum,False,1.5,-180,2023-04-22T14:45:01,LA Clippers,Phoenix Suns
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_rebounds_over_under,nicolas batum,True,5.5,174,2023-04-26T04:30:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_rebounds_over_under,nicolas batum,False,3.5,-118,2023-04-26T04:15:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_rebounds_over_under,nicolas batum,False,2.5,162,2023-04-26T03:00:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_rebounds_over_under,nicolas batum,False,1.5,-154,2023-04-26T02:15:02,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_rebounds_over_under,nicolas batum,True,3.5,-112,2023-04-26T04:15:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,draftkings,player_points_over_under,nicolas batum,False,5.5,135,2023-04-26T02:45:02,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_rebounds_over_under,nicolas batum,True,1.5,116,2023-04-26T02:15:02,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,draftkings,player_points_over_under,nicolas batum,False,19.5,-115,2023-04-26T04:30:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,draftkings,player_points_over_under,nicolas batum,False,8.5,-245,2023-04-26T04:00:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_rebounds_over_under,nicolas batum,False,5.5,-240,2023-04-26T04:30:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,draftkings,player_points_over_under,nicolas batum,False,4.5,-165,2023-04-26T02:30:02,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_rebounds_over_under,nicolas batum,True,2.5,-220,2023-04-26T03:00:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,pinnacle,player_rebounds_over_under,nicolas batum,True,1.5,116,2023-04-24T15:15:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,draftkings,player_rebounds_over_under,nicolas batum,True,3.5,100,2023-04-26T04:15:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,pinnacle,player_rebounds_over_under,nicolas batum,False,1.5,-155,2023-04-24T15:15:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,pinnacle,player_rebounds_over_under,nicolas batum,False,5.5,-166,2023-04-24T15:00:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,draftkings,player_rebounds_over_under,nicolas batum,True,1.5,115,2023-04-26T02:15:02,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,draftkings,player_rebounds_over_under,nicolas batum,True,2.5,-190,2023-04-26T03:00:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,draftkings,player_points_over_under,nicolas batum,False,2.5,-140,2023-04-26T02:15:02,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,draftkings,player_rebounds_over_under,nicolas batum,True,5.5,170,2023-04-26T04:30:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,draftkings,player_rebounds_over_under,nicolas batum,False,1.5,-150,2023-04-26T02:15:02,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,draftkings,player_rebounds_over_under,nicolas batum,False,2.5,145,2023-04-26T03:00:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,draftkings,player_rebounds_over_under,nicolas batum,False,3.5,-130,2023-04-26T04:15:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,draftkings,player_rebounds_over_under,nicolas batum,False,5.5,-235,2023-04-26T04:30:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_steals_over_under,nicolas batum,True,0.5,188,2023-04-26T02:30:02,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_steals_over_under,nicolas batum,True,2.5,750,2023-04-26T04:30:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_steals_over_under,nicolas batum,False,0.5,-260,2023-04-26T02:30:02,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_steals_over_under,nicolas batum,False,2.5,-2000,2023-04-26T04:30:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,pinnacle,player_rebounds_over_under,nicolas batum,True,5.5,123,2023-04-24T15:00:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,draftkings,player_points_over_under,nicolas batum,True,19.5,-115,2023-04-26T04:30:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,draftkings,player_points_over_under,nicolas batum,True,2.5,105,2023-04-26T02:15:02,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,draftkings,player_points_over_under,nicolas batum,True,8.5,180,2023-04-26T04:00:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_assists_over_under,nicolas batum,True,0.5,102,2023-04-26T02:30:02,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_assists_over_under,nicolas batum,True,1.5,240,2023-04-26T03:45:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_assists_over_under,nicolas batum,True,2.5,520,2023-04-26T04:30:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_assists_over_under,nicolas batum,False,0.5,-136,2023-04-26T02:30:02,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_assists_over_under,nicolas batum,False,1.5,-350,2023-04-26T03:45:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_assists_over_under,nicolas batum,False,2.5,-1000,2023-04-26T04:30:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,pinnacle,player_assists_over_under,nicolas batum,True,0.5,126,2023-04-24T15:15:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,pinnacle,player_assists_over_under,nicolas batum,True,3.5,135,2023-04-24T15:00:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,pinnacle,player_assists_over_under,nicolas batum,False,0.5,-171,2023-04-24T15:15:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,pinnacle,player_assists_over_under,nicolas batum,False,3.5,-185,2023-04-24T15:00:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_blocks_over_under,nicolas batum,True,0.5,1000,2023-04-26T04:30:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_blocks_over_under,nicolas batum,False,0.5,-5000,2023-04-26T04:30:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_points_over_under,nicolas batum,True,2.5,-146,2023-04-26T02:30:02,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_points_over_under,nicolas batum,True,5.5,-188,2023-04-26T02:45:02,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_points_over_under,nicolas batum,True,8.5,188,2023-04-26T04:00:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_points_over_under,nicolas batum,True,11.5,194,2023-04-26T04:15:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_points_over_under,nicolas batum,True,19.5,-118,2023-04-26T04:30:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_points_over_under,nicolas batum,False,2.5,110,2023-04-26T02:30:02,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_points_over_under,nicolas batum,False,5.5,140,2023-04-26T02:45:02,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_points_over_under,nicolas batum,False,8.5,-260,2023-04-26T04:00:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_points_over_under,nicolas batum,False,11.5,-270,2023-04-26T04:15:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_points_over_under,nicolas batum,False,19.5,-112,2023-04-26T04:30:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,pinnacle,player_points_over_under,nicolas batum,True,2.5,-114,2023-04-24T15:15:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,pinnacle,player_points_over_under,nicolas batum,True,8.5,-104,2023-04-24T15:00:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,pinnacle,player_points_over_under,nicolas batum,False,2.5,-116,2023-04-24T15:15:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,pinnacle,player_points_over_under,nicolas batum,False,8.5,-127,2023-04-24T15:00:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,draftkings,player_steals_over_under,nicolas batum,True,0.5,215,2023-04-26T02:15:02,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,draftkings,player_points_over_under,nicolas batum,True,4.5,120,2023-04-26T02:30:02,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,draftkings,player_points_over_under,nicolas batum,True,5.5,-185,2023-04-26T02:45:02,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,draftkings,player_points_over_under,nicolas batum,True,10.5,-230,2023-04-26T04:15:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,draftkings,player_steals_over_under,nicolas batum,True,2.5,750,2023-04-26T04:30:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,draftkings,player_points_over_under,nicolas batum,False,10.5,170,2023-04-26T04:15:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,draftkings,player_steals_over_under,nicolas batum,False,2.5,-2000,2023-04-26T04:30:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,draftkings,player_steals_over_under,nicolas batum,False,0.5,-300,2023-04-26T02:15:02,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,draftkings,player_threes_over_under,nicolas batum,True,5.5,390,2023-04-26T04:30:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,draftkings,player_threes_over_under,nicolas batum,False,0.5,-155,2023-04-26T02:45:02,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,draftkings,player_threes_over_under,nicolas batum,False,1.5,-340,2023-04-26T04:00:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,draftkings,player_threes_over_under,nicolas batum,False,2.5,-370,2023-04-26T04:15:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,draftkings,player_threes_over_under,nicolas batum,False,5.5,-650,2023-04-26T04:30:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,draftkings,player_threes_over_under,nicolas batum,True,1.5,235,2023-04-26T04:00:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,draftkings,player_threes_over_under,nicolas batum,True,0.5,115,2023-04-26T02:45:02,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,pinnacle,player_threes_over_under,nicolas batum,False,1.5,-274,2023-04-24T15:00:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,draftkings,player_threes_over_under,nicolas batum,True,2.5,255,2023-04-26T04:15:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,pinnacle,player_threes_over_under,nicolas batum,False,0.5,-121,2023-04-24T15:15:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,pinnacle,player_threes_over_under,nicolas batum,True,0.5,-109,2023-04-24T15:15:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_threes_over_under,nicolas batum,False,5.5,-670,2023-04-26T04:30:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_threes_over_under,nicolas batum,False,2.5,-350,2023-04-26T04:15:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_threes_over_under,nicolas batum,False,1.5,-350,2023-04-26T04:00:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_threes_over_under,nicolas batum,False,0.5,-158,2023-04-26T02:45:02,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_threes_over_under,nicolas batum,True,5.5,400,2023-04-26T04:30:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_threes_over_under,nicolas batum,True,2.5,240,2023-04-26T04:15:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_threes_over_under,nicolas batum,True,1.5,240,2023-04-26T04:00:01,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,fanduel,player_threes_over_under,nicolas batum,True,0.5,118,2023-04-26T02:45:02,Phoenix Suns,LA Clippers
+2023-04-25,6b75807644756c992b6db9d82ba5381d,pinnacle,player_threes_over_under,nicolas batum,True,1.5,187,2023-04-24T15:00:01,Phoenix Suns,LA Clippers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_rebounds_over_under,nicolas batum,True,1.5,-160,2023-10-26T03:15:17,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_rebounds_over_under,nicolas batum,False,3.5,-100000,2023-10-26T04:50:12,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_rebounds_over_under,nicolas batum,False,1.5,160,2023-10-26T04:25:07,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_rebounds_over_under,nicolas batum,False,0.5,105,2023-10-26T04:15:46,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_rebounds_over_under,nicolas batum,True,3.5,350,2023-10-26T04:39:33,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_rebounds_over_under,nicolas batum,True,1.5,-220,2023-10-26T04:25:07,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_rebounds_over_under,nicolas batum,True,0.5,-140,2023-10-26T04:15:46,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_rebounds_over_under,nicolas batum,False,1.5,110,2023-10-26T03:15:17,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_rebounds_over_under,nicolas batum,False,1.5,168,2023-10-26T04:25:11,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_rebounds_over_under,nicolas batum,False,3.5,-550,2023-10-26T04:39:33,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_steals_over_under,nicolas batum,True,0.5,134,2023-10-26T03:10:05,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_steals_over_under,nicolas batum,True,1.5,380,2023-10-26T04:30:06,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_steals_over_under,nicolas batum,False,0.5,-180,2023-10-26T03:10:05,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_steals_over_under,nicolas batum,False,1.5,-100000,2023-10-26T04:46:45,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_steals_over_under,nicolas batum,True,0.5,135,2023-10-26T03:11:40,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_rebounds_over_under,nicolas batum,False,0.5,102,2023-10-26T04:15:07,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_steals_over_under,nicolas batum,False,0.5,-180,2023-10-26T03:11:40,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_steals_over_under,nicolas batum,False,1.5,-650,2023-10-26T04:30:06,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_steals_over_under,nicolas batum,True,0.5,125,2023-10-26T03:10:06,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_steals_over_under,nicolas batum,False,0.5,-180,2023-10-26T03:10:06,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_threes_over_under,nicolas batum,True,0.5,650,2023-10-26T04:39:33,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_threes_over_under,nicolas batum,False,0.5,-1400,2023-10-26T04:39:33,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_steals_over_under,nicolas batum,True,1.5,1000,2023-10-26T04:35:48,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_rebounds_over_under,nicolas batum,True,3.5,1000,2023-10-26T04:46:45,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,nicolas batum,True,3.5,125,2023-10-26T03:11:40,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_rebounds_over_under,nicolas batum,True,0.5,-136,2023-10-26T04:15:07,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_assists_over_under,nicolas batum,False,1.5,-100000,2023-10-26T04:46:45,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_assists_over_under,nicolas batum,True,1.5,700,2023-10-26T04:39:33,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_assists_over_under,nicolas batum,False,1.5,-1600,2023-10-26T04:39:33,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_blocks_over_under,nicolas batum,True,0.5,520,2023-10-26T04:25:11,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_blocks_over_under,nicolas batum,True,1.5,1000,2023-10-26T04:35:48,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_blocks_over_under,nicolas batum,False,0.5,-900,2023-10-26T04:25:11,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_blocks_over_under,nicolas batum,False,1.5,-100000,2023-10-26T04:46:45,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_blocks_over_under,nicolas batum,True,0.5,475,2023-10-26T04:25:07,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_blocks_over_under,nicolas batum,True,1.5,600,2023-10-26T04:30:06,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_blocks_over_under,nicolas batum,False,0.5,-900,2023-10-26T04:25:07,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_blocks_over_under,nicolas batum,False,1.5,-1200,2023-10-26T04:30:06,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_blocks_over_under,nicolas batum,True,0.5,260,2023-10-26T03:15:17,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_blocks_over_under,nicolas batum,False,0.5,-425,2023-10-26T03:15:17,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,nicolas batum,True,0.5,500,2023-10-26T04:39:33,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,nicolas batum,True,2.5,-110,2023-10-26T04:20:13,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_threes_over_under,nicolas batum,True,0.5,-170,2023-10-26T03:15:17,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,nicolas batum,False,0.5,-1000,2023-10-26T04:39:33,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,nicolas batum,False,2.5,-120,2023-10-26T04:20:13,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,draftkings,player_points_over_under,nicolas batum,False,3.5,-170,2023-10-26T03:11:40,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_points_over_under,nicolas batum,True,2.5,-190,2023-10-26T03:15:17,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_points_over_under,nicolas batum,True,3.5,120,2023-10-26T03:10:06,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_points_over_under,nicolas batum,False,2.5,135,2023-10-26T03:15:17,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_points_over_under,nicolas batum,False,3.5,-170,2023-10-26T03:10:06,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_rebounds_over_under,nicolas batum,True,1.5,-230,2023-10-26T04:25:11,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,barstool,player_threes_over_under,nicolas batum,False,0.5,120,2023-10-26T03:15:17,LA Clippers,Portland Trail Blazers
+2023-10-25,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_assists_over_under,nicolas batum,True,1.5,1000,2023-10-26T04:46:45,LA Clippers,Portland Trail Blazers
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_assists_over_under,nicolas batum,True,1.5,160,2023-10-30T01:45:13,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_steals_over_under,nicolas batum,True,1.5,450,2023-10-30T03:05:10,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_steals_over_under,nicolas batum,False,0.5,-195,2023-10-30T01:50:06,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_steals_over_under,nicolas batum,False,1.5,-800,2023-10-30T03:05:10,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_steals_over_under,nicolas batum,True,0.5,130,2023-10-30T01:50:31,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_steals_over_under,nicolas batum,False,0.5,-185,2023-10-30T01:50:31,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,pinnacle,player_threes_over_under,nicolas batum,True,1.5,163,2023-10-30T01:01:11,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,pinnacle,player_threes_over_under,nicolas batum,False,1.5,-230,2023-10-30T01:01:11,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_threes_over_under,nicolas batum,True,0.5,280,2023-10-30T03:05:10,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_threes_over_under,nicolas batum,True,1.5,160,2023-10-30T01:30:40,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_threes_over_under,nicolas batum,False,0.5,-425,2023-10-30T03:05:10,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_threes_over_under,nicolas batum,False,1.5,-220,2023-10-30T01:30:40,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_threes_over_under,nicolas batum,True,0.5,-140,2023-10-30T01:55:42,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_threes_over_under,nicolas batum,True,1.5,150,2023-10-30T01:30:20,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_threes_over_under,nicolas batum,False,0.5,100,2023-10-30T01:55:42,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_threes_over_under,nicolas batum,False,1.5,-225,2023-10-30T01:30:20,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_points_over_under,nicolas batum,False,3.5,-160,2023-10-30T01:45:13,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_points_over_under,nicolas batum,False,2.5,110,2023-10-30T01:55:42,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_points_over_under,nicolas batum,True,4.5,-110,2023-10-30T01:15:37,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_points_over_under,nicolas batum,True,3.5,110,2023-10-30T01:45:13,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_points_over_under,nicolas batum,True,2.5,-160,2023-10-30T01:55:42,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,nicolas batum,False,3.5,-155,2023-10-30T01:45:29,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,nicolas batum,False,2.5,-135,2023-10-30T02:30:14,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,nicolas batum,False,1.5,-110,2023-10-30T02:40:05,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,nicolas batum,False,0.5,-265,2023-10-30T03:05:10,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,nicolas batum,True,3.5,115,2023-10-30T01:45:29,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_steals_over_under,nicolas batum,True,0.5,145,2023-10-30T01:50:06,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_steals_over_under,nicolas batum,False,1.5,-100000,2023-10-30T03:15:05,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_steals_over_under,nicolas batum,False,0.5,-205,2023-10-30T01:45:22,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_steals_over_under,nicolas batum,True,1.5,1000,2023-10-30T03:10:05,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_assists_over_under,nicolas batum,False,1.5,-270,2023-10-30T03:05:10,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_assists_over_under,nicolas batum,True,1.5,195,2023-10-30T03:05:10,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_assists_over_under,nicolas batum,False,1.5,-100000,2023-10-30T03:15:05,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_assists_over_under,nicolas batum,True,1.5,1000,2023-10-30T03:15:05,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_blocks_over_under,nicolas batum,True,0.5,1000,2023-10-30T03:10:05,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_blocks_over_under,nicolas batum,False,0.5,-100000,2023-10-30T03:15:05,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_blocks_over_under,nicolas batum,True,0.5,650,2023-10-30T03:05:10,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_blocks_over_under,nicolas batum,False,0.5,-1600,2023-10-30T03:05:10,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_blocks_over_under,nicolas batum,True,0.5,220,2023-10-30T01:55:42,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_blocks_over_under,nicolas batum,False,0.5,-350,2023-10-30T01:55:42,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,nicolas batum,True,0.5,195,2023-10-30T03:05:10,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,nicolas batum,True,2.5,100,2023-10-30T02:30:14,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_assists_over_under,nicolas batum,False,1.5,-240,2023-10-30T01:45:13,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_points_over_under,nicolas batum,False,4.5,-120,2023-10-30T01:15:37,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_rebounds_over_under,nicolas batum,True,3.5,178,2023-10-30T02:51:09,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_rebounds_over_under,nicolas batum,False,2.5,-50000,2023-10-30T03:15:05,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_rebounds_over_under,nicolas batum,False,3.5,-245,2023-10-30T02:51:09,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_rebounds_over_under,nicolas batum,True,2.5,1000,2023-10-30T03:10:25,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_rebounds_over_under,nicolas batum,True,3.5,150,2023-10-30T02:45:05,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_rebounds_over_under,nicolas batum,False,2.5,-5000,2023-10-30T03:10:25,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_rebounds_over_under,nicolas batum,False,3.5,-200,2023-10-30T02:50:34,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_rebounds_over_under,nicolas batum,True,2.5,-185,2023-10-30T01:45:13,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_rebounds_over_under,nicolas batum,True,3.5,-135,2023-10-30T01:55:42,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_rebounds_over_under,nicolas batum,False,2.5,130,2023-10-30T01:45:13,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,barstool,player_rebounds_over_under,nicolas batum,False,3.5,-105,2023-10-30T01:55:42,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_steals_over_under,nicolas batum,True,0.5,152,2023-10-30T01:45:22,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,fanduel,player_rebounds_over_under,nicolas batum,True,2.5,1000,2023-10-30T03:15:05,LA Clippers,San Antonio Spurs
+2023-10-27,d996c6412e7179682ca8ef09b750f638,draftkings,player_points_over_under,nicolas batum,True,1.5,-120,2023-10-30T02:40:05,LA Clippers,San Antonio Spurs

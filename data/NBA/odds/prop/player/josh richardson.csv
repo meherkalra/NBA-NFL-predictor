@@ -1,0 +1,363 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_points_over_under,josh richardson,True,10.5,580,2023-03-22T02:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_assists_over_under,josh richardson,True,2.5,1000,2023-03-22T02:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_assists_over_under,josh richardson,False,1.5,-112,2023-03-22T00:45:02,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_assists_over_under,josh richardson,False,2.5,-10000,2023-03-22T02:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_blocks_over_under,josh richardson,True,0.5,1000,2023-03-22T02:00:02,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_blocks_over_under,josh richardson,False,0.5,-100000,2023-03-22T02:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_points_over_under,josh richardson,True,8.5,-112,2023-03-21T23:45:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_points_over_under,josh richardson,True,9.5,-144,2023-03-22T00:30:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_points_over_under,josh richardson,True,11.5,140,2023-03-22T02:00:02,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_points_over_under,josh richardson,True,13.5,-125,2023-03-22T01:45:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_points_over_under,josh richardson,True,14.5,-154,2023-03-22T01:30:02,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_points_over_under,josh richardson,False,8.5,-108,2023-03-21T23:45:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_points_over_under,josh richardson,False,9.5,108,2023-03-22T00:30:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_points_over_under,josh richardson,False,10.5,-1200,2023-03-22T02:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_steals_over_under,josh richardson,False,0.5,-128,2023-03-22T01:00:02,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_steals_over_under,josh richardson,True,1.5,1000,2023-03-22T02:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_steals_over_under,josh richardson,True,0.5,-104,2023-03-22T01:00:02,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_rebounds_over_under,josh richardson,False,3.5,-10000,2023-03-22T02:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_rebounds_over_under,josh richardson,False,2.5,-290,2023-03-22T02:00:02,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_rebounds_over_under,josh richardson,False,1.5,154,2023-03-22T01:45:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_rebounds_over_under,josh richardson,True,3.5,1000,2023-03-22T02:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_rebounds_over_under,josh richardson,True,2.5,205,2023-03-22T02:00:02,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_rebounds_over_under,josh richardson,True,1.5,-210,2023-03-22T01:45:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_points_over_under,josh richardson,False,14.5,116,2023-03-22T01:30:02,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_assists_over_under,josh richardson,True,1.5,-118,2023-03-22T00:45:02,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_points_over_under,josh richardson,False,13.5,-106,2023-03-22T01:45:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_points_over_under,josh richardson,False,11.5,-188,2023-03-22T02:00:02,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_threes_over_under,josh richardson,False,2.5,-50000,2023-03-22T02:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_threes_over_under,josh richardson,False,1.5,-235,2023-03-22T00:30:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_threes_over_under,josh richardson,False,0.5,140,2023-03-22T00:45:02,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_threes_over_under,josh richardson,True,2.5,1000,2023-03-22T02:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_threes_over_under,josh richardson,True,1.5,172,2023-03-22T00:30:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_threes_over_under,josh richardson,True,0.5,-188,2023-03-22T00:45:02,New Orleans Pelicans,San Antonio Spurs
+2023-03-21,0abd21a65febdc10758f318eb76b50d6,fanduel,player_steals_over_under,josh richardson,False,1.5,-50000,2023-03-22T02:15:01,New Orleans Pelicans,San Antonio Spurs
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_threes_over_under,josh richardson,True,1.5,800,2023-03-24T02:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_assists_over_under,josh richardson,False,1.5,-138,2023-03-24T01:45:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_assists_over_under,josh richardson,False,2.5,-1000,2023-03-24T02:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_blocks_over_under,josh richardson,False,0.5,-50000,2023-03-24T02:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,josh richardson,True,3.5,116,2023-03-24T02:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,josh richardson,True,5.5,124,2023-03-24T01:45:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,josh richardson,True,7.5,118,2023-03-24T01:15:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_steals_over_under,josh richardson,False,0.5,-3500,2023-03-24T02:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,josh richardson,True,8.5,-144,2023-03-24T00:45:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,josh richardson,False,3.5,-154,2023-03-24T02:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_assists_over_under,josh richardson,True,2.5,520,2023-03-24T02:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,josh richardson,False,5.5,-166,2023-03-24T01:45:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,josh richardson,False,7.5,-158,2023-03-24T01:15:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,josh richardson,False,8.5,108,2023-03-24T00:45:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,josh richardson,False,10.5,-110,2023-03-24T00:30:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_rebounds_over_under,josh richardson,True,2.5,-108,2023-03-24T01:45:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_rebounds_over_under,josh richardson,True,5.5,490,2023-03-24T02:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_rebounds_over_under,josh richardson,False,2.5,-122,2023-03-24T01:45:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_rebounds_over_under,josh richardson,False,5.5,-900,2023-03-24T02:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_threes_over_under,josh richardson,False,2.5,-210,2023-03-24T00:30:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_threes_over_under,josh richardson,False,1.5,-2200,2023-03-24T02:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_steals_over_under,josh richardson,True,0.5,920,2023-03-24T02:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,josh richardson,True,10.5,-120,2023-03-24T00:30:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_threes_over_under,josh richardson,True,2.5,154,2023-03-24T00:30:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_blocks_over_under,josh richardson,True,0.5,1000,2023-03-24T02:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_assists_over_under,josh richardson,True,1.5,104,2023-03-24T01:45:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_points_over_under,josh richardson,True,7.5,-118,2023-03-26T02:30:01,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_points_over_under,josh richardson,False,7.5,-104,2023-03-26T02:30:01,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_threes_over_under,josh richardson,True,1.5,152,2023-03-26T02:30:01,LA Clippers,New Orleans Pelicans
+2023-03-25,12ea5e3418a3bc9b8567e3b83af56c15,fanduel,player_threes_over_under,josh richardson,False,1.5,-196,2023-03-26T02:30:01,LA Clippers,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_points_over_under,josh richardson,True,8.5,-105,2023-03-29T01:45:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_points_over_under,josh richardson,True,6.5,-106,2023-03-29T02:30:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_points_over_under,josh richardson,True,5.5,310,2023-03-29T04:30:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_points_over_under,josh richardson,True,4.5,106,2023-03-29T03:00:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_points_over_under,josh richardson,True,3.5,-120,2023-03-29T03:45:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_points_over_under,josh richardson,True,2.5,-140,2023-03-29T04:00:02,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_blocks_over_under,josh richardson,False,1.5,-100000,2023-03-29T04:30:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_points_over_under,josh richardson,False,2.5,106,2023-03-29T04:00:02,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_blocks_over_under,josh richardson,True,1.5,1000,2023-03-29T04:15:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_assists_over_under,josh richardson,False,1.5,-102,2023-03-29T04:00:02,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_assists_over_under,josh richardson,True,2.5,1000,2023-03-29T04:30:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_assists_over_under,josh richardson,True,1.5,-130,2023-03-29T04:00:02,Golden State Warriors,New Orleans Pelicans
+2023-03-28,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_threes_over_under,josh richardson,False,1.5,-122,2023-03-28T00:45:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-28,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_threes_over_under,josh richardson,True,1.5,-104,2023-03-28T00:45:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-28,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_rebounds_over_under,josh richardson,False,2.5,-120,2023-03-28T02:00:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-28,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_rebounds_over_under,josh richardson,True,2.5,-102,2023-03-28T02:00:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-28,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_points_over_under,josh richardson,False,9.5,-132,2023-03-28T01:00:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-28,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_points_over_under,josh richardson,False,8.5,104,2023-03-28T02:00:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-28,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_points_over_under,josh richardson,True,9.5,108,2023-03-28T01:00:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-28,d1ca78dae2c85f56e7f51f958dd3375f,fanduel,player_points_over_under,josh richardson,True,8.5,-128,2023-03-28T02:00:01,Portland Trail Blazers,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_assists_over_under,josh richardson,False,2.5,-4000,2023-03-29T04:30:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_threes_over_under,josh richardson,False,1.5,-5000,2023-03-29T04:30:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_threes_over_under,josh richardson,False,0.5,-178,2023-03-29T04:00:02,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_points_over_under,josh richardson,False,8.5,-115,2023-03-29T01:45:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_threes_over_under,josh richardson,True,1.5,1000,2023-03-29T04:30:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_threes_over_under,josh richardson,True,0.5,132,2023-03-29T04:00:02,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_steals_over_under,josh richardson,False,0.5,-10000,2023-03-29T04:30:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_steals_over_under,josh richardson,True,0.5,1000,2023-03-29T04:30:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_rebounds_over_under,josh richardson,False,3.5,-250,2023-03-29T03:15:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_rebounds_over_under,josh richardson,False,2.5,-3500,2023-03-29T04:30:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_rebounds_over_under,josh richardson,True,3.5,182,2023-03-29T03:15:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_rebounds_over_under,josh richardson,True,2.5,920,2023-03-29T04:30:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_points_over_under,josh richardson,False,6.5,-125,2023-03-29T02:30:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_points_over_under,josh richardson,False,5.5,-470,2023-03-29T04:30:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_points_over_under,josh richardson,False,4.5,-140,2023-03-29T03:00:01,Golden State Warriors,New Orleans Pelicans
+2023-03-28,08cba3d02b1846c8f1180f6ed2860d0e,fanduel,player_points_over_under,josh richardson,False,3.5,-110,2023-03-29T03:45:01,Golden State Warriors,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_threes_over_under,josh richardson,True,1.5,1000,2023-03-31T04:30:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_threes_over_under,josh richardson,False,0.5,128,2023-03-31T02:45:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_rebounds_over_under,josh richardson,True,2.5,-122,2023-03-31T04:00:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_rebounds_over_under,josh richardson,True,3.5,1000,2023-03-31T04:30:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_threes_over_under,josh richardson,False,1.5,-7000,2023-03-31T04:30:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_steals_over_under,josh richardson,False,0.5,-10000,2023-03-31T04:30:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_threes_over_under,josh richardson,True,0.5,-172,2023-03-31T02:45:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_rebounds_over_under,josh richardson,False,3.5,-4000,2023-03-31T04:30:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_rebounds_over_under,josh richardson,True,1.5,-240,2023-03-31T03:30:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_points_over_under,josh richardson,False,7.5,-114,2023-03-31T02:00:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_points_over_under,josh richardson,False,6.5,120,2023-03-31T03:45:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_points_over_under,josh richardson,False,5.5,-138,2023-03-31T04:00:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_points_over_under,josh richardson,False,3.5,-600,2023-03-31T04:30:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_rebounds_over_under,josh richardson,False,1.5,174,2023-03-31T03:30:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_steals_over_under,josh richardson,True,0.5,1000,2023-03-31T04:30:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_points_over_under,josh richardson,True,5.5,104,2023-03-31T04:00:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_points_over_under,josh richardson,True,6.5,-160,2023-03-31T03:45:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_blocks_over_under,josh richardson,False,0.5,-100000,2023-03-31T04:30:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_blocks_over_under,josh richardson,True,0.5,1000,2023-03-31T04:15:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_assists_over_under,josh richardson,False,1.5,-245,2023-03-31T03:00:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_assists_over_under,josh richardson,False,0.5,-4000,2023-03-31T04:30:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_assists_over_under,josh richardson,True,1.5,178,2023-03-31T03:00:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_assists_over_under,josh richardson,True,0.5,1000,2023-03-31T04:30:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_rebounds_over_under,josh richardson,False,2.5,-108,2023-03-31T04:00:02,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_points_over_under,josh richardson,True,3.5,370,2023-03-31T04:30:01,Denver Nuggets,New Orleans Pelicans
+2023-03-30,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,player_points_over_under,josh richardson,True,7.5,-106,2023-03-31T02:00:01,Denver Nuggets,New Orleans Pelicans
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_threes_over_under,josh richardson,True,1.5,138,2023-04-02T00:40:02,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_points_over_under,josh richardson,True,7.5,-110,2023-04-02T00:40:02,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_points_over_under,josh richardson,False,7.5,-110,2023-04-02T00:40:02,New Orleans Pelicans,LA Clippers
+2023-04-01,9903985ef140ac45a2d3644acf8ea5d8,fanduel,player_threes_over_under,josh richardson,False,1.5,-178,2023-04-02T00:40:02,New Orleans Pelicans,LA Clippers
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_points_over_under,josh richardson,False,5.5,-146,2023-04-05T00:42:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_blocks_over_under,josh richardson,False,0.5,-7000,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_blocks_over_under,josh richardson,True,0.5,800,2023-04-05T01:45:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_blocks_over_under,josh richardson,True,0.5,265,2023-04-04T19:51:15,New Orleans Pelicans,Sacramento Kings
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_steals_over_under,josh richardson,False,0.5,100,2023-04-05T20:30:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_blocks_over_under,josh richardson,False,0.5,-345,2023-04-04T19:51:15,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_points_over_under,josh richardson,True,1.5,-194,2023-04-05T01:45:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_points_over_under,josh richardson,True,3.5,-270,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_blocks_over_under,josh richardson,True,0.5,1000,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_points_over_under,josh richardson,True,4.5,-106,2023-04-05T00:48:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_points_over_under,josh richardson,True,7.5,-102,2023-04-05T00:06:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_points_over_under,josh richardson,False,1.5,144,2023-04-05T01:45:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_points_over_under,josh richardson,False,3.5,194,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_threes_over_under,josh richardson,False,1.5,-1600,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_threes_over_under,josh richardson,False,0.5,-270,2023-04-05T01:45:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_threes_over_under,josh richardson,False,1.5,-175,2023-04-04T19:51:15,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_threes_over_under,josh richardson,True,1.5,700,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_points_over_under,josh richardson,True,5.5,110,2023-04-05T00:42:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_threes_over_under,josh richardson,True,0.5,195,2023-04-05T01:45:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_assists_over_under,josh richardson,False,1.5,-160,2023-04-05T00:36:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_assists_over_under,josh richardson,True,1.5,120,2023-04-05T00:36:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_steals_over_under,josh richardson,True,0.5,-130,2023-04-05T20:30:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_rebounds_over_under,josh richardson,False,2.5,-185,2023-04-05T20:30:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_rebounds_over_under,josh richardson,True,2.5,150,2023-04-05T20:30:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_points_over_under,josh richardson,False,6.5,110,2023-04-05T22:45:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_points_over_under,josh richardson,True,6.5,-140,2023-04-05T22:45:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_points_over_under,josh richardson,False,6.5,102,2023-04-06T00:00:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,fanduel,player_points_over_under,josh richardson,True,6.5,-124,2023-04-06T00:00:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_assists_over_under,josh richardson,False,0.5,-1100,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_blocks_over_under,josh richardson,False,0.5,-425,2023-04-05T20:30:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_threes_over_under,josh richardson,False,1.5,-180,2023-04-05T20:30:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_points_over_under,josh richardson,False,4.5,-125,2023-04-05T00:48:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_assists_over_under,josh richardson,True,0.5,270,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_assists_over_under,josh richardson,True,1.5,152,2023-04-05T00:42:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_assists_over_under,josh richardson,False,0.5,-400,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_assists_over_under,josh richardson,False,1.5,-205,2023-04-05T00:42:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_assists_over_under,josh richardson,True,0.5,550,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_blocks_over_under,josh richardson,True,0.5,320,2023-04-05T20:30:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_threes_over_under,josh richardson,True,1.5,140,2023-04-04T19:51:15,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_blocks_over_under,josh richardson,False,0.5,-2500,2023-04-05T01:45:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_threes_over_under,josh richardson,False,0.5,-270,2023-04-05T01:45:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_rebounds_over_under,josh richardson,False,0.5,-300,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_rebounds_over_under,josh richardson,True,1.5,188,2023-04-05T01:00:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_rebounds_over_under,josh richardson,True,0.5,210,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_points_over_under,josh richardson,False,7.5,-120,2023-04-04T23:14:32,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_points_over_under,josh richardson,False,6.5,-105,2023-04-05T00:30:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_threes_over_under,josh richardson,False,1.5,-600,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_points_over_under,josh richardson,False,5.5,100,2023-04-05T00:36:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_points_over_under,josh richardson,False,3.5,-165,2023-04-05T01:30:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_points_over_under,josh richardson,False,1.5,125,2023-04-05T01:45:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_points_over_under,josh richardson,False,7.5,-120,2023-04-04T19:51:15,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_points_over_under,josh richardson,True,7.5,-110,2023-04-04T23:14:32,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_points_over_under,josh richardson,True,6.5,-125,2023-04-05T00:30:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_points_over_under,josh richardson,True,5.5,-135,2023-04-05T00:36:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_points_over_under,josh richardson,True,3.5,125,2023-04-05T01:30:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_points_over_under,josh richardson,True,1.5,-170,2023-04-05T01:45:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_points_over_under,josh richardson,True,7.5,-110,2023-04-04T19:51:15,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_points_over_under,josh richardson,False,7.5,-120,2023-04-05T00:06:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_rebounds_over_under,josh richardson,False,1.5,-260,2023-04-05T01:00:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_rebounds_over_under,josh richardson,True,2.5,150,2023-04-04T19:51:15,New Orleans Pelicans,Sacramento Kings
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_threes_over_under,josh richardson,True,1.5,145,2023-04-05T20:30:02,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_rebounds_over_under,josh richardson,True,1.5,-135,2023-04-05T00:36:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_rebounds_over_under,josh richardson,True,0.5,450,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_steals_over_under,josh richardson,True,1.5,580,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_steals_over_under,josh richardson,False,0.5,-260,2023-04-05T01:30:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_steals_over_under,josh richardson,False,1.5,-1200,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_steals_over_under,josh richardson,True,0.5,-150,2023-04-04T19:51:15,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_steals_over_under,josh richardson,True,0.5,190,2023-04-05T01:30:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_steals_over_under,josh richardson,True,1.5,1000,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_steals_over_under,josh richardson,False,0.5,120,2023-04-04T19:51:15,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_steals_over_under,josh richardson,True,0.5,188,2023-04-05T01:30:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_steals_over_under,josh richardson,False,1.5,-5000,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_threes_over_under,josh richardson,True,0.5,194,2023-04-05T01:45:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_threes_over_under,josh richardson,True,1.5,370,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_rebounds_over_under,josh richardson,False,2.5,-185,2023-04-04T23:14:32,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_rebounds_over_under,josh richardson,False,1.5,100,2023-04-05T00:36:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_rebounds_over_under,josh richardson,False,0.5,-800,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_rebounds_over_under,josh richardson,True,2.5,150,2023-04-04T23:14:32,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_steals_over_under,josh richardson,False,0.5,-260,2023-04-05T01:30:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_rebounds_over_under,josh richardson,False,2.5,-185,2023-04-04T19:51:15,New Orleans Pelicans,Sacramento Kings
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_assists_over_under,josh richardson,True,1.5,1000,2023-04-08T02:00:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_assists_over_under,josh richardson,True,0.5,182,2023-04-08T01:45:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_points_over_under,josh richardson,False,4.5,100,2023-04-08T01:45:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_points_over_under,josh richardson,False,3.5,-400,2023-04-08T02:00:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_points_over_under,josh richardson,False,6.5,-170,2023-04-08T01:30:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_assists_over_under,josh richardson,False,0.5,-250,2023-04-08T01:45:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_points_over_under,josh richardson,True,7.5,-140,2023-04-08T00:45:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_assists_over_under,josh richardson,False,1.5,-4000,2023-04-08T02:00:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_assists_over_under,josh richardson,False,1.5,-5000,2023-04-08T02:00:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_assists_over_under,josh richardson,True,1.5,1000,2023-04-08T02:00:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_points_over_under,josh richardson,True,3.5,275,2023-04-08T02:00:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_points_over_under,josh richardson,False,7.5,104,2023-04-08T00:45:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_points_over_under,josh richardson,False,6.5,-168,2023-04-08T01:30:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_points_over_under,josh richardson,False,4.5,104,2023-04-08T01:45:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_points_over_under,josh richardson,False,3.5,-400,2023-04-08T02:00:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_points_over_under,josh richardson,True,7.5,-138,2023-04-08T00:45:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_points_over_under,josh richardson,True,6.5,126,2023-04-08T01:30:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_points_over_under,josh richardson,True,3.5,270,2023-04-08T02:00:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,betmgm,player_blocks_over_under,josh richardson,False,0.5,-500,2023-04-07T23:45:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,betmgm,player_blocks_over_under,josh richardson,True,0.5,320,2023-04-07T23:45:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_blocks_over_under,josh richardson,False,0.5,-440,2023-04-07T23:45:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_blocks_over_under,josh richardson,True,0.5,330,2023-04-07T23:45:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_blocks_over_under,josh richardson,False,0.5,-100000,2023-04-08T02:00:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_blocks_over_under,josh richardson,True,0.5,1000,2023-04-08T01:45:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,betmgm,player_assists_over_under,josh richardson,False,1.5,-140,2023-04-07T22:00:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,betmgm,player_assists_over_under,josh richardson,True,1.5,105,2023-04-07T22:00:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_assists_over_under,josh richardson,False,0.5,-250,2023-04-08T01:45:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_assists_over_under,josh richardson,True,0.5,180,2023-04-08T01:45:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_points_over_under,josh richardson,True,4.5,-138,2023-04-08T01:45:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,betmgm,player_steals_over_under,josh richardson,False,0.5,-120,2023-04-07T22:00:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,betmgm,player_points_over_under,josh richardson,True,6.5,-135,2023-04-07T22:00:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_steals_over_under,josh richardson,False,2.5,-10000,2023-04-08T02:00:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_steals_over_under,josh richardson,True,0.5,-110,2023-04-07T19:45:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_steals_over_under,josh richardson,True,1.5,140,2023-04-08T00:45:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_steals_over_under,josh richardson,True,2.5,425,2023-04-08T01:45:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_steals_over_under,josh richardson,False,0.5,-125,2023-04-08T00:30:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_steals_over_under,josh richardson,False,1.5,-190,2023-04-08T00:45:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_steals_over_under,josh richardson,False,2.5,-750,2023-04-08T01:45:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,betmgm,player_steals_over_under,josh richardson,True,0.5,-110,2023-04-07T22:00:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_points_over_under,josh richardson,True,4.5,-130,2023-04-08T01:45:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_threes_over_under,josh richardson,True,1.5,1000,2023-04-08T02:00:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_threes_over_under,josh richardson,False,1.5,-4000,2023-04-08T02:00:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_threes_over_under,josh richardson,True,1.5,1100,2023-04-08T02:00:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_threes_over_under,josh richardson,False,1.5,-8000,2023-04-08T02:00:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,caesars,player_threes_over_under,josh richardson,True,1.5,126,2023-04-07T20:12:09,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,caesars,player_threes_over_under,josh richardson,False,1.5,-174,2023-04-07T20:12:09,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,betmgm,player_threes_over_under,josh richardson,True,1.5,130,2023-04-07T22:00:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,betmgm,player_threes_over_under,josh richardson,False,1.5,-175,2023-04-07T22:00:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_steals_over_under,josh richardson,False,1.5,-198,2023-04-08T00:45:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_points_over_under,josh richardson,False,7.5,105,2023-04-08T00:45:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_steals_over_under,josh richardson,True,2.5,1000,2023-04-08T02:00:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,betmgm,player_rebounds_over_under,josh richardson,False,1.5,145,2023-04-07T22:00:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,betmgm,player_points_over_under,josh richardson,False,6.5,100,2023-04-07T22:00:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_rebounds_over_under,josh richardson,True,2.5,800,2023-04-08T02:00:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_rebounds_over_under,josh richardson,False,2.5,-2200,2023-04-08T02:00:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_rebounds_over_under,josh richardson,True,1.5,-180,2023-04-08T00:30:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_steals_over_under,josh richardson,True,1.5,146,2023-04-08T00:45:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_points_over_under,josh richardson,True,6.5,125,2023-04-08T01:30:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_rebounds_over_under,josh richardson,True,2.5,800,2023-04-08T02:00:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_rebounds_over_under,josh richardson,False,1.5,135,2023-04-08T00:30:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_rebounds_over_under,josh richardson,False,2.5,-2500,2023-04-08T02:00:02,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,betmgm,player_rebounds_over_under,josh richardson,True,1.5,-200,2023-04-07T22:00:01,New Orleans Pelicans,New York Knicks
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_threes_over_under,josh richardson,False,1.5,-235,2023-04-09T18:00:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_threes_over_under,josh richardson,True,1.5,190,2023-04-09T18:00:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,caesars,player_threes_over_under,josh richardson,False,1.5,-254,2023-04-09T18:00:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_steals_over_under,josh richardson,True,0.5,-135,2023-04-09T18:00:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_points_over_under,josh richardson,False,6.5,-130,2023-04-09T18:00:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_points_over_under,josh richardson,True,6.5,100,2023-04-09T18:00:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_blocks_over_under,josh richardson,False,0.5,-600,2023-04-09T18:00:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,caesars,player_threes_over_under,josh richardson,True,1.5,178,2023-04-09T18:00:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_steals_over_under,josh richardson,False,0.5,105,2023-04-09T18:00:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_blocks_over_under,josh richardson,True,0.5,430,2023-04-09T18:00:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_points_over_under,josh richardson,False,5.5,125,2023-04-13T03:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_blocks_over_under,josh richardson,False,0.5,-1600,2023-04-13T03:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,betmgm,player_blocks_over_under,josh richardson,True,0.5,180,2023-04-13T01:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,betmgm,player_blocks_over_under,josh richardson,False,0.5,-250,2023-04-13T00:45:02,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_points_over_under,josh richardson,True,5.5,-172,2023-04-13T03:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_points_over_under,josh richardson,True,6.5,-148,2023-04-13T03:30:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_points_over_under,josh richardson,True,7.5,124,2023-04-13T03:15:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_points_over_under,josh richardson,True,8.5,104,2023-04-13T01:15:02,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_blocks_over_under,josh richardson,True,0.5,700,2023-04-13T03:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_points_over_under,josh richardson,True,9.5,230,2023-04-13T04:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_points_over_under,josh richardson,False,6.5,112,2023-04-13T03:30:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_points_over_under,josh richardson,False,7.5,-166,2023-04-13T03:15:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_points_over_under,josh richardson,False,8.5,-128,2023-04-13T01:15:02,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_points_over_under,josh richardson,False,9.5,-330,2023-04-13T04:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_points_over_under,josh richardson,True,5.5,-165,2023-04-13T03:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_points_over_under,josh richardson,True,6.5,-130,2023-04-13T02:15:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_points_over_under,josh richardson,True,7.5,120,2023-04-13T03:15:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_points_over_under,josh richardson,False,5.5,128,2023-04-13T03:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,betmgm,player_threes_over_under,josh richardson,False,1.5,-150,2023-04-13T01:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_blocks_over_under,josh richardson,False,0.5,-50000,2023-04-13T04:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,betmgm,player_assists_over_under,josh richardson,False,1.5,105,2023-04-13T00:45:02,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_assists_over_under,josh richardson,True,1.5,-102,2023-04-13T02:15:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_assists_over_under,josh richardson,True,3.5,154,2023-04-13T03:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_assists_over_under,josh richardson,True,4.5,920,2023-04-13T04:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_assists_over_under,josh richardson,False,1.5,-130,2023-04-13T02:15:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_assists_over_under,josh richardson,False,2.5,-118,2023-04-13T03:30:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_assists_over_under,josh richardson,False,3.5,-210,2023-04-13T03:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_assists_over_under,josh richardson,False,4.5,-3500,2023-04-13T04:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_blocks_over_under,josh richardson,True,0.5,1000,2023-04-13T04:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_assists_over_under,josh richardson,True,1.5,100,2023-04-13T02:15:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_assists_over_under,josh richardson,True,3.5,150,2023-04-13T03:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_assists_over_under,josh richardson,True,4.5,900,2023-04-13T04:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_assists_over_under,josh richardson,False,1.5,-130,2023-04-13T02:15:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_assists_over_under,josh richardson,False,2.5,-125,2023-04-13T03:30:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_assists_over_under,josh richardson,False,3.5,-200,2023-04-13T03:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_assists_over_under,josh richardson,False,4.5,-3000,2023-04-13T04:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,betmgm,player_assists_over_under,josh richardson,True,1.5,-145,2023-04-13T01:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_assists_over_under,josh richardson,True,2.5,-105,2023-04-13T03:30:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,betmgm,player_threes_over_under,josh richardson,True,1.5,115,2023-04-13T00:45:02,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,caesars,player_threes_over_under,josh richardson,False,1.5,-151,2023-04-13T00:45:02,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,caesars,player_threes_over_under,josh richardson,True,1.5,110,2023-04-13T00:45:02,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_rebounds_over_under,josh richardson,True,2.5,700,2023-04-13T04:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_rebounds_over_under,josh richardson,True,1.5,-115,2023-04-13T03:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_rebounds_over_under,josh richardson,True,0.5,-205,2023-04-13T03:30:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_rebounds_over_under,josh richardson,False,2.5,-1450,2023-04-13T04:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_rebounds_over_under,josh richardson,False,1.5,-114,2023-04-13T03:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_rebounds_over_under,josh richardson,False,0.5,162,2023-04-13T03:30:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_rebounds_over_under,josh richardson,True,2.5,640,2023-04-13T04:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_rebounds_over_under,josh richardson,False,0.5,150,2023-04-13T03:30:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_rebounds_over_under,josh richardson,True,1.5,-118,2023-04-13T03:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,betmgm,player_points_over_under,josh richardson,False,7.5,100,2023-04-13T01:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,betmgm,player_points_over_under,josh richardson,False,6.5,100,2023-04-11T15:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,betmgm,player_points_over_under,josh richardson,True,7.5,-130,2023-04-13T01:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,betmgm,player_points_over_under,josh richardson,True,6.5,-135,2023-04-11T15:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_points_over_under,josh richardson,False,9.5,-390,2023-04-13T04:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_points_over_under,josh richardson,False,7.5,-160,2023-04-13T03:15:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_points_over_under,josh richardson,False,6.5,-105,2023-04-13T02:15:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_rebounds_over_under,josh richardson,True,0.5,-220,2023-04-13T03:30:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_rebounds_over_under,josh richardson,False,1.5,-115,2023-04-13T03:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_rebounds_over_under,josh richardson,False,2.5,-1600,2023-04-13T04:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,betmgm,player_rebounds_over_under,josh richardson,True,2.5,-130,2023-04-13T01:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_threes_over_under,josh richardson,False,1.5,-8000,2023-04-13T04:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_threes_over_under,josh richardson,False,0.5,-270,2023-04-13T03:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_threes_over_under,josh richardson,True,1.5,1100,2023-04-13T04:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_threes_over_under,josh richardson,True,0.5,195,2023-04-13T03:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_threes_over_under,josh richardson,False,1.5,-4000,2023-04-13T04:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_threes_over_under,josh richardson,False,0.5,-275,2023-04-13T03:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_threes_over_under,josh richardson,True,1.5,1000,2023-04-13T04:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_threes_over_under,josh richardson,True,0.5,198,2023-04-13T03:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,betmgm,player_steals_over_under,josh richardson,False,0.5,125,2023-04-13T01:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,betmgm,player_steals_over_under,josh richardson,True,0.5,-165,2023-04-13T01:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_steals_over_under,josh richardson,False,0.5,-500,2023-04-13T03:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_steals_over_under,josh richardson,True,0.5,330,2023-04-13T03:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_steals_over_under,josh richardson,False,1.5,-7000,2023-04-13T04:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_steals_over_under,josh richardson,False,0.5,-500,2023-04-13T03:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_steals_over_under,josh richardson,True,1.5,1000,2023-04-13T04:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_steals_over_under,josh richardson,True,0.5,320,2023-04-13T03:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,betmgm,player_rebounds_over_under,josh richardson,False,2.5,100,2023-04-13T00:45:02,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_points_over_under,josh richardson,True,9.5,265,2023-04-13T04:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-12,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_assists_over_under,josh richardson,True,2.5,-112,2023-04-13T03:30:01,New Orleans Pelicans,Oklahoma City Thunder

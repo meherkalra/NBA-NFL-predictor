@@ -1,0 +1,9 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_points_over_under,wenyen gabriel,True,5.5,-128,2023-03-25T02:30:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_points_over_under,wenyen gabriel,True,6.5,102,2023-03-25T02:15:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_points_over_under,wenyen gabriel,False,5.5,104,2023-03-25T02:30:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_points_over_under,wenyen gabriel,False,6.5,-124,2023-03-25T02:15:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_rebounds_over_under,wenyen gabriel,True,5.5,-144,2023-03-25T02:30:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_rebounds_over_under,wenyen gabriel,True,6.5,116,2023-03-25T01:45:02,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_rebounds_over_under,wenyen gabriel,False,5.5,118,2023-03-25T02:30:01,Los Angeles Lakers,Oklahoma City Thunder
+2023-03-24,88858f6c43465fb41d3fde63621b7e0e,fanduel,player_rebounds_over_under,wenyen gabriel,False,6.5,-142,2023-03-25T01:45:02,Los Angeles Lakers,Oklahoma City Thunder

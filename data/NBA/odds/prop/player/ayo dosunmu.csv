@@ -1,0 +1,338 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-22,8fd138645bb27dc0a722e99bfe943cc9,fanduel,player_points_over_under,ayo dosunmu,True,8.5,116,2023-03-23T01:00:02,Chicago Bulls,Philadelphia 76ers
+2023-03-22,8fd138645bb27dc0a722e99bfe943cc9,fanduel,player_points_over_under,ayo dosunmu,False,8.5,-154,2023-03-23T01:00:02,Chicago Bulls,Philadelphia 76ers
+2023-03-22,8fd138645bb27dc0a722e99bfe943cc9,fanduel,player_points_over_under,ayo dosunmu,False,6.5,110,2023-03-23T00:45:01,Chicago Bulls,Philadelphia 76ers
+2023-03-22,8fd138645bb27dc0a722e99bfe943cc9,fanduel,player_points_over_under,ayo dosunmu,True,12.5,-230,2023-03-23T02:15:01,Chicago Bulls,Philadelphia 76ers
+2023-03-22,8fd138645bb27dc0a722e99bfe943cc9,fanduel,player_points_over_under,ayo dosunmu,True,11.5,116,2023-03-23T01:30:01,Chicago Bulls,Philadelphia 76ers
+2023-03-22,8fd138645bb27dc0a722e99bfe943cc9,fanduel,player_points_over_under,ayo dosunmu,True,10.5,138,2023-03-23T01:45:02,Chicago Bulls,Philadelphia 76ers
+2023-03-22,8fd138645bb27dc0a722e99bfe943cc9,fanduel,player_points_over_under,ayo dosunmu,True,6.5,-146,2023-03-23T00:45:01,Chicago Bulls,Philadelphia 76ers
+2023-03-22,8fd138645bb27dc0a722e99bfe943cc9,fanduel,player_points_over_under,ayo dosunmu,True,5.5,104,2023-03-23T00:30:01,Chicago Bulls,Philadelphia 76ers
+2023-03-22,8fd138645bb27dc0a722e99bfe943cc9,fanduel,player_blocks_over_under,ayo dosunmu,False,0.5,-5000,2023-03-23T02:00:01,Chicago Bulls,Philadelphia 76ers
+2023-03-22,8fd138645bb27dc0a722e99bfe943cc9,fanduel,player_blocks_over_under,ayo dosunmu,True,0.5,1000,2023-03-23T02:00:01,Chicago Bulls,Philadelphia 76ers
+2023-03-22,8fd138645bb27dc0a722e99bfe943cc9,fanduel,player_assists_over_under,ayo dosunmu,False,4.5,-245,2023-03-23T01:30:01,Chicago Bulls,Philadelphia 76ers
+2023-03-22,8fd138645bb27dc0a722e99bfe943cc9,fanduel,player_assists_over_under,ayo dosunmu,False,3.5,-275,2023-03-23T02:00:01,Chicago Bulls,Philadelphia 76ers
+2023-03-22,8fd138645bb27dc0a722e99bfe943cc9,fanduel,player_assists_over_under,ayo dosunmu,False,2.5,108,2023-03-23T01:45:02,Chicago Bulls,Philadelphia 76ers
+2023-03-22,8fd138645bb27dc0a722e99bfe943cc9,fanduel,player_assists_over_under,ayo dosunmu,True,4.5,178,2023-03-23T01:30:01,Chicago Bulls,Philadelphia 76ers
+2023-03-22,8fd138645bb27dc0a722e99bfe943cc9,fanduel,player_assists_over_under,ayo dosunmu,True,3.5,198,2023-03-23T02:00:01,Chicago Bulls,Philadelphia 76ers
+2023-03-22,8fd138645bb27dc0a722e99bfe943cc9,fanduel,player_assists_over_under,ayo dosunmu,True,2.5,-144,2023-03-23T01:45:02,Chicago Bulls,Philadelphia 76ers
+2023-03-22,8fd138645bb27dc0a722e99bfe943cc9,fanduel,player_points_over_under,ayo dosunmu,False,10.5,-186,2023-03-23T01:45:02,Chicago Bulls,Philadelphia 76ers
+2023-03-22,8fd138645bb27dc0a722e99bfe943cc9,fanduel,player_points_over_under,ayo dosunmu,False,11.5,-154,2023-03-23T01:30:01,Chicago Bulls,Philadelphia 76ers
+2023-03-22,8fd138645bb27dc0a722e99bfe943cc9,fanduel,player_points_over_under,ayo dosunmu,False,5.5,-138,2023-03-23T00:30:01,Chicago Bulls,Philadelphia 76ers
+2023-03-22,8fd138645bb27dc0a722e99bfe943cc9,fanduel,player_rebounds_over_under,ayo dosunmu,True,2.5,178,2023-03-23T02:00:01,Chicago Bulls,Philadelphia 76ers
+2023-03-22,8fd138645bb27dc0a722e99bfe943cc9,fanduel,player_threes_over_under,ayo dosunmu,False,1.5,-2200,2023-03-23T02:15:01,Chicago Bulls,Philadelphia 76ers
+2023-03-22,8fd138645bb27dc0a722e99bfe943cc9,fanduel,player_threes_over_under,ayo dosunmu,False,0.5,-188,2023-03-23T00:30:01,Chicago Bulls,Philadelphia 76ers
+2023-03-22,8fd138645bb27dc0a722e99bfe943cc9,fanduel,player_threes_over_under,ayo dosunmu,True,1.5,800,2023-03-23T02:15:01,Chicago Bulls,Philadelphia 76ers
+2023-03-22,8fd138645bb27dc0a722e99bfe943cc9,fanduel,player_threes_over_under,ayo dosunmu,True,0.5,140,2023-03-23T00:30:01,Chicago Bulls,Philadelphia 76ers
+2023-03-22,8fd138645bb27dc0a722e99bfe943cc9,fanduel,player_steals_over_under,ayo dosunmu,False,2.5,-1400,2023-03-23T02:15:01,Chicago Bulls,Philadelphia 76ers
+2023-03-22,8fd138645bb27dc0a722e99bfe943cc9,fanduel,player_points_over_under,ayo dosunmu,False,12.5,168,2023-03-23T02:15:01,Chicago Bulls,Philadelphia 76ers
+2023-03-22,8fd138645bb27dc0a722e99bfe943cc9,fanduel,player_steals_over_under,ayo dosunmu,False,0.5,-245,2023-03-23T01:00:02,Chicago Bulls,Philadelphia 76ers
+2023-03-22,8fd138645bb27dc0a722e99bfe943cc9,fanduel,player_steals_over_under,ayo dosunmu,True,2.5,630,2023-03-23T02:15:01,Chicago Bulls,Philadelphia 76ers
+2023-03-22,8fd138645bb27dc0a722e99bfe943cc9,fanduel,player_steals_over_under,ayo dosunmu,False,1.5,-420,2023-03-23T01:45:02,Chicago Bulls,Philadelphia 76ers
+2023-03-22,8fd138645bb27dc0a722e99bfe943cc9,fanduel,player_steals_over_under,ayo dosunmu,True,0.5,178,2023-03-23T01:00:02,Chicago Bulls,Philadelphia 76ers
+2023-03-22,8fd138645bb27dc0a722e99bfe943cc9,fanduel,player_rebounds_over_under,ayo dosunmu,False,4.5,126,2023-03-23T01:45:02,Chicago Bulls,Philadelphia 76ers
+2023-03-22,8fd138645bb27dc0a722e99bfe943cc9,fanduel,player_rebounds_over_under,ayo dosunmu,False,3.5,-200,2023-03-23T01:30:01,Chicago Bulls,Philadelphia 76ers
+2023-03-22,8fd138645bb27dc0a722e99bfe943cc9,fanduel,player_rebounds_over_under,ayo dosunmu,False,2.5,-245,2023-03-23T02:00:01,Chicago Bulls,Philadelphia 76ers
+2023-03-22,8fd138645bb27dc0a722e99bfe943cc9,fanduel,player_rebounds_over_under,ayo dosunmu,True,4.5,-168,2023-03-23T01:45:02,Chicago Bulls,Philadelphia 76ers
+2023-03-22,8fd138645bb27dc0a722e99bfe943cc9,fanduel,player_rebounds_over_under,ayo dosunmu,True,3.5,148,2023-03-23T01:30:01,Chicago Bulls,Philadelphia 76ers
+2023-03-22,8fd138645bb27dc0a722e99bfe943cc9,fanduel,player_steals_over_under,ayo dosunmu,True,1.5,280,2023-03-23T01:45:02,Chicago Bulls,Philadelphia 76ers
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_points_over_under,ayo dosunmu,False,7.5,-120,2023-03-28T02:30:01,LA Clippers,Chicago Bulls
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_points_over_under,ayo dosunmu,True,7.5,-102,2023-03-28T02:30:01,LA Clippers,Chicago Bulls
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_assists_over_under,ayo dosunmu,False,1.5,152,2023-03-28T02:30:01,LA Clippers,Chicago Bulls
+2023-03-27,d1a4fe018f0cd43dc7e202361e0876c0,fanduel,player_assists_over_under,ayo dosunmu,True,1.5,-188,2023-03-28T02:30:01,LA Clippers,Chicago Bulls
+2023-03-31,39dee3e66ddefccd0037a482db303469,fanduel,player_blocks_over_under,ayo dosunmu,False,1.5,-7000,2023-04-01T01:12:02,Charlotte Hornets,Chicago Bulls
+2023-03-31,39dee3e66ddefccd0037a482db303469,fanduel,player_blocks_over_under,ayo dosunmu,True,1.5,1000,2023-04-01T01:10:02,Charlotte Hornets,Chicago Bulls
+2023-03-31,39dee3e66ddefccd0037a482db303469,fanduel,player_blocks_over_under,ayo dosunmu,False,0.5,-700,2023-04-01T00:20:01,Charlotte Hornets,Chicago Bulls
+2023-03-31,39dee3e66ddefccd0037a482db303469,fanduel,player_blocks_over_under,ayo dosunmu,True,2.5,880,2023-04-01T01:04:01,Charlotte Hornets,Chicago Bulls
+2023-03-31,39dee3e66ddefccd0037a482db303469,fanduel,player_blocks_over_under,ayo dosunmu,True,0.5,410,2023-04-01T00:20:01,Charlotte Hornets,Chicago Bulls
+2023-03-31,39dee3e66ddefccd0037a482db303469,fanduel,player_assists_over_under,ayo dosunmu,True,1.5,102,2023-03-31T23:34:01,Charlotte Hornets,Chicago Bulls
+2023-03-31,39dee3e66ddefccd0037a482db303469,fanduel,player_assists_over_under,ayo dosunmu,False,2.5,-188,2023-04-01T01:02:02,Charlotte Hornets,Chicago Bulls
+2023-03-31,39dee3e66ddefccd0037a482db303469,fanduel,player_assists_over_under,ayo dosunmu,False,1.5,-136,2023-03-31T23:34:01,Charlotte Hornets,Chicago Bulls
+2023-03-31,39dee3e66ddefccd0037a482db303469,fanduel,player_assists_over_under,ayo dosunmu,True,4.5,320,2023-04-01T01:12:02,Charlotte Hornets,Chicago Bulls
+2023-03-31,39dee3e66ddefccd0037a482db303469,fanduel,player_assists_over_under,ayo dosunmu,True,2.5,140,2023-04-01T01:02:02,Charlotte Hornets,Chicago Bulls
+2023-03-31,39dee3e66ddefccd0037a482db303469,fanduel,player_points_over_under,ayo dosunmu,True,2.5,-144,2023-04-01T01:12:02,Charlotte Hornets,Chicago Bulls
+2023-03-31,39dee3e66ddefccd0037a482db303469,fanduel,player_assists_over_under,ayo dosunmu,False,4.5,-490,2023-04-01T01:12:02,Charlotte Hornets,Chicago Bulls
+2023-03-31,39dee3e66ddefccd0037a482db303469,fanduel,player_points_over_under,ayo dosunmu,True,3.5,140,2023-04-01T01:08:02,Charlotte Hornets,Chicago Bulls
+2023-03-31,39dee3e66ddefccd0037a482db303469,fanduel,player_blocks_over_under,ayo dosunmu,False,2.5,-3000,2023-04-01T01:04:01,Charlotte Hornets,Chicago Bulls
+2023-03-31,39dee3e66ddefccd0037a482db303469,fanduel,player_points_over_under,ayo dosunmu,True,5.5,-102,2023-03-31T23:34:01,Charlotte Hornets,Chicago Bulls
+2023-03-31,39dee3e66ddefccd0037a482db303469,fanduel,player_points_over_under,ayo dosunmu,True,4.5,-104,2023-04-01T00:52:01,Charlotte Hornets,Chicago Bulls
+2023-03-31,39dee3e66ddefccd0037a482db303469,fanduel,player_steals_over_under,ayo dosunmu,False,0.5,-1100,2023-04-01T00:54:01,Charlotte Hornets,Chicago Bulls
+2023-03-31,39dee3e66ddefccd0037a482db303469,fanduel,player_steals_over_under,ayo dosunmu,False,1.5,-3000,2023-04-01T01:12:02,Charlotte Hornets,Chicago Bulls
+2023-03-31,39dee3e66ddefccd0037a482db303469,fanduel,player_threes_over_under,ayo dosunmu,True,0.5,800,2023-04-01T01:12:02,Charlotte Hornets,Chicago Bulls
+2023-03-31,39dee3e66ddefccd0037a482db303469,fanduel,player_steals_over_under,ayo dosunmu,True,0.5,550,2023-04-01T00:54:01,Charlotte Hornets,Chicago Bulls
+2023-03-31,39dee3e66ddefccd0037a482db303469,fanduel,player_rebounds_over_under,ayo dosunmu,False,1.5,-270,2023-04-01T00:04:01,Charlotte Hornets,Chicago Bulls
+2023-03-31,39dee3e66ddefccd0037a482db303469,fanduel,player_rebounds_over_under,ayo dosunmu,False,0.5,-470,2023-04-01T01:12:02,Charlotte Hornets,Chicago Bulls
+2023-03-31,39dee3e66ddefccd0037a482db303469,fanduel,player_steals_over_under,ayo dosunmu,True,1.5,880,2023-04-01T01:12:02,Charlotte Hornets,Chicago Bulls
+2023-03-31,39dee3e66ddefccd0037a482db303469,fanduel,player_rebounds_over_under,ayo dosunmu,True,0.5,310,2023-04-01T01:12:02,Charlotte Hornets,Chicago Bulls
+2023-03-31,39dee3e66ddefccd0037a482db303469,fanduel,player_points_over_under,ayo dosunmu,False,5.5,-130,2023-03-31T23:34:01,Charlotte Hornets,Chicago Bulls
+2023-03-31,39dee3e66ddefccd0037a482db303469,fanduel,player_points_over_under,ayo dosunmu,False,4.5,-128,2023-04-01T00:52:01,Charlotte Hornets,Chicago Bulls
+2023-03-31,39dee3e66ddefccd0037a482db303469,fanduel,player_points_over_under,ayo dosunmu,False,3.5,-188,2023-04-01T01:08:02,Charlotte Hornets,Chicago Bulls
+2023-03-31,39dee3e66ddefccd0037a482db303469,fanduel,player_points_over_under,ayo dosunmu,False,2.5,108,2023-04-01T01:12:02,Charlotte Hornets,Chicago Bulls
+2023-03-31,39dee3e66ddefccd0037a482db303469,fanduel,player_threes_over_under,ayo dosunmu,False,0.5,-2200,2023-04-01T01:12:02,Charlotte Hornets,Chicago Bulls
+2023-03-31,39dee3e66ddefccd0037a482db303469,fanduel,player_rebounds_over_under,ayo dosunmu,True,1.5,194,2023-04-01T00:04:01,Charlotte Hornets,Chicago Bulls
+2023-04-05,7a69f192e4a5787dd9df4aa5d2ba62c4,draftkings,player_points_over_under,ayo dosunmu,False,6.5,-130,2023-04-05T23:15:01,Milwaukee Bucks,Chicago Bulls
+2023-04-05,833f2b022733f5fdb071352f7d0ea60b,draftkings,player_blocks_over_under,ayo dosunmu,True,0.5,330,2023-04-04T22:40:45,Chicago Bulls,Atlanta Hawks
+2023-04-05,833f2b022733f5fdb071352f7d0ea60b,draftkings,player_blocks_over_under,ayo dosunmu,True,0.5,330,2023-04-04T23:14:32,Chicago Bulls,Atlanta Hawks
+2023-04-05,833f2b022733f5fdb071352f7d0ea60b,draftkings,player_blocks_over_under,ayo dosunmu,False,0.5,-440,2023-04-04T22:40:45,Chicago Bulls,Atlanta Hawks
+2023-04-05,833f2b022733f5fdb071352f7d0ea60b,draftkings,player_blocks_over_under,ayo dosunmu,False,0.5,-440,2023-04-04T23:14:32,Chicago Bulls,Atlanta Hawks
+2023-04-05,7a69f192e4a5787dd9df4aa5d2ba62c4,draftkings,player_blocks_over_under,ayo dosunmu,False,0.5,-285,2023-04-05T23:15:01,Milwaukee Bucks,Chicago Bulls
+2023-04-05,7a69f192e4a5787dd9df4aa5d2ba62c4,draftkings,player_points_over_under,ayo dosunmu,True,6.5,100,2023-04-05T23:15:01,Milwaukee Bucks,Chicago Bulls
+2023-04-05,833f2b022733f5fdb071352f7d0ea60b,draftkings,player_steals_over_under,ayo dosunmu,True,0.5,-110,2023-04-04T22:40:45,Chicago Bulls,Atlanta Hawks
+2023-04-05,7a69f192e4a5787dd9df4aa5d2ba62c4,draftkings,player_blocks_over_under,ayo dosunmu,True,0.5,225,2023-04-05T23:15:01,Milwaukee Bucks,Chicago Bulls
+2023-04-05,833f2b022733f5fdb071352f7d0ea60b,draftkings,player_steals_over_under,ayo dosunmu,False,0.5,-120,2023-04-04T22:40:45,Chicago Bulls,Atlanta Hawks
+2023-04-05,833f2b022733f5fdb071352f7d0ea60b,draftkings,player_steals_over_under,ayo dosunmu,True,0.5,-110,2023-04-04T23:14:32,Chicago Bulls,Atlanta Hawks
+2023-04-05,7a69f192e4a5787dd9df4aa5d2ba62c4,draftkings,player_threes_over_under,ayo dosunmu,True,0.5,105,2023-04-05T23:15:01,Milwaukee Bucks,Chicago Bulls
+2023-04-05,833f2b022733f5fdb071352f7d0ea60b,draftkings,player_threes_over_under,ayo dosunmu,False,0.5,-130,2023-04-04T23:14:32,Chicago Bulls,Atlanta Hawks
+2023-04-05,833f2b022733f5fdb071352f7d0ea60b,draftkings,player_threes_over_under,ayo dosunmu,False,0.5,-130,2023-04-04T22:40:45,Chicago Bulls,Atlanta Hawks
+2023-04-05,7a69f192e4a5787dd9df4aa5d2ba62c4,draftkings,player_threes_over_under,ayo dosunmu,False,0.5,-135,2023-04-05T23:15:01,Milwaukee Bucks,Chicago Bulls
+2023-04-05,833f2b022733f5fdb071352f7d0ea60b,draftkings,player_threes_over_under,ayo dosunmu,True,0.5,100,2023-04-04T22:40:45,Chicago Bulls,Atlanta Hawks
+2023-04-05,7a69f192e4a5787dd9df4aa5d2ba62c4,draftkings,player_steals_over_under,ayo dosunmu,False,0.5,-120,2023-04-05T23:15:01,Milwaukee Bucks,Chicago Bulls
+2023-04-05,7a69f192e4a5787dd9df4aa5d2ba62c4,draftkings,player_steals_over_under,ayo dosunmu,True,0.5,-110,2023-04-05T23:15:01,Milwaukee Bucks,Chicago Bulls
+2023-04-05,833f2b022733f5fdb071352f7d0ea60b,draftkings,player_steals_over_under,ayo dosunmu,False,0.5,-120,2023-04-04T23:14:32,Chicago Bulls,Atlanta Hawks
+2023-04-05,833f2b022733f5fdb071352f7d0ea60b,draftkings,player_threes_over_under,ayo dosunmu,True,0.5,100,2023-04-04T23:14:32,Chicago Bulls,Atlanta Hawks
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_rebounds_over_under,ayo dosunmu,False,9.5,-300,2023-04-08T02:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_rebounds_over_under,ayo dosunmu,False,2.5,100,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_rebounds_over_under,ayo dosunmu,True,9.5,265,2023-04-08T02:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_rebounds_over_under,ayo dosunmu,True,8.5,-145,2023-04-08T02:15:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_rebounds_over_under,ayo dosunmu,True,7.5,-225,2023-04-08T02:00:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_rebounds_over_under,ayo dosunmu,True,5.5,105,2023-04-08T01:45:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_rebounds_over_under,ayo dosunmu,True,4.5,-105,2023-04-08T00:45:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_rebounds_over_under,ayo dosunmu,True,2.5,-130,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_rebounds_over_under,ayo dosunmu,False,7.5,118,2023-04-08T02:15:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_rebounds_over_under,ayo dosunmu,True,4.5,-106,2023-04-08T00:45:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_rebounds_over_under,ayo dosunmu,False,4.5,-125,2023-04-08T00:45:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_rebounds_over_under,ayo dosunmu,True,9.5,210,2023-04-08T02:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_rebounds_over_under,ayo dosunmu,True,7.5,-158,2023-04-08T02:15:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_rebounds_over_under,ayo dosunmu,True,5.5,116,2023-04-08T01:45:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,caesars,player_points_over_under,ayo dosunmu,False,11.5,-101,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,caesars,player_points_over_under,ayo dosunmu,True,11.5,-135,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_points_over_under,ayo dosunmu,False,13.5,-240,2023-04-08T02:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_rebounds_over_under,ayo dosunmu,False,4.5,-125,2023-04-08T00:45:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_points_over_under,ayo dosunmu,False,12.5,-135,2023-04-08T02:00:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_rebounds_over_under,ayo dosunmu,False,5.5,-154,2023-04-08T01:45:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_rebounds_over_under,ayo dosunmu,False,5.5,-140,2023-04-08T01:45:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_steals_over_under,ayo dosunmu,True,1.5,650,2023-04-08T02:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_rebounds_over_under,ayo dosunmu,False,8.5,110,2023-04-08T02:15:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_points_over_under,ayo dosunmu,False,11.5,100,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,caesars,player_threes_over_under,ayo dosunmu,False,0.5,133,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,caesars,player_threes_over_under,ayo dosunmu,True,0.5,-184,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_threes_over_under,ayo dosunmu,False,0.5,-2000,2023-04-08T02:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_threes_over_under,ayo dosunmu,True,0.5,750,2023-04-08T02:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_threes_over_under,ayo dosunmu,False,0.5,-1400,2023-04-08T02:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_threes_over_under,ayo dosunmu,True,0.5,630,2023-04-08T02:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,caesars,player_steals_over_under,ayo dosunmu,False,0.5,165,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,caesars,player_steals_over_under,ayo dosunmu,True,0.5,-234,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_steals_over_under,ayo dosunmu,False,1.5,-1400,2023-04-08T02:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_steals_over_under,ayo dosunmu,False,0.5,-235,2023-04-08T02:00:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_steals_over_under,ayo dosunmu,True,0.5,170,2023-04-08T02:00:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_steals_over_under,ayo dosunmu,False,1.5,-1200,2023-04-08T02:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_steals_over_under,ayo dosunmu,False,0.5,-230,2023-04-08T02:00:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_steals_over_under,ayo dosunmu,True,1.5,580,2023-04-08T02:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_steals_over_under,ayo dosunmu,True,0.5,168,2023-04-08T02:00:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,caesars,player_rebounds_over_under,ayo dosunmu,False,2.5,-101,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,caesars,player_rebounds_over_under,ayo dosunmu,True,2.5,-135,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_rebounds_over_under,ayo dosunmu,False,9.5,-390,2023-04-08T02:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_rebounds_over_under,ayo dosunmu,False,7.5,165,2023-04-08T02:00:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_points_over_under,ayo dosunmu,False,10.5,-110,2023-04-08T00:45:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_points_over_under,ayo dosunmu,True,12.5,-118,2023-04-08T02:00:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_points_over_under,ayo dosunmu,False,8.5,-135,2023-04-08T01:45:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_blocks_over_under,ayo dosunmu,True,0.5,550,2023-04-08T02:15:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_blocks_over_under,ayo dosunmu,False,0.5,-5000,2023-04-08T02:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_blocks_over_under,ayo dosunmu,True,0.5,1000,2023-04-08T02:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,caesars,player_assists_over_under,ayo dosunmu,False,3.5,-108,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,caesars,player_assists_over_under,ayo dosunmu,True,3.5,-127,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_assists_over_under,ayo dosunmu,False,6.5,-180,2023-04-08T01:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_assists_over_under,ayo dosunmu,False,5.5,-260,2023-04-08T02:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_assists_over_under,ayo dosunmu,False,4.5,-165,2023-04-08T02:00:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_assists_over_under,ayo dosunmu,False,3.5,175,2023-04-08T02:15:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_assists_over_under,ayo dosunmu,True,6.5,135,2023-04-08T01:00:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_assists_over_under,ayo dosunmu,True,4.5,125,2023-04-08T02:00:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_assists_over_under,ayo dosunmu,True,3.5,-245,2023-04-08T02:15:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_assists_over_under,ayo dosunmu,False,5.5,-205,2023-04-08T02:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_assists_over_under,ayo dosunmu,False,4.5,-152,2023-04-08T02:00:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_assists_over_under,ayo dosunmu,False,3.5,188,2023-04-08T02:15:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_assists_over_under,ayo dosunmu,True,5.5,152,2023-04-08T02:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_assists_over_under,ayo dosunmu,True,4.5,114,2023-04-08T02:00:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_assists_over_under,ayo dosunmu,True,3.5,-260,2023-04-08T02:15:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_points_over_under,ayo dosunmu,False,9.5,-125,2023-04-08T01:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_blocks_over_under,ayo dosunmu,False,0.5,-1100,2023-04-08T02:15:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,caesars,player_blocks_over_under,ayo dosunmu,True,0.5,152,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_assists_over_under,ayo dosunmu,True,5.5,190,2023-04-08T02:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_points_over_under,ayo dosunmu,True,6.5,118,2023-04-08T01:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_points_over_under,ayo dosunmu,False,6.5,-140,2023-04-08T01:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,caesars,player_blocks_over_under,ayo dosunmu,False,0.5,-214,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_points_over_under,ayo dosunmu,True,13.5,175,2023-04-08T02:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_points_over_under,ayo dosunmu,True,12.5,100,2023-04-08T02:00:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_points_over_under,ayo dosunmu,True,11.5,-130,2023-04-08T00:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_points_over_under,ayo dosunmu,True,10.5,-120,2023-04-08T00:45:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_points_over_under,ayo dosunmu,True,8.5,100,2023-04-08T01:45:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_points_over_under,ayo dosunmu,True,6.5,105,2023-04-08T01:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_points_over_under,ayo dosunmu,False,13.5,-154,2023-04-08T02:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_points_over_under,ayo dosunmu,False,12.5,-112,2023-04-08T02:00:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,draftkings,player_points_over_under,ayo dosunmu,True,9.5,-105,2023-04-08T01:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_points_over_under,ayo dosunmu,False,11.5,-132,2023-04-08T02:15:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_points_over_under,ayo dosunmu,False,10.5,104,2023-04-08T00:45:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_points_over_under,ayo dosunmu,False,9.5,-128,2023-04-08T01:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_points_over_under,ayo dosunmu,False,6.5,-158,2023-04-08T01:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_points_over_under,ayo dosunmu,True,13.5,116,2023-04-08T02:30:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_points_over_under,ayo dosunmu,True,11.5,100,2023-04-08T02:15:01,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_points_over_under,ayo dosunmu,True,9.5,-104,2023-04-08T01:15:02,Dallas Mavericks,Chicago Bulls
+2023-04-07,8757990bb32f12b3c4d209c732cfd820,fanduel,player_points_over_under,ayo dosunmu,True,10.5,-138,2023-04-08T00:45:01,Dallas Mavericks,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,fanduel,player_rebounds_over_under,ayo dosunmu,False,1.5,-100000,2023-04-13T01:30:01,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,draftkings,player_steals_over_under,ayo dosunmu,False,0.5,-750,2023-04-13T01:00:01,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,draftkings,player_steals_over_under,ayo dosunmu,True,0.5,425,2023-04-13T01:00:01,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,fanduel,player_steals_over_under,ayo dosunmu,False,0.5,-100000,2023-04-13T01:30:01,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,fanduel,player_steals_over_under,ayo dosunmu,True,0.5,1000,2023-04-13T01:15:02,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,draftkings,player_rebounds_over_under,ayo dosunmu,False,1.5,-2000,2023-04-13T01:15:02,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,betmgm,player_rebounds_over_under,ayo dosunmu,True,1.5,110,2023-04-12T16:45:01,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,fanduel,player_rebounds_over_under,ayo dosunmu,True,1.5,1000,2023-04-13T01:30:01,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,draftkings,player_rebounds_over_under,ayo dosunmu,True,1.5,750,2023-04-13T01:15:02,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,betmgm,player_points_over_under,ayo dosunmu,False,4.5,-110,2023-04-12T16:45:01,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,betmgm,player_steals_over_under,ayo dosunmu,True,0.5,115,2023-04-12T16:45:01,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,betmgm,player_rebounds_over_under,ayo dosunmu,False,1.5,-145,2023-04-12T16:45:01,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,betmgm,player_steals_over_under,ayo dosunmu,False,0.5,-155,2023-04-12T16:45:01,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,fanduel,player_assists_over_under,ayo dosunmu,True,0.5,1000,2023-04-13T01:30:01,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,fanduel,player_threes_over_under,ayo dosunmu,False,0.5,-100000,2023-04-13T01:30:01,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,draftkings,player_threes_over_under,ayo dosunmu,True,0.5,500,2023-04-13T01:00:01,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,draftkings,player_threes_over_under,ayo dosunmu,False,0.5,-1000,2023-04-13T01:00:01,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,caesars,player_threes_over_under,ayo dosunmu,True,0.5,126,2023-04-12T21:30:01,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,caesars,player_threes_over_under,ayo dosunmu,False,0.5,-174,2023-04-12T21:30:01,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,betmgm,player_threes_over_under,ayo dosunmu,True,0.5,150,2023-04-12T22:15:02,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,betmgm,player_threes_over_under,ayo dosunmu,False,0.5,-200,2023-04-12T22:15:02,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,fanduel,player_assists_over_under,ayo dosunmu,True,1.5,118,2023-04-12T23:30:02,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,fanduel,player_assists_over_under,ayo dosunmu,False,0.5,-100000,2023-04-13T01:30:01,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,betmgm,player_points_over_under,ayo dosunmu,True,4.5,-120,2023-04-12T16:45:01,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,fanduel,player_assists_over_under,ayo dosunmu,False,1.5,-158,2023-04-12T23:30:02,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,draftkings,player_assists_over_under,ayo dosunmu,True,0.5,750,2023-04-13T01:15:02,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,fanduel,player_threes_over_under,ayo dosunmu,True,0.5,1000,2023-04-13T01:15:02,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,draftkings,player_points_over_under,ayo dosunmu,False,4.5,-140,2023-04-12T23:30:02,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,betmgm,player_blocks_over_under,ayo dosunmu,True,0.5,275,2023-04-12T16:45:01,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,draftkings,player_points_over_under,ayo dosunmu,False,2.5,-185,2023-04-13T00:00:01,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,draftkings,player_assists_over_under,ayo dosunmu,True,1.5,115,2023-04-12T23:30:02,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,draftkings,player_assists_over_under,ayo dosunmu,False,1.5,-150,2023-04-12T23:30:02,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,betmgm,player_assists_over_under,ayo dosunmu,True,1.5,110,2023-04-12T16:45:01,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,betmgm,player_assists_over_under,ayo dosunmu,False,1.5,-145,2023-04-12T16:45:01,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,fanduel,player_blocks_over_under,ayo dosunmu,True,0.5,1000,2023-04-13T01:15:02,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,fanduel,player_blocks_over_under,ayo dosunmu,False,0.5,-100000,2023-04-13T01:30:01,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,draftkings,player_blocks_over_under,ayo dosunmu,True,0.5,800,2023-04-13T01:00:01,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,draftkings,player_blocks_over_under,ayo dosunmu,False,0.5,-2500,2023-04-13T01:00:01,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,betmgm,player_blocks_over_under,ayo dosunmu,False,0.5,-400,2023-04-12T16:45:01,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,fanduel,player_points_over_under,ayo dosunmu,True,0.5,1000,2023-04-13T01:30:01,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,fanduel,player_points_over_under,ayo dosunmu,True,1.5,134,2023-04-13T01:00:01,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,fanduel,player_points_over_under,ayo dosunmu,True,2.5,142,2023-04-13T00:00:01,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,draftkings,player_points_over_under,ayo dosunmu,False,3.5,-180,2023-04-12T23:45:01,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,fanduel,player_points_over_under,ayo dosunmu,True,3.5,132,2023-04-12T23:45:01,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,fanduel,player_points_over_under,ayo dosunmu,False,0.5,-10000,2023-04-13T01:30:01,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,fanduel,player_points_over_under,ayo dosunmu,False,1.5,-180,2023-04-13T01:00:01,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,fanduel,player_points_over_under,ayo dosunmu,False,2.5,-192,2023-04-13T00:00:01,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,fanduel,player_points_over_under,ayo dosunmu,False,3.5,-180,2023-04-12T23:45:01,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,fanduel,player_points_over_under,ayo dosunmu,False,4.5,-140,2023-04-12T23:30:02,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,draftkings,player_points_over_under,ayo dosunmu,True,0.5,275,2023-04-13T01:15:02,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,draftkings,player_points_over_under,ayo dosunmu,True,1.5,130,2023-04-13T01:00:01,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,draftkings,player_points_over_under,ayo dosunmu,True,2.5,140,2023-04-13T00:00:01,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,draftkings,player_points_over_under,ayo dosunmu,True,3.5,135,2023-04-12T23:45:01,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,draftkings,player_points_over_under,ayo dosunmu,True,4.5,105,2023-04-12T23:30:02,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,draftkings,player_points_over_under,ayo dosunmu,False,0.5,-400,2023-04-13T01:15:02,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,draftkings,player_points_over_under,ayo dosunmu,False,1.5,-175,2023-04-13T01:00:01,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,fanduel,player_points_over_under,ayo dosunmu,True,4.5,106,2023-04-12T23:30:02,Toronto Raptors,Chicago Bulls
+2023-04-12,5bfa63a092c0fe7fcfc414924099bf67,draftkings,player_assists_over_under,ayo dosunmu,False,0.5,-2000,2023-04-13T01:15:02,Toronto Raptors,Chicago Bulls
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_assists_over_under,ayo dosunmu,True,0.5,154,2023-10-26T00:45:41,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,barstool,player_threes_over_under,ayo dosunmu,False,0.5,-170,2023-10-26T00:30:04,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_points_over_under,ayo dosunmu,True,3.5,118,2023-10-26T00:55:47,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_points_over_under,ayo dosunmu,True,4.5,110,2023-10-26T00:35:09,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_points_over_under,ayo dosunmu,True,5.5,114,2023-10-25T23:20:11,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_points_over_under,ayo dosunmu,False,0.5,-390,2023-10-26T02:10:12,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_points_over_under,ayo dosunmu,False,1.5,-170,2023-10-26T01:51:13,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_points_over_under,ayo dosunmu,False,2.5,-180,2023-10-26T01:40:04,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_points_over_under,ayo dosunmu,False,3.5,-150,2023-10-26T00:55:47,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_points_over_under,ayo dosunmu,False,4.5,-140,2023-10-26T00:35:09,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_points_over_under,ayo dosunmu,True,2.5,140,2023-10-26T01:40:04,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_points_over_under,ayo dosunmu,False,5.5,-140,2023-10-25T23:20:11,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_points_over_under,ayo dosunmu,True,0.5,300,2023-10-26T02:10:31,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_points_over_under,ayo dosunmu,True,1.5,-135,2023-10-26T01:40:04,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_points_over_under,ayo dosunmu,True,2.5,125,2023-10-26T01:10:27,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_points_over_under,ayo dosunmu,True,3.5,-110,2023-10-26T00:56:12,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_points_over_under,ayo dosunmu,True,5.5,-105,2023-10-26T00:25:08,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_points_over_under,ayo dosunmu,True,6.5,180,2023-10-26T02:16:10,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_points_over_under,ayo dosunmu,False,0.5,-450,2023-10-26T02:10:31,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_points_over_under,ayo dosunmu,False,1.5,100,2023-10-26T01:40:04,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_points_over_under,ayo dosunmu,False,6.5,-1600,2023-10-26T02:15:08,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_points_over_under,ayo dosunmu,False,2.5,-165,2023-10-26T01:10:27,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_points_over_under,ayo dosunmu,True,1.5,132,2023-10-26T01:51:13,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,barstool,player_blocks_over_under,ayo dosunmu,False,0.5,-575,2023-10-26T00:16:01,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_assists_over_under,ayo dosunmu,True,1.5,310,2023-10-26T02:15:08,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_assists_over_under,ayo dosunmu,False,0.5,-210,2023-10-26T00:45:41,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_assists_over_under,ayo dosunmu,False,1.5,-470,2023-10-26T02:15:08,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_assists_over_under,ayo dosunmu,True,0.5,-190,2023-10-26T01:00:04,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_assists_over_under,ayo dosunmu,True,1.5,295,2023-10-26T02:16:10,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_assists_over_under,ayo dosunmu,False,0.5,140,2023-10-26T01:00:04,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_assists_over_under,ayo dosunmu,False,1.5,-450,2023-10-26T02:16:10,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,betmgm,player_assists_over_under,ayo dosunmu,True,1.5,-110,2023-10-26T00:40:59,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_points_over_under,ayo dosunmu,True,0.5,280,2023-10-26T02:10:12,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,betmgm,player_assists_over_under,ayo dosunmu,False,1.5,-120,2023-10-26T00:40:59,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,barstool,player_assists_over_under,ayo dosunmu,False,1.5,-105,2023-10-26T00:30:04,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_blocks_over_under,ayo dosunmu,True,0.5,1000,2023-10-26T01:45:04,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_blocks_over_under,ayo dosunmu,False,0.5,-20000,2023-10-26T02:15:08,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_blocks_over_under,ayo dosunmu,True,0.5,400,2023-10-26T00:00:19,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_blocks_over_under,ayo dosunmu,False,0.5,-550,2023-10-26T00:00:19,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,betmgm,player_blocks_over_under,ayo dosunmu,True,0.5,360,2023-10-26T00:40:59,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,betmgm,player_blocks_over_under,ayo dosunmu,False,0.5,-600,2023-10-26T00:40:59,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,barstool,player_blocks_over_under,ayo dosunmu,True,0.5,340,2023-10-26T00:16:01,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,barstool,player_assists_over_under,ayo dosunmu,True,1.5,-135,2023-10-26T00:30:04,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_points_over_under,ayo dosunmu,False,3.5,-120,2023-10-26T00:56:12,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_points_over_under,ayo dosunmu,True,4.5,-135,2023-10-26T00:30:07,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_points_over_under,ayo dosunmu,False,5.5,-125,2023-10-26T00:25:08,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_steals_over_under,ayo dosunmu,True,1.5,1000,2023-10-26T02:10:12,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_steals_over_under,ayo dosunmu,False,0.5,-440,2023-10-26T01:10:04,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_steals_over_under,ayo dosunmu,False,1.5,-4500,2023-10-26T02:15:08,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_points_over_under,ayo dosunmu,False,4.5,100,2023-10-26T00:30:07,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_steals_over_under,ayo dosunmu,True,1.5,1000,2023-10-26T02:16:10,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_steals_over_under,ayo dosunmu,False,0.5,-425,2023-10-26T01:16:01,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_steals_over_under,ayo dosunmu,False,1.5,-5000,2023-10-26T02:16:10,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,betmgm,player_steals_over_under,ayo dosunmu,True,0.5,110,2023-10-26T00:40:59,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_steals_over_under,ayo dosunmu,True,0.5,290,2023-10-26T01:10:04,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,betmgm,player_steals_over_under,ayo dosunmu,False,0.5,-145,2023-10-26T00:40:59,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,barstool,player_steals_over_under,ayo dosunmu,False,0.5,-150,2023-10-26T00:30:04,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_threes_over_under,ayo dosunmu,True,0.5,1000,2023-10-26T02:10:31,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_threes_over_under,ayo dosunmu,True,2.5,750,2023-10-26T02:16:10,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_threes_over_under,ayo dosunmu,False,0.5,-5000,2023-10-26T02:10:31,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_threes_over_under,ayo dosunmu,False,2.5,-2000,2023-10-26T02:16:10,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,betmgm,player_threes_over_under,ayo dosunmu,True,0.5,120,2023-10-26T00:40:59,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,betmgm,player_threes_over_under,ayo dosunmu,False,0.5,-160,2023-10-26T00:40:59,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,barstool,player_threes_over_under,ayo dosunmu,True,0.5,120,2023-10-26T00:30:04,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,barstool,player_steals_over_under,ayo dosunmu,True,0.5,105,2023-10-26T00:30:04,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,barstool,player_rebounds_over_under,ayo dosunmu,False,1.5,100,2023-10-26T00:30:04,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_steals_over_under,ayo dosunmu,True,0.5,290,2023-10-26T01:16:01,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,betmgm,player_rebounds_over_under,ayo dosunmu,False,1.5,105,2023-10-26T00:40:59,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_points_over_under,ayo dosunmu,False,6.5,-245,2023-10-26T02:16:10,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,betmgm,player_points_over_under,ayo dosunmu,True,4.5,-140,2023-10-25T21:06:07,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,betmgm,player_points_over_under,ayo dosunmu,True,5.5,105,2023-10-26T00:40:59,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,barstool,player_rebounds_over_under,ayo dosunmu,True,1.5,-140,2023-10-26T00:30:04,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,betmgm,player_points_over_under,ayo dosunmu,False,5.5,-140,2023-10-26T00:40:59,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,barstool,player_points_over_under,ayo dosunmu,True,4.5,-140,2023-10-26T00:30:04,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,barstool,player_points_over_under,ayo dosunmu,True,5.5,-115,2023-10-26T00:25:06,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,barstool,player_points_over_under,ayo dosunmu,False,4.5,100,2023-10-26T00:30:04,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,barstool,player_points_over_under,ayo dosunmu,False,5.5,-125,2023-10-26T00:25:06,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,betmgm,player_points_over_under,ayo dosunmu,False,4.5,105,2023-10-25T21:06:07,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_rebounds_over_under,ayo dosunmu,True,1.5,-118,2023-10-26T01:15:37,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_rebounds_over_under,ayo dosunmu,False,0.5,-600,2023-10-26T02:15:08,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_rebounds_over_under,ayo dosunmu,False,1.5,-112,2023-10-26T01:15:37,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_rebounds_over_under,ayo dosunmu,True,0.5,360,2023-10-26T02:16:10,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_rebounds_over_under,ayo dosunmu,True,1.5,-120,2023-10-26T01:10:27,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_rebounds_over_under,ayo dosunmu,False,0.5,-575,2023-10-26T02:16:10,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,draftkings,player_rebounds_over_under,ayo dosunmu,False,1.5,-110,2023-10-26T01:10:27,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,betmgm,player_rebounds_over_under,ayo dosunmu,True,1.5,-140,2023-10-26T00:40:59,Chicago Bulls,Oklahoma City Thunder
+2023-10-25,9a246f4d94b4e81172c11e29f73c061b,fanduel,player_rebounds_over_under,ayo dosunmu,True,0.5,370,2023-10-26T02:15:08,Chicago Bulls,Oklahoma City Thunder
+2023-10-28,29ea738c1de18c8f28c09966bb267752,fanduel,player_rebounds_over_under,ayo dosunmu,False,1.5,-100000,2023-10-28T02:25:09,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,fanduel,player_rebounds_over_under,ayo dosunmu,True,1.5,1000,2023-10-28T02:20:10,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,draftkings,player_points_over_under,ayo dosunmu,False,5.5,115,2023-10-28T01:55:15,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,draftkings,player_points_over_under,ayo dosunmu,False,4.5,-1600,2023-10-28T02:15:46,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,draftkings,player_points_over_under,ayo dosunmu,False,3.5,130,2023-10-28T00:55:11,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,draftkings,player_points_over_under,ayo dosunmu,True,5.5,-155,2023-10-28T01:55:15,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,fanduel,player_blocks_over_under,ayo dosunmu,True,0.5,1000,2023-10-28T02:00:35,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,draftkings,player_points_over_under,ayo dosunmu,True,3.5,-170,2023-10-28T00:55:11,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,fanduel,player_blocks_over_under,ayo dosunmu,False,0.5,-100000,2023-10-28T02:06:09,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,fanduel,player_assists_over_under,ayo dosunmu,False,0.5,-100000,2023-10-28T02:25:09,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,fanduel,player_assists_over_under,ayo dosunmu,True,0.5,1000,2023-10-28T02:20:10,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,fanduel,player_steals_over_under,ayo dosunmu,True,0.5,1000,2023-10-28T02:06:09,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,draftkings,player_points_over_under,ayo dosunmu,True,4.5,650,2023-10-28T02:15:46,Chicago Bulls,Toronto Raptors
+2023-10-28,29ea738c1de18c8f28c09966bb267752,fanduel,player_steals_over_under,ayo dosunmu,False,0.5,-100000,2023-10-28T02:20:10,Chicago Bulls,Toronto Raptors

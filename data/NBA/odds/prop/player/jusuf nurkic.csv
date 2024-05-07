@@ -1,0 +1,686 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_assists_over_under,jusuf nurkic,False,5.5,-130,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,jusuf nurkic,True,20.5,-148,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,jusuf nurkic,True,19.5,-118,2023-03-20T02:30:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,jusuf nurkic,True,12.5,102,2023-03-20T01:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,jusuf nurkic,True,11.5,-114,2023-03-20T01:15:02,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_blocks_over_under,jusuf nurkic,False,1.5,-650,2023-03-20T02:45:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_blocks_over_under,jusuf nurkic,False,0.5,-245,2023-03-20T02:15:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_blocks_over_under,jusuf nurkic,True,1.5,390,2023-03-20T02:45:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_blocks_over_under,jusuf nurkic,True,0.5,178,2023-03-20T02:15:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_assists_over_under,jusuf nurkic,False,4.5,-136,2023-03-20T02:45:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_assists_over_under,jusuf nurkic,False,3.5,-210,2023-03-20T02:15:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_assists_over_under,jusuf nurkic,False,2.5,-146,2023-03-20T02:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_assists_over_under,jusuf nurkic,True,5.5,-102,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_assists_over_under,jusuf nurkic,True,4.5,102,2023-03-20T02:45:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_assists_over_under,jusuf nurkic,True,3.5,154,2023-03-20T02:15:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_assists_over_under,jusuf nurkic,True,2.5,110,2023-03-20T02:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,jusuf nurkic,True,21.5,-138,2023-03-20T02:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,jusuf nurkic,False,11.5,-114,2023-03-20T01:15:02,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,jusuf nurkic,True,18.5,-138,2023-03-20T02:45:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,jusuf nurkic,False,18.5,104,2023-03-20T02:45:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_threes_over_under,jusuf nurkic,False,1.5,-800,2023-03-20T02:45:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_threes_over_under,jusuf nurkic,False,0.5,-114,2023-03-20T01:15:02,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_threes_over_under,jusuf nurkic,True,1.5,450,2023-03-20T02:45:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_threes_over_under,jusuf nurkic,True,0.5,-114,2023-03-20T01:15:02,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,jusuf nurkic,False,12.5,-124,2023-03-20T01:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_steals_over_under,jusuf nurkic,True,0.5,350,2023-03-20T02:45:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_rebounds_over_under,jusuf nurkic,False,9.5,-120,2023-03-20T02:30:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_rebounds_over_under,jusuf nurkic,False,8.5,142,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_steals_over_under,jusuf nurkic,False,0.5,-550,2023-03-20T02:45:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_rebounds_over_under,jusuf nurkic,True,9.5,-110,2023-03-20T02:30:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_rebounds_over_under,jusuf nurkic,True,8.5,-192,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_rebounds_over_under,jusuf nurkic,True,7.5,-146,2023-03-20T01:45:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,jusuf nurkic,False,21.5,104,2023-03-20T02:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,jusuf nurkic,False,20.5,112,2023-03-20T03:00:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_points_over_under,jusuf nurkic,False,19.5,-112,2023-03-20T02:30:01,Portland Trail Blazers,LA Clippers
+2023-03-19,bc0fcc1ce382bbc0cb706ca4fda97d81,fanduel,player_rebounds_over_under,jusuf nurkic,False,7.5,110,2023-03-20T01:45:01,Portland Trail Blazers,LA Clippers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,jusuf nurkic,False,14.5,-120,2023-03-22T19:30:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,jusuf nurkic,True,18.5,104,2023-03-23T01:45:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,jusuf nurkic,True,20.5,100,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,jusuf nurkic,True,21.5,-146,2023-03-23T02:45:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,jusuf nurkic,False,13.5,-106,2023-03-23T01:00:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,jusuf nurkic,True,23.5,124,2023-03-23T02:30:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,jusuf nurkic,False,12.5,100,2023-03-23T01:15:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,jusuf nurkic,True,14.5,-102,2023-03-22T19:30:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,jusuf nurkic,True,22.5,-132,2023-03-23T03:00:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,jusuf nurkic,True,13.5,-114,2023-03-23T01:00:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_blocks_over_under,jusuf nurkic,False,1.5,-7000,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_blocks_over_under,jusuf nurkic,False,0.5,-670,2023-03-23T03:00:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_blocks_over_under,jusuf nurkic,True,1.5,1000,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_blocks_over_under,jusuf nurkic,True,0.5,400,2023-03-23T03:00:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_assists_over_under,jusuf nurkic,False,5.5,-140,2023-03-23T02:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_assists_over_under,jusuf nurkic,False,4.5,-1200,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_assists_over_under,jusuf nurkic,False,2.5,-110,2023-03-23T01:15:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_assists_over_under,jusuf nurkic,True,5.5,106,2023-03-23T02:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_assists_over_under,jusuf nurkic,True,4.5,580,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_assists_over_under,jusuf nurkic,True,2.5,-120,2023-03-23T01:15:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,jusuf nurkic,False,18.5,-138,2023-03-23T01:45:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,jusuf nurkic,True,12.5,-132,2023-03-23T01:15:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,jusuf nurkic,False,20.5,-132,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_rebounds_over_under,jusuf nurkic,True,4.5,194,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,jusuf nurkic,False,22.5,100,2023-03-23T03:00:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,jusuf nurkic,False,21.5,110,2023-03-23T02:45:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_threes_over_under,jusuf nurkic,False,2.5,-7000,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_threes_over_under,jusuf nurkic,False,1.5,-225,2023-03-23T02:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_threes_over_under,jusuf nurkic,False,0.5,102,2023-03-23T01:15:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_threes_over_under,jusuf nurkic,True,2.5,1000,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_threes_over_under,jusuf nurkic,True,1.5,164,2023-03-23T02:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_steals_over_under,jusuf nurkic,False,1.5,-7000,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_steals_over_under,jusuf nurkic,False,0.5,-470,2023-03-23T02:45:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_steals_over_under,jusuf nurkic,True,1.5,1000,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_steals_over_under,jusuf nurkic,True,0.5,310,2023-03-23T02:45:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_threes_over_under,jusuf nurkic,True,0.5,-136,2023-03-23T01:15:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_rebounds_over_under,jusuf nurkic,False,7.5,-114,2023-03-23T01:15:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_rebounds_over_under,jusuf nurkic,False,6.5,-152,2023-03-23T01:30:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_rebounds_over_under,jusuf nurkic,False,5.5,-168,2023-03-23T02:45:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_rebounds_over_under,jusuf nurkic,False,4.5,-275,2023-03-23T03:15:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_rebounds_over_under,jusuf nurkic,True,8.5,-118,2023-03-23T01:00:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_rebounds_over_under,jusuf nurkic,True,7.5,-114,2023-03-23T01:15:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_rebounds_over_under,jusuf nurkic,True,6.5,114,2023-03-23T01:30:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_rebounds_over_under,jusuf nurkic,True,5.5,126,2023-03-23T02:45:01,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_rebounds_over_under,jusuf nurkic,False,8.5,-104,2023-03-23T01:00:02,Utah Jazz,Portland Trail Blazers
+2023-03-22,1631b7f7009e18d4728f7225b0d8750e,fanduel,player_points_over_under,jusuf nurkic,False,23.5,-166,2023-03-23T02:30:01,Utah Jazz,Portland Trail Blazers
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,jusuf nurkic,True,12.5,125,2023-10-25T02:15:25,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,jusuf nurkic,True,11.5,-105,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,jusuf nurkic,True,10.5,-130,2023-10-25T02:15:25,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,jusuf nurkic,True,9.5,-200,2023-10-25T02:15:25,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,jusuf nurkic,True,8.5,-170,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,jusuf nurkic,True,7.5,-250,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,pinnacle,player_points_over_under,jusuf nurkic,True,11.5,-123,2023-10-25T02:10:06,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,pinnacle,player_points_over_under,jusuf nurkic,False,11.5,-107,2023-10-25T02:10:06,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,pinnacle,player_points_over_under,jusuf nurkic,True,12.5,-125,2023-10-24T18:00:14,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,jusuf nurkic,False,14.5,126,2023-10-25T04:16:17,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,jusuf nurkic,True,13.5,180,2023-10-25T02:15:25,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,jusuf nurkic,False,15.5,-130,2023-10-25T04:00:58,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,pinnacle,player_points_over_under,jusuf nurkic,False,12.5,-106,2023-10-24T18:00:14,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,jusuf nurkic,True,14.5,220,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,jusuf nurkic,False,10.5,105,2023-10-25T02:15:25,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,jusuf nurkic,True,11.5,-110,2023-10-25T02:15:25,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,jusuf nurkic,True,12.5,310,2023-10-25T04:40:06,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,jusuf nurkic,True,13.5,-185,2023-10-25T04:25:06,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,jusuf nurkic,True,14.5,105,2023-10-25T04:00:20,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,jusuf nurkic,True,15.5,100,2023-10-25T04:00:20,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,jusuf nurkic,True,16.5,-125,2023-10-25T03:10:23,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,jusuf nurkic,False,7.5,190,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,jusuf nurkic,False,8.5,130,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,jusuf nurkic,False,9.5,155,2023-10-25T02:15:25,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,jusuf nurkic,False,11.5,-115,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,jusuf nurkic,False,12.5,-155,2023-10-25T02:15:25,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,jusuf nurkic,False,13.5,-230,2023-10-25T02:15:25,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,jusuf nurkic,False,14.5,-295,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,jusuf nurkic,False,13.5,104,2023-10-25T04:20:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,jusuf nurkic,True,9.5,-130,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,jusuf nurkic,False,12.5,-265,2023-10-25T04:40:06,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_rebounds_over_under,jusuf nurkic,True,16.5,-105,2023-10-25T03:36:45,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,jusuf nurkic,False,10.5,102,2023-10-24T18:05:10,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,jusuf nurkic,False,9.5,105,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betmgm,player_assists_over_under,jusuf nurkic,True,3.5,125,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betmgm,player_assists_over_under,jusuf nurkic,False,2.5,120,2023-10-25T02:15:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betmgm,player_assists_over_under,jusuf nurkic,False,3.5,-165,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_assists_over_under,jusuf nurkic,True,1.5,-425,2023-10-25T02:15:06,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_assists_over_under,jusuf nurkic,True,2.5,-170,2023-10-25T02:55:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_assists_over_under,jusuf nurkic,True,3.5,145,2023-10-25T03:36:45,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_assists_over_under,jusuf nurkic,False,1.5,260,2023-10-25T02:15:06,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_assists_over_under,jusuf nurkic,False,2.5,120,2023-10-25T02:55:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_assists_over_under,jusuf nurkic,False,3.5,-215,2023-10-25T03:36:45,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betrivers,player_assists_over_under,jusuf nurkic,True,2.5,-167,2023-10-25T01:55:36,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betrivers,player_assists_over_under,jusuf nurkic,True,3.5,160,2023-10-25T01:55:36,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betrivers,player_assists_over_under,jusuf nurkic,True,4.5,175,2023-10-24T18:05:14,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_blocks_over_under,jusuf nurkic,True,0.5,-120,2023-10-25T02:15:25,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,jusuf nurkic,False,11.5,-113,2023-10-25T02:15:31,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_blocks_over_under,jusuf nurkic,False,0.5,-105,2023-10-25T02:15:25,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betmgm,player_blocks_over_under,jusuf nurkic,False,0.5,-110,2023-10-25T02:15:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_blocks_over_under,jusuf nurkic,True,0.5,-125,2023-10-25T02:15:06,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_blocks_over_under,jusuf nurkic,True,1.5,235,2023-10-25T03:45:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_blocks_over_under,jusuf nurkic,False,0.5,-105,2023-10-25T02:15:06,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_blocks_over_under,jusuf nurkic,False,1.5,-375,2023-10-25T03:45:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betrivers,player_blocks_over_under,jusuf nurkic,True,0.5,-120,2023-10-25T01:55:36,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,jusuf nurkic,True,9.5,-130,2023-10-24T18:05:10,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,jusuf nurkic,True,10.5,-130,2023-10-24T18:05:10,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,jusuf nurkic,True,11.5,-113,2023-10-25T02:15:31,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,jusuf nurkic,True,12.5,200,2023-10-25T04:40:06,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,jusuf nurkic,True,13.5,-132,2023-10-25T04:20:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,jusuf nurkic,True,14.5,-162,2023-10-25T04:16:17,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,jusuf nurkic,True,15.5,102,2023-10-25T04:00:58,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,fanduel,player_points_over_under,jusuf nurkic,False,9.5,102,2023-10-24T18:05:10,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betmgm,player_blocks_over_under,jusuf nurkic,True,0.5,-120,2023-10-25T02:15:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,jusuf nurkic,False,11.5,-120,2023-10-25T02:15:25,Golden State Warriors,Phoenix Suns
+2023-10-24,9df5a18ec404f6abe1632c9244f4a5d4,fanduel,player_points_over_under,jusuf nurkic,False,9.5,102,2023-10-24T18:00:11,Brooklyn Nets,Cleveland Cavaliers
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,jusuf nurkic,False,13.5,135,2023-10-25T04:25:06,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betrivers,player_points_over_under,jusuf nurkic,True,15.5,-114,2023-10-25T04:16:26,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betrivers,player_points_over_under,jusuf nurkic,True,16.5,-109,2023-10-25T03:55:06,Golden State Warriors,Phoenix Suns
+2023-10-24,9df5a18ec404f6abe1632c9244f4a5d4,fanduel,player_points_over_under,jusuf nurkic,True,9.5,-130,2023-10-24T18:00:11,Brooklyn Nets,Cleveland Cavaliers
+2023-10-24,9df5a18ec404f6abe1632c9244f4a5d4,fanduel,player_points_over_under,jusuf nurkic,True,10.5,-130,2023-10-24T18:00:11,Brooklyn Nets,Cleveland Cavaliers
+2023-10-24,9df5a18ec404f6abe1632c9244f4a5d4,fanduel,player_points_over_under,jusuf nurkic,True,11.5,102,2023-10-24T18:00:11,Brooklyn Nets,Cleveland Cavaliers
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betmgm,player_assists_over_under,jusuf nurkic,True,2.5,-160,2023-10-25T02:15:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9df5a18ec404f6abe1632c9244f4a5d4,fanduel,player_points_over_under,jusuf nurkic,False,10.5,102,2023-10-24T18:00:11,Brooklyn Nets,Cleveland Cavaliers
+2023-10-24,9df5a18ec404f6abe1632c9244f4a5d4,fanduel,player_points_over_under,jusuf nurkic,False,11.5,-130,2023-10-24T18:00:11,Brooklyn Nets,Cleveland Cavaliers
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,pinnacle,player_rebounds_over_under,jusuf nurkic,True,8.5,-141,2023-10-24T18:00:14,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,pinnacle,player_rebounds_over_under,jusuf nurkic,True,9.5,-104,2023-10-25T02:10:06,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,pinnacle,player_rebounds_over_under,jusuf nurkic,False,8.5,106,2023-10-24T18:00:14,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,pinnacle,player_rebounds_over_under,jusuf nurkic,False,9.5,-128,2023-10-25T02:10:06,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_rebounds_over_under,jusuf nurkic,True,8.5,-135,2023-10-24T19:15:38,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_rebounds_over_under,jusuf nurkic,True,9.5,105,2023-10-25T02:15:25,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_rebounds_over_under,jusuf nurkic,False,8.5,105,2023-10-24T19:15:38,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_rebounds_over_under,jusuf nurkic,False,9.5,-135,2023-10-25T02:15:25,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betmgm,player_rebounds_over_under,jusuf nurkic,True,8.5,-140,2023-10-24T19:16:36,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betmgm,player_rebounds_over_under,jusuf nurkic,True,9.5,105,2023-10-25T02:15:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betmgm,player_rebounds_over_under,jusuf nurkic,False,8.5,105,2023-10-24T19:16:36,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betmgm,player_rebounds_over_under,jusuf nurkic,False,9.5,-140,2023-10-25T02:15:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_rebounds_over_under,jusuf nurkic,True,7.5,-250,2023-10-25T02:05:12,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_rebounds_over_under,jusuf nurkic,True,8.5,-150,2023-10-25T02:15:06,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_rebounds_over_under,jusuf nurkic,True,9.5,-125,2023-10-25T02:20:11,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_rebounds_over_under,jusuf nurkic,True,10.5,-130,2023-10-25T02:25:14,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_rebounds_over_under,jusuf nurkic,True,14.5,-105,2023-10-25T03:05:24,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_rebounds_over_under,jusuf nurkic,True,15.5,-125,2023-10-25T04:00:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_rebounds_over_under,jusuf nurkic,False,14.5,-135,2023-10-25T03:05:24,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_rebounds_over_under,jusuf nurkic,False,7.5,175,2023-10-25T02:05:12,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_rebounds_over_under,jusuf nurkic,False,8.5,115,2023-10-25T02:15:06,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betrivers,player_points_over_under,jusuf nurkic,True,14.5,-107,2023-10-25T03:45:09,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betrivers,player_points_over_under,jusuf nurkic,True,13.5,-109,2023-10-25T02:50:09,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betrivers,player_points_over_under,jusuf nurkic,True,12.5,-109,2023-10-25T03:00:11,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betrivers,player_points_over_under,jusuf nurkic,True,11.5,-129,2023-10-25T01:55:36,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,jusuf nurkic,False,14.5,-135,2023-10-25T04:00:20,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,jusuf nurkic,False,15.5,-135,2023-10-25T04:00:20,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,jusuf nurkic,False,16.5,-105,2023-10-25T03:10:23,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betmgm,player_points_over_under,jusuf nurkic,True,11.5,-110,2023-10-25T02:15:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betmgm,player_points_over_under,jusuf nurkic,True,12.5,100,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betmgm,player_points_over_under,jusuf nurkic,True,9.5,-125,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betmgm,player_points_over_under,jusuf nurkic,False,11.5,-120,2023-10-25T02:15:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betmgm,player_points_over_under,jusuf nurkic,False,12.5,-130,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betmgm,player_points_over_under,jusuf nurkic,False,9.5,-105,2023-10-24T18:05:09,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_points_over_under,jusuf nurkic,True,8.5,-175,2023-10-24T18:40:54,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_points_over_under,jusuf nurkic,True,9.5,-200,2023-10-24T20:50:13,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_points_over_under,jusuf nurkic,True,10.5,-160,2023-10-25T02:15:06,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_points_over_under,jusuf nurkic,True,11.5,-110,2023-10-25T02:15:06,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_points_over_under,jusuf nurkic,True,12.5,125,2023-10-25T02:15:06,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_points_over_under,jusuf nurkic,False,12.5,-450,2023-10-25T04:40:06,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_points_over_under,jusuf nurkic,True,13.5,-115,2023-10-25T02:55:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_points_over_under,jusuf nurkic,True,15.5,100,2023-10-25T04:00:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_points_over_under,jusuf nurkic,True,17.5,-105,2023-10-25T03:10:21,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_points_over_under,jusuf nurkic,False,8.5,135,2023-10-24T18:40:54,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_points_over_under,jusuf nurkic,False,9.5,145,2023-10-24T20:50:13,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_points_over_under,jusuf nurkic,False,10.5,120,2023-10-25T02:15:06,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_points_over_under,jusuf nurkic,False,11.5,-120,2023-10-25T02:15:06,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_points_over_under,jusuf nurkic,False,12.5,-165,2023-10-25T02:15:06,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_points_over_under,jusuf nurkic,False,13.5,-125,2023-10-25T02:55:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_points_over_under,jusuf nurkic,False,14.5,-130,2023-10-25T03:45:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_points_over_under,jusuf nurkic,False,15.5,-140,2023-10-25T04:00:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_points_over_under,jusuf nurkic,False,17.5,-135,2023-10-25T03:10:21,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betrivers,player_points_over_under,jusuf nurkic,True,8.5,-286,2023-10-24T18:05:14,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betrivers,player_points_over_under,jusuf nurkic,True,9.5,-360,2023-10-24T18:20:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betrivers,player_points_over_under,jusuf nurkic,True,10.5,-215,2023-10-24T18:20:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_points_over_under,jusuf nurkic,True,14.5,-110,2023-10-25T03:45:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_assists_over_under,jusuf nurkic,False,3.5,-4000,2023-10-25T04:40:06,Golden State Warriors,Phoenix Suns
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_assists_over_under,jusuf nurkic,False,1.5,260,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_assists_over_under,jusuf nurkic,True,3.5,950,2023-10-25T04:40:06,Golden State Warriors,Phoenix Suns
+2023-10-24,4622c02f9bd1df188631c86e04036049,betrivers,player_points_over_under,jusuf nurkic,True,12.5,165,2023-10-24T14:25:05,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betrivers,player_points_over_under,jusuf nurkic,True,11.5,118,2023-10-24T14:25:05,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betrivers,player_points_over_under,jusuf nurkic,True,10.5,-118,2023-10-24T14:25:05,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betrivers,player_points_over_under,jusuf nurkic,True,9.5,-375,2023-10-24T18:00:16,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betrivers,player_points_over_under,jusuf nurkic,True,8.5,-286,2023-10-24T18:00:16,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,jusuf nurkic,False,13.5,-180,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,jusuf nurkic,False,12.5,-130,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,jusuf nurkic,False,11.5,105,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,jusuf nurkic,False,10.5,115,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,jusuf nurkic,False,9.5,-105,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,jusuf nurkic,False,8.5,135,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,jusuf nurkic,True,13.5,130,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,jusuf nurkic,True,12.5,100,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,jusuf nurkic,True,11.5,-135,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,jusuf nurkic,True,10.5,-150,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,jusuf nurkic,True,9.5,-125,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_points_over_under,jusuf nurkic,True,8.5,-175,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_points_over_under,jusuf nurkic,False,9.5,-105,2023-10-24T18:01:39,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_points_over_under,jusuf nurkic,False,12.5,-130,2023-10-24T18:01:39,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_points_over_under,jusuf nurkic,False,11.5,-120,2023-10-24T17:55:05,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_points_over_under,jusuf nurkic,True,9.5,-125,2023-10-24T18:01:39,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_points_over_under,jusuf nurkic,True,12.5,100,2023-10-24T18:01:39,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_points_over_under,jusuf nurkic,True,11.5,-110,2023-10-24T17:55:05,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,jusuf nurkic,False,12.5,-135,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,jusuf nurkic,False,11.5,-115,2023-10-24T17:55:14,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,jusuf nurkic,False,9.5,105,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,jusuf nurkic,False,14.5,-295,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,jusuf nurkic,False,13.5,-195,2023-10-24T17:55:14,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,jusuf nurkic,False,12.5,-165,2023-10-24T17:55:14,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_rebounds_over_under,jusuf nurkic,True,8.5,-115,2023-10-24T17:55:14,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,jusuf nurkic,False,11.5,-115,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_rebounds_over_under,jusuf nurkic,True,9.5,110,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_rebounds_over_under,jusuf nurkic,False,9.5,-140,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_threes_over_under,jusuf nurkic,False,2.5,-3500,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_threes_over_under,jusuf nurkic,False,1.5,-475,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_threes_over_under,jusuf nurkic,False,0.5,115,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_threes_over_under,jusuf nurkic,True,2.5,750,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_threes_over_under,jusuf nurkic,True,1.5,290,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_threes_over_under,jusuf nurkic,True,0.5,-150,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_threes_over_under,jusuf nurkic,False,0.5,110,2023-10-24T17:55:05,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_threes_over_under,jusuf nurkic,True,0.5,-150,2023-10-24T17:55:05,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_steals_over_under,jusuf nurkic,False,0.5,-105,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_steals_over_under,jusuf nurkic,True,0.5,-125,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_steals_over_under,jusuf nurkic,False,0.5,-105,2023-10-24T17:55:05,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_steals_over_under,jusuf nurkic,True,0.5,-130,2023-10-24T17:55:05,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_steals_over_under,jusuf nurkic,False,0.5,-105,2023-10-24T17:55:14,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_steals_over_under,jusuf nurkic,True,0.5,-125,2023-10-24T17:55:14,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betrivers,player_rebounds_over_under,jusuf nurkic,True,9.5,135,2023-10-24T14:25:05,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betrivers,player_rebounds_over_under,jusuf nurkic,True,8.5,-132,2023-10-24T14:25:05,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betrivers,player_rebounds_over_under,jusuf nurkic,True,7.5,-230,2023-10-24T18:00:16,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_rebounds_over_under,jusuf nurkic,False,10.5,-220,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_rebounds_over_under,jusuf nurkic,False,9.5,-140,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_rebounds_over_under,jusuf nurkic,False,8.5,115,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_rebounds_over_under,jusuf nurkic,False,7.5,145,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_rebounds_over_under,jusuf nurkic,True,10.5,160,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_rebounds_over_under,jusuf nurkic,True,9.5,110,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_rebounds_over_under,jusuf nurkic,True,8.5,-150,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_rebounds_over_under,jusuf nurkic,True,7.5,-190,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_rebounds_over_under,jusuf nurkic,False,9.5,-140,2023-10-24T18:01:39,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_rebounds_over_under,jusuf nurkic,False,8.5,-105,2023-10-24T17:55:05,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_rebounds_over_under,jusuf nurkic,True,9.5,105,2023-10-24T18:01:39,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_rebounds_over_under,jusuf nurkic,True,8.5,-130,2023-10-24T17:55:05,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_rebounds_over_under,jusuf nurkic,False,8.5,-115,2023-10-24T17:55:14,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,jusuf nurkic,False,10.5,125,2023-10-24T17:55:14,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,jusuf nurkic,False,9.5,170,2023-10-24T17:55:14,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,jusuf nurkic,False,8.5,130,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_assists_over_under,jusuf nurkic,True,3.5,130,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_assists_over_under,jusuf nurkic,True,2.5,-220,2023-10-24T17:55:14,Denver Nuggets,Los Angeles Lakers
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_threes_over_under,jusuf nurkic,False,2.5,-3500,2023-10-25T02:15:06,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_threes_over_under,jusuf nurkic,False,1.5,-170,2023-10-25T03:05:24,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_threes_over_under,jusuf nurkic,False,0.5,-140,2023-10-25T02:55:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_threes_over_under,jusuf nurkic,True,2.5,750,2023-10-25T02:15:06,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_threes_over_under,jusuf nurkic,True,1.5,120,2023-10-25T03:05:24,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_threes_over_under,jusuf nurkic,True,0.5,100,2023-10-25T02:55:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betmgm,player_threes_over_under,jusuf nurkic,False,0.5,105,2023-10-25T02:15:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betmgm,player_threes_over_under,jusuf nurkic,True,0.5,-145,2023-10-25T02:15:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_threes_over_under,jusuf nurkic,False,1.5,-3000,2023-10-25T04:35:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_threes_over_under,jusuf nurkic,False,0.5,-140,2023-10-25T02:55:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_threes_over_under,jusuf nurkic,True,1.5,850,2023-10-25T04:35:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_threes_over_under,jusuf nurkic,True,0.5,105,2023-10-25T02:55:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_steals_over_under,jusuf nurkic,False,0.5,-375,2023-10-25T03:45:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_steals_over_under,jusuf nurkic,True,0.5,235,2023-10-25T03:45:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betmgm,player_steals_over_under,jusuf nurkic,False,0.5,-110,2023-10-25T02:15:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betmgm,player_steals_over_under,jusuf nurkic,True,0.5,-120,2023-10-25T02:15:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_steals_over_under,jusuf nurkic,False,0.5,-110,2023-10-25T02:15:25,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_steals_over_under,jusuf nurkic,True,0.5,-120,2023-10-25T02:15:25,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betrivers,player_rebounds_over_under,jusuf nurkic,True,10.5,175,2023-10-25T01:55:36,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betrivers,player_rebounds_over_under,jusuf nurkic,True,9.5,104,2023-10-25T01:55:36,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betrivers,player_rebounds_over_under,jusuf nurkic,True,8.5,-175,2023-10-25T01:55:36,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,betrivers,player_rebounds_over_under,jusuf nurkic,True,7.5,-230,2023-10-24T18:05:14,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_rebounds_over_under,jusuf nurkic,False,16.5,-135,2023-10-25T03:36:45,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_rebounds_over_under,jusuf nurkic,False,15.5,-115,2023-10-25T04:00:04,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,pinnacle,player_assists_over_under,jusuf nurkic,True,2.5,-175,2023-10-25T02:10:06,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,pinnacle,player_assists_over_under,jusuf nurkic,False,2.5,130,2023-10-25T02:10:06,Golden State Warriors,Phoenix Suns
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_assists_over_under,jusuf nurkic,True,2.5,-130,2023-10-25T03:55:08,Golden State Warriors,Phoenix Suns
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_assists_over_under,jusuf nurkic,False,2.5,160,2023-10-24T17:55:14,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_assists_over_under,jusuf nurkic,False,3.5,-165,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_assists_over_under,jusuf nurkic,True,2.5,-210,2023-10-24T17:55:05,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_assists_over_under,jusuf nurkic,True,3.5,125,2023-10-24T18:01:39,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,jusuf nurkic,False,7.5,190,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,jusuf nurkic,True,12.5,105,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,jusuf nurkic,True,11.5,-110,2023-10-24T17:55:14,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,jusuf nurkic,True,9.5,-130,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,jusuf nurkic,True,14.5,220,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,jusuf nurkic,True,13.5,150,2023-10-24T17:55:14,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,jusuf nurkic,True,12.5,125,2023-10-24T17:55:14,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,jusuf nurkic,True,11.5,-105,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,jusuf nurkic,True,10.5,-160,2023-10-24T17:55:14,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,jusuf nurkic,True,9.5,-220,2023-10-24T17:55:14,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,jusuf nurkic,True,8.5,-170,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_points_over_under,jusuf nurkic,True,7.5,-250,2023-10-24T18:01:24,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betrivers,player_blocks_over_under,jusuf nurkic,True,0.5,-120,2023-10-24T14:25:05,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_blocks_over_under,jusuf nurkic,False,0.5,-105,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,draftkings,player_assists_over_under,jusuf nurkic,False,2.5,100,2023-10-25T03:55:08,Golden State Warriors,Phoenix Suns
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_blocks_over_under,jusuf nurkic,True,0.5,-125,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_blocks_over_under,jusuf nurkic,True,0.5,-125,2023-10-24T17:55:05,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_blocks_over_under,jusuf nurkic,False,0.5,-105,2023-10-24T17:55:14,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,draftkings,player_blocks_over_under,jusuf nurkic,True,0.5,-120,2023-10-24T17:55:14,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betrivers,player_assists_over_under,jusuf nurkic,True,4.5,175,2023-10-24T18:00:16,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betrivers,player_assists_over_under,jusuf nurkic,True,3.5,185,2023-10-24T14:25:05,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betrivers,player_assists_over_under,jusuf nurkic,True,2.5,-165,2023-10-24T15:56:53,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_assists_over_under,jusuf nurkic,False,3.5,-275,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_assists_over_under,jusuf nurkic,False,2.5,-110,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_rebounds_over_under,jusuf nurkic,False,9.5,-115,2023-10-25T02:20:11,Golden State Warriors,Phoenix Suns
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_assists_over_under,jusuf nurkic,True,3.5,185,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_assists_over_under,jusuf nurkic,True,2.5,-115,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,barstool,player_assists_over_under,jusuf nurkic,True,1.5,-425,2023-10-24T17:55:11,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_assists_over_under,jusuf nurkic,False,3.5,-165,2023-10-24T18:01:39,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_assists_over_under,jusuf nurkic,False,2.5,155,2023-10-24T17:55:05,Denver Nuggets,Los Angeles Lakers
+2023-10-24,4622c02f9bd1df188631c86e04036049,betmgm,player_blocks_over_under,jusuf nurkic,False,0.5,-105,2023-10-24T17:55:05,Denver Nuggets,Los Angeles Lakers
+2023-10-24,9b3130e607f80aa4912aa184e2f4eab3,barstool,player_rebounds_over_under,jusuf nurkic,False,10.5,-110,2023-10-25T02:25:14,Golden State Warriors,Phoenix Suns
+2023-10-26,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,jusuf nurkic,True,9.5,-130,2023-10-24T17:01:25,Memphis Grizzlies,New Orleans Pelicans
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_threes_over_under,jusuf nurkic,False,1.5,-375,2023-10-26T15:05:32,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,jusuf nurkic,True,10.5,-150,2023-10-26T00:41:24,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,jusuf nurkic,True,9.5,-215,2023-10-26T00:41:24,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,pinnacle,player_points_over_under,jusuf nurkic,False,13.5,-131,2023-10-27T02:00:06,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,pinnacle,player_points_over_under,jusuf nurkic,False,11.5,-124,2023-10-26T02:10:08,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,pinnacle,player_points_over_under,jusuf nurkic,True,13.5,-100,2023-10-27T02:00:06,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,pinnacle,player_points_over_under,jusuf nurkic,True,11.5,-106,2023-10-26T02:10:08,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_points_over_under,jusuf nurkic,False,13.5,-122,2023-10-27T02:20:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_points_over_under,jusuf nurkic,False,12.5,-115,2023-10-27T02:25:06,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_points_over_under,jusuf nurkic,False,11.5,-111,2023-10-27T02:30:50,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_points_over_under,jusuf nurkic,False,10.5,-138,2023-10-27T02:40:52,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,jusuf nurkic,True,11.5,-175,2023-10-27T02:20:20,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_points_over_under,jusuf nurkic,False,9.5,-120,2023-10-27T03:05:06,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_points_over_under,jusuf nurkic,False,6.5,-115,2023-10-27T03:40:35,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_points_over_under,jusuf nurkic,False,5.5,-120,2023-10-27T03:45:35,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_points_over_under,jusuf nurkic,True,13.5,100,2023-10-27T02:20:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_points_over_under,jusuf nurkic,True,12.5,-108,2023-10-27T02:25:06,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_points_over_under,jusuf nurkic,True,11.5,-115,2023-10-27T02:30:50,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_points_over_under,jusuf nurkic,True,10.5,108,2023-10-27T02:40:52,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_points_over_under,jusuf nurkic,True,9.5,-106,2023-10-27T03:05:06,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_points_over_under,jusuf nurkic,True,7.5,106,2023-10-27T03:50:54,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_points_over_under,jusuf nurkic,True,6.5,-111,2023-10-27T03:40:35,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_points_over_under,jusuf nurkic,True,5.5,-106,2023-10-27T03:45:35,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_points_over_under,jusuf nurkic,False,7.5,-136,2023-10-27T03:50:54,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betrivers,player_blocks_over_under,jusuf nurkic,True,0.5,-157,2023-10-27T02:00:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,jusuf nurkic,True,12.5,-140,2023-10-27T02:20:20,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,jusuf nurkic,True,14.5,125,2023-10-27T02:20:20,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,jusuf nurkic,False,10.5,-130,2023-10-27T02:46:37,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,jusuf nurkic,False,9.5,100,2023-10-27T03:05:13,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,jusuf nurkic,False,7.5,100,2023-10-27T03:50:33,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,jusuf nurkic,False,6.5,-160,2023-10-27T04:15:31,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,jusuf nurkic,False,5.5,-115,2023-10-27T04:05:36,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,jusuf nurkic,False,4.5,-3000,2023-10-27T04:45:17,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,jusuf nurkic,False,15.5,-220,2023-10-27T02:20:20,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,jusuf nurkic,False,14.5,-165,2023-10-27T02:20:20,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,jusuf nurkic,False,13.5,-235,2023-10-26T00:41:24,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,jusuf nurkic,False,12.5,110,2023-10-27T02:20:20,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,jusuf nurkic,True,13.5,180,2023-10-26T00:41:24,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,jusuf nurkic,False,11.5,135,2023-10-27T02:20:20,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,jusuf nurkic,False,9.5,165,2023-10-26T00:41:24,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,jusuf nurkic,True,13.5,-105,2023-10-27T02:20:20,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,jusuf nurkic,True,11.5,-130,2023-10-27T02:35:48,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,jusuf nurkic,True,10.5,-105,2023-10-27T02:46:37,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,jusuf nurkic,True,9.5,-130,2023-10-27T03:05:13,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,jusuf nurkic,True,7.5,-135,2023-10-27T03:50:33,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,jusuf nurkic,True,6.5,120,2023-10-27T04:15:31,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,jusuf nurkic,True,5.5,-115,2023-10-27T04:05:36,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,jusuf nurkic,True,4.5,850,2023-10-27T04:45:17,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,jusuf nurkic,True,15.5,170,2023-10-27T02:20:20,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,jusuf nurkic,False,10.5,120,2023-10-26T00:41:24,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_blocks_over_under,jusuf nurkic,False,1.5,-450,2023-10-26T19:10:28,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_blocks_over_under,jusuf nurkic,False,0.5,-400,2023-10-27T03:51:15,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_blocks_over_under,jusuf nurkic,True,1.5,280,2023-10-26T19:10:28,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,pinnacle,player_assists_over_under,jusuf nurkic,True,3.5,115,2023-10-26T20:20:06,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_assists_over_under,jusuf nurkic,False,3.5,-5000,2023-10-27T04:40:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_assists_over_under,jusuf nurkic,False,2.5,100,2023-10-27T02:30:50,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_assists_over_under,jusuf nurkic,True,3.5,1000,2023-10-27T04:40:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_assists_over_under,jusuf nurkic,True,2.5,-132,2023-10-27T02:30:50,Los Angeles Lakers,Phoenix Suns
+2023-10-26,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_points_over_under,jusuf nurkic,False,11.5,-130,2023-10-24T16:20:17,LA Clippers,Portland Trail Blazers
+2023-10-26,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_points_over_under,jusuf nurkic,False,10.5,102,2023-10-24T16:20:17,LA Clippers,Portland Trail Blazers
+2023-10-26,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_points_over_under,jusuf nurkic,False,9.5,102,2023-10-24T16:20:17,LA Clippers,Portland Trail Blazers
+2023-10-26,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_points_over_under,jusuf nurkic,True,11.5,102,2023-10-24T16:20:17,LA Clippers,Portland Trail Blazers
+2023-10-26,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_points_over_under,jusuf nurkic,True,10.5,-130,2023-10-24T16:20:17,LA Clippers,Portland Trail Blazers
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,pinnacle,player_assists_over_under,jusuf nurkic,False,3.5,-155,2023-10-26T20:20:06,Los Angeles Lakers,Phoenix Suns
+2023-10-26,14b35b5784ae5cbadba6824cb6fcee98,fanduel,player_points_over_under,jusuf nurkic,True,9.5,-130,2023-10-24T16:20:17,LA Clippers,Portland Trail Blazers
+2023-10-26,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_points_over_under,jusuf nurkic,False,10.5,102,2023-10-24T17:15:24,San Antonio Spurs,Dallas Mavericks
+2023-10-26,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_points_over_under,jusuf nurkic,False,9.5,102,2023-10-24T17:15:24,San Antonio Spurs,Dallas Mavericks
+2023-10-26,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_points_over_under,jusuf nurkic,True,11.5,102,2023-10-24T17:15:24,San Antonio Spurs,Dallas Mavericks
+2023-10-26,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_points_over_under,jusuf nurkic,True,10.5,-130,2023-10-24T17:15:24,San Antonio Spurs,Dallas Mavericks
+2023-10-26,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_points_over_under,jusuf nurkic,True,9.5,-130,2023-10-24T17:15:24,San Antonio Spurs,Dallas Mavericks
+2023-10-26,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,jusuf nurkic,False,11.5,-130,2023-10-24T17:01:25,Memphis Grizzlies,New Orleans Pelicans
+2023-10-26,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,jusuf nurkic,False,10.5,102,2023-10-24T17:01:25,Memphis Grizzlies,New Orleans Pelicans
+2023-10-26,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,jusuf nurkic,False,9.5,102,2023-10-24T17:01:25,Memphis Grizzlies,New Orleans Pelicans
+2023-10-26,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,jusuf nurkic,True,11.5,102,2023-10-24T17:01:25,Memphis Grizzlies,New Orleans Pelicans
+2023-10-26,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,jusuf nurkic,True,10.5,-130,2023-10-24T17:01:25,Memphis Grizzlies,New Orleans Pelicans
+2023-10-26,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,player_points_over_under,jusuf nurkic,False,11.5,-130,2023-10-24T17:15:24,San Antonio Spurs,Dallas Mavericks
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_assists_over_under,jusuf nurkic,True,2.5,-120,2023-10-27T02:30:59,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_assists_over_under,jusuf nurkic,True,3.5,1100,2023-10-27T04:40:13,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_assists_over_under,jusuf nurkic,True,4.5,105,2023-10-27T02:35:48,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_blocks_over_under,jusuf nurkic,True,0.5,250,2023-10-27T03:51:15,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betmgm,player_blocks_over_under,jusuf nurkic,False,0.5,110,2023-10-27T02:45:43,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betmgm,player_blocks_over_under,jusuf nurkic,True,0.5,-145,2023-10-27T02:45:43,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_blocks_over_under,jusuf nurkic,False,1.5,-130,2023-10-27T02:35:48,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_blocks_over_under,jusuf nurkic,False,0.5,-8000,2023-10-27T04:35:13,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_blocks_over_under,jusuf nurkic,True,1.5,100,2023-10-27T02:35:48,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_blocks_over_under,jusuf nurkic,True,0.5,1100,2023-10-27T04:35:13,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_blocks_over_under,jusuf nurkic,False,1.5,-166,2023-10-27T02:36:01,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_blocks_over_under,jusuf nurkic,False,0.5,-100000,2023-10-27T04:40:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_blocks_over_under,jusuf nurkic,True,1.5,124,2023-10-27T02:36:01,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betrivers,player_assists_over_under,jusuf nurkic,True,3.5,116,2023-10-27T02:00:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betrivers,player_assists_over_under,jusuf nurkic,True,2.5,-165,2023-10-27T02:00:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_assists_over_under,jusuf nurkic,False,4.5,-150,2023-10-27T02:41:27,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_assists_over_under,jusuf nurkic,False,3.5,-165,2023-10-27T03:40:29,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_assists_over_under,jusuf nurkic,False,2.5,-105,2023-10-27T02:30:06,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_assists_over_under,jusuf nurkic,True,4.5,105,2023-10-27T02:41:27,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_assists_over_under,jusuf nurkic,True,3.5,115,2023-10-27T03:40:29,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_assists_over_under,jusuf nurkic,True,2.5,-135,2023-10-27T02:30:06,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betmgm,player_assists_over_under,jusuf nurkic,False,3.5,-150,2023-10-27T02:45:43,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betmgm,player_assists_over_under,jusuf nurkic,True,3.5,115,2023-10-27T02:45:43,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_assists_over_under,jusuf nurkic,False,4.5,-140,2023-10-27T02:35:48,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_assists_over_under,jusuf nurkic,False,3.5,-6000,2023-10-27T04:40:13,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_assists_over_under,jusuf nurkic,False,2.5,100,2023-10-27T02:30:59,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,jusuf nurkic,False,11.5,100,2023-10-27T02:35:48,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_points_over_under,jusuf nurkic,False,13.5,-120,2023-10-27T02:20:20,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_blocks_over_under,jusuf nurkic,True,0.5,1000,2023-10-27T04:35:11,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betmgm,player_points_over_under,jusuf nurkic,False,13.5,-130,2023-10-27T02:45:43,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_steals_over_under,jusuf nurkic,False,1.5,-330,2023-10-27T03:40:35,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_steals_over_under,jusuf nurkic,False,0.5,-122,2023-10-27T02:20:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_steals_over_under,jusuf nurkic,True,3.5,1000,2023-10-27T04:30:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_steals_over_under,jusuf nurkic,True,2.5,1000,2023-10-27T04:20:31,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_steals_over_under,jusuf nurkic,True,1.5,230,2023-10-27T03:40:35,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_steals_over_under,jusuf nurkic,True,0.5,-108,2023-10-27T02:20:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betrivers,player_rebounds_over_under,jusuf nurkic,True,10.5,170,2023-10-27T02:00:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betrivers,player_rebounds_over_under,jusuf nurkic,True,9.5,102,2023-10-27T02:00:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betrivers,player_rebounds_over_under,jusuf nurkic,True,8.5,-167,2023-10-27T02:00:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betrivers,player_rebounds_over_under,jusuf nurkic,True,7.5,-235,2023-10-26T20:35:32,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_steals_over_under,jusuf nurkic,False,2.5,-10000,2023-10-27T04:25:23,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_rebounds_over_under,jusuf nurkic,False,13.5,100,2023-10-27T02:41:27,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_rebounds_over_under,jusuf nurkic,False,11.5,-165,2023-10-27T03:45:06,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_rebounds_over_under,jusuf nurkic,False,10.5,-125,2023-10-27T04:05:57,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_rebounds_over_under,jusuf nurkic,False,9.5,110,2023-10-27T04:10:12,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_rebounds_over_under,jusuf nurkic,False,8.5,110,2023-10-26T22:50:12,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_rebounds_over_under,jusuf nurkic,False,7.5,-120,2023-10-27T02:30:06,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_rebounds_over_under,jusuf nurkic,True,13.5,-140,2023-10-27T02:41:27,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_rebounds_over_under,jusuf nurkic,True,12.5,-110,2023-10-27T03:05:19,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_rebounds_over_under,jusuf nurkic,True,11.5,115,2023-10-27T03:45:06,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_rebounds_over_under,jusuf nurkic,True,10.5,-115,2023-10-27T04:05:57,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_rebounds_over_under,jusuf nurkic,True,9.5,-160,2023-10-27T04:10:12,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_rebounds_over_under,jusuf nurkic,False,12.5,-130,2023-10-27T03:05:19,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_rebounds_over_under,jusuf nurkic,True,8.5,-145,2023-10-26T22:50:12,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_steals_over_under,jusuf nurkic,False,3.5,-100000,2023-10-27T04:40:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_steals_over_under,jusuf nurkic,True,1.5,210,2023-10-27T03:40:56,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betmgm,player_points_over_under,jusuf nurkic,True,13.5,-105,2023-10-27T02:45:43,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_threes_over_under,jusuf nurkic,False,0.5,-160,2023-10-27T03:05:19,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_threes_over_under,jusuf nurkic,True,1.5,240,2023-10-26T15:05:32,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_threes_over_under,jusuf nurkic,True,0.5,110,2023-10-27T03:05:19,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betmgm,player_threes_over_under,jusuf nurkic,False,0.5,130,2023-10-27T02:45:43,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betmgm,player_threes_over_under,jusuf nurkic,True,0.5,-165,2023-10-27T02:45:43,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_threes_over_under,jusuf nurkic,False,0.5,-2500,2023-10-27T04:35:13,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_threes_over_under,jusuf nurkic,True,0.5,850,2023-10-27T04:35:13,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betrivers,player_steals_over_under,jusuf nurkic,True,0.5,-129,2023-10-27T02:00:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_steals_over_under,jusuf nurkic,False,2.5,-425,2023-10-27T03:51:15,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_steals_over_under,jusuf nurkic,True,0.5,-110,2023-10-27T02:20:20,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_steals_over_under,jusuf nurkic,False,1.5,-280,2023-10-27T03:40:29,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_steals_over_under,jusuf nurkic,True,2.5,260,2023-10-27T03:51:15,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_steals_over_under,jusuf nurkic,True,1.5,185,2023-10-27T03:40:29,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_steals_over_under,jusuf nurkic,True,0.5,-125,2023-10-27T02:25:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betmgm,player_steals_over_under,jusuf nurkic,False,0.5,-105,2023-10-27T02:45:43,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betmgm,player_steals_over_under,jusuf nurkic,True,0.5,-130,2023-10-27T02:45:43,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_steals_over_under,jusuf nurkic,False,3.5,-10000,2023-10-27T04:35:13,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_steals_over_under,jusuf nurkic,False,2.5,-800,2023-10-27T04:15:31,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_steals_over_under,jusuf nurkic,False,1.5,-290,2023-10-27T03:40:56,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_steals_over_under,jusuf nurkic,False,0.5,-120,2023-10-27T02:20:20,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_steals_over_under,jusuf nurkic,True,2.5,475,2023-10-27T04:15:31,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_steals_over_under,jusuf nurkic,False,0.5,-105,2023-10-27T02:25:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_rebounds_over_under,jusuf nurkic,True,7.5,-120,2023-10-27T02:30:06,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_steals_over_under,jusuf nurkic,True,3.5,1200,2023-10-27T04:35:13,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betmgm,player_rebounds_over_under,jusuf nurkic,True,8.5,-150,2023-10-27T02:45:43,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_rebounds_over_under,jusuf nurkic,True,8.5,-134,2023-10-26T21:15:10,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_rebounds_over_under,jusuf nurkic,True,7.5,-114,2023-10-27T02:30:50,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betrivers,player_points_over_under,jusuf nurkic,True,16.5,215,2023-10-27T02:45:31,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betrivers,player_points_over_under,jusuf nurkic,True,15.5,155,2023-10-27T02:45:31,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betrivers,player_points_over_under,jusuf nurkic,True,14.5,120,2023-10-27T02:45:31,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betrivers,player_points_over_under,jusuf nurkic,True,13.5,-114,2023-10-27T02:45:31,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betrivers,player_points_over_under,jusuf nurkic,True,12.5,-155,2023-10-27T02:45:31,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betrivers,player_points_over_under,jusuf nurkic,True,11.5,-245,2023-10-27T02:45:31,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betrivers,player_points_over_under,jusuf nurkic,True,10.5,-360,2023-10-27T02:45:31,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betrivers,player_points_over_under,jusuf nurkic,True,9.5,-118,2023-10-27T03:05:28,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betrivers,player_points_over_under,jusuf nurkic,True,6.5,-118,2023-10-27T03:45:21,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_points_over_under,jusuf nurkic,False,12.5,105,2023-10-26T19:35:17,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_points_over_under,jusuf nurkic,False,11.5,-110,2023-10-27T02:41:27,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_points_over_under,jusuf nurkic,False,9.5,-105,2023-10-27T03:05:19,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_points_over_under,jusuf nurkic,False,7.5,100,2023-10-27T03:51:15,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_points_over_under,jusuf nurkic,False,6.5,-165,2023-10-27T04:05:57,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_points_over_under,jusuf nurkic,True,13.5,-105,2023-10-27T02:25:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_points_over_under,jusuf nurkic,True,12.5,-135,2023-10-26T19:35:17,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_points_over_under,jusuf nurkic,True,11.5,-130,2023-10-27T02:41:27,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_points_over_under,jusuf nurkic,True,9.5,-135,2023-10-27T03:05:19,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_points_over_under,jusuf nurkic,True,7.5,-140,2023-10-27T03:51:15,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,betmgm,player_rebounds_over_under,jusuf nurkic,False,8.5,110,2023-10-27T02:45:43,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_points_over_under,jusuf nurkic,True,6.5,115,2023-10-27T04:05:57,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_rebounds_over_under,jusuf nurkic,True,9.5,880,2023-10-27T04:40:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_rebounds_over_under,jusuf nurkic,True,10.5,-146,2023-10-27T04:15:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,player_points_over_under,jusuf nurkic,False,13.5,-125,2023-10-27T02:25:05,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_rebounds_over_under,jusuf nurkic,True,12.5,-104,2023-10-27T03:05:06,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_rebounds_over_under,jusuf nurkic,False,12.5,-125,2023-10-27T03:05:13,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_rebounds_over_under,jusuf nurkic,True,11.5,124,2023-10-27T03:45:35,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_rebounds_over_under,jusuf nurkic,False,11.5,-160,2023-10-27T03:45:17,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_rebounds_over_under,jusuf nurkic,False,10.5,110,2023-10-27T04:15:31,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_rebounds_over_under,jusuf nurkic,False,9.5,-2500,2023-10-27T04:40:13,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_rebounds_over_under,jusuf nurkic,False,8.5,120,2023-10-27T02:20:20,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_rebounds_over_under,jusuf nurkic,False,7.5,-115,2023-10-27T02:30:59,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_rebounds_over_under,jusuf nurkic,False,13.5,100,2023-10-27T02:35:48,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_rebounds_over_under,jusuf nurkic,True,12.5,-105,2023-10-27T03:05:13,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_rebounds_over_under,jusuf nurkic,True,11.5,120,2023-10-27T03:45:17,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_rebounds_over_under,jusuf nurkic,True,10.5,-145,2023-10-27T04:15:31,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_rebounds_over_under,jusuf nurkic,True,13.5,-130,2023-10-27T02:35:48,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_rebounds_over_under,jusuf nurkic,False,10.5,110,2023-10-27T04:15:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_rebounds_over_under,jusuf nurkic,False,8.5,110,2023-10-26T21:15:10,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_rebounds_over_under,jusuf nurkic,True,9.5,850,2023-10-27T04:40:13,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_rebounds_over_under,jusuf nurkic,False,9.5,-3000,2023-10-27T04:40:04,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_rebounds_over_under,jusuf nurkic,False,11.5,-166,2023-10-27T03:45:35,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_rebounds_over_under,jusuf nurkic,False,12.5,-128,2023-10-27T03:05:06,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,player_rebounds_over_under,jusuf nurkic,False,7.5,-114,2023-10-27T02:30:50,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,pinnacle,player_rebounds_over_under,jusuf nurkic,False,8.5,123,2023-10-27T02:00:06,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_rebounds_over_under,jusuf nurkic,True,7.5,-115,2023-10-27T02:30:59,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,player_rebounds_over_under,jusuf nurkic,True,8.5,-155,2023-10-27T02:20:20,Los Angeles Lakers,Phoenix Suns
+2023-10-26,8a673a488573ce37a3bdd7f0c1fd5d3a,pinnacle,player_rebounds_over_under,jusuf nurkic,True,8.5,-164,2023-10-27T02:00:06,Los Angeles Lakers,Phoenix Suns
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_rebounds_over_under,jusuf nurkic,False,7.5,-100000,2023-10-29T04:25:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_rebounds_over_under,jusuf nurkic,True,8.5,142,2023-10-29T03:55:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_rebounds_over_under,jusuf nurkic,True,9.5,102,2023-10-29T02:55:50,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_rebounds_over_under,jusuf nurkic,True,7.5,1000,2023-10-29T04:20:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_rebounds_over_under,jusuf nurkic,False,6.5,112,2023-10-29T03:45:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_rebounds_over_under,jusuf nurkic,True,8.5,120,2023-10-29T03:55:11,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,pinnacle,player_rebounds_over_under,jusuf nurkic,False,9.5,-128,2023-10-28T18:05:09,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_rebounds_over_under,jusuf nurkic,False,9.5,-136,2023-10-29T02:55:50,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,pinnacle,player_rebounds_over_under,jusuf nurkic,True,9.5,-103,2023-10-28T18:05:09,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_rebounds_over_under,jusuf nurkic,True,6.5,-145,2023-10-29T03:40:26,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_rebounds_over_under,jusuf nurkic,True,9.5,105,2023-10-29T02:55:10,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_rebounds_over_under,jusuf nurkic,True,7.5,600,2023-10-29T04:15:10,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_rebounds_over_under,jusuf nurkic,False,8.5,-192,2023-10-29T03:55:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_rebounds_over_under,jusuf nurkic,True,6.5,-148,2023-10-29T03:45:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_points_over_under,jusuf nurkic,True,9.5,-105,2023-10-29T03:31:05,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_points_over_under,jusuf nurkic,False,13.5,-120,2023-10-29T02:15:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_points_over_under,jusuf nurkic,False,11.5,-125,2023-10-29T02:55:05,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_points_over_under,jusuf nurkic,False,10.5,-125,2023-10-29T03:00:37,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_points_over_under,jusuf nurkic,False,9.5,-135,2023-10-29T03:31:05,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_points_over_under,jusuf nurkic,False,8.5,-125,2023-10-29T03:41:00,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_points_over_under,jusuf nurkic,True,13.5,-110,2023-10-29T02:15:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_points_over_under,jusuf nurkic,True,11.5,-115,2023-10-29T02:55:05,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_points_over_under,jusuf nurkic,True,10.5,-115,2023-10-29T03:00:37,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_points_over_under,jusuf nurkic,True,8.5,-115,2023-10-29T03:41:00,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,jusuf nurkic,False,13.5,-120,2023-10-29T02:20:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,jusuf nurkic,False,10.5,-1400,2023-10-29T04:15:10,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_rebounds_over_under,jusuf nurkic,False,6.5,110,2023-10-29T03:40:26,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,jusuf nurkic,False,11.5,110,2023-10-29T03:55:11,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,betrivers,player_points_over_under,jusuf nurkic,True,13.5,-104,2023-10-29T02:15:24,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_rebounds_over_under,jusuf nurkic,False,7.5,-1400,2023-10-29T04:15:10,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_steals_over_under,jusuf nurkic,True,1.5,165,2023-10-29T03:41:00,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_rebounds_over_under,jusuf nurkic,False,9.5,-140,2023-10-29T02:55:10,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_threes_over_under,jusuf nurkic,True,1.5,320,2023-10-28T15:11:08,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,jusuf nurkic,False,9.5,-135,2023-10-29T03:30:09,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_threes_over_under,jusuf nurkic,True,0.5,120,2023-10-29T02:40:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_threes_over_under,jusuf nurkic,False,0.5,-5000,2023-10-29T04:05:26,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_threes_over_under,jusuf nurkic,True,0.5,1000,2023-10-29T04:05:26,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_steals_over_under,jusuf nurkic,False,1.5,-250,2023-10-29T03:41:00,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_steals_over_under,jusuf nurkic,False,0.5,120,2023-10-29T02:26:40,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_steals_over_under,jusuf nurkic,True,0.5,-170,2023-10-29T02:26:40,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_steals_over_under,jusuf nurkic,False,2.5,-20000,2023-10-29T04:10:54,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_steals_over_under,jusuf nurkic,False,1.5,-330,2023-10-29T03:35:26,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_steals_over_under,jusuf nurkic,False,0.5,125,2023-10-29T02:25:53,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_steals_over_under,jusuf nurkic,True,2.5,1200,2023-10-29T04:10:54,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_steals_over_under,jusuf nurkic,True,1.5,230,2023-10-29T03:35:26,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_steals_over_under,jusuf nurkic,True,0.5,-170,2023-10-29T02:25:53,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_steals_over_under,jusuf nurkic,False,2.5,-100000,2023-10-29T04:20:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_steals_over_under,jusuf nurkic,False,1.5,-350,2023-10-29T03:35:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_steals_over_under,jusuf nurkic,False,0.5,130,2023-10-29T02:25:31,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_steals_over_under,jusuf nurkic,True,2.5,1000,2023-10-29T04:11:10,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_steals_over_under,jusuf nurkic,True,1.5,240,2023-10-29T03:35:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_steals_over_under,jusuf nurkic,True,0.5,-174,2023-10-29T02:25:31,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,betrivers,player_rebounds_over_under,jusuf nurkic,True,9.5,-104,2023-10-29T02:15:24,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_rebounds_over_under,jusuf nurkic,False,10.5,-125,2023-10-29T03:41:00,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_rebounds_over_under,jusuf nurkic,False,9.5,-140,2023-10-29T02:55:05,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_rebounds_over_under,jusuf nurkic,False,8.5,-140,2023-10-29T03:10:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_rebounds_over_under,jusuf nurkic,False,7.5,105,2023-10-29T03:31:05,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_rebounds_over_under,jusuf nurkic,True,10.5,-115,2023-10-29T03:41:00,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_rebounds_over_under,jusuf nurkic,True,9.5,100,2023-10-29T02:55:05,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_rebounds_over_under,jusuf nurkic,True,8.5,100,2023-10-29T03:10:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_rebounds_over_under,jusuf nurkic,True,7.5,-150,2023-10-29T03:31:05,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_rebounds_over_under,jusuf nurkic,False,8.5,-160,2023-10-29T03:55:11,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,jusuf nurkic,False,8.5,-155,2023-10-29T03:50:50,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_assists_over_under,jusuf nurkic,True,6.5,900,2023-10-29T04:15:10,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,jusuf nurkic,False,6.5,-130,2023-10-29T03:40:26,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_blocks_over_under,jusuf nurkic,False,1.5,-10000,2023-10-29T04:10:54,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_blocks_over_under,jusuf nurkic,False,0.5,-240,2023-10-29T03:35:26,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_blocks_over_under,jusuf nurkic,True,1.5,1200,2023-10-29T04:10:54,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_blocks_over_under,jusuf nurkic,True,0.5,175,2023-10-29T03:35:26,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_blocks_over_under,jusuf nurkic,False,1.5,-100000,2023-10-29T04:20:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_blocks_over_under,jusuf nurkic,False,0.5,-260,2023-10-29T03:35:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_blocks_over_under,jusuf nurkic,True,1.5,1000,2023-10-29T04:11:10,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_blocks_over_under,jusuf nurkic,True,0.5,188,2023-10-29T03:35:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,betrivers,player_assists_over_under,jusuf nurkic,True,3.5,-117,2023-10-29T02:15:24,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_assists_over_under,jusuf nurkic,False,4.5,-170,2023-10-29T03:41:00,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_assists_over_under,jusuf nurkic,False,3.5,135,2023-10-29T02:55:05,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_assists_over_under,jusuf nurkic,True,4.5,120,2023-10-29T03:41:00,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_assists_over_under,jusuf nurkic,True,3.5,-190,2023-10-29T02:55:05,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_assists_over_under,jusuf nurkic,False,6.5,-3000,2023-10-29T04:15:10,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_assists_over_under,jusuf nurkic,False,4.5,-110,2023-10-29T03:45:31,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_assists_over_under,jusuf nurkic,False,3.5,150,2023-10-29T03:35:26,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_assists_over_under,jusuf nurkic,True,4.5,-120,2023-10-29T03:45:31,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_assists_over_under,jusuf nurkic,True,3.5,-200,2023-10-29T03:35:26,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,pinnacle,player_assists_over_under,jusuf nurkic,False,3.5,-127,2023-10-28T18:30:30,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,pinnacle,player_assists_over_under,jusuf nurkic,True,3.5,-103,2023-10-28T18:30:30,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_assists_over_under,jusuf nurkic,False,6.5,-100000,2023-10-29T04:25:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_assists_over_under,jusuf nurkic,False,5.5,-130,2023-10-29T03:50:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_assists_over_under,jusuf nurkic,False,4.5,-110,2023-10-29T03:45:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_assists_over_under,jusuf nurkic,False,3.5,154,2023-10-29T03:35:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_assists_over_under,jusuf nurkic,True,6.5,1000,2023-10-29T04:20:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_assists_over_under,jusuf nurkic,True,5.5,-102,2023-10-29T03:50:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_assists_over_under,jusuf nurkic,True,4.5,-120,2023-10-29T03:45:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_assists_over_under,jusuf nurkic,True,3.5,-210,2023-10-29T03:35:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_threes_over_under,jusuf nurkic,False,0.5,-170,2023-10-29T02:40:03,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_blocks_over_under,jusuf nurkic,True,0.5,150,2023-10-29T03:31:05,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,jusuf nurkic,False,7.5,-105,2023-10-29T03:35:26,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_blocks_over_under,jusuf nurkic,True,1.5,200,2023-10-28T19:25:05,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_blocks_over_under,jusuf nurkic,False,1.5,-290,2023-10-28T19:25:05,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,jusuf nurkic,False,15.5,-215,2023-10-29T02:15:05,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,jusuf nurkic,False,14.5,-155,2023-10-29T02:15:05,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,jusuf nurkic,False,12.5,115,2023-10-29T02:15:05,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,jusuf nurkic,False,11.5,160,2023-10-29T02:15:05,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,jusuf nurkic,True,13.5,-110,2023-10-29T02:20:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,jusuf nurkic,True,11.5,-145,2023-10-29T03:55:11,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,jusuf nurkic,True,10.5,650,2023-10-29T04:15:10,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,jusuf nurkic,True,9.5,100,2023-10-29T03:30:09,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,jusuf nurkic,True,8.5,115,2023-10-29T03:50:50,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,jusuf nurkic,True,7.5,-125,2023-10-29T03:35:26,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,jusuf nurkic,True,6.5,100,2023-10-29T03:40:26,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,jusuf nurkic,True,15.5,165,2023-10-29T02:15:05,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,jusuf nurkic,True,14.5,125,2023-10-29T02:15:05,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,jusuf nurkic,True,12.5,-145,2023-10-29T02:15:05,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,draftkings,player_points_over_under,jusuf nurkic,True,11.5,-205,2023-10-29T02:15:05,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,pinnacle,player_points_over_under,jusuf nurkic,False,13.5,-119,2023-10-28T18:30:30,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,pinnacle,player_points_over_under,jusuf nurkic,True,13.5,-112,2023-10-28T18:30:30,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_points_over_under,jusuf nurkic,False,13.5,-115,2023-10-29T02:15:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_points_over_under,jusuf nurkic,False,12.5,-102,2023-10-29T02:15:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_points_over_under,jusuf nurkic,False,11.5,-113,2023-10-29T02:20:26,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_points_over_under,jusuf nurkic,False,10.5,-128,2023-10-29T02:30:07,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_points_over_under,jusuf nurkic,False,9.5,-118,2023-10-29T02:45:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_points_over_under,jusuf nurkic,False,8.5,-125,2023-10-29T02:50:49,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_points_over_under,jusuf nurkic,True,13.5,-105,2023-10-29T02:15:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_points_over_under,jusuf nurkic,True,12.5,-125,2023-10-29T02:15:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_points_over_under,jusuf nurkic,True,11.5,-113,2023-10-29T02:20:26,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_points_over_under,jusuf nurkic,True,10.5,100,2023-10-29T02:30:07,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_points_over_under,jusuf nurkic,True,9.5,-108,2023-10-29T02:45:04,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,fanduel,player_points_over_under,jusuf nurkic,True,8.5,-102,2023-10-29T02:50:49,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_blocks_over_under,jusuf nurkic,False,0.5,-225,2023-10-29T03:31:05,Phoenix Suns,Utah Jazz
+2023-10-28,0da0b1b53777903462a23e598a1bf236,barstool,player_threes_over_under,jusuf nurkic,False,1.5,-550,2023-10-28T15:11:08,Phoenix Suns,Utah Jazz

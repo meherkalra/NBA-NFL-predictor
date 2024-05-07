@@ -1,0 +1,255 @@
+date,game_id,book_key,market,player,over_under,value,odds,timestamp,home_team,away_team
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_rebounds_over_under,larry nance jr.,True,2.5,-108,2023-03-24T02:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_assists_over_under,larry nance jr.,False,0.5,-670,2023-03-24T02:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_assists_over_under,larry nance jr.,False,1.5,-182,2023-03-24T00:30:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_threes_over_under,larry nance jr.,False,0.5,-50000,2023-03-24T02:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_threes_over_under,larry nance jr.,True,0.5,1000,2023-03-24T01:45:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_steals_over_under,larry nance jr.,False,1.5,-3500,2023-03-24T02:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_steals_over_under,larry nance jr.,False,0.5,-245,2023-03-24T00:45:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_steals_over_under,larry nance jr.,True,1.5,920,2023-03-24T02:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_steals_over_under,larry nance jr.,True,0.5,178,2023-03-24T00:45:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_rebounds_over_under,larry nance jr.,False,5.5,-104,2023-03-24T00:30:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_rebounds_over_under,larry nance jr.,False,4.5,124,2023-03-24T01:15:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_rebounds_over_under,larry nance jr.,False,2.5,-122,2023-03-24T02:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_rebounds_over_under,larry nance jr.,True,5.5,-128,2023-03-24T00:30:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_rebounds_over_under,larry nance jr.,True,4.5,-166,2023-03-24T01:15:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_blocks_over_under,larry nance jr.,True,0.5,920,2023-03-24T02:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,larry nance jr.,False,4.5,-128,2023-03-24T00:30:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,larry nance jr.,False,3.5,-125,2023-03-24T00:45:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,larry nance jr.,False,2.5,106,2023-03-24T01:15:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,larry nance jr.,False,0.5,-132,2023-03-24T02:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,larry nance jr.,True,4.5,-104,2023-03-24T00:30:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,larry nance jr.,True,3.5,-106,2023-03-24T00:45:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,larry nance jr.,True,2.5,-140,2023-03-24T01:15:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_assists_over_under,larry nance jr.,True,1.5,136,2023-03-24T00:30:01,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_assists_over_under,larry nance jr.,True,0.5,400,2023-03-24T02:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_blocks_over_under,larry nance jr.,False,0.5,-3500,2023-03-24T02:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-03-23,f9b71bab32ff82972352f88176eb8194,fanduel,player_points_over_under,larry nance jr.,True,0.5,100,2023-03-24T02:00:02,New Orleans Pelicans,Charlotte Hornets
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_points_over_under,larry nance jr.,False,5.5,-138,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_assists_over_under,larry nance jr.,False,0.5,-600,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_assists_over_under,larry nance jr.,False,1.5,-240,2023-04-05T00:42:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_assists_over_under,larry nance jr.,True,0.5,425,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_assists_over_under,larry nance jr.,True,1.5,155,2023-04-05T00:36:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_assists_over_under,larry nance jr.,False,0.5,-750,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_assists_over_under,larry nance jr.,False,1.5,-210,2023-04-05T00:36:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_blocks_over_under,larry nance jr.,True,1.5,240,2023-04-05T00:54:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_blocks_over_under,larry nance jr.,True,2.5,1000,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_blocks_over_under,larry nance jr.,False,1.5,-350,2023-04-05T00:54:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_blocks_over_under,larry nance jr.,False,2.5,-4000,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_blocks_over_under,larry nance jr.,True,0.5,160,2023-04-04T23:14:32,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_blocks_over_under,larry nance jr.,True,2.5,1100,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_blocks_over_under,larry nance jr.,True,0.5,160,2023-04-04T19:51:15,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_blocks_over_under,larry nance jr.,False,0.5,-195,2023-04-04T23:14:32,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_blocks_over_under,larry nance jr.,False,1.5,-295,2023-04-05T00:36:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_blocks_over_under,larry nance jr.,False,2.5,-8000,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_blocks_over_under,larry nance jr.,False,0.5,-195,2023-04-04T19:51:15,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_points_over_under,larry nance jr.,True,3.5,-104,2023-04-05T00:48:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_points_over_under,larry nance jr.,True,5.5,104,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_points_over_under,larry nance jr.,True,6.5,178,2023-04-05T01:45:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_points_over_under,larry nance jr.,False,3.5,-125,2023-04-05T00:42:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_blocks_over_under,larry nance jr.,True,1.5,210,2023-04-05T00:36:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_points_over_under,larry nance jr.,False,6.5,-245,2023-04-05T01:45:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_rebounds_over_under,larry nance jr.,True,4.5,104,2023-04-05T01:30:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_points_over_under,larry nance jr.,True,3.5,-120,2023-04-05T00:36:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_steals_over_under,larry nance jr.,False,0.5,-2200,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_steals_over_under,larry nance jr.,True,0.5,800,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_rebounds_over_under,larry nance jr.,False,5.5,-130,2023-04-05T00:30:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_rebounds_over_under,larry nance jr.,False,4.5,-165,2023-04-05T01:30:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_rebounds_over_under,larry nance jr.,False,3.5,-245,2023-04-05T01:45:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_rebounds_over_under,larry nance jr.,False,2.5,-170,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_rebounds_over_under,larry nance jr.,False,4.5,115,2023-04-04T19:51:15,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_rebounds_over_under,larry nance jr.,True,5.5,100,2023-04-05T00:30:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_rebounds_over_under,larry nance jr.,True,4.5,120,2023-04-05T01:30:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_rebounds_over_under,larry nance jr.,True,3.5,180,2023-04-05T01:45:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_rebounds_over_under,larry nance jr.,True,2.5,130,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_rebounds_over_under,larry nance jr.,True,4.5,-145,2023-04-04T19:51:15,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_rebounds_over_under,larry nance jr.,False,5.5,-148,2023-04-05T00:54:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_rebounds_over_under,larry nance jr.,False,4.5,-138,2023-04-05T01:30:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_rebounds_over_under,larry nance jr.,False,3.5,-230,2023-04-05T01:45:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_rebounds_over_under,larry nance jr.,False,2.5,-132,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_rebounds_over_under,larry nance jr.,True,5.5,112,2023-04-05T00:54:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_steals_over_under,larry nance jr.,False,0.5,100,2023-04-04T19:51:15,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_rebounds_over_under,larry nance jr.,True,3.5,168,2023-04-05T01:45:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_rebounds_over_under,larry nance jr.,True,2.5,100,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_points_over_under,larry nance jr.,False,6.5,-175,2023-04-05T01:30:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_points_over_under,larry nance jr.,False,5.5,-175,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_points_over_under,larry nance jr.,False,4.5,-145,2023-04-05T00:30:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_points_over_under,larry nance jr.,False,3.5,-110,2023-04-05T00:36:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_points_over_under,larry nance jr.,True,6.5,130,2023-04-05T01:30:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_points_over_under,larry nance jr.,True,5.5,130,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_points_over_under,larry nance jr.,True,4.5,110,2023-04-05T00:30:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_assists_over_under,larry nance jr.,True,1.5,174,2023-04-05T00:42:01,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_assists_over_under,larry nance jr.,True,0.5,370,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_steals_over_under,larry nance jr.,True,0.5,800,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_threes_over_under,larry nance jr.,True,0.5,380,2023-04-04T23:14:32,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_threes_over_under,larry nance jr.,True,0.5,1000,2023-04-05T01:45:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,fanduel,player_threes_over_under,larry nance jr.,False,0.5,-10000,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_threes_over_under,larry nance jr.,True,0.5,380,2023-04-04T19:51:15,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_threes_over_under,larry nance jr.,False,0.5,-520,2023-04-04T19:51:15,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_threes_over_under,larry nance jr.,False,0.5,-520,2023-04-04T23:14:32,New Orleans Pelicans,Sacramento Kings
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_steals_over_under,larry nance jr.,False,0.5,-2500,2023-04-05T02:00:02,New Orleans Pelicans,Sacramento Kings
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_blocks_over_under,larry nance jr.,True,0.5,120,2023-04-05T20:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_rebounds_over_under,larry nance jr.,True,4.5,-145,2023-04-05T20:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_rebounds_over_under,larry nance jr.,False,4.5,115,2023-04-05T20:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_steals_over_under,larry nance jr.,True,0.5,-135,2023-04-05T20:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_steals_over_under,larry nance jr.,False,0.5,105,2023-04-05T20:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_threes_over_under,larry nance jr.,True,0.5,420,2023-04-05T20:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_threes_over_under,larry nance jr.,False,0.5,-585,2023-04-05T20:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,1fc310013687394d3bd3b33ef5603ae5,draftkings,player_blocks_over_under,larry nance jr.,False,0.5,-150,2023-04-05T20:45:01,New Orleans Pelicans,Memphis Grizzlies
+2023-04-05,23bbd84add2eea0fe47badf057da4278,draftkings,player_steals_over_under,larry nance jr.,True,0.5,-130,2023-04-04T19:51:15,New Orleans Pelicans,Sacramento Kings
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_rebounds_over_under,larry nance jr.,False,4.5,110,2023-04-07T19:45:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,caesars,player_rebounds_over_under,larry nance jr.,True,4.5,-145,2023-04-07T20:19:59,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_steals_over_under,larry nance jr.,True,0.5,-130,2023-04-07T19:45:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,caesars,player_rebounds_over_under,larry nance jr.,False,4.5,106,2023-04-07T20:19:59,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_steals_over_under,larry nance jr.,False,0.5,100,2023-04-07T19:45:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_threes_over_under,larry nance jr.,True,0.5,380,2023-04-07T19:45:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_threes_over_under,larry nance jr.,False,0.5,-520,2023-04-07T19:45:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,caesars,player_threes_over_under,larry nance jr.,True,0.5,334,2023-04-07T20:12:09,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,caesars,player_threes_over_under,larry nance jr.,False,0.5,-554,2023-04-07T20:12:09,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_rebounds_over_under,larry nance jr.,True,4.5,-140,2023-04-07T19:45:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_rebounds_over_under,larry nance jr.,False,4.5,100,2023-04-08T00:00:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_points_over_under,larry nance jr.,False,5.5,-134,2023-04-08T00:00:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_points_over_under,larry nance jr.,True,5.5,110,2023-04-08T00:00:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,fanduel,player_rebounds_over_under,larry nance jr.,True,4.5,-122,2023-04-08T00:00:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_blocks_over_under,larry nance jr.,True,0.5,125,2023-04-07T19:45:01,New Orleans Pelicans,New York Knicks
+2023-04-07,788ce132cccdaea040c95d0464808ff4,draftkings,player_blocks_over_under,larry nance jr.,False,0.5,-155,2023-04-07T19:45:01,New Orleans Pelicans,New York Knicks
+2023-04-09,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_rebounds_over_under,larry nance jr.,True,5.5,105,2023-04-12T22:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-09,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_rebounds_over_under,larry nance jr.,False,4.5,115,2023-04-12T16:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-09,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_rebounds_over_under,larry nance jr.,False,5.5,-135,2023-04-12T22:00:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-09,9a5f9c73414b7602079c4b1fb1dcb4b8,caesars,player_threes_over_under,larry nance jr.,False,0.5,-654,2023-04-12T16:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-09,9a5f9c73414b7602079c4b1fb1dcb4b8,caesars,player_rebounds_over_under,larry nance jr.,True,4.5,-160,2023-04-12T17:15:02,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-09,9a5f9c73414b7602079c4b1fb1dcb4b8,caesars,player_threes_over_under,larry nance jr.,True,0.5,376,2023-04-12T16:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-09,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_threes_over_under,larry nance jr.,False,0.5,-625,2023-04-12T16:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-09,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_steals_over_under,larry nance jr.,False,0.5,-120,2023-04-12T16:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-09,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_steals_over_under,larry nance jr.,True,0.5,-110,2023-04-12T16:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-09,9a5f9c73414b7602079c4b1fb1dcb4b8,caesars,player_rebounds_over_under,larry nance jr.,False,5.5,-137,2023-04-12T17:30:02,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-09,9a5f9c73414b7602079c4b1fb1dcb4b8,caesars,player_rebounds_over_under,larry nance jr.,False,4.5,116,2023-04-12T17:15:02,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-09,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_rebounds_over_under,larry nance jr.,True,4.5,-145,2023-04-12T16:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-09,9a5f9c73414b7602079c4b1fb1dcb4b8,caesars,player_rebounds_over_under,larry nance jr.,True,5.5,100,2023-04-12T17:30:02,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-09,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_threes_over_under,larry nance jr.,True,0.5,440,2023-04-12T16:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-09,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_rebounds_over_under,larry nance jr.,False,5.5,-142,2023-04-13T00:15:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_threes_over_under,larry nance jr.,True,0.5,440,2023-04-09T18:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_points_over_under,larry nance jr.,False,5.5,-110,2023-04-13T00:30:02,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-09,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_points_over_under,larry nance jr.,True,5.5,-110,2023-04-13T00:30:02,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-09,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_blocks_over_under,larry nance jr.,False,0.5,-150,2023-04-12T16:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-09,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,player_blocks_over_under,larry nance jr.,True,0.5,120,2023-04-12T16:45:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_threes_over_under,larry nance jr.,False,0.5,-625,2023-04-09T18:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,caesars,player_threes_over_under,larry nance jr.,False,0.5,-654,2023-04-09T18:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_blocks_over_under,larry nance jr.,True,0.5,140,2023-04-09T18:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_blocks_over_under,larry nance jr.,False,0.5,-175,2023-04-09T18:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_rebounds_over_under,larry nance jr.,True,5.5,100,2023-04-09T18:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_rebounds_over_under,larry nance jr.,False,5.5,-130,2023-04-09T18:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,caesars,player_rebounds_over_under,larry nance jr.,True,5.5,-103,2023-04-09T18:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,caesars,player_rebounds_over_under,larry nance jr.,False,5.5,-133,2023-04-09T18:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_steals_over_under,larry nance jr.,True,0.5,-150,2023-04-09T18:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,draftkings,player_steals_over_under,larry nance jr.,False,0.5,120,2023-04-09T18:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-04-09,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,player_rebounds_over_under,larry nance jr.,True,5.5,116,2023-04-13T00:15:01,New Orleans Pelicans,Oklahoma City Thunder
+2023-04-09,9231de3e6d7b227f12f61879496e73ed,caesars,player_threes_over_under,larry nance jr.,True,0.5,376,2023-04-09T18:15:01,Minnesota Timberwolves,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_assists_over_under,larry nance jr.,True,0.5,1000,2023-10-26T02:30:11,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_steals_over_under,larry nance jr.,False,1.5,-10000,2023-10-26T02:16:10,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,larry nance jr.,False,4.5,-115,2023-10-26T00:45:04,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,larry nance jr.,False,3.5,135,2023-10-26T01:50:43,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,larry nance jr.,False,2.5,-800,2023-10-26T02:25:15,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,larry nance jr.,False,1.5,140,2023-10-26T01:40:04,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,larry nance jr.,True,5.5,-125,2023-10-26T00:35:04,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,larry nance jr.,True,4.5,-115,2023-10-26T00:45:04,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,larry nance jr.,True,3.5,-180,2023-10-26T01:50:43,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,larry nance jr.,True,2.5,450,2023-10-26T02:25:15,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,larry nance jr.,True,1.5,-190,2023-10-26T01:40:04,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,larry nance jr.,False,5.5,-146,2023-10-26T00:20:06,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,larry nance jr.,False,4.5,-142,2023-10-26T00:40:31,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,larry nance jr.,False,3.5,-172,2023-10-26T02:00:40,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,larry nance jr.,False,2.5,-1400,2023-10-26T02:30:11,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,larry nance jr.,True,5.5,114,2023-10-26T00:20:06,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,larry nance jr.,True,4.5,112,2023-10-26T00:40:31,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,larry nance jr.,True,3.5,134,2023-10-26T02:00:40,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_points_over_under,larry nance jr.,True,2.5,320,2023-10-26T02:26:11,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_blocks_over_under,larry nance jr.,False,0.5,-8000,2023-10-26T02:05:38,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_blocks_over_under,larry nance jr.,True,0.5,1100,2023-10-26T02:05:38,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_blocks_over_under,larry nance jr.,False,0.5,-100000,2023-10-26T02:30:11,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_assists_over_under,larry nance jr.,False,1.5,-200,2023-10-26T00:45:04,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_assists_over_under,larry nance jr.,False,0.5,-2000,2023-10-26T02:25:15,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_assists_over_under,larry nance jr.,True,1.5,150,2023-10-26T00:45:04,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_assists_over_under,larry nance jr.,True,0.5,750,2023-10-26T02:25:15,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_assists_over_under,larry nance jr.,False,1.5,-210,2023-10-26T00:50:25,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_assists_over_under,larry nance jr.,False,0.5,-50000,2023-10-26T02:30:11,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_assists_over_under,larry nance jr.,True,1.5,154,2023-10-26T00:50:25,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_points_over_under,larry nance jr.,False,5.5,-110,2023-10-26T00:35:04,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_rebounds_over_under,larry nance jr.,True,4.5,-152,2023-10-26T00:30:16,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_blocks_over_under,larry nance jr.,True,0.5,1000,2023-10-26T02:00:40,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_rebounds_over_under,larry nance jr.,True,6.5,116,2023-10-26T01:45:04,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_rebounds_over_under,larry nance jr.,True,5.5,116,2023-10-26T00:20:06,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_steals_over_under,larry nance jr.,False,0.5,-310,2023-10-26T01:30:07,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_steals_over_under,larry nance jr.,True,1.5,1200,2023-10-26T02:16:10,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_steals_over_under,larry nance jr.,True,0.5,220,2023-10-26T01:30:07,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_steals_over_under,larry nance jr.,False,1.5,-100000,2023-10-26T02:30:11,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_steals_over_under,larry nance jr.,True,1.5,1000,2023-10-26T02:15:08,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_steals_over_under,larry nance jr.,True,0.5,225,2023-10-26T01:30:13,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_rebounds_over_under,larry nance jr.,False,9.5,-180,2023-10-26T01:50:43,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_rebounds_over_under,larry nance jr.,False,8.5,-10000,2023-10-26T02:31:10,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_rebounds_over_under,larry nance jr.,False,7.5,-130,2023-10-26T01:05:18,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_rebounds_over_under,larry nance jr.,False,6.5,-145,2023-10-26T01:45:04,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_rebounds_over_under,larry nance jr.,False,5.5,-150,2023-10-26T00:21:23,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_rebounds_over_under,larry nance jr.,False,4.5,115,2023-10-26T00:30:07,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_rebounds_over_under,larry nance jr.,True,9.5,135,2023-10-26T01:50:43,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_steals_over_under,larry nance jr.,False,0.5,-320,2023-10-26T01:30:13,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_rebounds_over_under,larry nance jr.,True,7.5,100,2023-10-26T01:05:18,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_rebounds_over_under,larry nance jr.,True,7.5,100,2023-10-26T01:00:15,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_rebounds_over_under,larry nance jr.,True,8.5,1100,2023-10-26T02:31:10,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_rebounds_over_under,larry nance jr.,True,8.5,920,2023-10-26T02:30:11,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_rebounds_over_under,larry nance jr.,False,4.5,114,2023-10-26T00:30:16,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_rebounds_over_under,larry nance jr.,False,6.5,-154,2023-10-26T01:45:04,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_rebounds_over_under,larry nance jr.,False,7.5,-132,2023-10-26T01:00:15,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_rebounds_over_under,larry nance jr.,False,5.5,-154,2023-10-26T00:20:06,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,pinnacle,player_rebounds_over_under,larry nance jr.,True,5.5,118,2023-10-25T21:00:06,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,pinnacle,player_rebounds_over_under,larry nance jr.,False,5.5,-158,2023-10-25T21:00:06,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_rebounds_over_under,larry nance jr.,True,4.5,-150,2023-10-26T00:30:07,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_rebounds_over_under,larry nance jr.,True,5.5,115,2023-10-26T00:21:23,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,draftkings,player_rebounds_over_under,larry nance jr.,True,6.5,110,2023-10-26T01:45:04,Memphis Grizzlies,New Orleans Pelicans
+2023-10-25,e7aa4c6ee075887eac8a07785a9f81db,fanduel,player_rebounds_over_under,larry nance jr.,False,8.5,-3500,2023-10-26T02:30:11,Memphis Grizzlies,New Orleans Pelicans
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_rebounds_over_under,larry nance jr.,True,8.5,118,2023-10-28T23:45:26,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_rebounds_over_under,larry nance jr.,False,4.5,-114,2023-10-28T23:40:44,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_rebounds_over_under,larry nance jr.,True,5.5,-160,2023-10-29T01:10:16,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_rebounds_over_under,larry nance jr.,False,5.5,-350,2023-10-29T01:00:05,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_rebounds_over_under,larry nance jr.,False,6.5,-50000,2023-10-29T01:15:09,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_rebounds_over_under,larry nance jr.,False,7.5,110,2023-10-28T23:56:01,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_rebounds_over_under,larry nance jr.,False,8.5,-158,2023-10-28T23:45:26,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_rebounds_over_under,larry nance jr.,True,3.5,-150,2023-10-28T23:31:08,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_rebounds_over_under,larry nance jr.,True,4.5,-115,2023-10-28T23:45:23,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_rebounds_over_under,larry nance jr.,True,6.5,160,2023-10-29T01:05:14,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_rebounds_over_under,larry nance jr.,False,6.5,-220,2023-10-29T01:05:14,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_rebounds_over_under,larry nance jr.,True,8.5,115,2023-10-28T23:45:23,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_rebounds_over_under,larry nance jr.,False,3.5,115,2023-10-28T23:31:08,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_rebounds_over_under,larry nance jr.,False,4.5,-115,2023-10-28T23:45:23,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_rebounds_over_under,larry nance jr.,False,5.5,120,2023-10-29T01:10:16,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_rebounds_over_under,larry nance jr.,False,7.5,110,2023-10-28T23:55:08,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_rebounds_over_under,larry nance jr.,False,8.5,-155,2023-10-28T23:45:23,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_steals_over_under,larry nance jr.,True,0.5,1000,2023-10-29T01:15:09,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_rebounds_over_under,larry nance jr.,True,7.5,-146,2023-10-28T23:56:01,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_steals_over_under,larry nance jr.,False,0.5,-100000,2023-10-29T01:15:09,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_rebounds_over_under,larry nance jr.,True,7.5,-145,2023-10-28T23:55:08,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_rebounds_over_under,larry nance jr.,True,6.5,1000,2023-10-29T01:15:09,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_blocks_over_under,larry nance jr.,True,1.5,950,2023-10-29T01:10:16,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_rebounds_over_under,larry nance jr.,True,4.5,-114,2023-10-28T23:40:44,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_steals_over_under,larry nance jr.,True,0.5,550,2023-10-29T01:10:16,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_assists_over_under,larry nance jr.,True,0.5,1000,2023-10-29T01:15:09,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_assists_over_under,larry nance jr.,False,0.5,-100000,2023-10-29T01:15:09,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_blocks_over_under,larry nance jr.,True,0.5,880,2023-10-29T01:05:07,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_blocks_over_under,larry nance jr.,True,1.5,1000,2023-10-29T01:15:09,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_blocks_over_under,larry nance jr.,False,0.5,-3000,2023-10-29T01:05:07,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_blocks_over_under,larry nance jr.,False,1.5,-100000,2023-10-29T01:15:09,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_blocks_over_under,larry nance jr.,True,0.5,800,2023-10-29T00:45:50,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_blocks_over_under,larry nance jr.,False,0.5,-2500,2023-10-29T00:45:50,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,player_rebounds_over_under,larry nance jr.,True,5.5,240,2023-10-29T01:00:05,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_blocks_over_under,larry nance jr.,False,1.5,-3500,2023-10-29T01:10:16,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_points_over_under,larry nance jr.,True,1.5,-120,2023-10-29T00:41:00,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_points_over_under,larry nance jr.,True,2.5,110,2023-10-28T23:55:08,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_points_over_under,larry nance jr.,True,3.5,-115,2023-10-28T23:35:31,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_points_over_under,larry nance jr.,True,4.5,125,2023-10-28T23:22:02,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_points_over_under,larry nance jr.,False,0.5,-220,2023-10-29T01:10:16,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_points_over_under,larry nance jr.,False,1.5,-110,2023-10-29T00:41:00,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_points_over_under,larry nance jr.,False,2.5,-145,2023-10-28T23:55:08,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_points_over_under,larry nance jr.,False,3.5,-115,2023-10-28T23:35:31,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_points_over_under,larry nance jr.,False,4.5,-165,2023-10-28T23:22:02,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_points_over_under,larry nance jr.,True,0.5,160,2023-10-29T01:10:16,New Orleans Pelicans,New York Knicks
+2023-10-28,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,player_steals_over_under,larry nance jr.,False,0.5,-1100,2023-10-29T01:10:16,New Orleans Pelicans,New York Knicks
